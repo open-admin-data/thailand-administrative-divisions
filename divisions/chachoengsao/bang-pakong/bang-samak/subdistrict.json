@@ -1,0 +1,61 @@
+{
+  "id": "240404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางสมัคร",
+    "en": "Bang Samak",
+    "slug": "bang-samak"
+  },
+  "code": {
+    "dopa": "240404"
+  },
+  "parent": {
+    "id": "2404",
+    "level": 2,
+    "name": {
+      "th": "บางปะกง",
+      "en": "Bang Pakong",
+      "slug": "bang-pakong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2404",
+      "level": 2,
+      "name": {
+        "th": "บางปะกง",
+        "en": "Bang Pakong",
+        "slug": "bang-pakong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "24180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.575",
+    "lon": "100.936"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-samak-240404/"
+  }
+}

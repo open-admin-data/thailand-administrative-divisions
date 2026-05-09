@@ -1,0 +1,50 @@
+{
+  "id": "2002",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านบึง",
+    "en": "Ban Bueng",
+    "slug": "ban-bueng"
+  },
+  "code": {
+    "dopa": "2002"
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "th": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 115
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.330",
+    "lon": "101.072"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-bueng-2002/"
+  }
+}

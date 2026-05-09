@@ -1,0 +1,61 @@
+{
+  "id": "110208",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองนิยมยาตรา",
+    "en": "Khlong Niyom Yattra",
+    "slug": "khlong-niyom-yattra"
+  },
+  "code": {
+    "dopa": "110208"
+  },
+  "parent": {
+    "id": "1102",
+    "level": 2,
+    "name": {
+      "th": "บางบ่อ",
+      "en": "Bang Bo",
+      "slug": "bang-bo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "th": "บางบ่อ",
+        "en": "Bang Bo",
+        "slug": "bang-bo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "10560"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.624",
+    "lon": "100.935"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-niyom-yattra-110208/"
+  }
+}

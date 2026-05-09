@@ -1,0 +1,43 @@
+# บริบูรณ์ (Boribun)
+
+[Home](../../../../) > [Khon Kaen](../../) > [Si Chomphu](../) > **Boribun**
+
+บริบูรณ์ (Boribun) is a subdistrict in สีชมพู (Si Chomphu), ขอนแก่น (Khon Kaen), Thailand.
+
+## Overview / ภาพรวม
+
+| รายการ / Item | ข้อมูล / Details |
+|---------------|-----------------|
+| หมู่บ้าน / Villages | 12 |
+| รหัสไปรษณีย์ / Zip Code | 40220 |
+| DOPA Code | 400608 |
+| พิกัด / Coordinates | 16.855, 102.092 |
+| อำเภอ / District | สีชมพู (Si Chomphu) |
+| จังหวัด / Province | ขอนแก่น (Khon Kaen) |
+
+## หมู่บ้าน / Villages
+
+| หมู่ที่ | ชื่อหมู่บ้าน (Thai) | Village Name (English) | DOPA Code |
+|---------|---------------------|------------------------|-----------|
+| 1 | บ้านบริบูรณ์ | Ban Boribun | 40060801 |
+| 2 | บ้านท่าช้างน้อย | Ban Tha Chang Noi | 40060802 |
+| 3 | บ้านพงษ์ | Ban Phong | 40060803 |
+| 4 | บ้านผาน้ำเที่ยง | Ban Pha Nam Thiang | 40060804 |
+| 5 | บ้านผาขาม | Ban Pha Kham | 40060805 |
+| 6 | บ้านโนนประวัติ | Ban Non Prawat | 40060806 |
+| 7 | บ้านโนนสวัสดิ์ | Ban Non Sawat | 40060807 |
+| 8 | บ้านผาสวรรค์ | Ban Pha Sawan | 40060808 |
+| 9 | บ้านเทพชมพู | Ban Thep Chomphu | 40060809 |
+| 10 | บ้านเทพประทาน | Ban Thep Prathan | 40060810 |
+| 11 | บ้านผาสุข | Ban Pha Suk | 40060811 |
+| 12 | บ้านอุดมสุข | Ban Udom Suk | 40060812 |
+
+## Data Files / ไฟล์ข้อมูล
+
+- [subdistrict.json](subdistrict.json) — Subdistrict metadata
+- [villages.json](villages.json) — All villages in Boribun (JSON)
+- [villages.csv](villages.csv) — CSV format
+
+---
+
+← Back to [สีชมพู (Si Chomphu)](../)

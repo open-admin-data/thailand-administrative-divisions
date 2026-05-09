@@ -1,0 +1,61 @@
+{
+  "id": "560704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าแฝก",
+    "en": "Pa Faek",
+    "slug": "pa-faek"
+  },
+  "code": {
+    "dopa": "560704"
+  },
+  "parent": {
+    "id": "5607",
+    "level": 2,
+    "name": {
+      "th": "แม่ใจ",
+      "en": "Mae Chai",
+      "slug": "mae-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5607",
+      "level": 2,
+      "name": {
+        "th": "แม่ใจ",
+        "en": "Mae Chai",
+        "slug": "mae-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "56130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.426",
+    "lon": "99.763"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-faek-560704/"
+  }
+}

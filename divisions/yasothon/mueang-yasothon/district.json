@@ -1,0 +1,50 @@
+{
+  "id": "3501",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองยโสธร",
+    "en": "Mueang Yasothon",
+    "slug": "mueang-yasothon"
+  },
+  "code": {
+    "dopa": "3501"
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "th": "ยโสธร",
+      "en": "Yasothon",
+      "slug": "yasothon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 18,
+    "villages": 213
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.799",
+    "lon": "104.148"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-yasothon-3501/"
+  }
+}

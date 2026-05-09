@@ -1,0 +1,61 @@
+{
+  "id": "960203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พร่อน",
+    "en": "Phron",
+    "slug": "phron"
+  },
+  "code": {
+    "dopa": "960203"
+  },
+  "parent": {
+    "id": "9602",
+    "level": 2,
+    "name": {
+      "th": "ตากใบ",
+      "en": "Tak Bai",
+      "slug": "tak-bai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9602",
+      "level": 2,
+      "name": {
+        "th": "ตากใบ",
+        "en": "Tak Bai",
+        "slug": "tak-bai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "96110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.202",
+    "lon": "102.014"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phron-960203/"
+  }
+}

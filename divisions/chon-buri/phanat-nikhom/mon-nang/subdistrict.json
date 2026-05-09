@@ -1,0 +1,61 @@
+{
+  "id": "200606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หมอนนาง",
+    "en": "Mon Nang",
+    "slug": "mon-nang"
+  },
+  "code": {
+    "dopa": "200606"
+  },
+  "parent": {
+    "id": "2006",
+    "level": 2,
+    "name": {
+      "th": "พนัสนิคม",
+      "en": "Phanat Nikhom",
+      "slug": "phanat-nikhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2006",
+      "level": 2,
+      "name": {
+        "th": "พนัสนิคม",
+        "en": "Phanat Nikhom",
+        "slug": "phanat-nikhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "20140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.346",
+    "lon": "101.257"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mon-nang-200606/"
+  }
+}

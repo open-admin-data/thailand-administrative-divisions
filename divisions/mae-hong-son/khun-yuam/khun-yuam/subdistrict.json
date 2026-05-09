@@ -1,0 +1,61 @@
+{
+  "id": "580201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขุนยวม",
+    "en": "Khun Yuam",
+    "slug": "khun-yuam"
+  },
+  "code": {
+    "dopa": "580201"
+  },
+  "parent": {
+    "id": "5802",
+    "level": 2,
+    "name": {
+      "th": "ขุนยวม",
+      "en": "Khun Yuam",
+      "slug": "khun-yuam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    },
+    {
+      "id": "5802",
+      "level": 2,
+      "name": {
+        "th": "ขุนยวม",
+        "en": "Khun Yuam",
+        "slug": "khun-yuam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "58140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.992",
+    "lon": "97.801"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khun-yuam-580201/"
+  }
+}

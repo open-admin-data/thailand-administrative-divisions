@@ -1,0 +1,50 @@
+{
+  "id": "5211",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สบปราบ",
+    "en": "Sop Prap",
+    "slug": "sop-prap"
+  },
+  "code": {
+    "dopa": "5211"
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "th": "ลำปาง",
+      "en": "Lampang",
+      "slug": "lampang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 46
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.900",
+    "lon": "99.421"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sop-prap-5211/"
+  }
+}

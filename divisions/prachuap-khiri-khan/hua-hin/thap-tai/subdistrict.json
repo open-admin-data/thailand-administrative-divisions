@@ -1,0 +1,61 @@
+{
+  "id": "770705",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทับใต้",
+    "en": "Thap Tai",
+    "slug": "thap-tai"
+  },
+  "code": {
+    "dopa": "770705"
+  },
+  "parent": {
+    "id": "7707",
+    "level": 2,
+    "name": {
+      "th": "หัวหิน",
+      "en": "Hua Hin",
+      "slug": "hua-hin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    },
+    {
+      "id": "7707",
+      "level": 2,
+      "name": {
+        "th": "หัวหิน",
+        "en": "Hua Hin",
+        "slug": "hua-hin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "77110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.516",
+    "lon": "99.863"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thap-tai-770705/"
+  }
+}

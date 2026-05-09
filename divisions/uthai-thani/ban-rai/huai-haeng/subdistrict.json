@@ -1,0 +1,61 @@
+{
+  "id": "610603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยแห้ง",
+    "en": "Huai Haeng",
+    "slug": "huai-haeng"
+  },
+  "code": {
+    "dopa": "610603"
+  },
+  "parent": {
+    "id": "6106",
+    "level": 2,
+    "name": {
+      "th": "บ้านไร่",
+      "en": "Ban Rai",
+      "slug": "ban-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6106",
+      "level": 2,
+      "name": {
+        "th": "บ้านไร่",
+        "en": "Ban Rai",
+        "slug": "ban-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "61140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.175",
+    "lon": "99.556"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-haeng-610603/"
+  }
+}

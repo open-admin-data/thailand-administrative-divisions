@@ -1,0 +1,61 @@
+{
+  "id": "920804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกสะบ้า",
+    "en": "Khok Saba",
+    "slug": "khok-saba"
+  },
+  "code": {
+    "dopa": "920804"
+  },
+  "parent": {
+    "id": "9208",
+    "level": 2,
+    "name": {
+      "th": "นาโยง",
+      "en": "Na Yong",
+      "slug": "na-yong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9208",
+      "level": 2,
+      "name": {
+        "th": "นาโยง",
+        "en": "Na Yong",
+        "slug": "na-yong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "92170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.490",
+    "lon": "99.714"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-saba-920804/"
+  }
+}

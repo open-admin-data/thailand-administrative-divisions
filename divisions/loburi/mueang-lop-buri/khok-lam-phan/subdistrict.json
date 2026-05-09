@@ -1,0 +1,61 @@
+{
+  "id": "160108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกลำพาน",
+    "en": "Khok Lam Phan",
+    "slug": "khok-lam-phan"
+  },
+  "code": {
+    "dopa": "160108"
+  },
+  "parent": {
+    "id": "1601",
+    "level": 2,
+    "name": {
+      "th": "เมืองลพบุรี",
+      "en": "Mueang Lop Buri",
+      "slug": "mueang-lop-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "th": "เมืองลพบุรี",
+        "en": "Mueang Lop Buri",
+        "slug": "mueang-lop-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "15000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.740",
+    "lon": "100.640"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-lam-phan-160108/"
+  }
+}

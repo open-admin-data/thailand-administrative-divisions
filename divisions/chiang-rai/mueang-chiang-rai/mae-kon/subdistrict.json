@@ -1,0 +1,61 @@
+{
+  "id": "570111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่กรณ์",
+    "en": "Mae Kon",
+    "slug": "mae-kon"
+  },
+  "code": {
+    "dopa": "570111"
+  },
+  "parent": {
+    "id": "5701",
+    "level": 2,
+    "name": {
+      "th": "เมืองเชียงราย",
+      "en": "Mueang Chiang Rai",
+      "slug": "mueang-chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5701",
+      "level": 2,
+      "name": {
+        "th": "เมืองเชียงราย",
+        "en": "Mueang Chiang Rai",
+        "slug": "mueang-chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "57000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.862",
+    "lon": "99.698"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-kon-570111/"
+  }
+}

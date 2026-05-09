@@ -1,0 +1,61 @@
+{
+  "id": "301310",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนมัน",
+    "en": "Don Man",
+    "slug": "don-man"
+  },
+  "code": {
+    "dopa": "301310"
+  },
+  "parent": {
+    "id": "3013",
+    "level": 2,
+    "name": {
+      "th": "ประทาย",
+      "en": "Prathai",
+      "slug": "prathai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3013",
+      "level": 2,
+      "name": {
+        "th": "ประทาย",
+        "en": "Prathai",
+        "slug": "prathai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "30180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.491",
+    "lon": "102.822"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-man-301310/"
+  }
+}

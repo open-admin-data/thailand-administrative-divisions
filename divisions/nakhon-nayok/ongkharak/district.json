@@ -1,0 +1,50 @@
+{
+  "id": "2604",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "องครักษ์",
+    "en": "Ongkharak",
+    "slug": "ongkharak"
+  },
+  "code": {
+    "dopa": "2604"
+  },
+  "parent": {
+    "id": "26",
+    "level": 1,
+    "name": {
+      "th": "นครนายก",
+      "en": "Nakhon Nayok",
+      "slug": "nakhon-nayok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 116
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.990",
+    "lon": "100.937"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ongkharak-2604/"
+  }
+}

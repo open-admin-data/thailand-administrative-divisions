@@ -1,0 +1,61 @@
+{
+  "id": "700102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เจดีย์หัก",
+    "en": "Chedi Hak",
+    "slug": "chedi-hak"
+  },
+  "code": {
+    "dopa": "700102"
+  },
+  "parent": {
+    "id": "7001",
+    "level": 2,
+    "name": {
+      "th": "เมืองราชบุรี",
+      "en": "Mueang Ratchaburi",
+      "slug": "mueang-ratchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7001",
+      "level": 2,
+      "name": {
+        "th": "เมืองราชบุรี",
+        "en": "Mueang Ratchaburi",
+        "slug": "mueang-ratchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "70000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.539",
+    "lon": "99.781"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chedi-hak-700102/"
+  }
+}

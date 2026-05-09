@@ -1,0 +1,61 @@
+{
+  "id": "430802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ผาตั้ง",
+    "en": "Pha Tang",
+    "slug": "pha-tang"
+  },
+  "code": {
+    "dopa": "430802"
+  },
+  "parent": {
+    "id": "4308",
+    "level": 2,
+    "name": {
+      "th": "สังคม",
+      "en": "Sangkhom",
+      "slug": "sangkhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4308",
+      "level": 2,
+      "name": {
+        "th": "สังคม",
+        "en": "Sangkhom",
+        "slug": "sangkhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "43160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.996",
+    "lon": "102.328"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pha-tang-430802/"
+  }
+}

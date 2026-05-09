@@ -1,0 +1,61 @@
+{
+  "id": "700302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าหวาย",
+    "en": "Pa Wai",
+    "slug": "pa-wai"
+  },
+  "code": {
+    "dopa": "700302"
+  },
+  "parent": {
+    "id": "7003",
+    "level": 2,
+    "name": {
+      "th": "สวนผึ้ง",
+      "en": "Suan Phueng",
+      "slug": "suan-phueng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7003",
+      "level": 2,
+      "name": {
+        "th": "สวนผึ้ง",
+        "en": "Suan Phueng",
+        "slug": "suan-phueng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "70180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.578",
+    "lon": "99.423"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-wai-700302/"
+  }
+}

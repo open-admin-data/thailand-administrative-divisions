@@ -1,0 +1,61 @@
+{
+  "id": "640606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาขุนไกร",
+    "en": "Na Khun Krai",
+    "slug": "na-khun-krai"
+  },
+  "code": {
+    "dopa": "640606"
+  },
+  "parent": {
+    "id": "6406",
+    "level": 2,
+    "name": {
+      "th": "ศรีสำโรง",
+      "en": "Si Samrong",
+      "slug": "si-samrong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6406",
+      "level": 2,
+      "name": {
+        "th": "ศรีสำโรง",
+        "en": "Si Samrong",
+        "slug": "si-samrong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "64120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.196",
+    "lon": "99.582"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-khun-krai-640606/"
+  }
+}

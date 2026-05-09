@@ -1,0 +1,61 @@
+{
+  "id": "760106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านกุ่ม",
+    "en": "Ban Kum",
+    "slug": "ban-kum"
+  },
+  "code": {
+    "dopa": "760106"
+  },
+  "parent": {
+    "id": "7601",
+    "level": 2,
+    "name": {
+      "th": "เมืองเพชรบุรี",
+      "en": "Mueang Phetchaburi",
+      "slug": "mueang-phetchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7601",
+      "level": 2,
+      "name": {
+        "th": "เมืองเพชรบุรี",
+        "en": "Mueang Phetchaburi",
+        "slug": "mueang-phetchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "76000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.156",
+    "lon": "99.941"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-kum-760106/"
+  }
+}

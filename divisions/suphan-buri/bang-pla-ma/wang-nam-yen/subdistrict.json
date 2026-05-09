@@ -1,0 +1,61 @@
+{
+  "id": "720412",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังน้ำเย็น",
+    "en": "Wang Nam Yen",
+    "slug": "wang-nam-yen"
+  },
+  "code": {
+    "dopa": "720412"
+  },
+  "parent": {
+    "id": "7204",
+    "level": 2,
+    "name": {
+      "th": "บางปลาม้า",
+      "en": "Bang Pla Ma",
+      "slug": "bang-pla-ma"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7204",
+      "level": 2,
+      "name": {
+        "th": "บางปลาม้า",
+        "en": "Bang Pla Ma",
+        "slug": "bang-pla-ma"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "72150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.377",
+    "lon": "100.015"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-nam-yen-720412/"
+  }
+}

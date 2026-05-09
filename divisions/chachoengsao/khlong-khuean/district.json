@@ -1,0 +1,50 @@
+{
+  "id": "2411",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "คลองเขื่อน",
+    "en": "Khlong Khuean",
+    "slug": "khlong-khuean"
+  },
+  "code": {
+    "dopa": "2411"
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "th": "ฉะเชิงเทรา",
+      "en": "Chachoengsao",
+      "slug": "chachoengsao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 32
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.721",
+    "lon": "101.150"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khlong-khuean-2411/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "940915",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มะนังยง",
+    "en": "Manang Yong",
+    "slug": "manang-yong"
+  },
+  "code": {
+    "dopa": "940915"
+  },
+  "parent": {
+    "id": "9409",
+    "level": 2,
+    "name": {
+      "th": "ยะหริ่ง",
+      "en": "Yaring",
+      "slug": "yaring"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9409",
+      "level": 2,
+      "name": {
+        "th": "ยะหริ่ง",
+        "en": "Yaring",
+        "slug": "yaring"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "94150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.813",
+    "lon": "101.402"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/manang-yong-940915/"
+  }
+}

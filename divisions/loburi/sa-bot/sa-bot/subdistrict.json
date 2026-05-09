@@ -1,0 +1,61 @@
+{
+  "id": "160801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สระโบสถ์",
+    "en": "Sa Bot",
+    "slug": "sa-bot"
+  },
+  "code": {
+    "dopa": "160801"
+  },
+  "parent": {
+    "id": "1608",
+    "level": 2,
+    "name": {
+      "th": "สระโบสถ์",
+      "en": "Sa Bot",
+      "slug": "sa-bot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1608",
+      "level": 2,
+      "name": {
+        "th": "สระโบสถ์",
+        "en": "Sa Bot",
+        "slug": "sa-bot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "15240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.224",
+    "lon": "100.846"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sa-bot-160801/"
+  }
+}

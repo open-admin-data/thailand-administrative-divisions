@@ -1,0 +1,61 @@
+{
+  "id": "310906",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านเป้า",
+    "en": "Ban Pao",
+    "slug": "ban-pao"
+  },
+  "code": {
+    "dopa": "310906"
+  },
+  "parent": {
+    "id": "3109",
+    "level": 2,
+    "name": {
+      "th": "พุทไธสง",
+      "en": "Phutthaisong",
+      "slug": "phutthaisong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3109",
+      "level": 2,
+      "name": {
+        "th": "พุทไธสง",
+        "en": "Phutthaisong",
+        "slug": "phutthaisong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "31120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.627",
+    "lon": "102.892"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-pao-310906/"
+  }
+}

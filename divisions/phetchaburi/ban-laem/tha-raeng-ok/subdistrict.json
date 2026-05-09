@@ -1,0 +1,61 @@
+{
+  "id": "760710",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าแร้งออก",
+    "en": "Tha Raeng Ok",
+    "slug": "tha-raeng-ok"
+  },
+  "code": {
+    "dopa": "760710"
+  },
+  "parent": {
+    "id": "7607",
+    "level": 2,
+    "name": {
+      "th": "บ้านแหลม",
+      "en": "Ban Laem",
+      "slug": "ban-laem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7607",
+      "level": 2,
+      "name": {
+        "th": "บ้านแหลม",
+        "en": "Ban Laem",
+        "slug": "ban-laem"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "76110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.155",
+    "lon": "99.976"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-raeng-ok-760710/"
+  }
+}

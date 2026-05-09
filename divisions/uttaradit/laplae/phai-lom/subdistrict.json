@@ -1,0 +1,61 @@
+{
+  "id": "530806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไผ่ล้อม",
+    "en": "Phai Lom",
+    "slug": "phai-lom"
+  },
+  "code": {
+    "dopa": "530806"
+  },
+  "parent": {
+    "id": "5308",
+    "level": 2,
+    "name": {
+      "th": "ลับแล",
+      "en": "Laplae",
+      "slug": "laplae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5308",
+      "level": 2,
+      "name": {
+        "th": "ลับแล",
+        "en": "Laplae",
+        "slug": "laplae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "53210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.529",
+    "lon": "100.035"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phai-lom-530806/"
+  }
+}

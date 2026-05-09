@@ -1,0 +1,61 @@
+{
+  "id": "640710",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าทอง",
+    "en": "Tha Thong",
+    "slug": "tha-thong"
+  },
+  "code": {
+    "dopa": "640710"
+  },
+  "parent": {
+    "id": "6407",
+    "level": 2,
+    "name": {
+      "th": "สวรรคโลก",
+      "en": "Mueang Sawankhalok",
+      "slug": "mueang-sawankhalok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6407",
+      "level": 2,
+      "name": {
+        "th": "สวรรคโลก",
+        "en": "Mueang Sawankhalok",
+        "slug": "mueang-sawankhalok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "64110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.212",
+    "lon": "99.850"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-thong-640710/"
+  }
+}

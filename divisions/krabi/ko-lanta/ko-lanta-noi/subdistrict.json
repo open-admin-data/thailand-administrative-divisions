@@ -1,0 +1,61 @@
+{
+  "id": "810302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะลันตาน้อย",
+    "en": "Ko Lanta Noi",
+    "slug": "ko-lanta-noi"
+  },
+  "code": {
+    "dopa": "810302"
+  },
+  "parent": {
+    "id": "8103",
+    "level": 2,
+    "name": {
+      "th": "เกาะลันตา",
+      "en": "Ko Lanta",
+      "slug": "ko-lanta"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "th": "เกาะลันตา",
+        "en": "Ko Lanta",
+        "slug": "ko-lanta"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "81150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.640",
+    "lon": "99.084"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-lanta-noi-810302/"
+  }
+}

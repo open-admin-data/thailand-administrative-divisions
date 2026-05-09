@@ -1,0 +1,38 @@
+{
+  "id": "10",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "กรุงเทพมหานคร",
+    "en": "Bangkok",
+    "slug": "bangkok"
+  },
+  "code": {
+    "dopa": "10",
+    "iso": "TH-10"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 50,
+    "subdistricts": 154,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true,
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central"
+    }
+  },
+  "geo": {
+    "lat": "13.753",
+    "lon": "100.500"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/bangkok-10/"
+  }
+}

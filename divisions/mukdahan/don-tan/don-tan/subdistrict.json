@@ -1,0 +1,61 @@
+{
+  "id": "490301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนตาล",
+    "en": "Don Tan",
+    "slug": "don-tan"
+  },
+  "code": {
+    "dopa": "490301"
+  },
+  "parent": {
+    "id": "4903",
+    "level": 2,
+    "name": {
+      "th": "ดอนตาล",
+      "en": "Don Tan",
+      "slug": "don-tan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4903",
+      "level": 2,
+      "name": {
+        "th": "ดอนตาล",
+        "en": "Don Tan",
+        "slug": "don-tan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "49120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.299",
+    "lon": "104.905"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-tan-490301/"
+  }
+}

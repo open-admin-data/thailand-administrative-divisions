@@ -1,0 +1,61 @@
+{
+  "id": "940506",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลางา",
+    "en": "La-nga",
+    "slug": "la-nga"
+  },
+  "code": {
+    "dopa": "940506"
+  },
+  "parent": {
+    "id": "9405",
+    "level": 2,
+    "name": {
+      "th": "มายอ",
+      "en": "Mayo",
+      "slug": "mayo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9405",
+      "level": 2,
+      "name": {
+        "th": "มายอ",
+        "en": "Mayo",
+        "slug": "mayo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "94190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.735",
+    "lon": "101.478"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/la-nga-940506/"
+  }
+}

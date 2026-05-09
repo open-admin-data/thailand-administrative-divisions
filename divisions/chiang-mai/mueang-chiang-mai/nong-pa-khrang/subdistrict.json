@@ -1,0 +1,61 @@
+{
+  "id": "500113",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองป่าครั่ง",
+    "en": "Nong Pa Khrang",
+    "slug": "nong-pa-khrang"
+  },
+  "code": {
+    "dopa": "500113"
+  },
+  "parent": {
+    "id": "5001",
+    "level": 2,
+    "name": {
+      "th": "เมืองเชียงใหม่",
+      "en": "Mueang Chiang Mai",
+      "slug": "mueang-chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5001",
+      "level": 2,
+      "name": {
+        "th": "เมืองเชียงใหม่",
+        "en": "Mueang Chiang Mai",
+        "slug": "mueang-chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "50000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.788",
+    "lon": "99.034"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-pa-khrang-500113/"
+  }
+}

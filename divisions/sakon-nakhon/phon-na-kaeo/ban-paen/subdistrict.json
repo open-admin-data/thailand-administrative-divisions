@@ -1,0 +1,61 @@
+{
+  "id": "471704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านแป้น",
+    "en": "Ban Paen",
+    "slug": "ban-paen"
+  },
+  "code": {
+    "dopa": "471704"
+  },
+  "parent": {
+    "id": "4717",
+    "level": 2,
+    "name": {
+      "th": "โพนนาแก้ว",
+      "en": "Phon Na Kaeo",
+      "slug": "phon-na-kaeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4717",
+      "level": 2,
+      "name": {
+        "th": "โพนนาแก้ว",
+        "en": "Phon Na Kaeo",
+        "slug": "phon-na-kaeo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "47230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.196",
+    "lon": "104.234"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-paen-471704/"
+  }
+}

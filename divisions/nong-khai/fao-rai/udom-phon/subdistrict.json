@@ -1,0 +1,61 @@
+{
+  "id": "431505",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อุดมพร",
+    "en": "Udom Phon",
+    "slug": "udom-phon"
+  },
+  "code": {
+    "dopa": "431505"
+  },
+  "parent": {
+    "id": "4315",
+    "level": 2,
+    "name": {
+      "th": "เฝ้าไร่",
+      "en": "Fao Rai",
+      "slug": "fao-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4315",
+      "level": 2,
+      "name": {
+        "th": "เฝ้าไร่",
+        "en": "Fao Rai",
+        "slug": "fao-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "43120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.891",
+    "lon": "103.357"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/udom-phon-431505/"
+  }
+}

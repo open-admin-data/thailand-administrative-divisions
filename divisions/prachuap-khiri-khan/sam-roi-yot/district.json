@@ -1,0 +1,50 @@
+{
+  "id": "7708",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สามร้อยยอด",
+    "en": "Sam Roi Yot",
+    "slug": "sam-roi-yot"
+  },
+  "code": {
+    "dopa": "7708"
+  },
+  "parent": {
+    "id": "77",
+    "level": 1,
+    "name": {
+      "th": "ประจวบคีรีขันธ์",
+      "en": "Prachuap Khiri Khan",
+      "slug": "prachuap-khiri-khan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 41
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.266",
+    "lon": "99.946"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sam-roi-yot-7708/"
+  }
+}

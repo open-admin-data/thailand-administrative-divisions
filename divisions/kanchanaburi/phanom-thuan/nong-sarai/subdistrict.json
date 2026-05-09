@@ -1,0 +1,61 @@
+{
+  "id": "710911",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองสาหร่าย",
+    "en": "Nong Sarai",
+    "slug": "nong-sarai"
+  },
+  "code": {
+    "dopa": "710911"
+  },
+  "parent": {
+    "id": "7109",
+    "level": 2,
+    "name": {
+      "th": "พนมทวน",
+      "en": "Phanom Thuan",
+      "slug": "phanom-thuan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7109",
+      "level": 2,
+      "name": {
+        "th": "พนมทวน",
+        "en": "Phanom Thuan",
+        "slug": "phanom-thuan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "71140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.067",
+    "lon": "99.728"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-sarai-710911/"
+  }
+}

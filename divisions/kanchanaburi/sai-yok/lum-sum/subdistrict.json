@@ -1,0 +1,61 @@
+{
+  "id": "710201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลุ่มสุ่ม",
+    "en": "Lum Sum",
+    "slug": "lum-sum"
+  },
+  "code": {
+    "dopa": "710201"
+  },
+  "parent": {
+    "id": "7102",
+    "level": 2,
+    "name": {
+      "th": "ไทรโยค",
+      "en": "Sai Yok",
+      "slug": "sai-yok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "th": "ไทรโยค",
+        "en": "Sai Yok",
+        "slug": "sai-yok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "71150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.104",
+    "lon": "99.133"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lum-sum-710201/"
+  }
+}

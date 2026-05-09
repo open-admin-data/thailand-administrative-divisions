@@ -1,0 +1,61 @@
+{
+  "id": "710303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองรี",
+    "en": "Nong Ri",
+    "slug": "nong-ri"
+  },
+  "code": {
+    "dopa": "710303"
+  },
+  "parent": {
+    "id": "7103",
+    "level": 2,
+    "name": {
+      "th": "บ่อพลอย",
+      "en": "Bo Phloi",
+      "slug": "bo-phloi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "th": "บ่อพลอย",
+        "en": "Bo Phloi",
+        "slug": "bo-phloi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "71220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.540",
+    "lon": "99.356"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-ri-710303/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "501911",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สันทราย",
+    "en": "San Sai",
+    "slug": "san-sai"
+  },
+  "code": {
+    "dopa": "501911"
+  },
+  "parent": {
+    "id": "5019",
+    "level": 2,
+    "name": {
+      "th": "สารภี",
+      "en": "Saraphi",
+      "slug": "saraphi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5019",
+      "level": 2,
+      "name": {
+        "th": "สารภี",
+        "en": "Saraphi",
+        "slug": "saraphi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "50140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.640",
+    "lon": "98.972"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/san-sai-501911/"
+  }
+}

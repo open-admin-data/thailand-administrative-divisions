@@ -1,0 +1,61 @@
+{
+  "id": "321104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตรำดม",
+    "en": "Tram Dom",
+    "slug": "tram-dom"
+  },
+  "code": {
+    "dopa": "321104"
+  },
+  "parent": {
+    "id": "3211",
+    "level": 2,
+    "name": {
+      "th": "ลำดวน",
+      "en": "Lamduan",
+      "slug": "lamduan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3211",
+      "level": 2,
+      "name": {
+        "th": "ลำดวน",
+        "en": "Lamduan",
+        "slug": "lamduan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "32220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.763",
+    "lon": "103.680"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tram-dom-321104/"
+  }
+}

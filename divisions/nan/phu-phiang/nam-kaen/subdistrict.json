@@ -1,0 +1,61 @@
+{
+  "id": "551403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำแก่น",
+    "en": "Nam Kaen",
+    "slug": "nam-kaen"
+  },
+  "code": {
+    "dopa": "551403"
+  },
+  "parent": {
+    "id": "5514",
+    "level": 2,
+    "name": {
+      "th": "ภูเพียง",
+      "en": "Phu Phiang",
+      "slug": "phu-phiang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5514",
+      "level": 2,
+      "name": {
+        "th": "ภูเพียง",
+        "en": "Phu Phiang",
+        "slug": "phu-phiang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "55000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.698",
+    "lon": "100.880"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-kaen-551403/"
+  }
+}

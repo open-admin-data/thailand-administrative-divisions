@@ -1,0 +1,50 @@
+{
+  "id": "7205",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ศรีประจันต์",
+    "en": "Si Prachan",
+    "slug": "si-prachan"
+  },
+  "code": {
+    "dopa": "7205"
+  },
+  "parent": {
+    "id": "72",
+    "level": 1,
+    "name": {
+      "th": "สุพรรณบุรี",
+      "en": "Suphan Buri",
+      "slug": "suphan-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 64
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.661",
+    "lon": "100.095"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/si-prachan-7205/"
+  }
+}

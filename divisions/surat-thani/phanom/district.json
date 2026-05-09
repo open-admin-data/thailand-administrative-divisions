@@ -1,0 +1,50 @@
+{
+  "id": "8410",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พนม",
+    "en": "Phanom",
+    "slug": "phanom"
+  },
+  "code": {
+    "dopa": "8410"
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "th": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 56
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.878",
+    "lon": "98.806"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phanom-8410/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "343102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพนเมือง",
+    "en": "Phon Mueang",
+    "slug": "phon-mueang"
+  },
+  "code": {
+    "dopa": "343102"
+  },
+  "parent": {
+    "id": "3431",
+    "level": 2,
+    "name": {
+      "th": "เหล่าเสือโก้ก",
+      "en": "Lao Suea Kok",
+      "slug": "lao-suea-kok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3431",
+      "level": 2,
+      "name": {
+        "th": "เหล่าเสือโก้ก",
+        "en": "Lao Suea Kok",
+        "slug": "lao-suea-kok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "34000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.492",
+    "lon": "104.891"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phon-mueang-343102/"
+  }
+}

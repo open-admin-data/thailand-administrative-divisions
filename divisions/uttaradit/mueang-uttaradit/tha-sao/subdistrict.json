@@ -1,0 +1,61 @@
+{
+  "id": "530102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าเสา",
+    "en": "Tha Sao",
+    "slug": "tha-sao"
+  },
+  "code": {
+    "dopa": "530102"
+  },
+  "parent": {
+    "id": "5301",
+    "level": 2,
+    "name": {
+      "th": "เมืองอุตรดิตถ์",
+      "en": "Mueang Uttaradit",
+      "slug": "mueang-uttaradit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "th": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "53000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.652",
+    "lon": "100.086"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-sao-530102/"
+  }
+}

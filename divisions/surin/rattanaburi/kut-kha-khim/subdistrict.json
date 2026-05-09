@@ -1,0 +1,61 @@
+{
+  "id": "320714",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุดขาคีม",
+    "en": "Kut Kha Khim",
+    "slug": "kut-kha-khim"
+  },
+  "code": {
+    "dopa": "320714"
+  },
+  "parent": {
+    "id": "3207",
+    "level": 2,
+    "name": {
+      "th": "รัตนบุรี",
+      "en": "Rattanaburi",
+      "slug": "rattanaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "th": "รัตนบุรี",
+        "en": "Rattanaburi",
+        "slug": "rattanaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "32130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.407",
+    "lon": "103.846"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kut-kha-khim-320714/"
+  }
+}

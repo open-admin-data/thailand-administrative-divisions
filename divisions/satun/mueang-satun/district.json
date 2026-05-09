@@ -1,0 +1,50 @@
+{
+  "id": "9101",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองสตูล",
+    "en": "Mueang Satun",
+    "slug": "mueang-satun"
+  },
+  "code": {
+    "dopa": "9101"
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "th": "สตูล",
+      "en": "Satun",
+      "slug": "satun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 91
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.546",
+    "lon": "99.706"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-satun-9101/"
+  }
+}

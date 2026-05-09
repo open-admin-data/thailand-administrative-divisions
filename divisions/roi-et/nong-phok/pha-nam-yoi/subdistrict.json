@@ -1,0 +1,61 @@
+{
+  "id": "450908",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ผาน้ำย้อย",
+    "en": "Pha Nam Yoi",
+    "slug": "pha-nam-yoi"
+  },
+  "code": {
+    "dopa": "450908"
+  },
+  "parent": {
+    "id": "4509",
+    "level": 2,
+    "name": {
+      "th": "หนองพอก",
+      "en": "Nong Phok",
+      "slug": "nong-phok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4509",
+      "level": 2,
+      "name": {
+        "th": "หนองพอก",
+        "en": "Nong Phok",
+        "slug": "nong-phok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "45210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.331",
+    "lon": "104.289"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pha-nam-yoi-450908/"
+  }
+}

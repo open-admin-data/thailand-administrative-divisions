@@ -1,0 +1,50 @@
+{
+  "id": "3808",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บุ่งคล้า",
+    "en": "Bung Khla",
+    "slug": "bung-khla"
+  },
+  "code": {
+    "dopa": "3808"
+  },
+  "parent": {
+    "id": "38",
+    "level": 1,
+    "name": {
+      "th": "บึงกาฬ",
+      "en": "Buogkan",
+      "slug": "buogkan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 25
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.294",
+    "lon": "103.925"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bung-khla-3808/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "670209",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตะกุดไร",
+    "en": "Takut Rai",
+    "slug": "takut-rai"
+  },
+  "code": {
+    "dopa": "670209"
+  },
+  "parent": {
+    "id": "6702",
+    "level": 2,
+    "name": {
+      "th": "ชนแดน",
+      "en": "Chon Daen",
+      "slug": "chon-daen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6702",
+      "level": 2,
+      "name": {
+        "th": "ชนแดน",
+        "en": "Chon Daen",
+        "slug": "chon-daen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "67190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.180",
+    "lon": "100.726"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/takut-rai-670209/"
+  }
+}

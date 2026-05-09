@@ -1,0 +1,61 @@
+{
+  "id": "310303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สองชั้น",
+    "en": "Song Chan",
+    "slug": "song-chan"
+  },
+  "code": {
+    "dopa": "310303"
+  },
+  "parent": {
+    "id": "3103",
+    "level": 2,
+    "name": {
+      "th": "กระสัง",
+      "en": "Krasang",
+      "slug": "krasang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3103",
+      "level": 2,
+      "name": {
+        "th": "กระสัง",
+        "en": "Krasang",
+        "slug": "krasang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "31160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.887",
+    "lon": "103.224"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/song-chan-310303/"
+  }
+}

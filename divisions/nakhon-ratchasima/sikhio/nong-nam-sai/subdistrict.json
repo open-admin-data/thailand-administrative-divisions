@@ -1,0 +1,61 @@
+{
+  "id": "302007",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองน้ำใส",
+    "en": "Nong Nam Sai",
+    "slug": "nong-nam-sai"
+  },
+  "code": {
+    "dopa": "302007"
+  },
+  "parent": {
+    "id": "3020",
+    "level": 2,
+    "name": {
+      "th": "สีคิ้ว",
+      "en": "Sikhio",
+      "slug": "sikhio"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3020",
+      "level": 2,
+      "name": {
+        "th": "สีคิ้ว",
+        "en": "Sikhio",
+        "slug": "sikhio"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "30140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.932",
+    "lon": "101.485"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-nam-sai-302007/"
+  }
+}

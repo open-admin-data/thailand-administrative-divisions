@@ -1,0 +1,61 @@
+{
+  "id": "520305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศาลา",
+    "en": "Sala",
+    "slug": "sala"
+  },
+  "code": {
+    "dopa": "520305"
+  },
+  "parent": {
+    "id": "5203",
+    "level": 2,
+    "name": {
+      "th": "เกาะคา",
+      "en": "Ko Kha",
+      "slug": "ko-kha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5203",
+      "level": 2,
+      "name": {
+        "th": "เกาะคา",
+        "en": "Ko Kha",
+        "slug": "ko-kha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "52130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.196",
+    "lon": "99.413"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sala-520305/"
+  }
+}

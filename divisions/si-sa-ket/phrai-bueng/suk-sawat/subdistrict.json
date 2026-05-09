@@ -1,0 +1,61 @@
+{
+  "id": "330605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สุขสวัสดิ์",
+    "en": "Suk Sawat",
+    "slug": "suk-sawat"
+  },
+  "code": {
+    "dopa": "330605"
+  },
+  "parent": {
+    "id": "3306",
+    "level": 2,
+    "name": {
+      "th": "ไพรบึง",
+      "en": "Phrai Bueng",
+      "slug": "phrai-bueng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3306",
+      "level": 2,
+      "name": {
+        "th": "ไพรบึง",
+        "en": "Phrai Bueng",
+        "slug": "phrai-bueng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "33180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.856",
+    "lon": "104.359"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/suk-sawat-330605/"
+  }
+}

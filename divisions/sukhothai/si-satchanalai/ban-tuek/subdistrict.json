@@ -1,0 +1,61 @@
+{
+  "id": "640505",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านตึก",
+    "en": "Ban Tuek",
+    "slug": "ban-tuek"
+  },
+  "code": {
+    "dopa": "640505"
+  },
+  "parent": {
+    "id": "6405",
+    "level": 2,
+    "name": {
+      "th": "ศรีสัชนาลัย",
+      "en": "Si Satchanalai",
+      "slug": "si-satchanalai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6405",
+      "level": 2,
+      "name": {
+        "th": "ศรีสัชนาลัย",
+        "en": "Si Satchanalai",
+        "slug": "si-satchanalai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "64130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.649",
+    "lon": "99.881"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-tuek-640505/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "140113",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หันตรา",
+    "en": "Hantra",
+    "slug": "hantra"
+  },
+  "code": {
+    "dopa": "140113"
+  },
+  "parent": {
+    "id": "1401",
+    "level": 2,
+    "name": {
+      "th": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "13000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.371",
+    "lon": "100.600"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hantra-140113/"
+  }
+}

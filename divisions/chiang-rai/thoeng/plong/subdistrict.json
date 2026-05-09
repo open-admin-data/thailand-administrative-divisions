@@ -1,0 +1,61 @@
+{
+  "id": "570403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปล้อง",
+    "en": "Plong",
+    "slug": "plong"
+  },
+  "code": {
+    "dopa": "570403"
+  },
+  "parent": {
+    "id": "5704",
+    "level": 2,
+    "name": {
+      "th": "เทิง",
+      "en": "Thoeng",
+      "slug": "thoeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5704",
+      "level": 2,
+      "name": {
+        "th": "เทิง",
+        "en": "Thoeng",
+        "slug": "thoeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "57230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.658",
+    "lon": "100.062"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/plong-570403/"
+  }
+}

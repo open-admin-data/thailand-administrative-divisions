@@ -1,0 +1,61 @@
+{
+  "id": "330425",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ภูผาหมอก",
+    "en": "Phu Pha Mok",
+    "slug": "phu-pha-mok"
+  },
+  "code": {
+    "dopa": "330425"
+  },
+  "parent": {
+    "id": "3304",
+    "level": 2,
+    "name": {
+      "th": "กันทรลักษ์",
+      "en": "Kantharalak",
+      "slug": "kantharalak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3304",
+      "level": 2,
+      "name": {
+        "th": "กันทรลักษ์",
+        "en": "Kantharalak",
+        "slug": "kantharalak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "33110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.466",
+    "lon": "104.809"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phu-pha-mok-330425/"
+  }
+}

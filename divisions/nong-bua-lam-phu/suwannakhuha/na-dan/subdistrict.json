@@ -1,0 +1,61 @@
+{
+  "id": "390504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาด่าน",
+    "en": "Na Dan",
+    "slug": "na-dan"
+  },
+  "code": {
+    "dopa": "390504"
+  },
+  "parent": {
+    "id": "3905",
+    "level": 2,
+    "name": {
+      "th": "สุวรรณคูหา",
+      "en": "Suwannakhuha",
+      "slug": "suwannakhuha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3905",
+      "level": 2,
+      "name": {
+        "th": "สุวรรณคูหา",
+        "en": "Suwannakhuha",
+        "slug": "suwannakhuha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "39270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.470",
+    "lon": "102.347"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-dan-390504/"
+  }
+}

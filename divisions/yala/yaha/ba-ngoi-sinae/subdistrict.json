@@ -1,0 +1,61 @@
+{
+  "id": "950507",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บาโงยซิแน",
+    "en": "Ba-ngoi Sinae",
+    "slug": "ba-ngoi-sinae"
+  },
+  "code": {
+    "dopa": "950507"
+  },
+  "parent": {
+    "id": "9505",
+    "level": 2,
+    "name": {
+      "th": "ยะหา",
+      "en": "Yaha",
+      "slug": "yaha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9505",
+      "level": 2,
+      "name": {
+        "th": "ยะหา",
+        "en": "Yaha",
+        "slug": "yaha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "95120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.527",
+    "lon": "101.153"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ba-ngoi-sinae-950507/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "160122",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพธิ์เก้าต้น",
+    "en": "Pho Kao Ton",
+    "slug": "pho-kao-ton"
+  },
+  "code": {
+    "dopa": "160122"
+  },
+  "parent": {
+    "id": "1601",
+    "level": 2,
+    "name": {
+      "th": "เมืองลพบุรี",
+      "en": "Mueang Lop Buri",
+      "slug": "mueang-lop-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "th": "เมืองลพบุรี",
+        "en": "Mueang Lop Buri",
+        "slug": "mueang-lop-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "15000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.775",
+    "lon": "100.599"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pho-kao-ton-160122/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "830105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "รัษฎา",
+    "en": "Ratsada",
+    "slug": "ratsada"
+  },
+  "code": {
+    "dopa": "830105"
+  },
+  "parent": {
+    "id": "8301",
+    "level": 2,
+    "name": {
+      "th": "เมืองภูเก็ต",
+      "en": "Mueang Phuket",
+      "slug": "mueang-phuket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "th": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket"
+      }
+    },
+    {
+      "id": "8301",
+      "level": 2,
+      "name": {
+        "th": "เมืองภูเก็ต",
+        "en": "Mueang Phuket",
+        "slug": "mueang-phuket"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "83000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.874",
+    "lon": "98.358"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ratsada-830105/"
+  }
+}

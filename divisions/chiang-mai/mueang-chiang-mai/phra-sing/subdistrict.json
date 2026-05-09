@@ -1,0 +1,61 @@
+{
+  "id": "500102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พระสิงห์",
+    "en": "Phra Sing",
+    "slug": "phra-sing"
+  },
+  "code": {
+    "dopa": "500102"
+  },
+  "parent": {
+    "id": "5001",
+    "level": 2,
+    "name": {
+      "th": "เมืองเชียงใหม่",
+      "en": "Mueang Chiang Mai",
+      "slug": "mueang-chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5001",
+      "level": 2,
+      "name": {
+        "th": "เมืองเชียงใหม่",
+        "en": "Mueang Chiang Mai",
+        "slug": "mueang-chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "50200"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.785",
+    "lon": "98.985"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phra-sing-500102/"
+  }
+}

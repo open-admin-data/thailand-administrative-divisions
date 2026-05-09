@@ -1,0 +1,61 @@
+{
+  "id": "850107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หาดส้มแป้น",
+    "en": "Hat Som Paen",
+    "slug": "hat-som-paen"
+  },
+  "code": {
+    "dopa": "850107"
+  },
+  "parent": {
+    "id": "8501",
+    "level": 2,
+    "name": {
+      "th": "เมืองระนอง",
+      "en": "Mueang Ranong",
+      "slug": "mueang-ranong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "85",
+      "level": 1,
+      "name": {
+        "th": "ระนอง",
+        "en": "Ranong",
+        "slug": "ranong"
+      }
+    },
+    {
+      "id": "8501",
+      "level": 2,
+      "name": {
+        "th": "เมืองระนอง",
+        "en": "Mueang Ranong",
+        "slug": "mueang-ranong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 3
+  },
+  "zip_codes": [
+    "85000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.916",
+    "lon": "98.699"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hat-som-paen-850107/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "330709",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สวาย",
+    "en": "Sawai",
+    "slug": "sawai"
+  },
+  "code": {
+    "dopa": "330709"
+  },
+  "parent": {
+    "id": "3307",
+    "level": 2,
+    "name": {
+      "th": "ปรางค์กู่",
+      "en": "Prang Ku",
+      "slug": "prang-ku"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3307",
+      "level": 2,
+      "name": {
+        "th": "ปรางค์กู่",
+        "en": "Prang Ku",
+        "slug": "prang-ku"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "33170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.913",
+    "lon": "103.962"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sawai-330709/"
+  }
+}

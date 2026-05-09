@@ -1,0 +1,50 @@
+{
+  "id": "5023",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แม่ออน",
+    "en": "Mae On",
+    "slug": "mae-on"
+  },
+  "code": {
+    "dopa": "5023"
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 49
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.758",
+    "lon": "99.263"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mae-on-5023/"
+  }
+}

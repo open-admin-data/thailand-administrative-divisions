@@ -1,0 +1,61 @@
+{
+  "id": "502303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านสหกรณ์",
+    "en": "Ban Sahakon",
+    "slug": "ban-sahakon"
+  },
+  "code": {
+    "dopa": "502303"
+  },
+  "parent": {
+    "id": "5023",
+    "level": 2,
+    "name": {
+      "th": "แม่ออน",
+      "en": "Mae On",
+      "slug": "mae-on"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5023",
+      "level": 2,
+      "name": {
+        "th": "แม่ออน",
+        "en": "Mae On",
+        "slug": "mae-on"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "50130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.825",
+    "lon": "99.242"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-sahakon-502303/"
+  }
+}

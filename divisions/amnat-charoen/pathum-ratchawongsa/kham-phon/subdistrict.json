@@ -1,0 +1,61 @@
+{
+  "id": "370302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คำโพน",
+    "en": "Kham Phon",
+    "slug": "kham-phon"
+  },
+  "code": {
+    "dopa": "370302"
+  },
+  "parent": {
+    "id": "3703",
+    "level": 2,
+    "name": {
+      "th": "ปทุมราชวงศา",
+      "en": "Pathum Ratchawongsa",
+      "slug": "pathum-ratchawongsa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    {
+      "id": "3703",
+      "level": 2,
+      "name": {
+        "th": "ปทุมราชวงศา",
+        "en": "Pathum Ratchawongsa",
+        "slug": "pathum-ratchawongsa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "37110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.968",
+    "lon": "104.967"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kham-phon-370302/"
+  }
+}

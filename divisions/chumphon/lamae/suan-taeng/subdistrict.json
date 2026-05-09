@@ -1,0 +1,61 @@
+{
+  "id": "860503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สวนแตง",
+    "en": "Suan Taeng",
+    "slug": "suan-taeng"
+  },
+  "code": {
+    "dopa": "860503"
+  },
+  "parent": {
+    "id": "8605",
+    "level": 2,
+    "name": {
+      "th": "ละแม",
+      "en": "Lamae",
+      "slug": "lamae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8605",
+      "level": 2,
+      "name": {
+        "th": "ละแม",
+        "en": "Lamae",
+        "slug": "lamae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "86170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.723",
+    "lon": "99.108"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/suan-taeng-860503/"
+  }
+}

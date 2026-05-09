@@ -1,0 +1,61 @@
+{
+  "id": "310113",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ถลุงเหล็ก",
+    "en": "Thalung Lek",
+    "slug": "thalung-lek"
+  },
+  "code": {
+    "dopa": "310113"
+  },
+  "parent": {
+    "id": "3101",
+    "level": 2,
+    "name": {
+      "th": "เมืองบุรีรัมย์",
+      "en": "Mueang Buri Ram",
+      "slug": "mueang-buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3101",
+      "level": 2,
+      "name": {
+        "th": "เมืองบุรีรัมย์",
+        "en": "Mueang Buri Ram",
+        "slug": "mueang-buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "31000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.116",
+    "lon": "103.078"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thalung-lek-310113/"
+  }
+}

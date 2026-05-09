@@ -1,0 +1,795 @@
+[
+  {
+    "id": "230106",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "อ่าวใหญ่",
+      "en": "Ao Yai",
+      "slug": "ao-yai"
+    },
+    "code": {
+      "dopa": "230106"
+    },
+    "parent": {
+      "id": "2301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตราด",
+        "en": "Mueang Trat",
+        "slug": "mueang-trat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2301",
+        "level": 2,
+        "name": {
+          "th": "เมืองตราด",
+          "en": "Mueang Trat",
+          "slug": "mueang-trat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "23000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.078",
+      "lon": "102.562"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ao-yai-230106/"
+    }
+  },
+  {
+    "id": "230113",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ชำราก",
+      "en": "Chamrak",
+      "slug": "chamrak"
+    },
+    "code": {
+      "dopa": "230113"
+    },
+    "parent": {
+      "id": "2301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตราด",
+        "en": "Mueang Trat",
+        "slug": "mueang-trat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2301",
+        "level": 2,
+        "name": {
+          "th": "เมืองตราด",
+          "en": "Mueang Trat",
+          "slug": "mueang-trat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 5
+    },
+    "zip_codes": [
+      "23000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.194",
+      "lon": "102.677"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/chamrak-230113/"
+    }
+  },
+  {
+    "id": "230108",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ห้วยแร้ง",
+      "en": "Huai Raeng",
+      "slug": "huai-raeng"
+    },
+    "code": {
+      "dopa": "230108"
+    },
+    "parent": {
+      "id": "2301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตราด",
+        "en": "Mueang Trat",
+        "slug": "mueang-trat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2301",
+        "level": 2,
+        "name": {
+          "th": "เมืองตราด",
+          "en": "Mueang Trat",
+          "slug": "mueang-trat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "23000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.387",
+      "lon": "102.560"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/huai-raeng-230108/"
+    }
+  },
+  {
+    "id": "230105",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ห้วงน้ำขาว",
+      "en": "Huang Nam Khao",
+      "slug": "huang-nam-khao"
+    },
+    "code": {
+      "dopa": "230105"
+    },
+    "parent": {
+      "id": "2301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตราด",
+        "en": "Mueang Trat",
+        "slug": "mueang-trat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2301",
+        "level": 2,
+        "name": {
+          "th": "เมืองตราด",
+          "en": "Mueang Trat",
+          "slug": "mueang-trat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 5
+    },
+    "zip_codes": [
+      "23000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.143",
+      "lon": "102.518"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/huang-nam-khao-230105/"
+    }
+  },
+  {
+    "id": "230114",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แหลมกลัด",
+      "en": "Laem Klat",
+      "slug": "laem-klat"
+    },
+    "code": {
+      "dopa": "230114"
+    },
+    "parent": {
+      "id": "2301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตราด",
+        "en": "Mueang Trat",
+        "slug": "mueang-trat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2301",
+        "level": 2,
+        "name": {
+          "th": "เมืองตราด",
+          "en": "Mueang Trat",
+          "slug": "mueang-trat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "23000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.117",
+      "lon": "102.704"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/laem-klat-230114/"
+    }
+  },
+  {
+    "id": "230109",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เนินทราย",
+      "en": "Noen Sai",
+      "slug": "noen-sai"
+    },
+    "code": {
+      "dopa": "230109"
+    },
+    "parent": {
+      "id": "2301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตราด",
+        "en": "Mueang Trat",
+        "slug": "mueang-trat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2301",
+        "level": 2,
+        "name": {
+          "th": "เมืองตราด",
+          "en": "Mueang Trat",
+          "slug": "mueang-trat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "23000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.283",
+      "lon": "102.547"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/noen-sai-230109/"
+    }
+  },
+  {
+    "id": "230104",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองคันทรง",
+      "en": "Nong Khan Song",
+      "slug": "nong-khan-song"
+    },
+    "code": {
+      "dopa": "230104"
+    },
+    "parent": {
+      "id": "2301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตราด",
+        "en": "Mueang Trat",
+        "slug": "mueang-trat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2301",
+        "level": 2,
+        "name": {
+          "th": "เมืองตราด",
+          "en": "Mueang Trat",
+          "slug": "mueang-trat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 5
+    },
+    "zip_codes": [
+      "23000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.194",
+      "lon": "102.542"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-khan-song-230104/"
+    }
+  },
+  {
+    "id": "230102",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองเสม็ด",
+      "en": "Nong Samet",
+      "slug": "nong-samet"
+    },
+    "code": {
+      "dopa": "230102"
+    },
+    "parent": {
+      "id": "2301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตราด",
+        "en": "Mueang Trat",
+        "slug": "mueang-trat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2301",
+        "level": 2,
+        "name": {
+          "th": "เมืองตราด",
+          "en": "Mueang Trat",
+          "slug": "mueang-trat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "23000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.216",
+      "lon": "102.504"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-samet-230102/"
+    }
+  },
+  {
+    "id": "230103",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองโสน",
+      "en": "Nong Sano",
+      "slug": "nong-sano"
+    },
+    "code": {
+      "dopa": "230103"
+    },
+    "parent": {
+      "id": "2301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตราด",
+        "en": "Mueang Trat",
+        "slug": "mueang-trat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2301",
+        "level": 2,
+        "name": {
+          "th": "เมืองตราด",
+          "en": "Mueang Trat",
+          "slug": "mueang-trat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "23000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.184",
+      "lon": "102.488"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-sano-230103/"
+    }
+  },
+  {
+    "id": "230112",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ตะกาง",
+      "en": "Takang",
+      "slug": "takang"
+    },
+    "code": {
+      "dopa": "230112"
+    },
+    "parent": {
+      "id": "2301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตราด",
+        "en": "Mueang Trat",
+        "slug": "mueang-trat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2301",
+        "level": 2,
+        "name": {
+          "th": "เมืองตราด",
+          "en": "Mueang Trat",
+          "slug": "mueang-trat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "23000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.250",
+      "lon": "102.659"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/takang-230112/"
+    }
+  },
+  {
+    "id": "230111",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ท่ากุ่ม",
+      "en": "Tha Kum",
+      "slug": "tha-kum"
+    },
+    "code": {
+      "dopa": "230111"
+    },
+    "parent": {
+      "id": "2301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตราด",
+        "en": "Mueang Trat",
+        "slug": "mueang-trat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2301",
+        "level": 2,
+        "name": {
+          "th": "เมืองตราด",
+          "en": "Mueang Trat",
+          "slug": "mueang-trat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "23000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.345",
+      "lon": "102.675"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/tha-kum-230111/"
+    }
+  },
+  {
+    "id": "230110",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ท่าพริก",
+      "en": "Tha Phrik",
+      "slug": "tha-phrik"
+    },
+    "code": {
+      "dopa": "230110"
+    },
+    "parent": {
+      "id": "2301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตราด",
+        "en": "Mueang Trat",
+        "slug": "mueang-trat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2301",
+        "level": 2,
+        "name": {
+          "th": "เมืองตราด",
+          "en": "Mueang Trat",
+          "slug": "mueang-trat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "23000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.243",
+      "lon": "102.589"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/tha-phrik-230110/"
+    }
+  },
+  {
+    "id": "230107",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "วังกระแจะ",
+      "en": "Wang Krachae",
+      "slug": "wang-krachae"
+    },
+    "code": {
+      "dopa": "230107"
+    },
+    "parent": {
+      "id": "2301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตราด",
+        "en": "Mueang Trat",
+        "slug": "mueang-trat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2301",
+        "level": 2,
+        "name": {
+          "th": "เมืองตราด",
+          "en": "Mueang Trat",
+          "slug": "mueang-trat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 15
+    },
+    "zip_codes": [
+      "23000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.272",
+      "lon": "102.479"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/wang-krachae-230107/"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "650808",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังนกแอ่น",
+    "en": "Wang Nok Aen",
+    "slug": "wang-nok-aen"
+  },
+  "code": {
+    "dopa": "650808"
+  },
+  "parent": {
+    "id": "6508",
+    "level": 2,
+    "name": {
+      "th": "วังทอง",
+      "en": "Wang Thong",
+      "slug": "wang-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6508",
+      "level": 2,
+      "name": {
+        "th": "วังทอง",
+        "en": "Wang Thong",
+        "slug": "wang-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "65130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.819",
+    "lon": "100.582"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-nok-aen-650808/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "620705",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ประชาสุขสันต์",
+    "en": "Pracha Suk San",
+    "slug": "pracha-suk-san"
+  },
+  "code": {
+    "dopa": "620705"
+  },
+  "parent": {
+    "id": "6207",
+    "level": 2,
+    "name": {
+      "th": "ลานกระบือ",
+      "en": "Lan Krabue",
+      "slug": "lan-krabue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6207",
+      "level": 2,
+      "name": {
+        "th": "ลานกระบือ",
+        "en": "Lan Krabue",
+        "slug": "lan-krabue"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "62170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.521",
+    "lon": "99.974"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pracha-suk-san-620705/"
+  }
+}

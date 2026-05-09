@@ -1,0 +1,50 @@
+{
+  "id": "1608",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สระโบสถ์",
+    "en": "Sa Bot",
+    "slug": "sa-bot"
+  },
+  "code": {
+    "dopa": "1608"
+  },
+  "parent": {
+    "id": "16",
+    "level": 1,
+    "name": {
+      "th": "ลพบุรี",
+      "en": "Loburi",
+      "slug": "loburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 46
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.169",
+    "lon": "100.793"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sa-bot-1608/"
+  }
+}

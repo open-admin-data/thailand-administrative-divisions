@@ -1,0 +1,61 @@
+{
+  "id": "701003",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองพันจันทร์",
+    "en": "Nong Phan Chan",
+    "slug": "nong-phan-chan"
+  },
+  "code": {
+    "dopa": "701003"
+  },
+  "parent": {
+    "id": "7010",
+    "level": 2,
+    "name": {
+      "th": "บ้านคา",
+      "en": "Ban Kha",
+      "slug": "ban-kha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7010",
+      "level": 2,
+      "name": {
+        "th": "บ้านคา",
+        "en": "Ban Kha",
+        "slug": "ban-kha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "70180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.448",
+    "lon": "99.462"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-phan-chan-701003/"
+  }
+}

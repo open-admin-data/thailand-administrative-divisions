@@ -1,0 +1,61 @@
+{
+  "id": "750108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองเขิน",
+    "en": "Khlong Khoen",
+    "slug": "khlong-khoen"
+  },
+  "code": {
+    "dopa": "750108"
+  },
+  "parent": {
+    "id": "7501",
+    "level": 2,
+    "name": {
+      "th": "เมืองสมุทรสงคราม",
+      "en": "Mueang Samut Songkhram",
+      "slug": "mueang-samut-songkhram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสงคราม",
+        "en": "Samut Songkhram",
+        "slug": "samut-songkhram"
+      }
+    },
+    {
+      "id": "7501",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรสงคราม",
+        "en": "Mueang Samut Songkhram",
+        "slug": "mueang-samut-songkhram"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "75000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.445",
+    "lon": "99.988"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-khoen-750108/"
+  }
+}

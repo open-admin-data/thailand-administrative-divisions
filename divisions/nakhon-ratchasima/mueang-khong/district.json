@@ -1,0 +1,50 @@
+{
+  "id": "3004",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "คง",
+    "en": "Mueang Khong",
+    "slug": "mueang-khong"
+  },
+  "code": {
+    "dopa": "3004"
+  },
+  "parent": {
+    "id": "30",
+    "level": 1,
+    "name": {
+      "th": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 156
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.397",
+    "lon": "102.357"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-khong-3004/"
+  }
+}

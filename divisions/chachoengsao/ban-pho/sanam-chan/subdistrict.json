@@ -1,0 +1,61 @@
+{
+  "id": "240515",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สนามจันทร์",
+    "en": "Sanam Chan",
+    "slug": "sanam-chan"
+  },
+  "code": {
+    "dopa": "240515"
+  },
+  "parent": {
+    "id": "2405",
+    "level": 2,
+    "name": {
+      "th": "บ้านโพธิ์",
+      "en": "Ban Pho",
+      "slug": "ban-pho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2405",
+      "level": 2,
+      "name": {
+        "th": "บ้านโพธิ์",
+        "en": "Ban Pho",
+        "slug": "ban-pho"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "24140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.594",
+    "lon": "101.066"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sanam-chan-240515/"
+  }
+}

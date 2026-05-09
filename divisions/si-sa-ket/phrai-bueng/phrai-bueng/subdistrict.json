@@ -1,0 +1,61 @@
+{
+  "id": "330601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไพรบึง",
+    "en": "Phrai Bueng",
+    "slug": "phrai-bueng"
+  },
+  "code": {
+    "dopa": "330601"
+  },
+  "parent": {
+    "id": "3306",
+    "level": 2,
+    "name": {
+      "th": "ไพรบึง",
+      "en": "Phrai Bueng",
+      "slug": "phrai-bueng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3306",
+      "level": 2,
+      "name": {
+        "th": "ไพรบึง",
+        "en": "Phrai Bueng",
+        "slug": "phrai-bueng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "33180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.744",
+    "lon": "104.373"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phrai-bueng-330601/"
+  }
+}

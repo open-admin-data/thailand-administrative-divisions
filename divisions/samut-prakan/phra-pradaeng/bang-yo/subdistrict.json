@@ -1,0 +1,61 @@
+{
+  "id": "110408",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางยอ",
+    "en": "Bang Yo",
+    "slug": "bang-yo"
+  },
+  "code": {
+    "dopa": "110408"
+  },
+  "parent": {
+    "id": "1104",
+    "level": 2,
+    "name": {
+      "th": "พระประแดง",
+      "en": "Phra Pradaeng",
+      "slug": "phra-pradaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1104",
+      "level": 2,
+      "name": {
+        "th": "พระประแดง",
+        "en": "Phra Pradaeng",
+        "slug": "phra-pradaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "10130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.679",
+    "lon": "100.558"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-yo-110408/"
+  }
+}

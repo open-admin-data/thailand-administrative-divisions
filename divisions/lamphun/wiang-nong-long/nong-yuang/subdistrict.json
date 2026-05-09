@@ -1,0 +1,61 @@
+{
+  "id": "510802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองยวง",
+    "en": "Nong Yuang",
+    "slug": "nong-yuang"
+  },
+  "code": {
+    "dopa": "510802"
+  },
+  "parent": {
+    "id": "5108",
+    "level": 2,
+    "name": {
+      "th": "เวียงหนองล่อง",
+      "en": "Wiang Nong Long",
+      "slug": "wiang-nong-long"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5108",
+      "level": 2,
+      "name": {
+        "th": "เวียงหนองล่อง",
+        "en": "Wiang Nong Long",
+        "slug": "wiang-nong-long"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "51120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.415",
+    "lon": "98.780"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-yuang-510802/"
+  }
+}

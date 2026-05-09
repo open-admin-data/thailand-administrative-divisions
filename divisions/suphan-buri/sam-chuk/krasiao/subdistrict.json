@@ -1,0 +1,61 @@
+{
+  "id": "720807",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กระเสียว",
+    "en": "Krasiao",
+    "slug": "krasiao"
+  },
+  "code": {
+    "dopa": "720807"
+  },
+  "parent": {
+    "id": "7208",
+    "level": 2,
+    "name": {
+      "th": "สามชุก",
+      "en": "Sam Chuk",
+      "slug": "sam-chuk"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7208",
+      "level": 2,
+      "name": {
+        "th": "สามชุก",
+        "en": "Sam Chuk",
+        "slug": "sam-chuk"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "72130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.801",
+    "lon": "100.056"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/krasiao-720807/"
+  }
+}

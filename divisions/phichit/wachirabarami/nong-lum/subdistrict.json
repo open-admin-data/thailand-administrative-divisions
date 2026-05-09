@@ -1,0 +1,61 @@
+{
+  "id": "661204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองหลุม",
+    "en": "Nong Lum",
+    "slug": "nong-lum"
+  },
+  "code": {
+    "dopa": "661204"
+  },
+  "parent": {
+    "id": "6612",
+    "level": 2,
+    "name": {
+      "th": "วชิรบารมี",
+      "en": "Wachirabarami",
+      "slug": "wachirabarami"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6612",
+      "level": 2,
+      "name": {
+        "th": "วชิรบารมี",
+        "en": "Wachirabarami",
+        "slug": "wachirabarami"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "66220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.597",
+    "lon": "100.114"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-lum-661204/"
+  }
+}

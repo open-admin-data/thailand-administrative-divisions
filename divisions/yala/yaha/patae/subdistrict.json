@@ -1,0 +1,61 @@
+{
+  "id": "950503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปะแต",
+    "en": "Patae",
+    "slug": "patae"
+  },
+  "code": {
+    "dopa": "950503"
+  },
+  "parent": {
+    "id": "9505",
+    "level": 2,
+    "name": {
+      "th": "ยะหา",
+      "en": "Yaha",
+      "slug": "yaha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9505",
+      "level": 2,
+      "name": {
+        "th": "ยะหา",
+        "en": "Yaha",
+        "slug": "yaha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "95120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.344",
+    "lon": "101.139"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/patae-950503/"
+  }
+}

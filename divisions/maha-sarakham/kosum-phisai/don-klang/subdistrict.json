@@ -1,0 +1,61 @@
+{
+  "id": "440317",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนกลาง",
+    "en": "Don Klang",
+    "slug": "don-klang"
+  },
+  "code": {
+    "dopa": "440317"
+  },
+  "parent": {
+    "id": "4403",
+    "level": 2,
+    "name": {
+      "th": "โกสุมพิสัย",
+      "en": "Kosum Phisai",
+      "slug": "kosum-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4403",
+      "level": 2,
+      "name": {
+        "th": "โกสุมพิสัย",
+        "en": "Kosum Phisai",
+        "slug": "kosum-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "44140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.165",
+    "lon": "102.891"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-klang-440317/"
+  }
+}

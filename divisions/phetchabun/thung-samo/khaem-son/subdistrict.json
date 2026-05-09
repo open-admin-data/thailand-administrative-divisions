@@ -1,0 +1,61 @@
+{
+  "id": "671102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แคมป์สน",
+    "en": "Khaem Son",
+    "slug": "khaem-son"
+  },
+  "code": {
+    "dopa": "671102"
+  },
+  "parent": {
+    "id": "6711",
+    "level": 2,
+    "name": {
+      "th": "เขาค้อ",
+      "en": "Thung Samo",
+      "slug": "thung-samo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6711",
+      "level": 2,
+      "name": {
+        "th": "เขาค้อ",
+        "en": "Thung Samo",
+        "slug": "thung-samo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "67280"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.780",
+    "lon": "101.055"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khaem-son-671102/"
+  }
+}

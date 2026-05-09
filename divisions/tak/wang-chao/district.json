@@ -1,0 +1,50 @@
+{
+  "id": "6309",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "วังเจ้า",
+    "en": "Wang Chao",
+    "slug": "wang-chao"
+  },
+  "code": {
+    "dopa": "6309"
+  },
+  "parent": {
+    "id": "63",
+    "level": 1,
+    "name": {
+      "th": "ตาก",
+      "en": "Tak",
+      "slug": "tak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 28
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.748",
+    "lon": "99.184"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wang-chao-6309/"
+  }
+}

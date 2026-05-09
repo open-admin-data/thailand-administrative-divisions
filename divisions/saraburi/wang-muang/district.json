@@ -1,0 +1,50 @@
+{
+  "id": "1912",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "วังม่วง",
+    "en": "Wang Muang",
+    "slug": "wang-muang"
+  },
+  "code": {
+    "dopa": "1912"
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "th": "สระบุรี",
+      "en": "Saraburi",
+      "slug": "saraburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 31
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.818",
+    "lon": "101.132"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wang-muang-1912/"
+  }
+}

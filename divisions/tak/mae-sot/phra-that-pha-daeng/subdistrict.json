@@ -1,0 +1,61 @@
+{
+  "id": "630610",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พระธาตุผาแดง",
+    "en": "Phra That Pha Daeng",
+    "slug": "phra-that-pha-daeng"
+  },
+  "code": {
+    "dopa": "630610"
+  },
+  "parent": {
+    "id": "6306",
+    "level": 2,
+    "name": {
+      "th": "แม่สอด",
+      "en": "Mae Sot",
+      "slug": "mae-sot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6306",
+      "level": 2,
+      "name": {
+        "th": "แม่สอด",
+        "en": "Mae Sot",
+        "slug": "mae-sot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "63110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.692",
+    "lon": "98.639"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phra-that-pha-daeng-630610/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "4611",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ท่าคันโท",
+    "en": "Tha Khantho",
+    "slug": "tha-khantho"
+  },
+  "code": {
+    "dopa": "4611"
+  },
+  "parent": {
+    "id": "46",
+    "level": 1,
+    "name": {
+      "th": "กาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 60
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.869",
+    "lon": "103.237"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tha-khantho-4611/"
+  }
+}

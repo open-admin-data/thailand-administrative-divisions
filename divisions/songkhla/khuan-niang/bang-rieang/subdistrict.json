@@ -1,0 +1,61 @@
+{
+  "id": "901304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางเหรียง",
+    "en": "Bang Rieang",
+    "slug": "bang-rieang"
+  },
+  "code": {
+    "dopa": "901304"
+  },
+  "parent": {
+    "id": "9013",
+    "level": 2,
+    "name": {
+      "th": "ควนเนียง",
+      "en": "Khuan Niang",
+      "slug": "khuan-niang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9013",
+      "level": 2,
+      "name": {
+        "th": "ควนเนียง",
+        "en": "Khuan Niang",
+        "slug": "khuan-niang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "90220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.112",
+    "lon": "100.364"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-rieang-901304/"
+  }
+}

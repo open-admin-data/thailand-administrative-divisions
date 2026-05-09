@@ -1,0 +1,50 @@
+{
+  "id": "6506",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พรหมพิราม",
+    "en": "Phrom Phiram",
+    "slug": "phrom-phiram"
+  },
+  "code": {
+    "dopa": "6506"
+  },
+  "parent": {
+    "id": "65",
+    "level": 1,
+    "name": {
+      "th": "พิษณุโลก",
+      "en": "Phitsanulok",
+      "slug": "phitsanulok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 123
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.936",
+    "lon": "100.205"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phrom-phiram-6506/"
+  }
+}

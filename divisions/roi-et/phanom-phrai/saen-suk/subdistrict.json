@@ -1,0 +1,61 @@
+{
+  "id": "450602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แสนสุข",
+    "en": "Saen Suk",
+    "slug": "saen-suk"
+  },
+  "code": {
+    "dopa": "450602"
+  },
+  "parent": {
+    "id": "4506",
+    "level": 2,
+    "name": {
+      "th": "พนมไพร",
+      "en": "Phanom Phrai",
+      "slug": "phanom-phrai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4506",
+      "level": 2,
+      "name": {
+        "th": "พนมไพร",
+        "en": "Phanom Phrai",
+        "slug": "phanom-phrai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "45140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.733",
+    "lon": "104.076"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/saen-suk-450602/"
+  }
+}

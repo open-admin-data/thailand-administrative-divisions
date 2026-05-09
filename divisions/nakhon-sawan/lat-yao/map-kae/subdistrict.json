@@ -1,0 +1,61 @@
+{
+  "id": "601106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มาบแก",
+    "en": "Map Kae",
+    "slug": "map-kae"
+  },
+  "code": {
+    "dopa": "601106"
+  },
+  "parent": {
+    "id": "6011",
+    "level": 2,
+    "name": {
+      "th": "ลาดยาว",
+      "en": "Lat Yao",
+      "slug": "lat-yao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6011",
+      "level": 2,
+      "name": {
+        "th": "ลาดยาว",
+        "en": "Lat Yao",
+        "slug": "lat-yao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "60150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.677",
+    "lon": "99.781"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/map-kae-601106/"
+  }
+}

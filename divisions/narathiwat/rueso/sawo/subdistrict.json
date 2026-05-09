@@ -1,0 +1,61 @@
+{
+  "id": "960602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สาวอ",
+    "en": "Sawo",
+    "slug": "sawo"
+  },
+  "code": {
+    "dopa": "960602"
+  },
+  "parent": {
+    "id": "9606",
+    "level": 2,
+    "name": {
+      "th": "รือเสาะ",
+      "en": "Rueso",
+      "slug": "rueso"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9606",
+      "level": 2,
+      "name": {
+        "th": "รือเสาะ",
+        "en": "Rueso",
+        "slug": "rueso"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "96150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.434",
+    "lon": "101.507"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sawo-960602/"
+  }
+}

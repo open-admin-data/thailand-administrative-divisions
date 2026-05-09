@@ -1,0 +1,50 @@
+{
+  "id": "3018",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สูงเนิน",
+    "en": "Sung Noen",
+    "slug": "sung-noen"
+  },
+  "code": {
+    "dopa": "3018"
+  },
+  "parent": {
+    "id": "30",
+    "level": 1,
+    "name": {
+      "th": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 121
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.909",
+    "lon": "101.851"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sung-noen-3018/"
+  }
+}

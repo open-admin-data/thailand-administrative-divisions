@@ -1,0 +1,61 @@
+{
+  "id": "330202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลิ้นฟ้า",
+    "en": "Lin Fa",
+    "slug": "lin-fa"
+  },
+  "code": {
+    "dopa": "330202"
+  },
+  "parent": {
+    "id": "3302",
+    "level": 2,
+    "name": {
+      "th": "ยางชุมน้อย",
+      "en": "Yang Chum Noi",
+      "slug": "yang-chum-noi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "th": "ยางชุมน้อย",
+        "en": "Yang Chum Noi",
+        "slug": "yang-chum-noi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "33190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.180",
+    "lon": "104.422"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lin-fa-330202/"
+  }
+}

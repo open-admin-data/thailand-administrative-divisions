@@ -1,0 +1,61 @@
+{
+  "id": "241102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองเขื่อน",
+    "en": "Khlong Khuean",
+    "slug": "khlong-khuean"
+  },
+  "code": {
+    "dopa": "241102"
+  },
+  "parent": {
+    "id": "2411",
+    "level": 2,
+    "name": {
+      "th": "คลองเขื่อน",
+      "en": "Khlong Khuean",
+      "slug": "khlong-khuean"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2411",
+      "level": 2,
+      "name": {
+        "th": "คลองเขื่อน",
+        "en": "Khlong Khuean",
+        "slug": "khlong-khuean"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "24000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.772",
+    "lon": "101.185"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-khuean-241102/"
+  }
+}

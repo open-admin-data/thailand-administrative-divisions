@@ -1,0 +1,50 @@
+{
+  "id": "2301",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองตราด",
+    "en": "Mueang Trat",
+    "slug": "mueang-trat"
+  },
+  "code": {
+    "dopa": "2301"
+  },
+  "parent": {
+    "id": "23",
+    "level": 1,
+    "name": {
+      "th": "ตราด",
+      "en": "Trat",
+      "slug": "trat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "th": "ตราด",
+        "en": "Trat",
+        "slug": "trat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 101
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.078",
+    "lon": "102.562"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-trat-2301/"
+  }
+}

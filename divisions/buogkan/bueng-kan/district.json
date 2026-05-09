@@ -1,0 +1,50 @@
+{
+  "id": "3801",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บึงกาฬ",
+    "en": "Bueng Kan",
+    "slug": "bueng-kan"
+  },
+  "code": {
+    "dopa": "3801"
+  },
+  "parent": {
+    "id": "38",
+    "level": 1,
+    "name": {
+      "th": "บึงกาฬ",
+      "en": "Buogkan",
+      "slug": "buogkan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 131
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.332",
+    "lon": "103.531"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bueng-kan-3801/"
+  }
+}

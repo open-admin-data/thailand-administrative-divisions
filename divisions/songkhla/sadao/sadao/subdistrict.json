@@ -1,0 +1,61 @@
+{
+  "id": "901001",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สะเดา",
+    "en": "Sadao",
+    "slug": "sadao"
+  },
+  "code": {
+    "dopa": "901001"
+  },
+  "parent": {
+    "id": "9010",
+    "level": 2,
+    "name": {
+      "th": "สะเดา",
+      "en": "Sadao",
+      "slug": "sadao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9010",
+      "level": 2,
+      "name": {
+        "th": "สะเดา",
+        "en": "Sadao",
+        "slug": "sadao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "90120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.636",
+    "lon": "100.416"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sadao-901001/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "310803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองไม้งาม",
+    "en": "Nong Mai Ngam",
+    "slug": "nong-mai-ngam"
+  },
+  "code": {
+    "dopa": "310803"
+  },
+  "parent": {
+    "id": "3108",
+    "level": 2,
+    "name": {
+      "th": "บ้านกรวด",
+      "en": "Ban Kruat",
+      "slug": "ban-kruat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3108",
+      "level": 2,
+      "name": {
+        "th": "บ้านกรวด",
+        "en": "Ban Kruat",
+        "slug": "ban-kruat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "31180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.344",
+    "lon": "102.997"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-mai-ngam-310803/"
+  }
+}

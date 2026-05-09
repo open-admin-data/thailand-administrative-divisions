@@ -1,0 +1,61 @@
+{
+  "id": "450501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นิเวศน์",
+    "en": "Niwet",
+    "slug": "niwet"
+  },
+  "code": {
+    "dopa": "450501"
+  },
+  "parent": {
+    "id": "4505",
+    "level": 2,
+    "name": {
+      "th": "ธวัชบุรี",
+      "en": "Thawat Buri",
+      "slug": "thawat-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4505",
+      "level": 2,
+      "name": {
+        "th": "ธวัชบุรี",
+        "en": "Thawat Buri",
+        "slug": "thawat-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "45170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.042",
+    "lon": "103.737"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/niwet-450501/"
+  }
+}

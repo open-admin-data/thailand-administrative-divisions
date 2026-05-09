@@ -1,0 +1,61 @@
+{
+  "id": "760503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยางหย่อง",
+    "en": "Yang Yong",
+    "slug": "yang-yong"
+  },
+  "code": {
+    "dopa": "760503"
+  },
+  "parent": {
+    "id": "7605",
+    "level": 2,
+    "name": {
+      "th": "ท่ายาง",
+      "en": "Tha Yang",
+      "slug": "tha-yang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7605",
+      "level": 2,
+      "name": {
+        "th": "ท่ายาง",
+        "en": "Tha Yang",
+        "slug": "tha-yang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "76130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.990",
+    "lon": "99.883"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yang-yong-760503/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "650907",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังยาง",
+    "en": "Wang Yang",
+    "slug": "wang-yang"
+  },
+  "code": {
+    "dopa": "650907"
+  },
+  "parent": {
+    "id": "6509",
+    "level": 2,
+    "name": {
+      "th": "เนินมะปราง",
+      "en": "Noen Maprang",
+      "slug": "noen-maprang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6509",
+      "level": 2,
+      "name": {
+        "th": "เนินมะปราง",
+        "en": "Noen Maprang",
+        "slug": "noen-maprang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "65190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.457",
+    "lon": "100.741"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-yang-650907/"
+  }
+}

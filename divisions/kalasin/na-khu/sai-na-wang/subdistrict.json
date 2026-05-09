@@ -1,0 +1,61 @@
+{
+  "id": "461602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สายนาวัง",
+    "en": "Sai Na Wang",
+    "slug": "sai-na-wang"
+  },
+  "code": {
+    "dopa": "461602"
+  },
+  "parent": {
+    "id": "4616",
+    "level": 2,
+    "name": {
+      "th": "นาคู",
+      "en": "Na Khu",
+      "slug": "na-khu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4616",
+      "level": 2,
+      "name": {
+        "th": "นาคู",
+        "en": "Na Khu",
+        "slug": "na-khu"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "46160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.761",
+    "lon": "104.063"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sai-na-wang-461602/"
+  }
+}

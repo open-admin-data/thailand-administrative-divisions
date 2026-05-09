@@ -1,0 +1,50 @@
+{
+  "id": "9605",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ระแงะ",
+    "en": "Ra-ngae",
+    "slug": "ra-ngae"
+  },
+  "code": {
+    "dopa": "9605"
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "th": "นราธิวาส",
+      "en": "Narathiwat",
+      "slug": "narathiwat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 61
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.277",
+    "lon": "101.691"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ra-ngae-9605/"
+  }
+}

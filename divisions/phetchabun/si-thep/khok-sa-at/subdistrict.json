@@ -1,0 +1,61 @@
+{
+  "id": "670605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกสะอาด",
+    "en": "Khok Sa-at",
+    "slug": "khok-sa-at"
+  },
+  "code": {
+    "dopa": "670605"
+  },
+  "parent": {
+    "id": "6706",
+    "level": 2,
+    "name": {
+      "th": "ศรีเทพ",
+      "en": "Si Thep",
+      "slug": "si-thep"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6706",
+      "level": 2,
+      "name": {
+        "th": "ศรีเทพ",
+        "en": "Si Thep",
+        "slug": "si-thep"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "67170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.477",
+    "lon": "100.971"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-sa-at-670605/"
+  }
+}

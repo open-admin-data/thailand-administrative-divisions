@@ -1,0 +1,50 @@
+{
+  "id": "1504",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โพธิ์ทอง",
+    "en": "Pho Thong",
+    "slug": "pho-thong"
+  },
+  "code": {
+    "dopa": "1504"
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "th": "อ่างทอง",
+      "en": "Ang Thong",
+      "slug": "ang-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 15,
+    "villages": 110
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.638",
+    "lon": "100.389"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pho-thong-1504/"
+  }
+}

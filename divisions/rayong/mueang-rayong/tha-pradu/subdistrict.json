@@ -1,0 +1,61 @@
+{
+  "id": "210101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าประดู่",
+    "en": "Tha Pradu",
+    "slug": "tha-pradu"
+  },
+  "code": {
+    "dopa": "210101"
+  },
+  "parent": {
+    "id": "2101",
+    "level": 2,
+    "name": {
+      "th": "เมืองระยอง",
+      "en": "Mueang Rayong",
+      "slug": "mueang-rayong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "th": "เมืองระยอง",
+        "en": "Mueang Rayong",
+        "slug": "mueang-rayong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "21000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.672",
+    "lon": "101.266"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-pradu-210101/"
+  }
+}

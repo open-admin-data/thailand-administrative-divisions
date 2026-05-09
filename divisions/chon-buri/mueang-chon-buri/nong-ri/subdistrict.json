@@ -1,0 +1,61 @@
+{
+  "id": "200106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองรี",
+    "en": "Nong Ri",
+    "slug": "nong-ri"
+  },
+  "code": {
+    "dopa": "200106"
+  },
+  "parent": {
+    "id": "2001",
+    "level": 2,
+    "name": {
+      "th": "เมืองชลบุรี",
+      "en": "Mueang Chon Buri",
+      "slug": "mueang-chon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2001",
+      "level": 2,
+      "name": {
+        "th": "เมืองชลบุรี",
+        "en": "Mueang Chon Buri",
+        "slug": "mueang-chon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "20000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.307",
+    "lon": "101.057"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-ri-200106/"
+  }
+}

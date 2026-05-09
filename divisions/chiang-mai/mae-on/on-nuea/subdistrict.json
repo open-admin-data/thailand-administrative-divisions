@@ -1,0 +1,61 @@
+{
+  "id": "502301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ออนเหนือ",
+    "en": "On Nuea",
+    "slug": "on-nuea"
+  },
+  "code": {
+    "dopa": "502301"
+  },
+  "parent": {
+    "id": "5023",
+    "level": 2,
+    "name": {
+      "th": "แม่ออน",
+      "en": "Mae On",
+      "slug": "mae-on"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5023",
+      "level": 2,
+      "name": {
+        "th": "แม่ออน",
+        "en": "Mae On",
+        "slug": "mae-on"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "50130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.793",
+    "lon": "99.308"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/on-nuea-502301/"
+  }
+}

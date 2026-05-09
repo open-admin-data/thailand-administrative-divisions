@@ -1,0 +1,61 @@
+{
+  "id": "361304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยยาง",
+    "en": "Huai Yang",
+    "slug": "huai-yang"
+  },
+  "code": {
+    "dopa": "361304"
+  },
+  "parent": {
+    "id": "3613",
+    "level": 2,
+    "name": {
+      "th": "คอนสาร",
+      "en": "Khon San",
+      "slug": "khon-san"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3613",
+      "level": 2,
+      "name": {
+        "th": "คอนสาร",
+        "en": "Khon San",
+        "slug": "khon-san"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "36180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.536",
+    "lon": "101.896"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-yang-361304/"
+  }
+}

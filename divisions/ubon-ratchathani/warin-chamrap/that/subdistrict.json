@@ -1,0 +1,61 @@
+{
+  "id": "341502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ธาตุ",
+    "en": "That",
+    "slug": "that"
+  },
+  "code": {
+    "dopa": "341502"
+  },
+  "parent": {
+    "id": "3415",
+    "level": 2,
+    "name": {
+      "th": "วารินชำราบ",
+      "en": "Warin Chamrap",
+      "slug": "warin-chamrap"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3415",
+      "level": 2,
+      "name": {
+        "th": "วารินชำราบ",
+        "en": "Warin Chamrap",
+        "slug": "warin-chamrap"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "34190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.139",
+    "lon": "104.887"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/that-341502/"
+  }
+}

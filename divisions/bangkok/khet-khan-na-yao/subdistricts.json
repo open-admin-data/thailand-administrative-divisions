@@ -1,0 +1,63 @@
+[
+  {
+    "id": "104301",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง คันนายาว",
+      "en": "Khan Na Yao",
+      "slug": "khan-na-yao"
+    },
+    "code": {
+      "dopa": "104301"
+    },
+    "parent": {
+      "id": "1043",
+      "level": 2,
+      "name": {
+        "th": "เขต คันนายาว",
+        "en": "Khet Khan Na Yao",
+        "slug": "khet-khan-na-yao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1043",
+        "level": 2,
+        "name": {
+          "th": "เขต คันนายาว",
+          "en": "Khet Khan Na Yao",
+          "slug": "khet-khan-na-yao"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10230"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.821",
+      "lon": "100.677"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khan-na-yao-104301/"
+    }
+  }
+]

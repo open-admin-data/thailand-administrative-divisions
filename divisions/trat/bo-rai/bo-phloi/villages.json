@@ -1,0 +1,612 @@
+[
+  {
+    "id": "23040101",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านมะนาว",
+      "en": "Ban Manao",
+      "slug": "23040101"
+    },
+    "code": {
+      "dopa": "23040101"
+    },
+    "parent": {
+      "id": "230401",
+      "level": 3,
+      "name": {
+        "th": "บ่อพลอย",
+        "en": "Bo Phloi",
+        "slug": "bo-phloi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2304",
+        "level": 2,
+        "name": {
+          "th": "บ่อไร่",
+          "en": "Bo Rai",
+          "slug": "bo-rai"
+        }
+      },
+      {
+        "id": "230401",
+        "level": 3,
+        "name": {
+          "th": "บ่อพลอย",
+          "en": "Bo Phloi",
+          "slug": "bo-phloi"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.57823639021157",
+      "lon": "102.50257819890976"
+    },
+    "source": {}
+  },
+  {
+    "id": "23040102",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านปะอา",
+      "en": "Ban Pa A",
+      "slug": "23040102"
+    },
+    "code": {
+      "dopa": "23040102"
+    },
+    "parent": {
+      "id": "230401",
+      "level": 3,
+      "name": {
+        "th": "บ่อพลอย",
+        "en": "Bo Phloi",
+        "slug": "bo-phloi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2304",
+        "level": 2,
+        "name": {
+          "th": "บ่อไร่",
+          "en": "Bo Rai",
+          "slug": "bo-rai"
+        }
+      },
+      {
+        "id": "230401",
+        "level": 3,
+        "name": {
+          "th": "บ่อพลอย",
+          "en": "Bo Phloi",
+          "slug": "bo-phloi"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.610056816647626",
+      "lon": "102.54584491252899"
+    },
+    "source": {}
+  },
+  {
+    "id": "23040103",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านบ่อไร่",
+      "en": "Ban Bo Rai",
+      "slug": "23040103"
+    },
+    "code": {
+      "dopa": "23040103"
+    },
+    "parent": {
+      "id": "230401",
+      "level": 3,
+      "name": {
+        "th": "บ่อพลอย",
+        "en": "Bo Phloi",
+        "slug": "bo-phloi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2304",
+        "level": 2,
+        "name": {
+          "th": "บ่อไร่",
+          "en": "Bo Rai",
+          "slug": "bo-rai"
+        }
+      },
+      {
+        "id": "230401",
+        "level": 3,
+        "name": {
+          "th": "บ่อพลอย",
+          "en": "Bo Phloi",
+          "slug": "bo-phloi"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.576732439715931",
+      "lon": "102.54227623343468"
+    },
+    "source": {}
+  },
+  {
+    "id": "23040104",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านตากแว้ง",
+      "en": "Ban Tak Waeng",
+      "slug": "23040104"
+    },
+    "code": {
+      "dopa": "23040104"
+    },
+    "parent": {
+      "id": "230401",
+      "level": 3,
+      "name": {
+        "th": "บ่อพลอย",
+        "en": "Bo Phloi",
+        "slug": "bo-phloi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2304",
+        "level": 2,
+        "name": {
+          "th": "บ่อไร่",
+          "en": "Bo Rai",
+          "slug": "bo-rai"
+        }
+      },
+      {
+        "id": "230401",
+        "level": 3,
+        "name": {
+          "th": "บ่อพลอย",
+          "en": "Bo Phloi",
+          "slug": "bo-phloi"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.566406122335831",
+      "lon": "102.54064410924911"
+    },
+    "source": {}
+  },
+  {
+    "id": "23040105",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านตางาม",
+      "en": "Ban Ta Ngam",
+      "slug": "23040105"
+    },
+    "code": {
+      "dopa": "23040105"
+    },
+    "parent": {
+      "id": "230401",
+      "level": 3,
+      "name": {
+        "th": "บ่อพลอย",
+        "en": "Bo Phloi",
+        "slug": "bo-phloi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2304",
+        "level": 2,
+        "name": {
+          "th": "บ่อไร่",
+          "en": "Bo Rai",
+          "slug": "bo-rai"
+        }
+      },
+      {
+        "id": "230401",
+        "level": 3,
+        "name": {
+          "th": "บ่อพลอย",
+          "en": "Bo Phloi",
+          "slug": "bo-phloi"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.554318738379466",
+      "lon": "102.48809024691582"
+    },
+    "source": {}
+  },
+  {
+    "id": "23040106",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองแอ่ง",
+      "en": "Ban Khlong Aeng",
+      "slug": "23040106"
+    },
+    "code": {
+      "dopa": "23040106"
+    },
+    "parent": {
+      "id": "230401",
+      "level": 3,
+      "name": {
+        "th": "บ่อพลอย",
+        "en": "Bo Phloi",
+        "slug": "bo-phloi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2304",
+        "level": 2,
+        "name": {
+          "th": "บ่อไร่",
+          "en": "Bo Rai",
+          "slug": "bo-rai"
+        }
+      },
+      {
+        "id": "230401",
+        "level": 3,
+        "name": {
+          "th": "บ่อพลอย",
+          "en": "Bo Phloi",
+          "slug": "bo-phloi"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.535042414442263",
+      "lon": "102.50107750296593"
+    },
+    "source": {}
+  },
+  {
+    "id": "23040107",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านตากแว้งล่าง",
+      "en": "Ban Tak Waeng Lang",
+      "slug": "23040107"
+    },
+    "code": {
+      "dopa": "23040107"
+    },
+    "parent": {
+      "id": "230401",
+      "level": 3,
+      "name": {
+        "th": "บ่อพลอย",
+        "en": "Bo Phloi",
+        "slug": "bo-phloi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2304",
+        "level": 2,
+        "name": {
+          "th": "บ่อไร่",
+          "en": "Bo Rai",
+          "slug": "bo-rai"
+        }
+      },
+      {
+        "id": "230401",
+        "level": 3,
+        "name": {
+          "th": "บ่อพลอย",
+          "en": "Bo Phloi",
+          "slug": "bo-phloi"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.56409053040067",
+      "lon": "102.52081587910652"
+    },
+    "source": {}
+  },
+  {
+    "id": "23040108",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหมื่นด่าน",
+      "en": "Ban Muen Tan",
+      "slug": "23040108"
+    },
+    "code": {
+      "dopa": "23040108"
+    },
+    "parent": {
+      "id": "230401",
+      "level": 3,
+      "name": {
+        "th": "บ่อพลอย",
+        "en": "Bo Phloi",
+        "slug": "bo-phloi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2304",
+        "level": 2,
+        "name": {
+          "th": "บ่อไร่",
+          "en": "Bo Rai",
+          "slug": "bo-rai"
+        }
+      },
+      {
+        "id": "230401",
+        "level": 3,
+        "name": {
+          "th": "บ่อพลอย",
+          "en": "Bo Phloi",
+          "slug": "bo-phloi"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.595563253875238",
+      "lon": "102.58054465055466"
+    },
+    "source": {}
+  },
+  {
+    "id": "23040109",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านจัดสรร",
+      "en": "Ban Chatsan",
+      "slug": "23040109"
+    },
+    "code": {
+      "dopa": "23040109"
+    },
+    "parent": {
+      "id": "230401",
+      "level": 3,
+      "name": {
+        "th": "บ่อพลอย",
+        "en": "Bo Phloi",
+        "slug": "bo-phloi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2304",
+        "level": 2,
+        "name": {
+          "th": "บ่อไร่",
+          "en": "Bo Rai",
+          "slug": "bo-rai"
+        }
+      },
+      {
+        "id": "230401",
+        "level": 3,
+        "name": {
+          "th": "บ่อพลอย",
+          "en": "Bo Phloi",
+          "slug": "bo-phloi"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.583657868838245",
+      "lon": "102.54246667027473"
+    },
+    "source": {}
+  },
+  {
+    "id": "23040110",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองยอ",
+      "en": "Ban Khlong Yo",
+      "slug": "23040110"
+    },
+    "code": {
+      "dopa": "23040110"
+    },
+    "parent": {
+      "id": "230401",
+      "level": 3,
+      "name": {
+        "th": "บ่อพลอย",
+        "en": "Bo Phloi",
+        "slug": "bo-phloi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2304",
+        "level": 2,
+        "name": {
+          "th": "บ่อไร่",
+          "en": "Bo Rai",
+          "slug": "bo-rai"
+        }
+      },
+      {
+        "id": "230401",
+        "level": 3,
+        "name": {
+          "th": "บ่อพลอย",
+          "en": "Bo Phloi",
+          "slug": "bo-phloi"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.582464158603043",
+      "lon": "102.54622310400009"
+    },
+    "source": {}
+  }
+]

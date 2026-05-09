@@ -1,0 +1,61 @@
+{
+  "id": "760615",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยข้อง",
+    "en": "Huai Khong",
+    "slug": "huai-khong"
+  },
+  "code": {
+    "dopa": "760615"
+  },
+  "parent": {
+    "id": "7606",
+    "level": 2,
+    "name": {
+      "th": "บ้านลาด",
+      "en": "Ban Lat",
+      "slug": "ban-lat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7606",
+      "level": 2,
+      "name": {
+        "th": "บ้านลาด",
+        "en": "Ban Lat",
+        "slug": "ban-lat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 3
+  },
+  "zip_codes": [
+    "76150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.035",
+    "lon": "99.829"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-khong-760615/"
+  }
+}

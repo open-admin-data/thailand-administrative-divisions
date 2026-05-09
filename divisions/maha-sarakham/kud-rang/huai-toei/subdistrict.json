@@ -1,0 +1,61 @@
+{
+  "id": "441205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยเตย",
+    "en": "Huai Toei",
+    "slug": "huai-toei"
+  },
+  "code": {
+    "dopa": "441205"
+  },
+  "parent": {
+    "id": "4412",
+    "level": 2,
+    "name": {
+      "th": "กุดรัง",
+      "en": "Kud Rang",
+      "slug": "kud-rang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4412",
+      "level": 2,
+      "name": {
+        "th": "กุดรัง",
+        "en": "Kud Rang",
+        "slug": "kud-rang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "44130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.123",
+    "lon": "103.049"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-toei-441205/"
+  }
+}

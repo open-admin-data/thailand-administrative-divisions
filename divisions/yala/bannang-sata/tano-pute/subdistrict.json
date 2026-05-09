@@ -1,0 +1,61 @@
+{
+  "id": "950303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตาเนาะปูเต๊ะ",
+    "en": "Tano Pute",
+    "slug": "tano-pute"
+  },
+  "code": {
+    "dopa": "950303"
+  },
+  "parent": {
+    "id": "9503",
+    "level": 2,
+    "name": {
+      "th": "บันนังสตา",
+      "en": "Bannang Sata",
+      "slug": "bannang-sata"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9503",
+      "level": 2,
+      "name": {
+        "th": "บันนังสตา",
+        "en": "Bannang Sata",
+        "slug": "bannang-sata"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "95130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.355",
+    "lon": "101.327"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tano-pute-950303/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "570902",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยไคร้",
+    "en": "Huai Khrai",
+    "slug": "huai-khrai"
+  },
+  "code": {
+    "dopa": "570902"
+  },
+  "parent": {
+    "id": "5709",
+    "level": 2,
+    "name": {
+      "th": "แม่สาย",
+      "en": "Mae Sai",
+      "slug": "mae-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5709",
+      "level": 2,
+      "name": {
+        "th": "แม่สาย",
+        "en": "Mae Sai",
+        "slug": "mae-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "57220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.286",
+    "lon": "99.870"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-khrai-570902/"
+  }
+}

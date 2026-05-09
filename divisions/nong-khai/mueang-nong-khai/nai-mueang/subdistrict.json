@@ -1,0 +1,61 @@
+{
+  "id": "430101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ในเมือง",
+    "en": "Nai Mueang",
+    "slug": "nai-mueang"
+  },
+  "code": {
+    "dopa": "430101"
+  },
+  "parent": {
+    "id": "4301",
+    "level": 2,
+    "name": {
+      "th": "เมืองหนองคาย",
+      "en": "Mueang Nong Khai",
+      "slug": "mueang-nong-khai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4301",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองคาย",
+        "en": "Mueang Nong Khai",
+        "slug": "mueang-nong-khai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "43000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.890",
+    "lon": "102.761"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nai-mueang-430101/"
+  }
+}

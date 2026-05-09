@@ -1,0 +1,61 @@
+{
+  "id": "810404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทรายขาว",
+    "en": "Sai Khao",
+    "slug": "sai-khao"
+  },
+  "code": {
+    "dopa": "810404"
+  },
+  "parent": {
+    "id": "8104",
+    "level": 2,
+    "name": {
+      "th": "คลองท่อม",
+      "en": "Khlong Thom",
+      "slug": "khlong-thom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8104",
+      "level": 2,
+      "name": {
+        "th": "คลองท่อม",
+        "en": "Khlong Thom",
+        "slug": "khlong-thom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "81170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.711",
+    "lon": "99.241"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sai-khao-810404/"
+  }
+}

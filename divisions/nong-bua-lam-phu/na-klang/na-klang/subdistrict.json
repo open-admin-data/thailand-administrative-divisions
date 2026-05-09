@@ -1,0 +1,61 @@
+{
+  "id": "390201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นากลาง",
+    "en": "Na Klang",
+    "slug": "na-klang"
+  },
+  "code": {
+    "dopa": "390201"
+  },
+  "parent": {
+    "id": "3902",
+    "level": 2,
+    "name": {
+      "th": "นากลาง",
+      "en": "Na Klang",
+      "slug": "na-klang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3902",
+      "level": 2,
+      "name": {
+        "th": "นากลาง",
+        "en": "Na Klang",
+        "slug": "na-klang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "39170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.312",
+    "lon": "102.214"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-klang-390201/"
+  }
+}

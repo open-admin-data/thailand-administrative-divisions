@@ -1,0 +1,38 @@
+{
+  "id": "76",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "เพชรบุรี",
+    "en": "Phetchaburi",
+    "slug": "phetchaburi"
+  },
+  "code": {
+    "dopa": "76",
+    "iso": "TH-76"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 8,
+    "subdistricts": 92,
+    "villages": 739
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันตก",
+      "en": "Western"
+    }
+  },
+  "geo": {
+    "lat": "13.121",
+    "lon": "99.900"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/phetchaburi-76/"
+  }
+}

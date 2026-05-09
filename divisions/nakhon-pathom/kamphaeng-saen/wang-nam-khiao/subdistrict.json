@@ -1,0 +1,61 @@
+{
+  "id": "730215",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังน้ำเขียว",
+    "en": "Wang Nam Khiao",
+    "slug": "wang-nam-khiao"
+  },
+  "code": {
+    "dopa": "730215"
+  },
+  "parent": {
+    "id": "7302",
+    "level": 2,
+    "name": {
+      "th": "กำแพงแสน",
+      "en": "Kamphaeng Saen",
+      "slug": "kamphaeng-saen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7302",
+      "level": 2,
+      "name": {
+        "th": "กำแพงแสน",
+        "en": "Kamphaeng Saen",
+        "slug": "kamphaeng-saen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "73140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.990",
+    "lon": "100.027"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-nam-khiao-730215/"
+  }
+}

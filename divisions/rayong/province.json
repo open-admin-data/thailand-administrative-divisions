@@ -1,0 +1,38 @@
+{
+  "id": "21",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ระยอง",
+    "en": "Rayong",
+    "slug": "rayong"
+  },
+  "code": {
+    "dopa": "21",
+    "iso": "TH-21"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 8,
+    "subdistricts": 56,
+    "villages": 530
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern"
+    }
+  },
+  "geo": {
+    "lat": "12.646",
+    "lon": "101.171"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/rayong-21/"
+  }
+}

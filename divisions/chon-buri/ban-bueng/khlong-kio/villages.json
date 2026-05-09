@@ -1,0 +1,551 @@
+[
+  {
+    "id": "20020201",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหัวกุญแจ",
+      "en": "Ban Hua Kunchae",
+      "slug": "20020201"
+    },
+    "code": {
+      "dopa": "20020201"
+    },
+    "parent": {
+      "id": "200202",
+      "level": 3,
+      "name": {
+        "th": "คลองกิ่ว",
+        "en": "Khlong Kio",
+        "slug": "khlong-kio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "th": "บ้านบึง",
+          "en": "Ban Bueng",
+          "slug": "ban-bueng"
+        }
+      },
+      {
+        "id": "200202",
+        "level": 3,
+        "name": {
+          "th": "คลองกิ่ว",
+          "en": "Khlong Kio",
+          "slug": "khlong-kio"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.252300033024058",
+      "lon": "101.15418210625648"
+    },
+    "source": {}
+  },
+  {
+    "id": "20020202",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองน้ำเขียว",
+      "en": "Ban Nong Nam Khiao",
+      "slug": "20020202"
+    },
+    "code": {
+      "dopa": "20020202"
+    },
+    "parent": {
+      "id": "200202",
+      "level": 3,
+      "name": {
+        "th": "คลองกิ่ว",
+        "en": "Khlong Kio",
+        "slug": "khlong-kio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "th": "บ้านบึง",
+          "en": "Ban Bueng",
+          "slug": "ban-bueng"
+        }
+      },
+      {
+        "id": "200202",
+        "level": 3,
+        "name": {
+          "th": "คลองกิ่ว",
+          "en": "Khlong Kio",
+          "slug": "khlong-kio"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.230820182305196",
+      "lon": "101.1135345697403"
+    },
+    "source": {}
+  },
+  {
+    "id": "20020203",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านท่าน้ำ",
+      "en": "Ban Tha Nam",
+      "slug": "20020203"
+    },
+    "code": {
+      "dopa": "20020203"
+    },
+    "parent": {
+      "id": "200202",
+      "level": 3,
+      "name": {
+        "th": "คลองกิ่ว",
+        "en": "Khlong Kio",
+        "slug": "khlong-kio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "th": "บ้านบึง",
+          "en": "Ban Bueng",
+          "slug": "ban-bueng"
+        }
+      },
+      {
+        "id": "200202",
+        "level": 3,
+        "name": {
+          "th": "คลองกิ่ว",
+          "en": "Khlong Kio",
+          "slug": "khlong-kio"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.243919278672928",
+      "lon": "101.11491322517395"
+    },
+    "source": {}
+  },
+  {
+    "id": "20020204",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านมาบคล้า",
+      "en": "Ban Map Khla",
+      "slug": "20020204"
+    },
+    "code": {
+      "dopa": "20020204"
+    },
+    "parent": {
+      "id": "200202",
+      "level": 3,
+      "name": {
+        "th": "คลองกิ่ว",
+        "en": "Khlong Kio",
+        "slug": "khlong-kio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "th": "บ้านบึง",
+          "en": "Ban Bueng",
+          "slug": "ban-bueng"
+        }
+      },
+      {
+        "id": "200202",
+        "level": 3,
+        "name": {
+          "th": "คลองกิ่ว",
+          "en": "Khlong Kio",
+          "slug": "khlong-kio"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.193013711570869",
+      "lon": "101.19186982512474"
+    },
+    "source": {}
+  },
+  {
+    "id": "20020205",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหมื่นจิตร",
+      "en": "Ban Muen Chit",
+      "slug": "20020205"
+    },
+    "code": {
+      "dopa": "20020205"
+    },
+    "parent": {
+      "id": "200202",
+      "level": 3,
+      "name": {
+        "th": "คลองกิ่ว",
+        "en": "Khlong Kio",
+        "slug": "khlong-kio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "th": "บ้านบึง",
+          "en": "Ban Bueng",
+          "slug": "ban-bueng"
+        }
+      },
+      {
+        "id": "200202",
+        "level": 3,
+        "name": {
+          "th": "คลองกิ่ว",
+          "en": "Khlong Kio",
+          "slug": "khlong-kio"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.12981710401424",
+      "lon": "101.23792603611946"
+    },
+    "source": {}
+  },
+  {
+    "id": "20020206",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านโสม",
+      "en": "Ban Som",
+      "slug": "20020206"
+    },
+    "code": {
+      "dopa": "20020206"
+    },
+    "parent": {
+      "id": "200202",
+      "level": 3,
+      "name": {
+        "th": "คลองกิ่ว",
+        "en": "Khlong Kio",
+        "slug": "khlong-kio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "th": "บ้านบึง",
+          "en": "Ban Bueng",
+          "slug": "ban-bueng"
+        }
+      },
+      {
+        "id": "200202",
+        "level": 3,
+        "name": {
+          "th": "คลองกิ่ว",
+          "en": "Khlong Kio",
+          "slug": "khlong-kio"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.139263547245955",
+      "lon": "101.21748089790344"
+    },
+    "source": {}
+  },
+  {
+    "id": "20020207",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านมาบลำบิด",
+      "en": "Ban Map Lam Bit",
+      "slug": "20020207"
+    },
+    "code": {
+      "dopa": "20020207"
+    },
+    "parent": {
+      "id": "200202",
+      "level": 3,
+      "name": {
+        "th": "คลองกิ่ว",
+        "en": "Khlong Kio",
+        "slug": "khlong-kio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "th": "บ้านบึง",
+          "en": "Ban Bueng",
+          "slug": "ban-bueng"
+        }
+      },
+      {
+        "id": "200202",
+        "level": 3,
+        "name": {
+          "th": "คลองกิ่ว",
+          "en": "Khlong Kio",
+          "slug": "khlong-kio"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.169183372559498",
+      "lon": "101.16217106580734"
+    },
+    "source": {}
+  },
+  {
+    "id": "20020208",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านมาบเตย",
+      "en": "Ban Map Toei",
+      "slug": "20020208"
+    },
+    "code": {
+      "dopa": "20020208"
+    },
+    "parent": {
+      "id": "200202",
+      "level": 3,
+      "name": {
+        "th": "คลองกิ่ว",
+        "en": "Khlong Kio",
+        "slug": "khlong-kio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "th": "บ้านบึง",
+          "en": "Ban Bueng",
+          "slug": "ban-bueng"
+        }
+      },
+      {
+        "id": "200202",
+        "level": 3,
+        "name": {
+          "th": "คลองกิ่ว",
+          "en": "Khlong Kio",
+          "slug": "khlong-kio"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.261830505776347",
+      "lon": "101.161298006773"
+    },
+    "source": {}
+  },
+  {
+    "id": "20020209",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองกลางดอน",
+      "en": "Ban Nong Klang Don",
+      "slug": "20020209"
+    },
+    "code": {
+      "dopa": "20020209"
+    },
+    "parent": {
+      "id": "200202",
+      "level": 3,
+      "name": {
+        "th": "คลองกิ่ว",
+        "en": "Khlong Kio",
+        "slug": "khlong-kio"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2002",
+        "level": 2,
+        "name": {
+          "th": "บ้านบึง",
+          "en": "Ban Bueng",
+          "slug": "ban-bueng"
+        }
+      },
+      {
+        "id": "200202",
+        "level": 3,
+        "name": {
+          "th": "คลองกิ่ว",
+          "en": "Khlong Kio",
+          "slug": "khlong-kio"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.231222277862786",
+      "lon": "101.14966124296188"
+    },
+    "source": {}
+  }
+]

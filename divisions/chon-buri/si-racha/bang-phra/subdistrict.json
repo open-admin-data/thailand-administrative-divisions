@@ -1,0 +1,61 @@
+{
+  "id": "200707",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางพระ",
+    "en": "Bang Phra",
+    "slug": "bang-phra"
+  },
+  "code": {
+    "dopa": "200707"
+  },
+  "parent": {
+    "id": "2007",
+    "level": 2,
+    "name": {
+      "th": "ศรีราชา",
+      "en": "Si Racha",
+      "slug": "si-racha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2007",
+      "level": 2,
+      "name": {
+        "th": "ศรีราชา",
+        "en": "Si Racha",
+        "slug": "si-racha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "20110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.223",
+    "lon": "101.007"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-phra-200707/"
+  }
+}

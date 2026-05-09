@@ -1,0 +1,61 @@
+{
+  "id": "370402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "จานลาน",
+    "en": "Chan Lan",
+    "slug": "chan-lan"
+  },
+  "code": {
+    "dopa": "370402"
+  },
+  "parent": {
+    "id": "3704",
+    "level": 2,
+    "name": {
+      "th": "พนา",
+      "en": "Phana",
+      "slug": "phana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    {
+      "id": "3704",
+      "level": 2,
+      "name": {
+        "th": "พนา",
+        "en": "Phana",
+        "slug": "phana"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "37180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.619",
+    "lon": "104.901"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chan-lan-370402/"
+  }
+}

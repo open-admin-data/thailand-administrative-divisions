@@ -1,0 +1,185 @@
+[
+  {
+    "id": "80120901",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านปลายทราย",
+      "en": "Ban Plai Sai",
+      "slug": "80120901"
+    },
+    "code": {
+      "dopa": "80120901"
+    },
+    "parent": {
+      "id": "801209",
+      "level": 3,
+      "name": {
+        "th": "แหลมตะลุมพุก",
+        "en": "Laem Talumphuk",
+        "slug": "laem-talumphuk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8012",
+        "level": 2,
+        "name": {
+          "th": "ปากพนัง",
+          "en": "Pak Phanang",
+          "slug": "pak-phanang"
+        }
+      },
+      {
+        "id": "801209",
+        "level": 3,
+        "name": {
+          "th": "แหลมตะลุมพุก",
+          "en": "Laem Talumphuk",
+          "slug": "laem-talumphuk"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.502272384963073",
+      "lon": "100.16190961003304"
+    },
+    "source": {}
+  },
+  {
+    "id": "80120902",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านแหลมตะลุมพุก",
+      "en": "Ban Laem Talumphuk",
+      "slug": "80120902"
+    },
+    "code": {
+      "dopa": "80120902"
+    },
+    "parent": {
+      "id": "801209",
+      "level": 3,
+      "name": {
+        "th": "แหลมตะลุมพุก",
+        "en": "Laem Talumphuk",
+        "slug": "laem-talumphuk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8012",
+        "level": 2,
+        "name": {
+          "th": "ปากพนัง",
+          "en": "Pak Phanang",
+          "slug": "pak-phanang"
+        }
+      },
+      {
+        "id": "801209",
+        "level": 3,
+        "name": {
+          "th": "แหลมตะลุมพุก",
+          "en": "Laem Talumphuk",
+          "slug": "laem-talumphuk"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.482572694690518",
+      "lon": "100.18904820084572"
+    },
+    "source": {}
+  },
+  {
+    "id": "80120903",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านแหลมตะลุมพุก",
+      "en": "Ban Laem Talumphuk",
+      "slug": "80120903"
+    },
+    "code": {
+      "dopa": "80120903"
+    },
+    "parent": {
+      "id": "801209",
+      "level": 3,
+      "name": {
+        "th": "แหลมตะลุมพุก",
+        "en": "Laem Talumphuk",
+        "slug": "laem-talumphuk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8012",
+        "level": 2,
+        "name": {
+          "th": "ปากพนัง",
+          "en": "Pak Phanang",
+          "slug": "pak-phanang"
+        }
+      },
+      {
+        "id": "801209",
+        "level": 3,
+        "name": {
+          "th": "แหลมตะลุมพุก",
+          "en": "Laem Talumphuk",
+          "slug": "laem-talumphuk"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.77342295378184",
+      "lon": "100.54335728287697"
+    },
+    "source": {}
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "740308",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เจ็ดริ้ว",
+    "en": "Chet Rio",
+    "slug": "chet-rio"
+  },
+  "code": {
+    "dopa": "740308"
+  },
+  "parent": {
+    "id": "7403",
+    "level": 2,
+    "name": {
+      "th": "บ้านแพ้ว",
+      "en": "Ban Phaeo",
+      "slug": "ban-phaeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสาคร",
+        "en": "Samut Sakhon",
+        "slug": "samut-sakhon"
+      }
+    },
+    {
+      "id": "7403",
+      "level": 2,
+      "name": {
+        "th": "บ้านแพ้ว",
+        "en": "Ban Phaeo",
+        "slug": "ban-phaeo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "74120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.639",
+    "lon": "100.141"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chet-rio-740308/"
+  }
+}

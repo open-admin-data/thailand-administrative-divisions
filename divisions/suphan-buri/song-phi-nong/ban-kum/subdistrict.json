@@ -1,0 +1,61 @@
+{
+  "id": "720705",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านกุ่ม",
+    "en": "Ban Kum",
+    "slug": "ban-kum"
+  },
+  "code": {
+    "dopa": "720705"
+  },
+  "parent": {
+    "id": "7207",
+    "level": 2,
+    "name": {
+      "th": "สองพี่น้อง",
+      "en": "Song Phi Nong",
+      "slug": "song-phi-nong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7207",
+      "level": 2,
+      "name": {
+        "th": "สองพี่น้อง",
+        "en": "Song Phi Nong",
+        "slug": "song-phi-nong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "72110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.260",
+    "lon": "100.114"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-kum-720705/"
+  }
+}

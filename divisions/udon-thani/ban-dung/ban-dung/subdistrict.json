@@ -1,0 +1,61 @@
+{
+  "id": "411102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านดุง",
+    "en": "Ban Dung",
+    "slug": "ban-dung"
+  },
+  "code": {
+    "dopa": "411102"
+  },
+  "parent": {
+    "id": "4111",
+    "level": 2,
+    "name": {
+      "th": "บ้านดุง",
+      "en": "Ban Dung",
+      "slug": "ban-dung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4111",
+      "level": 2,
+      "name": {
+        "th": "บ้านดุง",
+        "en": "Ban Dung",
+        "slug": "ban-dung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "41190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.741",
+    "lon": "103.250"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-dung-411102/"
+  }
+}

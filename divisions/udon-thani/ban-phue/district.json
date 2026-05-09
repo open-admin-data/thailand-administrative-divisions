@@ -1,0 +1,50 @@
+{
+  "id": "4117",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านผือ",
+    "en": "Ban Phue",
+    "slug": "ban-phue"
+  },
+  "code": {
+    "dopa": "4117"
+  },
+  "parent": {
+    "id": "41",
+    "level": 1,
+    "name": {
+      "th": "อุดรธานี",
+      "en": "Udon Thani",
+      "slug": "udon-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 164
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.750",
+    "lon": "102.446"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-phue-4117/"
+  }
+}

@@ -1,0 +1,124 @@
+[
+  {
+    "id": "950702",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บาละ",
+      "en": "Bala",
+      "slug": "bala"
+    },
+    "code": {
+      "dopa": "950702"
+    },
+    "parent": {
+      "id": "9507",
+      "level": 2,
+      "name": {
+        "th": "กาบัง",
+        "en": "Kabang",
+        "slug": "kabang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      },
+      {
+        "id": "9507",
+        "level": 2,
+        "name": {
+          "th": "กาบัง",
+          "en": "Kabang",
+          "slug": "kabang"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "95120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.330",
+      "lon": "101.023"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bala-950702/"
+    }
+  },
+  {
+    "id": "950701",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "กาบัง",
+      "en": "Kabang",
+      "slug": "kabang"
+    },
+    "code": {
+      "dopa": "950701"
+    },
+    "parent": {
+      "id": "9507",
+      "level": 2,
+      "name": {
+        "th": "กาบัง",
+        "en": "Kabang",
+        "slug": "kabang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      },
+      {
+        "id": "9507",
+        "level": 2,
+        "name": {
+          "th": "กาบัง",
+          "en": "Kabang",
+          "slug": "kabang"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "95120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.449",
+      "lon": "101.000"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/kabang-950701/"
+    }
+  }
+]

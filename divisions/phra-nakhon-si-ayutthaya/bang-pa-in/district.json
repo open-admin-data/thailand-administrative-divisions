@@ -1,0 +1,50 @@
+{
+  "id": "1406",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บางปะอิน",
+    "en": "Bang Pa-in",
+    "slug": "bang-pa-in"
+  },
+  "code": {
+    "dopa": "1406"
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "th": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 17,
+    "villages": 141
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.295",
+    "lon": "100.621"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-pa-in-1406/"
+  }
+}

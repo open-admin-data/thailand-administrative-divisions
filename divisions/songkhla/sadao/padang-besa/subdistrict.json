@@ -1,0 +1,61 @@
+{
+  "id": "901007",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปาดังเบซาร์",
+    "en": "Padang Besa",
+    "slug": "padang-besa"
+  },
+  "code": {
+    "dopa": "901007"
+  },
+  "parent": {
+    "id": "9010",
+    "level": 2,
+    "name": {
+      "th": "สะเดา",
+      "en": "Sadao",
+      "slug": "sadao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9010",
+      "level": 2,
+      "name": {
+        "th": "สะเดา",
+        "en": "Sadao",
+        "slug": "sadao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "90240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.740",
+    "lon": "100.241"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/padang-besa-901007/"
+  }
+}

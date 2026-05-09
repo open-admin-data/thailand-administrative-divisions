@@ -1,0 +1,61 @@
+{
+  "id": "350114",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองคู",
+    "en": "Nong Khu",
+    "slug": "nong-khu"
+  },
+  "code": {
+    "dopa": "350114"
+  },
+  "parent": {
+    "id": "3501",
+    "level": 2,
+    "name": {
+      "th": "เมืองยโสธร",
+      "en": "Mueang Yasothon",
+      "slug": "mueang-yasothon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3501",
+      "level": 2,
+      "name": {
+        "th": "เมืองยโสธร",
+        "en": "Mueang Yasothon",
+        "slug": "mueang-yasothon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "35000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.780",
+    "lon": "104.252"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-khu-350114/"
+  }
+}

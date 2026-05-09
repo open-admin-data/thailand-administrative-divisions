@@ -1,0 +1,61 @@
+{
+  "id": "460708",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองอีเฒ่า",
+    "en": "Nong I Thao",
+    "slug": "nong-i-thao"
+  },
+  "code": {
+    "dopa": "460708"
+  },
+  "parent": {
+    "id": "4607",
+    "level": 2,
+    "name": {
+      "th": "ยางตลาด",
+      "en": "Yang Talat",
+      "slug": "yang-talat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4607",
+      "level": 2,
+      "name": {
+        "th": "ยางตลาด",
+        "en": "Yang Talat",
+        "slug": "yang-talat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "46120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.339",
+    "lon": "103.371"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-i-thao-460708/"
+  }
+}

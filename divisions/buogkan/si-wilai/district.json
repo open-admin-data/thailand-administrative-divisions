@@ -1,0 +1,50 @@
+{
+  "id": "3807",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ศรีวิไล",
+    "en": "Si Wilai",
+    "slug": "si-wilai"
+  },
+  "code": {
+    "dopa": "3807"
+  },
+  "parent": {
+    "id": "38",
+    "level": 1,
+    "name": {
+      "th": "บึงกาฬ",
+      "en": "Buogkan",
+      "slug": "buogkan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 51
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.225",
+    "lon": "103.732"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/si-wilai-3807/"
+  }
+}

@@ -1,0 +1,185 @@
+[
+  {
+    "id": "820201",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เกาะยาวน้อย",
+      "en": "Ko Yao Noi",
+      "slug": "ko-yao-noi"
+    },
+    "code": {
+      "dopa": "820201"
+    },
+    "parent": {
+      "id": "8202",
+      "level": 2,
+      "name": {
+        "th": "เกาะยาว",
+        "en": "Ko Yao",
+        "slug": "ko-yao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "th": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga"
+        }
+      },
+      {
+        "id": "8202",
+        "level": 2,
+        "name": {
+          "th": "เกาะยาว",
+          "en": "Ko Yao",
+          "slug": "ko-yao"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "82160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.190",
+      "lon": "98.547"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ko-yao-noi-820201/"
+    }
+  },
+  {
+    "id": "820202",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เกาะยาวใหญ่",
+      "en": "Ko Yao Yai",
+      "slug": "ko-yao-yai"
+    },
+    "code": {
+      "dopa": "820202"
+    },
+    "parent": {
+      "id": "8202",
+      "level": 2,
+      "name": {
+        "th": "เกาะยาว",
+        "en": "Ko Yao",
+        "slug": "ko-yao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "th": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga"
+        }
+      },
+      {
+        "id": "8202",
+        "level": 2,
+        "name": {
+          "th": "เกาะยาว",
+          "en": "Ko Yao",
+          "slug": "ko-yao"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 4
+    },
+    "zip_codes": [
+      "82160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.040",
+      "lon": "98.638"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ko-yao-yai-820202/"
+    }
+  },
+  {
+    "id": "820203",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "พรุใน",
+      "en": "Pru Nai",
+      "slug": "pru-nai"
+    },
+    "code": {
+      "dopa": "820203"
+    },
+    "parent": {
+      "id": "8202",
+      "level": 2,
+      "name": {
+        "th": "เกาะยาว",
+        "en": "Ko Yao",
+        "slug": "ko-yao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "th": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga"
+        }
+      },
+      {
+        "id": "8202",
+        "level": 2,
+        "name": {
+          "th": "เกาะยาว",
+          "en": "Ko Yao",
+          "slug": "ko-yao"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "83000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.830",
+      "lon": "98.600"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/pru-nai-820203/"
+    }
+  }
+]

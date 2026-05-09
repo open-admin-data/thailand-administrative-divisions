@@ -1,0 +1,50 @@
+{
+  "id": "9501",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองยะลา",
+    "en": "Yala",
+    "slug": "yala"
+  },
+  "code": {
+    "dopa": "9501"
+  },
+  "parent": {
+    "id": "95",
+    "level": 1,
+    "name": {
+      "th": "ยะลา",
+      "en": "Yala",
+      "slug": "yala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 14,
+    "villages": 121
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.523",
+    "lon": "101.181"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/yala-9501/"
+  }
+}

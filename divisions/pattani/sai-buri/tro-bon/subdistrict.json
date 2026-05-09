@@ -1,0 +1,61 @@
+{
+  "id": "940706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เตราะบอน",
+    "en": "Tro Bon",
+    "slug": "tro-bon"
+  },
+  "code": {
+    "dopa": "940706"
+  },
+  "parent": {
+    "id": "9407",
+    "level": 2,
+    "name": {
+      "th": "สายบุรี",
+      "en": "Sai Buri",
+      "slug": "sai-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9407",
+      "level": 2,
+      "name": {
+        "th": "สายบุรี",
+        "en": "Sai Buri",
+        "slug": "sai-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "94110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.688",
+    "lon": "101.543"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tro-bon-940706/"
+  }
+}

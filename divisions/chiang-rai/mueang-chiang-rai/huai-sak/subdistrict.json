@@ -1,0 +1,61 @@
+{
+  "id": "570113",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยสัก",
+    "en": "Huai Sak",
+    "slug": "huai-sak"
+  },
+  "code": {
+    "dopa": "570113"
+  },
+  "parent": {
+    "id": "5701",
+    "level": 2,
+    "name": {
+      "th": "เมืองเชียงราย",
+      "en": "Mueang Chiang Rai",
+      "slug": "mueang-chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5701",
+      "level": 2,
+      "name": {
+        "th": "เมืองเชียงราย",
+        "en": "Mueang Chiang Rai",
+        "slug": "mueang-chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 31
+  },
+  "zip_codes": [
+    "57000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.756",
+    "lon": "99.872"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-sak-570113/"
+  }
+}

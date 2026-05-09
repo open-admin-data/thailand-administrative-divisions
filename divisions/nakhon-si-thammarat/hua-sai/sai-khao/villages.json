@@ -1,0 +1,734 @@
+[
+  {
+    "id": "80160301",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านทรายขาว",
+      "en": "Ban Sai Khao",
+      "slug": "80160301"
+    },
+    "code": {
+      "dopa": "80160301"
+    },
+    "parent": {
+      "id": "801603",
+      "level": 3,
+      "name": {
+        "th": "ทรายขาว",
+        "en": "Sai Khao",
+        "slug": "sai-khao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8016",
+        "level": 2,
+        "name": {
+          "th": "หัวไทร",
+          "en": "Hua Sai",
+          "slug": "hua-sai"
+        }
+      },
+      {
+        "id": "801603",
+        "level": 3,
+        "name": {
+          "th": "ทรายขาว",
+          "en": "Sai Khao",
+          "slug": "sai-khao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.05276024491302",
+      "lon": "100.21250277757645"
+    },
+    "source": {}
+  },
+  {
+    "id": "80160302",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านดอนแค",
+      "en": "Ban Don Khae",
+      "slug": "80160302"
+    },
+    "code": {
+      "dopa": "80160302"
+    },
+    "parent": {
+      "id": "801603",
+      "level": 3,
+      "name": {
+        "th": "ทรายขาว",
+        "en": "Sai Khao",
+        "slug": "sai-khao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8016",
+        "level": 2,
+        "name": {
+          "th": "หัวไทร",
+          "en": "Hua Sai",
+          "slug": "hua-sai"
+        }
+      },
+      {
+        "id": "801603",
+        "level": 3,
+        "name": {
+          "th": "ทรายขาว",
+          "en": "Sai Khao",
+          "slug": "sai-khao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.051922351427578",
+      "lon": "100.21786317229271"
+    },
+    "source": {}
+  },
+  {
+    "id": "80160303",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านไทรงด",
+      "en": "Ban Sai Ngot",
+      "slug": "80160303"
+    },
+    "code": {
+      "dopa": "80160303"
+    },
+    "parent": {
+      "id": "801603",
+      "level": 3,
+      "name": {
+        "th": "ทรายขาว",
+        "en": "Sai Khao",
+        "slug": "sai-khao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8016",
+        "level": 2,
+        "name": {
+          "th": "หัวไทร",
+          "en": "Hua Sai",
+          "slug": "hua-sai"
+        }
+      },
+      {
+        "id": "801603",
+        "level": 3,
+        "name": {
+          "th": "ทรายขาว",
+          "en": "Sai Khao",
+          "slug": "sai-khao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.068930851020443",
+      "lon": "100.21918147802353"
+    },
+    "source": {}
+  },
+  {
+    "id": "80160304",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านห้วยน้ำเย็น",
+      "en": "Ban Huai Nam Yen",
+      "slug": "80160304"
+    },
+    "code": {
+      "dopa": "80160304"
+    },
+    "parent": {
+      "id": "801603",
+      "level": 3,
+      "name": {
+        "th": "ทรายขาว",
+        "en": "Sai Khao",
+        "slug": "sai-khao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8016",
+        "level": 2,
+        "name": {
+          "th": "หัวไทร",
+          "en": "Hua Sai",
+          "slug": "hua-sai"
+        }
+      },
+      {
+        "id": "801603",
+        "level": 3,
+        "name": {
+          "th": "ทรายขาว",
+          "en": "Sai Khao",
+          "slug": "sai-khao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.051205293819491",
+      "lon": "100.24185687303543"
+    },
+    "source": {}
+  },
+  {
+    "id": "80160305",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านอ่าวบ่อ",
+      "en": "Ban Ao Bo",
+      "slug": "80160305"
+    },
+    "code": {
+      "dopa": "80160305"
+    },
+    "parent": {
+      "id": "801603",
+      "level": 3,
+      "name": {
+        "th": "ทรายขาว",
+        "en": "Sai Khao",
+        "slug": "sai-khao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8016",
+        "level": 2,
+        "name": {
+          "th": "หัวไทร",
+          "en": "Hua Sai",
+          "slug": "hua-sai"
+        }
+      },
+      {
+        "id": "801603",
+        "level": 3,
+        "name": {
+          "th": "ทรายขาว",
+          "en": "Sai Khao",
+          "slug": "sai-khao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.053210396164793",
+      "lon": "100.25834709405899"
+    },
+    "source": {}
+  },
+  {
+    "id": "80160306",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านโคกทราย",
+      "en": "Ban Khok Sai",
+      "slug": "80160306"
+    },
+    "code": {
+      "dopa": "80160306"
+    },
+    "parent": {
+      "id": "801603",
+      "level": 3,
+      "name": {
+        "th": "ทรายขาว",
+        "en": "Sai Khao",
+        "slug": "sai-khao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8016",
+        "level": 2,
+        "name": {
+          "th": "หัวไทร",
+          "en": "Hua Sai",
+          "slug": "hua-sai"
+        }
+      },
+      {
+        "id": "801603",
+        "level": 3,
+        "name": {
+          "th": "ทรายขาว",
+          "en": "Sai Khao",
+          "slug": "sai-khao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.040803832150724",
+      "lon": "100.21417379379272"
+    },
+    "source": {}
+  },
+  {
+    "id": "80160307",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านโคกยาง",
+      "en": "Ban Khok Yang",
+      "slug": "80160307"
+    },
+    "code": {
+      "dopa": "80160307"
+    },
+    "parent": {
+      "id": "801603",
+      "level": 3,
+      "name": {
+        "th": "ทรายขาว",
+        "en": "Sai Khao",
+        "slug": "sai-khao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8016",
+        "level": 2,
+        "name": {
+          "th": "หัวไทร",
+          "en": "Hua Sai",
+          "slug": "hua-sai"
+        }
+      },
+      {
+        "id": "801603",
+        "level": 3,
+        "name": {
+          "th": "ทรายขาว",
+          "en": "Sai Khao",
+          "slug": "sai-khao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.017423804502286",
+      "lon": "100.23049905896187"
+    },
+    "source": {}
+  },
+  {
+    "id": "80160308",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านโคกกุล",
+      "en": "Ban Khok Kun",
+      "slug": "80160308"
+    },
+    "code": {
+      "dopa": "80160308"
+    },
+    "parent": {
+      "id": "801603",
+      "level": 3,
+      "name": {
+        "th": "ทรายขาว",
+        "en": "Sai Khao",
+        "slug": "sai-khao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8016",
+        "level": 2,
+        "name": {
+          "th": "หัวไทร",
+          "en": "Hua Sai",
+          "slug": "hua-sai"
+        }
+      },
+      {
+        "id": "801603",
+        "level": 3,
+        "name": {
+          "th": "ทรายขาว",
+          "en": "Sai Khao",
+          "slug": "sai-khao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.063227791843978",
+      "lon": "100.25891035795212"
+    },
+    "source": {}
+  },
+  {
+    "id": "80160309",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเกาะสำโรง",
+      "en": "Ban Ko Samrong",
+      "slug": "80160309"
+    },
+    "code": {
+      "dopa": "80160309"
+    },
+    "parent": {
+      "id": "801603",
+      "level": 3,
+      "name": {
+        "th": "ทรายขาว",
+        "en": "Sai Khao",
+        "slug": "sai-khao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8016",
+        "level": 2,
+        "name": {
+          "th": "หัวไทร",
+          "en": "Hua Sai",
+          "slug": "hua-sai"
+        }
+      },
+      {
+        "id": "801603",
+        "level": 3,
+        "name": {
+          "th": "ทรายขาว",
+          "en": "Sai Khao",
+          "slug": "sai-khao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.014357449836956",
+      "lon": "100.21277770400047"
+    },
+    "source": {}
+  },
+  {
+    "id": "80160310",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านโคกทอง",
+      "en": "Ban Khok Thong",
+      "slug": "80160310"
+    },
+    "code": {
+      "dopa": "80160310"
+    },
+    "parent": {
+      "id": "801603",
+      "level": 3,
+      "name": {
+        "th": "ทรายขาว",
+        "en": "Sai Khao",
+        "slug": "sai-khao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8016",
+        "level": 2,
+        "name": {
+          "th": "หัวไทร",
+          "en": "Hua Sai",
+          "slug": "hua-sai"
+        }
+      },
+      {
+        "id": "801603",
+        "level": 3,
+        "name": {
+          "th": "ทรายขาว",
+          "en": "Sai Khao",
+          "slug": "sai-khao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.039355069157578",
+      "lon": "100.23663058876991"
+    },
+    "source": {}
+  },
+  {
+    "id": "80160311",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านอิมอญ",
+      "en": "Ban Imon",
+      "slug": "80160311"
+    },
+    "code": {
+      "dopa": "80160311"
+    },
+    "parent": {
+      "id": "801603",
+      "level": 3,
+      "name": {
+        "th": "ทรายขาว",
+        "en": "Sai Khao",
+        "slug": "sai-khao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8016",
+        "level": 2,
+        "name": {
+          "th": "หัวไทร",
+          "en": "Hua Sai",
+          "slug": "hua-sai"
+        }
+      },
+      {
+        "id": "801603",
+        "level": 3,
+        "name": {
+          "th": "ทรายขาว",
+          "en": "Sai Khao",
+          "slug": "sai-khao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.02359628376342",
+      "lon": "100.25335550308228"
+    },
+    "source": {}
+  },
+  {
+    "id": "80160312",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านวังอ้ายควาย",
+      "en": "Ban Wang Ai Khwai",
+      "slug": "80160312"
+    },
+    "code": {
+      "dopa": "80160312"
+    },
+    "parent": {
+      "id": "801603",
+      "level": 3,
+      "name": {
+        "th": "ทรายขาว",
+        "en": "Sai Khao",
+        "slug": "sai-khao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8016",
+        "level": 2,
+        "name": {
+          "th": "หัวไทร",
+          "en": "Hua Sai",
+          "slug": "hua-sai"
+        }
+      },
+      {
+        "id": "801603",
+        "level": 3,
+        "name": {
+          "th": "ทรายขาว",
+          "en": "Sai Khao",
+          "slug": "sai-khao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.041828984872737",
+      "lon": "100.19505366683006"
+    },
+    "source": {}
+  }
+]

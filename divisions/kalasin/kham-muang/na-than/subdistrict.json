@@ -1,0 +1,61 @@
+{
+  "id": "461007",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาทัน",
+    "en": "Na Than",
+    "slug": "na-than"
+  },
+  "code": {
+    "dopa": "461007"
+  },
+  "parent": {
+    "id": "4610",
+    "level": 2,
+    "name": {
+      "th": "คำม่วง",
+      "en": "Kham Muang",
+      "slug": "kham-muang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4610",
+      "level": 2,
+      "name": {
+        "th": "คำม่วง",
+        "en": "Kham Muang",
+        "slug": "kham-muang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "46180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.024",
+    "lon": "103.613"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-than-461007/"
+  }
+}

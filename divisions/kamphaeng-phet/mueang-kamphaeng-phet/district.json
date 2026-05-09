@@ -1,0 +1,50 @@
+{
+  "id": "6201",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองกำแพงเพชร",
+    "en": "Mueang Kamphaeng Phet",
+    "slug": "mueang-kamphaeng-phet"
+  },
+  "code": {
+    "dopa": "6201"
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "th": "กำแพงเพชร",
+      "en": "Kamphaeng Phet",
+      "slug": "kamphaeng-phet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 16,
+    "villages": 250
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.473",
+    "lon": "99.528"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-kamphaeng-phet-6201/"
+  }
+}

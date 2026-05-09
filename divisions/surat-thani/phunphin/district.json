@@ -1,0 +1,50 @@
+{
+  "id": "8417",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พุนพิน",
+    "en": "Phunphin",
+    "slug": "phunphin"
+  },
+  "code": {
+    "dopa": "8417"
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "th": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 16,
+    "villages": 121
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.125",
+    "lon": "99.199"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phunphin-8417/"
+  }
+}

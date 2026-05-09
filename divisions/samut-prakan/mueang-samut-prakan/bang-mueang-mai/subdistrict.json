@@ -1,0 +1,61 @@
+{
+  "id": "110114",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เทศบาลบางเมือง",
+    "en": "Bang Mueang Mai",
+    "slug": "bang-mueang-mai"
+  },
+  "code": {
+    "dopa": "110114"
+  },
+  "parent": {
+    "id": "1101",
+    "level": 2,
+    "name": {
+      "th": "เมืองสมุทรปราการ",
+      "en": "Mueang Samut Prakan",
+      "slug": "mueang-samut-prakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรปราการ",
+        "en": "Mueang Samut Prakan",
+        "slug": "mueang-samut-prakan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "10270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.622",
+    "lon": "100.605"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-mueang-mai-110114/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "960506",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บองอ",
+    "en": "Bo-ngo",
+    "slug": "bo-ngo"
+  },
+  "code": {
+    "dopa": "960506"
+  },
+  "parent": {
+    "id": "9605",
+    "level": 2,
+    "name": {
+      "th": "ระแงะ",
+      "en": "Ra-ngae",
+      "slug": "ra-ngae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9605",
+      "level": 2,
+      "name": {
+        "th": "ระแงะ",
+        "en": "Ra-ngae",
+        "slug": "ra-ngae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "96220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.172",
+    "lon": "101.753"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-ngo-960506/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "961106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กาวะ",
+    "en": "Ka Wa",
+    "slug": "ka-wa"
+  },
+  "code": {
+    "dopa": "961106"
+  },
+  "parent": {
+    "id": "9611",
+    "level": 2,
+    "name": {
+      "th": "สุไหงปาดี",
+      "en": "Su-ngai Padi",
+      "slug": "su-ngai-padi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9611",
+      "level": 2,
+      "name": {
+        "th": "สุไหงปาดี",
+        "en": "Su-ngai Padi",
+        "slug": "su-ngai-padi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "96140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.020",
+    "lon": "101.889"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ka-wa-961106/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "410612",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ผักตบ",
+    "en": "Phak Top",
+    "slug": "phak-top"
+  },
+  "code": {
+    "dopa": "410612"
+  },
+  "parent": {
+    "id": "4106",
+    "level": 2,
+    "name": {
+      "th": "หนองหาน",
+      "en": "Nong Han",
+      "slug": "nong-han"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4106",
+      "level": 2,
+      "name": {
+        "th": "หนองหาน",
+        "en": "Nong Han",
+        "slug": "nong-han"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "41130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.339",
+    "lon": "103.021"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phak-top-410612/"
+  }
+}

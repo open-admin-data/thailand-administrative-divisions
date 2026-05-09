@@ -1,0 +1,61 @@
+{
+  "id": "810305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศาลาด่าน",
+    "en": "Sala Dan",
+    "slug": "sala-dan"
+  },
+  "code": {
+    "dopa": "810305"
+  },
+  "parent": {
+    "id": "8103",
+    "level": 2,
+    "name": {
+      "th": "เกาะลันตา",
+      "en": "Ko Lanta",
+      "slug": "ko-lanta"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "th": "เกาะลันตา",
+        "en": "Ko Lanta",
+        "slug": "ko-lanta"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "81150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.603",
+    "lon": "99.050"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sala-dan-810305/"
+  }
+}

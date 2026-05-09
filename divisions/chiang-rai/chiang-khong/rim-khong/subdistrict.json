@@ -1,0 +1,61 @@
+{
+  "id": "570310",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ริมโขง",
+    "en": "Rim Khong",
+    "slug": "rim-khong"
+  },
+  "code": {
+    "dopa": "570310"
+  },
+  "parent": {
+    "id": "5703",
+    "level": 2,
+    "name": {
+      "th": "เชียงของ",
+      "en": "Chiang Khong",
+      "slug": "chiang-khong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5703",
+      "level": 2,
+      "name": {
+        "th": "เชียงของ",
+        "en": "Chiang Khong",
+        "slug": "chiang-khong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "57140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.361",
+    "lon": "100.313"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rim-khong-570310/"
+  }
+}

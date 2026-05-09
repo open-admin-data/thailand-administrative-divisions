@@ -1,0 +1,61 @@
+{
+  "id": "630105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองบัวเหนือ",
+    "en": "Nong Bua Nuea",
+    "slug": "nong-bua-nuea"
+  },
+  "code": {
+    "dopa": "630105"
+  },
+  "parent": {
+    "id": "6301",
+    "level": 2,
+    "name": {
+      "th": "เมืองตาก",
+      "en": "Mueang Tak",
+      "slug": "mueang-tak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตาก",
+        "en": "Mueang Tak",
+        "slug": "mueang-tak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "63000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.923",
+    "lon": "99.049"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-bua-nuea-630105/"
+  }
+}

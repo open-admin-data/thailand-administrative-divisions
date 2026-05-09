@@ -1,0 +1,61 @@
+{
+  "id": "550402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เชียงของ",
+    "en": "Chiang Khong",
+    "slug": "chiang-khong"
+  },
+  "code": {
+    "dopa": "550402"
+  },
+  "parent": {
+    "id": "5504",
+    "level": 2,
+    "name": {
+      "th": "นาน้อย",
+      "en": "Na Noi",
+      "slug": "na-noi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5504",
+      "level": 2,
+      "name": {
+        "th": "นาน้อย",
+        "en": "Na Noi",
+        "slug": "na-noi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "55150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.273",
+    "lon": "100.884"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chiang-khong-550402/"
+  }
+}

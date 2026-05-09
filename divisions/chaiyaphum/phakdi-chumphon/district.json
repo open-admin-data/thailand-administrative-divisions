@@ -1,0 +1,50 @@
+{
+  "id": "3614",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ภักดีชุมพล",
+    "en": "Phakdi Chumphon",
+    "slug": "phakdi-chumphon"
+  },
+  "code": {
+    "dopa": "3614"
+  },
+  "parent": {
+    "id": "36",
+    "level": 1,
+    "name": {
+      "th": "ชัยภูมิ",
+      "en": "Chaiyaphum",
+      "slug": "chaiyaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 47
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.793",
+    "lon": "101.372"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phakdi-chumphon-3614/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "420106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เสี้ยว",
+    "en": "Siao",
+    "slug": "siao"
+  },
+  "code": {
+    "dopa": "420106"
+  },
+  "parent": {
+    "id": "4201",
+    "level": 2,
+    "name": {
+      "th": "เมืองเลย",
+      "en": "Mueang Loei",
+      "slug": "mueang-loei"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4201",
+      "level": 2,
+      "name": {
+        "th": "เมืองเลย",
+        "en": "Mueang Loei",
+        "slug": "mueang-loei"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "42000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.458",
+    "lon": "101.636"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/siao-420106/"
+  }
+}

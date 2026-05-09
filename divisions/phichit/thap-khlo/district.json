@@ -1,0 +1,50 @@
+{
+  "id": "6608",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ทับคล้อ",
+    "en": "Thap Khlo",
+    "slug": "thap-khlo"
+  },
+  "code": {
+    "dopa": "6608"
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "th": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 56
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.189",
+    "lon": "100.568"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thap-khlo-6608/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "150614",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หลักแก้ว",
+    "en": "Lak Kaeo",
+    "slug": "lak-kaeo"
+  },
+  "code": {
+    "dopa": "150614"
+  },
+  "parent": {
+    "id": "1506",
+    "level": 2,
+    "name": {
+      "th": "วิเศษชัยชาญ",
+      "en": "Wiset Chai Chan",
+      "slug": "wiset-chai-chan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1506",
+      "level": 2,
+      "name": {
+        "th": "วิเศษชัยชาญ",
+        "en": "Wiset Chai Chan",
+        "slug": "wiset-chai-chan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "14110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.517",
+    "lon": "100.289"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lak-kaeo-150614/"
+  }
+}

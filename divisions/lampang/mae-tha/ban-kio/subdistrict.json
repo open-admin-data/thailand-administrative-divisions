@@ -1,0 +1,61 @@
+{
+  "id": "521004",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านกิ่ว",
+    "en": "Ban Kio",
+    "slug": "ban-kio"
+  },
+  "code": {
+    "dopa": "521004"
+  },
+  "parent": {
+    "id": "5210",
+    "level": 2,
+    "name": {
+      "th": "แม่ทะ",
+      "en": "Mae Tha",
+      "slug": "mae-tha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5210",
+      "level": 2,
+      "name": {
+        "th": "แม่ทะ",
+        "en": "Mae Tha",
+        "slug": "mae-tha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "52150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.089",
+    "lon": "99.491"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-kio-521004/"
+  }
+}

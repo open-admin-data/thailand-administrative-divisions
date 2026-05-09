@@ -1,0 +1,61 @@
+{
+  "id": "470802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เดื่อศรีคันไชย",
+    "en": "Duea Si Khan Chai",
+    "slug": "duea-si-khan-chai"
+  },
+  "code": {
+    "dopa": "470802"
+  },
+  "parent": {
+    "id": "4708",
+    "level": 2,
+    "name": {
+      "th": "วานรนิวาส",
+      "en": "Wanon Niwat",
+      "slug": "wanon-niwat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4708",
+      "level": 2,
+      "name": {
+        "th": "วานรนิวาส",
+        "en": "Wanon Niwat",
+        "slug": "wanon-niwat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "47120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.473",
+    "lon": "103.730"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/duea-si-khan-chai-470802/"
+  }
+}

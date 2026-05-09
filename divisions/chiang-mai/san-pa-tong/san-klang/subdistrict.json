@@ -1,0 +1,61 @@
+{
+  "id": "501202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สันกลาง",
+    "en": "San Klang",
+    "slug": "san-klang"
+  },
+  "code": {
+    "dopa": "501202"
+  },
+  "parent": {
+    "id": "5012",
+    "level": 2,
+    "name": {
+      "th": "สันป่าตอง",
+      "en": "San Pa Tong",
+      "slug": "san-pa-tong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5012",
+      "level": 2,
+      "name": {
+        "th": "สันป่าตอง",
+        "en": "San Pa Tong",
+        "slug": "san-pa-tong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "50120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.665",
+    "lon": "98.871"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/san-klang-501202/"
+  }
+}

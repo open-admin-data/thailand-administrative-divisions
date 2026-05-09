@@ -1,0 +1,61 @@
+{
+  "id": "360407",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สระโพนทอง",
+    "en": "Sa Phon Thong",
+    "slug": "sa-phon-thong"
+  },
+  "code": {
+    "dopa": "360407"
+  },
+  "parent": {
+    "id": "3604",
+    "level": 2,
+    "name": {
+      "th": "เกษตรสมบูรณ์",
+      "en": "Kaset Sombun",
+      "slug": "kaset-sombun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3604",
+      "level": 2,
+      "name": {
+        "th": "เกษตรสมบูรณ์",
+        "en": "Kaset Sombun",
+        "slug": "kaset-sombun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "36120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.246",
+    "lon": "101.984"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sa-phon-thong-360407/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "470401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พรรณา",
+    "en": "Phanna",
+    "slug": "phanna"
+  },
+  "code": {
+    "dopa": "470401"
+  },
+  "parent": {
+    "id": "4704",
+    "level": 2,
+    "name": {
+      "th": "พรรณานิคม",
+      "en": "Phanna Nikhom",
+      "slug": "phanna-nikhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4704",
+      "level": 2,
+      "name": {
+        "th": "พรรณานิคม",
+        "en": "Phanna Nikhom",
+        "slug": "phanna-nikhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "47130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.356",
+    "lon": "103.856"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phanna-470401/"
+  }
+}

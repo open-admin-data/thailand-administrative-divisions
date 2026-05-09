@@ -1,0 +1,61 @@
+{
+  "id": "160206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชอนน้อย",
+    "en": "Chon Noi",
+    "slug": "chon-noi"
+  },
+  "code": {
+    "dopa": "160206"
+  },
+  "parent": {
+    "id": "1602",
+    "level": 2,
+    "name": {
+      "th": "พัฒนานิคม",
+      "en": "Phatthana Nikhom",
+      "slug": "phatthana-nikhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1602",
+      "level": 2,
+      "name": {
+        "th": "พัฒนานิคม",
+        "en": "Phatthana Nikhom",
+        "slug": "phatthana-nikhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "15140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.795",
+    "lon": "100.985"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chon-noi-160206/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "2401",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองฉะเชิงเทรา",
+    "en": "Mueang Chachoengsao",
+    "slug": "mueang-chachoengsao"
+  },
+  "code": {
+    "dopa": "2401"
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "th": "ฉะเชิงเทรา",
+      "en": "Chachoengsao",
+      "slug": "chachoengsao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 19,
+    "villages": 214
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.707",
+    "lon": "101.100"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-chachoengsao-2401/"
+  }
+}

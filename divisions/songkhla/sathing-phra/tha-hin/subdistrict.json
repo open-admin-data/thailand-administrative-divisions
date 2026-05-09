@@ -1,0 +1,61 @@
+{
+  "id": "900208",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าหิน",
+    "en": "Tha Hin",
+    "slug": "tha-hin"
+  },
+  "code": {
+    "dopa": "900208"
+  },
+  "parent": {
+    "id": "9002",
+    "level": 2,
+    "name": {
+      "th": "สทิงพระ",
+      "en": "Sathing Phra",
+      "slug": "sathing-phra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9002",
+      "level": 2,
+      "name": {
+        "th": "สทิงพระ",
+        "en": "Sathing Phra",
+        "slug": "sathing-phra"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "90190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.395",
+    "lon": "100.419"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-hin-900208/"
+  }
+}

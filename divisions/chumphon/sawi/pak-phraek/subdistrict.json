@@ -1,0 +1,61 @@
+{
+  "id": "860705",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากแพรก",
+    "en": "Pak Phraek",
+    "slug": "pak-phraek"
+  },
+  "code": {
+    "dopa": "860705"
+  },
+  "parent": {
+    "id": "8607",
+    "level": 2,
+    "name": {
+      "th": "สวี",
+      "en": "Sawi",
+      "slug": "sawi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8607",
+      "level": 2,
+      "name": {
+        "th": "สวี",
+        "en": "Sawi",
+        "slug": "sawi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "86130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.291",
+    "lon": "99.148"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-phraek-860705/"
+  }
+}

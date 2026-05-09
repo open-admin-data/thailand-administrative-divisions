@@ -1,0 +1,61 @@
+{
+  "id": "840802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านยาง",
+    "en": "Ban Yang",
+    "slug": "ban-yang"
+  },
+  "code": {
+    "dopa": "840802"
+  },
+  "parent": {
+    "id": "8408",
+    "level": 2,
+    "name": {
+      "th": "คีรีรัฐนิคม",
+      "en": "Khiri Rat Nikhom",
+      "slug": "khiri-rat-nikhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8408",
+      "level": 2,
+      "name": {
+        "th": "คีรีรัฐนิคม",
+        "en": "Khiri Rat Nikhom",
+        "slug": "khiri-rat-nikhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "84180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.051",
+    "lon": "99.012"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-yang-840802/"
+  }
+}

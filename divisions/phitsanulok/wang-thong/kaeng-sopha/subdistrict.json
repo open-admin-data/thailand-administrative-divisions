@@ -1,0 +1,61 @@
+{
+  "id": "650806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แก่งโสภา",
+    "en": "Kaeng Sopha",
+    "slug": "kaeng-sopha"
+  },
+  "code": {
+    "dopa": "650806"
+  },
+  "parent": {
+    "id": "6508",
+    "level": 2,
+    "name": {
+      "th": "วังทอง",
+      "en": "Wang Thong",
+      "slug": "wang-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6508",
+      "level": 2,
+      "name": {
+        "th": "วังทอง",
+        "en": "Wang Thong",
+        "slug": "wang-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "65220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.907",
+    "lon": "100.625"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kaeng-sopha-650806/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "820502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางนายสี",
+    "en": "Bang Nai Si",
+    "slug": "bang-nai-si"
+  },
+  "code": {
+    "dopa": "820502"
+  },
+  "parent": {
+    "id": "8205",
+    "level": 2,
+    "name": {
+      "th": "ตะกั่วป่า",
+      "en": "Takua Pa",
+      "slug": "takua-pa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "th": "ตะกั่วป่า",
+        "en": "Takua Pa",
+        "slug": "takua-pa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "82110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.914",
+    "lon": "98.324"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-nai-si-820502/"
+  }
+}

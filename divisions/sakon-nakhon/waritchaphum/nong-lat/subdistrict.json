@@ -1,0 +1,61 @@
+{
+  "id": "470603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองลาด",
+    "en": "Nong Lat",
+    "slug": "nong-lat"
+  },
+  "code": {
+    "dopa": "470603"
+  },
+  "parent": {
+    "id": "4706",
+    "level": 2,
+    "name": {
+      "th": "วาริชภูมิ",
+      "en": "Waritchaphum",
+      "slug": "waritchaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4706",
+      "level": 2,
+      "name": {
+        "th": "วาริชภูมิ",
+        "en": "Waritchaphum",
+        "slug": "waritchaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "47150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.319",
+    "lon": "103.543"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-lat-470603/"
+  }
+}

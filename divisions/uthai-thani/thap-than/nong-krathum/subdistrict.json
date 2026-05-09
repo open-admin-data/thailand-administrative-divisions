@@ -1,0 +1,61 @@
+{
+  "id": "610208",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองกระทุ่ม",
+    "en": "Nong Krathum",
+    "slug": "nong-krathum"
+  },
+  "code": {
+    "dopa": "610208"
+  },
+  "parent": {
+    "id": "6102",
+    "level": 2,
+    "name": {
+      "th": "ทัพทัน",
+      "en": "Thap Than",
+      "slug": "thap-than"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "th": "ทัพทัน",
+        "en": "Thap Than",
+        "slug": "thap-than"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "61120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.508",
+    "lon": "99.710"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-krathum-610208/"
+  }
+}

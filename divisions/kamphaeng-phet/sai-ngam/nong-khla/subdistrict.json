@@ -1,0 +1,61 @@
+{
+  "id": "620202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองคล้า",
+    "en": "Nong Khla",
+    "slug": "nong-khla"
+  },
+  "code": {
+    "dopa": "620202"
+  },
+  "parent": {
+    "id": "6202",
+    "level": 2,
+    "name": {
+      "th": "ไทรงาม",
+      "en": "Sai Ngam",
+      "slug": "sai-ngam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6202",
+      "level": 2,
+      "name": {
+        "th": "ไทรงาม",
+        "en": "Sai Ngam",
+        "slug": "sai-ngam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "62150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.452",
+    "lon": "99.827"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-khla-620202/"
+  }
+}

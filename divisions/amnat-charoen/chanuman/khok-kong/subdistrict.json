@@ -1,0 +1,61 @@
+{
+  "id": "370204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกก่ง",
+    "en": "Khok Kong",
+    "slug": "khok-kong"
+  },
+  "code": {
+    "dopa": "370204"
+  },
+  "parent": {
+    "id": "3702",
+    "level": 2,
+    "name": {
+      "th": "ชานุมาน",
+      "en": "Chanuman",
+      "slug": "chanuman"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    {
+      "id": "3702",
+      "level": 2,
+      "name": {
+        "th": "ชานุมาน",
+        "en": "Chanuman",
+        "slug": "chanuman"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "37210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.066",
+    "lon": "104.970"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-kong-370204/"
+  }
+}

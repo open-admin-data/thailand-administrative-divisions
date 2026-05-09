@@ -1,0 +1,61 @@
+{
+  "id": "540101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ในเวียง",
+    "en": "Nai Wiang",
+    "slug": "nai-wiang"
+  },
+  "code": {
+    "dopa": "540101"
+  },
+  "parent": {
+    "id": "5401",
+    "level": 2,
+    "name": {
+      "th": "เมืองแพร่",
+      "en": "Mueang Phrae",
+      "slug": "mueang-phrae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    {
+      "id": "5401",
+      "level": 2,
+      "name": {
+        "th": "เมืองแพร่",
+        "en": "Mueang Phrae",
+        "slug": "mueang-phrae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "54000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.140",
+    "lon": "100.142"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nai-wiang-540101/"
+  }
+}

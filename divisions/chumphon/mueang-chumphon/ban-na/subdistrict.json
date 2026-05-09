@@ -1,0 +1,61 @@
+{
+  "id": "860112",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านนา",
+    "en": "Ban Na",
+    "slug": "ban-na"
+  },
+  "code": {
+    "dopa": "860112"
+  },
+  "parent": {
+    "id": "8601",
+    "level": 2,
+    "name": {
+      "th": "เมืองชุมพร",
+      "en": "Mueang Chumphon",
+      "slug": "mueang-chumphon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8601",
+      "level": 2,
+      "name": {
+        "th": "เมืองชุมพร",
+        "en": "Mueang Chumphon",
+        "slug": "mueang-chumphon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "86190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.437",
+    "lon": "98.952"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-na-860112/"
+  }
+}

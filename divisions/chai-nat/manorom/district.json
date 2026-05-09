@@ -1,0 +1,50 @@
+{
+  "id": "1802",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "มโนรมย์",
+    "en": "Manorom",
+    "slug": "manorom"
+  },
+  "code": {
+    "dopa": "1802"
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "th": "ชัยนาท",
+      "en": "Chai Nat",
+      "slug": "chai-nat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 40
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.354",
+    "lon": "100.122"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/manorom-1802/"
+  }
+}

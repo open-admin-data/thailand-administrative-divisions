@@ -1,0 +1,61 @@
+{
+  "id": "200406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยใหญ่",
+    "en": "Huai Yai",
+    "slug": "huai-yai"
+  },
+  "code": {
+    "dopa": "200406"
+  },
+  "parent": {
+    "id": "2004",
+    "level": 2,
+    "name": {
+      "th": "บางละมุง",
+      "en": "Bang Lamung",
+      "slug": "bang-lamung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "th": "บางละมุง",
+        "en": "Bang Lamung",
+        "slug": "bang-lamung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "20150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.835",
+    "lon": "100.985"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-yai-200406/"
+  }
+}

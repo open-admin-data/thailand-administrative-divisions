@@ -1,0 +1,61 @@
+{
+  "id": "260112",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาพระ",
+    "en": "Khao Phra",
+    "slug": "khao-phra"
+  },
+  "code": {
+    "dopa": "260112"
+  },
+  "parent": {
+    "id": "2601",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครนายก",
+      "en": "Nakhon Nayok",
+      "slug": "nakhon-nayok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    {
+      "id": "2601",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "26000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.301",
+    "lon": "101.212"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-phra-260112/"
+  }
+}

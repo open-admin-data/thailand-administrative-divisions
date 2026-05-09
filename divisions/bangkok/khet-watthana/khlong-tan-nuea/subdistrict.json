@@ -1,0 +1,61 @@
+{
+  "id": "103902",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง คลองตันเหนือ",
+    "en": "Khlong Tan Nuea",
+    "slug": "khlong-tan-nuea"
+  },
+  "code": {
+    "dopa": "103902"
+  },
+  "parent": {
+    "id": "1039",
+    "level": 2,
+    "name": {
+      "th": "เขต วัฒนา",
+      "en": "Khet Watthana",
+      "slug": "khet-watthana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1039",
+      "level": 2,
+      "name": {
+        "th": "เขต วัฒนา",
+        "en": "Khet Watthana",
+        "slug": "khet-watthana"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10110"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.736",
+    "lon": "100.576"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-tan-nuea-103902/"
+  }
+}

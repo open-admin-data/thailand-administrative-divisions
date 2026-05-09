@@ -1,0 +1,61 @@
+{
+  "id": "520806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาโป่ง",
+    "en": "Na Pong",
+    "slug": "na-pong"
+  },
+  "code": {
+    "dopa": "520806"
+  },
+  "parent": {
+    "id": "5208",
+    "level": 2,
+    "name": {
+      "th": "เถิน",
+      "en": "Thoen",
+      "slug": "thoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5208",
+      "level": 2,
+      "name": {
+        "th": "เถิน",
+        "en": "Thoen",
+        "slug": "thoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "52160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.651",
+    "lon": "99.116"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-pong-520806/"
+  }
+}

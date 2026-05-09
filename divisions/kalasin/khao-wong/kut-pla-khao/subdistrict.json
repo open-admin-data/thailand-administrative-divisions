@@ -1,0 +1,61 @@
+{
+  "id": "460611",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุดปลาค้าว",
+    "en": "Kut Pla Khao",
+    "slug": "kut-pla-khao"
+  },
+  "code": {
+    "dopa": "460611"
+  },
+  "parent": {
+    "id": "4606",
+    "level": 2,
+    "name": {
+      "th": "เขาวง",
+      "en": "Khao Wong",
+      "slug": "khao-wong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4606",
+      "level": 2,
+      "name": {
+        "th": "เขาวง",
+        "en": "Khao Wong",
+        "slug": "khao-wong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "46160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.715",
+    "lon": "104.115"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kut-pla-khao-460611/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "8301",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองภูเก็ต",
+    "en": "Mueang Phuket",
+    "slug": "mueang-phuket"
+  },
+  "code": {
+    "dopa": "8301"
+  },
+  "parent": {
+    "id": "83",
+    "level": 1,
+    "name": {
+      "th": "ภูเก็ต",
+      "en": "Phuket",
+      "slug": "phuket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "th": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 59
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.924",
+    "lon": "98.455"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-phuket-8301/"
+  }
+}

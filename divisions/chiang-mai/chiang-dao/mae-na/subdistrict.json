@@ -1,0 +1,61 @@
+{
+  "id": "500404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่นะ",
+    "en": "Mae Na",
+    "slug": "mae-na"
+  },
+  "code": {
+    "dopa": "500404"
+  },
+  "parent": {
+    "id": "5004",
+    "level": 2,
+    "name": {
+      "th": "เชียงดาว",
+      "en": "Chiang Dao",
+      "slug": "chiang-dao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5004",
+      "level": 2,
+      "name": {
+        "th": "เชียงดาว",
+        "en": "Chiang Dao",
+        "slug": "chiang-dao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "50170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.687",
+    "lon": "98.900"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-na-500404/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "210306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชากพง",
+    "en": "Chak Phong",
+    "slug": "chak-phong"
+  },
+  "code": {
+    "dopa": "210306"
+  },
+  "parent": {
+    "id": "2103",
+    "level": 2,
+    "name": {
+      "th": "แกลง",
+      "en": "Klaeng",
+      "slug": "klaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "th": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "21190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.668",
+    "lon": "101.549"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chak-phong-210306/"
+  }
+}

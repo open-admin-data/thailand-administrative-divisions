@@ -1,0 +1,61 @@
+{
+  "id": "670712",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยางงาม",
+    "en": "Yang Ngam",
+    "slug": "yang-ngam"
+  },
+  "code": {
+    "dopa": "670712"
+  },
+  "parent": {
+    "id": "6707",
+    "level": 2,
+    "name": {
+      "th": "หนองไผ่",
+      "en": "Nong Phai",
+      "slug": "nong-phai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6707",
+      "level": 2,
+      "name": {
+        "th": "หนองไผ่",
+        "en": "Nong Phai",
+        "slug": "nong-phai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "67220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.101",
+    "lon": "100.951"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yang-ngam-670712/"
+  }
+}

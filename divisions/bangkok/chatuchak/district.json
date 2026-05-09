@@ -1,0 +1,50 @@
+{
+  "id": "1030",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต จตุจักร",
+    "en": "Chatuchak",
+    "slug": "chatuchak"
+  },
+  "code": {
+    "dopa": "1030"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 1,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.826",
+    "lon": "100.565"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chatuchak-1030/"
+  }
+}

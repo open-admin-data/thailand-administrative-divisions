@@ -1,0 +1,61 @@
+{
+  "id": "640613",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ราวต้นจันทร์",
+    "en": "Rao Ton Chan",
+    "slug": "rao-ton-chan"
+  },
+  "code": {
+    "dopa": "640613"
+  },
+  "parent": {
+    "id": "6406",
+    "level": 2,
+    "name": {
+      "th": "ศรีสำโรง",
+      "en": "Si Samrong",
+      "slug": "si-samrong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6406",
+      "level": 2,
+      "name": {
+        "th": "ศรีสำโรง",
+        "en": "Si Samrong",
+        "slug": "si-samrong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "64120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.174",
+    "lon": "99.723"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rao-ton-chan-640613/"
+  }
+}

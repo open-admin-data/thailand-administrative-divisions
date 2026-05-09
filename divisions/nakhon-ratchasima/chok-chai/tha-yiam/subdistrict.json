@@ -1,0 +1,61 @@
+{
+  "id": "300707",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าเยี่ยม",
+    "en": "Tha Yiam",
+    "slug": "tha-yiam"
+  },
+  "code": {
+    "dopa": "300707"
+  },
+  "parent": {
+    "id": "3007",
+    "level": 2,
+    "name": {
+      "th": "โชคชัย",
+      "en": "Chok Chai",
+      "slug": "chok-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3007",
+      "level": 2,
+      "name": {
+        "th": "โชคชัย",
+        "en": "Chok Chai",
+        "slug": "chok-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "30190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.716",
+    "lon": "102.237"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-yiam-300707/"
+  }
+}

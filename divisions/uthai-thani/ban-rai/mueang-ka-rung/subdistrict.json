@@ -1,0 +1,61 @@
+{
+  "id": "610606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองการุ้ง",
+    "en": "Mueang Ka Rung",
+    "slug": "mueang-ka-rung"
+  },
+  "code": {
+    "dopa": "610606"
+  },
+  "parent": {
+    "id": "6106",
+    "level": 2,
+    "name": {
+      "th": "บ้านไร่",
+      "en": "Ban Rai",
+      "slug": "ban-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6106",
+      "level": 2,
+      "name": {
+        "th": "บ้านไร่",
+        "en": "Ban Rai",
+        "slug": "ban-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "61180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.177",
+    "lon": "99.724"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-ka-rung-610606/"
+  }
+}

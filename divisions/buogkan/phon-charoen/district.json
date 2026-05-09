@@ -1,0 +1,50 @@
+{
+  "id": "3802",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พรเจริญ",
+    "en": "Phon Charoen",
+    "slug": "phon-charoen"
+  },
+  "code": {
+    "dopa": "3802"
+  },
+  "parent": {
+    "id": "38",
+    "level": 1,
+    "name": {
+      "th": "บึงกาฬ",
+      "en": "Buogkan",
+      "slug": "buogkan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 58
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.031",
+    "lon": "103.711"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phon-charoen-3802/"
+  }
+}

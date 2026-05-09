@@ -1,0 +1,61 @@
+{
+  "id": "361207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกกุง",
+    "en": "Khok Kung",
+    "slug": "khok-kung"
+  },
+  "code": {
+    "dopa": "361207"
+  },
+  "parent": {
+    "id": "3612",
+    "level": 2,
+    "name": {
+      "th": "แก้งคร้อ",
+      "en": "Kaeng Khro",
+      "slug": "kaeng-khro"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3612",
+      "level": 2,
+      "name": {
+        "th": "แก้งคร้อ",
+        "en": "Kaeng Khro",
+        "slug": "kaeng-khro"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "36150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.111",
+    "lon": "102.154"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-kung-361207/"
+  }
+}

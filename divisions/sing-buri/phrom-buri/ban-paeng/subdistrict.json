@@ -1,0 +1,61 @@
+{
+  "id": "170405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านแป้ง",
+    "en": "Ban Paeng",
+    "slug": "ban-paeng"
+  },
+  "code": {
+    "dopa": "170405"
+  },
+  "parent": {
+    "id": "1704",
+    "level": 2,
+    "name": {
+      "th": "พรหมบุรี",
+      "en": "Phrom Buri",
+      "slug": "phrom-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "th": "พรหมบุรี",
+        "en": "Phrom Buri",
+        "slug": "phrom-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "16120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.811",
+    "lon": "100.458"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-paeng-170405/"
+  }
+}

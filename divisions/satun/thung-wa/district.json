@@ -1,0 +1,50 @@
+{
+  "id": "9106",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ทุ่งหว้า",
+    "en": "Thung Wa",
+    "slug": "thung-wa"
+  },
+  "code": {
+    "dopa": "9106"
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "th": "สตูล",
+      "en": "Satun",
+      "slug": "satun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 35
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.998",
+    "lon": "99.691"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thung-wa-9106/"
+  }
+}

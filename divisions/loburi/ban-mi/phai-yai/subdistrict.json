@@ -1,0 +1,61 @@
+{
+  "id": "160601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไผ่ใหญ่",
+    "en": "Phai Yai",
+    "slug": "phai-yai"
+  },
+  "code": {
+    "dopa": "160601"
+  },
+  "parent": {
+    "id": "1606",
+    "level": 2,
+    "name": {
+      "th": "บ้านหมี่",
+      "en": "Ban Mi",
+      "slug": "ban-mi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1606",
+      "level": 2,
+      "name": {
+        "th": "บ้านหมี่",
+        "en": "Ban Mi",
+        "slug": "ban-mi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "15110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.089",
+    "lon": "100.459"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phai-yai-160601/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "400803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขื่อนอุบลรัตน์",
+    "en": "Khuean Ubolratana",
+    "slug": "khuean-ubolratana"
+  },
+  "code": {
+    "dopa": "400803"
+  },
+  "parent": {
+    "id": "4008",
+    "level": 2,
+    "name": {
+      "th": "อุบลรัตน์",
+      "en": "Ubolratana",
+      "slug": "ubolratana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4008",
+      "level": 2,
+      "name": {
+        "th": "อุบลรัตน์",
+        "en": "Ubolratana",
+        "slug": "ubolratana"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "40250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.715",
+    "lon": "102.636"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khuean-ubolratana-400803/"
+  }
+}

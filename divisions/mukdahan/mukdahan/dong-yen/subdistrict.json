@@ -1,0 +1,61 @@
+{
+  "id": "490111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงเย็น",
+    "en": "Dong Yen",
+    "slug": "dong-yen"
+  },
+  "code": {
+    "dopa": "490111"
+  },
+  "parent": {
+    "id": "4901",
+    "level": 2,
+    "name": {
+      "th": "เมืองมุกดาหาร",
+      "en": "Mukdahan",
+      "slug": "mukdahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4901",
+      "level": 2,
+      "name": {
+        "th": "เมืองมุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "49000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.371",
+    "lon": "104.697"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-yen-490111/"
+  }
+}

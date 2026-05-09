@@ -1,0 +1,61 @@
+{
+  "id": "301602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทับสวาย",
+    "en": "Thap Sawai",
+    "slug": "thap-sawai"
+  },
+  "code": {
+    "dopa": "301602"
+  },
+  "parent": {
+    "id": "3016",
+    "level": 2,
+    "name": {
+      "th": "ห้วยแถลง",
+      "en": "Huai Thalaeng",
+      "slug": "huai-thalaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3016",
+      "level": 2,
+      "name": {
+        "th": "ห้วยแถลง",
+        "en": "Huai Thalaeng",
+        "slug": "huai-thalaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "30240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.021",
+    "lon": "102.634"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thap-sawai-301602/"
+  }
+}

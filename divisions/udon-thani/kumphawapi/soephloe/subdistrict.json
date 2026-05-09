@@ -1,0 +1,61 @@
+{
+  "id": "410409",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เสอเพลอ",
+    "en": "Soephloe",
+    "slug": "soephloe"
+  },
+  "code": {
+    "dopa": "410409"
+  },
+  "parent": {
+    "id": "4104",
+    "level": 2,
+    "name": {
+      "th": "กุมภวาปี",
+      "en": "Kumphawapi",
+      "slug": "kumphawapi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4104",
+      "level": 2,
+      "name": {
+        "th": "กุมภวาปี",
+        "en": "Kumphawapi",
+        "slug": "kumphawapi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "41370"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.202",
+    "lon": "102.874"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/soephloe-410409/"
+  }
+}

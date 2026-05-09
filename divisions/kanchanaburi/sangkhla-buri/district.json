@@ -1,0 +1,50 @@
+{
+  "id": "7108",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สังขละบุรี",
+    "en": "Sangkhla Buri",
+    "slug": "sangkhla-buri"
+  },
+  "code": {
+    "dopa": "7108"
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "th": "กาญจนบุรี",
+      "en": "Kanchanaburi",
+      "slug": "kanchanaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 20
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.999",
+    "lon": "98.545"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sangkhla-buri-7108/"
+  }
+}

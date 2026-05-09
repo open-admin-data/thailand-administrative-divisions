@@ -1,0 +1,61 @@
+{
+  "id": "440801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปะหลาน",
+    "en": "Palan",
+    "slug": "palan"
+  },
+  "code": {
+    "dopa": "440801"
+  },
+  "parent": {
+    "id": "4408",
+    "level": 2,
+    "name": {
+      "th": "พยัคฆภูมิพิสัย",
+      "en": "Phayakkhaphum Phisai",
+      "slug": "phayakkhaphum-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4408",
+      "level": 2,
+      "name": {
+        "th": "พยัคฆภูมิพิสัย",
+        "en": "Phayakkhaphum Phisai",
+        "slug": "phayakkhaphum-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "44110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.503",
+    "lon": "103.163"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/palan-440801/"
+  }
+}

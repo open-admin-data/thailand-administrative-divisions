@@ -1,0 +1,61 @@
+{
+  "id": "730125",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านยาง",
+    "en": "Ban Yang",
+    "slug": "ban-yang"
+  },
+  "code": {
+    "dopa": "730125"
+  },
+  "parent": {
+    "id": "7301",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครปฐม",
+      "en": "Nakhon Pathom",
+      "slug": "nakhon-pathom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7301",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "73000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.868",
+    "lon": "99.929"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-yang-730125/"
+  }
+}

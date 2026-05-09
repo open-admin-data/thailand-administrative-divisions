@@ -1,0 +1,61 @@
+{
+  "id": "150102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางแก้ว",
+    "en": "Bang Kaeo",
+    "slug": "bang-kaeo"
+  },
+  "code": {
+    "dopa": "150102"
+  },
+  "parent": {
+    "id": "1501",
+    "level": 2,
+    "name": {
+      "th": "เมืองอ่างทอง",
+      "en": "Mueang Ang Thong",
+      "slug": "mueang-ang-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1501",
+      "level": 2,
+      "name": {
+        "th": "เมืองอ่างทอง",
+        "en": "Mueang Ang Thong",
+        "slug": "mueang-ang-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "14000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.588",
+    "lon": "100.459"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-kaeo-150102/"
+  }
+}

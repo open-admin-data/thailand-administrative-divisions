@@ -1,0 +1,61 @@
+{
+  "id": "521008",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวเสือ",
+    "en": "Hua Suea",
+    "slug": "hua-suea"
+  },
+  "code": {
+    "dopa": "521008"
+  },
+  "parent": {
+    "id": "5210",
+    "level": 2,
+    "name": {
+      "th": "แม่ทะ",
+      "en": "Mae Tha",
+      "slug": "mae-tha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5210",
+      "level": 2,
+      "name": {
+        "th": "แม่ทะ",
+        "en": "Mae Tha",
+        "slug": "mae-tha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "52150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.173",
+    "lon": "99.696"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-suea-521008/"
+  }
+}

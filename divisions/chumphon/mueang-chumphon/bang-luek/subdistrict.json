@@ -1,0 +1,61 @@
+{
+  "id": "860108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางลึก",
+    "en": "Bang Luek",
+    "slug": "bang-luek"
+  },
+  "code": {
+    "dopa": "860108"
+  },
+  "parent": {
+    "id": "8601",
+    "level": 2,
+    "name": {
+      "th": "เมืองชุมพร",
+      "en": "Mueang Chumphon",
+      "slug": "mueang-chumphon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8601",
+      "level": 2,
+      "name": {
+        "th": "เมืองชุมพร",
+        "en": "Mueang Chumphon",
+        "slug": "mueang-chumphon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "86000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.551",
+    "lon": "99.185"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-luek-860108/"
+  }
+}

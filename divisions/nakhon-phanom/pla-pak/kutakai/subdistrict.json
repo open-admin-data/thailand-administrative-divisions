@@ -1,0 +1,61 @@
+{
+  "id": "480203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุตาไก้",
+    "en": "Kutakai",
+    "slug": "kutakai"
+  },
+  "code": {
+    "dopa": "480203"
+  },
+  "parent": {
+    "id": "4802",
+    "level": 2,
+    "name": {
+      "th": "ปลาปาก",
+      "en": "Pla Pak",
+      "slug": "pla-pak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4802",
+      "level": 2,
+      "name": {
+        "th": "ปลาปาก",
+        "en": "Pla Pak",
+        "slug": "pla-pak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "48160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.217",
+    "lon": "104.608"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kutakai-480203/"
+  }
+}

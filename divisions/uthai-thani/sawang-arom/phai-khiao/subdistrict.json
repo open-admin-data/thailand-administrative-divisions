@@ -1,0 +1,61 @@
+{
+  "id": "610304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไผ่เขียว",
+    "en": "Phai Khiao",
+    "slug": "phai-khiao"
+  },
+  "code": {
+    "dopa": "610304"
+  },
+  "parent": {
+    "id": "6103",
+    "level": 2,
+    "name": {
+      "th": "สว่างอารมณ์",
+      "en": "Sawang Arom",
+      "slug": "sawang-arom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6103",
+      "level": 2,
+      "name": {
+        "th": "สว่างอารมณ์",
+        "en": "Sawang Arom",
+        "slug": "sawang-arom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 25
+  },
+  "zip_codes": [
+    "61150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.623",
+    "lon": "99.762"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phai-khiao-610304/"
+  }
+}

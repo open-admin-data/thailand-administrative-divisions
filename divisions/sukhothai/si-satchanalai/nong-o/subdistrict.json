@@ -1,0 +1,61 @@
+{
+  "id": "640506",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองอ้อ",
+    "en": "Nong O",
+    "slug": "nong-o"
+  },
+  "code": {
+    "dopa": "640506"
+  },
+  "parent": {
+    "id": "6405",
+    "level": 2,
+    "name": {
+      "th": "ศรีสัชนาลัย",
+      "en": "Si Satchanalai",
+      "slug": "si-satchanalai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6405",
+      "level": 2,
+      "name": {
+        "th": "ศรีสัชนาลัย",
+        "en": "Si Satchanalai",
+        "slug": "si-satchanalai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "64130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.484",
+    "lon": "99.751"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-o-640506/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "490204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กกแดง",
+    "en": "Kok Daeng",
+    "slug": "kok-daeng"
+  },
+  "code": {
+    "dopa": "490204"
+  },
+  "parent": {
+    "id": "4902",
+    "level": 2,
+    "name": {
+      "th": "นิคมคำสร้อย",
+      "en": "Nikhom Kham Soi",
+      "slug": "nikhom-kham-soi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4902",
+      "level": 2,
+      "name": {
+        "th": "นิคมคำสร้อย",
+        "en": "Nikhom Kham Soi",
+        "slug": "nikhom-kham-soi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "49130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.410",
+    "lon": "104.505"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kok-daeng-490204/"
+  }
+}

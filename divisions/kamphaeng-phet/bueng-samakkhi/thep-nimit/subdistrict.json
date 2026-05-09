@@ -1,0 +1,61 @@
+{
+  "id": "621004",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เทพนิมิต",
+    "en": "Thep Nimit",
+    "slug": "thep-nimit"
+  },
+  "code": {
+    "dopa": "621004"
+  },
+  "parent": {
+    "id": "6210",
+    "level": 2,
+    "name": {
+      "th": "บึงสามัคคี",
+      "en": "Bueng Samakkhi",
+      "slug": "bueng-samakkhi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6210",
+      "level": 2,
+      "name": {
+        "th": "บึงสามัคคี",
+        "en": "Bueng Samakkhi",
+        "slug": "bueng-samakkhi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "62210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.182",
+    "lon": "99.914"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thep-nimit-621004/"
+  }
+}

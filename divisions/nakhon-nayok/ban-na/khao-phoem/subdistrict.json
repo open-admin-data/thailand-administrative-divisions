@@ -1,0 +1,61 @@
+{
+  "id": "260309",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาเพิ่ม",
+    "en": "Khao Phoem",
+    "slug": "khao-phoem"
+  },
+  "code": {
+    "dopa": "260309"
+  },
+  "parent": {
+    "id": "2603",
+    "level": 2,
+    "name": {
+      "th": "บ้านนา",
+      "en": "Ban Na",
+      "slug": "ban-na"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    {
+      "id": "2603",
+      "level": 2,
+      "name": {
+        "th": "บ้านนา",
+        "en": "Ban Na",
+        "slug": "ban-na"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "26110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.362",
+    "lon": "101.096"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-phoem-260309/"
+  }
+}

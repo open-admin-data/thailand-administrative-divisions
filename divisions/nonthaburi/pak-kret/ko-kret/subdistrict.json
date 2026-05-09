@@ -1,0 +1,61 @@
+{
+  "id": "120608",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะเกร็ด",
+    "en": "Ko Kret",
+    "slug": "ko-kret"
+  },
+  "code": {
+    "dopa": "120608"
+  },
+  "parent": {
+    "id": "1206",
+    "level": 2,
+    "name": {
+      "th": "ปากเกร็ด",
+      "en": "Pak Kret",
+      "slug": "pak-kret"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "th": "ปากเกร็ด",
+        "en": "Pak Kret",
+        "slug": "pak-kret"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "11120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.910",
+    "lon": "100.472"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-kret-120608/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "700401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดำเนินสะดวก",
+    "en": "Damnoen Saduak",
+    "slug": "damnoen-saduak"
+  },
+  "code": {
+    "dopa": "700401"
+  },
+  "parent": {
+    "id": "7004",
+    "level": 2,
+    "name": {
+      "th": "ดำเนินสะดวก",
+      "en": "Damnoen Saduak",
+      "slug": "damnoen-saduak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7004",
+      "level": 2,
+      "name": {
+        "th": "ดำเนินสะดวก",
+        "en": "Damnoen Saduak",
+        "slug": "damnoen-saduak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "70130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.517",
+    "lon": "99.949"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/damnoen-saduak-700401/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "730323",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "งิ้วราย",
+    "en": "Ngio Rai",
+    "slug": "ngio-rai"
+  },
+  "code": {
+    "dopa": "730323"
+  },
+  "parent": {
+    "id": "7303",
+    "level": 2,
+    "name": {
+      "th": "นครชัยศรี",
+      "en": "Nakhon Chai Si",
+      "slug": "nakhon-chai-si"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7303",
+      "level": 2,
+      "name": {
+        "th": "นครชัยศรี",
+        "en": "Nakhon Chai Si",
+        "slug": "nakhon-chai-si"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "73120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.807",
+    "lon": "100.212"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ngio-rai-730323/"
+  }
+}

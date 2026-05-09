@@ -1,0 +1,61 @@
+{
+  "id": "170404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านหม้อ",
+    "en": "Ban Mo",
+    "slug": "ban-mo"
+  },
+  "code": {
+    "dopa": "170404"
+  },
+  "parent": {
+    "id": "1704",
+    "level": 2,
+    "name": {
+      "th": "พรหมบุรี",
+      "en": "Phrom Buri",
+      "slug": "phrom-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "th": "พรหมบุรี",
+        "en": "Phrom Buri",
+        "slug": "phrom-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "16120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.746",
+    "lon": "100.461"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-mo-170404/"
+  }
+}

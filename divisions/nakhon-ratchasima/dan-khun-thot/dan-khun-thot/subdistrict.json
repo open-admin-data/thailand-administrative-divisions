@@ -1,0 +1,61 @@
+{
+  "id": "300802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ด่านขุนทด",
+    "en": "Dan Khun Thot",
+    "slug": "dan-khun-thot"
+  },
+  "code": {
+    "dopa": "300802"
+  },
+  "parent": {
+    "id": "3008",
+    "level": 2,
+    "name": {
+      "th": "ด่านขุนทด",
+      "en": "Dan Khun Thot",
+      "slug": "dan-khun-thot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3008",
+      "level": 2,
+      "name": {
+        "th": "ด่านขุนทด",
+        "en": "Dan Khun Thot",
+        "slug": "dan-khun-thot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "30210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.214",
+    "lon": "101.788"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dan-khun-thot-300802/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "200611",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าข้าม",
+    "en": "Tha Kham",
+    "slug": "tha-kham"
+  },
+  "code": {
+    "dopa": "200611"
+  },
+  "parent": {
+    "id": "2006",
+    "level": 2,
+    "name": {
+      "th": "พนัสนิคม",
+      "en": "Phanat Nikhom",
+      "slug": "phanat-nikhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2006",
+      "level": 2,
+      "name": {
+        "th": "พนัสนิคม",
+        "en": "Phanat Nikhom",
+        "slug": "phanat-nikhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "20140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.559",
+    "lon": "101.177"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-kham-200611/"
+  }
+}

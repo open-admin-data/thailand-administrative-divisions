@@ -1,0 +1,61 @@
+{
+  "id": "150601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไผ่จำศีล",
+    "en": "Phai Chamsin",
+    "slug": "phai-chamsin"
+  },
+  "code": {
+    "dopa": "150601"
+  },
+  "parent": {
+    "id": "1506",
+    "level": 2,
+    "name": {
+      "th": "วิเศษชัยชาญ",
+      "en": "Wiset Chai Chan",
+      "slug": "wiset-chai-chan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1506",
+      "level": 2,
+      "name": {
+        "th": "วิเศษชัยชาญ",
+        "en": "Wiset Chai Chan",
+        "slug": "wiset-chai-chan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "14110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.590",
+    "lon": "100.366"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phai-chamsin-150601/"
+  }
+}

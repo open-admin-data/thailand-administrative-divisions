@@ -1,0 +1,185 @@
+[
+  {
+    "id": "85010701",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านทุ่งคา",
+      "en": "Ban Thung Kha",
+      "slug": "85010701"
+    },
+    "code": {
+      "dopa": "85010701"
+    },
+    "parent": {
+      "id": "850107",
+      "level": 3,
+      "name": {
+        "th": "หาดส้มแป้น",
+        "en": "Hat Som Paen",
+        "slug": "hat-som-paen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "85",
+        "level": 1,
+        "name": {
+          "th": "ระนอง",
+          "en": "Ranong",
+          "slug": "ranong"
+        }
+      },
+      {
+        "id": "8501",
+        "level": 2,
+        "name": {
+          "th": "เมืองระนอง",
+          "en": "Mueang Ranong",
+          "slug": "mueang-ranong"
+        }
+      },
+      {
+        "id": "850107",
+        "level": 3,
+        "name": {
+          "th": "หาดส้มแป้น",
+          "en": "Hat Som Paen",
+          "slug": "hat-som-paen"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "9.913133448641249",
+      "lon": "98.68736520409584"
+    },
+    "source": {}
+  },
+  {
+    "id": "85010702",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านบางสังตี",
+      "en": "Ban Bang Sangti",
+      "slug": "85010702"
+    },
+    "code": {
+      "dopa": "85010702"
+    },
+    "parent": {
+      "id": "850107",
+      "level": 3,
+      "name": {
+        "th": "หาดส้มแป้น",
+        "en": "Hat Som Paen",
+        "slug": "hat-som-paen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "85",
+        "level": 1,
+        "name": {
+          "th": "ระนอง",
+          "en": "Ranong",
+          "slug": "ranong"
+        }
+      },
+      {
+        "id": "8501",
+        "level": 2,
+        "name": {
+          "th": "เมืองระนอง",
+          "en": "Mueang Ranong",
+          "slug": "mueang-ranong"
+        }
+      },
+      {
+        "id": "850107",
+        "level": 3,
+        "name": {
+          "th": "หาดส้มแป้น",
+          "en": "Hat Som Paen",
+          "slug": "hat-som-paen"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "9.962691396376178",
+      "lon": "98.6868542432785"
+    },
+    "source": {}
+  },
+  {
+    "id": "85010703",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหาดส้มแป้น",
+      "en": "Ban Hat Som Paen",
+      "slug": "85010703"
+    },
+    "code": {
+      "dopa": "85010703"
+    },
+    "parent": {
+      "id": "850107",
+      "level": 3,
+      "name": {
+        "th": "หาดส้มแป้น",
+        "en": "Hat Som Paen",
+        "slug": "hat-som-paen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "85",
+        "level": 1,
+        "name": {
+          "th": "ระนอง",
+          "en": "Ranong",
+          "slug": "ranong"
+        }
+      },
+      {
+        "id": "8501",
+        "level": 2,
+        "name": {
+          "th": "เมืองระนอง",
+          "en": "Mueang Ranong",
+          "slug": "mueang-ranong"
+        }
+      },
+      {
+        "id": "850107",
+        "level": 3,
+        "name": {
+          "th": "หาดส้มแป้น",
+          "en": "Hat Som Paen",
+          "slug": "hat-som-paen"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "9.954274631035288",
+      "lon": "98.69082659482956"
+    },
+    "source": {}
+  }
+]

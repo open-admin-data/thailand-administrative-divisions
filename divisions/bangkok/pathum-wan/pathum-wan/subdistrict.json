@@ -1,0 +1,61 @@
+{
+  "id": "100703",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง ปทุมวัน",
+    "en": "Pathum Wan",
+    "slug": "pathum-wan"
+  },
+  "code": {
+    "dopa": "100703"
+  },
+  "parent": {
+    "id": "1007",
+    "level": 2,
+    "name": {
+      "th": "เขต ปทุมวัน",
+      "en": "Pathum Wan",
+      "slug": "pathum-wan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1007",
+      "level": 2,
+      "name": {
+        "th": "เขต ปทุมวัน",
+        "en": "Pathum Wan",
+        "slug": "pathum-wan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10330"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.740",
+    "lon": "100.535"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pathum-wan-100703/"
+  }
+}

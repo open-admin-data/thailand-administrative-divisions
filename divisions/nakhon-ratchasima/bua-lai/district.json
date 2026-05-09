@@ -1,0 +1,50 @@
+{
+  "id": "3030",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บัวลาย",
+    "en": "Bua Lai",
+    "slug": "bua-lai"
+  },
+  "code": {
+    "dopa": "3030"
+  },
+  "parent": {
+    "id": "30",
+    "level": 1,
+    "name": {
+      "th": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 45
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.649",
+    "lon": "102.532"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bua-lai-3030/"
+  }
+}

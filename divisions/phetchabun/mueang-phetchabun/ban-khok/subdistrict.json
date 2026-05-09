@@ -1,0 +1,61 @@
+{
+  "id": "670109",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านโคก",
+    "en": "Ban Khok",
+    "slug": "ban-khok"
+  },
+  "code": {
+    "dopa": "670109"
+  },
+  "parent": {
+    "id": "6701",
+    "level": 2,
+    "name": {
+      "th": "เมืองเพชรบูรณ์",
+      "en": "Mueang Phetchabun",
+      "slug": "mueang-phetchabun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "th": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "67000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.471",
+    "lon": "101.250"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-khok-670109/"
+  }
+}

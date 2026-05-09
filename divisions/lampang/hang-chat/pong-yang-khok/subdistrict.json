@@ -1,0 +1,61 @@
+{
+  "id": "521204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปงยางคก",
+    "en": "Pong Yang Khok",
+    "slug": "pong-yang-khok"
+  },
+  "code": {
+    "dopa": "521204"
+  },
+  "parent": {
+    "id": "5212",
+    "level": 2,
+    "name": {
+      "th": "ห้างฉัตร",
+      "en": "Hang Chat",
+      "slug": "hang-chat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5212",
+      "level": 2,
+      "name": {
+        "th": "ห้างฉัตร",
+        "en": "Hang Chat",
+        "slug": "hang-chat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "52190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.284",
+    "lon": "99.365"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pong-yang-khok-521204/"
+  }
+}

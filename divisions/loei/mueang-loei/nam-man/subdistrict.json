@@ -1,0 +1,61 @@
+{
+  "id": "420105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำหมาน",
+    "en": "Nam Man",
+    "slug": "nam-man"
+  },
+  "code": {
+    "dopa": "420105"
+  },
+  "parent": {
+    "id": "4201",
+    "level": 2,
+    "name": {
+      "th": "เมืองเลย",
+      "en": "Mueang Loei",
+      "slug": "mueang-loei"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4201",
+      "level": 2,
+      "name": {
+        "th": "เมืองเลย",
+        "en": "Mueang Loei",
+        "slug": "mueang-loei"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "42000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.525",
+    "lon": "101.646"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-man-420105/"
+  }
+}

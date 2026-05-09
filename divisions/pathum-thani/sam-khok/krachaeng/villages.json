@@ -1,0 +1,185 @@
+[
+  {
+    "id": "13070401",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านลุ่ม",
+      "en": "Ban Lum",
+      "slug": "13070401"
+    },
+    "code": {
+      "dopa": "13070401"
+    },
+    "parent": {
+      "id": "130704",
+      "level": 3,
+      "name": {
+        "th": "กระแชง",
+        "en": "Krachaeng",
+        "slug": "krachaeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      },
+      {
+        "id": "130704",
+        "level": 3,
+        "name": {
+          "th": "กระแชง",
+          "en": "Krachaeng",
+          "slug": "krachaeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.03311374210666",
+      "lon": "100.53428336977959"
+    },
+    "source": {}
+  },
+  {
+    "id": "13070402",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านท่าลาน",
+      "en": "Ban Tha Lan",
+      "slug": "13070402"
+    },
+    "code": {
+      "dopa": "13070402"
+    },
+    "parent": {
+      "id": "130704",
+      "level": 3,
+      "name": {
+        "th": "กระแชง",
+        "en": "Krachaeng",
+        "slug": "krachaeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      },
+      {
+        "id": "130704",
+        "level": 3,
+        "name": {
+          "th": "กระแชง",
+          "en": "Krachaeng",
+          "slug": "krachaeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.041669486101018",
+      "lon": "100.53241655230522"
+    },
+    "source": {}
+  },
+  {
+    "id": "13070403",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกระแชงมอญ",
+      "en": "Ban Krachaeng Mon",
+      "slug": "13070403"
+    },
+    "code": {
+      "dopa": "13070403"
+    },
+    "parent": {
+      "id": "130704",
+      "level": 3,
+      "name": {
+        "th": "กระแชง",
+        "en": "Krachaeng",
+        "slug": "krachaeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      },
+      {
+        "id": "130704",
+        "level": 3,
+        "name": {
+          "th": "กระแชง",
+          "en": "Krachaeng",
+          "slug": "krachaeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.040122554221949",
+      "lon": "100.53161188960075"
+    },
+    "source": {}
+  }
+]

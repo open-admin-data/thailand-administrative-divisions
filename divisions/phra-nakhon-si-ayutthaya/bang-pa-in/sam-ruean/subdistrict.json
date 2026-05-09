@@ -1,0 +1,61 @@
+{
+  "id": "140610",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สามเรือน",
+    "en": "Sam Ruean",
+    "slug": "sam-ruean"
+  },
+  "code": {
+    "dopa": "140610"
+  },
+  "parent": {
+    "id": "1406",
+    "level": 2,
+    "name": {
+      "th": "บางปะอิน",
+      "en": "Bang Pa-in",
+      "slug": "bang-pa-in"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1406",
+      "level": 2,
+      "name": {
+        "th": "บางปะอิน",
+        "en": "Bang Pa-in",
+        "slug": "bang-pa-in"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "13160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.292",
+    "lon": "100.647"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sam-ruean-140610/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "401301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คอนฉิม",
+    "en": "Khon Chim",
+    "slug": "khon-chim"
+  },
+  "code": {
+    "dopa": "401301"
+  },
+  "parent": {
+    "id": "4013",
+    "level": 2,
+    "name": {
+      "th": "แวงใหญ่",
+      "en": "Waeng Yai",
+      "slug": "waeng-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4013",
+      "level": 2,
+      "name": {
+        "th": "แวงใหญ่",
+        "en": "Waeng Yai",
+        "slug": "waeng-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "40330"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.947",
+    "lon": "102.486"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khon-chim-401301/"
+  }
+}

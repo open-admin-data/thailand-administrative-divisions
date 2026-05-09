@@ -1,0 +1,50 @@
+{
+  "id": "1305",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ลาดหลุมแก้ว",
+    "en": "Lat Lum Kaeo",
+    "slug": "lat-lum-kaeo"
+  },
+  "code": {
+    "dopa": "1305"
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 61
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.990",
+    "lon": "100.449"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/lat-lum-kaeo-1305/"
+  }
+}

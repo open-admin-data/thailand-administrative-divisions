@@ -1,0 +1,61 @@
+{
+  "id": "580306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองแปง",
+    "en": "Mueang Paeng",
+    "slug": "mueang-paeng"
+  },
+  "code": {
+    "dopa": "580306"
+  },
+  "parent": {
+    "id": "5803",
+    "level": 2,
+    "name": {
+      "th": "ปาย",
+      "en": "Pai",
+      "slug": "pai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    },
+    {
+      "id": "5803",
+      "level": 2,
+      "name": {
+        "th": "ปาย",
+        "en": "Pai",
+        "slug": "pai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "58130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.216",
+    "lon": "98.313"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-paeng-580306/"
+  }
+}

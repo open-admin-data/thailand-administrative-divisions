@@ -1,0 +1,61 @@
+{
+  "id": "550403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีษะเกษ",
+    "en": "Sisaket",
+    "slug": "sisaket"
+  },
+  "code": {
+    "dopa": "550403"
+  },
+  "parent": {
+    "id": "5504",
+    "level": 2,
+    "name": {
+      "th": "นาน้อย",
+      "en": "Na Noi",
+      "slug": "na-noi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5504",
+      "level": 2,
+      "name": {
+        "th": "นาน้อย",
+        "en": "Na Noi",
+        "slug": "na-noi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "55150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.369",
+    "lon": "100.771"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sisaket-550403/"
+  }
+}

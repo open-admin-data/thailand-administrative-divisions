@@ -1,0 +1,61 @@
+{
+  "id": "310714",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตะโกตาพิ",
+    "en": "Tako Taphi",
+    "slug": "tako-taphi"
+  },
+  "code": {
+    "dopa": "310714"
+  },
+  "parent": {
+    "id": "3107",
+    "level": 2,
+    "name": {
+      "th": "ประโคนชัย",
+      "en": "Prakhon Chai",
+      "slug": "prakhon-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3107",
+      "level": 2,
+      "name": {
+        "th": "ประโคนชัย",
+        "en": "Prakhon Chai",
+        "slug": "prakhon-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "31140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.638",
+    "lon": "102.981"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tako-taphi-310714/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "801802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองเส",
+    "en": "Khlong Se",
+    "slug": "khlong-se"
+  },
+  "code": {
+    "dopa": "801802"
+  },
+  "parent": {
+    "id": "8018",
+    "level": 2,
+    "name": {
+      "th": "ถ้ำพรรณรา",
+      "en": "Tham Phannara",
+      "slug": "tham-phannara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8018",
+      "level": 2,
+      "name": {
+        "th": "ถ้ำพรรณรา",
+        "en": "Tham Phannara",
+        "slug": "tham-phannara"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "80260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.491",
+    "lon": "99.419"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-se-801802/"
+  }
+}

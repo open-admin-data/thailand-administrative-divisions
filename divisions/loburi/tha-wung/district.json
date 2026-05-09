@@ -1,0 +1,50 @@
+{
+  "id": "1605",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ท่าวุ้ง",
+    "en": "Tha Wung",
+    "slug": "tha-wung"
+  },
+  "code": {
+    "dopa": "1605"
+  },
+  "parent": {
+    "id": "16",
+    "level": 1,
+    "name": {
+      "th": "ลพบุรี",
+      "en": "Loburi",
+      "slug": "loburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 117
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.881",
+    "lon": "100.482"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tha-wung-1605/"
+  }
+}

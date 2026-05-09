@@ -1,0 +1,61 @@
+{
+  "id": "141213",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สามตุ่ม",
+    "en": "Sam Tum",
+    "slug": "sam-tum"
+  },
+  "code": {
+    "dopa": "141213"
+  },
+  "parent": {
+    "id": "1412",
+    "level": 2,
+    "name": {
+      "th": "เสนา",
+      "en": "Sena",
+      "slug": "sena"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1412",
+      "level": 2,
+      "name": {
+        "th": "เสนา",
+        "en": "Sena",
+        "slug": "sena"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "13110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.240",
+    "lon": "100.406"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sam-tum-141213/"
+  }
+}

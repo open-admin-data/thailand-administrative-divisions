@@ -1,0 +1,61 @@
+{
+  "id": "620408",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนแตง",
+    "en": "Don Taeng",
+    "slug": "don-taeng"
+  },
+  "code": {
+    "dopa": "620408"
+  },
+  "parent": {
+    "id": "6204",
+    "level": 2,
+    "name": {
+      "th": "ขาณุวรลักษบุรี",
+      "en": "Khanu Woralaksaburi",
+      "slug": "khanu-woralaksaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6204",
+      "level": 2,
+      "name": {
+        "th": "ขาณุวรลักษบุรี",
+        "en": "Khanu Woralaksaburi",
+        "slug": "khanu-woralaksaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "62140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.053",
+    "lon": "99.752"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-taeng-620408/"
+  }
+}

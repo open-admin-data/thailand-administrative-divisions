@@ -1,0 +1,61 @@
+{
+  "id": "571301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ม่วงยาย",
+    "en": "Muang Yai",
+    "slug": "muang-yai"
+  },
+  "code": {
+    "dopa": "571301"
+  },
+  "parent": {
+    "id": "5713",
+    "level": 2,
+    "name": {
+      "th": "เวียงแก่น",
+      "en": "Wiang Kaen",
+      "slug": "wiang-kaen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5713",
+      "level": 2,
+      "name": {
+        "th": "เวียงแก่น",
+        "en": "Wiang Kaen",
+        "slug": "wiang-kaen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "57310"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.108",
+    "lon": "100.539"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/muang-yai-571301/"
+  }
+}

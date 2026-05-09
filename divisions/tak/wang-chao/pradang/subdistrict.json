@@ -1,0 +1,61 @@
+{
+  "id": "630903",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ประดาง",
+    "en": "Pradang",
+    "slug": "pradang"
+  },
+  "code": {
+    "dopa": "630903"
+  },
+  "parent": {
+    "id": "6309",
+    "level": 2,
+    "name": {
+      "th": "วังเจ้า",
+      "en": "Wang Chao",
+      "slug": "wang-chao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6309",
+      "level": 2,
+      "name": {
+        "th": "วังเจ้า",
+        "en": "Wang Chao",
+        "slug": "wang-chao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "63000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.748",
+    "lon": "99.184"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pradang-630903/"
+  }
+}

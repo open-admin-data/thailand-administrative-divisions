@@ -1,0 +1,61 @@
+{
+  "id": "610305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อยาง",
+    "en": "Bor Yang",
+    "slug": "bor-yang"
+  },
+  "code": {
+    "dopa": "610305"
+  },
+  "parent": {
+    "id": "6103",
+    "level": 2,
+    "name": {
+      "th": "สว่างอารมณ์",
+      "en": "Sawang Arom",
+      "slug": "sawang-arom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6103",
+      "level": 2,
+      "name": {
+        "th": "สว่างอารมณ์",
+        "en": "Sawang Arom",
+        "slug": "sawang-arom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "61150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.592",
+    "lon": "99.715"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bor-yang-610305/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "700111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พิกุลทอง",
+    "en": "Phikun Thong",
+    "slug": "phikun-thong"
+  },
+  "code": {
+    "dopa": "700111"
+  },
+  "parent": {
+    "id": "7001",
+    "level": 2,
+    "name": {
+      "th": "เมืองราชบุรี",
+      "en": "Mueang Ratchaburi",
+      "slug": "mueang-ratchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7001",
+      "level": 2,
+      "name": {
+        "th": "เมืองราชบุรี",
+        "en": "Mueang Ratchaburi",
+        "slug": "mueang-ratchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "70000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.575",
+    "lon": "99.866"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phikun-thong-700111/"
+  }
+}

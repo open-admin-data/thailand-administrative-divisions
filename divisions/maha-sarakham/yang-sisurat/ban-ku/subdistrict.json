@@ -1,0 +1,61 @@
+{
+  "id": "441104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านกู่",
+    "en": "Ban Ku",
+    "slug": "ban-ku"
+  },
+  "code": {
+    "dopa": "441104"
+  },
+  "parent": {
+    "id": "4411",
+    "level": 2,
+    "name": {
+      "th": "ยางสีสุราช",
+      "en": "Yang Sisurat",
+      "slug": "yang-sisurat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4411",
+      "level": 2,
+      "name": {
+        "th": "ยางสีสุราช",
+        "en": "Yang Sisurat",
+        "slug": "yang-sisurat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "44210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.686",
+    "lon": "103.136"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-ku-441104/"
+  }
+}

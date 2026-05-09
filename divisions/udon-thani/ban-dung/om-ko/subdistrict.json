@@ -1,0 +1,61 @@
+{
+  "id": "411105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อ้อมกอ",
+    "en": "Om Ko",
+    "slug": "om-ko"
+  },
+  "code": {
+    "dopa": "411105"
+  },
+  "parent": {
+    "id": "4111",
+    "level": 2,
+    "name": {
+      "th": "บ้านดุง",
+      "en": "Ban Dung",
+      "slug": "ban-dung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4111",
+      "level": 2,
+      "name": {
+        "th": "บ้านดุง",
+        "en": "Ban Dung",
+        "slug": "ban-dung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "41190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.594",
+    "lon": "103.305"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/om-ko-411105/"
+  }
+}

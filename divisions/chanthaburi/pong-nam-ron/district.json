@@ -1,0 +1,50 @@
+{
+  "id": "2204",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โป่งน้ำร้อน",
+    "en": "Pong Nam Ron",
+    "slug": "pong-nam-ron"
+  },
+  "code": {
+    "dopa": "2204"
+  },
+  "parent": {
+    "id": "22",
+    "level": 1,
+    "name": {
+      "th": "จันทบุรี",
+      "en": "Chanthaburi",
+      "slug": "chanthaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 47
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.044",
+    "lon": "102.453"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pong-nam-ron-2204/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "490107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาโสก",
+    "en": "Na Sok",
+    "slug": "na-sok"
+  },
+  "code": {
+    "dopa": "490107"
+  },
+  "parent": {
+    "id": "4901",
+    "level": 2,
+    "name": {
+      "th": "เมืองมุกดาหาร",
+      "en": "Mukdahan",
+      "slug": "mukdahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4901",
+      "level": 2,
+      "name": {
+        "th": "เมืองมุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "49000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.487",
+    "lon": "104.522"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-sok-490107/"
+  }
+}

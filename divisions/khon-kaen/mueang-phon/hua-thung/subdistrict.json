@@ -1,0 +1,61 @@
+{
+  "id": "401213",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวทุ่ง",
+    "en": "Hua Thung",
+    "slug": "hua-thung"
+  },
+  "code": {
+    "dopa": "401213"
+  },
+  "parent": {
+    "id": "4012",
+    "level": 2,
+    "name": {
+      "th": "พล",
+      "en": "Mueang Phon",
+      "slug": "mueang-phon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4012",
+      "level": 2,
+      "name": {
+        "th": "พล",
+        "en": "Mueang Phon",
+        "slug": "mueang-phon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "40120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.879",
+    "lon": "102.556"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-thung-401213/"
+  }
+}

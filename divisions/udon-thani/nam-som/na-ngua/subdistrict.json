@@ -1,0 +1,61 @@
+{
+  "id": "411801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นางัว",
+    "en": "Na Ngua",
+    "slug": "na-ngua"
+  },
+  "code": {
+    "dopa": "411801"
+  },
+  "parent": {
+    "id": "4118",
+    "level": 2,
+    "name": {
+      "th": "น้ำโสม",
+      "en": "Nam Som",
+      "slug": "nam-som"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4118",
+      "level": 2,
+      "name": {
+        "th": "น้ำโสม",
+        "en": "Nam Som",
+        "slug": "nam-som"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "41210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.741",
+    "lon": "102.215"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-ngua-411801/"
+  }
+}

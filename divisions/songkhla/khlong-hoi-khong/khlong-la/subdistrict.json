@@ -1,0 +1,61 @@
+{
+  "id": "901604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองหลา",
+    "en": "Khlong La",
+    "slug": "khlong-la"
+  },
+  "code": {
+    "dopa": "901604"
+  },
+  "parent": {
+    "id": "9016",
+    "level": 2,
+    "name": {
+      "th": "คลองหอยโข่ง",
+      "en": "Khlong Hoi Khong",
+      "slug": "khlong-hoi-khong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9016",
+      "level": 2,
+      "name": {
+        "th": "คลองหอยโข่ง",
+        "en": "Khlong Hoi Khong",
+        "slug": "khlong-hoi-khong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "90115"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.882",
+    "lon": "100.310"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-la-901604/"
+  }
+}

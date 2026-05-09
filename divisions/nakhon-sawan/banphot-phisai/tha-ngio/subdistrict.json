@@ -1,0 +1,61 @@
+{
+  "id": "600501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่างิ้ว",
+    "en": "Tha Ngio",
+    "slug": "tha-ngio"
+  },
+  "code": {
+    "dopa": "600501"
+  },
+  "parent": {
+    "id": "6005",
+    "level": 2,
+    "name": {
+      "th": "บรรพตพิสัย",
+      "en": "Banphot Phisai",
+      "slug": "banphot-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6005",
+      "level": 2,
+      "name": {
+        "th": "บรรพตพิสัย",
+        "en": "Banphot Phisai",
+        "slug": "banphot-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "60180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.918",
+    "lon": "99.976"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-ngio-600501/"
+  }
+}

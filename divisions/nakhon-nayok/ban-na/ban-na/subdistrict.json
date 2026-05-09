@@ -1,0 +1,61 @@
+{
+  "id": "260301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านนา",
+    "en": "Ban Na",
+    "slug": "ban-na"
+  },
+  "code": {
+    "dopa": "260301"
+  },
+  "parent": {
+    "id": "2603",
+    "level": 2,
+    "name": {
+      "th": "บ้านนา",
+      "en": "Ban Na",
+      "slug": "ban-na"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    {
+      "id": "2603",
+      "level": 2,
+      "name": {
+        "th": "บ้านนา",
+        "en": "Ban Na",
+        "slug": "ban-na"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "26110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.262",
+    "lon": "101.059"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-na-260301/"
+  }
+}

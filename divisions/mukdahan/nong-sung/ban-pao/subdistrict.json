@@ -1,0 +1,61 @@
+{
+  "id": "490704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านเป้า",
+    "en": "Ban Pao",
+    "slug": "ban-pao"
+  },
+  "code": {
+    "dopa": "490704"
+  },
+  "parent": {
+    "id": "4907",
+    "level": 2,
+    "name": {
+      "th": "หนองสูง",
+      "en": "Nong Sung",
+      "slug": "nong-sung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4907",
+      "level": 2,
+      "name": {
+        "th": "หนองสูง",
+        "en": "Nong Sung",
+        "slug": "nong-sung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "49160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.410",
+    "lon": "104.337"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-pao-490704/"
+  }
+}

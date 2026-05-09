@@ -1,0 +1,50 @@
+{
+  "id": "5717",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เวียงเชียงรุ้ง",
+    "en": "Wiang Chiang Rung",
+    "slug": "wiang-chiang-rung"
+  },
+  "code": {
+    "dopa": "5717"
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 43
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.041",
+    "lon": "100.006"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wiang-chiang-rung-5717/"
+  }
+}

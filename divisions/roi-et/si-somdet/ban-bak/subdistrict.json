@@ -1,0 +1,61 @@
+{
+  "id": "451608",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านบาก",
+    "en": "Ban Bak",
+    "slug": "ban-bak"
+  },
+  "code": {
+    "dopa": "451608"
+  },
+  "parent": {
+    "id": "4516",
+    "level": 2,
+    "name": {
+      "th": "ศรีสมเด็จ",
+      "en": "Si Somdet",
+      "slug": "si-somdet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4516",
+      "level": 2,
+      "name": {
+        "th": "ศรีสมเด็จ",
+        "en": "Si Somdet",
+        "slug": "si-somdet"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "45000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.987",
+    "lon": "103.518"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-bak-451608/"
+  }
+}

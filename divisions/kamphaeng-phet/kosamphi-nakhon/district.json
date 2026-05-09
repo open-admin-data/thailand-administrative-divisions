@@ -1,0 +1,50 @@
+{
+  "id": "6211",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โกสัมพีนคร",
+    "en": "Kosamphi Nakhon",
+    "slug": "kosamphi-nakhon"
+  },
+  "code": {
+    "dopa": "6211"
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "th": "กำแพงเพชร",
+      "en": "Kamphaeng Phet",
+      "slug": "kamphaeng-phet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 44
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.581",
+    "lon": "99.429"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kosamphi-nakhon-6211/"
+  }
+}

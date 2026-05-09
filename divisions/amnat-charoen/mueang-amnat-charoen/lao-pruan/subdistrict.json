@@ -1,0 +1,61 @@
+{
+  "id": "370105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เหล่าพรวน",
+    "en": "Lao Pruan",
+    "slug": "lao-pruan"
+  },
+  "code": {
+    "dopa": "370105"
+  },
+  "parent": {
+    "id": "3701",
+    "level": 2,
+    "name": {
+      "th": "เมืองอำนาจเจริญ",
+      "en": "Mueang Amnat Charoen",
+      "slug": "mueang-amnat-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    {
+      "id": "3701",
+      "level": 2,
+      "name": {
+        "th": "เมืองอำนาจเจริญ",
+        "en": "Mueang Amnat Charoen",
+        "slug": "mueang-amnat-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "37000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.867",
+    "lon": "104.794"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lao-pruan-370105/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "150112",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านรี",
+    "en": "Ban Ri",
+    "slug": "ban-ri"
+  },
+  "code": {
+    "dopa": "150112"
+  },
+  "parent": {
+    "id": "1501",
+    "level": 2,
+    "name": {
+      "th": "เมืองอ่างทอง",
+      "en": "Mueang Ang Thong",
+      "slug": "mueang-ang-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1501",
+      "level": 2,
+      "name": {
+        "th": "เมืองอ่างทอง",
+        "en": "Mueang Ang Thong",
+        "slug": "mueang-ang-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "14000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.605",
+    "lon": "100.485"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-ri-150112/"
+  }
+}

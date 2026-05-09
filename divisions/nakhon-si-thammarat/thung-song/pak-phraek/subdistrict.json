@@ -1,0 +1,61 @@
+{
+  "id": "800901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เทศบาลเมืองทุ่งสง-ปากแพรก",
+    "en": "Pak Phraek",
+    "slug": "pak-phraek"
+  },
+  "code": {
+    "dopa": "800901"
+  },
+  "parent": {
+    "id": "8009",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งสง",
+      "en": "Thung Song",
+      "slug": "thung-song"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8009",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งสง",
+        "en": "Thung Song",
+        "slug": "thung-song"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "86130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.168",
+    "lon": "99.689"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-phraek-800901/"
+  }
+}

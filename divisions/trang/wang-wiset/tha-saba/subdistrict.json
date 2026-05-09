@@ -1,0 +1,61 @@
+{
+  "id": "920704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าสะบ้า",
+    "en": "Tha Saba",
+    "slug": "tha-saba"
+  },
+  "code": {
+    "dopa": "920704"
+  },
+  "parent": {
+    "id": "9207",
+    "level": 2,
+    "name": {
+      "th": "วังวิเศษ",
+      "en": "Wang Wiset",
+      "slug": "wang-wiset"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9207",
+      "level": 2,
+      "name": {
+        "th": "วังวิเศษ",
+        "en": "Wang Wiset",
+        "slug": "wang-wiset"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "92000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.690",
+    "lon": "99.523"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-saba-920704/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "140609",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางประแดง",
+    "en": "Bang Pradaeng",
+    "slug": "bang-pradaeng"
+  },
+  "code": {
+    "dopa": "140609"
+  },
+  "parent": {
+    "id": "1406",
+    "level": 2,
+    "name": {
+      "th": "บางปะอิน",
+      "en": "Bang Pa-in",
+      "slug": "bang-pa-in"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1406",
+      "level": 2,
+      "name": {
+        "th": "บางปะอิน",
+        "en": "Bang Pa-in",
+        "slug": "bang-pa-in"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "13160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.288",
+    "lon": "100.544"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-pradaeng-140609/"
+  }
+}

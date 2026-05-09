@@ -1,0 +1,50 @@
+{
+  "id": "1003",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต หนองจอก",
+    "en": "Nong Chok",
+    "slug": "nong-chok"
+  },
+  "code": {
+    "dopa": "1003"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.872",
+    "lon": "100.810"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-chok-1003/"
+  }
+}

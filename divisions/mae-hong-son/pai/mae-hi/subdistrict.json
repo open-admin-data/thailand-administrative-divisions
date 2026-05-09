@@ -1,0 +1,61 @@
+{
+  "id": "580304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่ฮี้",
+    "en": "Mae Hi",
+    "slug": "mae-hi"
+  },
+  "code": {
+    "dopa": "580304"
+  },
+  "parent": {
+    "id": "5803",
+    "level": 2,
+    "name": {
+      "th": "ปาย",
+      "en": "Pai",
+      "slug": "pai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    },
+    {
+      "id": "5803",
+      "level": 2,
+      "name": {
+        "th": "ปาย",
+        "en": "Pai",
+        "slug": "pai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "58130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.300",
+    "lon": "98.525"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-hi-580304/"
+  }
+}

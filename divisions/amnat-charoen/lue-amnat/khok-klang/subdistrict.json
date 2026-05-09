@@ -1,0 +1,61 @@
+{
+  "id": "370707",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกกลาง",
+    "en": "Khok Klang",
+    "slug": "khok-klang"
+  },
+  "code": {
+    "dopa": "370707"
+  },
+  "parent": {
+    "id": "3707",
+    "level": 2,
+    "name": {
+      "th": "ลืออำนาจ",
+      "en": "Lue Amnat",
+      "slug": "lue-amnat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    {
+      "id": "3707",
+      "level": 2,
+      "name": {
+        "th": "ลืออำนาจ",
+        "en": "Lue Amnat",
+        "slug": "lue-amnat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "37000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.751",
+    "lon": "104.637"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-klang-370707/"
+  }
+}

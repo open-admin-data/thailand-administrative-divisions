@@ -1,0 +1,61 @@
+{
+  "id": "110409",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางกะเจ้า",
+    "en": "Bang Kachao",
+    "slug": "bang-kachao"
+  },
+  "code": {
+    "dopa": "110409"
+  },
+  "parent": {
+    "id": "1104",
+    "level": 2,
+    "name": {
+      "th": "พระประแดง",
+      "en": "Phra Pradaeng",
+      "slug": "phra-pradaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1104",
+      "level": 2,
+      "name": {
+        "th": "พระประแดง",
+        "en": "Phra Pradaeng",
+        "slug": "phra-pradaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "10130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.697",
+    "lon": "100.561"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-kachao-110409/"
+  }
+}

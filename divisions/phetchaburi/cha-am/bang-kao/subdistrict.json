@@ -1,0 +1,61 @@
+{
+  "id": "760402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางเก่า",
+    "en": "Bang Kao",
+    "slug": "bang-kao"
+  },
+  "code": {
+    "dopa": "760402"
+  },
+  "parent": {
+    "id": "7604",
+    "level": 2,
+    "name": {
+      "th": "ชะอำ",
+      "en": "Cha-am",
+      "slug": "cha-am"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "th": "ชะอำ",
+        "en": "Cha-am",
+        "slug": "cha-am"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "76120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.856",
+    "lon": "99.985"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-kao-760402/"
+  }
+}

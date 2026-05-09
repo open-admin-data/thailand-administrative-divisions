@@ -1,0 +1,61 @@
+{
+  "id": "260204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกกรวด",
+    "en": "Khok Kruat",
+    "slug": "khok-kruat"
+  },
+  "code": {
+    "dopa": "260204"
+  },
+  "parent": {
+    "id": "2602",
+    "level": 2,
+    "name": {
+      "th": "ปากพลี",
+      "en": "Pak Phli",
+      "slug": "pak-phli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    {
+      "id": "2602",
+      "level": 2,
+      "name": {
+        "th": "ปากพลี",
+        "en": "Pak Phli",
+        "slug": "pak-phli"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "26130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.180",
+    "lon": "101.306"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-kruat-260204/"
+  }
+}

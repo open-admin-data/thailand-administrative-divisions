@@ -1,0 +1,61 @@
+{
+  "id": "270504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนหมากเค็ง",
+    "en": "Non Mak Kheng",
+    "slug": "non-mak-kheng"
+  },
+  "code": {
+    "dopa": "270504"
+  },
+  "parent": {
+    "id": "2705",
+    "level": 2,
+    "name": {
+      "th": "วัฒนานคร",
+      "en": "Watthana Nakhon",
+      "slug": "watthana-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    },
+    {
+      "id": "2705",
+      "level": 2,
+      "name": {
+        "th": "วัฒนานคร",
+        "en": "Watthana Nakhon",
+        "slug": "watthana-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "27160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.824",
+    "lon": "102.315"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-mak-kheng-270504/"
+  }
+}

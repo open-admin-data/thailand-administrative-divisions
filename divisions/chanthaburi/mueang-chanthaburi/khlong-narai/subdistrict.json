@@ -1,0 +1,61 @@
+{
+  "id": "220103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองนารายณ์",
+    "en": "Khlong Narai",
+    "slug": "khlong-narai"
+  },
+  "code": {
+    "dopa": "220103"
+  },
+  "parent": {
+    "id": "2201",
+    "level": 2,
+    "name": {
+      "th": "เมืองจันทบุรี",
+      "en": "Mueang Chanthaburi",
+      "slug": "mueang-chanthaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    },
+    {
+      "id": "2201",
+      "level": 2,
+      "name": {
+        "th": "เมืองจันทบุรี",
+        "en": "Mueang Chanthaburi",
+        "slug": "mueang-chanthaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "22000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.574",
+    "lon": "102.166"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-narai-220103/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "180803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สุขเดือนห้า",
+    "en": "Suk Duean Ha",
+    "slug": "suk-duean-ha"
+  },
+  "code": {
+    "dopa": "180803"
+  },
+  "parent": {
+    "id": "1808",
+    "level": 2,
+    "name": {
+      "th": "เนินขาม",
+      "en": "Noen Kham",
+      "slug": "noen-kham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1808",
+      "level": 2,
+      "name": {
+        "th": "เนินขาม",
+        "en": "Noen Kham",
+        "slug": "noen-kham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "17130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.968",
+    "lon": "99.828"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/suk-duean-ha-180803/"
+  }
+}

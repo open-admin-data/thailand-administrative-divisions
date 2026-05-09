@@ -1,0 +1,61 @@
+{
+  "id": "710905",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พังตรุ",
+    "en": "Phang Tru",
+    "slug": "phang-tru"
+  },
+  "code": {
+    "dopa": "710905"
+  },
+  "parent": {
+    "id": "7109",
+    "level": 2,
+    "name": {
+      "th": "พนมทวน",
+      "en": "Phanom Thuan",
+      "slug": "phanom-thuan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7109",
+      "level": 2,
+      "name": {
+        "th": "พนมทวน",
+        "en": "Phanom Thuan",
+        "slug": "phanom-thuan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "71140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.134",
+    "lon": "99.746"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phang-tru-710905/"
+  }
+}

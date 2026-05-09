@@ -1,0 +1,61 @@
+{
+  "id": "380201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีชมภู",
+    "en": "Si Chomphu",
+    "slug": "si-chomphu"
+  },
+  "code": {
+    "dopa": "380201"
+  },
+  "parent": {
+    "id": "3802",
+    "level": 2,
+    "name": {
+      "th": "พรเจริญ",
+      "en": "Phon Charoen",
+      "slug": "phon-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3802",
+      "level": 2,
+      "name": {
+        "th": "พรเจริญ",
+        "en": "Phon Charoen",
+        "slug": "phon-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "38180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.044",
+    "lon": "103.679"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-chomphu-380201/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "330802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บักดอง",
+    "en": "Bak Dong",
+    "slug": "bak-dong"
+  },
+  "code": {
+    "dopa": "330802"
+  },
+  "parent": {
+    "id": "3308",
+    "level": 2,
+    "name": {
+      "th": "ขุนหาญ",
+      "en": "Khun Han",
+      "slug": "khun-han"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3308",
+      "level": 2,
+      "name": {
+        "th": "ขุนหาญ",
+        "en": "Khun Han",
+        "slug": "khun-han"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 22
+  },
+  "zip_codes": [
+    "33150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.476",
+    "lon": "104.444"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bak-dong-330802/"
+  }
+}

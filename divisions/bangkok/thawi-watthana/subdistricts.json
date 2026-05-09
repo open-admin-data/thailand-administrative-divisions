@@ -1,0 +1,124 @@
+[
+  {
+    "id": "104802",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง ศาลาธรรมสพน์",
+      "en": "Sala Thammasop",
+      "slug": "sala-thammasop"
+    },
+    "code": {
+      "dopa": "104802"
+    },
+    "parent": {
+      "id": "1048",
+      "level": 2,
+      "name": {
+        "th": "เขต ทวีวัฒนา",
+        "en": "Thawi Watthana",
+        "slug": "thawi-watthana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1048",
+        "level": 2,
+        "name": {
+          "th": "เขต ทวีวัฒนา",
+          "en": "Thawi Watthana",
+          "slug": "thawi-watthana"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10170"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.783",
+      "lon": "100.390"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/sala-thammasop-104802/"
+    }
+  },
+  {
+    "id": "104801",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง ทวีวัฒนา",
+      "en": "Thawi Watthana",
+      "slug": "thawi-watthana"
+    },
+    "code": {
+      "dopa": "104801"
+    },
+    "parent": {
+      "id": "1048",
+      "level": 2,
+      "name": {
+        "th": "เขต ทวีวัฒนา",
+        "en": "Thawi Watthana",
+        "slug": "thawi-watthana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1048",
+        "level": 2,
+        "name": {
+          "th": "เขต ทวีวัฒนา",
+          "en": "Thawi Watthana",
+          "slug": "thawi-watthana"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10170"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.758",
+      "lon": "100.348"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/thawi-watthana-104801/"
+    }
+  }
+]

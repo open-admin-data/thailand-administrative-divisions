@@ -1,0 +1,61 @@
+{
+  "id": "341205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองทันน้ำ",
+    "en": "Nong Than Nam",
+    "slug": "nong-than-nam"
+  },
+  "code": {
+    "dopa": "341205"
+  },
+  "parent": {
+    "id": "3412",
+    "level": 2,
+    "name": {
+      "th": "กุดข้าวปุ้น",
+      "en": "Kut Khaopun",
+      "slug": "kut-khaopun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3412",
+      "level": 2,
+      "name": {
+        "th": "กุดข้าวปุ้น",
+        "en": "Kut Khaopun",
+        "slug": "kut-khaopun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "34270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.828",
+    "lon": "105.099"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-than-nam-341205/"
+  }
+}

@@ -1,0 +1,185 @@
+[
+  {
+    "id": "830203",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "กมลา",
+      "en": "Kamala",
+      "slug": "kamala"
+    },
+    "code": {
+      "dopa": "830203"
+    },
+    "parent": {
+      "id": "8302",
+      "level": 2,
+      "name": {
+        "th": "กะทู้",
+        "en": "Kathu",
+        "slug": "kathu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "83",
+        "level": 1,
+        "name": {
+          "th": "ภูเก็ต",
+          "en": "Phuket",
+          "slug": "phuket"
+        }
+      },
+      {
+        "id": "8302",
+        "level": 2,
+        "name": {
+          "th": "กะทู้",
+          "en": "Kathu",
+          "slug": "kathu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "83150"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.945",
+      "lon": "98.289"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/kamala-830203/"
+    }
+  },
+  {
+    "id": "830201",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "กะทู้",
+      "en": "Kathu",
+      "slug": "kathu"
+    },
+    "code": {
+      "dopa": "830201"
+    },
+    "parent": {
+      "id": "8302",
+      "level": 2,
+      "name": {
+        "th": "กะทู้",
+        "en": "Kathu",
+        "slug": "kathu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "83",
+        "level": 1,
+        "name": {
+          "th": "ภูเก็ต",
+          "en": "Phuket",
+          "slug": "phuket"
+        }
+      },
+      {
+        "id": "8302",
+        "level": 2,
+        "name": {
+          "th": "กะทู้",
+          "en": "Kathu",
+          "slug": "kathu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 19
+    },
+    "zip_codes": [
+      "83120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.914",
+      "lon": "98.338"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/kathu-830201/"
+    }
+  },
+  {
+    "id": "830202",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ป่าตอง",
+      "en": "Pa Tong",
+      "slug": "pa-tong"
+    },
+    "code": {
+      "dopa": "830202"
+    },
+    "parent": {
+      "id": "8302",
+      "level": 2,
+      "name": {
+        "th": "กะทู้",
+        "en": "Kathu",
+        "slug": "kathu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "83",
+        "level": 1,
+        "name": {
+          "th": "ภูเก็ต",
+          "en": "Phuket",
+          "slug": "phuket"
+        }
+      },
+      {
+        "id": "8302",
+        "level": 2,
+        "name": {
+          "th": "กะทู้",
+          "en": "Kathu",
+          "slug": "kathu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "83150"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.904",
+      "lon": "98.308"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/pa-tong-830202/"
+    }
+  }
+]

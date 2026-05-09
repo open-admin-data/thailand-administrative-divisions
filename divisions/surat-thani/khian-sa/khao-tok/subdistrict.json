@@ -1,0 +1,61 @@
+{
+  "id": "841403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาตอก",
+    "en": "Khao Tok",
+    "slug": "khao-tok"
+  },
+  "code": {
+    "dopa": "841403"
+  },
+  "parent": {
+    "id": "8414",
+    "level": 2,
+    "name": {
+      "th": "เคียนซา",
+      "en": "Khian Sa",
+      "slug": "khian-sa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8414",
+      "level": 2,
+      "name": {
+        "th": "เคียนซา",
+        "en": "Khian Sa",
+        "slug": "khian-sa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "84260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.845",
+    "lon": "99.251"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-tok-841403/"
+  }
+}

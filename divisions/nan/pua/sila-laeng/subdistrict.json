@@ -1,0 +1,61 @@
+{
+  "id": "550504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศิลาแลง",
+    "en": "Sila Laeng",
+    "slug": "sila-laeng"
+  },
+  "code": {
+    "dopa": "550504"
+  },
+  "parent": {
+    "id": "5505",
+    "level": 2,
+    "name": {
+      "th": "ปัว",
+      "en": "Pua",
+      "slug": "pua"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5505",
+      "level": 2,
+      "name": {
+        "th": "ปัว",
+        "en": "Pua",
+        "slug": "pua"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "55120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.148",
+    "lon": "100.967"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sila-laeng-550504/"
+  }
+}

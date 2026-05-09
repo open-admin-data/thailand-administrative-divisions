@@ -1,0 +1,61 @@
+{
+  "id": "361007",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกสะอาด",
+    "en": "Khok Sa-at",
+    "slug": "khok-sa-at"
+  },
+  "code": {
+    "dopa": "361007"
+  },
+  "parent": {
+    "id": "3610",
+    "level": 2,
+    "name": {
+      "th": "ภูเขียว",
+      "en": "Phu Khiao",
+      "slug": "phu-khiao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3610",
+      "level": 2,
+      "name": {
+        "th": "ภูเขียว",
+        "en": "Phu Khiao",
+        "slug": "phu-khiao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "36110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.475",
+    "lon": "102.125"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-sa-at-361007/"
+  }
+}

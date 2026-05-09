@@ -1,0 +1,61 @@
+{
+  "id": "600113",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วัดไทรย์",
+    "en": "Wat Sai",
+    "slug": "wat-sai"
+  },
+  "code": {
+    "dopa": "600113"
+  },
+  "parent": {
+    "id": "6001",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครสวรรค์",
+      "en": "Mueang Nakhon Sawan",
+      "slug": "mueang-nakhon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6001",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครสวรรค์",
+        "en": "Mueang Nakhon Sawan",
+        "slug": "mueang-nakhon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 24
+  },
+  "zip_codes": [
+    "60000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.735",
+    "lon": "100.080"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wat-sai-600113/"
+  }
+}

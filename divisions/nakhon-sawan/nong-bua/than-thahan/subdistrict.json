@@ -1,0 +1,61 @@
+{
+  "id": "600403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ธารทหาร",
+    "en": "Than Thahan",
+    "slug": "than-thahan"
+  },
+  "code": {
+    "dopa": "600403"
+  },
+  "parent": {
+    "id": "6004",
+    "level": 2,
+    "name": {
+      "th": "หนองบัว",
+      "en": "Nong Bua",
+      "slug": "nong-bua"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6004",
+      "level": 2,
+      "name": {
+        "th": "หนองบัว",
+        "en": "Nong Bua",
+        "slug": "nong-bua"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "60110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.787",
+    "lon": "100.549"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/than-thahan-600403/"
+  }
+}

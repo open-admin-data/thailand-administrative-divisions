@@ -1,0 +1,50 @@
+{
+  "id": "3120",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โนนดินแดง",
+    "en": "Non Din Daeng",
+    "slug": "non-din-daeng"
+  },
+  "code": {
+    "dopa": "3120"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 37
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.346",
+    "lon": "102.764"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/non-din-daeng-3120/"
+  }
+}

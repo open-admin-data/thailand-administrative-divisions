@@ -1,0 +1,61 @@
+{
+  "id": "810704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดินแดง",
+    "en": "Din Daeng",
+    "slug": "din-daeng"
+  },
+  "code": {
+    "dopa": "810704"
+  },
+  "parent": {
+    "id": "8107",
+    "level": 2,
+    "name": {
+      "th": "ลำทับ",
+      "en": "Lam Thap",
+      "slug": "lam-thap"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8107",
+      "level": 2,
+      "name": {
+        "th": "ลำทับ",
+        "en": "Lam Thap",
+        "slug": "lam-thap"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "81120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.011",
+    "lon": "99.373"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/din-daeng-810704/"
+  }
+}

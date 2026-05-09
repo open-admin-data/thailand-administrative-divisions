@@ -1,0 +1,61 @@
+{
+  "id": "640510",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านแก่ง",
+    "en": "Ban Kaeng",
+    "slug": "ban-kaeng"
+  },
+  "code": {
+    "dopa": "640510"
+  },
+  "parent": {
+    "id": "6405",
+    "level": 2,
+    "name": {
+      "th": "ศรีสัชนาลัย",
+      "en": "Si Satchanalai",
+      "slug": "si-satchanalai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6405",
+      "level": 2,
+      "name": {
+        "th": "ศรีสัชนาลัย",
+        "en": "Si Satchanalai",
+        "slug": "si-satchanalai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "64130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.449",
+    "lon": "99.643"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-kaeng-640510/"
+  }
+}

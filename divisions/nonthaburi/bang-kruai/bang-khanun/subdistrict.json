@@ -1,0 +1,61 @@
+{
+  "id": "120204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางขนุน",
+    "en": "Bang Khanun",
+    "slug": "bang-khanun"
+  },
+  "code": {
+    "dopa": "120204"
+  },
+  "parent": {
+    "id": "1202",
+    "level": 2,
+    "name": {
+      "th": "บางกรวย",
+      "en": "Bang Kruai",
+      "slug": "bang-kruai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1202",
+      "level": 2,
+      "name": {
+        "th": "บางกรวย",
+        "en": "Bang Kruai",
+        "slug": "bang-kruai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "11130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.811",
+    "lon": "100.453"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-khanun-120204/"
+  }
+}

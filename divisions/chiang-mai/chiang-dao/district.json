@@ -1,0 +1,50 @@
+{
+  "id": "5004",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เชียงดาว",
+    "en": "Chiang Dao",
+    "slug": "chiang-dao"
+  },
+  "code": {
+    "dopa": "5004"
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 83
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.477",
+    "lon": "98.833"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chiang-dao-5004/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "600307",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองกระเจา",
+    "en": "Nong Krachao",
+    "slug": "nong-krachao"
+  },
+  "code": {
+    "dopa": "600307"
+  },
+  "parent": {
+    "id": "6003",
+    "level": 2,
+    "name": {
+      "th": "ชุมแสง",
+      "en": "Chum Saeng",
+      "slug": "chum-saeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6003",
+      "level": 2,
+      "name": {
+        "th": "ชุมแสง",
+        "en": "Chum Saeng",
+        "slug": "chum-saeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "60120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.901",
+    "lon": "100.395"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-krachao-600307/"
+  }
+}

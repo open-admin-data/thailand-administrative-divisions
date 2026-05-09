@@ -1,0 +1,61 @@
+{
+  "id": "810402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองท่อมเหนือ",
+    "en": "Khlong Thom Nuea",
+    "slug": "khlong-thom-nuea"
+  },
+  "code": {
+    "dopa": "810402"
+  },
+  "parent": {
+    "id": "8104",
+    "level": 2,
+    "name": {
+      "th": "คลองท่อม",
+      "en": "Khlong Thom",
+      "slug": "khlong-thom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8104",
+      "level": 2,
+      "name": {
+        "th": "คลองท่อม",
+        "en": "Khlong Thom",
+        "slug": "khlong-thom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "81120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.930",
+    "lon": "99.263"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-thom-nuea-810402/"
+  }
+}

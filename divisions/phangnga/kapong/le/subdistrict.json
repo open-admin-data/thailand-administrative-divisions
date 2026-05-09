@@ -1,0 +1,61 @@
+{
+  "id": "820304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เหล",
+    "en": "Le",
+    "slug": "le"
+  },
+  "code": {
+    "dopa": "820304"
+  },
+  "parent": {
+    "id": "8203",
+    "level": 2,
+    "name": {
+      "th": "กะปง",
+      "en": "Kapong",
+      "slug": "kapong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8203",
+      "level": 2,
+      "name": {
+        "th": "กะปง",
+        "en": "Kapong",
+        "slug": "kapong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "82170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.734",
+    "lon": "98.507"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/le-820304/"
+  }
+}

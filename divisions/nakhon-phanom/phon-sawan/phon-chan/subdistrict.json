@@ -1,0 +1,61 @@
+{
+  "id": "481006",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพนจาน",
+    "en": "Phon Chan",
+    "slug": "phon-chan"
+  },
+  "code": {
+    "dopa": "481006"
+  },
+  "parent": {
+    "id": "4810",
+    "level": 2,
+    "name": {
+      "th": "โพนสวรรค์",
+      "en": "Phon Sawan",
+      "slug": "phon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4810",
+      "level": 2,
+      "name": {
+        "th": "โพนสวรรค์",
+        "en": "Phon Sawan",
+        "slug": "phon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "48190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.409",
+    "lon": "104.424"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phon-chan-481006/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "820105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตากแดด",
+    "en": "Tak Daet",
+    "slug": "tak-daet"
+  },
+  "code": {
+    "dopa": "820105"
+  },
+  "parent": {
+    "id": "8201",
+    "level": 2,
+    "name": {
+      "th": "เมืองพังงา",
+      "en": "Mueang Phang-nga",
+      "slug": "mueang-phang-nga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8201",
+      "level": 2,
+      "name": {
+        "th": "เมืองพังงา",
+        "en": "Mueang Phang-nga",
+        "slug": "mueang-phang-nga"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "82000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.433",
+    "lon": "98.489"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tak-daet-820105/"
+  }
+}

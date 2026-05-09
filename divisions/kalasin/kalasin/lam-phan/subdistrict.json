@@ -1,0 +1,61 @@
+{
+  "id": "460106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลำพาน",
+    "en": "Lam Phan",
+    "slug": "lam-phan"
+  },
+  "code": {
+    "dopa": "460106"
+  },
+  "parent": {
+    "id": "4601",
+    "level": 2,
+    "name": {
+      "th": "เมืองกาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4601",
+      "level": 2,
+      "name": {
+        "th": "เมืองกาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "46000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.457",
+    "lon": "103.484"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lam-phan-460106/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "580307",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โป่งสา",
+    "en": "Pong Sa",
+    "slug": "pong-sa"
+  },
+  "code": {
+    "dopa": "580307"
+  },
+  "parent": {
+    "id": "5803",
+    "level": 2,
+    "name": {
+      "th": "ปาย",
+      "en": "Pai",
+      "slug": "pai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    },
+    {
+      "id": "5803",
+      "level": 2,
+      "name": {
+        "th": "ปาย",
+        "en": "Pai",
+        "slug": "pai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "58130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.120",
+    "lon": "98.581"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pong-sa-580307/"
+  }
+}

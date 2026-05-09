@@ -1,0 +1,61 @@
+{
+  "id": "440202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังแสง",
+    "en": "Wang Saeng",
+    "slug": "wang-saeng"
+  },
+  "code": {
+    "dopa": "440202"
+  },
+  "parent": {
+    "id": "4402",
+    "level": 2,
+    "name": {
+      "th": "แกดำ",
+      "en": "Kae Dam",
+      "slug": "kae-dam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4402",
+      "level": 2,
+      "name": {
+        "th": "แกดำ",
+        "en": "Kae Dam",
+        "slug": "kae-dam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "44190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.047",
+    "lon": "103.358"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-saeng-440202/"
+  }
+}

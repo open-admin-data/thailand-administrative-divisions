@@ -1,0 +1,185 @@
+[
+  {
+    "id": "85020301",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกลาง",
+      "en": "Ban Klang",
+      "slug": "85020301"
+    },
+    "code": {
+      "dopa": "85020301"
+    },
+    "parent": {
+      "id": "850203",
+      "level": 3,
+      "name": {
+        "th": "บางพระใต้",
+        "en": "Bang Phra Tai",
+        "slug": "bang-phra-tai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "85",
+        "level": 1,
+        "name": {
+          "th": "ระนอง",
+          "en": "Ranong",
+          "slug": "ranong"
+        }
+      },
+      {
+        "id": "8502",
+        "level": 2,
+        "name": {
+          "th": "ละอุ่น",
+          "en": "La-un",
+          "slug": "la-un"
+        }
+      },
+      {
+        "id": "850203",
+        "level": 3,
+        "name": {
+          "th": "บางพระใต้",
+          "en": "Bang Phra Tai",
+          "slug": "bang-phra-tai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "10.105342984599007",
+      "lon": "98.73093500733376"
+    },
+    "source": {}
+  },
+  {
+    "id": "85020302",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเทิก",
+      "en": "Ban Thoek",
+      "slug": "85020302"
+    },
+    "code": {
+      "dopa": "85020302"
+    },
+    "parent": {
+      "id": "850203",
+      "level": 3,
+      "name": {
+        "th": "บางพระใต้",
+        "en": "Bang Phra Tai",
+        "slug": "bang-phra-tai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "85",
+        "level": 1,
+        "name": {
+          "th": "ระนอง",
+          "en": "Ranong",
+          "slug": "ranong"
+        }
+      },
+      {
+        "id": "8502",
+        "level": 2,
+        "name": {
+          "th": "ละอุ่น",
+          "en": "La-un",
+          "slug": "la-un"
+        }
+      },
+      {
+        "id": "850203",
+        "level": 3,
+        "name": {
+          "th": "บางพระใต้",
+          "en": "Bang Phra Tai",
+          "slug": "bang-phra-tai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "10.094653660463054",
+      "lon": "98.72729659080505"
+    },
+    "source": {}
+  },
+  {
+    "id": "85020303",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านบางนา",
+      "en": "Ban Bang Na",
+      "slug": "85020303"
+    },
+    "code": {
+      "dopa": "85020303"
+    },
+    "parent": {
+      "id": "850203",
+      "level": 3,
+      "name": {
+        "th": "บางพระใต้",
+        "en": "Bang Phra Tai",
+        "slug": "bang-phra-tai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "85",
+        "level": 1,
+        "name": {
+          "th": "ระนอง",
+          "en": "Ranong",
+          "slug": "ranong"
+        }
+      },
+      {
+        "id": "8502",
+        "level": 2,
+        "name": {
+          "th": "ละอุ่น",
+          "en": "La-un",
+          "slug": "la-un"
+        }
+      },
+      {
+        "id": "850203",
+        "level": 3,
+        "name": {
+          "th": "บางพระใต้",
+          "en": "Bang Phra Tai",
+          "slug": "bang-phra-tai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "10.11713964602646",
+      "lon": "98.73320281505585"
+    },
+    "source": {}
+  }
+]

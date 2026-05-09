@@ -1,0 +1,61 @@
+{
+  "id": "104004",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง หลักสอง",
+    "en": "Lak Song",
+    "slug": "lak-song"
+  },
+  "code": {
+    "dopa": "104004"
+  },
+  "parent": {
+    "id": "1040",
+    "level": 2,
+    "name": {
+      "th": "เขต บางแค",
+      "en": "Khet Bang Khae",
+      "slug": "khet-bang-khae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1040",
+      "level": 2,
+      "name": {
+        "th": "เขต บางแค",
+        "en": "Khet Bang Khae",
+        "slug": "khet-bang-khae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10160"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.683",
+    "lon": "100.396"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lak-song-104004/"
+  }
+}

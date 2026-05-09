@@ -1,0 +1,673 @@
+[
+  {
+    "id": "31080901",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหลัก",
+      "en": "Ban Lak",
+      "slug": "31080901"
+    },
+    "code": {
+      "dopa": "31080901"
+    },
+    "parent": {
+      "id": "310809",
+      "level": 3,
+      "name": {
+        "th": "เขาดินเหนือ",
+        "en": "Khao Din Nuea",
+        "slug": "khao-din-nuea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "th": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram"
+        }
+      },
+      {
+        "id": "3108",
+        "level": 2,
+        "name": {
+          "th": "บ้านกรวด",
+          "en": "Ban Kruat",
+          "slug": "ban-kruat"
+        }
+      },
+      {
+        "id": "310809",
+        "level": 3,
+        "name": {
+          "th": "เขาดินเหนือ",
+          "en": "Khao Din Nuea",
+          "slug": "khao-din-nuea"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.32450613570651",
+      "lon": "100.50387516617775"
+    },
+    "source": {}
+  },
+  {
+    "id": "31080902",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านฉันเพล",
+      "en": "Ban Chanphen",
+      "slug": "31080902"
+    },
+    "code": {
+      "dopa": "31080902"
+    },
+    "parent": {
+      "id": "310809",
+      "level": 3,
+      "name": {
+        "th": "เขาดินเหนือ",
+        "en": "Khao Din Nuea",
+        "slug": "khao-din-nuea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "th": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram"
+        }
+      },
+      {
+        "id": "3108",
+        "level": 2,
+        "name": {
+          "th": "บ้านกรวด",
+          "en": "Ban Kruat",
+          "slug": "ban-kruat"
+        }
+      },
+      {
+        "id": "310809",
+        "level": 3,
+        "name": {
+          "th": "เขาดินเหนือ",
+          "en": "Khao Din Nuea",
+          "slug": "khao-din-nuea"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.50875095794121",
+      "lon": "103.21323081851006"
+    },
+    "source": {}
+  },
+  {
+    "id": "31080903",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเขาดินเหนือ",
+      "en": "Ban Khao Din Nuea",
+      "slug": "31080903"
+    },
+    "code": {
+      "dopa": "31080903"
+    },
+    "parent": {
+      "id": "310809",
+      "level": 3,
+      "name": {
+        "th": "เขาดินเหนือ",
+        "en": "Khao Din Nuea",
+        "slug": "khao-din-nuea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "th": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram"
+        }
+      },
+      {
+        "id": "3108",
+        "level": 2,
+        "name": {
+          "th": "บ้านกรวด",
+          "en": "Ban Kruat",
+          "slug": "ban-kruat"
+        }
+      },
+      {
+        "id": "310809",
+        "level": 3,
+        "name": {
+          "th": "เขาดินเหนือ",
+          "en": "Khao Din Nuea",
+          "slug": "khao-din-nuea"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.525358647175503",
+      "lon": "103.20017382502556"
+    },
+    "source": {}
+  },
+  {
+    "id": "31080904",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านศรีสุขน้อย",
+      "en": "Ban Si Suk Noi",
+      "slug": "31080904"
+    },
+    "code": {
+      "dopa": "31080904"
+    },
+    "parent": {
+      "id": "310809",
+      "level": 3,
+      "name": {
+        "th": "เขาดินเหนือ",
+        "en": "Khao Din Nuea",
+        "slug": "khao-din-nuea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "th": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram"
+        }
+      },
+      {
+        "id": "3108",
+        "level": 2,
+        "name": {
+          "th": "บ้านกรวด",
+          "en": "Ban Kruat",
+          "slug": "ban-kruat"
+        }
+      },
+      {
+        "id": "310809",
+        "level": 3,
+        "name": {
+          "th": "เขาดินเหนือ",
+          "en": "Khao Din Nuea",
+          "slug": "khao-din-nuea"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.545724473258545",
+      "lon": "103.19260060787201"
+    },
+    "source": {}
+  },
+  {
+    "id": "31080905",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านศรีสุข",
+      "en": "Ban Si Suk",
+      "slug": "31080905"
+    },
+    "code": {
+      "dopa": "31080905"
+    },
+    "parent": {
+      "id": "310809",
+      "level": 3,
+      "name": {
+        "th": "เขาดินเหนือ",
+        "en": "Khao Din Nuea",
+        "slug": "khao-din-nuea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "th": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram"
+        }
+      },
+      {
+        "id": "3108",
+        "level": 2,
+        "name": {
+          "th": "บ้านกรวด",
+          "en": "Ban Kruat",
+          "slug": "ban-kruat"
+        }
+      },
+      {
+        "id": "310809",
+        "level": 3,
+        "name": {
+          "th": "เขาดินเหนือ",
+          "en": "Khao Din Nuea",
+          "slug": "khao-din-nuea"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.551843720385518",
+      "lon": "103.20018455386162"
+    },
+    "source": {}
+  },
+  {
+    "id": "31080906",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านตรุง",
+      "en": "Ban Trung",
+      "slug": "31080906"
+    },
+    "code": {
+      "dopa": "31080906"
+    },
+    "parent": {
+      "id": "310809",
+      "level": 3,
+      "name": {
+        "th": "เขาดินเหนือ",
+        "en": "Khao Din Nuea",
+        "slug": "khao-din-nuea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "th": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram"
+        }
+      },
+      {
+        "id": "3108",
+        "level": 2,
+        "name": {
+          "th": "บ้านกรวด",
+          "en": "Ban Kruat",
+          "slug": "ban-kruat"
+        }
+      },
+      {
+        "id": "310809",
+        "level": 3,
+        "name": {
+          "th": "เขาดินเหนือ",
+          "en": "Khao Din Nuea",
+          "slug": "khao-din-nuea"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.490411204655219",
+      "lon": "103.21018651127815"
+    },
+    "source": {}
+  },
+  {
+    "id": "31080907",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหว้า",
+      "en": "Ban Wa",
+      "slug": "31080907"
+    },
+    "code": {
+      "dopa": "31080907"
+    },
+    "parent": {
+      "id": "310809",
+      "level": 3,
+      "name": {
+        "th": "เขาดินเหนือ",
+        "en": "Khao Din Nuea",
+        "slug": "khao-din-nuea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "th": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram"
+        }
+      },
+      {
+        "id": "3108",
+        "level": 2,
+        "name": {
+          "th": "บ้านกรวด",
+          "en": "Ban Kruat",
+          "slug": "ban-kruat"
+        }
+      },
+      {
+        "id": "310809",
+        "level": 3,
+        "name": {
+          "th": "เขาดินเหนือ",
+          "en": "Khao Din Nuea",
+          "slug": "khao-din-nuea"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.487787035131495",
+      "lon": "103.22051301598549"
+    },
+    "source": {}
+  },
+  {
+    "id": "31080908",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านโคกสว่าง",
+      "en": "Ban Khok Sawang",
+      "slug": "31080908"
+    },
+    "code": {
+      "dopa": "31080908"
+    },
+    "parent": {
+      "id": "310809",
+      "level": 3,
+      "name": {
+        "th": "เขาดินเหนือ",
+        "en": "Khao Din Nuea",
+        "slug": "khao-din-nuea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "th": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram"
+        }
+      },
+      {
+        "id": "3108",
+        "level": 2,
+        "name": {
+          "th": "บ้านกรวด",
+          "en": "Ban Kruat",
+          "slug": "ban-kruat"
+        }
+      },
+      {
+        "id": "310809",
+        "level": 3,
+        "name": {
+          "th": "เขาดินเหนือ",
+          "en": "Khao Din Nuea",
+          "slug": "khao-din-nuea"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.722065950533965",
+      "lon": "100.53202763199806"
+    },
+    "source": {}
+  },
+  {
+    "id": "31080909",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านประดู่",
+      "en": "Ban Pradu",
+      "slug": "31080909"
+    },
+    "code": {
+      "dopa": "31080909"
+    },
+    "parent": {
+      "id": "310809",
+      "level": 3,
+      "name": {
+        "th": "เขาดินเหนือ",
+        "en": "Khao Din Nuea",
+        "slug": "khao-din-nuea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "th": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram"
+        }
+      },
+      {
+        "id": "3108",
+        "level": 2,
+        "name": {
+          "th": "บ้านกรวด",
+          "en": "Ban Kruat",
+          "slug": "ban-kruat"
+        }
+      },
+      {
+        "id": "310809",
+        "level": 3,
+        "name": {
+          "th": "เขาดินเหนือ",
+          "en": "Khao Din Nuea",
+          "slug": "khao-din-nuea"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.72706875088845",
+      "lon": "100.5340875685215"
+    },
+    "source": {}
+  },
+  {
+    "id": "31080910",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเขาดินเหนือพัฒนา",
+      "en": "Ban Khao Din Nuea Phatthana",
+      "slug": "31080910"
+    },
+    "code": {
+      "dopa": "31080910"
+    },
+    "parent": {
+      "id": "310809",
+      "level": 3,
+      "name": {
+        "th": "เขาดินเหนือ",
+        "en": "Khao Din Nuea",
+        "slug": "khao-din-nuea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "th": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram"
+        }
+      },
+      {
+        "id": "3108",
+        "level": 2,
+        "name": {
+          "th": "บ้านกรวด",
+          "en": "Ban Kruat",
+          "slug": "ban-kruat"
+        }
+      },
+      {
+        "id": "310809",
+        "level": 3,
+        "name": {
+          "th": "เขาดินเหนือ",
+          "en": "Khao Din Nuea",
+          "slug": "khao-din-nuea"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.530310073075142",
+      "lon": "103.20392087101936"
+    },
+    "source": {}
+  },
+  {
+    "id": "31080911",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหลักชัย",
+      "en": "Ban Lak Chai",
+      "slug": "31080911"
+    },
+    "code": {
+      "dopa": "31080911"
+    },
+    "parent": {
+      "id": "310809",
+      "level": 3,
+      "name": {
+        "th": "เขาดินเหนือ",
+        "en": "Khao Din Nuea",
+        "slug": "khao-din-nuea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "th": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram"
+        }
+      },
+      {
+        "id": "3108",
+        "level": 2,
+        "name": {
+          "th": "บ้านกรวด",
+          "en": "Ban Kruat",
+          "slug": "ban-kruat"
+        }
+      },
+      {
+        "id": "310809",
+        "level": 3,
+        "name": {
+          "th": "เขาดินเหนือ",
+          "en": "Khao Din Nuea",
+          "slug": "khao-din-nuea"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.53317520253898",
+      "lon": "103.18074524402618"
+    },
+    "source": {}
+  }
+]

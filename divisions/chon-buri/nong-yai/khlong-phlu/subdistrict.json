@@ -1,0 +1,61 @@
+{
+  "id": "200302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองพลู",
+    "en": "Khlong Phlu",
+    "slug": "khlong-phlu"
+  },
+  "code": {
+    "dopa": "200302"
+  },
+  "parent": {
+    "id": "2003",
+    "level": 2,
+    "name": {
+      "th": "หนองใหญ่",
+      "en": "Nong Yai",
+      "slug": "nong-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2003",
+      "level": 2,
+      "name": {
+        "th": "หนองใหญ่",
+        "en": "Nong Yai",
+        "slug": "nong-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "20190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.115",
+    "lon": "101.476"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-phlu-200302/"
+  }
+}

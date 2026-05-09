@@ -1,0 +1,50 @@
+{
+  "id": "3705",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เสนางคนิคม",
+    "en": "Senangkhanikhom",
+    "slug": "senangkhanikhom"
+  },
+  "code": {
+    "dopa": "3705"
+  },
+  "parent": {
+    "id": "37",
+    "level": 1,
+    "name": {
+      "th": "อำนาจเจริญ",
+      "en": "Amnat Charoen",
+      "slug": "amnat-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 58
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.050",
+    "lon": "104.616"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/senangkhanikhom-3705/"
+  }
+}

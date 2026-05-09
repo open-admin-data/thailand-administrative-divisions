@@ -1,0 +1,61 @@
+{
+  "id": "150208",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชะไว",
+    "en": "Chawai",
+    "slug": "chawai"
+  },
+  "code": {
+    "dopa": "150208"
+  },
+  "parent": {
+    "id": "1502",
+    "level": 2,
+    "name": {
+      "th": "ไชโย",
+      "en": "Chaiyo",
+      "slug": "chaiyo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1502",
+      "level": 2,
+      "name": {
+        "th": "ไชโย",
+        "en": "Chaiyo",
+        "slug": "chaiyo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 3
+  },
+  "zip_codes": [
+    "14140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.687",
+    "lon": "100.494"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chawai-150208/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "260402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บึงศาล",
+    "en": "Bueng San",
+    "slug": "bueng-san"
+  },
+  "code": {
+    "dopa": "260402"
+  },
+  "parent": {
+    "id": "2604",
+    "level": 2,
+    "name": {
+      "th": "องครักษ์",
+      "en": "Ongkharak",
+      "slug": "ongkharak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    {
+      "id": "2604",
+      "level": 2,
+      "name": {
+        "th": "องครักษ์",
+        "en": "Ongkharak",
+        "slug": "ongkharak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "26120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.052",
+    "lon": "100.938"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bueng-san-260402/"
+  }
+}

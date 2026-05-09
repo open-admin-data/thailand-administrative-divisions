@@ -1,0 +1,50 @@
+{
+  "id": "9611",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สุไหงปาดี",
+    "en": "Su-ngai Padi",
+    "slug": "su-ngai-padi"
+  },
+  "code": {
+    "dopa": "9611"
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "th": "นราธิวาส",
+      "en": "Narathiwat",
+      "slug": "narathiwat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 58
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.020",
+    "lon": "101.889"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/su-ngai-padi-9611/"
+  }
+}

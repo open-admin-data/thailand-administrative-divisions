@@ -1,0 +1,61 @@
+{
+  "id": "320209",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองเรือ",
+    "en": "Nong Ruea",
+    "slug": "nong-ruea"
+  },
+  "code": {
+    "dopa": "320209"
+  },
+  "parent": {
+    "id": "3202",
+    "level": 2,
+    "name": {
+      "th": "ชุมพลบุรี",
+      "en": "Chumphon Buri",
+      "slug": "chumphon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3202",
+      "level": 2,
+      "name": {
+        "th": "ชุมพลบุรี",
+        "en": "Chumphon Buri",
+        "slug": "chumphon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "32190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.312",
+    "lon": "103.557"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-ruea-320209/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "430104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กวนวัน",
+    "en": "Kuan Wan",
+    "slug": "kuan-wan"
+  },
+  "code": {
+    "dopa": "430104"
+  },
+  "parent": {
+    "id": "4301",
+    "level": 2,
+    "name": {
+      "th": "เมืองหนองคาย",
+      "en": "Mueang Nong Khai",
+      "slug": "mueang-nong-khai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4301",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองคาย",
+        "en": "Mueang Nong Khai",
+        "slug": "mueang-nong-khai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "43000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.858",
+    "lon": "102.700"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kuan-wan-430104/"
+  }
+}

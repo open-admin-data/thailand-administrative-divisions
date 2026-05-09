@@ -1,0 +1,61 @@
+{
+  "id": "302404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังหิน",
+    "en": "Wang Hin",
+    "slug": "wang-hin"
+  },
+  "code": {
+    "dopa": "302404"
+  },
+  "parent": {
+    "id": "3024",
+    "level": 2,
+    "name": {
+      "th": "โนนแดง",
+      "en": "Non Daeng",
+      "slug": "non-daeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3024",
+      "level": 2,
+      "name": {
+        "th": "โนนแดง",
+        "en": "Non Daeng",
+        "slug": "non-daeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "30360"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.505",
+    "lon": "102.567"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-hin-302404/"
+  }
+}

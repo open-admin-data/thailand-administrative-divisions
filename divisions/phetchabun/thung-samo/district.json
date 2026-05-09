@@ -1,0 +1,50 @@
+{
+  "id": "6711",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขาค้อ",
+    "en": "Thung Samo",
+    "slug": "thung-samo"
+  },
+  "code": {
+    "dopa": "6711"
+  },
+  "parent": {
+    "id": "67",
+    "level": 1,
+    "name": {
+      "th": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 72
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.545",
+    "lon": "100.968"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thung-samo-6711/"
+  }
+}

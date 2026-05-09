@@ -1,0 +1,61 @@
+{
+  "id": "801107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กรุงหยัน",
+    "en": "Krung Yan",
+    "slug": "krung-yan"
+  },
+  "code": {
+    "dopa": "801107"
+  },
+  "parent": {
+    "id": "8011",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งใหญ่",
+      "en": "Thung Yai",
+      "slug": "thung-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8011",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งใหญ่",
+        "en": "Thung Yai",
+        "slug": "thung-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "80240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.187",
+    "lon": "99.403"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/krung-yan-801107/"
+  }
+}

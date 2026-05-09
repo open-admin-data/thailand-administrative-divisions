@@ -1,0 +1,38 @@
+{
+  "id": "65",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "พิษณุโลก",
+    "en": "Phitsanulok",
+    "slug": "phitsanulok"
+  },
+  "code": {
+    "dopa": "65",
+    "iso": "TH-65"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 9,
+    "subdistricts": 93,
+    "villages": 1112
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central"
+    }
+  },
+  "geo": {
+    "lat": "16.789",
+    "lon": "100.250"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/phitsanulok-65/"
+  }
+}

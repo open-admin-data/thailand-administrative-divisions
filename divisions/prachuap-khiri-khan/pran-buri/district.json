@@ -1,0 +1,50 @@
+{
+  "id": "7706",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปราณบุรี",
+    "en": "Pran Buri",
+    "slug": "pran-buri"
+  },
+  "code": {
+    "dopa": "7706"
+  },
+  "parent": {
+    "id": "77",
+    "level": 1,
+    "name": {
+      "th": "ประจวบคีรีขันธ์",
+      "en": "Prachuap Khiri Khan",
+      "slug": "prachuap-khiri-khan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 44
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.354",
+    "lon": "99.932"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pran-buri-7706/"
+  }
+}

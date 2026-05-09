@@ -1,0 +1,61 @@
+{
+  "id": "840705",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วัง",
+    "en": "Wang",
+    "slug": "wang"
+  },
+  "code": {
+    "dopa": "840705"
+  },
+  "parent": {
+    "id": "8407",
+    "level": 2,
+    "name": {
+      "th": "ท่าชนะ",
+      "en": "Tha Chana",
+      "slug": "tha-chana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8407",
+      "level": 2,
+      "name": {
+        "th": "ท่าชนะ",
+        "en": "Tha Chana",
+        "slug": "tha-chana"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "84170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.520",
+    "lon": "99.198"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-840705/"
+  }
+}

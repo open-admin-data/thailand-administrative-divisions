@@ -1,0 +1,61 @@
+{
+  "id": "710606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งทอง",
+    "en": "Thung Thong",
+    "slug": "thung-thong"
+  },
+  "code": {
+    "dopa": "710606"
+  },
+  "parent": {
+    "id": "7106",
+    "level": 2,
+    "name": {
+      "th": "ท่าม่วง",
+      "en": "Tha Muang",
+      "slug": "tha-muang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7106",
+      "level": 2,
+      "name": {
+        "th": "ท่าม่วง",
+        "en": "Tha Muang",
+        "slug": "tha-muang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "71110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.008",
+    "lon": "99.666"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-thong-710606/"
+  }
+}

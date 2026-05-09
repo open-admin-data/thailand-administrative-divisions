@@ -1,0 +1,61 @@
+{
+  "id": "660503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หอไกร",
+    "en": "Ho Krai",
+    "slug": "ho-krai"
+  },
+  "code": {
+    "dopa": "660503"
+  },
+  "parent": {
+    "id": "6605",
+    "level": 2,
+    "name": {
+      "th": "บางมูลนาก",
+      "en": "Bang Mun Nak",
+      "slug": "bang-mun-nak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6605",
+      "level": 2,
+      "name": {
+        "th": "บางมูลนาก",
+        "en": "Bang Mun Nak",
+        "slug": "bang-mun-nak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "66120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.068",
+    "lon": "100.381"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ho-krai-660503/"
+  }
+}

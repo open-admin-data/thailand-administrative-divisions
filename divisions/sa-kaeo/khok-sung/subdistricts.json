@@ -1,0 +1,246 @@
+[
+  {
+    "id": "270801",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "โคกสูง",
+      "en": "Khok Sung",
+      "slug": "khok-sung"
+    },
+    "code": {
+      "dopa": "270801"
+    },
+    "parent": {
+      "id": "2708",
+      "level": 2,
+      "name": {
+        "th": "โคกสูง",
+        "en": "Khok Sung",
+        "slug": "khok-sung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "th": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo"
+        }
+      },
+      {
+        "id": "2708",
+        "level": 2,
+        "name": {
+          "th": "โคกสูง",
+          "en": "Khok Sung",
+          "slug": "khok-sung"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "27120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.831",
+      "lon": "102.719"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khok-sung-270801/"
+    }
+  },
+  {
+    "id": "270804",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "โนนหมากมุ่น",
+      "en": "Non Mak Mun",
+      "slug": "non-mak-mun"
+    },
+    "code": {
+      "dopa": "270804"
+    },
+    "parent": {
+      "id": "2708",
+      "level": 2,
+      "name": {
+        "th": "โคกสูง",
+        "en": "Khok Sung",
+        "slug": "khok-sung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "th": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo"
+        }
+      },
+      {
+        "id": "2708",
+        "level": 2,
+        "name": {
+          "th": "โคกสูง",
+          "en": "Khok Sung",
+          "slug": "khok-sung"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "27120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.774",
+      "lon": "102.664"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/non-mak-mun-270804/"
+    }
+  },
+  {
+    "id": "270802",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองม่วง",
+      "en": "Nong Muang",
+      "slug": "nong-muang"
+    },
+    "code": {
+      "dopa": "270802"
+    },
+    "parent": {
+      "id": "2708",
+      "level": 2,
+      "name": {
+        "th": "โคกสูง",
+        "en": "Khok Sung",
+        "slug": "khok-sung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "th": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo"
+        }
+      },
+      {
+        "id": "2708",
+        "level": 2,
+        "name": {
+          "th": "โคกสูง",
+          "en": "Khok Sung",
+          "slug": "khok-sung"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 14
+    },
+    "zip_codes": [
+      "27180"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.874",
+      "lon": "102.582"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-muang-270802/"
+    }
+  },
+  {
+    "id": "270803",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองแวง",
+      "en": "Nong Waeng",
+      "slug": "nong-waeng"
+    },
+    "code": {
+      "dopa": "270803"
+    },
+    "parent": {
+      "id": "2708",
+      "level": 2,
+      "name": {
+        "th": "โคกสูง",
+        "en": "Khok Sung",
+        "slug": "khok-sung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "th": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo"
+        }
+      },
+      {
+        "id": "2708",
+        "level": 2,
+        "name": {
+          "th": "โคกสูง",
+          "en": "Khok Sung",
+          "slug": "khok-sung"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "27180"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.866",
+      "lon": "102.674"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-waeng-270803/"
+    }
+  }
+]

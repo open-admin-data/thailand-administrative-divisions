@@ -1,0 +1,61 @@
+{
+  "id": "800806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สระแก้ว",
+    "en": "Sa Kaeo",
+    "slug": "sa-kaeo"
+  },
+  "code": {
+    "dopa": "800806"
+  },
+  "parent": {
+    "id": "8008",
+    "level": 2,
+    "name": {
+      "th": "ท่าศาลา",
+      "en": "Tha Sala",
+      "slug": "tha-sala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8008",
+      "level": 2,
+      "name": {
+        "th": "ท่าศาลา",
+        "en": "Tha Sala",
+        "slug": "tha-sala"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "80160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.752",
+    "lon": "99.867"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sa-kaeo-800806/"
+  }
+}

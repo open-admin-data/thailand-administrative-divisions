@@ -1,0 +1,61 @@
+{
+  "id": "560502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนศรีชุม",
+    "en": "Don Si Chum",
+    "slug": "don-si-chum"
+  },
+  "code": {
+    "dopa": "560502"
+  },
+  "parent": {
+    "id": "5605",
+    "level": 2,
+    "name": {
+      "th": "ดอกคำใต้",
+      "en": "Dok Khamtai",
+      "slug": "dok-khamtai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5605",
+      "level": 2,
+      "name": {
+        "th": "ดอกคำใต้",
+        "en": "Dok Khamtai",
+        "slug": "dok-khamtai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "56120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.157",
+    "lon": "100.026"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-si-chum-560502/"
+  }
+}

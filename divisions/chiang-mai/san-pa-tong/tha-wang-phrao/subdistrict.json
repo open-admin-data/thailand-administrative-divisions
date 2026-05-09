@@ -1,0 +1,61 @@
+{
+  "id": "501203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าวังพร้าว",
+    "en": "Tha Wang Phrao",
+    "slug": "tha-wang-phrao"
+  },
+  "code": {
+    "dopa": "501203"
+  },
+  "parent": {
+    "id": "5012",
+    "level": 2,
+    "name": {
+      "th": "สันป่าตอง",
+      "en": "San Pa Tong",
+      "slug": "san-pa-tong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5012",
+      "level": 2,
+      "name": {
+        "th": "สันป่าตอง",
+        "en": "San Pa Tong",
+        "slug": "san-pa-tong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "50120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.531",
+    "lon": "98.864"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-wang-phrao-501203/"
+  }
+}

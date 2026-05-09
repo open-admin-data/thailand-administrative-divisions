@@ -1,0 +1,61 @@
+{
+  "id": "720604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สระกระโจม",
+    "en": "Sa Krachom",
+    "slug": "sa-krachom"
+  },
+  "code": {
+    "dopa": "720604"
+  },
+  "parent": {
+    "id": "7206",
+    "level": 2,
+    "name": {
+      "th": "ดอนเจดีย์",
+      "en": "Don Chedi",
+      "slug": "don-chedi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7206",
+      "level": 2,
+      "name": {
+        "th": "ดอนเจดีย์",
+        "en": "Don Chedi",
+        "slug": "don-chedi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "72250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.643",
+    "lon": "99.865"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sa-krachom-720604/"
+  }
+}

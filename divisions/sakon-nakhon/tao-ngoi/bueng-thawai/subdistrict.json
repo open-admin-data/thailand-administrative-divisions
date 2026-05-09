@@ -1,0 +1,61 @@
+{
+  "id": "471402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บึงทวาย",
+    "en": "Bueng Thawai",
+    "slug": "bueng-thawai"
+  },
+  "code": {
+    "dopa": "471402"
+  },
+  "parent": {
+    "id": "4714",
+    "level": 2,
+    "name": {
+      "th": "เต่างอย",
+      "en": "Tao Ngoi",
+      "slug": "tao-ngoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4714",
+      "level": 2,
+      "name": {
+        "th": "เต่างอย",
+        "en": "Tao Ngoi",
+        "slug": "tao-ngoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "47260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.034",
+    "lon": "104.157"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bueng-thawai-471402/"
+  }
+}

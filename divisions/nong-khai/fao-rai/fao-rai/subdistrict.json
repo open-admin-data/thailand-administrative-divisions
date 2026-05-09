@@ -1,0 +1,61 @@
+{
+  "id": "431501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เฝ้าไร่",
+    "en": "Fao Rai",
+    "slug": "fao-rai"
+  },
+  "code": {
+    "dopa": "431501"
+  },
+  "parent": {
+    "id": "4315",
+    "level": 2,
+    "name": {
+      "th": "เฝ้าไร่",
+      "en": "Fao Rai",
+      "slug": "fao-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4315",
+      "level": 2,
+      "name": {
+        "th": "เฝ้าไร่",
+        "en": "Fao Rai",
+        "slug": "fao-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "43120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.969",
+    "lon": "103.270"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/fao-rai-431501/"
+  }
+}

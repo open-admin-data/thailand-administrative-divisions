@@ -1,0 +1,61 @@
+{
+  "id": "490705",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองสูงใต้",
+    "en": "Nong Sung Tai",
+    "slug": "nong-sung-tai"
+  },
+  "code": {
+    "dopa": "490705"
+  },
+  "parent": {
+    "id": "4907",
+    "level": 2,
+    "name": {
+      "th": "หนองสูง",
+      "en": "Nong Sung",
+      "slug": "nong-sung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4907",
+      "level": 2,
+      "name": {
+        "th": "หนองสูง",
+        "en": "Nong Sung",
+        "slug": "nong-sung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "49160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.388",
+    "lon": "104.382"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-sung-tai-490705/"
+  }
+}

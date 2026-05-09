@@ -1,0 +1,61 @@
+{
+  "id": "910105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ฉลุง",
+    "en": "Chalung",
+    "slug": "chalung"
+  },
+  "code": {
+    "dopa": "910105"
+  },
+  "parent": {
+    "id": "9101",
+    "level": 2,
+    "name": {
+      "th": "เมืองสตูล",
+      "en": "Mueang Satun",
+      "slug": "mueang-satun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    },
+    {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสตูล",
+        "en": "Mueang Satun",
+        "slug": "mueang-satun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "91140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.725",
+    "lon": "100.035"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chalung-910105/"
+  }
+}

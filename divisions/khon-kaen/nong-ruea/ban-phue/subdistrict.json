@@ -1,0 +1,61 @@
+{
+  "id": "400410",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านผือ",
+    "en": "Ban Phue",
+    "slug": "ban-phue"
+  },
+  "code": {
+    "dopa": "400410"
+  },
+  "parent": {
+    "id": "4004",
+    "level": 2,
+    "name": {
+      "th": "หนองเรือ",
+      "en": "Nong Ruea",
+      "slug": "nong-ruea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4004",
+      "level": 2,
+      "name": {
+        "th": "หนองเรือ",
+        "en": "Nong Ruea",
+        "slug": "nong-ruea"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "40240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.540",
+    "lon": "102.556"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-phue-400410/"
+  }
+}

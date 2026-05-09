@@ -1,0 +1,61 @@
+{
+  "id": "810805",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกยาง",
+    "en": "Khok Yang",
+    "slug": "khok-yang"
+  },
+  "code": {
+    "dopa": "810805"
+  },
+  "parent": {
+    "id": "8108",
+    "level": 2,
+    "name": {
+      "th": "เหนือคลอง",
+      "en": "Nuea Khlong",
+      "slug": "nuea-khlong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8108",
+      "level": 2,
+      "name": {
+        "th": "เหนือคลอง",
+        "en": "Nuea Khlong",
+        "slug": "nuea-khlong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "81130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.090",
+    "lon": "99.087"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-yang-810805/"
+  }
+}

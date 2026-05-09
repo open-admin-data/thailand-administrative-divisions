@@ -1,0 +1,61 @@
+{
+  "id": "801609",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ควนชะลิก",
+    "en": "Khuan Chalik",
+    "slug": "khuan-chalik"
+  },
+  "code": {
+    "dopa": "801609"
+  },
+  "parent": {
+    "id": "8016",
+    "level": 2,
+    "name": {
+      "th": "หัวไทร",
+      "en": "Hua Sai",
+      "slug": "hua-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8016",
+      "level": 2,
+      "name": {
+        "th": "หัวไทร",
+        "en": "Hua Sai",
+        "slug": "hua-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "80170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.907",
+    "lon": "100.206"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khuan-chalik-801609/"
+  }
+}

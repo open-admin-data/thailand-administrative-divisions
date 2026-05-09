@@ -1,0 +1,50 @@
+{
+  "id": "4901",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองมุกดาหาร",
+    "en": "Mukdahan",
+    "slug": "mukdahan"
+  },
+  "code": {
+    "dopa": "4901"
+  },
+  "parent": {
+    "id": "49",
+    "level": 1,
+    "name": {
+      "th": "มุกดาหาร",
+      "en": "Mukdahan",
+      "slug": "mukdahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 183
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.530",
+    "lon": "104.724"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mukdahan-4901/"
+  }
+}

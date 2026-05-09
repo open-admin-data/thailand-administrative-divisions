@@ -1,0 +1,61 @@
+{
+  "id": "760806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยแม่เพรียง",
+    "en": "Huai Mae Phriang",
+    "slug": "huai-mae-phriang"
+  },
+  "code": {
+    "dopa": "760806"
+  },
+  "parent": {
+    "id": "7608",
+    "level": 2,
+    "name": {
+      "th": "แก่งกระจาน",
+      "en": "Kaeng Krachan",
+      "slug": "kaeng-krachan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7608",
+      "level": 2,
+      "name": {
+        "th": "แก่งกระจาน",
+        "en": "Kaeng Krachan",
+        "slug": "kaeng-krachan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "76170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.913",
+    "lon": "99.284"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-mae-phriang-760806/"
+  }
+}

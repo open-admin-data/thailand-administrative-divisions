@@ -1,0 +1,61 @@
+{
+  "id": "340911",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เก่าขาม",
+    "en": "Kao Kham",
+    "slug": "kao-kham"
+  },
+  "code": {
+    "dopa": "340911"
+  },
+  "parent": {
+    "id": "3409",
+    "level": 2,
+    "name": {
+      "th": "น้ำยืน",
+      "en": "Nam Yuen",
+      "slug": "nam-yuen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3409",
+      "level": 2,
+      "name": {
+        "th": "น้ำยืน",
+        "en": "Nam Yuen",
+        "slug": "nam-yuen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "34260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.577",
+    "lon": "105.020"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kao-kham-340911/"
+  }
+}

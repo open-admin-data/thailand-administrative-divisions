@@ -1,0 +1,50 @@
+{
+  "id": "5710",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แม่สรวย",
+    "en": "Mae Suai",
+    "slug": "mae-suai"
+  },
+  "code": {
+    "dopa": "5710"
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 131
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.630",
+    "lon": "99.524"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mae-suai-5710/"
+  }
+}

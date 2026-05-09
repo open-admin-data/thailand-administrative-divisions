@@ -1,0 +1,61 @@
+{
+  "id": "421301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เอราวัณ",
+    "en": "Erawan",
+    "slug": "erawan"
+  },
+  "code": {
+    "dopa": "421301"
+  },
+  "parent": {
+    "id": "4213",
+    "level": 2,
+    "name": {
+      "th": "เอราวัณ",
+      "en": "Erawan",
+      "slug": "erawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4213",
+      "level": 2,
+      "name": {
+        "th": "เอราวัณ",
+        "en": "Erawan",
+        "slug": "erawan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "42220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.373",
+    "lon": "101.892"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/erawan-421301/"
+  }
+}

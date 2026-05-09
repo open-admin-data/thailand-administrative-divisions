@@ -1,0 +1,61 @@
+{
+  "id": "361306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงบัง",
+    "en": "Dong Bang",
+    "slug": "dong-bang"
+  },
+  "code": {
+    "dopa": "361306"
+  },
+  "parent": {
+    "id": "3613",
+    "level": 2,
+    "name": {
+      "th": "คอนสาร",
+      "en": "Khon San",
+      "slug": "khon-san"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3613",
+      "level": 2,
+      "name": {
+        "th": "คอนสาร",
+        "en": "Khon San",
+        "slug": "khon-san"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "36180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.587",
+    "lon": "101.955"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-bang-361306/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "640903",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งเสลี่ยม",
+    "en": "Thung Saliam",
+    "slug": "thung-saliam"
+  },
+  "code": {
+    "dopa": "640903"
+  },
+  "parent": {
+    "id": "6409",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งเสลี่ยม",
+      "en": "Thung Saliam",
+      "slug": "thung-saliam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6409",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งเสลี่ยม",
+        "en": "Thung Saliam",
+        "slug": "thung-saliam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "64150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.301",
+    "lon": "99.548"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-saliam-640903/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "3903",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โนนสัง",
+    "en": "Non Sang",
+    "slug": "non-sang"
+  },
+  "code": {
+    "dopa": "3903"
+  },
+  "parent": {
+    "id": "39",
+    "level": 1,
+    "name": {
+      "th": "หนองบัวลำภู",
+      "en": "Nong Bua Lam Phu",
+      "slug": "nong-bua-lam-phu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 107
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.872",
+    "lon": "102.560"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/non-sang-3903/"
+  }
+}

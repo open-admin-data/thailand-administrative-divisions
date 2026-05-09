@@ -1,0 +1,61 @@
+{
+  "id": "410404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แชแล",
+    "en": "Chaelae",
+    "slug": "chaelae"
+  },
+  "code": {
+    "dopa": "410404"
+  },
+  "parent": {
+    "id": "4104",
+    "level": 2,
+    "name": {
+      "th": "กุมภวาปี",
+      "en": "Kumphawapi",
+      "slug": "kumphawapi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4104",
+      "level": 2,
+      "name": {
+        "th": "กุมภวาปี",
+        "en": "Kumphawapi",
+        "slug": "kumphawapi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "41110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.153",
+    "lon": "103.075"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chaelae-410404/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "600206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศาลาแดง",
+    "en": "Sala Daeng",
+    "slug": "sala-daeng"
+  },
+  "code": {
+    "dopa": "600206"
+  },
+  "parent": {
+    "id": "6002",
+    "level": 2,
+    "name": {
+      "th": "โกรกพระ",
+      "en": "Krok Phra",
+      "slug": "krok-phra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6002",
+      "level": 2,
+      "name": {
+        "th": "โกรกพระ",
+        "en": "Krok Phra",
+        "slug": "krok-phra"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "60170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.581",
+    "lon": "99.996"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sala-daeng-600206/"
+  }
+}

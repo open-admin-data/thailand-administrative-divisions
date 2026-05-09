@@ -1,0 +1,61 @@
+{
+  "id": "470117",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เหล่าปอแดง",
+    "en": "Lao Po Daeng",
+    "slug": "lao-po-daeng"
+  },
+  "code": {
+    "dopa": "470117"
+  },
+  "parent": {
+    "id": "4701",
+    "level": 2,
+    "name": {
+      "th": "เมืองสกลนคร",
+      "en": "Mueang Sakon Nakhon",
+      "slug": "mueang-sakon-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4701",
+      "level": 2,
+      "name": {
+        "th": "เมืองสกลนคร",
+        "en": "Mueang Sakon Nakhon",
+        "slug": "mueang-sakon-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "47000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.137",
+    "lon": "104.212"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lao-po-daeng-470117/"
+  }
+}

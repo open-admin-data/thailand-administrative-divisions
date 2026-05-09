@@ -1,0 +1,61 @@
+{
+  "id": "270704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาสามสิบ",
+    "en": "Khao Sam Sip",
+    "slug": "khao-sam-sip"
+  },
+  "code": {
+    "dopa": "270704"
+  },
+  "parent": {
+    "id": "2707",
+    "level": 2,
+    "name": {
+      "th": "เขาฉกรรจ์",
+      "en": "Khao Chakan",
+      "slug": "khao-chakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    },
+    {
+      "id": "2707",
+      "level": 2,
+      "name": {
+        "th": "เขาฉกรรจ์",
+        "en": "Khao Chakan",
+        "slug": "khao-chakan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "27000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.708",
+    "lon": "102.118"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-sam-sip-270704/"
+  }
+}

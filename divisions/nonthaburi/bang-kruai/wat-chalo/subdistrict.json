@@ -1,0 +1,61 @@
+{
+  "id": "120201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วัดชลอ",
+    "en": "Wat Chalo",
+    "slug": "wat-chalo"
+  },
+  "code": {
+    "dopa": "120201"
+  },
+  "parent": {
+    "id": "1202",
+    "level": 2,
+    "name": {
+      "th": "บางกรวย",
+      "en": "Bang Kruai",
+      "slug": "bang-kruai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1202",
+      "level": 2,
+      "name": {
+        "th": "บางกรวย",
+        "en": "Bang Kruai",
+        "slug": "bang-kruai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "11130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.802",
+    "lon": "100.476"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wat-chalo-120201/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "6001",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองนครสวรรค์",
+    "en": "Mueang Nakhon Sawan",
+    "slug": "mueang-nakhon-sawan"
+  },
+  "code": {
+    "dopa": "6001"
+  },
+  "parent": {
+    "id": "60",
+    "level": 1,
+    "name": {
+      "th": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 17,
+    "villages": 243
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.734",
+    "lon": "100.140"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-nakhon-sawan-6001/"
+  }
+}

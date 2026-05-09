@@ -1,0 +1,61 @@
+{
+  "id": "470406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ช้างมิ่ง",
+    "en": "Chang Ming",
+    "slug": "chang-ming"
+  },
+  "code": {
+    "dopa": "470406"
+  },
+  "parent": {
+    "id": "4704",
+    "level": 2,
+    "name": {
+      "th": "พรรณานิคม",
+      "en": "Phanna Nikhom",
+      "slug": "phanna-nikhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4704",
+      "level": 2,
+      "name": {
+        "th": "พรรณานิคม",
+        "en": "Phanna Nikhom",
+        "slug": "phanna-nikhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "47130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.342",
+    "lon": "103.796"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chang-ming-470406/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "7707",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หัวหิน",
+    "en": "Hua Hin",
+    "slug": "hua-hin"
+  },
+  "code": {
+    "dopa": "7707"
+  },
+  "parent": {
+    "id": "77",
+    "level": 1,
+    "name": {
+      "th": "ประจวบคีรีขันธ์",
+      "en": "Prachuap Khiri Khan",
+      "slug": "prachuap-khiri-khan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 102
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.592",
+    "lon": "99.940"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/hua-hin-7707/"
+  }
+}

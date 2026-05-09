@@ -1,0 +1,61 @@
+{
+  "id": "120209",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศาลากลาง",
+    "en": "Sala Klang",
+    "slug": "sala-klang"
+  },
+  "code": {
+    "dopa": "120209"
+  },
+  "parent": {
+    "id": "1202",
+    "level": 2,
+    "name": {
+      "th": "บางกรวย",
+      "en": "Bang Kruai",
+      "slug": "bang-kruai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1202",
+      "level": 2,
+      "name": {
+        "th": "บางกรวย",
+        "en": "Bang Kruai",
+        "slug": "bang-kruai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "11130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.810",
+    "lon": "100.358"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sala-klang-120209/"
+  }
+}

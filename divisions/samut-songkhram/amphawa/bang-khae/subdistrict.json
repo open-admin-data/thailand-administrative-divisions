@@ -1,0 +1,61 @@
+{
+  "id": "750309",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางแค",
+    "en": "Bang Khae",
+    "slug": "bang-khae"
+  },
+  "code": {
+    "dopa": "750309"
+  },
+  "parent": {
+    "id": "7503",
+    "level": 2,
+    "name": {
+      "th": "อัมพวา",
+      "en": "Amphawa",
+      "slug": "amphawa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสงคราม",
+        "en": "Samut Songkhram",
+        "slug": "samut-songkhram"
+      }
+    },
+    {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "th": "อัมพวา",
+        "en": "Amphawa",
+        "slug": "amphawa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "75110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.407",
+    "lon": "99.923"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-khae-750309/"
+  }
+}

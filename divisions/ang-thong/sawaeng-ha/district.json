@@ -1,0 +1,50 @@
+{
+  "id": "1505",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แสวงหา",
+    "en": "Sawaeng Ha",
+    "slug": "sawaeng-ha"
+  },
+  "code": {
+    "dopa": "1505"
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "th": "อ่างทอง",
+      "en": "Ang Thong",
+      "slug": "ang-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 61
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.741",
+    "lon": "100.364"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sawaeng-ha-1505/"
+  }
+}

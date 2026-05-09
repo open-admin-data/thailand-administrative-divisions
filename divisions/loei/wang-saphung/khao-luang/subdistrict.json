@@ -1,0 +1,61 @@
+{
+  "id": "420911",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาหลวง",
+    "en": "Khao Luang",
+    "slug": "khao-luang"
+  },
+  "code": {
+    "dopa": "420911"
+  },
+  "parent": {
+    "id": "4209",
+    "level": 2,
+    "name": {
+      "th": "วังสะพุง",
+      "en": "Wang Saphung",
+      "slug": "wang-saphung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4209",
+      "level": 2,
+      "name": {
+        "th": "วังสะพุง",
+        "en": "Wang Saphung",
+        "slug": "wang-saphung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "42130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.336",
+    "lon": "101.674"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-luang-420911/"
+  }
+}

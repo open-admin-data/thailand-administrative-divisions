@@ -1,0 +1,50 @@
+{
+  "id": "3105",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หนองกี่",
+    "en": "Nong Ki",
+    "slug": "nong-ki"
+  },
+  "code": {
+    "dopa": "3105"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 108
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.669",
+    "lon": "102.571"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-ki-3105/"
+  }
+}

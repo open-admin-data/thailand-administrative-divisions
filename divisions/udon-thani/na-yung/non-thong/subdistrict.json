@@ -1,0 +1,61 @@
+{
+  "id": "412204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนทอง",
+    "en": "Non Thong",
+    "slug": "non-thong"
+  },
+  "code": {
+    "dopa": "412204"
+  },
+  "parent": {
+    "id": "4122",
+    "level": 2,
+    "name": {
+      "th": "นายูง",
+      "en": "Na Yung",
+      "slug": "na-yung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4122",
+      "level": 2,
+      "name": {
+        "th": "นายูง",
+        "en": "Na Yung",
+        "slug": "na-yung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "41380"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.989",
+    "lon": "102.198"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-thong-412204/"
+  }
+}

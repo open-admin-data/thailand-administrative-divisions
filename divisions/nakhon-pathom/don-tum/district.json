@@ -1,0 +1,50 @@
+{
+  "id": "7304",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ดอนตูม",
+    "en": "Don Tum",
+    "slug": "don-tum"
+  },
+  "code": {
+    "dopa": "7304"
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "th": "นครปฐม",
+      "en": "Nakhon Pathom",
+      "slug": "nakhon-pathom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 69
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.890",
+    "lon": "100.117"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/don-tum-7304/"
+  }
+}

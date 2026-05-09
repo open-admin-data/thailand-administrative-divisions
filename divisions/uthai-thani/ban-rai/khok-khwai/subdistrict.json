@@ -1,0 +1,61 @@
+{
+  "id": "610604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คอกควาย",
+    "en": "Khok Khwai",
+    "slug": "khok-khwai"
+  },
+  "code": {
+    "dopa": "610604"
+  },
+  "parent": {
+    "id": "6106",
+    "level": 2,
+    "name": {
+      "th": "บ้านไร่",
+      "en": "Ban Rai",
+      "slug": "ban-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6106",
+      "level": 2,
+      "name": {
+        "th": "บ้านไร่",
+        "en": "Ban Rai",
+        "slug": "ban-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "61140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.226",
+    "lon": "99.412"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-khwai-610604/"
+  }
+}

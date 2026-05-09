@@ -1,0 +1,61 @@
+{
+  "id": "400604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังเพิ่ม",
+    "en": "Wang Phoem",
+    "slug": "wang-phoem"
+  },
+  "code": {
+    "dopa": "400604"
+  },
+  "parent": {
+    "id": "4006",
+    "level": 2,
+    "name": {
+      "th": "สีชมพู",
+      "en": "Si Chomphu",
+      "slug": "si-chomphu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4006",
+      "level": 2,
+      "name": {
+        "th": "สีชมพู",
+        "en": "Si Chomphu",
+        "slug": "si-chomphu"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "40220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.820",
+    "lon": "102.204"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-phoem-400604/"
+  }
+}

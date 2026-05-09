@@ -1,0 +1,50 @@
+{
+  "id": "5709",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แม่สาย",
+    "en": "Mae Sai",
+    "slug": "mae-sai"
+  },
+  "code": {
+    "dopa": "5709"
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 88
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.431",
+    "lon": "99.913"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mae-sai-5709/"
+  }
+}

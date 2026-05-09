@@ -1,0 +1,61 @@
+{
+  "id": "361001",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ผักปัง",
+    "en": "Phak Pang",
+    "slug": "phak-pang"
+  },
+  "code": {
+    "dopa": "361001"
+  },
+  "parent": {
+    "id": "3610",
+    "level": 2,
+    "name": {
+      "th": "ภูเขียว",
+      "en": "Phu Khiao",
+      "slug": "phu-khiao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3610",
+      "level": 2,
+      "name": {
+        "th": "ภูเขียว",
+        "en": "Phu Khiao",
+        "slug": "phu-khiao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "36110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.357",
+    "lon": "102.136"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phak-pang-361001/"
+  }
+}

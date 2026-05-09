@@ -1,0 +1,61 @@
+{
+  "id": "312103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังเหนือ",
+    "en": "Wang Nuea",
+    "slug": "wang-nuea"
+  },
+  "code": {
+    "dopa": "312103"
+  },
+  "parent": {
+    "id": "3121",
+    "level": 2,
+    "name": {
+      "th": "บ้านด่าน",
+      "en": "Ban Dan",
+      "slug": "ban-dan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3121",
+      "level": 2,
+      "name": {
+        "th": "บ้านด่าน",
+        "en": "Ban Dan",
+        "slug": "ban-dan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "31000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.138",
+    "lon": "103.219"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-nuea-312103/"
+  }
+}

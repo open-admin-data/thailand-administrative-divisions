@@ -1,0 +1,185 @@
+[
+  {
+    "id": "94090501",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านตอหลัง",
+      "en": "Ban Tolang",
+      "slug": "94090501"
+    },
+    "code": {
+      "dopa": "94090501"
+    },
+    "parent": {
+      "id": "940905",
+      "level": 3,
+      "name": {
+        "th": "ตอหลัง",
+        "en": "Tolang",
+        "slug": "tolang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "th": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani"
+        }
+      },
+      {
+        "id": "9409",
+        "level": 2,
+        "name": {
+          "th": "ยะหริ่ง",
+          "en": "Yaring",
+          "slug": "yaring"
+        }
+      },
+      {
+        "id": "940905",
+        "level": 3,
+        "name": {
+          "th": "ตอหลัง",
+          "en": "Tolang",
+          "slug": "tolang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.798660475300327",
+      "lon": "101.43674477934837"
+    },
+    "source": {}
+  },
+  {
+    "id": "94090502",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านดุซงปาแยตะวันตก",
+      "en": "Ban Duchong Payae Tawan Tok",
+      "slug": "94090502"
+    },
+    "code": {
+      "dopa": "94090502"
+    },
+    "parent": {
+      "id": "940905",
+      "level": 3,
+      "name": {
+        "th": "ตอหลัง",
+        "en": "Tolang",
+        "slug": "tolang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "th": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani"
+        }
+      },
+      {
+        "id": "9409",
+        "level": 2,
+        "name": {
+          "th": "ยะหริ่ง",
+          "en": "Yaring",
+          "slug": "yaring"
+        }
+      },
+      {
+        "id": "940905",
+        "level": 3,
+        "name": {
+          "th": "ตอหลัง",
+          "en": "Tolang",
+          "slug": "tolang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.802341208776525",
+      "lon": "101.44643560051918"
+    },
+    "source": {}
+  },
+  {
+    "id": "94090503",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านดุซงปาแยตะวันออก",
+      "en": "Ban Duchong Payae Tawan Ok",
+      "slug": "94090503"
+    },
+    "code": {
+      "dopa": "94090503"
+    },
+    "parent": {
+      "id": "940905",
+      "level": 3,
+      "name": {
+        "th": "ตอหลัง",
+        "en": "Tolang",
+        "slug": "tolang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "th": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani"
+        }
+      },
+      {
+        "id": "9409",
+        "level": 2,
+        "name": {
+          "th": "ยะหริ่ง",
+          "en": "Yaring",
+          "slug": "yaring"
+        }
+      },
+      {
+        "id": "940905",
+        "level": 3,
+        "name": {
+          "th": "ตอหลัง",
+          "en": "Tolang",
+          "slug": "tolang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.80593535654152",
+      "lon": "101.45543709397316"
+    },
+    "source": {}
+  }
+]

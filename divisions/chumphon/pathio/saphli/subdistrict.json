@@ -1,0 +1,61 @@
+{
+  "id": "860303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สะพลี",
+    "en": "Saphli",
+    "slug": "saphli"
+  },
+  "code": {
+    "dopa": "860303"
+  },
+  "parent": {
+    "id": "8603",
+    "level": 2,
+    "name": {
+      "th": "ปะทิว",
+      "en": "Pathio",
+      "slug": "pathio"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8603",
+      "level": 2,
+      "name": {
+        "th": "ปะทิว",
+        "en": "Pathio",
+        "slug": "pathio"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "86230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.608",
+    "lon": "99.250"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/saphli-860303/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "1701",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองสิงห์บุรี",
+    "en": "Mueang Sing Buri",
+    "slug": "mueang-sing-buri"
+  },
+  "code": {
+    "dopa": "1701"
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "th": "สิงห์บุรี",
+      "en": "Sing Buri",
+      "slug": "sing-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 72
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.890",
+    "lon": "100.404"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-sing-buri-1701/"
+  }
+}

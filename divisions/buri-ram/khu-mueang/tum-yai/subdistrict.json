@@ -1,0 +1,61 @@
+{
+  "id": "310206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตูมใหญ่",
+    "en": "Tum Yai",
+    "slug": "tum-yai"
+  },
+  "code": {
+    "dopa": "310206"
+  },
+  "parent": {
+    "id": "3102",
+    "level": 2,
+    "name": {
+      "th": "คูเมือง",
+      "en": "Khu Mueang",
+      "slug": "khu-mueang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3102",
+      "level": 2,
+      "name": {
+        "th": "คูเมือง",
+        "en": "Khu Mueang",
+        "slug": "khu-mueang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "31190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.165",
+    "lon": "103.137"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tum-yai-310206/"
+  }
+}

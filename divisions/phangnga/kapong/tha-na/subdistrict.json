@@ -1,0 +1,61 @@
+{
+  "id": "820302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่านา",
+    "en": "Tha Na",
+    "slug": "tha-na"
+  },
+  "code": {
+    "dopa": "820302"
+  },
+  "parent": {
+    "id": "8203",
+    "level": 2,
+    "name": {
+      "th": "กะปง",
+      "en": "Kapong",
+      "slug": "kapong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8203",
+      "level": 2,
+      "name": {
+        "th": "กะปง",
+        "en": "Kapong",
+        "slug": "kapong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "82170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.713",
+    "lon": "98.419"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-na-820302/"
+  }
+}

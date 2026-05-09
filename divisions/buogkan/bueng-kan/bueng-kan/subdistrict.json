@@ -1,0 +1,61 @@
+{
+  "id": "380101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บึงกาฬ",
+    "en": "Bueng Kan",
+    "slug": "bueng-kan"
+  },
+  "code": {
+    "dopa": "380101"
+  },
+  "parent": {
+    "id": "3801",
+    "level": 2,
+    "name": {
+      "th": "บึงกาฬ",
+      "en": "Bueng Kan",
+      "slug": "bueng-kan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3801",
+      "level": 2,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Bueng Kan",
+        "slug": "bueng-kan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "38000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.331",
+    "lon": "103.679"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bueng-kan-380101/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "390306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนเมือง",
+    "en": "Non Mueang",
+    "slug": "non-mueang"
+  },
+  "code": {
+    "dopa": "390306"
+  },
+  "parent": {
+    "id": "3903",
+    "level": 2,
+    "name": {
+      "th": "โนนสัง",
+      "en": "Non Sang",
+      "slug": "non-sang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3903",
+      "level": 2,
+      "name": {
+        "th": "โนนสัง",
+        "en": "Non Sang",
+        "slug": "non-sang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "39140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.840",
+    "lon": "102.437"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-mueang-390306/"
+  }
+}

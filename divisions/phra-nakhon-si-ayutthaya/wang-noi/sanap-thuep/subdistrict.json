@@ -1,0 +1,61 @@
+{
+  "id": "141105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สนับทึบ",
+    "en": "Sanap Thuep",
+    "slug": "sanap-thuep"
+  },
+  "code": {
+    "dopa": "141105"
+  },
+  "parent": {
+    "id": "1411",
+    "level": 2,
+    "name": {
+      "th": "วังน้อย",
+      "en": "Wang Noi",
+      "slug": "wang-noi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1411",
+      "level": 2,
+      "name": {
+        "th": "วังน้อย",
+        "en": "Wang Noi",
+        "slug": "wang-noi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "13170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.298",
+    "lon": "100.813"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sanap-thuep-141105/"
+  }
+}

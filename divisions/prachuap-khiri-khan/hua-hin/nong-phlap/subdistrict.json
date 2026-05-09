@@ -1,0 +1,61 @@
+{
+  "id": "770704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองพลับ",
+    "en": "Nong Phlap",
+    "slug": "nong-phlap"
+  },
+  "code": {
+    "dopa": "770704"
+  },
+  "parent": {
+    "id": "7707",
+    "level": 2,
+    "name": {
+      "th": "หัวหิน",
+      "en": "Hua Hin",
+      "slug": "hua-hin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    },
+    {
+      "id": "7707",
+      "level": 2,
+      "name": {
+        "th": "หัวหิน",
+        "en": "Hua Hin",
+        "slug": "hua-hin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "77110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.530",
+    "lon": "99.704"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-phlap-770704/"
+  }
+}

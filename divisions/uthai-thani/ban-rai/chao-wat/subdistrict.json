@@ -1,0 +1,61 @@
+{
+  "id": "610614",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เจ้าวัด",
+    "en": "Chao Wat",
+    "slug": "chao-wat"
+  },
+  "code": {
+    "dopa": "610614"
+  },
+  "parent": {
+    "id": "6106",
+    "level": 2,
+    "name": {
+      "th": "บ้านไร่",
+      "en": "Ban Rai",
+      "slug": "ban-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6106",
+      "level": 2,
+      "name": {
+        "th": "บ้านไร่",
+        "en": "Ban Rai",
+        "slug": "ban-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "61140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.132",
+    "lon": "99.431"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chao-wat-610614/"
+  }
+}

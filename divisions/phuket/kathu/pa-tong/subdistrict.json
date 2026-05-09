@@ -1,0 +1,61 @@
+{
+  "id": "830202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าตอง",
+    "en": "Pa Tong",
+    "slug": "pa-tong"
+  },
+  "code": {
+    "dopa": "830202"
+  },
+  "parent": {
+    "id": "8302",
+    "level": 2,
+    "name": {
+      "th": "กะทู้",
+      "en": "Kathu",
+      "slug": "kathu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "th": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket"
+      }
+    },
+    {
+      "id": "8302",
+      "level": 2,
+      "name": {
+        "th": "กะทู้",
+        "en": "Kathu",
+        "slug": "kathu"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "83150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.904",
+    "lon": "98.308"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-tong-830202/"
+  }
+}

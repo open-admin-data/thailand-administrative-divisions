@@ -1,0 +1,61 @@
+{
+  "id": "520404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เสริมกลาง",
+    "en": "Soem Klang",
+    "slug": "soem-klang"
+  },
+  "code": {
+    "dopa": "520404"
+  },
+  "parent": {
+    "id": "5204",
+    "level": 2,
+    "name": {
+      "th": "เสริมงาม",
+      "en": "Soem Ngam",
+      "slug": "soem-ngam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5204",
+      "level": 2,
+      "name": {
+        "th": "เสริมงาม",
+        "en": "Soem Ngam",
+        "slug": "soem-ngam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "52210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.132",
+    "lon": "99.087"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/soem-klang-520404/"
+  }
+}

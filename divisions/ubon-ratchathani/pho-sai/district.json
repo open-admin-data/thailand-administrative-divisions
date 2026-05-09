@@ -1,0 +1,50 @@
+{
+  "id": "3421",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โพธิ์ไทร",
+    "en": "Pho Sai",
+    "slug": "pho-sai"
+  },
+  "code": {
+    "dopa": "3421"
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 71
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.860",
+    "lon": "105.273"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pho-sai-3421/"
+  }
+}

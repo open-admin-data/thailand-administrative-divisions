@@ -1,0 +1,61 @@
+{
+  "id": "570501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สันมะเค็ด",
+    "en": "San Makhet",
+    "slug": "san-makhet"
+  },
+  "code": {
+    "dopa": "570501"
+  },
+  "parent": {
+    "id": "5705",
+    "level": 2,
+    "name": {
+      "th": "พาน",
+      "en": "Mueang Phan",
+      "slug": "mueang-phan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5705",
+      "level": 2,
+      "name": {
+        "th": "พาน",
+        "en": "Mueang Phan",
+        "slug": "mueang-phan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "57120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.609",
+    "lon": "99.864"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/san-makhet-570501/"
+  }
+}

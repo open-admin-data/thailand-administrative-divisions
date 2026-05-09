@@ -1,0 +1,61 @@
+{
+  "id": "190201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แก่งคอย",
+    "en": "Kaeng Khoi",
+    "slug": "kaeng-khoi"
+  },
+  "code": {
+    "dopa": "190201"
+  },
+  "parent": {
+    "id": "1902",
+    "level": 2,
+    "name": {
+      "th": "แก่งคอย",
+      "en": "Kaeng Khoi",
+      "slug": "kaeng-khoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1902",
+      "level": 2,
+      "name": {
+        "th": "แก่งคอย",
+        "en": "Kaeng Khoi",
+        "slug": "kaeng-khoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "18110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.586",
+    "lon": "101.002"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kaeng-khoi-190201/"
+  }
+}

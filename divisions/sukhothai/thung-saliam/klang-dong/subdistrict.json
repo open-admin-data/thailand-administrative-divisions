@@ -1,0 +1,61 @@
+{
+  "id": "640904",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กลางดง",
+    "en": "Klang Dong",
+    "slug": "klang-dong"
+  },
+  "code": {
+    "dopa": "640904"
+  },
+  "parent": {
+    "id": "6409",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งเสลี่ยม",
+      "en": "Thung Saliam",
+      "slug": "thung-saliam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6409",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งเสลี่ยม",
+        "en": "Thung Saliam",
+        "slug": "thung-saliam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "64150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.394",
+    "lon": "99.491"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/klang-dong-640904/"
+  }
+}

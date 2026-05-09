@@ -1,0 +1,61 @@
+{
+  "id": "560510",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บุญเกิด",
+    "en": "Bun Koet",
+    "slug": "bun-koet"
+  },
+  "code": {
+    "dopa": "560510"
+  },
+  "parent": {
+    "id": "5605",
+    "level": 2,
+    "name": {
+      "th": "ดอกคำใต้",
+      "en": "Dok Khamtai",
+      "slug": "dok-khamtai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5605",
+      "level": 2,
+      "name": {
+        "th": "ดอกคำใต้",
+        "en": "Dok Khamtai",
+        "slug": "dok-khamtai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "56120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.134",
+    "lon": "99.998"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bun-koet-560510/"
+  }
+}

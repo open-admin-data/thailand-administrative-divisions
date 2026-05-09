@@ -1,0 +1,61 @@
+{
+  "id": "930203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองเฉลิม",
+    "en": "Khlong Chaloem",
+    "slug": "khlong-chaloem"
+  },
+  "code": {
+    "dopa": "930203"
+  },
+  "parent": {
+    "id": "9302",
+    "level": 2,
+    "name": {
+      "th": "กงหรา",
+      "en": "Kong Ra",
+      "slug": "kong-ra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9302",
+      "level": 2,
+      "name": {
+        "th": "กงหรา",
+        "en": "Kong Ra",
+        "slug": "kong-ra"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "93180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.349",
+    "lon": "99.958"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-chaloem-930203/"
+  }
+}

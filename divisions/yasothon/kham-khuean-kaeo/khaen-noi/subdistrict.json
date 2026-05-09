@@ -1,0 +1,61 @@
+{
+  "id": "350412",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แคนน้อย",
+    "en": "Khaen Noi",
+    "slug": "khaen-noi"
+  },
+  "code": {
+    "dopa": "350412"
+  },
+  "parent": {
+    "id": "3504",
+    "level": 2,
+    "name": {
+      "th": "คำเขื่อนแก้ว",
+      "en": "Kham Khuean Kaeo",
+      "slug": "kham-khuean-kaeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3504",
+      "level": 2,
+      "name": {
+        "th": "คำเขื่อนแก้ว",
+        "en": "Kham Khuean Kaeo",
+        "slug": "kham-khuean-kaeo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "35180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.594",
+    "lon": "104.347"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khaen-noi-350412/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "820402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กระโสม",
+    "en": "Krasom",
+    "slug": "krasom"
+  },
+  "code": {
+    "dopa": "820402"
+  },
+  "parent": {
+    "id": "8204",
+    "level": 2,
+    "name": {
+      "th": "ตะกั่วทุ่ง",
+      "en": "Takua Thung",
+      "slug": "takua-thung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8204",
+      "level": 2,
+      "name": {
+        "th": "ตะกั่วทุ่ง",
+        "en": "Takua Thung",
+        "slug": "takua-thung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "82130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.331",
+    "lon": "98.483"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/krasom-820402/"
+  }
+}

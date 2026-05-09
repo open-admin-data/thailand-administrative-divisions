@@ -1,0 +1,61 @@
+{
+  "id": "760210",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองชุมพลเหนือ",
+    "en": "Nong Chumphon Nuea",
+    "slug": "nong-chumphon-nuea"
+  },
+  "code": {
+    "dopa": "760210"
+  },
+  "parent": {
+    "id": "7602",
+    "level": 2,
+    "name": {
+      "th": "เขาย้อย",
+      "en": "Khao Yoi",
+      "slug": "khao-yoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7602",
+      "level": 2,
+      "name": {
+        "th": "เขาย้อย",
+        "en": "Khao Yoi",
+        "slug": "khao-yoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "76140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.301",
+    "lon": "99.724"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-chumphon-nuea-760210/"
+  }
+}

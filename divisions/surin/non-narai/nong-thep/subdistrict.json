@@ -1,0 +1,61 @@
+{
+  "id": "321705",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองเทพ",
+    "en": "Nong Thep",
+    "slug": "nong-thep"
+  },
+  "code": {
+    "dopa": "321705"
+  },
+  "parent": {
+    "id": "3217",
+    "level": 2,
+    "name": {
+      "th": "โนนนารายณ์",
+      "en": "Non Narai",
+      "slug": "non-narai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3217",
+      "level": 2,
+      "name": {
+        "th": "โนนนารายณ์",
+        "en": "Non Narai",
+        "slug": "non-narai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "32130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.140",
+    "lon": "103.880"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-thep-321705/"
+  }
+}

@@ -1,0 +1,185 @@
+[
+  {
+    "id": "571402",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ป่าตาล",
+      "en": "Pa Tan",
+      "slug": "pa-tan"
+    },
+    "code": {
+      "dopa": "571402"
+    },
+    "parent": {
+      "id": "5714",
+      "level": 2,
+      "name": {
+        "th": "ขุนตาล",
+        "en": "Khun Tan",
+        "slug": "khun-tan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "th": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai"
+        }
+      },
+      {
+        "id": "5714",
+        "level": 2,
+        "name": {
+          "th": "ขุนตาล",
+          "en": "Khun Tan",
+          "slug": "khun-tan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 14
+    },
+    "zip_codes": [
+      "57340"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "19.847",
+      "lon": "100.272"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/pa-tan-571402/"
+    }
+  },
+  {
+    "id": "571401",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ต้า",
+      "en": "Ta",
+      "slug": "ta"
+    },
+    "code": {
+      "dopa": "571401"
+    },
+    "parent": {
+      "id": "5714",
+      "level": 2,
+      "name": {
+        "th": "ขุนตาล",
+        "en": "Khun Tan",
+        "slug": "khun-tan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "th": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai"
+        }
+      },
+      {
+        "id": "5714",
+        "level": 2,
+        "name": {
+          "th": "ขุนตาล",
+          "en": "Khun Tan",
+          "slug": "khun-tan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 20
+    },
+    "zip_codes": [
+      "57340"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "19.804",
+      "lon": "100.233"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ta-571401/"
+    }
+  },
+  {
+    "id": "571403",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ยางฮอม",
+      "en": "Yang Hom",
+      "slug": "yang-hom"
+    },
+    "code": {
+      "dopa": "571403"
+    },
+    "parent": {
+      "id": "5714",
+      "level": 2,
+      "name": {
+        "th": "ขุนตาล",
+        "en": "Khun Tan",
+        "slug": "khun-tan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "th": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai"
+        }
+      },
+      {
+        "id": "5714",
+        "level": 2,
+        "name": {
+          "th": "ขุนตาล",
+          "en": "Khun Tan",
+          "slug": "khun-tan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 21
+    },
+    "zip_codes": [
+      "57340"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "19.924",
+      "lon": "100.306"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/yang-hom-571403/"
+    }
+  }
+]

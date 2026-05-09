@@ -1,0 +1,61 @@
+{
+  "id": "600303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พิกุล",
+    "en": "Phikun",
+    "slug": "phikun"
+  },
+  "code": {
+    "dopa": "600303"
+  },
+  "parent": {
+    "id": "6003",
+    "level": 2,
+    "name": {
+      "th": "ชุมแสง",
+      "en": "Chum Saeng",
+      "slug": "chum-saeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6003",
+      "level": 2,
+      "name": {
+        "th": "ชุมแสง",
+        "en": "Chum Saeng",
+        "slug": "chum-saeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "60120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.889",
+    "lon": "100.346"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phikun-600303/"
+  }
+}

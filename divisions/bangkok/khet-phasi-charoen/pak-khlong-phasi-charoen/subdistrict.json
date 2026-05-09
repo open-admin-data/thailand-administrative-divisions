@@ -1,0 +1,61 @@
+{
+  "id": "102209",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง ปากคลองภาษีเจริญ",
+    "en": "Pak Khlong Phasi Charoen",
+    "slug": "pak-khlong-phasi-charoen"
+  },
+  "code": {
+    "dopa": "102209"
+  },
+  "parent": {
+    "id": "1022",
+    "level": 2,
+    "name": {
+      "th": "เขต ภาษีเจริญ",
+      "en": "Khet Phasi Charoen",
+      "slug": "khet-phasi-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1022",
+      "level": 2,
+      "name": {
+        "th": "เขต ภาษีเจริญ",
+        "en": "Khet Phasi Charoen",
+        "slug": "khet-phasi-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10160"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.722",
+    "lon": "100.464"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-khlong-phasi-charoen-102209/"
+  }
+}

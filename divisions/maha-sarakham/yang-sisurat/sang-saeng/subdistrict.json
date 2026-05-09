@@ -1,0 +1,61 @@
+{
+  "id": "441106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขามเรียน",
+    "en": "Sang Saeng",
+    "slug": "sang-saeng"
+  },
+  "code": {
+    "dopa": "441106"
+  },
+  "parent": {
+    "id": "4411",
+    "level": 2,
+    "name": {
+      "th": "ยางสีสุราช",
+      "en": "Yang Sisurat",
+      "slug": "yang-sisurat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4411",
+      "level": 2,
+      "name": {
+        "th": "ยางสีสุราช",
+        "en": "Yang Sisurat",
+        "slug": "yang-sisurat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "44210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.627",
+    "lon": "103.113"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sang-saeng-441106/"
+  }
+}

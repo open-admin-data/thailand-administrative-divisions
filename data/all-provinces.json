@@ -1,0 +1,2928 @@
+[
+  {
+    "id": "10",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    },
+    "code": {
+      "dopa": "10",
+      "iso": "TH-10"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 50,
+      "subdistricts": 154,
+      "villages": 0
+    },
+    "metadata": {
+      "is_special_province": true,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "13.753",
+      "lon": "100.500"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/bangkok-10/"
+    }
+  },
+  {
+    "id": "11",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    },
+    "code": {
+      "dopa": "11",
+      "iso": "TH-11"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 6,
+      "subdistricts": 50,
+      "villages": 577
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "13.656",
+      "lon": "100.533"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/samut-prakan-11/"
+    }
+  },
+  {
+    "id": "12",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "นนทบุรี",
+      "en": "Nonthaburi",
+      "slug": "nonthaburi"
+    },
+    "code": {
+      "dopa": "12",
+      "iso": "TH-12"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 6,
+      "subdistricts": 52,
+      "villages": 641
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "13.914",
+      "lon": "100.422"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/nonthaburi-12/"
+    }
+  },
+  {
+    "id": "13",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    },
+    "code": {
+      "dopa": "13",
+      "iso": "TH-13"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 7,
+      "subdistricts": 60,
+      "villages": 867
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "14.031",
+      "lon": "100.552"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/pathum-thani-13/"
+    }
+  },
+  {
+    "id": "14",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya"
+    },
+    "code": {
+      "dopa": "14",
+      "iso": "TH-14"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 16,
+      "subdistricts": 207,
+      "villages": 1553
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "14.328",
+      "lon": "100.404"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/phra-nakhon-si-ayutthaya-14/"
+    }
+  },
+  {
+    "id": "15",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "อ่างทอง",
+      "en": "Ang Thong",
+      "slug": "ang-thong"
+    },
+    "code": {
+      "dopa": "15",
+      "iso": "TH-15"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 7,
+      "subdistricts": 73,
+      "villages": 545
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "14.588",
+      "lon": "100.459"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/ang-thong-15/"
+    }
+  },
+  {
+    "id": "16",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ลพบุรี",
+      "en": "Loburi",
+      "slug": "loburi"
+    },
+    "code": {
+      "dopa": "16",
+      "iso": "TH-16"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 11,
+      "subdistricts": 121,
+      "villages": 1168
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "14.802",
+      "lon": "100.611"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/loburi-16/"
+    }
+  },
+  {
+    "id": "17",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "สิงห์บุรี",
+      "en": "Sing Buri",
+      "slug": "sing-buri"
+    },
+    "code": {
+      "dopa": "17",
+      "iso": "TH-17"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 6,
+      "subdistricts": 43,
+      "villages": 378
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "14.890",
+      "lon": "100.404"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/sing-buri-17/"
+    }
+  },
+  {
+    "id": "18",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ชัยนาท",
+      "en": "Chai Nat",
+      "slug": "chai-nat"
+    },
+    "code": {
+      "dopa": "18",
+      "iso": "TH-18"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 8,
+      "subdistricts": 53,
+      "villages": 527
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "15.263",
+      "lon": "100.041"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/chai-nat-18/"
+    }
+  },
+  {
+    "id": "19",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "สระบุรี",
+      "en": "Saraburi",
+      "slug": "saraburi"
+    },
+    "code": {
+      "dopa": "19",
+      "iso": "TH-19"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 13,
+      "subdistricts": 109,
+      "villages": 1049
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "14.586",
+      "lon": "101.002"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/saraburi-19/"
+    }
+  },
+  {
+    "id": "20",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri"
+    },
+    "code": {
+      "dopa": "20",
+      "iso": "TH-20"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 11,
+      "subdistricts": 92,
+      "villages": 961
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออก",
+        "en": "Eastern"
+      }
+    },
+    "geo": {
+      "lat": "12.611",
+      "lon": "100.889"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/chon-buri-20/"
+    }
+  },
+  {
+    "id": "21",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ระยอง",
+      "en": "Rayong",
+      "slug": "rayong"
+    },
+    "code": {
+      "dopa": "21",
+      "iso": "TH-21"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 8,
+      "subdistricts": 56,
+      "villages": 530
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออก",
+        "en": "Eastern"
+      }
+    },
+    "geo": {
+      "lat": "12.646",
+      "lon": "101.171"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/rayong-21/"
+    }
+  },
+  {
+    "id": "22",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "จันทบุรี",
+      "en": "Chanthaburi",
+      "slug": "chanthaburi"
+    },
+    "code": {
+      "dopa": "22",
+      "iso": "TH-22"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 10,
+      "subdistricts": 76,
+      "villages": 770
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออก",
+        "en": "Eastern"
+      }
+    },
+    "geo": {
+      "lat": "12.465",
+      "lon": "102.066"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/chanthaburi-22/"
+    }
+  },
+  {
+    "id": "23",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ตราด",
+      "en": "Trat",
+      "slug": "trat"
+    },
+    "code": {
+      "dopa": "23",
+      "iso": "TH-23"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 7,
+      "subdistricts": 37,
+      "villages": 264
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออก",
+        "en": "Eastern"
+      }
+    },
+    "geo": {
+      "lat": "11.817",
+      "lon": "102.397"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/trat-23/"
+    }
+  },
+  {
+    "id": "24",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ฉะเชิงเทรา",
+      "en": "Chachoengsao",
+      "slug": "chachoengsao"
+    },
+    "code": {
+      "dopa": "24",
+      "iso": "TH-24"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 11,
+      "subdistricts": 93,
+      "villages": 924
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออก",
+        "en": "Eastern"
+      }
+    },
+    "geo": {
+      "lat": "13.707",
+      "lon": "101.100"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/chachoengsao-24/"
+    }
+  },
+  {
+    "id": "25",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ปราจีนบุรี",
+      "en": "Prachin Buri",
+      "slug": "prachin-buri"
+    },
+    "code": {
+      "dopa": "25",
+      "iso": "TH-25"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 7,
+      "subdistricts": 64,
+      "villages": 720
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออก",
+        "en": "Eastern"
+      }
+    },
+    "geo": {
+      "lat": "14.057",
+      "lon": "101.374"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/prachin-buri-25/"
+    }
+  },
+  {
+    "id": "26",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "นครนายก",
+      "en": "Nakhon Nayok",
+      "slug": "nakhon-nayok"
+    },
+    "code": {
+      "dopa": "26",
+      "iso": "TH-26"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 4,
+      "subdistricts": 41,
+      "villages": 434
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "14.204",
+      "lon": "101.219"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/nakhon-nayok-26/"
+    }
+  },
+  {
+    "id": "27",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "สระแก้ว",
+      "en": "Sa Kaeo",
+      "slug": "sa-kaeo"
+    },
+    "code": {
+      "dopa": "27",
+      "iso": "TH-27"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 9,
+      "subdistricts": 59,
+      "villages": 770
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออก",
+        "en": "Eastern"
+      }
+    },
+    "geo": {
+      "lat": "13.680",
+      "lon": "102.517"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/sa-kaeo-27/"
+    }
+  },
+  {
+    "id": "30",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima"
+    },
+    "code": {
+      "dopa": "30",
+      "iso": "TH-30"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 32,
+      "subdistricts": 285,
+      "villages": 3786
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "14.909",
+      "lon": "101.851"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/nakhon-ratchasima-30/"
+    }
+  },
+  {
+    "id": "31",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    },
+    "code": {
+      "dopa": "31",
+      "iso": "TH-31"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 23,
+      "subdistricts": 189,
+      "villages": 2587
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "14.999",
+      "lon": "103.104"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/buri-ram-31/"
+    }
+  },
+  {
+    "id": "32",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "สุรินทร์",
+      "en": "Surin",
+      "slug": "surin"
+    },
+    "code": {
+      "dopa": "32",
+      "iso": "TH-32"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 17,
+      "subdistricts": 159,
+      "villages": 2161
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "14.884",
+      "lon": "103.490"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/surin-32/"
+    }
+  },
+  {
+    "id": "33",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ศรีสะเกษ",
+      "en": "Si Sa Ket",
+      "slug": "si-sa-ket"
+    },
+    "code": {
+      "dopa": "33",
+      "iso": "TH-33"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 22,
+      "subdistricts": 204,
+      "villages": 2668
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "14.669",
+      "lon": "104.271"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/si-sa-ket-33/"
+    }
+  },
+  {
+    "id": "34",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    },
+    "code": {
+      "dopa": "34",
+      "iso": "TH-34"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 25,
+      "subdistricts": 219,
+      "villages": 2886
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "15.244",
+      "lon": "104.894"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/ubon-ratchathani-34/"
+    }
+  },
+  {
+    "id": "35",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ยโสธร",
+      "en": "Yasothon",
+      "slug": "yasothon"
+    },
+    "code": {
+      "dopa": "35",
+      "iso": "TH-35"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 9,
+      "subdistricts": 79,
+      "villages": 908
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "15.799",
+      "lon": "104.148"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/yasothon-35/"
+    }
+  },
+  {
+    "id": "36",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ชัยภูมิ",
+      "en": "Chaiyaphum",
+      "slug": "chaiyaphum"
+    },
+    "code": {
+      "dopa": "36",
+      "iso": "TH-36"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 16,
+      "subdistricts": 124,
+      "villages": 1645
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "16.610",
+      "lon": "101.921"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/chaiyaphum-36/"
+    }
+  },
+  {
+    "id": "37",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "อำนาจเจริญ",
+      "en": "Amnat Charoen",
+      "slug": "amnat-charoen"
+    },
+    "code": {
+      "dopa": "37",
+      "iso": "TH-37"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 7,
+      "subdistricts": 56,
+      "villages": 638
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "15.823",
+      "lon": "104.562"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/amnat-charoen-37/"
+    }
+  },
+  {
+    "id": "38",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "บึงกาฬ",
+      "en": "Buogkan",
+      "slug": "buogkan"
+    },
+    "code": {
+      "dopa": "38",
+      "iso": "TH-38"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 8,
+      "subdistricts": 53,
+      "villages": 617
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "18.031",
+      "lon": "103.711"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/buogkan-38/"
+    }
+  },
+  {
+    "id": "39",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "หนองบัวลำภู",
+      "en": "Nong Bua Lam Phu",
+      "slug": "nong-bua-lam-phu"
+    },
+    "code": {
+      "dopa": "39",
+      "iso": "TH-39"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 6,
+      "subdistricts": 59,
+      "villages": 721
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "17.308",
+      "lon": "102.117"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/nong-bua-lam-phu-39/"
+    }
+  },
+  {
+    "id": "40",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ขอนแก่น",
+      "en": "Khon Kaen",
+      "slug": "khon-kaen"
+    },
+    "code": {
+      "dopa": "40",
+      "iso": "TH-40"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 26,
+      "subdistricts": 199,
+      "villages": 2484
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "16.035",
+      "lon": "102.723"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/khon-kaen-40/"
+    }
+  },
+  {
+    "id": "41",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "อุดรธานี",
+      "en": "Udon Thani",
+      "slug": "udon-thani"
+    },
+    "code": {
+      "dopa": "41",
+      "iso": "TH-41"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 20,
+      "subdistricts": 155,
+      "villages": 2036
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "17.411",
+      "lon": "102.792"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/udon-thani-41/"
+    }
+  },
+  {
+    "id": "42",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "เลย",
+      "en": "Loei",
+      "slug": "loei"
+    },
+    "code": {
+      "dopa": "42",
+      "iso": "TH-42"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 14,
+      "subdistricts": 90,
+      "villages": 967
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "17.493",
+      "lon": "101.732"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/loei-42/"
+    }
+  },
+  {
+    "id": "43",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "หนองคาย",
+      "en": "Nong Khai",
+      "slug": "nong-khai"
+    },
+    "code": {
+      "dopa": "43",
+      "iso": "TH-43"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 9,
+      "subdistricts": 62,
+      "villages": 740
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "17.890",
+      "lon": "102.761"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/nong-khai-43/"
+    }
+  },
+  {
+    "id": "44",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "มหาสารคาม",
+      "en": "Maha Sarakham",
+      "slug": "maha-sarakham"
+    },
+    "code": {
+      "dopa": "44",
+      "iso": "TH-44"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 13,
+      "subdistricts": 133,
+      "villages": 1961
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "16.162",
+      "lon": "103.484"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/maha-sarakham-44/"
+    }
+  },
+  {
+    "id": "45",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et"
+    },
+    "code": {
+      "dopa": "45",
+      "iso": "TH-45"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 20,
+      "subdistricts": 192,
+      "villages": 2456
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "15.600",
+      "lon": "104.139"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/roi-et-45/"
+    }
+  },
+  {
+    "id": "46",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "กาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin"
+    },
+    "code": {
+      "dopa": "46",
+      "iso": "TH-46"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 18,
+      "subdistricts": 134,
+      "villages": 1625
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "16.266",
+      "lon": "103.737"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/kalasin-46/"
+    }
+  },
+  {
+    "id": "47",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "สกลนคร",
+      "en": "Sakon Nakhon",
+      "slug": "sakon-nakhon"
+    },
+    "code": {
+      "dopa": "47",
+      "iso": "TH-47"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 18,
+      "subdistricts": 125,
+      "villages": 1564
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "17.125",
+      "lon": "104.260"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/sakon-nakhon-47/"
+    }
+  },
+  {
+    "id": "48",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "นครพนม",
+      "en": "Nakhon Phanom",
+      "slug": "nakhon-phanom"
+    },
+    "code": {
+      "dopa": "48",
+      "iso": "TH-48"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 12,
+      "subdistricts": 95,
+      "villages": 1124
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "17.066",
+      "lon": "104.749"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/nakhon-phanom-48/"
+    }
+  },
+  {
+    "id": "49",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "มุกดาหาร",
+      "en": "Mukdahan",
+      "slug": "mukdahan"
+    },
+    "code": {
+      "dopa": "49",
+      "iso": "TH-49"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 7,
+      "subdistricts": 53,
+      "villages": 553
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันออกเฉียงเหนือ",
+        "en": "Northeastern"
+      }
+    },
+    "geo": {
+      "lat": "16.530",
+      "lon": "104.724"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/mukdahan-49/"
+    }
+  },
+  {
+    "id": "50",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    },
+    "code": {
+      "dopa": "50",
+      "iso": "TH-50"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 25,
+      "subdistricts": 199,
+      "villages": 2127
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคเหนือ",
+        "en": "Northern"
+      }
+    },
+    "geo": {
+      "lat": "18.785",
+      "lon": "98.985"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/chiang-mai-50/"
+    }
+  },
+  {
+    "id": "51",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun"
+    },
+    "code": {
+      "dopa": "51",
+      "iso": "TH-51"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 8,
+      "subdistricts": 51,
+      "villages": 594
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคเหนือ",
+        "en": "Northern"
+      }
+    },
+    "geo": {
+      "lat": "18.537",
+      "lon": "98.933"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/lamphun-51/"
+    }
+  },
+  {
+    "id": "52",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ลำปาง",
+      "en": "Lampang",
+      "slug": "lampang"
+    },
+    "code": {
+      "dopa": "52",
+      "iso": "TH-52"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 13,
+      "subdistricts": 97,
+      "villages": 1025
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคเหนือ",
+        "en": "Northern"
+      }
+    },
+    "geo": {
+      "lat": "18.752",
+      "lon": "99.996"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/lampang-52/"
+    }
+  },
+  {
+    "id": "53",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "อุตรดิตถ์",
+      "en": "Uttaradit",
+      "slug": "uttaradit"
+    },
+    "code": {
+      "dopa": "53",
+      "iso": "TH-53"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 9,
+      "subdistricts": 67,
+      "villages": 635
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคเหนือ",
+        "en": "Northern"
+      }
+    },
+    "geo": {
+      "lat": "17.652",
+      "lon": "100.039"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/uttaradit-53/"
+    }
+  },
+  {
+    "id": "54",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "แพร่",
+      "en": "Phrae",
+      "slug": "phrae"
+    },
+    "code": {
+      "dopa": "54",
+      "iso": "TH-54"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 8,
+      "subdistricts": 78,
+      "villages": 726
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคเหนือ",
+        "en": "Northern"
+      }
+    },
+    "geo": {
+      "lat": "18.140",
+      "lon": "100.142"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/phrae-54/"
+    }
+  },
+  {
+    "id": "55",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "น่าน",
+      "en": "Nan",
+      "slug": "nan"
+    },
+    "code": {
+      "dopa": "55",
+      "iso": "TH-55"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 15,
+      "subdistricts": 99,
+      "villages": 921
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคเหนือ",
+        "en": "Northern"
+      }
+    },
+    "geo": {
+      "lat": "18.793",
+      "lon": "100.786"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/nan-55/"
+    }
+  },
+  {
+    "id": "56",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "พะเยา",
+      "en": "Phayao",
+      "slug": "phayao"
+    },
+    "code": {
+      "dopa": "56",
+      "iso": "TH-56"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 9,
+      "subdistricts": 68,
+      "villages": 820
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคเหนือ",
+        "en": "Northern"
+      }
+    },
+    "geo": {
+      "lat": "19.172",
+      "lon": "99.894"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/phayao-56/"
+    }
+  },
+  {
+    "id": "57",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    },
+    "code": {
+      "dopa": "57",
+      "iso": "TH-57"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 18,
+      "subdistricts": 123,
+      "villages": 1817
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคเหนือ",
+        "en": "Northern"
+      }
+    },
+    "geo": {
+      "lat": "19.907",
+      "lon": "99.832"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/chiang-rai-57/"
+    }
+  },
+  {
+    "id": "58",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "แม่ฮ่องสอน",
+      "en": "Mae Hong Son",
+      "slug": "mae-hong-son"
+    },
+    "code": {
+      "dopa": "58",
+      "iso": "TH-58"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 7,
+      "subdistricts": 44,
+      "villages": 413
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคเหนือ",
+        "en": "Northern"
+      }
+    },
+    "geo": {
+      "lat": "19.302",
+      "lon": "97.970"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/mae-hong-son-58/"
+    }
+  },
+  {
+    "id": "60",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan"
+    },
+    "code": {
+      "dopa": "60",
+      "iso": "TH-60"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 15,
+      "subdistricts": 130,
+      "villages": 1535
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "15.896",
+      "lon": "100.315"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/nakhon-sawan-60/"
+    }
+  },
+  {
+    "id": "61",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "อุทัยธานี",
+      "en": "Uthai Thani",
+      "slug": "uthai-thani"
+    },
+    "code": {
+      "dopa": "61",
+      "iso": "TH-61"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 8,
+      "subdistricts": 69,
+      "villages": 650
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "15.371",
+      "lon": "99.900"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/uthai-thani-61/"
+    }
+  },
+  {
+    "id": "62",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "กำแพงเพชร",
+      "en": "Kamphaeng Phet",
+      "slug": "kamphaeng-phet"
+    },
+    "code": {
+      "dopa": "62",
+      "iso": "TH-62"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 11,
+      "subdistricts": 78,
+      "villages": 990
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "16.473",
+      "lon": "99.528"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/kamphaeng-phet-62/"
+    }
+  },
+  {
+    "id": "63",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ตาก",
+      "en": "Tak",
+      "slug": "tak"
+    },
+    "code": {
+      "dopa": "63",
+      "iso": "TH-63"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 9,
+      "subdistricts": 60,
+      "villages": 588
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันตก",
+        "en": "Western"
+      }
+    },
+    "geo": {
+      "lat": "16.862",
+      "lon": "99.129"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/tak-63/"
+    }
+  },
+  {
+    "id": "64",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "สุโขทัย",
+      "en": "Sukhothai",
+      "slug": "sukhothai"
+    },
+    "code": {
+      "dopa": "64",
+      "iso": "TH-64"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 9,
+      "subdistricts": 86,
+      "villages": 866
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "17.012",
+      "lon": "99.822"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/sukhothai-64/"
+    }
+  },
+  {
+    "id": "65",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "พิษณุโลก",
+      "en": "Phitsanulok",
+      "slug": "phitsanulok"
+    },
+    "code": {
+      "dopa": "65",
+      "iso": "TH-65"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 9,
+      "subdistricts": 93,
+      "villages": 1112
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "16.789",
+      "lon": "100.250"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/phitsanulok-65/"
+    }
+  },
+  {
+    "id": "66",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit"
+    },
+    "code": {
+      "dopa": "66",
+      "iso": "TH-66"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 12,
+      "subdistricts": 88,
+      "villages": 930
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "16.222",
+      "lon": "100.427"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/phichit-66/"
+    }
+  },
+  {
+    "id": "67",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun"
+    },
+    "code": {
+      "dopa": "67",
+      "iso": "TH-67"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 11,
+      "subdistricts": 116,
+      "villages": 1456
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "16.839",
+      "lon": "101.239"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/phetchabun-67/"
+    }
+  },
+  {
+    "id": "70",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ราชบุรี",
+      "en": "Ratchaburi",
+      "slug": "ratchaburi"
+    },
+    "code": {
+      "dopa": "70",
+      "iso": "TH-70"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 10,
+      "subdistricts": 104,
+      "villages": 1046
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันตก",
+        "en": "Western"
+      }
+    },
+    "geo": {
+      "lat": "13.816",
+      "lon": "99.873"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/ratchaburi-70/"
+    }
+  },
+  {
+    "id": "71",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "กาญจนบุรี",
+      "en": "Kanchanaburi",
+      "slug": "kanchanaburi"
+    },
+    "code": {
+      "dopa": "71",
+      "iso": "TH-71"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 13,
+      "subdistricts": 95,
+      "villages": 980
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันตก",
+        "en": "Western"
+      }
+    },
+    "geo": {
+      "lat": "13.954",
+      "lon": "99.752"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/kanchanaburi-71/"
+    }
+  },
+  {
+    "id": "72",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "สุพรรณบุรี",
+      "en": "Suphan Buri",
+      "slug": "suphan-buri"
+    },
+    "code": {
+      "dopa": "72",
+      "iso": "TH-72"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 10,
+      "subdistricts": 109,
+      "villages": 1037
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "14.850",
+      "lon": "99.988"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/suphan-buri-72/"
+    }
+  },
+  {
+    "id": "73",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "นครปฐม",
+      "en": "Nakhon Pathom",
+      "slug": "nakhon-pathom"
+    },
+    "code": {
+      "dopa": "73",
+      "iso": "TH-73"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 7,
+      "subdistricts": 106,
+      "villages": 1079
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "13.787",
+      "lon": "100.192"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/nakhon-pathom-73/"
+    }
+  },
+  {
+    "id": "74",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "สมุทรสาคร",
+      "en": "Samut Sakhon",
+      "slug": "samut-sakhon"
+    },
+    "code": {
+      "dopa": "74",
+      "iso": "TH-74"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 3,
+      "subdistricts": 40,
+      "villages": 359
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "13.533",
+      "lon": "100.276"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/samut-sakhon-74/"
+    }
+  },
+  {
+    "id": "75",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "สมุทรสงคราม",
+      "en": "Samut Songkhram",
+      "slug": "samut-songkhram"
+    },
+    "code": {
+      "dopa": "75",
+      "iso": "TH-75"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 3,
+      "subdistricts": 36,
+      "villages": 308
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคกลาง",
+        "en": "Central"
+      }
+    },
+    "geo": {
+      "lat": "13.487",
+      "lon": "99.958"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/samut-songkhram-75/"
+    }
+  },
+  {
+    "id": "76",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "เพชรบุรี",
+      "en": "Phetchaburi",
+      "slug": "phetchaburi"
+    },
+    "code": {
+      "dopa": "76",
+      "iso": "TH-76"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 8,
+      "subdistricts": 92,
+      "villages": 739
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันตก",
+        "en": "Western"
+      }
+    },
+    "geo": {
+      "lat": "13.121",
+      "lon": "99.900"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/phetchaburi-76/"
+    }
+  },
+  {
+    "id": "77",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ประจวบคีรีขันธ์",
+      "en": "Prachuap Khiri Khan",
+      "slug": "prachuap-khiri-khan"
+    },
+    "code": {
+      "dopa": "77",
+      "iso": "TH-77"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 8,
+      "subdistricts": 48,
+      "villages": 489
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคตะวันตก",
+        "en": "Western"
+      }
+    },
+    "geo": {
+      "lat": "11.805",
+      "lon": "99.784"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/prachuap-khiri-khan-77/"
+    }
+  },
+  {
+    "id": "80",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat"
+    },
+    "code": {
+      "dopa": "80",
+      "iso": "TH-80"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 23,
+      "subdistricts": 169,
+      "villages": 1636
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคใต้",
+        "en": "Southern"
+      }
+    },
+    "geo": {
+      "lat": "9.324",
+      "lon": "99.775"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/nakhon-si-thammarat-80/"
+    }
+  },
+  {
+    "id": "81",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "กระบี่",
+      "en": "Krabi",
+      "slug": "krabi"
+    },
+    "code": {
+      "dopa": "81",
+      "iso": "TH-81"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 8,
+      "subdistricts": 52,
+      "villages": 397
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคใต้",
+        "en": "Southern"
+      }
+    },
+    "geo": {
+      "lat": "8.049",
+      "lon": "98.676"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/krabi-81/"
+    }
+  },
+  {
+    "id": "82",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "พังงา",
+      "en": "Phangnga",
+      "slug": "phangnga"
+    },
+    "code": {
+      "dopa": "82",
+      "iso": "TH-82"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 8,
+      "subdistricts": 48,
+      "villages": 337
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคใต้",
+        "en": "Southern"
+      }
+    },
+    "geo": {
+      "lat": "9.406",
+      "lon": "97.901"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/phangnga-82/"
+    }
+  },
+  {
+    "id": "83",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ภูเก็ต",
+      "en": "Phuket",
+      "slug": "phuket"
+    },
+    "code": {
+      "dopa": "83",
+      "iso": "TH-83"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 3,
+      "subdistricts": 16,
+      "villages": 137
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคใต้",
+        "en": "Southern"
+      }
+    },
+    "geo": {
+      "lat": "7.924",
+      "lon": "98.455"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/phuket-83/"
+    }
+  },
+  {
+    "id": "84",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani"
+    },
+    "code": {
+      "dopa": "84",
+      "iso": "TH-84"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 19,
+      "subdistricts": 130,
+      "villages": 1315
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคใต้",
+        "en": "Southern"
+      }
+    },
+    "geo": {
+      "lat": "9.708",
+      "lon": "99.675"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/surat-thani-84/"
+    }
+  },
+  {
+    "id": "85",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ระนอง",
+      "en": "Ranong",
+      "slug": "ranong"
+    },
+    "code": {
+      "dopa": "85",
+      "iso": "TH-85"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 5,
+      "subdistricts": 30,
+      "villages": 198
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคใต้",
+        "en": "Southern"
+      }
+    },
+    "geo": {
+      "lat": "9.401",
+      "lon": "98.392"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/ranong-85/"
+    }
+  },
+  {
+    "id": "86",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ชุมพร",
+      "en": "Chumphon",
+      "slug": "chumphon"
+    },
+    "code": {
+      "dopa": "86",
+      "iso": "TH-86"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 8,
+      "subdistricts": 70,
+      "villages": 798
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคใต้",
+        "en": "Southern"
+      }
+    },
+    "geo": {
+      "lat": "10.459",
+      "lon": "99.403"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/chumphon-86/"
+    }
+  },
+  {
+    "id": "90",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla"
+    },
+    "code": {
+      "dopa": "90",
+      "iso": "TH-90"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 16,
+      "subdistricts": 127,
+      "villages": 1325
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคใต้",
+        "en": "Southern"
+      }
+    },
+    "geo": {
+      "lat": "7.561",
+      "lon": "100.356"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/songkhla-90/"
+    }
+  },
+  {
+    "id": "91",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "สตูล",
+      "en": "Satun",
+      "slug": "satun"
+    },
+    "code": {
+      "dopa": "91",
+      "iso": "TH-91"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 7,
+      "subdistricts": 36,
+      "villages": 300
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคใต้",
+        "en": "Southern"
+      }
+    },
+    "geo": {
+      "lat": "6.546",
+      "lon": "99.706"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/satun-91/"
+    }
+  },
+  {
+    "id": "92",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ตรัง",
+      "en": "Trang",
+      "slug": "trang"
+    },
+    "code": {
+      "dopa": "92",
+      "iso": "TH-92"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 10,
+      "subdistricts": 90,
+      "villages": 809
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคใต้",
+        "en": "Southern"
+      }
+    },
+    "geo": {
+      "lat": "7.033",
+      "lon": "99.449"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/trang-92/"
+    }
+  },
+  {
+    "id": "93",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "พัทลุง",
+      "en": "Phatthalung",
+      "slug": "phatthalung"
+    },
+    "code": {
+      "dopa": "93",
+      "iso": "TH-93"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 11,
+      "subdistricts": 65,
+      "villages": 715
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคใต้",
+        "en": "Southern"
+      }
+    },
+    "geo": {
+      "lat": "7.589",
+      "lon": "100.050"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/phatthalung-93/"
+    }
+  },
+  {
+    "id": "94",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani"
+    },
+    "code": {
+      "dopa": "94",
+      "iso": "TH-94"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 12,
+      "subdistricts": 115,
+      "villages": 684
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคใต้",
+        "en": "Southern"
+      }
+    },
+    "geo": {
+      "lat": "6.870",
+      "lon": "101.256"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/pattani-94/"
+    }
+  },
+  {
+    "id": "95",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "ยะลา",
+      "en": "Yala",
+      "slug": "yala"
+    },
+    "code": {
+      "dopa": "95",
+      "iso": "TH-95"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 8,
+      "subdistricts": 58,
+      "villages": 449
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคใต้",
+        "en": "Southern"
+      }
+    },
+    "geo": {
+      "lat": "6.464",
+      "lon": "101.374"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/yala-95/"
+    }
+  },
+  {
+    "id": "96",
+    "level": 1,
+    "level_name": {
+      "th": "จังหวัด",
+      "en": "province"
+    },
+    "name": {
+      "th": "นราธิวาส",
+      "en": "Narathiwat",
+      "slug": "narathiwat"
+    },
+    "code": {
+      "dopa": "96",
+      "iso": "TH-96"
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "districts": 13,
+      "subdistricts": 77,
+      "villages": 671
+    },
+    "metadata": {
+      "is_special_province": false,
+      "region": {
+        "th": "ภาคใต้",
+        "en": "Southern"
+      }
+    },
+    "geo": {
+      "lat": "6.424",
+      "lon": "101.820"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/province/narathiwat-96/"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "730401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สามง่าม",
+    "en": "Sam Ngam",
+    "slug": "sam-ngam"
+  },
+  "code": {
+    "dopa": "730401"
+  },
+  "parent": {
+    "id": "7304",
+    "level": 2,
+    "name": {
+      "th": "ดอนตูม",
+      "en": "Don Tum",
+      "slug": "don-tum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7304",
+      "level": 2,
+      "name": {
+        "th": "ดอนตูม",
+        "en": "Don Tum",
+        "slug": "don-tum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "73150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.978",
+    "lon": "100.083"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sam-ngam-730401/"
+  }
+}

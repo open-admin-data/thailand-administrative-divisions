@@ -1,0 +1,61 @@
+{
+  "id": "600706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองโพ",
+    "en": "Nong Pho",
+    "slug": "nong-pho"
+  },
+  "code": {
+    "dopa": "600706"
+  },
+  "parent": {
+    "id": "6007",
+    "level": 2,
+    "name": {
+      "th": "ตาคลี",
+      "en": "Takhli",
+      "slug": "takhli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6007",
+      "level": 2,
+      "name": {
+        "th": "ตาคลี",
+        "en": "Takhli",
+        "slug": "takhli"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "60140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.403",
+    "lon": "100.278"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-pho-600706/"
+  }
+}

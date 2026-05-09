@@ -1,0 +1,61 @@
+{
+  "id": "950102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บุดี",
+    "en": "Budi",
+    "slug": "budi"
+  },
+  "code": {
+    "dopa": "950102"
+  },
+  "parent": {
+    "id": "9501",
+    "level": 2,
+    "name": {
+      "th": "เมืองยะลา",
+      "en": "Yala",
+      "slug": "yala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "th": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "95000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.487",
+    "lon": "101.305"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/budi-950102/"
+  }
+}

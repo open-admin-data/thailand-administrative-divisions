@@ -1,0 +1,61 @@
+{
+  "id": "600903",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังน้ำลัด",
+    "en": "Wang Nam Lat",
+    "slug": "wang-nam-lat"
+  },
+  "code": {
+    "dopa": "600903"
+  },
+  "parent": {
+    "id": "6009",
+    "level": 2,
+    "name": {
+      "th": "ไพศาลี",
+      "en": "Phaisali",
+      "slug": "phaisali"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6009",
+      "level": 2,
+      "name": {
+        "th": "ไพศาลี",
+        "en": "Phaisali",
+        "slug": "phaisali"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "60220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.709",
+    "lon": "100.666"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-nam-lat-600903/"
+  }
+}

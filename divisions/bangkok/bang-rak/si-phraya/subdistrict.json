@@ -1,0 +1,61 @@
+{
+  "id": "100405",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง สี่พระยา",
+    "en": "Si Phraya",
+    "slug": "si-phraya"
+  },
+  "code": {
+    "dopa": "100405"
+  },
+  "parent": {
+    "id": "1004",
+    "level": 2,
+    "name": {
+      "th": "เขต บางรัก",
+      "en": "Bang Rak",
+      "slug": "bang-rak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1004",
+      "level": 2,
+      "name": {
+        "th": "เขต บางรัก",
+        "en": "Bang Rak",
+        "slug": "bang-rak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10500"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.725",
+    "lon": "100.514"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-phraya-100405/"
+  }
+}

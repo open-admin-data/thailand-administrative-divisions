@@ -1,0 +1,61 @@
+{
+  "id": "341907",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนกลาง",
+    "en": "Non Klang",
+    "slug": "non-klang"
+  },
+  "code": {
+    "dopa": "341907"
+  },
+  "parent": {
+    "id": "3419",
+    "level": 2,
+    "name": {
+      "th": "พิบูลมังสาหาร",
+      "en": "Phibun Mangsahan",
+      "slug": "phibun-mangsahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3419",
+      "level": 2,
+      "name": {
+        "th": "พิบูลมังสาหาร",
+        "en": "Phibun Mangsahan",
+        "slug": "phibun-mangsahan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "34110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.066",
+    "lon": "105.344"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-klang-341907/"
+  }
+}

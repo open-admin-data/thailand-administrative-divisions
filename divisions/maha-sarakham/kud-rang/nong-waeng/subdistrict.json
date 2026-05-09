@@ -1,0 +1,61 @@
+{
+  "id": "441204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองแวง",
+    "en": "Nong Waeng",
+    "slug": "nong-waeng"
+  },
+  "code": {
+    "dopa": "441204"
+  },
+  "parent": {
+    "id": "4412",
+    "level": 2,
+    "name": {
+      "th": "กุดรัง",
+      "en": "Kud Rang",
+      "slug": "kud-rang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4412",
+      "level": 2,
+      "name": {
+        "th": "กุดรัง",
+        "en": "Kud Rang",
+        "slug": "kud-rang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "44130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.006",
+    "lon": "102.935"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-waeng-441204/"
+  }
+}

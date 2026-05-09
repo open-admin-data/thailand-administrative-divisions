@@ -1,0 +1,61 @@
+{
+  "id": "711001",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เลาขวัญ",
+    "en": "Lao Khwan",
+    "slug": "lao-khwan"
+  },
+  "code": {
+    "dopa": "711001"
+  },
+  "parent": {
+    "id": "7110",
+    "level": 2,
+    "name": {
+      "th": "เลาขวัญ",
+      "en": "Lao Khwan",
+      "slug": "lao-khwan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7110",
+      "level": 2,
+      "name": {
+        "th": "เลาขวัญ",
+        "en": "Lao Khwan",
+        "slug": "lao-khwan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "71210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.580",
+    "lon": "99.753"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lao-khwan-711001/"
+  }
+}

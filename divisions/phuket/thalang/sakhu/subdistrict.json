@@ -1,0 +1,61 @@
+{
+  "id": "830306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สาคู",
+    "en": "Sakhu",
+    "slug": "sakhu"
+  },
+  "code": {
+    "dopa": "830306"
+  },
+  "parent": {
+    "id": "8303",
+    "level": 2,
+    "name": {
+      "th": "ถลาง",
+      "en": "Thalang",
+      "slug": "thalang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "th": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket"
+      }
+    },
+    {
+      "id": "8303",
+      "level": 2,
+      "name": {
+        "th": "ถลาง",
+        "en": "Thalang",
+        "slug": "thalang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "83110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.093",
+    "lon": "98.315"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sakhu-830306/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "4106",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หนองหาน",
+    "en": "Nong Han",
+    "slug": "nong-han"
+  },
+  "code": {
+    "dopa": "4106"
+  },
+  "parent": {
+    "id": "41",
+    "level": 1,
+    "name": {
+      "th": "อุดรธานี",
+      "en": "Udon Thani",
+      "slug": "udon-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 163
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.395",
+    "lon": "103.273"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-han-4106/"
+  }
+}

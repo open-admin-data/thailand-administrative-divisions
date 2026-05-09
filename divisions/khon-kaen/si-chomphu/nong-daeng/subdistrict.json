@@ -1,0 +1,61 @@
+{
+  "id": "400606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองแดง",
+    "en": "Nong Daeng",
+    "slug": "nong-daeng"
+  },
+  "code": {
+    "dopa": "400606"
+  },
+  "parent": {
+    "id": "4006",
+    "level": 2,
+    "name": {
+      "th": "สีชมพู",
+      "en": "Si Chomphu",
+      "slug": "si-chomphu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4006",
+      "level": 2,
+      "name": {
+        "th": "สีชมพู",
+        "en": "Si Chomphu",
+        "slug": "si-chomphu"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "40220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.711",
+    "lon": "102.113"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-daeng-400606/"
+  }
+}

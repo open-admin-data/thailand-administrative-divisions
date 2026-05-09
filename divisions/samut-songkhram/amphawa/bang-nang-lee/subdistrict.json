@@ -1,0 +1,61 @@
+{
+  "id": "750312",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางนางลี่",
+    "en": "Bang Nang Lee",
+    "slug": "bang-nang-lee"
+  },
+  "code": {
+    "dopa": "750312"
+  },
+  "parent": {
+    "id": "7503",
+    "level": 2,
+    "name": {
+      "th": "อัมพวา",
+      "en": "Amphawa",
+      "slug": "amphawa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสงคราม",
+        "en": "Samut Songkhram",
+        "slug": "samut-songkhram"
+      }
+    },
+    {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "th": "อัมพวา",
+        "en": "Amphawa",
+        "slug": "amphawa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "75110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.414",
+    "lon": "99.917"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-nang-lee-750312/"
+  }
+}

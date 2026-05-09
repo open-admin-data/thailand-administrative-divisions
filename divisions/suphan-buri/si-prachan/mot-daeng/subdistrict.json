@@ -1,0 +1,61 @@
+{
+  "id": "720503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มดแดง",
+    "en": "Mot Daeng",
+    "slug": "mot-daeng"
+  },
+  "code": {
+    "dopa": "720503"
+  },
+  "parent": {
+    "id": "7205",
+    "level": 2,
+    "name": {
+      "th": "ศรีประจันต์",
+      "en": "Si Prachan",
+      "slug": "si-prachan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "th": "ศรีประจันต์",
+        "en": "Si Prachan",
+        "slug": "si-prachan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "72140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.570",
+    "lon": "100.119"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mot-daeng-720503/"
+  }
+}

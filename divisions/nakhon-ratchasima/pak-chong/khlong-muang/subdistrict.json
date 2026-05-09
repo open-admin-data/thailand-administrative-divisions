@@ -1,0 +1,61 @@
+{
+  "id": "302109",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองม่วง",
+    "en": "Khlong Muang",
+    "slug": "khlong-muang"
+  },
+  "code": {
+    "dopa": "302109"
+  },
+  "parent": {
+    "id": "3021",
+    "level": 2,
+    "name": {
+      "th": "ปากช่อง",
+      "en": "Pak Chong",
+      "slug": "pak-chong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3021",
+      "level": 2,
+      "name": {
+        "th": "ปากช่อง",
+        "en": "Pak Chong",
+        "slug": "pak-chong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "30130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.647",
+    "lon": "101.649"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-muang-302109/"
+  }
+}

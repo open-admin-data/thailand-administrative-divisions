@@ -1,0 +1,61 @@
+{
+  "id": "570904",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โป่งผา",
+    "en": "Pong Pha",
+    "slug": "pong-pha"
+  },
+  "code": {
+    "dopa": "570904"
+  },
+  "parent": {
+    "id": "5709",
+    "level": 2,
+    "name": {
+      "th": "แม่สาย",
+      "en": "Mae Sai",
+      "slug": "mae-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5709",
+      "level": 2,
+      "name": {
+        "th": "แม่สาย",
+        "en": "Mae Sai",
+        "slug": "mae-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "57130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.370",
+    "lon": "99.894"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pong-pha-570904/"
+  }
+}

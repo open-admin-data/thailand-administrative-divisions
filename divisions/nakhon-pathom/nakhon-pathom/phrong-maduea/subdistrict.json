@@ -1,0 +1,61 @@
+{
+  "id": "730118",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพรงมะเดื่อ",
+    "en": "Phrong Maduea",
+    "slug": "phrong-maduea"
+  },
+  "code": {
+    "dopa": "730118"
+  },
+  "parent": {
+    "id": "7301",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครปฐม",
+      "en": "Nakhon Pathom",
+      "slug": "nakhon-pathom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7301",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "73000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.840",
+    "lon": "99.978"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phrong-maduea-730118/"
+  }
+}

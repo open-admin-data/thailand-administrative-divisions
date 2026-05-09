@@ -1,0 +1,61 @@
+{
+  "id": "670809",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บึงสามพัน",
+    "en": "Bueng Sam Phan",
+    "slug": "bueng-sam-phan"
+  },
+  "code": {
+    "dopa": "670809"
+  },
+  "parent": {
+    "id": "6708",
+    "level": 2,
+    "name": {
+      "th": "บึงสามพัน",
+      "en": "Bueng Sam Phan",
+      "slug": "bueng-sam-phan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6708",
+      "level": 2,
+      "name": {
+        "th": "บึงสามพัน",
+        "en": "Bueng Sam Phan",
+        "slug": "bueng-sam-phan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "67160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.791",
+    "lon": "101.022"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bueng-sam-phan-670809/"
+  }
+}

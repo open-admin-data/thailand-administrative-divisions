@@ -1,0 +1,61 @@
+{
+  "id": "461501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สำราญ",
+    "en": "Samran",
+    "slug": "samran"
+  },
+  "code": {
+    "dopa": "461501"
+  },
+  "parent": {
+    "id": "4615",
+    "level": 2,
+    "name": {
+      "th": "สามชัย",
+      "en": "Sam Chai",
+      "slug": "sam-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4615",
+      "level": 2,
+      "name": {
+        "th": "สามชัย",
+        "en": "Sam Chai",
+        "slug": "sam-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "46180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.954",
+    "lon": "103.522"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samran-461501/"
+  }
+}

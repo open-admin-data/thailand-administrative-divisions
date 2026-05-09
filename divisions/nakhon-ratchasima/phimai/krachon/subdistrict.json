@@ -1,0 +1,61 @@
+{
+  "id": "301509",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กระชอน",
+    "en": "Krachon",
+    "slug": "krachon"
+  },
+  "code": {
+    "dopa": "301509"
+  },
+  "parent": {
+    "id": "3015",
+    "level": 2,
+    "name": {
+      "th": "พิมาย",
+      "en": "Phimai",
+      "slug": "phimai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3015",
+      "level": 2,
+      "name": {
+        "th": "พิมาย",
+        "en": "Phimai",
+        "slug": "phimai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "30110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.443",
+    "lon": "102.670"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/krachon-301509/"
+  }
+}

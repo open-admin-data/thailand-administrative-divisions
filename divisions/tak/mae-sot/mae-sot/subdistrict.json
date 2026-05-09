@@ -1,0 +1,61 @@
+{
+  "id": "630601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่สอด",
+    "en": "Mae Sot",
+    "slug": "mae-sot"
+  },
+  "code": {
+    "dopa": "630601"
+  },
+  "parent": {
+    "id": "6306",
+    "level": 2,
+    "name": {
+      "th": "แม่สอด",
+      "en": "Mae Sot",
+      "slug": "mae-sot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6306",
+      "level": 2,
+      "name": {
+        "th": "แม่สอด",
+        "en": "Mae Sot",
+        "slug": "mae-sot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "63110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.716",
+    "lon": "98.573"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-sot-630601/"
+  }
+}

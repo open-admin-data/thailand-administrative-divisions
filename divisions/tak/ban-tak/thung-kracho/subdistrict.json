@@ -1,0 +1,61 @@
+{
+  "id": "630206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งกระเซาะ",
+    "en": "Thung Kracho",
+    "slug": "thung-kracho"
+  },
+  "code": {
+    "dopa": "630206"
+  },
+  "parent": {
+    "id": "6302",
+    "level": 2,
+    "name": {
+      "th": "บ้านตาก",
+      "en": "Ban Tak",
+      "slug": "ban-tak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6302",
+      "level": 2,
+      "name": {
+        "th": "บ้านตาก",
+        "en": "Ban Tak",
+        "slug": "ban-tak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "63120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.973",
+    "lon": "98.967"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-kracho-630206/"
+  }
+}

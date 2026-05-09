@@ -1,0 +1,50 @@
+{
+  "id": "1611",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หนองม่วง",
+    "en": "Nong Muang",
+    "slug": "nong-muang"
+  },
+  "code": {
+    "dopa": "1611"
+  },
+  "parent": {
+    "id": "16",
+    "level": 1,
+    "name": {
+      "th": "ลพบุรี",
+      "en": "Loburi",
+      "slug": "loburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 66
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.230",
+    "lon": "100.664"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-muang-1611/"
+  }
+}

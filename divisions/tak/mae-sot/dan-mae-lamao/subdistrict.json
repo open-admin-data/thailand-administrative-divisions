@@ -1,0 +1,61 @@
+{
+  "id": "630609",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ด่านแม่ละเมา",
+    "en": "Dan Mae Lamao",
+    "slug": "dan-mae-lamao"
+  },
+  "code": {
+    "dopa": "630609"
+  },
+  "parent": {
+    "id": "6306",
+    "level": 2,
+    "name": {
+      "th": "แม่สอด",
+      "en": "Mae Sot",
+      "slug": "mae-sot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6306",
+      "level": 2,
+      "name": {
+        "th": "แม่สอด",
+        "en": "Mae Sot",
+        "slug": "mae-sot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "63110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.748",
+    "lon": "98.862"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dan-mae-lamao-630609/"
+  }
+}

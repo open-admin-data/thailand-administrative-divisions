@@ -1,0 +1,50 @@
+{
+  "id": "1006",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต บางกะปิ",
+    "en": "Bang Kapi",
+    "slug": "bang-kapi"
+  },
+  "code": {
+    "dopa": "1006"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 2,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.786",
+    "lon": "100.635"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-kapi-1006/"
+  }
+}

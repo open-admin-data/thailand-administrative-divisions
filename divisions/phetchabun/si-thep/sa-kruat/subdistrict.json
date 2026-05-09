@@ -1,0 +1,61 @@
+{
+  "id": "670602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สระกรวด",
+    "en": "Sa Kruat",
+    "slug": "sa-kruat"
+  },
+  "code": {
+    "dopa": "670602"
+  },
+  "parent": {
+    "id": "6706",
+    "level": 2,
+    "name": {
+      "th": "ศรีเทพ",
+      "en": "Si Thep",
+      "slug": "si-thep"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6706",
+      "level": 2,
+      "name": {
+        "th": "ศรีเทพ",
+        "en": "Si Thep",
+        "slug": "si-thep"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "67170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.420",
+    "lon": "101.070"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sa-kruat-670602/"
+  }
+}

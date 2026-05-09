@@ -1,0 +1,61 @@
+{
+  "id": "420902",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทรายขาว",
+    "en": "Sai Khao",
+    "slug": "sai-khao"
+  },
+  "code": {
+    "dopa": "420902"
+  },
+  "parent": {
+    "id": "4209",
+    "level": 2,
+    "name": {
+      "th": "วังสะพุง",
+      "en": "Wang Saphung",
+      "slug": "wang-saphung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4209",
+      "level": 2,
+      "name": {
+        "th": "วังสะพุง",
+        "en": "Wang Saphung",
+        "slug": "wang-saphung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "42130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.213",
+    "lon": "101.535"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sai-khao-420902/"
+  }
+}

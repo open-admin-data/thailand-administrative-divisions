@@ -1,0 +1,61 @@
+{
+  "id": "102303",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง หนองค้างพลู",
+    "en": "Nong Khang Phlu",
+    "slug": "nong-khang-phlu"
+  },
+  "code": {
+    "dopa": "102303"
+  },
+  "parent": {
+    "id": "1023",
+    "level": 2,
+    "name": {
+      "th": "เขต หนองแขม",
+      "en": "Nong Khaem",
+      "slug": "nong-khaem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1023",
+      "level": 2,
+      "name": {
+        "th": "เขต หนองแขม",
+        "en": "Nong Khaem",
+        "slug": "nong-khaem"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10160"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.714",
+    "lon": "100.351"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-khang-phlu-102303/"
+  }
+}

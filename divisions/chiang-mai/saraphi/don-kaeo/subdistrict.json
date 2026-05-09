@@ -1,0 +1,61 @@
+{
+  "id": "501909",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนแก้ว",
+    "en": "Don Kaeo",
+    "slug": "don-kaeo"
+  },
+  "code": {
+    "dopa": "501909"
+  },
+  "parent": {
+    "id": "5019",
+    "level": 2,
+    "name": {
+      "th": "สารภี",
+      "en": "Saraphi",
+      "slug": "saraphi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5019",
+      "level": 2,
+      "name": {
+        "th": "สารภี",
+        "en": "Saraphi",
+        "slug": "saraphi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "50140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.697",
+    "lon": "98.997"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-kaeo-501909/"
+  }
+}

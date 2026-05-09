@@ -1,0 +1,61 @@
+{
+  "id": "451405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองหมื่นถ่าน",
+    "en": "Nong Muen Than",
+    "slug": "nong-muen-than"
+  },
+  "code": {
+    "dopa": "451405"
+  },
+  "parent": {
+    "id": "4514",
+    "level": 2,
+    "name": {
+      "th": "อาจสามารถ",
+      "en": "At Samat",
+      "slug": "at-samat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4514",
+      "level": 2,
+      "name": {
+        "th": "อาจสามารถ",
+        "en": "At Samat",
+        "slug": "at-samat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "45160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.755",
+    "lon": "103.937"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-muen-than-451405/"
+  }
+}

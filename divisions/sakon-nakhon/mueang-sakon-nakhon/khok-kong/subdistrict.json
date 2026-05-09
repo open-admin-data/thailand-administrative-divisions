@@ -1,0 +1,61 @@
+{
+  "id": "470121",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกก่อง",
+    "en": "Khok Kong",
+    "slug": "khok-kong"
+  },
+  "code": {
+    "dopa": "470121"
+  },
+  "parent": {
+    "id": "4701",
+    "level": 2,
+    "name": {
+      "th": "เมืองสกลนคร",
+      "en": "Mueang Sakon Nakhon",
+      "slug": "mueang-sakon-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4701",
+      "level": 2,
+      "name": {
+        "th": "เมืองสกลนคร",
+        "en": "Mueang Sakon Nakhon",
+        "slug": "mueang-sakon-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "47000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.133",
+    "lon": "104.294"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-kong-470121/"
+  }
+}

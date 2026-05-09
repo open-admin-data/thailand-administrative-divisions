@@ -1,0 +1,38 @@
+{
+  "id": "39",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "หนองบัวลำภู",
+    "en": "Nong Bua Lam Phu",
+    "slug": "nong-bua-lam-phu"
+  },
+  "code": {
+    "dopa": "39",
+    "iso": "TH-39"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 6,
+    "subdistricts": 59,
+    "villages": 721
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "Northeastern"
+    }
+  },
+  "geo": {
+    "lat": "17.308",
+    "lon": "102.117"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/nong-bua-lam-phu-39/"
+  }
+}

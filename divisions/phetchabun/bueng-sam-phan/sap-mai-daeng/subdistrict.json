@@ -1,0 +1,61 @@
+{
+  "id": "670802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ซับไม้แดง",
+    "en": "Sap Mai Daeng",
+    "slug": "sap-mai-daeng"
+  },
+  "code": {
+    "dopa": "670802"
+  },
+  "parent": {
+    "id": "6708",
+    "level": 2,
+    "name": {
+      "th": "บึงสามพัน",
+      "en": "Bueng Sam Phan",
+      "slug": "bueng-sam-phan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6708",
+      "level": 2,
+      "name": {
+        "th": "บึงสามพัน",
+        "en": "Bueng Sam Phan",
+        "slug": "bueng-sam-phan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "67160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.788",
+    "lon": "100.922"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sap-mai-daeng-670802/"
+  }
+}

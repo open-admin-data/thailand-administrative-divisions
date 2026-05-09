@@ -1,0 +1,38 @@
+{
+  "id": "82",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "พังงา",
+    "en": "Phangnga",
+    "slug": "phangnga"
+  },
+  "code": {
+    "dopa": "82",
+    "iso": "TH-82"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 8,
+    "subdistricts": 48,
+    "villages": 337
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern"
+    }
+  },
+  "geo": {
+    "lat": "9.406",
+    "lon": "97.901"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/phangnga-82/"
+  }
+}

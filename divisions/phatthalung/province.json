@@ -1,0 +1,38 @@
+{
+  "id": "93",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "พัทลุง",
+    "en": "Phatthalung",
+    "slug": "phatthalung"
+  },
+  "code": {
+    "dopa": "93",
+    "iso": "TH-93"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 11,
+    "subdistricts": 65,
+    "villages": 715
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern"
+    }
+  },
+  "geo": {
+    "lat": "7.589",
+    "lon": "100.050"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/phatthalung-93/"
+  }
+}

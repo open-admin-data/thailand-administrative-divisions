@@ -1,0 +1,61 @@
+{
+  "id": "600509",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ด่านช้าง",
+    "en": "Dan Chang",
+    "slug": "dan-chang"
+  },
+  "code": {
+    "dopa": "600509"
+  },
+  "parent": {
+    "id": "6005",
+    "level": 2,
+    "name": {
+      "th": "บรรพตพิสัย",
+      "en": "Banphot Phisai",
+      "slug": "banphot-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6005",
+      "level": 2,
+      "name": {
+        "th": "บรรพตพิสัย",
+        "en": "Banphot Phisai",
+        "slug": "banphot-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "60180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.080",
+    "lon": "99.999"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dan-chang-600509/"
+  }
+}

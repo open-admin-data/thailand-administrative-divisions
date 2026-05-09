@@ -1,0 +1,50 @@
+{
+  "id": "3605",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หนองบัวแดง",
+    "en": "Nong Bua Daeng",
+    "slug": "nong-bua-daeng"
+  },
+  "code": {
+    "dopa": "3605"
+  },
+  "parent": {
+    "id": "36",
+    "level": 1,
+    "name": {
+      "th": "ชัยภูมิ",
+      "en": "Chaiyaphum",
+      "slug": "chaiyaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 130
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.012",
+    "lon": "101.834"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-bua-daeng-3605/"
+  }
+}

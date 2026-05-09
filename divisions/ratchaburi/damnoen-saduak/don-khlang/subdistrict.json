@@ -1,0 +1,61 @@
+{
+  "id": "700406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนคลัง",
+    "en": "Don Khlang",
+    "slug": "don-khlang"
+  },
+  "code": {
+    "dopa": "700406"
+  },
+  "parent": {
+    "id": "7004",
+    "level": 2,
+    "name": {
+      "th": "ดำเนินสะดวก",
+      "en": "Damnoen Saduak",
+      "slug": "damnoen-saduak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7004",
+      "level": 2,
+      "name": {
+        "th": "ดำเนินสะดวก",
+        "en": "Damnoen Saduak",
+        "slug": "damnoen-saduak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "70130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.619",
+    "lon": "99.974"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-khlang-700406/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "140102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กะมัง",
+    "en": "Kamang",
+    "slug": "kamang"
+  },
+  "code": {
+    "dopa": "140102"
+  },
+  "parent": {
+    "id": "1401",
+    "level": 2,
+    "name": {
+      "th": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1401",
+      "level": 2,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 2
+  },
+  "zip_codes": [
+    "13000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.341",
+    "lon": "100.581"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kamang-140102/"
+  }
+}

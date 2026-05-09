@@ -1,0 +1,61 @@
+{
+  "id": "240407",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สองคลอง",
+    "en": "Song Khlong",
+    "slug": "song-khlong"
+  },
+  "code": {
+    "dopa": "240407"
+  },
+  "parent": {
+    "id": "2404",
+    "level": 2,
+    "name": {
+      "th": "บางปะกง",
+      "en": "Bang Pakong",
+      "slug": "bang-pakong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2404",
+      "level": 2,
+      "name": {
+        "th": "บางปะกง",
+        "en": "Bang Pakong",
+        "slug": "bang-pakong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "24130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.484",
+    "lon": "100.910"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/song-khlong-240407/"
+  }
+}

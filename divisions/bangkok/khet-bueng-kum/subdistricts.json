@@ -1,0 +1,63 @@
+[
+  {
+    "id": "102701",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง คลองกุ่ม",
+      "en": "Khlong Kum",
+      "slug": "khlong-kum"
+    },
+    "code": {
+      "dopa": "102701"
+    },
+    "parent": {
+      "id": "1027",
+      "level": 2,
+      "name": {
+        "th": "เขต บึงกุ่ม",
+        "en": "Khet Bueng Kum",
+        "slug": "khet-bueng-kum"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1027",
+        "level": 2,
+        "name": {
+          "th": "เขต บึงกุ่ม",
+          "en": "Khet Bueng Kum",
+          "slug": "khet-bueng-kum"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10240"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.808",
+      "lon": "100.650"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khlong-kum-102701/"
+    }
+  }
+]

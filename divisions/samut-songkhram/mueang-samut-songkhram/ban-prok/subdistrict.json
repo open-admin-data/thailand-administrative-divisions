@@ -1,0 +1,61 @@
+{
+  "id": "750104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านปรก",
+    "en": "Ban Prok",
+    "slug": "ban-prok"
+  },
+  "code": {
+    "dopa": "750104"
+  },
+  "parent": {
+    "id": "7501",
+    "level": 2,
+    "name": {
+      "th": "เมืองสมุทรสงคราม",
+      "en": "Mueang Samut Songkhram",
+      "slug": "mueang-samut-songkhram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสงคราม",
+        "en": "Samut Songkhram",
+        "slug": "samut-songkhram"
+      }
+    },
+    {
+      "id": "7501",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรสงคราม",
+        "en": "Mueang Samut Songkhram",
+        "slug": "mueang-samut-songkhram"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "75000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.430",
+    "lon": "99.992"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-prok-750104/"
+  }
+}

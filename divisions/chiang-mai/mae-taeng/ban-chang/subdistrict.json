@@ -1,0 +1,61 @@
+{
+  "id": "500611",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านช้าง",
+    "en": "Ban Chang",
+    "slug": "ban-chang"
+  },
+  "code": {
+    "dopa": "500611"
+  },
+  "parent": {
+    "id": "5006",
+    "level": 2,
+    "name": {
+      "th": "แม่แตง",
+      "en": "Mae Taeng",
+      "slug": "mae-taeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5006",
+      "level": 2,
+      "name": {
+        "th": "แม่แตง",
+        "en": "Mae Taeng",
+        "slug": "mae-taeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "50150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.147",
+    "lon": "98.861"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-chang-500611/"
+  }
+}

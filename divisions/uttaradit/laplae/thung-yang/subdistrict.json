@@ -1,0 +1,61 @@
+{
+  "id": "530807",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งยั้ง",
+    "en": "Thung Yang",
+    "slug": "thung-yang"
+  },
+  "code": {
+    "dopa": "530807"
+  },
+  "parent": {
+    "id": "5308",
+    "level": 2,
+    "name": {
+      "th": "ลับแล",
+      "en": "Laplae",
+      "slug": "laplae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5308",
+      "level": 2,
+      "name": {
+        "th": "ลับแล",
+        "en": "Laplae",
+        "slug": "laplae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "53210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.580",
+    "lon": "100.015"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-yang-530807/"
+  }
+}

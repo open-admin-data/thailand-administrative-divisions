@@ -1,0 +1,61 @@
+{
+  "id": "180306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองขุ่น",
+    "en": "Nong Khun",
+    "slug": "nong-khun"
+  },
+  "code": {
+    "dopa": "180306"
+  },
+  "parent": {
+    "id": "1803",
+    "level": 2,
+    "name": {
+      "th": "วัดสิงห์",
+      "en": "Wat Sing",
+      "slug": "wat-sing"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "th": "วัดสิงห์",
+        "en": "Wat Sing",
+        "slug": "wat-sing"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "17120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.235",
+    "lon": "99.970"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-khun-180306/"
+  }
+}

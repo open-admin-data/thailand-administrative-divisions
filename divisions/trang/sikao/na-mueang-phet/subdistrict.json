@@ -1,0 +1,61 @@
+{
+  "id": "920505",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาเมืองเพชร",
+    "en": "Na Mueang Phet",
+    "slug": "na-mueang-phet"
+  },
+  "code": {
+    "dopa": "920505"
+  },
+  "parent": {
+    "id": "9205",
+    "level": 2,
+    "name": {
+      "th": "สิเกา",
+      "en": "Sikao",
+      "slug": "sikao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9205",
+      "level": 2,
+      "name": {
+        "th": "สิเกา",
+        "en": "Sikao",
+        "slug": "sikao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "92000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.559",
+    "lon": "99.465"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-mueang-phet-920505/"
+  }
+}

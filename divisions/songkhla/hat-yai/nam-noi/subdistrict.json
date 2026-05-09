@@ -1,0 +1,61 @@
+{
+  "id": "901114",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำน้อย",
+    "en": "Nam Noi",
+    "slug": "nam-noi"
+  },
+  "code": {
+    "dopa": "901114"
+  },
+  "parent": {
+    "id": "9011",
+    "level": 2,
+    "name": {
+      "th": "หาดใหญ่",
+      "en": "Hat Yai",
+      "slug": "hat-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9011",
+      "level": 2,
+      "name": {
+        "th": "หาดใหญ่",
+        "en": "Hat Yai",
+        "slug": "hat-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "90110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.108",
+    "lon": "100.530"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-noi-901114/"
+  }
+}

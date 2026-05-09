@@ -1,0 +1,61 @@
+{
+  "id": "530105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คุ้งตะเภา",
+    "en": "Khung Taphao",
+    "slug": "khung-taphao"
+  },
+  "code": {
+    "dopa": "530105"
+  },
+  "parent": {
+    "id": "5301",
+    "level": 2,
+    "name": {
+      "th": "เมืองอุตรดิตถ์",
+      "en": "Mueang Uttaradit",
+      "slug": "mueang-uttaradit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "th": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "53000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.641",
+    "lon": "100.166"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khung-taphao-530105/"
+  }
+}

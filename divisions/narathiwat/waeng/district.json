@@ -1,0 +1,50 @@
+{
+  "id": "9608",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แว้ง",
+    "en": "Waeng",
+    "slug": "waeng"
+  },
+  "code": {
+    "dopa": "9608"
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "th": "นราธิวาส",
+      "en": "Narathiwat",
+      "slug": "narathiwat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 46
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "5.973",
+    "lon": "101.842"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/waeng-9608/"
+  }
+}

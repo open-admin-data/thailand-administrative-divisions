@@ -1,0 +1,61 @@
+{
+  "id": "240903",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวสำโรง",
+    "en": "Hua Samrong",
+    "slug": "hua-samrong"
+  },
+  "code": {
+    "dopa": "240903"
+  },
+  "parent": {
+    "id": "2409",
+    "level": 2,
+    "name": {
+      "th": "แปลงยาว",
+      "en": "Plaeng Yao",
+      "slug": "plaeng-yao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2409",
+      "level": 2,
+      "name": {
+        "th": "แปลงยาว",
+        "en": "Plaeng Yao",
+        "slug": "plaeng-yao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "24190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.624",
+    "lon": "101.315"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-samrong-240903/"
+  }
+}

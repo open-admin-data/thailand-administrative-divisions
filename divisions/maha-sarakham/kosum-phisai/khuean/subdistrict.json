@@ -1,0 +1,61 @@
+{
+  "id": "440310",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขื่อน",
+    "en": "Khuean",
+    "slug": "khuean"
+  },
+  "code": {
+    "dopa": "440310"
+  },
+  "parent": {
+    "id": "4403",
+    "level": 2,
+    "name": {
+      "th": "โกสุมพิสัย",
+      "en": "Kosum Phisai",
+      "slug": "kosum-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4403",
+      "level": 2,
+      "name": {
+        "th": "โกสุมพิสัย",
+        "en": "Kosum Phisai",
+        "slug": "kosum-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "44140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.344",
+    "lon": "103.068"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khuean-440310/"
+  }
+}

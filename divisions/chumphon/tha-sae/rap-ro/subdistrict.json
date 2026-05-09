@@ -1,0 +1,61 @@
+{
+  "id": "860205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "รับร่อ",
+    "en": "Rap Ro",
+    "slug": "rap-ro"
+  },
+  "code": {
+    "dopa": "860205"
+  },
+  "parent": {
+    "id": "8602",
+    "level": 2,
+    "name": {
+      "th": "ท่าแซะ",
+      "en": "Tha Sae",
+      "slug": "tha-sae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8602",
+      "level": 2,
+      "name": {
+        "th": "ท่าแซะ",
+        "en": "Tha Sae",
+        "slug": "tha-sae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 23
+  },
+  "zip_codes": [
+    "86190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.768",
+    "lon": "99.011"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rap-ro-860205/"
+  }
+}

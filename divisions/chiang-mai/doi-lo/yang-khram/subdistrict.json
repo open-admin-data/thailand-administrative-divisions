@@ -1,0 +1,61 @@
+{
+  "id": "502403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยางคราม",
+    "en": "Yang Khram",
+    "slug": "yang-khram"
+  },
+  "code": {
+    "dopa": "502403"
+  },
+  "parent": {
+    "id": "5024",
+    "level": 2,
+    "name": {
+      "th": "ดอยหล่อ",
+      "en": "Doi Lo",
+      "slug": "doi-lo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5024",
+      "level": 2,
+      "name": {
+        "th": "ดอยหล่อ",
+        "en": "Doi Lo",
+        "slug": "doi-lo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "50160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.560",
+    "lon": "98.782"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yang-khram-502403/"
+  }
+}

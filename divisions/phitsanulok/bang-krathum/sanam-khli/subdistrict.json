@@ -1,0 +1,61 @@
+{
+  "id": "650504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สนามคลี",
+    "en": "Sanam Khli",
+    "slug": "sanam-khli"
+  },
+  "code": {
+    "dopa": "650504"
+  },
+  "parent": {
+    "id": "6505",
+    "level": 2,
+    "name": {
+      "th": "บางกระทุ่ม",
+      "en": "Bang Krathum",
+      "slug": "bang-krathum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6505",
+      "level": 2,
+      "name": {
+        "th": "บางกระทุ่ม",
+        "en": "Bang Krathum",
+        "slug": "bang-krathum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "65110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.547",
+    "lon": "100.256"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sanam-khli-650504/"
+  }
+}

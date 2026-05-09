@@ -1,0 +1,61 @@
+{
+  "id": "940512",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สะกำ",
+    "en": "Sakam",
+    "slug": "sakam"
+  },
+  "code": {
+    "dopa": "940512"
+  },
+  "parent": {
+    "id": "9405",
+    "level": 2,
+    "name": {
+      "th": "มายอ",
+      "en": "Mayo",
+      "slug": "mayo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9405",
+      "level": 2,
+      "name": {
+        "th": "มายอ",
+        "en": "Mayo",
+        "slug": "mayo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "94140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.720",
+    "lon": "101.462"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sakam-940512/"
+  }
+}

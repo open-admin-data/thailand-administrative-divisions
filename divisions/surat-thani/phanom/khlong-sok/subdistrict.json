@@ -1,0 +1,61 @@
+{
+  "id": "841003",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองศก",
+    "en": "Khlong Sok",
+    "slug": "khlong-sok"
+  },
+  "code": {
+    "dopa": "841003"
+  },
+  "parent": {
+    "id": "8410",
+    "level": 2,
+    "name": {
+      "th": "พนม",
+      "en": "Phanom",
+      "slug": "phanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8410",
+      "level": 2,
+      "name": {
+        "th": "พนม",
+        "en": "Phanom",
+        "slug": "phanom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "84250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.857",
+    "lon": "98.688"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-sok-841003/"
+  }
+}

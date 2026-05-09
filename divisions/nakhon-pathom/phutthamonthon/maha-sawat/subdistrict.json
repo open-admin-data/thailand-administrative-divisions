@@ -1,0 +1,61 @@
+{
+  "id": "730703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มหาสวัสดิ์",
+    "en": "Maha Sawat",
+    "slug": "maha-sawat"
+  },
+  "code": {
+    "dopa": "730703"
+  },
+  "parent": {
+    "id": "7307",
+    "level": 2,
+    "name": {
+      "th": "พุทธมณฑล",
+      "en": "Phutthamonthon",
+      "slug": "phutthamonthon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7307",
+      "level": 2,
+      "name": {
+        "th": "พุทธมณฑล",
+        "en": "Phutthamonthon",
+        "slug": "phutthamonthon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "73170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.815",
+    "lon": "100.262"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/maha-sawat-730703/"
+  }
+}

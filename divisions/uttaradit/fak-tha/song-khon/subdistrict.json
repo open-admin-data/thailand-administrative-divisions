@@ -1,0 +1,61 @@
+{
+  "id": "530502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สองคอน",
+    "en": "Song Khon",
+    "slug": "song-khon"
+  },
+  "code": {
+    "dopa": "530502"
+  },
+  "parent": {
+    "id": "5305",
+    "level": 2,
+    "name": {
+      "th": "ฟากท่า",
+      "en": "Fak Tha",
+      "slug": "fak-tha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5305",
+      "level": 2,
+      "name": {
+        "th": "ฟากท่า",
+        "en": "Fak Tha",
+        "slug": "fak-tha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "53160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.955",
+    "lon": "100.906"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/song-khon-530502/"
+  }
+}

@@ -1,0 +1,246 @@
+[
+  {
+    "id": "95060301",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านแบหอ",
+      "en": "Ban Baeho",
+      "slug": "95060301"
+    },
+    "code": {
+      "dopa": "95060301"
+    },
+    "parent": {
+      "id": "950603",
+      "level": 3,
+      "name": {
+        "th": "กาลอ",
+        "en": "Kalo",
+        "slug": "kalo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      },
+      {
+        "id": "9506",
+        "level": 2,
+        "name": {
+          "th": "รามัน",
+          "en": "Raman",
+          "slug": "raman"
+        }
+      },
+      {
+        "id": "950603",
+        "level": 3,
+        "name": {
+          "th": "กาลอ",
+          "en": "Kalo",
+          "slug": "kalo"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.38259294513338",
+      "lon": "101.40409827232361"
+    },
+    "source": {}
+  },
+  {
+    "id": "95060302",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกาลอ",
+      "en": "Ban Kalo",
+      "slug": "95060302"
+    },
+    "code": {
+      "dopa": "95060302"
+    },
+    "parent": {
+      "id": "950603",
+      "level": 3,
+      "name": {
+        "th": "กาลอ",
+        "en": "Kalo",
+        "slug": "kalo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      },
+      {
+        "id": "9506",
+        "level": 2,
+        "name": {
+          "th": "รามัน",
+          "en": "Raman",
+          "slug": "raman"
+        }
+      },
+      {
+        "id": "950603",
+        "level": 3,
+        "name": {
+          "th": "กาลอ",
+          "en": "Kalo",
+          "slug": "kalo"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.402884300840602",
+      "lon": "101.3717320561409"
+    },
+    "source": {}
+  },
+  {
+    "id": "95060303",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านทำนบ",
+      "en": "Ban Thamnop",
+      "slug": "95060303"
+    },
+    "code": {
+      "dopa": "95060303"
+    },
+    "parent": {
+      "id": "950603",
+      "level": 3,
+      "name": {
+        "th": "กาลอ",
+        "en": "Kalo",
+        "slug": "kalo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      },
+      {
+        "id": "9506",
+        "level": 2,
+        "name": {
+          "th": "รามัน",
+          "en": "Raman",
+          "slug": "raman"
+        }
+      },
+      {
+        "id": "950603",
+        "level": 3,
+        "name": {
+          "th": "กาลอ",
+          "en": "Kalo",
+          "slug": "kalo"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.3952783021174815",
+      "lon": "101.37207269668579"
+    },
+    "source": {}
+  },
+  {
+    "id": "95060304",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านตะโละมีแย",
+      "en": "Ban Talo Miyae",
+      "slug": "95060304"
+    },
+    "code": {
+      "dopa": "95060304"
+    },
+    "parent": {
+      "id": "950603",
+      "level": 3,
+      "name": {
+        "th": "กาลอ",
+        "en": "Kalo",
+        "slug": "kalo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      },
+      {
+        "id": "9506",
+        "level": 2,
+        "name": {
+          "th": "รามัน",
+          "en": "Raman",
+          "slug": "raman"
+        }
+      },
+      {
+        "id": "950603",
+        "level": 3,
+        "name": {
+          "th": "กาลอ",
+          "en": "Kalo",
+          "slug": "kalo"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.397994457641849",
+      "lon": "101.37973845005035"
+    },
+    "source": {}
+  }
+]

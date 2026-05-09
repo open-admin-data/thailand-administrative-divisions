@@ -1,0 +1,61 @@
+{
+  "id": "630703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คีรีราษฎร์",
+    "en": "Khiri Rat",
+    "slug": "khiri-rat"
+  },
+  "code": {
+    "dopa": "630703"
+  },
+  "parent": {
+    "id": "6307",
+    "level": 2,
+    "name": {
+      "th": "พบพระ",
+      "en": "Phop Phra",
+      "slug": "phop-phra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6307",
+      "level": 2,
+      "name": {
+        "th": "พบพระ",
+        "en": "Phop Phra",
+        "slug": "phop-phra"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "63160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.537",
+    "lon": "98.845"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khiri-rat-630703/"
+  }
+}

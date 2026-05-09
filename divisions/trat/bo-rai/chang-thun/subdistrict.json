@@ -1,0 +1,61 @@
+{
+  "id": "230402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ช้างทูน",
+    "en": "Chang Thun",
+    "slug": "chang-thun"
+  },
+  "code": {
+    "dopa": "230402"
+  },
+  "parent": {
+    "id": "2304",
+    "level": 2,
+    "name": {
+      "th": "บ่อไร่",
+      "en": "Bo Rai",
+      "slug": "bo-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "th": "ตราด",
+        "en": "Trat",
+        "slug": "trat"
+      }
+    },
+    {
+      "id": "2304",
+      "level": 2,
+      "name": {
+        "th": "บ่อไร่",
+        "en": "Bo Rai",
+        "slug": "bo-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "23140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.585",
+    "lon": "102.469"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chang-thun-230402/"
+  }
+}

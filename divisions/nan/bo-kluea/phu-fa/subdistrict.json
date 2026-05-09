@@ -1,0 +1,61 @@
+{
+  "id": "551204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ภูฟ้า",
+    "en": "Phu Fa",
+    "slug": "phu-fa"
+  },
+  "code": {
+    "dopa": "551204"
+  },
+  "parent": {
+    "id": "5512",
+    "level": 2,
+    "name": {
+      "th": "บ่อเกลือ",
+      "en": "Bo Kluea",
+      "slug": "bo-kluea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5512",
+      "level": 2,
+      "name": {
+        "th": "บ่อเกลือ",
+        "en": "Bo Kluea",
+        "slug": "bo-kluea"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "55220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.973",
+    "lon": "101.201"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phu-fa-551204/"
+  }
+}

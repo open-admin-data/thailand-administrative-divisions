@@ -1,0 +1,61 @@
+{
+  "id": "460202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยอดแกง",
+    "en": "Yot Kaeng",
+    "slug": "yot-kaeng"
+  },
+  "code": {
+    "dopa": "460202"
+  },
+  "parent": {
+    "id": "4602",
+    "level": 2,
+    "name": {
+      "th": "นามน",
+      "en": "Na Mon",
+      "slug": "na-mon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4602",
+      "level": 2,
+      "name": {
+        "th": "นามน",
+        "en": "Na Mon",
+        "slug": "na-mon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "46230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.622",
+    "lon": "103.735"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yot-kaeng-460202/"
+  }
+}

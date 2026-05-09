@@ -1,0 +1,61 @@
+{
+  "id": "160705",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทะเลวังวัด",
+    "en": "Thale Wang Wat",
+    "slug": "thale-wang-wat"
+  },
+  "code": {
+    "dopa": "160705"
+  },
+  "parent": {
+    "id": "1607",
+    "level": 2,
+    "name": {
+      "th": "ท่าหลวง",
+      "en": "Tha Luang",
+      "slug": "tha-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1607",
+      "level": 2,
+      "name": {
+        "th": "ท่าหลวง",
+        "en": "Tha Luang",
+        "slug": "tha-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "15230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.023",
+    "lon": "101.184"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thale-wang-wat-160705/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "100106",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง เสาชิงช้า",
+    "en": "Sao Chingcha",
+    "slug": "sao-chingcha"
+  },
+  "code": {
+    "dopa": "100106"
+  },
+  "parent": {
+    "id": "1001",
+    "level": 2,
+    "name": {
+      "th": "เขต พระนคร",
+      "en": "Khet Phra Nakhon",
+      "slug": "khet-phra-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1001",
+      "level": 2,
+      "name": {
+        "th": "เขต พระนคร",
+        "en": "Khet Phra Nakhon",
+        "slug": "khet-phra-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10200"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.753",
+    "lon": "100.500"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sao-chingcha-100106/"
+  }
+}

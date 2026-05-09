@@ -1,0 +1,50 @@
+{
+  "id": "7101",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองกาญจนบุรี",
+    "en": "Mueang Kanchanaburi",
+    "slug": "mueang-kanchanaburi"
+  },
+  "code": {
+    "dopa": "7101"
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "th": "กาญจนบุรี",
+      "en": "Kanchanaburi",
+      "slug": "kanchanaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 112
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.035",
+    "lon": "99.503"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-kanchanaburi-7101/"
+  }
+}

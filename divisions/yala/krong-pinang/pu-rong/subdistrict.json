@@ -1,0 +1,61 @@
+{
+  "id": "950804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปุโรง",
+    "en": "Pu Rong",
+    "slug": "pu-rong"
+  },
+  "code": {
+    "dopa": "950804"
+  },
+  "parent": {
+    "id": "9508",
+    "level": 2,
+    "name": {
+      "th": "กรงปีนัง",
+      "en": "Krong Pinang",
+      "slug": "krong-pinang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9508",
+      "level": 2,
+      "name": {
+        "th": "กรงปีนัง",
+        "en": "Krong Pinang",
+        "slug": "krong-pinang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "95000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.456",
+    "lon": "101.230"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pu-rong-950804/"
+  }
+}

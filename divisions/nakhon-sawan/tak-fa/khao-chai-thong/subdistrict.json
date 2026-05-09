@@ -1,0 +1,61 @@
+{
+  "id": "601207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาชายธง",
+    "en": "Khao Chai Thong",
+    "slug": "khao-chai-thong"
+  },
+  "code": {
+    "dopa": "601207"
+  },
+  "parent": {
+    "id": "6012",
+    "level": 2,
+    "name": {
+      "th": "ตากฟ้า",
+      "en": "Tak Fa",
+      "slug": "tak-fa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6012",
+      "level": 2,
+      "name": {
+        "th": "ตากฟ้า",
+        "en": "Tak Fa",
+        "slug": "tak-fa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "60190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.278",
+    "lon": "100.448"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-chai-thong-601207/"
+  }
+}

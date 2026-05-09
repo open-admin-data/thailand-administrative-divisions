@@ -1,0 +1,61 @@
+{
+  "id": "610609",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองจอก",
+    "en": "Nong Chok",
+    "slug": "nong-chok"
+  },
+  "code": {
+    "dopa": "610609"
+  },
+  "parent": {
+    "id": "6106",
+    "level": 2,
+    "name": {
+      "th": "บ้านไร่",
+      "en": "Ban Rai",
+      "slug": "ban-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6106",
+      "level": 2,
+      "name": {
+        "th": "บ้านไร่",
+        "en": "Ban Rai",
+        "slug": "ban-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "61180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.047",
+    "lon": "99.685"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-chok-610609/"
+  }
+}

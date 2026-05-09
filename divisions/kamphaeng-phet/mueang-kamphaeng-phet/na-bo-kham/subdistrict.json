@@ -1,0 +1,61 @@
+{
+  "id": "620104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาบ่อคำ",
+    "en": "Na Bo Kham",
+    "slug": "na-bo-kham"
+  },
+  "code": {
+    "dopa": "620104"
+  },
+  "parent": {
+    "id": "6201",
+    "level": 2,
+    "name": {
+      "th": "เมืองกำแพงเพชร",
+      "en": "Mueang Kamphaeng Phet",
+      "slug": "mueang-kamphaeng-phet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6201",
+      "level": 2,
+      "name": {
+        "th": "เมืองกำแพงเพชร",
+        "en": "Mueang Kamphaeng Phet",
+        "slug": "mueang-kamphaeng-phet"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 25
+  },
+  "zip_codes": [
+    "62000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.458",
+    "lon": "99.321"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-bo-kham-620104/"
+  }
+}

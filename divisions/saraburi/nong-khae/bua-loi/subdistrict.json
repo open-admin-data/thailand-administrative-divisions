@@ -1,0 +1,61 @@
+{
+  "id": "190306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บัวลอย",
+    "en": "Bua Loi",
+    "slug": "bua-loi"
+  },
+  "code": {
+    "dopa": "190306"
+  },
+  "parent": {
+    "id": "1903",
+    "level": 2,
+    "name": {
+      "th": "หนองแค",
+      "en": "Nong Khae",
+      "slug": "nong-khae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1903",
+      "level": 2,
+      "name": {
+        "th": "หนองแค",
+        "en": "Nong Khae",
+        "slug": "nong-khae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "18230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.404",
+    "lon": "100.851"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bua-loi-190306/"
+  }
+}

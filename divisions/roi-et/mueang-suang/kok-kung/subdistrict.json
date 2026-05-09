@@ -1,0 +1,61 @@
+{
+  "id": "451204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กกกุง",
+    "en": "Kok Kung",
+    "slug": "kok-kung"
+  },
+  "code": {
+    "dopa": "451204"
+  },
+  "parent": {
+    "id": "4512",
+    "level": 2,
+    "name": {
+      "th": "เมืองสรวง",
+      "en": "Mueang Suang",
+      "slug": "mueang-suang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4512",
+      "level": 2,
+      "name": {
+        "th": "เมืองสรวง",
+        "en": "Mueang Suang",
+        "slug": "mueang-suang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "45220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.770",
+    "lon": "103.758"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kok-kung-451204/"
+  }
+}

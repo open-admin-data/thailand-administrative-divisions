@@ -1,0 +1,38 @@
+{
+  "id": "83",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ภูเก็ต",
+    "en": "Phuket",
+    "slug": "phuket"
+  },
+  "code": {
+    "dopa": "83",
+    "iso": "TH-83"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 3,
+    "subdistricts": 16,
+    "villages": 137
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern"
+    }
+  },
+  "geo": {
+    "lat": "7.924",
+    "lon": "98.455"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/phuket-83/"
+  }
+}

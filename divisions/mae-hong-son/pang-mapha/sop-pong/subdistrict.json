@@ -1,0 +1,61 @@
+{
+  "id": "580701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สบป่อง",
+    "en": "Sop Pong",
+    "slug": "sop-pong"
+  },
+  "code": {
+    "dopa": "580701"
+  },
+  "parent": {
+    "id": "5807",
+    "level": 2,
+    "name": {
+      "th": "ปางมะผ้า",
+      "en": "Pang Mapha",
+      "slug": "pang-mapha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    },
+    {
+      "id": "5807",
+      "level": 2,
+      "name": {
+        "th": "ปางมะผ้า",
+        "en": "Pang Mapha",
+        "slug": "pang-mapha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "58150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.453",
+    "lon": "98.169"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sop-pong-580701/"
+  }
+}

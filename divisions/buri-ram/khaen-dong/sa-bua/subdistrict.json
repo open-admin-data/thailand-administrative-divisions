@@ -1,0 +1,61 @@
+{
+  "id": "312203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สระบัว",
+    "en": "Sa Bua",
+    "slug": "sa-bua"
+  },
+  "code": {
+    "dopa": "312203"
+  },
+  "parent": {
+    "id": "3122",
+    "level": 2,
+    "name": {
+      "th": "แคนดง",
+      "en": "Khaen Dong",
+      "slug": "khaen-dong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3122",
+      "level": 2,
+      "name": {
+        "th": "แคนดง",
+        "en": "Khaen Dong",
+        "slug": "khaen-dong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "31150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.320",
+    "lon": "103.077"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sa-bua-312203/"
+  }
+}

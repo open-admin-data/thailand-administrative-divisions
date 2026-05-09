@@ -1,0 +1,61 @@
+{
+  "id": "530401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แสนตอ",
+    "en": "Saen To",
+    "slug": "saen-to"
+  },
+  "code": {
+    "dopa": "530401"
+  },
+  "parent": {
+    "id": "5304",
+    "level": 2,
+    "name": {
+      "th": "น้ำปาด",
+      "en": "Nam Pat",
+      "slug": "nam-pat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5304",
+      "level": 2,
+      "name": {
+        "th": "น้ำปาด",
+        "en": "Nam Pat",
+        "slug": "nam-pat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "53110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.720",
+    "lon": "100.646"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/saen-to-530401/"
+  }
+}

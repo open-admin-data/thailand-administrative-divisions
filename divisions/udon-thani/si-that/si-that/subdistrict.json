@@ -1,0 +1,61 @@
+{
+  "id": "410901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีธาตุ",
+    "en": "Si That",
+    "slug": "si-that"
+  },
+  "code": {
+    "dopa": "410901"
+  },
+  "parent": {
+    "id": "4109",
+    "level": 2,
+    "name": {
+      "th": "ศรีธาตุ",
+      "en": "Si That",
+      "slug": "si-that"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4109",
+      "level": 2,
+      "name": {
+        "th": "ศรีธาตุ",
+        "en": "Si That",
+        "slug": "si-that"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "41230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.987",
+    "lon": "103.211"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-that-410901/"
+  }
+}

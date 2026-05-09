@@ -1,0 +1,38 @@
+{
+  "id": "22",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "จันทบุรี",
+    "en": "Chanthaburi",
+    "slug": "chanthaburi"
+  },
+  "code": {
+    "dopa": "22",
+    "iso": "TH-22"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 10,
+    "subdistricts": 76,
+    "villages": 770
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern"
+    }
+  },
+  "geo": {
+    "lat": "12.465",
+    "lon": "102.066"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/chanthaburi-22/"
+  }
+}

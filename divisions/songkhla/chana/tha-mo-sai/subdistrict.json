@@ -1,0 +1,61 @@
+{
+  "id": "900309",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าหมอไทร",
+    "en": "Tha Mo Sai",
+    "slug": "tha-mo-sai"
+  },
+  "code": {
+    "dopa": "900309"
+  },
+  "parent": {
+    "id": "9003",
+    "level": 2,
+    "name": {
+      "th": "จะนะ",
+      "en": "Chana",
+      "slug": "chana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "th": "จะนะ",
+        "en": "Chana",
+        "slug": "chana"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "90130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.794",
+    "lon": "100.751"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-mo-sai-900309/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "810202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาดิน",
+    "en": "Khao Din",
+    "slug": "khao-din"
+  },
+  "code": {
+    "dopa": "810202"
+  },
+  "parent": {
+    "id": "8102",
+    "level": 2,
+    "name": {
+      "th": "เขาพนม",
+      "en": "Khao Phanom",
+      "slug": "khao-phanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8102",
+      "level": 2,
+      "name": {
+        "th": "เขาพนม",
+        "en": "Khao Phanom",
+        "slug": "khao-phanom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "81140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.342",
+    "lon": "99.167"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-din-810202/"
+  }
+}

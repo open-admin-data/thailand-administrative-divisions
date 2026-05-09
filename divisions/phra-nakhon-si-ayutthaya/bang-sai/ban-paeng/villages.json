@@ -1,0 +1,185 @@
+[
+  {
+    "id": "14040401",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านแป้งใต้",
+      "en": "Ban Paeng Tai",
+      "slug": "14040401"
+    },
+    "code": {
+      "dopa": "14040401"
+    },
+    "parent": {
+      "id": "140404",
+      "level": 3,
+      "name": {
+        "th": "บ้านแป้ง",
+        "en": "Ban Paeng",
+        "slug": "ban-paeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "th": "บางไทร",
+          "en": "Bang Sai",
+          "slug": "bang-sai"
+        }
+      },
+      {
+        "id": "140404",
+        "level": 3,
+        "name": {
+          "th": "บ้านแป้ง",
+          "en": "Ban Paeng",
+          "slug": "ban-paeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.228864430313633",
+      "lon": "100.48621416091919"
+    },
+    "source": {}
+  },
+  {
+    "id": "14040402",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านแป้ง",
+      "en": "Ban Paeng",
+      "slug": "14040402"
+    },
+    "code": {
+      "dopa": "14040402"
+    },
+    "parent": {
+      "id": "140404",
+      "level": 3,
+      "name": {
+        "th": "บ้านแป้ง",
+        "en": "Ban Paeng",
+        "slug": "ban-paeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "th": "บางไทร",
+          "en": "Bang Sai",
+          "slug": "bang-sai"
+        }
+      },
+      {
+        "id": "140404",
+        "level": 3,
+        "name": {
+          "th": "บ้านแป้ง",
+          "en": "Ban Paeng",
+          "slug": "ban-paeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.232367799740858",
+      "lon": "100.48501119017601"
+    },
+    "source": {}
+  },
+  {
+    "id": "14040403",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านลาว",
+      "en": "Ban Lao",
+      "slug": "14040403"
+    },
+    "code": {
+      "dopa": "14040403"
+    },
+    "parent": {
+      "id": "140404",
+      "level": 3,
+      "name": {
+        "th": "บ้านแป้ง",
+        "en": "Ban Paeng",
+        "slug": "ban-paeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      },
+      {
+        "id": "1404",
+        "level": 2,
+        "name": {
+          "th": "บางไทร",
+          "en": "Bang Sai",
+          "slug": "bang-sai"
+        }
+      },
+      {
+        "id": "140404",
+        "level": 3,
+        "name": {
+          "th": "บ้านแป้ง",
+          "en": "Ban Paeng",
+          "slug": "ban-paeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.236960446264053",
+      "lon": "100.48565223813057"
+    },
+    "source": {}
+  }
+]

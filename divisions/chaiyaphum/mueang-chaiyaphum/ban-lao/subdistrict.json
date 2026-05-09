@@ -1,0 +1,61 @@
+{
+  "id": "360108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านเล่า",
+    "en": "Ban Lao",
+    "slug": "ban-lao"
+  },
+  "code": {
+    "dopa": "360108"
+  },
+  "parent": {
+    "id": "3601",
+    "level": 2,
+    "name": {
+      "th": "เมืองชัยภูมิ",
+      "en": "Mueang Chaiyaphum",
+      "slug": "mueang-chaiyaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3601",
+      "level": 2,
+      "name": {
+        "th": "เมืองชัยภูมิ",
+        "en": "Mueang Chaiyaphum",
+        "slug": "mueang-chaiyaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "36000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.872",
+    "lon": "102.061"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-lao-360108/"
+  }
+}

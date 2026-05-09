@@ -1,0 +1,61 @@
+{
+  "id": "540204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ร้องเข็ม",
+    "en": "Rong Khem",
+    "slug": "rong-khem"
+  },
+  "code": {
+    "dopa": "540204"
+  },
+  "parent": {
+    "id": "5402",
+    "level": 2,
+    "name": {
+      "th": "ร้องกวาง",
+      "en": "Rong Kwang",
+      "slug": "rong-kwang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    {
+      "id": "5402",
+      "level": 2,
+      "name": {
+        "th": "ร้องกวาง",
+        "en": "Rong Kwang",
+        "slug": "rong-kwang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "54140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.293",
+    "lon": "100.313"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rong-khem-540204/"
+  }
+}

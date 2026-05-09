@@ -1,0 +1,61 @@
+{
+  "id": "510501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งหัวช้าง",
+    "en": "Thung Hua Chang",
+    "slug": "thung-hua-chang"
+  },
+  "code": {
+    "dopa": "510501"
+  },
+  "parent": {
+    "id": "5105",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งหัวช้าง",
+      "en": "Thung Hua Chang",
+      "slug": "thung-hua-chang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5105",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งหัวช้าง",
+        "en": "Thung Hua Chang",
+        "slug": "thung-hua-chang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "51160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.983",
+    "lon": "99.048"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-hua-chang-510501/"
+  }
+}

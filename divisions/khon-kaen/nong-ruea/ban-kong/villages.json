@@ -1,0 +1,612 @@
+[
+  {
+    "id": "40040301",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกงเก่า",
+      "en": "Ban Kong Kao",
+      "slug": "40040301"
+    },
+    "code": {
+      "dopa": "40040301"
+    },
+    "parent": {
+      "id": "400403",
+      "level": 3,
+      "name": {
+        "th": "บ้านกง",
+        "en": "Ban Kong",
+        "slug": "ban-kong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4004",
+        "level": 2,
+        "name": {
+          "th": "หนองเรือ",
+          "en": "Nong Ruea",
+          "slug": "nong-ruea"
+        }
+      },
+      {
+        "id": "400403",
+        "level": 3,
+        "name": {
+          "th": "บ้านกง",
+          "en": "Ban Kong",
+          "slug": "ban-kong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.513839375828876",
+      "lon": "102.54414170980453"
+    },
+    "source": {}
+  },
+  {
+    "id": "40040302",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกงกลาง",
+      "en": "Ban Kong Klang",
+      "slug": "40040302"
+    },
+    "code": {
+      "dopa": "40040302"
+    },
+    "parent": {
+      "id": "400403",
+      "level": 3,
+      "name": {
+        "th": "บ้านกง",
+        "en": "Ban Kong",
+        "slug": "ban-kong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4004",
+        "level": 2,
+        "name": {
+          "th": "หนองเรือ",
+          "en": "Nong Ruea",
+          "slug": "nong-ruea"
+        }
+      },
+      {
+        "id": "400403",
+        "level": 3,
+        "name": {
+          "th": "บ้านกง",
+          "en": "Ban Kong",
+          "slug": "ban-kong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.51808499267358",
+      "lon": "102.53614068031311"
+    },
+    "source": {}
+  },
+  {
+    "id": "40040303",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเปือย",
+      "en": "Ban Pueai",
+      "slug": "40040303"
+    },
+    "code": {
+      "dopa": "40040303"
+    },
+    "parent": {
+      "id": "400403",
+      "level": 3,
+      "name": {
+        "th": "บ้านกง",
+        "en": "Ban Kong",
+        "slug": "ban-kong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4004",
+        "level": 2,
+        "name": {
+          "th": "หนองเรือ",
+          "en": "Nong Ruea",
+          "slug": "nong-ruea"
+        }
+      },
+      {
+        "id": "400403",
+        "level": 3,
+        "name": {
+          "th": "บ้านกง",
+          "en": "Ban Kong",
+          "slug": "ban-kong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.515424742759272",
+      "lon": "102.52911731600761"
+    },
+    "source": {}
+  },
+  {
+    "id": "40040304",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองสระ",
+      "en": "Ban Nong Sa",
+      "slug": "40040304"
+    },
+    "code": {
+      "dopa": "40040304"
+    },
+    "parent": {
+      "id": "400403",
+      "level": 3,
+      "name": {
+        "th": "บ้านกง",
+        "en": "Ban Kong",
+        "slug": "ban-kong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4004",
+        "level": 2,
+        "name": {
+          "th": "หนองเรือ",
+          "en": "Nong Ruea",
+          "slug": "nong-ruea"
+        }
+      },
+      {
+        "id": "400403",
+        "level": 3,
+        "name": {
+          "th": "บ้านกง",
+          "en": "Ban Kong",
+          "slug": "ban-kong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.495024847987008",
+      "lon": "102.51647606492043"
+    },
+    "source": {}
+  },
+  {
+    "id": "40040305",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองเม็ก",
+      "en": "Ban Nong Mek",
+      "slug": "40040305"
+    },
+    "code": {
+      "dopa": "40040305"
+    },
+    "parent": {
+      "id": "400403",
+      "level": 3,
+      "name": {
+        "th": "บ้านกง",
+        "en": "Ban Kong",
+        "slug": "ban-kong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4004",
+        "level": 2,
+        "name": {
+          "th": "หนองเรือ",
+          "en": "Nong Ruea",
+          "slug": "nong-ruea"
+        }
+      },
+      {
+        "id": "400403",
+        "level": 3,
+        "name": {
+          "th": "บ้านกง",
+          "en": "Ban Kong",
+          "slug": "ban-kong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.523046665904538",
+      "lon": "102.51742154359818"
+    },
+    "source": {}
+  },
+  {
+    "id": "40040306",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองทุ่ม",
+      "en": "Ban Nong Thum",
+      "slug": "40040306"
+    },
+    "code": {
+      "dopa": "40040306"
+    },
+    "parent": {
+      "id": "400403",
+      "level": 3,
+      "name": {
+        "th": "บ้านกง",
+        "en": "Ban Kong",
+        "slug": "ban-kong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4004",
+        "level": 2,
+        "name": {
+          "th": "หนองเรือ",
+          "en": "Nong Ruea",
+          "slug": "nong-ruea"
+        }
+      },
+      {
+        "id": "400403",
+        "level": 3,
+        "name": {
+          "th": "บ้านกง",
+          "en": "Ban Kong",
+          "slug": "ban-kong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.52982874171988",
+      "lon": "102.5182181596756"
+    },
+    "source": {}
+  },
+  {
+    "id": "40040307",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านท่าลี่",
+      "en": "Ban Tha Li",
+      "slug": "40040307"
+    },
+    "code": {
+      "dopa": "40040307"
+    },
+    "parent": {
+      "id": "400403",
+      "level": 3,
+      "name": {
+        "th": "บ้านกง",
+        "en": "Ban Kong",
+        "slug": "ban-kong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4004",
+        "level": 2,
+        "name": {
+          "th": "หนองเรือ",
+          "en": "Nong Ruea",
+          "slug": "nong-ruea"
+        }
+      },
+      {
+        "id": "400403",
+        "level": 3,
+        "name": {
+          "th": "บ้านกง",
+          "en": "Ban Kong",
+          "slug": "ban-kong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.506697991632763",
+      "lon": "102.5323560833931"
+    },
+    "source": {}
+  },
+  {
+    "id": "40040308",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านดอนโมง",
+      "en": "Ban Don Mong",
+      "slug": "40040308"
+    },
+    "code": {
+      "dopa": "40040308"
+    },
+    "parent": {
+      "id": "400403",
+      "level": 3,
+      "name": {
+        "th": "บ้านกง",
+        "en": "Ban Kong",
+        "slug": "ban-kong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4004",
+        "level": 2,
+        "name": {
+          "th": "หนองเรือ",
+          "en": "Nong Ruea",
+          "slug": "nong-ruea"
+        }
+      },
+      {
+        "id": "400403",
+        "level": 3,
+        "name": {
+          "th": "บ้านกง",
+          "en": "Ban Kong",
+          "slug": "ban-kong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.495435053013647",
+      "lon": "102.54503890872002"
+    },
+    "source": {}
+  },
+  {
+    "id": "40040309",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านตลาดดอนโมง",
+      "en": "Ban Talat Don Mong",
+      "slug": "40040309"
+    },
+    "code": {
+      "dopa": "40040309"
+    },
+    "parent": {
+      "id": "400403",
+      "level": 3,
+      "name": {
+        "th": "บ้านกง",
+        "en": "Ban Kong",
+        "slug": "ban-kong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4004",
+        "level": 2,
+        "name": {
+          "th": "หนองเรือ",
+          "en": "Nong Ruea",
+          "slug": "nong-ruea"
+        }
+      },
+      {
+        "id": "400403",
+        "level": 3,
+        "name": {
+          "th": "บ้านกง",
+          "en": "Ban Kong",
+          "slug": "ban-kong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.48830199092072",
+      "lon": "102.54387483000755"
+    },
+    "source": {}
+  },
+  {
+    "id": "40040310",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านโนนศิลา",
+      "en": "Ban Non Sila",
+      "slug": "40040310"
+    },
+    "code": {
+      "dopa": "40040310"
+    },
+    "parent": {
+      "id": "400403",
+      "level": 3,
+      "name": {
+        "th": "บ้านกง",
+        "en": "Ban Kong",
+        "slug": "ban-kong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4004",
+        "level": 2,
+        "name": {
+          "th": "หนองเรือ",
+          "en": "Nong Ruea",
+          "slug": "nong-ruea"
+        }
+      },
+      {
+        "id": "400403",
+        "level": 3,
+        "name": {
+          "th": "บ้านกง",
+          "en": "Ban Kong",
+          "slug": "ban-kong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.534867251951937",
+      "lon": "102.52922862768173"
+    },
+    "source": {}
+  }
+]

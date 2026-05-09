@@ -1,0 +1,50 @@
+{
+  "id": "6401",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองสุโขทัย",
+    "en": "Mueang Sukhothai",
+    "slug": "mueang-sukhothai"
+  },
+  "code": {
+    "dopa": "6401"
+  },
+  "parent": {
+    "id": "64",
+    "level": 1,
+    "name": {
+      "th": "สุโขทัย",
+      "en": "Sukhothai",
+      "slug": "sukhothai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 98
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.012",
+    "lon": "99.822"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-sukhothai-6401/"
+  }
+}

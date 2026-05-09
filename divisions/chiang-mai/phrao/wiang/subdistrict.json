@@ -1,0 +1,61 @@
+{
+  "id": "501101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เวียง",
+    "en": "Wiang",
+    "slug": "wiang"
+  },
+  "code": {
+    "dopa": "501101"
+  },
+  "parent": {
+    "id": "5011",
+    "level": 2,
+    "name": {
+      "th": "พร้าว",
+      "en": "Phrao",
+      "slug": "phrao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5011",
+      "level": 2,
+      "name": {
+        "th": "พร้าว",
+        "en": "Phrao",
+        "slug": "phrao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "50190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.378",
+    "lon": "99.203"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wiang-501101/"
+  }
+}

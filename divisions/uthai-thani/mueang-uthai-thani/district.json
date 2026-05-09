@@ -1,0 +1,50 @@
+{
+  "id": "6101",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองอุทัยธานี",
+    "en": "Mueang Uthai Thani",
+    "slug": "mueang-uthai-thani"
+  },
+  "code": {
+    "dopa": "6101"
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "th": "อุทัยธานี",
+      "en": "Uthai Thani",
+      "slug": "uthai-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 14,
+    "villages": 101
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.455",
+    "lon": "99.963"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-uthai-thani-6101/"
+  }
+}

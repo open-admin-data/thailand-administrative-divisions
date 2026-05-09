@@ -1,0 +1,50 @@
+{
+  "id": "3429",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "นาเยีย",
+    "en": "Na Yia",
+    "slug": "na-yia"
+  },
+  "code": {
+    "dopa": "3429"
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 35
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.987",
+    "lon": "105.068"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/na-yia-3429/"
+  }
+}

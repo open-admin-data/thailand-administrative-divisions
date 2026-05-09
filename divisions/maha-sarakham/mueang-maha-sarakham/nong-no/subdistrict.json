@@ -1,0 +1,61 @@
+{
+  "id": "440113",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองโน",
+    "en": "Nong No",
+    "slug": "nong-no"
+  },
+  "code": {
+    "dopa": "440113"
+  },
+  "parent": {
+    "id": "4401",
+    "level": 2,
+    "name": {
+      "th": "เมืองมหาสารคาม",
+      "en": "Mueang Maha Sarakham",
+      "slug": "mueang-maha-sarakham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4401",
+      "level": 2,
+      "name": {
+        "th": "เมืองมหาสารคาม",
+        "en": "Mueang Maha Sarakham",
+        "slug": "mueang-maha-sarakham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "44000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.098",
+    "lon": "103.252"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-no-440113/"
+  }
+}

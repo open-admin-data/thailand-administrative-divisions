@@ -1,0 +1,61 @@
+{
+  "id": "400509",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาเพียง",
+    "en": "Na Phiang",
+    "slug": "na-phiang"
+  },
+  "code": {
+    "dopa": "400509"
+  },
+  "parent": {
+    "id": "4005",
+    "level": 2,
+    "name": {
+      "th": "ชุมแพ",
+      "en": "Chum Phae",
+      "slug": "chum-phae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4005",
+      "level": 2,
+      "name": {
+        "th": "ชุมแพ",
+        "en": "Chum Phae",
+        "slug": "chum-phae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "40130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.490",
+    "lon": "102.270"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-phiang-400509/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "4503",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปทุมรัตต์",
+    "en": "Pathum Rat",
+    "slug": "pathum-rat"
+  },
+  "code": {
+    "dopa": "4503"
+  },
+  "parent": {
+    "id": "45",
+    "level": 1,
+    "name": {
+      "th": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 101
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.650",
+    "lon": "103.359"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pathum-rat-4503/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "640611",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านซ่าน",
+    "en": "Ban San",
+    "slug": "ban-san"
+  },
+  "code": {
+    "dopa": "640611"
+  },
+  "parent": {
+    "id": "6406",
+    "level": 2,
+    "name": {
+      "th": "ศรีสำโรง",
+      "en": "Si Samrong",
+      "slug": "si-samrong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6406",
+      "level": 2,
+      "name": {
+        "th": "ศรีสำโรง",
+        "en": "Si Samrong",
+        "slug": "si-samrong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "64120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.203",
+    "lon": "99.770"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-san-640611/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "960302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลุโบะสาวอ",
+    "en": "Lubo Sawo",
+    "slug": "lubo-sawo"
+  },
+  "code": {
+    "dopa": "960302"
+  },
+  "parent": {
+    "id": "9603",
+    "level": 2,
+    "name": {
+      "th": "บาเจาะ",
+      "en": "Bacho",
+      "slug": "bacho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9603",
+      "level": 2,
+      "name": {
+        "th": "บาเจาะ",
+        "en": "Bacho",
+        "slug": "bacho"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "96170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.486",
+    "lon": "101.667"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lubo-sawo-960302/"
+  }
+}

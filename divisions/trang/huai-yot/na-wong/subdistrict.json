@@ -1,0 +1,61 @@
+{
+  "id": "920616",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาวง",
+    "en": "Na Wong",
+    "slug": "na-wong"
+  },
+  "code": {
+    "dopa": "920616"
+  },
+  "parent": {
+    "id": "9206",
+    "level": 2,
+    "name": {
+      "th": "ห้วยยอด",
+      "en": "Huai Yot",
+      "slug": "huai-yot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9206",
+      "level": 2,
+      "name": {
+        "th": "ห้วยยอด",
+        "en": "Huai Yot",
+        "slug": "huai-yot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "92210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.740",
+    "lon": "99.511"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-wong-920616/"
+  }
+}

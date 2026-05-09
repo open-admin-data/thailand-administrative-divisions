@@ -1,0 +1,61 @@
+{
+  "id": "100306",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง คู้ฝั่งเหนือ",
+    "en": "Khu Fang Nuea",
+    "slug": "khu-fang-nuea"
+  },
+  "code": {
+    "dopa": "100306"
+  },
+  "parent": {
+    "id": "1003",
+    "level": 2,
+    "name": {
+      "th": "เขต หนองจอก",
+      "en": "Nong Chok",
+      "slug": "nong-chok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1003",
+      "level": 2,
+      "name": {
+        "th": "เขต หนองจอก",
+        "en": "Nong Chok",
+        "slug": "nong-chok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10530"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.872",
+    "lon": "100.810"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khu-fang-nuea-100306/"
+  }
+}

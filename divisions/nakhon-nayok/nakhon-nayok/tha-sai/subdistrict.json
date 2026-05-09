@@ -1,0 +1,61 @@
+{
+  "id": "260105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าทราย",
+    "en": "Tha Sai",
+    "slug": "tha-sai"
+  },
+  "code": {
+    "dopa": "260105"
+  },
+  "parent": {
+    "id": "2601",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครนายก",
+      "en": "Nakhon Nayok",
+      "slug": "nakhon-nayok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    {
+      "id": "2601",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "26000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.174",
+    "lon": "101.111"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-sai-260105/"
+  }
+}

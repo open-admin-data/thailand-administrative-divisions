@@ -1,0 +1,61 @@
+{
+  "id": "110414",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สำโรง",
+    "en": "Samrong",
+    "slug": "samrong"
+  },
+  "code": {
+    "dopa": "110414"
+  },
+  "parent": {
+    "id": "1104",
+    "level": 2,
+    "name": {
+      "th": "พระประแดง",
+      "en": "Phra Pradaeng",
+      "slug": "phra-pradaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1104",
+      "level": 2,
+      "name": {
+        "th": "พระประแดง",
+        "en": "Phra Pradaeng",
+        "slug": "phra-pradaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "10130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.659",
+    "lon": "100.584"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samrong-110414/"
+  }
+}

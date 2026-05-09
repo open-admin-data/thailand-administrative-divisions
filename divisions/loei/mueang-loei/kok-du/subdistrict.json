@@ -1,0 +1,61 @@
+{
+  "id": "420104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กกดู่",
+    "en": "Kok Du",
+    "slug": "kok-du"
+  },
+  "code": {
+    "dopa": "420104"
+  },
+  "parent": {
+    "id": "4201",
+    "level": 2,
+    "name": {
+      "th": "เมืองเลย",
+      "en": "Mueang Loei",
+      "slug": "mueang-loei"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4201",
+      "level": 2,
+      "name": {
+        "th": "เมืองเลย",
+        "en": "Mueang Loei",
+        "slug": "mueang-loei"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "42000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.604",
+    "lon": "101.635"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kok-du-420104/"
+  }
+}

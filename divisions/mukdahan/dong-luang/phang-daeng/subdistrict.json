@@ -1,0 +1,61 @@
+{
+  "id": "490406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พังแดง",
+    "en": "Phang Daeng",
+    "slug": "phang-daeng"
+  },
+  "code": {
+    "dopa": "490406"
+  },
+  "parent": {
+    "id": "4904",
+    "level": 2,
+    "name": {
+      "th": "ดงหลวง",
+      "en": "Dong Luang",
+      "slug": "dong-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4904",
+      "level": 2,
+      "name": {
+        "th": "ดงหลวง",
+        "en": "Dong Luang",
+        "slug": "dong-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "49140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.797",
+    "lon": "104.373"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phang-daeng-490406/"
+  }
+}

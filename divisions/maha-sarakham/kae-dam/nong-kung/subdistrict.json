@@ -1,0 +1,61 @@
+{
+  "id": "440204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองกุง",
+    "en": "Nong Kung",
+    "slug": "nong-kung"
+  },
+  "code": {
+    "dopa": "440204"
+  },
+  "parent": {
+    "id": "4402",
+    "level": 2,
+    "name": {
+      "th": "แกดำ",
+      "en": "Kae Dam",
+      "slug": "kae-dam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4402",
+      "level": 2,
+      "name": {
+        "th": "แกดำ",
+        "en": "Kae Dam",
+        "slug": "kae-dam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "44190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.072",
+    "lon": "103.437"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-kung-440204/"
+  }
+}

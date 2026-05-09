@@ -1,0 +1,50 @@
+{
+  "id": "1035",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต จอมทอง",
+    "en": "Chom Thong",
+    "slug": "chom-thong"
+  },
+  "code": {
+    "dopa": "1035"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.702",
+    "lon": "100.476"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chom-thong-1035/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "5009",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ฝาง",
+    "en": "Fang",
+    "slug": "fang"
+  },
+  "code": {
+    "dopa": "5009"
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 89
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.879",
+    "lon": "99.209"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/fang-5009/"
+  }
+}

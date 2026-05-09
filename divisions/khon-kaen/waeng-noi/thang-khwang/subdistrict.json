@@ -1,0 +1,61 @@
+{
+  "id": "401406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทางขวาง",
+    "en": "Thang Khwang",
+    "slug": "thang-khwang"
+  },
+  "code": {
+    "dopa": "401406"
+  },
+  "parent": {
+    "id": "4014",
+    "level": 2,
+    "name": {
+      "th": "แวงน้อย",
+      "en": "Waeng Noi",
+      "slug": "waeng-noi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4014",
+      "level": 2,
+      "name": {
+        "th": "แวงน้อย",
+        "en": "Waeng Noi",
+        "slug": "waeng-noi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "40230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.758",
+    "lon": "102.429"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thang-khwang-401406/"
+  }
+}

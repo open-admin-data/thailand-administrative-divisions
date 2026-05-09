@@ -1,0 +1,61 @@
+{
+  "id": "530110",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านด่านนาขาม",
+    "en": "Ban Dan Na Kham",
+    "slug": "ban-dan-na-kham"
+  },
+  "code": {
+    "dopa": "530110"
+  },
+  "parent": {
+    "id": "5301",
+    "level": 2,
+    "name": {
+      "th": "เมืองอุตรดิตถ์",
+      "en": "Mueang Uttaradit",
+      "slug": "mueang-uttaradit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "th": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "53000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.784",
+    "lon": "100.161"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-dan-na-kham-530110/"
+  }
+}

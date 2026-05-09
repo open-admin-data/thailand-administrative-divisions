@@ -1,0 +1,61 @@
+{
+  "id": "440915",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกสีทองหลาง",
+    "en": "Khok Si Thonglang",
+    "slug": "khok-si-thonglang"
+  },
+  "code": {
+    "dopa": "440915"
+  },
+  "parent": {
+    "id": "4409",
+    "level": 2,
+    "name": {
+      "th": "วาปีปทุม",
+      "en": "Wapi Pathum",
+      "slug": "wapi-pathum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4409",
+      "level": 2,
+      "name": {
+        "th": "วาปีปทุม",
+        "en": "Wapi Pathum",
+        "slug": "wapi-pathum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "44120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.852",
+    "lon": "103.312"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-si-thonglang-440915/"
+  }
+}

@@ -1,0 +1,307 @@
+[
+  {
+    "id": "270309",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "โคคลาน",
+      "en": "Kho Khlan",
+      "slug": "kho-khlan"
+    },
+    "code": {
+      "dopa": "270309"
+    },
+    "parent": {
+      "id": "2703",
+      "level": 2,
+      "name": {
+        "th": "ตาพระยา",
+        "en": "Ta Phraya",
+        "slug": "ta-phraya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "th": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo"
+        }
+      },
+      {
+        "id": "2703",
+        "level": 2,
+        "name": {
+          "th": "ตาพระยา",
+          "en": "Ta Phraya",
+          "slug": "ta-phraya"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "27180"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.968",
+      "lon": "102.650"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/kho-khlan-270309/"
+    }
+  },
+  {
+    "id": "270301",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ตาพระยา",
+      "en": "Ta Phraya",
+      "slug": "ta-phraya"
+    },
+    "code": {
+      "dopa": "270301"
+    },
+    "parent": {
+      "id": "2703",
+      "level": 2,
+      "name": {
+        "th": "ตาพระยา",
+        "en": "Ta Phraya",
+        "slug": "ta-phraya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "th": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo"
+        }
+      },
+      {
+        "id": "2703",
+        "level": 2,
+        "name": {
+          "th": "ตาพระยา",
+          "en": "Ta Phraya",
+          "slug": "ta-phraya"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 17
+    },
+    "zip_codes": [
+      "27180"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.956",
+      "lon": "102.764"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ta-phraya-270301/"
+    }
+  },
+  {
+    "id": "270306",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ทัพราช",
+      "en": "Thap Rat",
+      "slug": "thap-rat"
+    },
+    "code": {
+      "dopa": "270306"
+    },
+    "parent": {
+      "id": "2703",
+      "level": 2,
+      "name": {
+        "th": "ตาพระยา",
+        "en": "Ta Phraya",
+        "slug": "ta-phraya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "th": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo"
+        }
+      },
+      {
+        "id": "2703",
+        "level": 2,
+        "name": {
+          "th": "ตาพระยา",
+          "en": "Ta Phraya",
+          "slug": "ta-phraya"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 17
+    },
+    "zip_codes": [
+      "27180"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.079",
+      "lon": "102.639"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/thap-rat-270306/"
+    }
+  },
+  {
+    "id": "270302",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ทัพเสด็จ",
+      "en": "Thap Sadet",
+      "slug": "thap-sadet"
+    },
+    "code": {
+      "dopa": "270302"
+    },
+    "parent": {
+      "id": "2703",
+      "level": 2,
+      "name": {
+        "th": "ตาพระยา",
+        "en": "Ta Phraya",
+        "slug": "ta-phraya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "th": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo"
+        }
+      },
+      {
+        "id": "2703",
+        "level": 2,
+        "name": {
+          "th": "ตาพระยา",
+          "en": "Ta Phraya",
+          "slug": "ta-phraya"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 12
+    },
+    "zip_codes": [
+      "27180"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.047",
+      "lon": "102.813"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/thap-sadet-270302/"
+    }
+  },
+  {
+    "id": "270307",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ทัพไทย",
+      "en": "Thap Thai",
+      "slug": "thap-thai"
+    },
+    "code": {
+      "dopa": "270307"
+    },
+    "parent": {
+      "id": "2703",
+      "level": 2,
+      "name": {
+        "th": "ตาพระยา",
+        "en": "Ta Phraya",
+        "slug": "ta-phraya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "th": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo"
+        }
+      },
+      {
+        "id": "2703",
+        "level": 2,
+        "name": {
+          "th": "ตาพระยา",
+          "en": "Ta Phraya",
+          "slug": "ta-phraya"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 12
+    },
+    "zip_codes": [
+      "27180"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.123",
+      "lon": "102.845"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/thap-thai-270307/"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "9209",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "รัษฎา",
+    "en": "Ratsada",
+    "slug": "ratsada"
+  },
+  "code": {
+    "dopa": "9209"
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "th": "ตรัง",
+      "en": "Trang",
+      "slug": "trang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 50
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.987",
+    "lon": "99.645"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ratsada-9209/"
+  }
+}

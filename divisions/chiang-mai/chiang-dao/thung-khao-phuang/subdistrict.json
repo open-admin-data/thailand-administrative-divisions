@@ -1,0 +1,61 @@
+{
+  "id": "500407",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งข้าวพวง",
+    "en": "Thung Khao Phuang",
+    "slug": "thung-khao-phuang"
+  },
+  "code": {
+    "dopa": "500407"
+  },
+  "parent": {
+    "id": "5004",
+    "level": 2,
+    "name": {
+      "th": "เชียงดาว",
+      "en": "Chiang Dao",
+      "slug": "chiang-dao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5004",
+      "level": 2,
+      "name": {
+        "th": "เชียงดาว",
+        "en": "Chiang Dao",
+        "slug": "chiang-dao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "50170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.552",
+    "lon": "98.906"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-khao-phuang-500407/"
+  }
+}

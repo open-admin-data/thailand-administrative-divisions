@@ -1,0 +1,61 @@
+{
+  "id": "530305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำหมัน",
+    "en": "Nam Man",
+    "slug": "nam-man"
+  },
+  "code": {
+    "dopa": "530305"
+  },
+  "parent": {
+    "id": "5303",
+    "level": 2,
+    "name": {
+      "th": "ท่าปลา",
+      "en": "Tha Pla",
+      "slug": "tha-pla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "th": "ท่าปลา",
+        "en": "Tha Pla",
+        "slug": "tha-pla"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "53150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.862",
+    "lon": "100.250"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-man-530305/"
+  }
+}

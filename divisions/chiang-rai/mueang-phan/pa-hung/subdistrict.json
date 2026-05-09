@@ -1,0 +1,61 @@
+{
+  "id": "570508",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าหุ่ง",
+    "en": "Pa Hung",
+    "slug": "pa-hung"
+  },
+  "code": {
+    "dopa": "570508"
+  },
+  "parent": {
+    "id": "5705",
+    "level": 2,
+    "name": {
+      "th": "พาน",
+      "en": "Mueang Phan",
+      "slug": "mueang-phan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5705",
+      "level": 2,
+      "name": {
+        "th": "พาน",
+        "en": "Mueang Phan",
+        "slug": "mueang-phan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "57120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.495",
+    "lon": "99.648"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-hung-570508/"
+  }
+}

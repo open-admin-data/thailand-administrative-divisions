@@ -1,0 +1,61 @@
+{
+  "id": "800604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านกลาง",
+    "en": "Ban Klang",
+    "slug": "ban-klang"
+  },
+  "code": {
+    "dopa": "800604"
+  },
+  "parent": {
+    "id": "8006",
+    "level": 2,
+    "name": {
+      "th": "เชียรใหญ่",
+      "en": "Chian Yai",
+      "slug": "chian-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8006",
+      "level": 2,
+      "name": {
+        "th": "เชียรใหญ่",
+        "en": "Chian Yai",
+        "slug": "chian-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "80190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.156",
+    "lon": "100.197"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-klang-800604/"
+  }
+}

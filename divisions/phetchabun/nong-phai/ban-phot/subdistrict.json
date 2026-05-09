@@ -1,0 +1,61 @@
+{
+  "id": "670703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านโภชน์",
+    "en": "Ban Phot",
+    "slug": "ban-phot"
+  },
+  "code": {
+    "dopa": "670703"
+  },
+  "parent": {
+    "id": "6707",
+    "level": 2,
+    "name": {
+      "th": "หนองไผ่",
+      "en": "Nong Phai",
+      "slug": "nong-phai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6707",
+      "level": 2,
+      "name": {
+        "th": "หนองไผ่",
+        "en": "Nong Phai",
+        "slug": "nong-phai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "67140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.933",
+    "lon": "100.928"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-phot-670703/"
+  }
+}

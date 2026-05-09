@@ -1,0 +1,61 @@
+{
+  "id": "360904",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านไร่",
+    "en": "Ban Rai",
+    "slug": "ban-rai"
+  },
+  "code": {
+    "dopa": "360904"
+  },
+  "parent": {
+    "id": "3609",
+    "level": 2,
+    "name": {
+      "th": "เทพสถิต",
+      "en": "Thep Sathit",
+      "slug": "thep-sathit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3609",
+      "level": 2,
+      "name": {
+        "th": "เทพสถิต",
+        "en": "Thep Sathit",
+        "slug": "thep-sathit"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "36230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.595",
+    "lon": "101.456"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-rai-360904/"
+  }
+}

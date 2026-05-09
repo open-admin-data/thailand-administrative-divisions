@@ -1,0 +1,28 @@
+# แขวง คลองขวาง (Khlong Khwang)
+
+[Home](../../../../) > [Bangkok](../../) > [Khet Phasi Charoen](../) > **Khlong Khwang**
+
+แขวง คลองขวาง (Khlong Khwang) is a subdistrict in เขต ภาษีเจริญ (Khet Phasi Charoen), กรุงเทพมหานคร (Bangkok), Thailand.
+
+## Overview / ภาพรวม
+
+| รายการ / Item | ข้อมูล / Details |
+|---------------|-----------------|
+| หมู่บ้าน / Villages | 0 |
+| รหัสไปรษณีย์ / Zip Code | 10160 |
+| DOPA Code | 102208 |
+| พิกัด / Coordinates | 13.738, 100.423 |
+| อำเภอ / District | เขต ภาษีเจริญ (Khet Phasi Charoen) |
+| จังหวัด / Province | กรุงเทพมหานคร (Bangkok) |
+
+*No village data available for this subdistrict.*
+
+## Data Files / ไฟล์ข้อมูล
+
+- [subdistrict.json](subdistrict.json) — Subdistrict metadata
+- [villages.json](villages.json) — All villages in Khlong Khwang (JSON)
+- [villages.csv](villages.csv) — CSV format
+
+---
+
+← Back to [เขต ภาษีเจริญ (Khet Phasi Charoen)](../)

@@ -1,0 +1,552 @@
+[
+  {
+    "id": "2405",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บ้านโพธิ์",
+      "en": "Ban Pho",
+      "slug": "ban-pho"
+    },
+    "code": {
+      "dopa": "2405"
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 17,
+      "villages": 73
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.633",
+      "lon": "101.078"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/ban-pho-2405/"
+    }
+  },
+  {
+    "id": "2402",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บางคล้า",
+      "en": "Bang Khla",
+      "slug": "bang-khla"
+    },
+    "code": {
+      "dopa": "2402"
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 9,
+      "villages": 66
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.722",
+      "lon": "101.210"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/bang-khla-2402/"
+    }
+  },
+  {
+    "id": "2403",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บางน้ำเปรี้ยว",
+      "en": "Bang Nam Priao",
+      "slug": "bang-nam-priao"
+    },
+    "code": {
+      "dopa": "2403"
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 10,
+      "villages": 148
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.858",
+      "lon": "101.115"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/bang-nam-priao-2403/"
+    }
+  },
+  {
+    "id": "2404",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บางปะกง",
+      "en": "Bang Pakong",
+      "slug": "bang-pakong"
+    },
+    "code": {
+      "dopa": "2404"
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 12,
+      "villages": 108
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.527",
+      "lon": "101.054"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/bang-pakong-2404/"
+    }
+  },
+  {
+    "id": "2411",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "คลองเขื่อน",
+      "en": "Khlong Khuean",
+      "slug": "khlong-khuean"
+    },
+    "code": {
+      "dopa": "2411"
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 5,
+      "villages": 32
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.721",
+      "lon": "101.150"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/khlong-khuean-2411/"
+    }
+  },
+  {
+    "id": "2401",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เมืองฉะเชิงเทรา",
+      "en": "Mueang Chachoengsao",
+      "slug": "mueang-chachoengsao"
+    },
+    "code": {
+      "dopa": "2401"
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 19,
+      "villages": 214
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.707",
+      "lon": "101.100"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/mueang-chachoengsao-2401/"
+    }
+  },
+  {
+    "id": "2406",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "พนมสารคาม",
+      "en": "Phanom Sarakham",
+      "slug": "phanom-sarakham"
+    },
+    "code": {
+      "dopa": "2406"
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 8,
+      "villages": 87
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.760",
+      "lon": "101.383"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/phanom-sarakham-2406/"
+    }
+  },
+  {
+    "id": "2409",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "แปลงยาว",
+      "en": "Plaeng Yao",
+      "slug": "plaeng-yao"
+    },
+    "code": {
+      "dopa": "2409"
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 4,
+      "villages": 48
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.599",
+      "lon": "101.293"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/plaeng-yao-2409/"
+    }
+  },
+  {
+    "id": "2407",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ราชสาส์น",
+      "en": "Ratchasan",
+      "slug": "ratchasan"
+    },
+    "code": {
+      "dopa": "2407"
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 3,
+      "villages": 31
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.788",
+      "lon": "101.278"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/ratchasan-2407/"
+    }
+  },
+  {
+    "id": "2408",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "สนามชัยเขต",
+      "en": "Sanam Chai Khet",
+      "slug": "sanam-chai-khet"
+    },
+    "code": {
+      "dopa": "2408"
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 4,
+      "villages": 70
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.644",
+      "lon": "101.461"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/sanam-chai-khet-2408/"
+    }
+  },
+  {
+    "id": "2410",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ท่าตะเกียบ",
+      "en": "Tha Takiap",
+      "slug": "tha-takiap"
+    },
+    "code": {
+      "dopa": "2410"
+    },
+    "parent": {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 2,
+      "villages": 47
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.508",
+      "lon": "101.639"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/tha-takiap-2410/"
+    }
+  }
+]

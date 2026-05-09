@@ -1,0 +1,61 @@
+{
+  "id": "480304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไชยบุรี",
+    "en": "Chai Buri",
+    "slug": "chai-buri"
+  },
+  "code": {
+    "dopa": "480304"
+  },
+  "parent": {
+    "id": "4803",
+    "level": 2,
+    "name": {
+      "th": "ท่าอุเทน",
+      "en": "Tha Uthen",
+      "slug": "tha-uthen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4803",
+      "level": 2,
+      "name": {
+        "th": "ท่าอุเทน",
+        "en": "Tha Uthen",
+        "slug": "tha-uthen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "48120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.636",
+    "lon": "104.433"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chai-buri-480304/"
+  }
+}

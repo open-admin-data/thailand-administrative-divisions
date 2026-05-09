@@ -1,0 +1,61 @@
+{
+  "id": "490405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชะโนดน้อย",
+    "en": "Chanot Noi",
+    "slug": "chanot-noi"
+  },
+  "code": {
+    "dopa": "490405"
+  },
+  "parent": {
+    "id": "4904",
+    "level": 2,
+    "name": {
+      "th": "ดงหลวง",
+      "en": "Dong Luang",
+      "slug": "dong-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4904",
+      "level": 2,
+      "name": {
+        "th": "ดงหลวง",
+        "en": "Dong Luang",
+        "slug": "dong-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "49140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.805",
+    "lon": "104.618"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chanot-noi-490405/"
+  }
+}

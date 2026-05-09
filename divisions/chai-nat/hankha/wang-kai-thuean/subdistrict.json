@@ -1,0 +1,61 @@
+{
+  "id": "180608",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังไก่เถื่อน",
+    "en": "Wang Kai Thuean",
+    "slug": "wang-kai-thuean"
+  },
+  "code": {
+    "dopa": "180608"
+  },
+  "parent": {
+    "id": "1806",
+    "level": 2,
+    "name": {
+      "th": "หันคา",
+      "en": "Hankha",
+      "slug": "hankha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "th": "หันคา",
+        "en": "Hankha",
+        "slug": "hankha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "17130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.004",
+    "lon": "100.056"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-kai-thuean-180608/"
+  }
+}

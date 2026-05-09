@@ -1,0 +1,61 @@
+{
+  "id": "480101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ในเมือง",
+    "en": "Nai Mueang",
+    "slug": "nai-mueang"
+  },
+  "code": {
+    "dopa": "480101"
+  },
+  "parent": {
+    "id": "4801",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครพนม",
+      "en": "Mueang Nakhon Phanom",
+      "slug": "mueang-nakhon-phanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4801",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครพนม",
+        "en": "Mueang Nakhon Phanom",
+        "slug": "mueang-nakhon-phanom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "48000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.409",
+    "lon": "104.781"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nai-mueang-480101/"
+  }
+}

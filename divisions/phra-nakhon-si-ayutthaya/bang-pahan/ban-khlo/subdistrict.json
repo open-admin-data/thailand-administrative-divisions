@@ -1,0 +1,61 @@
+{
+  "id": "140717",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านขล้อ",
+    "en": "Ban Khlo",
+    "slug": "ban-khlo"
+  },
+  "code": {
+    "dopa": "140717"
+  },
+  "parent": {
+    "id": "1407",
+    "level": 2,
+    "name": {
+      "th": "บางปะหัน",
+      "en": "Bang Pahan",
+      "slug": "bang-pahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1407",
+      "level": 2,
+      "name": {
+        "th": "บางปะหัน",
+        "en": "Bang Pahan",
+        "slug": "bang-pahan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "13220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.532",
+    "lon": "100.586"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-khlo-140717/"
+  }
+}

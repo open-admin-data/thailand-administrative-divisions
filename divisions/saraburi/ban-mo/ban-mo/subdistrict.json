@@ -1,0 +1,61 @@
+{
+  "id": "190601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านหมอ",
+    "en": "Ban Mo",
+    "slug": "ban-mo"
+  },
+  "code": {
+    "dopa": "190601"
+  },
+  "parent": {
+    "id": "1906",
+    "level": 2,
+    "name": {
+      "th": "บ้านหมอ",
+      "en": "Ban Mo",
+      "slug": "ban-mo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "th": "บ้านหมอ",
+        "en": "Ban Mo",
+        "slug": "ban-mo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "18130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.616",
+    "lon": "100.724"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-mo-190601/"
+  }
+}

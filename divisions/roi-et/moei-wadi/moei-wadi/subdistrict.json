@@ -1,0 +1,61 @@
+{
+  "id": "451501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมยวดี",
+    "en": "Moei Wadi",
+    "slug": "moei-wadi"
+  },
+  "code": {
+    "dopa": "451501"
+  },
+  "parent": {
+    "id": "4515",
+    "level": 2,
+    "name": {
+      "th": "เมยวดี",
+      "en": "Moei Wadi",
+      "slug": "moei-wadi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4515",
+      "level": 2,
+      "name": {
+        "th": "เมยวดี",
+        "en": "Moei Wadi",
+        "slug": "moei-wadi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "45250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.395",
+    "lon": "104.167"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/moei-wadi-451501/"
+  }
+}

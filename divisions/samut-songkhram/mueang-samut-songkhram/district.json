@@ -1,0 +1,50 @@
+{
+  "id": "7501",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองสมุทรสงคราม",
+    "en": "Mueang Samut Songkhram",
+    "slug": "mueang-samut-songkhram"
+  },
+  "code": {
+    "dopa": "7501"
+  },
+  "parent": {
+    "id": "75",
+    "level": 1,
+    "name": {
+      "th": "สมุทรสงคราม",
+      "en": "Samut Songkhram",
+      "slug": "samut-songkhram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสงคราม",
+        "en": "Samut Songkhram",
+        "slug": "samut-songkhram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 101
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.399",
+    "lon": "99.976"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-samut-songkhram-7501/"
+  }
+}

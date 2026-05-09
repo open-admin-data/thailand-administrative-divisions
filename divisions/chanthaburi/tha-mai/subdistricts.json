@@ -1,0 +1,856 @@
+[
+  {
+    "id": "220304",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บ่อพุ",
+      "en": "Bo Phu",
+      "slug": "bo-phu"
+    },
+    "code": {
+      "dopa": "220304"
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "th": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "th": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "22120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.595",
+      "lon": "102.028"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bo-phu-220304/"
+    }
+  },
+  {
+    "id": "220312",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "โขมง",
+      "en": "Khamong",
+      "slug": "khamong"
+    },
+    "code": {
+      "dopa": "220312"
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "th": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "th": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "22170"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.620",
+      "lon": "101.940"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khamong-220312/"
+    }
+  },
+  {
+    "id": "220307",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เขาบายศรี",
+      "en": "Khao Baisi",
+      "slug": "khao-baisi"
+    },
+    "code": {
+      "dopa": "220307"
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "th": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "th": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 12
+    },
+    "zip_codes": [
+      "22120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.740",
+      "lon": "102.061"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khao-baisi-220307/"
+    }
+  },
+  {
+    "id": "220324",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เขาแก้ว",
+      "en": "Khao Kaeo",
+      "slug": "khao-kaeo"
+    },
+    "code": {
+      "dopa": "220324"
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "th": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "th": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "22170"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.867",
+      "lon": "101.939"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khao-kaeo-220324/"
+    }
+  },
+  {
+    "id": "220306",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เขาวัว",
+      "en": "Khao Wua",
+      "slug": "khao-wua"
+    },
+    "code": {
+      "dopa": "220306"
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "th": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "th": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "22120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.637",
+      "lon": "102.035"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khao-wua-220306/"
+    }
+  },
+  {
+    "id": "220314",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "คลองขุด",
+      "en": "Khlong Khut",
+      "slug": "khlong-khut"
+    },
+    "code": {
+      "dopa": "220314"
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "th": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "th": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "22120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.563",
+      "lon": "101.935"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khlong-khut-220314/"
+    }
+  },
+  {
+    "id": "220305",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "พลอยแหวน",
+      "en": "Phloi Waen",
+      "slug": "phloi-waen"
+    },
+    "code": {
+      "dopa": "220305"
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "th": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "th": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "22120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.617",
+      "lon": "102.053"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/phloi-waen-220305/"
+    }
+  },
+  {
+    "id": "220309",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ทุ่งเบญจา",
+      "en": "Ramphan",
+      "slug": "ramphan"
+    },
+    "code": {
+      "dopa": "220309"
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "th": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "th": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 14
+    },
+    "zip_codes": [
+      "22170"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.814",
+      "lon": "102.014"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ramphan-220309/"
+    }
+  },
+  {
+    "id": "220311",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "รำพัน",
+      "en": "Ramphan",
+      "slug": "ramphan"
+    },
+    "code": {
+      "dopa": "220311"
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "th": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "th": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "22170"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.669",
+      "lon": "101.914"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ramphan-220311/"
+    }
+  },
+  {
+    "id": "220303",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "สีพยา",
+      "en": "Si Phaya",
+      "slug": "si-phaya"
+    },
+    "code": {
+      "dopa": "220303"
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "th": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "th": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "22120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.578",
+      "lon": "102.029"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/si-phaya-220303/"
+    }
+  },
+  {
+    "id": "220308",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "สองพี่น้อง",
+      "en": "Song Phi Nong",
+      "slug": "song-phi-nong"
+    },
+    "code": {
+      "dopa": "220308"
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "th": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "th": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 17
+    },
+    "zip_codes": [
+      "22120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.672",
+      "lon": "101.973"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/song-phi-nong-220308/"
+    }
+  },
+  {
+    "id": "220313",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ตะกาดเง้า",
+      "en": "Takat Ngao",
+      "slug": "takat-ngao"
+    },
+    "code": {
+      "dopa": "220313"
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "th": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "th": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "22120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.581",
+      "lon": "101.989"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/takat-ngao-220313/"
+    }
+  },
+  {
+    "id": "220301",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ท่าใหม่",
+      "en": "Tha Mai",
+      "slug": "tha-mai"
+    },
+    "code": {
+      "dopa": "220301"
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "th": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "th": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "22120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.628",
+      "lon": "101.985"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/tha-mai-220301/"
+    }
+  },
+  {
+    "id": "220302",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ยายร้า",
+      "en": "Yai Ra",
+      "slug": "yai-ra"
+    },
+    "code": {
+      "dopa": "220302"
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "th": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "th": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 2
+    },
+    "zip_codes": [
+      "22120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.612",
+      "lon": "102.027"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/yai-ra-220302/"
+    }
+  }
+]

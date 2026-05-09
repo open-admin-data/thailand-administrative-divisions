@@ -1,0 +1,61 @@
+{
+  "id": "451606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพธิ์สัย",
+    "en": "Pho Sai",
+    "slug": "pho-sai"
+  },
+  "code": {
+    "dopa": "451606"
+  },
+  "parent": {
+    "id": "4516",
+    "level": 2,
+    "name": {
+      "th": "ศรีสมเด็จ",
+      "en": "Si Somdet",
+      "slug": "si-somdet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4516",
+      "level": 2,
+      "name": {
+        "th": "ศรีสมเด็จ",
+        "en": "Si Somdet",
+        "slug": "si-somdet"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "45280"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.096",
+    "lon": "103.475"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pho-sai-451606/"
+  }
+}

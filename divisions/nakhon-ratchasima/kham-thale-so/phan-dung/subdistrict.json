@@ -1,0 +1,61 @@
+{
+  "id": "301903",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พันดุง",
+    "en": "Phan Dung",
+    "slug": "phan-dung"
+  },
+  "code": {
+    "dopa": "301903"
+  },
+  "parent": {
+    "id": "3019",
+    "level": 2,
+    "name": {
+      "th": "ขามทะเลสอ",
+      "en": "Kham Thale So",
+      "slug": "kham-thale-so"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3019",
+      "level": 2,
+      "name": {
+        "th": "ขามทะเลสอ",
+        "en": "Kham Thale So",
+        "slug": "kham-thale-so"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "30280"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.069",
+    "lon": "101.952"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phan-dung-301903/"
+  }
+}

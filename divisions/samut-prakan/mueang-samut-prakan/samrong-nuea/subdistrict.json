@@ -1,0 +1,61 @@
+{
+  "id": "110102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สำโรงเหนือ",
+    "en": "Samrong Nuea",
+    "slug": "samrong-nuea"
+  },
+  "code": {
+    "dopa": "110102"
+  },
+  "parent": {
+    "id": "1101",
+    "level": 2,
+    "name": {
+      "th": "เมืองสมุทรปราการ",
+      "en": "Mueang Samut Prakan",
+      "slug": "mueang-samut-prakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรปราการ",
+        "en": "Mueang Samut Prakan",
+        "slug": "mueang-samut-prakan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "10270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.649",
+    "lon": "100.617"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samrong-nuea-110102/"
+  }
+}

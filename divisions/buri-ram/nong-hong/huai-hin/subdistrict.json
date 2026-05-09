@@ -1,0 +1,61 @@
+{
+  "id": "311402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยหิน",
+    "en": "Huai Hin",
+    "slug": "huai-hin"
+  },
+  "code": {
+    "dopa": "311402"
+  },
+  "parent": {
+    "id": "3114",
+    "level": 2,
+    "name": {
+      "th": "หนองหงส์",
+      "en": "Nong Hong",
+      "slug": "nong-hong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3114",
+      "level": 2,
+      "name": {
+        "th": "หนองหงส์",
+        "en": "Nong Hong",
+        "slug": "nong-hong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "31240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.871",
+    "lon": "102.594"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-hin-311402/"
+  }
+}

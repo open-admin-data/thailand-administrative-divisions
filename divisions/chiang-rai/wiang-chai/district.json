@@ -1,0 +1,50 @@
+{
+  "id": "5702",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เวียงชัย",
+    "en": "Wiang Chai",
+    "slug": "wiang-chai"
+  },
+  "code": {
+    "dopa": "5702"
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 75
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.904",
+    "lon": "99.974"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wiang-chai-5702/"
+  }
+}

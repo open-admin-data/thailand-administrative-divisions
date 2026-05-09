@@ -1,0 +1,61 @@
+{
+  "id": "850206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ในวงเหนือ",
+    "en": "Nai Wong Nuea",
+    "slug": "nai-wong-nuea"
+  },
+  "code": {
+    "dopa": "850206"
+  },
+  "parent": {
+    "id": "8502",
+    "level": 2,
+    "name": {
+      "th": "ละอุ่น",
+      "en": "La-un",
+      "slug": "la-un"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "85",
+      "level": 1,
+      "name": {
+        "th": "ระนอง",
+        "en": "Ranong",
+        "slug": "ranong"
+      }
+    },
+    {
+      "id": "8502",
+      "level": 2,
+      "name": {
+        "th": "ละอุ่น",
+        "en": "La-un",
+        "slug": "la-un"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 3
+  },
+  "zip_codes": [
+    "85130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.020",
+    "lon": "98.842"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nai-wong-nuea-850206/"
+  }
+}

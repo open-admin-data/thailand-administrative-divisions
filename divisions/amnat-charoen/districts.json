@@ -1,0 +1,352 @@
+[
+  {
+    "id": "3702",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ชานุมาน",
+      "en": "Chanuman",
+      "slug": "chanuman"
+    },
+    "code": {
+      "dopa": "3702"
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "th": "อำนาจเจริญ",
+          "en": "Amnat Charoen",
+          "slug": "amnat-charoen"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 5,
+      "villages": 62
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.156",
+      "lon": "104.996"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/chanuman-3702/"
+    }
+  },
+  {
+    "id": "3706",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "หัวตะพาน",
+      "en": "Hua Taphan",
+      "slug": "hua-taphan"
+    },
+    "code": {
+      "dopa": "3706"
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "th": "อำนาจเจริญ",
+          "en": "Amnat Charoen",
+          "slug": "amnat-charoen"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 8,
+      "villages": 85
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.723",
+      "lon": "104.513"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/hua-taphan-3706/"
+    }
+  },
+  {
+    "id": "3707",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ลืออำนาจ",
+      "en": "Lue Amnat",
+      "slug": "lue-amnat"
+    },
+    "code": {
+      "dopa": "3707"
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "th": "อำนาจเจริญ",
+          "en": "Amnat Charoen",
+          "slug": "amnat-charoen"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 7,
+      "villages": 79
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.716",
+      "lon": "104.617"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/lue-amnat-3707/"
+    }
+  },
+  {
+    "id": "3701",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เมืองอำนาจเจริญ",
+      "en": "Mueang Amnat Charoen",
+      "slug": "mueang-amnat-charoen"
+    },
+    "code": {
+      "dopa": "3701"
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "th": "อำนาจเจริญ",
+          "en": "Amnat Charoen",
+          "slug": "amnat-charoen"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 19,
+      "villages": 225
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.823",
+      "lon": "104.562"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/mueang-amnat-charoen-3701/"
+    }
+  },
+  {
+    "id": "3703",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ปทุมราชวงศา",
+      "en": "Pathum Ratchawongsa",
+      "slug": "pathum-ratchawongsa"
+    },
+    "code": {
+      "dopa": "3703"
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "th": "อำนาจเจริญ",
+          "en": "Amnat Charoen",
+          "slug": "amnat-charoen"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 7,
+      "villages": 73
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.862",
+      "lon": "104.828"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/pathum-ratchawongsa-3703/"
+    }
+  },
+  {
+    "id": "3704",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "พนา",
+      "en": "Phana",
+      "slug": "phana"
+    },
+    "code": {
+      "dopa": "3704"
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "th": "อำนาจเจริญ",
+          "en": "Amnat Charoen",
+          "slug": "amnat-charoen"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 4,
+      "villages": 56
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.678",
+      "lon": "104.882"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/phana-3704/"
+    }
+  },
+  {
+    "id": "3705",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เสนางคนิคม",
+      "en": "Senangkhanikhom",
+      "slug": "senangkhanikhom"
+    },
+    "code": {
+      "dopa": "3705"
+    },
+    "parent": {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "th": "อำนาจเจริญ",
+          "en": "Amnat Charoen",
+          "slug": "amnat-charoen"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 6,
+      "villages": 58
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.050",
+      "lon": "104.616"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/senangkhanikhom-3705/"
+    }
+  }
+]

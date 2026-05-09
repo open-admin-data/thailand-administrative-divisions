@@ -1,0 +1,61 @@
+{
+  "id": "300907",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บัลลังก์",
+    "en": "Banlang",
+    "slug": "banlang"
+  },
+  "code": {
+    "dopa": "300907"
+  },
+  "parent": {
+    "id": "3009",
+    "level": 2,
+    "name": {
+      "th": "โนนไทย",
+      "en": "Non Thai",
+      "slug": "non-thai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3009",
+      "level": 2,
+      "name": {
+        "th": "โนนไทย",
+        "en": "Non Thai",
+        "slug": "non-thai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "30220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.223",
+    "lon": "101.928"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/banlang-300907/"
+  }
+}

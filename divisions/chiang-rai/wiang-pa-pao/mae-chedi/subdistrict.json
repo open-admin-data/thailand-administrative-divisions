@@ -1,0 +1,61 @@
+{
+  "id": "571106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่เจดีย์",
+    "en": "Mae Chedi",
+    "slug": "mae-chedi"
+  },
+  "code": {
+    "dopa": "571106"
+  },
+  "parent": {
+    "id": "5711",
+    "level": 2,
+    "name": {
+      "th": "เวียงป่าเป้า",
+      "en": "Wiang Pa Pao",
+      "slug": "wiang-pa-pao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5711",
+      "level": 2,
+      "name": {
+        "th": "เวียงป่าเป้า",
+        "en": "Wiang Pa Pao",
+        "slug": "wiang-pa-pao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "57260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.164",
+    "lon": "99.367"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-chedi-571106/"
+  }
+}

@@ -1,0 +1,124 @@
+[
+  {
+    "id": "551501",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ห้วยโก๋น",
+      "en": "Huai Kon",
+      "slug": "huai-kon"
+    },
+    "code": {
+      "dopa": "551501"
+    },
+    "parent": {
+      "id": "5515",
+      "level": 2,
+      "name": {
+        "th": "เฉลิมพระเกียรติ",
+        "en": "Chaloem Phra Kiat",
+        "slug": "chaloem-phra-kiat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "th": "น่าน",
+          "en": "Nan",
+          "slug": "nan"
+        }
+      },
+      {
+        "id": "5515",
+        "level": 2,
+        "name": {
+          "th": "เฉลิมพระเกียรติ",
+          "en": "Chaloem Phra Kiat",
+          "slug": "chaloem-phra-kiat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "55130"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "19.559",
+      "lon": "101.046"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/huai-kon-551501/"
+    }
+  },
+  {
+    "id": "551502",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ขุนน่าน",
+      "en": "Khun Nan",
+      "slug": "khun-nan"
+    },
+    "code": {
+      "dopa": "551502"
+    },
+    "parent": {
+      "id": "5515",
+      "level": 2,
+      "name": {
+        "th": "เฉลิมพระเกียรติ",
+        "en": "Chaloem Phra Kiat",
+        "slug": "chaloem-phra-kiat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "th": "น่าน",
+          "en": "Nan",
+          "slug": "nan"
+        }
+      },
+      {
+        "id": "5515",
+        "level": 2,
+        "name": {
+          "th": "เฉลิมพระเกียรติ",
+          "en": "Chaloem Phra Kiat",
+          "slug": "chaloem-phra-kiat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 15
+    },
+    "zip_codes": [
+      "55130"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "19.450",
+      "lon": "101.128"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khun-nan-551502/"
+    }
+  }
+]

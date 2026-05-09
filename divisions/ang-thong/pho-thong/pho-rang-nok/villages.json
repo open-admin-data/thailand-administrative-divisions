@@ -1,0 +1,185 @@
+[
+  {
+    "id": "15040701",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านบางกระแว่น",
+      "en": "Ban Bang Krawaen",
+      "slug": "15040701"
+    },
+    "code": {
+      "dopa": "15040701"
+    },
+    "parent": {
+      "id": "150407",
+      "level": 3,
+      "name": {
+        "th": "โพธิ์รังนก",
+        "en": "Pho Rang Nok",
+        "slug": "pho-rang-nok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "th": "อ่างทอง",
+          "en": "Ang Thong",
+          "slug": "ang-thong"
+        }
+      },
+      {
+        "id": "1504",
+        "level": 2,
+        "name": {
+          "th": "โพธิ์ทอง",
+          "en": "Pho Thong",
+          "slug": "pho-thong"
+        }
+      },
+      {
+        "id": "150407",
+        "level": 3,
+        "name": {
+          "th": "โพธิ์รังนก",
+          "en": "Pho Rang Nok",
+          "slug": "pho-rang-nok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.620911669344409",
+      "lon": "100.36161080002785"
+    },
+    "source": {}
+  },
+  {
+    "id": "15040702",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านโพธิ์รังนก",
+      "en": "Ban Pho Rang Nok",
+      "slug": "15040702"
+    },
+    "code": {
+      "dopa": "15040702"
+    },
+    "parent": {
+      "id": "150407",
+      "level": 3,
+      "name": {
+        "th": "โพธิ์รังนก",
+        "en": "Pho Rang Nok",
+        "slug": "pho-rang-nok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "th": "อ่างทอง",
+          "en": "Ang Thong",
+          "slug": "ang-thong"
+        }
+      },
+      {
+        "id": "1504",
+        "level": 2,
+        "name": {
+          "th": "โพธิ์ทอง",
+          "en": "Pho Thong",
+          "slug": "pho-thong"
+        }
+      },
+      {
+        "id": "150407",
+        "level": 3,
+        "name": {
+          "th": "โพธิ์รังนก",
+          "en": "Pho Rang Nok",
+          "slug": "pho-rang-nok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.618988505592599",
+      "lon": "100.3776866197586"
+    },
+    "source": {}
+  },
+  {
+    "id": "15040703",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนอง",
+      "en": "Ban Nong",
+      "slug": "15040703"
+    },
+    "code": {
+      "dopa": "15040703"
+    },
+    "parent": {
+      "id": "150407",
+      "level": 3,
+      "name": {
+        "th": "โพธิ์รังนก",
+        "en": "Pho Rang Nok",
+        "slug": "pho-rang-nok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "th": "อ่างทอง",
+          "en": "Ang Thong",
+          "slug": "ang-thong"
+        }
+      },
+      {
+        "id": "1504",
+        "level": 2,
+        "name": {
+          "th": "โพธิ์ทอง",
+          "en": "Pho Thong",
+          "slug": "pho-thong"
+        }
+      },
+      {
+        "id": "150407",
+        "level": 3,
+        "name": {
+          "th": "โพธิ์รังนก",
+          "en": "Pho Rang Nok",
+          "slug": "pho-rang-nok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.613619908774957",
+      "lon": "100.38590893149376"
+    },
+    "source": {}
+  }
+]

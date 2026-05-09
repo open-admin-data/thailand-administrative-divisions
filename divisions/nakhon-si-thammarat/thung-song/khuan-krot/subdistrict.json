@@ -1,0 +1,61 @@
+{
+  "id": "800904",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ควนกรด",
+    "en": "Khuan Krot",
+    "slug": "khuan-krot"
+  },
+  "code": {
+    "dopa": "800904"
+  },
+  "parent": {
+    "id": "8009",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งสง",
+      "en": "Thung Song",
+      "slug": "thung-song"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8009",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งสง",
+        "en": "Thung Song",
+        "slug": "thung-song"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "80110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.149",
+    "lon": "99.632"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khuan-krot-800904/"
+  }
+}

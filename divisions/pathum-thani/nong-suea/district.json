@@ -1,0 +1,50 @@
+{
+  "id": "1304",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หนองเสือ",
+    "en": "Nong Suea",
+    "slug": "nong-suea"
+  },
+  "code": {
+    "dopa": "1304"
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 69
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.087",
+    "lon": "100.778"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-suea-1304/"
+  }
+}

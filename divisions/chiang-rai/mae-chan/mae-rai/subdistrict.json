@@ -1,0 +1,61 @@
+{
+  "id": "570710",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่ไร่",
+    "en": "Mae Rai",
+    "slug": "mae-rai"
+  },
+  "code": {
+    "dopa": "570710"
+  },
+  "parent": {
+    "id": "5707",
+    "level": 2,
+    "name": {
+      "th": "แม่จัน",
+      "en": "Mae Chan",
+      "slug": "mae-chan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5707",
+      "level": 2,
+      "name": {
+        "th": "แม่จัน",
+        "en": "Mae Chan",
+        "slug": "mae-chan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "57240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.256",
+    "lon": "99.864"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-rai-570710/"
+  }
+}

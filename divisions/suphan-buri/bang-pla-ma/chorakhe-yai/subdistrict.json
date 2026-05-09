@@ -1,0 +1,61 @@
+{
+  "id": "720409",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "จรเข้ใหญ่",
+    "en": "Chorakhe Yai",
+    "slug": "chorakhe-yai"
+  },
+  "code": {
+    "dopa": "720409"
+  },
+  "parent": {
+    "id": "7204",
+    "level": 2,
+    "name": {
+      "th": "บางปลาม้า",
+      "en": "Bang Pla Ma",
+      "slug": "bang-pla-ma"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7204",
+      "level": 2,
+      "name": {
+        "th": "บางปลาม้า",
+        "en": "Bang Pla Ma",
+        "slug": "bang-pla-ma"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "72150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.421",
+    "lon": "100.236"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chorakhe-yai-720409/"
+  }
+}

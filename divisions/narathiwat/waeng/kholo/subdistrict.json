@@ -1,0 +1,61 @@
+{
+  "id": "960803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ฆอเลาะ",
+    "en": "Kholo",
+    "slug": "kholo"
+  },
+  "code": {
+    "dopa": "960803"
+  },
+  "parent": {
+    "id": "9608",
+    "level": 2,
+    "name": {
+      "th": "แว้ง",
+      "en": "Waeng",
+      "slug": "waeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9608",
+      "level": 2,
+      "name": {
+        "th": "แว้ง",
+        "en": "Waeng",
+        "slug": "waeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "96160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "5.906",
+    "lon": "101.912"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kholo-960803/"
+  }
+}

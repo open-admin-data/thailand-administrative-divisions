@@ -1,0 +1,185 @@
+[
+  {
+    "id": "91011001",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเกาะยาว",
+      "en": "Ban Ko Yao",
+      "slug": "91011001"
+    },
+    "code": {
+      "dopa": "91011001"
+    },
+    "parent": {
+      "id": "910110",
+      "level": 3,
+      "name": {
+        "th": "ปูยู",
+        "en": "Puyu",
+        "slug": "puyu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสตูล",
+          "en": "Mueang Satun",
+          "slug": "mueang-satun"
+        }
+      },
+      {
+        "id": "910110",
+        "level": 3,
+        "name": {
+          "th": "ปูยู",
+          "en": "Puyu",
+          "slug": "puyu"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.467937801758616",
+      "lon": "100.07297560572624"
+    },
+    "source": {}
+  },
+  {
+    "id": "91011002",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านตันหยงกาโบย",
+      "en": "Ban Tanyong Kaboi",
+      "slug": "91011002"
+    },
+    "code": {
+      "dopa": "91011002"
+    },
+    "parent": {
+      "id": "910110",
+      "level": 3,
+      "name": {
+        "th": "ปูยู",
+        "en": "Puyu",
+        "slug": "puyu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสตูล",
+          "en": "Mueang Satun",
+          "slug": "mueang-satun"
+        }
+      },
+      {
+        "id": "910110",
+        "level": 3,
+        "name": {
+          "th": "ปูยู",
+          "en": "Puyu",
+          "slug": "puyu"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.513193792646114",
+      "lon": "100.09868860244751"
+    },
+    "source": {}
+  },
+  {
+    "id": "91011003",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกลาง",
+      "en": "Ban Klang",
+      "slug": "91011003"
+    },
+    "code": {
+      "dopa": "91011003"
+    },
+    "parent": {
+      "id": "910110",
+      "level": 3,
+      "name": {
+        "th": "ปูยู",
+        "en": "Puyu",
+        "slug": "puyu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสตูล",
+          "en": "Mueang Satun",
+          "slug": "mueang-satun"
+        }
+      },
+      {
+        "id": "910110",
+        "level": 3,
+        "name": {
+          "th": "ปูยู",
+          "en": "Puyu",
+          "slug": "puyu"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.5043822320778375",
+      "lon": "100.1001463830471"
+    },
+    "source": {}
+  }
+]

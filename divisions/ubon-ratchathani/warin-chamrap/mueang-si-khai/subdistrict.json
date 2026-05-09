@@ -1,0 +1,61 @@
+{
+  "id": "341522",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองศรีไค",
+    "en": "Mueang Si Khai",
+    "slug": "mueang-si-khai"
+  },
+  "code": {
+    "dopa": "341522"
+  },
+  "parent": {
+    "id": "3415",
+    "level": 2,
+    "name": {
+      "th": "วารินชำราบ",
+      "en": "Warin Chamrap",
+      "slug": "warin-chamrap"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3415",
+      "level": 2,
+      "name": {
+        "th": "วารินชำราบ",
+        "en": "Warin Chamrap",
+        "slug": "warin-chamrap"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "34190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.087",
+    "lon": "104.904"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-si-khai-341522/"
+  }
+}

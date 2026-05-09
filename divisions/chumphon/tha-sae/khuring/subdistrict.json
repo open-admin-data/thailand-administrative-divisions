@@ -1,0 +1,61 @@
+{
+  "id": "860202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คุริง",
+    "en": "Khuring",
+    "slug": "khuring"
+  },
+  "code": {
+    "dopa": "860202"
+  },
+  "parent": {
+    "id": "8602",
+    "level": 2,
+    "name": {
+      "th": "ท่าแซะ",
+      "en": "Tha Sae",
+      "slug": "tha-sae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8602",
+      "level": 2,
+      "name": {
+        "th": "ท่าแซะ",
+        "en": "Tha Sae",
+        "slug": "tha-sae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "86140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.744",
+    "lon": "99.118"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khuring-860202/"
+  }
+}

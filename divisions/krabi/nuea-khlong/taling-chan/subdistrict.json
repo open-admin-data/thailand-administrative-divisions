@@ -1,0 +1,61 @@
+{
+  "id": "810806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตลิ่งชัน",
+    "en": "Taling Chan",
+    "slug": "taling-chan"
+  },
+  "code": {
+    "dopa": "810806"
+  },
+  "parent": {
+    "id": "8108",
+    "level": 2,
+    "name": {
+      "th": "เหนือคลอง",
+      "en": "Nuea Khlong",
+      "slug": "nuea-khlong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8108",
+      "level": 2,
+      "name": {
+        "th": "เหนือคลอง",
+        "en": "Nuea Khlong",
+        "slug": "nuea-khlong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "81130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.963",
+    "lon": "98.969"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/taling-chan-810806/"
+  }
+}

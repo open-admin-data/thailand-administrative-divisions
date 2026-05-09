@@ -1,0 +1,61 @@
+{
+  "id": "500710",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนแก้ว",
+    "en": "Don Kaeo",
+    "slug": "don-kaeo"
+  },
+  "code": {
+    "dopa": "500710"
+  },
+  "parent": {
+    "id": "5007",
+    "level": 2,
+    "name": {
+      "th": "แม่ริม",
+      "en": "Mae Rim",
+      "slug": "mae-rim"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5007",
+      "level": 2,
+      "name": {
+        "th": "แม่ริม",
+        "en": "Mae Rim",
+        "slug": "mae-rim"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "50180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.860",
+    "lon": "98.939"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-kaeo-500710/"
+  }
+}

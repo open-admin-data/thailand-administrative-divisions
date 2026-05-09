@@ -1,0 +1,61 @@
+{
+  "id": "311702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งจังหัน",
+    "en": "Thung Changhan",
+    "slug": "thung-changhan"
+  },
+  "code": {
+    "dopa": "311702"
+  },
+  "parent": {
+    "id": "3117",
+    "level": 2,
+    "name": {
+      "th": "โนนสุวรรณ",
+      "en": "Non Suwan",
+      "slug": "non-suwan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3117",
+      "level": 2,
+      "name": {
+        "th": "โนนสุวรรณ",
+        "en": "Non Suwan",
+        "slug": "non-suwan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "31110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.566",
+    "lon": "102.558"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-changhan-311702/"
+  }
+}

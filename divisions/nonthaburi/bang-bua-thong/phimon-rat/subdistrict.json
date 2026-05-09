@@ -1,0 +1,61 @@
+{
+  "id": "120407",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พิมลราช",
+    "en": "Phimon Rat",
+    "slug": "phimon-rat"
+  },
+  "code": {
+    "dopa": "120407"
+  },
+  "parent": {
+    "id": "1204",
+    "level": 2,
+    "name": {
+      "th": "บางบัวทอง",
+      "en": "Bang Bua Thong",
+      "slug": "bang-bua-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1204",
+      "level": 2,
+      "name": {
+        "th": "บางบัวทอง",
+        "en": "Bang Bua Thong",
+        "slug": "bang-bua-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "11110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.934",
+    "lon": "100.366"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phimon-rat-120407/"
+  }
+}

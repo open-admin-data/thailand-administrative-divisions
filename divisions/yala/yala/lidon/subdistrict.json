@@ -1,0 +1,61 @@
+{
+  "id": "950104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลิดล",
+    "en": "Lidon",
+    "slug": "lidon"
+  },
+  "code": {
+    "dopa": "950104"
+  },
+  "parent": {
+    "id": "9501",
+    "level": 2,
+    "name": {
+      "th": "เมืองยะลา",
+      "en": "Yala",
+      "slug": "yala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "th": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "95160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.551",
+    "lon": "101.166"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lidon-950104/"
+  }
+}

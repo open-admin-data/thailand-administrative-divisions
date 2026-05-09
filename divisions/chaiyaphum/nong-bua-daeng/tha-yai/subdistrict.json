@@ -1,0 +1,61 @@
+{
+  "id": "360509",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าใหญ่",
+    "en": "Tha Yai",
+    "slug": "tha-yai"
+  },
+  "code": {
+    "dopa": "360509"
+  },
+  "parent": {
+    "id": "3605",
+    "level": 2,
+    "name": {
+      "th": "หนองบัวแดง",
+      "en": "Nong Bua Daeng",
+      "slug": "nong-bua-daeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3605",
+      "level": 2,
+      "name": {
+        "th": "หนองบัวแดง",
+        "en": "Nong Bua Daeng",
+        "slug": "nong-bua-daeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "36210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.028",
+    "lon": "101.624"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-yai-360509/"
+  }
+}

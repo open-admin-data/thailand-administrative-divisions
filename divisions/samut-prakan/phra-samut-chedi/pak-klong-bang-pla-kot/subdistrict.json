@@ -1,0 +1,61 @@
+{
+  "id": "110504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากคลองบางปลากด",
+    "en": "Pak Klong Bang Pla Kot",
+    "slug": "pak-klong-bang-pla-kot"
+  },
+  "code": {
+    "dopa": "110504"
+  },
+  "parent": {
+    "id": "1105",
+    "level": 2,
+    "name": {
+      "th": "พระสมุทรเจดีย์",
+      "en": "Phra Samut Chedi",
+      "slug": "phra-samut-chedi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1105",
+      "level": 2,
+      "name": {
+        "th": "พระสมุทรเจดีย์",
+        "en": "Phra Samut Chedi",
+        "slug": "phra-samut-chedi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "10290"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.606",
+    "lon": "100.567"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-klong-bang-pla-kot-110504/"
+  }
+}

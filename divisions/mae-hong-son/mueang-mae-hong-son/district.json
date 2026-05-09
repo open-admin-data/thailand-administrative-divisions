@@ -1,0 +1,50 @@
+{
+  "id": "5801",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองแม่ฮ่องสอน",
+    "en": "Mueang Mae Hong Son",
+    "slug": "mueang-mae-hong-son"
+  },
+  "code": {
+    "dopa": "5801"
+  },
+  "parent": {
+    "id": "58",
+    "level": 1,
+    "name": {
+      "th": "แม่ฮ่องสอน",
+      "en": "Mae Hong Son",
+      "slug": "mae-hong-son"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 66
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.302",
+    "lon": "97.970"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-mae-hong-son-5801/"
+  }
+}

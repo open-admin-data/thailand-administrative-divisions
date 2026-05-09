@@ -1,0 +1,61 @@
+{
+  "id": "950305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตลิ่งชัน",
+    "en": "Taling Chan",
+    "slug": "taling-chan"
+  },
+  "code": {
+    "dopa": "950305"
+  },
+  "parent": {
+    "id": "9503",
+    "level": 2,
+    "name": {
+      "th": "บันนังสตา",
+      "en": "Bannang Sata",
+      "slug": "bannang-sata"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9503",
+      "level": 2,
+      "name": {
+        "th": "บันนังสตา",
+        "en": "Bannang Sata",
+        "slug": "bannang-sata"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "95130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.271",
+    "lon": "101.352"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/taling-chan-950305/"
+  }
+}

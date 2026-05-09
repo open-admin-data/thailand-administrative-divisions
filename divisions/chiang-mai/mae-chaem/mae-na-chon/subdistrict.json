@@ -1,0 +1,61 @@
+{
+  "id": "500305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่นาจร",
+    "en": "Mae Na Chon",
+    "slug": "mae-na-chon"
+  },
+  "code": {
+    "dopa": "500305"
+  },
+  "parent": {
+    "id": "5003",
+    "level": 2,
+    "name": {
+      "th": "แม่แจ่ม",
+      "en": "Mae Chaem",
+      "slug": "mae-chaem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5003",
+      "level": 2,
+      "name": {
+        "th": "แม่แจ่ม",
+        "en": "Mae Chaem",
+        "slug": "mae-chaem"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "50270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.802",
+    "lon": "98.373"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-na-chon-500305/"
+  }
+}

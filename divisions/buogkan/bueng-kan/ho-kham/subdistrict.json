@@ -1,0 +1,61 @@
+{
+  "id": "380104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หอคำ",
+    "en": "Ho Kham",
+    "slug": "ho-kham"
+  },
+  "code": {
+    "dopa": "380104"
+  },
+  "parent": {
+    "id": "3801",
+    "level": 2,
+    "name": {
+      "th": "บึงกาฬ",
+      "en": "Bueng Kan",
+      "slug": "bueng-kan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3801",
+      "level": 2,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Bueng Kan",
+        "slug": "bueng-kan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "38000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.406",
+    "lon": "103.380"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ho-kham-380104/"
+  }
+}

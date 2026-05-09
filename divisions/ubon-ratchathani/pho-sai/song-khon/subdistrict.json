@@ -1,0 +1,61 @@
+{
+  "id": "342104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สองคอน",
+    "en": "Song Khon",
+    "slug": "song-khon"
+  },
+  "code": {
+    "dopa": "342104"
+  },
+  "parent": {
+    "id": "3421",
+    "level": 2,
+    "name": {
+      "th": "โพธิ์ไทร",
+      "en": "Pho Sai",
+      "slug": "pho-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3421",
+      "level": 2,
+      "name": {
+        "th": "โพธิ์ไทร",
+        "en": "Pho Sai",
+        "slug": "pho-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "34340"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.834",
+    "lon": "105.345"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/song-khon-342104/"
+  }
+}

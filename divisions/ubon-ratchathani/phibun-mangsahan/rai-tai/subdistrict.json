@@ -1,0 +1,61 @@
+{
+  "id": "341912",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไร่ใต้",
+    "en": "Rai Tai",
+    "slug": "rai-tai"
+  },
+  "code": {
+    "dopa": "341912"
+  },
+  "parent": {
+    "id": "3419",
+    "level": 2,
+    "name": {
+      "th": "พิบูลมังสาหาร",
+      "en": "Phibun Mangsahan",
+      "slug": "phibun-mangsahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3419",
+      "level": 2,
+      "name": {
+        "th": "พิบูลมังสาหาร",
+        "en": "Phibun Mangsahan",
+        "slug": "phibun-mangsahan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "34110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.136",
+    "lon": "105.122"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rai-tai-341912/"
+  }
+}

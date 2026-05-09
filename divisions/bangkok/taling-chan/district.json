@@ -1,0 +1,50 @@
+{
+  "id": "1019",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต ตลิ่งชัน",
+    "en": "Taling Chan",
+    "slug": "taling-chan"
+  },
+  "code": {
+    "dopa": "1019"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.760",
+    "lon": "100.456"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/taling-chan-1019/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "311607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองโพธิ์",
+    "en": "Mueang Pho",
+    "slug": "mueang-pho"
+  },
+  "code": {
+    "dopa": "311607"
+  },
+  "parent": {
+    "id": "3116",
+    "level": 2,
+    "name": {
+      "th": "ห้วยราช",
+      "en": "Huai Rat",
+      "slug": "huai-rat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3116",
+      "level": 2,
+      "name": {
+        "th": "ห้วยราช",
+        "en": "Huai Rat",
+        "slug": "huai-rat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "31000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.042",
+    "lon": "103.268"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-pho-311607/"
+  }
+}

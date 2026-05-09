@@ -1,0 +1,63 @@
+[
+  {
+    "id": "100905",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง บางจาก",
+      "en": "Bang Chak",
+      "slug": "bang-chak"
+    },
+    "code": {
+      "dopa": "100905"
+    },
+    "parent": {
+      "id": "1009",
+      "level": 2,
+      "name": {
+        "th": "เขต พระโขนง",
+        "en": "Phra Khanong",
+        "slug": "phra-khanong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1009",
+        "level": 2,
+        "name": {
+          "th": "เขต พระโขนง",
+          "en": "Phra Khanong",
+          "slug": "phra-khanong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10260"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.692",
+      "lon": "100.626"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bang-chak-100905/"
+    }
+  }
+]

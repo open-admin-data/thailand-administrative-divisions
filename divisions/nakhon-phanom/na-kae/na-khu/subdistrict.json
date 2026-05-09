@@ -1,0 +1,61 @@
+{
+  "id": "480704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาคู่",
+    "en": "Na Khu",
+    "slug": "na-khu"
+  },
+  "code": {
+    "dopa": "480704"
+  },
+  "parent": {
+    "id": "4807",
+    "level": 2,
+    "name": {
+      "th": "นาแก",
+      "en": "Na Kae",
+      "slug": "na-kae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4807",
+      "level": 2,
+      "name": {
+        "th": "นาแก",
+        "en": "Na Kae",
+        "slug": "na-kae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "48130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.978",
+    "lon": "104.539"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-khu-480704/"
+  }
+}

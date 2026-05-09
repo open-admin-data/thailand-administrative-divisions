@@ -1,0 +1,61 @@
+{
+  "id": "700705",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองตาคต",
+    "en": "Khlong Ta Khot",
+    "slug": "khlong-ta-khot"
+  },
+  "code": {
+    "dopa": "700705"
+  },
+  "parent": {
+    "id": "7007",
+    "level": 2,
+    "name": {
+      "th": "โพธาราม",
+      "en": "Photharam",
+      "slug": "photharam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7007",
+      "level": 2,
+      "name": {
+        "th": "โพธาราม",
+        "en": "Photharam",
+        "slug": "photharam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "70120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.672",
+    "lon": "99.854"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-ta-khot-700705/"
+  }
+}

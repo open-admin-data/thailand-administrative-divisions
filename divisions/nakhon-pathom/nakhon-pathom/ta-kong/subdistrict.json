@@ -1,0 +1,61 @@
+{
+  "id": "730105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตาก้อง",
+    "en": "Ta Kong",
+    "slug": "ta-kong"
+  },
+  "code": {
+    "dopa": "730105"
+  },
+  "parent": {
+    "id": "7301",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครปฐม",
+      "en": "Nakhon Pathom",
+      "slug": "nakhon-pathom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7301",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "73000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.892",
+    "lon": "100.054"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ta-kong-730105/"
+  }
+}

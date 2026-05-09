@@ -1,0 +1,50 @@
+{
+  "id": "1401",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พระนครศรีอยุธยา",
+    "en": "Phra Nakhon Si Ayutthaya",
+    "slug": "phra-nakhon-si-ayutthaya"
+  },
+  "code": {
+    "dopa": "1401"
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "th": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 21,
+    "villages": 201
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.341",
+    "lon": "100.581"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phra-nakhon-si-ayutthaya-1401/"
+  }
+}

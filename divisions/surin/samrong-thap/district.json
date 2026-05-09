@@ -1,0 +1,50 @@
+{
+  "id": "3212",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สำโรงทาบ",
+    "en": "Samrong Thap",
+    "slug": "samrong-thap"
+  },
+  "code": {
+    "dopa": "3212"
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "th": "สุรินทร์",
+      "en": "Surin",
+      "slug": "surin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 100
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.092",
+    "lon": "103.875"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/samrong-thap-3212/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "180302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มะขามเฒ่า",
+    "en": "Makham Thao",
+    "slug": "makham-thao"
+  },
+  "code": {
+    "dopa": "180302"
+  },
+  "parent": {
+    "id": "1803",
+    "level": 2,
+    "name": {
+      "th": "วัดสิงห์",
+      "en": "Wat Sing",
+      "slug": "wat-sing"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "th": "วัดสิงห์",
+        "en": "Wat Sing",
+        "slug": "wat-sing"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "17120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.227",
+    "lon": "100.040"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/makham-thao-180302/"
+  }
+}

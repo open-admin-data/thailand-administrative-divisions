@@ -1,0 +1,61 @@
+{
+  "id": "240310",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพรงอากาศ",
+    "en": "Phrong Akat",
+    "slug": "phrong-akat"
+  },
+  "code": {
+    "dopa": "240310"
+  },
+  "parent": {
+    "id": "2403",
+    "level": 2,
+    "name": {
+      "th": "บางน้ำเปรี้ยว",
+      "en": "Bang Nam Priao",
+      "slug": "bang-nam-priao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2403",
+      "level": 2,
+      "name": {
+        "th": "บางน้ำเปรี้ยว",
+        "en": "Bang Nam Priao",
+        "slug": "bang-nam-priao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "24150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.827",
+    "lon": "101.062"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phrong-akat-240310/"
+  }
+}

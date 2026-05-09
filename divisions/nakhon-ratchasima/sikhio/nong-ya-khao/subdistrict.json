@@ -1,0 +1,61 @@
+{
+  "id": "302005",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองหญ้าขาว",
+    "en": "Nong Ya Khao",
+    "slug": "nong-ya-khao"
+  },
+  "code": {
+    "dopa": "302005"
+  },
+  "parent": {
+    "id": "3020",
+    "level": 2,
+    "name": {
+      "th": "สีคิ้ว",
+      "en": "Sikhio",
+      "slug": "sikhio"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3020",
+      "level": 2,
+      "name": {
+        "th": "สีคิ้ว",
+        "en": "Sikhio",
+        "slug": "sikhio"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "30140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.959",
+    "lon": "101.574"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-ya-khao-302005/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "711103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "จรเข้เผือก",
+    "en": "Chorakhe Phueak",
+    "slug": "chorakhe-phueak"
+  },
+  "code": {
+    "dopa": "711103"
+  },
+  "parent": {
+    "id": "7111",
+    "level": 2,
+    "name": {
+      "th": "ด่านมะขามเตี้ย",
+      "en": "Dan Makham Tia",
+      "slug": "dan-makham-tia"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7111",
+      "level": 2,
+      "name": {
+        "th": "ด่านมะขามเตี้ย",
+        "en": "Dan Makham Tia",
+        "slug": "dan-makham-tia"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "71260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.811",
+    "lon": "99.210"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chorakhe-phueak-711103/"
+  }
+}

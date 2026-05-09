@@ -1,0 +1,61 @@
+{
+  "id": "840603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เลม็ด",
+    "en": "Lamet",
+    "slug": "lamet"
+  },
+  "code": {
+    "dopa": "840603"
+  },
+  "parent": {
+    "id": "8406",
+    "level": 2,
+    "name": {
+      "th": "ไชยา",
+      "en": "Chaiya",
+      "slug": "chaiya"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8406",
+      "level": 2,
+      "name": {
+        "th": "ไชยา",
+        "en": "Chaiya",
+        "slug": "chaiya"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "84110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.365",
+    "lon": "99.172"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lamet-840603/"
+  }
+}

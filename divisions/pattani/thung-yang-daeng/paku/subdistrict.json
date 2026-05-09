@@ -1,0 +1,61 @@
+{
+  "id": "940604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากู",
+    "en": "Paku",
+    "slug": "paku"
+  },
+  "code": {
+    "dopa": "940604"
+  },
+  "parent": {
+    "id": "9406",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งยางแดง",
+      "en": "Thung Yang Daeng",
+      "slug": "thung-yang-daeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9406",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งยางแดง",
+        "en": "Thung Yang Daeng",
+        "slug": "thung-yang-daeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "94140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.624",
+    "lon": "101.474"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/paku-940604/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "200111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางทราย",
+    "en": "Bang Sai",
+    "slug": "bang-sai"
+  },
+  "code": {
+    "dopa": "200111"
+  },
+  "parent": {
+    "id": "2001",
+    "level": 2,
+    "name": {
+      "th": "เมืองชลบุรี",
+      "en": "Mueang Chon Buri",
+      "slug": "mueang-chon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2001",
+      "level": 2,
+      "name": {
+        "th": "เมืองชลบุรี",
+        "en": "Mueang Chon Buri",
+        "slug": "mueang-chon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "20000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.393",
+    "lon": "100.996"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-sai-200111/"
+  }
+}

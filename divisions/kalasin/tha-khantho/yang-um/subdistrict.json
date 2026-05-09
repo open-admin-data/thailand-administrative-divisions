@@ -1,0 +1,61 @@
+{
+  "id": "461103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยางอู้ม",
+    "en": "Yang Um",
+    "slug": "yang-um"
+  },
+  "code": {
+    "dopa": "461103"
+  },
+  "parent": {
+    "id": "4611",
+    "level": 2,
+    "name": {
+      "th": "ท่าคันโท",
+      "en": "Tha Khantho",
+      "slug": "tha-khantho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4611",
+      "level": 2,
+      "name": {
+        "th": "ท่าคันโท",
+        "en": "Tha Khantho",
+        "slug": "tha-khantho"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "46190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.902",
+    "lon": "103.286"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yang-um-461103/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "6707",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หนองไผ่",
+    "en": "Nong Phai",
+    "slug": "nong-phai"
+  },
+  "code": {
+    "dopa": "6707"
+  },
+  "parent": {
+    "id": "67",
+    "level": 1,
+    "name": {
+      "th": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 142
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.956",
+    "lon": "101.103"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-phai-6707/"
+  }
+}

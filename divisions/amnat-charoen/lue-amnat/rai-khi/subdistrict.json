@@ -1,0 +1,61 @@
+{
+  "id": "370705",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไร่ขี",
+    "en": "Rai Khi",
+    "slug": "rai-khi"
+  },
+  "code": {
+    "dopa": "370705"
+  },
+  "parent": {
+    "id": "3707",
+    "level": 2,
+    "name": {
+      "th": "ลืออำนาจ",
+      "en": "Lue Amnat",
+      "slug": "lue-amnat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    {
+      "id": "3707",
+      "level": 2,
+      "name": {
+        "th": "ลืออำนาจ",
+        "en": "Lue Amnat",
+        "slug": "lue-amnat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "37000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.663",
+    "lon": "104.780"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rai-khi-370705/"
+  }
+}

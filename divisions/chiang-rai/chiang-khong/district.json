@@ -1,0 +1,50 @@
+{
+  "id": "5703",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เชียงของ",
+    "en": "Chiang Khong",
+    "slug": "chiang-khong"
+  },
+  "code": {
+    "dopa": "5703"
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 102
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.989",
+    "lon": "100.347"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chiang-khong-5703/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "450510",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขวาทุ่ง",
+    "en": "Khwao Thung",
+    "slug": "khwao-thung"
+  },
+  "code": {
+    "dopa": "450510"
+  },
+  "parent": {
+    "id": "4505",
+    "level": 2,
+    "name": {
+      "th": "ธวัชบุรี",
+      "en": "Thawat Buri",
+      "slug": "thawat-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4505",
+      "level": 2,
+      "name": {
+        "th": "ธวัชบุรี",
+        "en": "Thawat Buri",
+        "slug": "thawat-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "45170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.945",
+    "lon": "103.760"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khwao-thung-450510/"
+  }
+}

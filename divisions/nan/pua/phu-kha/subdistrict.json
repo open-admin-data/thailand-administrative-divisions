@@ -1,0 +1,61 @@
+{
+  "id": "550511",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ภูคา",
+    "en": "Phu Kha",
+    "slug": "phu-kha"
+  },
+  "code": {
+    "dopa": "550511"
+  },
+  "parent": {
+    "id": "5505",
+    "level": 2,
+    "name": {
+      "th": "ปัว",
+      "en": "Pua",
+      "slug": "pua"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5505",
+      "level": 2,
+      "name": {
+        "th": "ปัว",
+        "en": "Pua",
+        "slug": "pua"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "55120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.254",
+    "lon": "101.091"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phu-kha-550511/"
+  }
+}

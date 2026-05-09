@@ -1,0 +1,61 @@
+{
+  "id": "430504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชุมช้าง",
+    "en": "Chum Chang",
+    "slug": "chum-chang"
+  },
+  "code": {
+    "dopa": "430504"
+  },
+  "parent": {
+    "id": "4305",
+    "level": 2,
+    "name": {
+      "th": "โพนพิสัย",
+      "en": "Phon Phisai",
+      "slug": "phon-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4305",
+      "level": 2,
+      "name": {
+        "th": "โพนพิสัย",
+        "en": "Phon Phisai",
+        "slug": "phon-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "43120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.974",
+    "lon": "103.132"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chum-chang-430504/"
+  }
+}

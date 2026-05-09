@@ -1,0 +1,50 @@
+{
+  "id": "7608",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แก่งกระจาน",
+    "en": "Kaeng Krachan",
+    "slug": "kaeng-krachan"
+  },
+  "code": {
+    "dopa": "7608"
+  },
+  "parent": {
+    "id": "76",
+    "level": 1,
+    "name": {
+      "th": "เพชรบุรี",
+      "en": "Phetchaburi",
+      "slug": "phetchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 52
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.997",
+    "lon": "99.743"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kaeng-krachan-7608/"
+  }
+}

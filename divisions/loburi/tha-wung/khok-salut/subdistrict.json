@@ -1,0 +1,61 @@
+{
+  "id": "160506",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกสลุด",
+    "en": "Khok Salut",
+    "slug": "khok-salut"
+  },
+  "code": {
+    "dopa": "160506"
+  },
+  "parent": {
+    "id": "1605",
+    "level": 2,
+    "name": {
+      "th": "ท่าวุ้ง",
+      "en": "Tha Wung",
+      "slug": "tha-wung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1605",
+      "level": 2,
+      "name": {
+        "th": "ท่าวุ้ง",
+        "en": "Tha Wung",
+        "slug": "tha-wung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "15150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.881",
+    "lon": "100.482"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-salut-160506/"
+  }
+}

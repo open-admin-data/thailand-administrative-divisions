@@ -1,0 +1,61 @@
+{
+  "id": "343201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แก่งโดม",
+    "en": "Kaeng Dom",
+    "slug": "kaeng-dom"
+  },
+  "code": {
+    "dopa": "343201"
+  },
+  "parent": {
+    "id": "3432",
+    "level": 2,
+    "name": {
+      "th": "สว่างวีระวงศ์",
+      "en": "Sawang Wirawong",
+      "slug": "sawang-wirawong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3432",
+      "level": 2,
+      "name": {
+        "th": "สว่างวีระวงศ์",
+        "en": "Sawang Wirawong",
+        "slug": "sawang-wirawong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "34190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.204",
+    "lon": "105.087"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kaeng-dom-343201/"
+  }
+}

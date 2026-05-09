@@ -1,0 +1,50 @@
+{
+  "id": "9406",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ทุ่งยางแดง",
+    "en": "Thung Yang Daeng",
+    "slug": "thung-yang-daeng"
+  },
+  "code": {
+    "dopa": "9406"
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "th": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 23
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.605",
+    "lon": "101.448"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thung-yang-daeng-9406/"
+  }
+}

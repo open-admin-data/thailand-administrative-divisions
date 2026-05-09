@@ -1,0 +1,50 @@
+{
+  "id": "6505",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บางกระทุ่ม",
+    "en": "Bang Krathum",
+    "slug": "bang-krathum"
+  },
+  "code": {
+    "dopa": "6505"
+  },
+  "parent": {
+    "id": "65",
+    "level": 1,
+    "name": {
+      "th": "พิษณุโลก",
+      "en": "Phitsanulok",
+      "slug": "phitsanulok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 87
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.577",
+    "lon": "100.245"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-krathum-6505/"
+  }
+}

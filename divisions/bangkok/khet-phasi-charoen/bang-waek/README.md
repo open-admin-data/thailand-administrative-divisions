@@ -1,0 +1,28 @@
+# แขวง บางแวก (Bang Waek)
+
+[Home](../../../../) > [Bangkok](../../) > [Khet Phasi Charoen](../) > **Bang Waek**
+
+แขวง บางแวก (Bang Waek) is a subdistrict in เขต ภาษีเจริญ (Khet Phasi Charoen), กรุงเทพมหานคร (Bangkok), Thailand.
+
+## Overview / ภาพรวม
+
+| รายการ / Item | ข้อมูล / Details |
+|---------------|-----------------|
+| หมู่บ้าน / Villages | 0 |
+| รหัสไปรษณีย์ / Zip Code | 10160 |
+| DOPA Code | 102207 |
+| พิกัด / Coordinates | 13.736, 100.445 |
+| อำเภอ / District | เขต ภาษีเจริญ (Khet Phasi Charoen) |
+| จังหวัด / Province | กรุงเทพมหานคร (Bangkok) |
+
+*No village data available for this subdistrict.*
+
+## Data Files / ไฟล์ข้อมูล
+
+- [subdistrict.json](subdistrict.json) — Subdistrict metadata
+- [villages.json](villages.json) — All villages in Bang Waek (JSON)
+- [villages.csv](villages.csv) — CSV format
+
+---
+
+← Back to [เขต ภาษีเจริญ (Khet Phasi Charoen)](../)

@@ -1,0 +1,61 @@
+{
+  "id": "700715",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เตาปูน",
+    "en": "Tao Pun",
+    "slug": "tao-pun"
+  },
+  "code": {
+    "dopa": "700715"
+  },
+  "parent": {
+    "id": "7007",
+    "level": 2,
+    "name": {
+      "th": "โพธาราม",
+      "en": "Photharam",
+      "slug": "photharam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7007",
+      "level": 2,
+      "name": {
+        "th": "โพธาราม",
+        "en": "Photharam",
+        "slug": "photharam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "70120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.749",
+    "lon": "99.742"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tao-pun-700715/"
+  }
+}

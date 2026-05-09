@@ -1,0 +1,50 @@
+{
+  "id": "5606",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปง",
+    "en": "Pong",
+    "slug": "pong"
+  },
+  "code": {
+    "dopa": "5606"
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "th": "พะเยา",
+      "en": "Phayao",
+      "slug": "phayao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 88
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.182",
+    "lon": "100.374"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pong-5606/"
+  }
+}

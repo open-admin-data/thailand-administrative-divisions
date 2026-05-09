@@ -1,0 +1,61 @@
+{
+  "id": "520309",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ใหม่พัฒนา",
+    "en": "Mai Phatthana",
+    "slug": "mai-phatthana"
+  },
+  "code": {
+    "dopa": "520309"
+  },
+  "parent": {
+    "id": "5203",
+    "level": 2,
+    "name": {
+      "th": "เกาะคา",
+      "en": "Ko Kha",
+      "slug": "ko-kha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5203",
+      "level": 2,
+      "name": {
+        "th": "เกาะคา",
+        "en": "Ko Kha",
+        "slug": "ko-kha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "52130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.254",
+    "lon": "99.318"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mai-phatthana-520309/"
+  }
+}

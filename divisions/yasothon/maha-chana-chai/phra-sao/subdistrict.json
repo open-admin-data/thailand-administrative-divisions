@@ -1,0 +1,61 @@
+{
+  "id": "350609",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พระเสาร์",
+    "en": "Phra Sao",
+    "slug": "phra-sao"
+  },
+  "code": {
+    "dopa": "350609"
+  },
+  "parent": {
+    "id": "3506",
+    "level": 2,
+    "name": {
+      "th": "มหาชนะชัย",
+      "en": "Maha Chana Chai",
+      "slug": "maha-chana-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "th": "มหาชนะชัย",
+        "en": "Maha Chana Chai",
+        "slug": "maha-chana-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "35130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.566",
+    "lon": "104.153"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phra-sao-350609/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "800613",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่เจ้าอยู่หัว",
+    "en": "Mae Chao Yu Hua",
+    "slug": "mae-chao-yu-hua"
+  },
+  "code": {
+    "dopa": "800613"
+  },
+  "parent": {
+    "id": "8006",
+    "level": 2,
+    "name": {
+      "th": "เชียรใหญ่",
+      "en": "Chian Yai",
+      "slug": "chian-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8006",
+      "level": 2,
+      "name": {
+        "th": "เชียรใหญ่",
+        "en": "Chian Yai",
+        "slug": "chian-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "80190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.075",
+    "lon": "100.094"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-chao-yu-hua-800613/"
+  }
+}

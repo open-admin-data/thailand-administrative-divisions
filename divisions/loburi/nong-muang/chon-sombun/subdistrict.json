@@ -1,0 +1,61 @@
+{
+  "id": "161104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชอนสมบูรณ์",
+    "en": "Chon Sombun",
+    "slug": "chon-sombun"
+  },
+  "code": {
+    "dopa": "161104"
+  },
+  "parent": {
+    "id": "1611",
+    "level": 2,
+    "name": {
+      "th": "หนองม่วง",
+      "en": "Nong Muang",
+      "slug": "nong-muang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1611",
+      "level": 2,
+      "name": {
+        "th": "หนองม่วง",
+        "en": "Nong Muang",
+        "slug": "nong-muang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "15170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.288",
+    "lon": "100.763"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chon-sombun-161104/"
+  }
+}

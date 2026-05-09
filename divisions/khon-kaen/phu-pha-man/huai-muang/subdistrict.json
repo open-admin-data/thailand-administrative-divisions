@@ -1,0 +1,61 @@
+{
+  "id": "402005",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยม่วง",
+    "en": "Huai Muang",
+    "slug": "huai-muang"
+  },
+  "code": {
+    "dopa": "402005"
+  },
+  "parent": {
+    "id": "4020",
+    "level": 2,
+    "name": {
+      "th": "ภูผาม่าน",
+      "en": "Phu Pha Man",
+      "slug": "phu-pha-man"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4020",
+      "level": 2,
+      "name": {
+        "th": "ภูผาม่าน",
+        "en": "Phu Pha Man",
+        "slug": "phu-pha-man"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "40350"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.765",
+    "lon": "101.909"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-muang-402005/"
+  }
+}

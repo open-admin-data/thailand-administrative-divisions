@@ -1,0 +1,61 @@
+{
+  "id": "711301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยกระเจา",
+    "en": "Huai Krachao",
+    "slug": "huai-krachao"
+  },
+  "code": {
+    "dopa": "711301"
+  },
+  "parent": {
+    "id": "7113",
+    "level": 2,
+    "name": {
+      "th": "ห้วยกระเจา",
+      "en": "Huai Krachao",
+      "slug": "huai-krachao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7113",
+      "level": 2,
+      "name": {
+        "th": "ห้วยกระเจา",
+        "en": "Huai Krachao",
+        "slug": "huai-krachao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "71170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.312",
+    "lon": "99.618"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-krachao-711301/"
+  }
+}

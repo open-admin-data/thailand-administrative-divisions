@@ -1,0 +1,61 @@
+{
+  "id": "540702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สรอย",
+    "en": "Saroi",
+    "slug": "saroi"
+  },
+  "code": {
+    "dopa": "540702"
+  },
+  "parent": {
+    "id": "5407",
+    "level": 2,
+    "name": {
+      "th": "วังชิ้น",
+      "en": "Wang Chin",
+      "slug": "wang-chin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    {
+      "id": "5407",
+      "level": 2,
+      "name": {
+        "th": "วังชิ้น",
+        "en": "Wang Chin",
+        "slug": "wang-chin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "54160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.759",
+    "lon": "99.425"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/saroi-540702/"
+  }
+}

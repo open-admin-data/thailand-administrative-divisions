@@ -1,0 +1,50 @@
+{
+  "id": "3312",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ห้วยทับทัน",
+    "en": "Huai Thap Than",
+    "slug": "huai-thap-than"
+  },
+  "code": {
+    "dopa": "3312"
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "th": "ศรีสะเกษ",
+      "en": "Si Sa Ket",
+      "slug": "si-sa-ket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 81
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.966",
+    "lon": "104.069"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/huai-thap-than-3312/"
+  }
+}

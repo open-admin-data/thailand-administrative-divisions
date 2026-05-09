@@ -1,0 +1,50 @@
+{
+  "id": "3321",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โพธิ์ศรีสุวรรณ",
+    "en": "Pho Si Suwan",
+    "slug": "pho-si-suwan"
+  },
+  "code": {
+    "dopa": "3321"
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "th": "ศรีสะเกษ",
+      "en": "Si Sa Ket",
+      "slug": "si-sa-ket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 80
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.233",
+    "lon": "104.111"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pho-si-suwan-3321/"
+  }
+}

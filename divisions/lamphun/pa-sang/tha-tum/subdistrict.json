@@ -1,0 +1,61 @@
+{
+  "id": "510607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าตุ้ม",
+    "en": "Tha Tum",
+    "slug": "tha-tum"
+  },
+  "code": {
+    "dopa": "510607"
+  },
+  "parent": {
+    "id": "5106",
+    "level": 2,
+    "name": {
+      "th": "ป่าซาง",
+      "en": "Pa Sang",
+      "slug": "pa-sang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5106",
+      "level": 2,
+      "name": {
+        "th": "ป่าซาง",
+        "en": "Pa Sang",
+        "slug": "pa-sang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "51120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.478",
+    "lon": "98.873"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-tum-510607/"
+  }
+}

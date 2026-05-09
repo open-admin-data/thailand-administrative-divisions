@@ -1,0 +1,61 @@
+{
+  "id": "240209",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากน้ำ",
+    "en": "Pak Nam",
+    "slug": "pak-nam"
+  },
+  "code": {
+    "dopa": "240209"
+  },
+  "parent": {
+    "id": "2402",
+    "level": 2,
+    "name": {
+      "th": "บางคล้า",
+      "en": "Bang Khla",
+      "slug": "bang-khla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2402",
+      "level": 2,
+      "name": {
+        "th": "บางคล้า",
+        "en": "Bang Khla",
+        "slug": "bang-khla"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "24110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.753",
+    "lon": "101.212"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-nam-240209/"
+  }
+}

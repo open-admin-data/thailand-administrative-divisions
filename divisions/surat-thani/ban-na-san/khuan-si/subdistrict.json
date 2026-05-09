@@ -1,0 +1,61 @@
+{
+  "id": "841206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ควนศรี",
+    "en": "Khuan Si",
+    "slug": "khuan-si"
+  },
+  "code": {
+    "dopa": "841206"
+  },
+  "parent": {
+    "id": "8412",
+    "level": 2,
+    "name": {
+      "th": "บ้านนาสาร",
+      "en": "Ban Na San",
+      "slug": "ban-na-san"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8412",
+      "level": 2,
+      "name": {
+        "th": "บ้านนาสาร",
+        "en": "Ban Na San",
+        "slug": "ban-na-san"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "84270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.713",
+    "lon": "99.303"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khuan-si-841206/"
+  }
+}

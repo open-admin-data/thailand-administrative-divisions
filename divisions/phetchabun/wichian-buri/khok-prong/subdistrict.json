@@ -1,0 +1,61 @@
+{
+  "id": "670504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกปรง",
+    "en": "Khok Prong",
+    "slug": "khok-prong"
+  },
+  "code": {
+    "dopa": "670504"
+  },
+  "parent": {
+    "id": "6705",
+    "level": 2,
+    "name": {
+      "th": "วิเชียรบุรี",
+      "en": "Wichian Buri",
+      "slug": "wichian-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6705",
+      "level": 2,
+      "name": {
+        "th": "วิเชียรบุรี",
+        "en": "Wichian Buri",
+        "slug": "wichian-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "67130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.814",
+    "lon": "101.227"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-prong-670504/"
+  }
+}

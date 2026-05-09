@@ -1,0 +1,61 @@
+{
+  "id": "710106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองบัว",
+    "en": "Nong Bua",
+    "slug": "nong-bua"
+  },
+  "code": {
+    "dopa": "710106"
+  },
+  "parent": {
+    "id": "7101",
+    "level": 2,
+    "name": {
+      "th": "เมืองกาญจนบุรี",
+      "en": "Mueang Kanchanaburi",
+      "slug": "mueang-kanchanaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7101",
+      "level": 2,
+      "name": {
+        "th": "เมืองกาญจนบุรี",
+        "en": "Mueang Kanchanaburi",
+        "slug": "mueang-kanchanaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "71190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.050",
+    "lon": "99.417"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-bua-710106/"
+  }
+}

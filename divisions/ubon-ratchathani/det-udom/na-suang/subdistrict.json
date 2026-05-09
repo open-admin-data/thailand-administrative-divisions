@@ -1,0 +1,61 @@
+{
+  "id": "340702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาส่วง",
+    "en": "Na Suang",
+    "slug": "na-suang"
+  },
+  "code": {
+    "dopa": "340702"
+  },
+  "parent": {
+    "id": "3407",
+    "level": 2,
+    "name": {
+      "th": "เดชอุดม",
+      "en": "Det Udom",
+      "slug": "det-udom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3407",
+      "level": 2,
+      "name": {
+        "th": "เดชอุดม",
+        "en": "Det Udom",
+        "slug": "det-udom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "34160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.012",
+    "lon": "104.983"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-suang-340702/"
+  }
+}

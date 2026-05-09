@@ -1,0 +1,61 @@
+{
+  "id": "180607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยงู",
+    "en": "Huai Ngu",
+    "slug": "huai-ngu"
+  },
+  "code": {
+    "dopa": "180607"
+  },
+  "parent": {
+    "id": "1806",
+    "level": 2,
+    "name": {
+      "th": "หันคา",
+      "en": "Hankha",
+      "slug": "hankha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "th": "หันคา",
+        "en": "Hankha",
+        "slug": "hankha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "17160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.072",
+    "lon": "100.067"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-ngu-180607/"
+  }
+}

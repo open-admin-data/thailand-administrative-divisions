@@ -1,0 +1,61 @@
+{
+  "id": "720119",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพธิ์พระยา",
+    "en": "Pho Phraya",
+    "slug": "pho-phraya"
+  },
+  "code": {
+    "dopa": "720119"
+  },
+  "parent": {
+    "id": "7201",
+    "level": 2,
+    "name": {
+      "th": "เมืองสุพรรณบุรี",
+      "en": "Mueang Suphan Buri",
+      "slug": "mueang-suphan-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7201",
+      "level": 2,
+      "name": {
+        "th": "เมืองสุพรรณบุรี",
+        "en": "Mueang Suphan Buri",
+        "slug": "mueang-suphan-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "72000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.531",
+    "lon": "100.116"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pho-phraya-720119/"
+  }
+}

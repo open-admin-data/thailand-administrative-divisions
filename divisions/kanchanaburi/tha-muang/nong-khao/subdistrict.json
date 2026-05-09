@@ -1,0 +1,61 @@
+{
+  "id": "710605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองขาว",
+    "en": "Nong Khao",
+    "slug": "nong-khao"
+  },
+  "code": {
+    "dopa": "710605"
+  },
+  "parent": {
+    "id": "7106",
+    "level": 2,
+    "name": {
+      "th": "ท่าม่วง",
+      "en": "Tha Muang",
+      "slug": "tha-muang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7106",
+      "level": 2,
+      "name": {
+        "th": "ท่าม่วง",
+        "en": "Tha Muang",
+        "slug": "tha-muang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "71110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.055",
+    "lon": "99.613"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-khao-710605/"
+  }
+}

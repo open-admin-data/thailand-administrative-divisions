@@ -1,0 +1,61 @@
+{
+  "id": "110301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางพลีใหญ่",
+    "en": "Bang Phli Yai",
+    "slug": "bang-phli-yai"
+  },
+  "code": {
+    "dopa": "110301"
+  },
+  "parent": {
+    "id": "1103",
+    "level": 2,
+    "name": {
+      "th": "บางพลี",
+      "en": "Bang Phli",
+      "slug": "bang-phli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "th": "บางพลี",
+        "en": "Bang Phli",
+        "slug": "bang-phli"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 23
+  },
+  "zip_codes": [
+    "10540"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.618",
+    "lon": "100.694"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-phli-yai-110301/"
+  }
+}

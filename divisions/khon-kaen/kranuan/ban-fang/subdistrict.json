@@ -1,0 +1,61 @@
+{
+  "id": "400907",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านฝาง",
+    "en": "Ban Fang",
+    "slug": "ban-fang"
+  },
+  "code": {
+    "dopa": "400907"
+  },
+  "parent": {
+    "id": "4009",
+    "level": 2,
+    "name": {
+      "th": "กระนวน",
+      "en": "Kranuan",
+      "slug": "kranuan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4009",
+      "level": 2,
+      "name": {
+        "th": "กระนวน",
+        "en": "Kranuan",
+        "slug": "kranuan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "40170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.769",
+    "lon": "103.050"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-fang-400907/"
+  }
+}

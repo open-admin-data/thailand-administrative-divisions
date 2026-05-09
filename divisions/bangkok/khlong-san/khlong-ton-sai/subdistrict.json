@@ -1,0 +1,61 @@
+{
+  "id": "101804",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง คลองต้นไทร",
+    "en": "Khlong Ton Sai",
+    "slug": "khlong-ton-sai"
+  },
+  "code": {
+    "dopa": "101804"
+  },
+  "parent": {
+    "id": "1018",
+    "level": 2,
+    "name": {
+      "th": "เขต คลองสาน",
+      "en": "Khlong San",
+      "slug": "khlong-san"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1018",
+      "level": 2,
+      "name": {
+        "th": "เขต คลองสาน",
+        "en": "Khlong San",
+        "slug": "khlong-san"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10600"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.725",
+    "lon": "100.508"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-ton-sai-101804/"
+  }
+}

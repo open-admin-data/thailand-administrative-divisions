@@ -1,0 +1,50 @@
+{
+  "id": "5107",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านธิ",
+    "en": "Ban Thi",
+    "slug": "ban-thi"
+  },
+  "code": {
+    "dopa": "5107"
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "th": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 2,
+    "villages": 36
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.679",
+    "lon": "99.163"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-thi-5107/"
+  }
+}

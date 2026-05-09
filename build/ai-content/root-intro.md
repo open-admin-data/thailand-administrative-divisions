@@ -1,0 +1,3 @@
+Open dataset of Thailand's complete administrative hierarchy — from provinces down to villages. This repository provides structured, bilingual (Thai + English) reference data for all four levels of Thailand's administrative divisions, including zip codes (รหัสไปรษณีย์) and geographic coordinates (พิกัด) at every level. Designed for developers, researchers, government agencies, and AI agents.
+
+All data is sourced from [ThaiAddress.org](https://thaiaddress.org) and published under the CC-BY-4.0 license. Browse the hierarchy through GitHub's folder navigation, download aggregate files in JSON/CSV/NDJSON, or integrate directly via raw URLs.

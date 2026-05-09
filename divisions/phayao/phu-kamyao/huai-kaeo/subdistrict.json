@@ -1,0 +1,61 @@
+{
+  "id": "560901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยแก้ว",
+    "en": "Huai Kaeo",
+    "slug": "huai-kaeo"
+  },
+  "code": {
+    "dopa": "560901"
+  },
+  "parent": {
+    "id": "5609",
+    "level": 2,
+    "name": {
+      "th": "ภูกามยาว",
+      "en": "Phu Kamyao",
+      "slug": "phu-kamyao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5609",
+      "level": 2,
+      "name": {
+        "th": "ภูกามยาว",
+        "en": "Phu Kamyao",
+        "slug": "phu-kamyao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "56000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.311",
+    "lon": "99.999"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-kaeo-560901/"
+  }
+}

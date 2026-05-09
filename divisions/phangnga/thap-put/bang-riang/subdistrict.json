@@ -1,0 +1,61 @@
+{
+  "id": "820706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางเหรียง",
+    "en": "Bang Riang",
+    "slug": "bang-riang"
+  },
+  "code": {
+    "dopa": "820706"
+  },
+  "parent": {
+    "id": "8207",
+    "level": 2,
+    "name": {
+      "th": "ทับปุด",
+      "en": "Thap Put",
+      "slug": "thap-put"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8207",
+      "level": 2,
+      "name": {
+        "th": "ทับปุด",
+        "en": "Thap Put",
+        "slug": "thap-put"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "82180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.610",
+    "lon": "98.654"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-riang-820706/"
+  }
+}

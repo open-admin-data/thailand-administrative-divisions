@@ -1,0 +1,50 @@
+{
+  "id": "3609",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เทพสถิต",
+    "en": "Thep Sathit",
+    "slug": "thep-sathit"
+  },
+  "code": {
+    "dopa": "3609"
+  },
+  "parent": {
+    "id": "36",
+    "level": 1,
+    "name": {
+      "th": "ชัยภูมิ",
+      "en": "Chaiyaphum",
+      "slug": "chaiyaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 92
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.432",
+    "lon": "101.547"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thep-sathit-3609/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "920205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังวน",
+    "en": "Wang Won",
+    "slug": "wang-won"
+  },
+  "code": {
+    "dopa": "920205"
+  },
+  "parent": {
+    "id": "9202",
+    "level": 2,
+    "name": {
+      "th": "กันตัง",
+      "en": "Kantang",
+      "slug": "kantang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "th": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "92110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.358",
+    "lon": "99.558"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-won-920205/"
+  }
+}

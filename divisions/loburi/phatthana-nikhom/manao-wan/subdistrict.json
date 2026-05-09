@@ -1,0 +1,61 @@
+{
+  "id": "160203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มะนาวหวาน",
+    "en": "Manao Wan",
+    "slug": "manao-wan"
+  },
+  "code": {
+    "dopa": "160203"
+  },
+  "parent": {
+    "id": "1602",
+    "level": 2,
+    "name": {
+      "th": "พัฒนานิคม",
+      "en": "Phatthana Nikhom",
+      "slug": "phatthana-nikhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1602",
+      "level": 2,
+      "name": {
+        "th": "พัฒนานิคม",
+        "en": "Phatthana Nikhom",
+        "slug": "phatthana-nikhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "15140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.934",
+    "lon": "101.093"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/manao-wan-160203/"
+  }
+}

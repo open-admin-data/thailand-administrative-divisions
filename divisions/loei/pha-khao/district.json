@@ -1,0 +1,50 @@
+{
+  "id": "4212",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ผาขาว",
+    "en": "Pha Khao",
+    "slug": "pha-khao"
+  },
+  "code": {
+    "dopa": "4212"
+  },
+  "parent": {
+    "id": "42",
+    "level": 1,
+    "name": {
+      "th": "เลย",
+      "en": "Loei",
+      "slug": "loei"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 64
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.102",
+    "lon": "102.052"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pha-khao-4212/"
+  }
+}

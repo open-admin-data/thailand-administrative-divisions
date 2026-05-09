@@ -1,0 +1,38 @@
+{
+  "id": "54",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "แพร่",
+    "en": "Phrae",
+    "slug": "phrae"
+  },
+  "code": {
+    "dopa": "54",
+    "iso": "TH-54"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 8,
+    "subdistricts": 78,
+    "villages": 726
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern"
+    }
+  },
+  "geo": {
+    "lat": "18.140",
+    "lon": "100.142"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/phrae-54/"
+  }
+}

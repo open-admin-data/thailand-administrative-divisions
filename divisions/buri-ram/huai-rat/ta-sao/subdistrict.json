@@ -1,0 +1,61 @@
+{
+  "id": "311603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตาเสา",
+    "en": "Ta Sao",
+    "slug": "ta-sao"
+  },
+  "code": {
+    "dopa": "311603"
+  },
+  "parent": {
+    "id": "3116",
+    "level": 2,
+    "name": {
+      "th": "ห้วยราช",
+      "en": "Huai Rat",
+      "slug": "huai-rat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3116",
+      "level": 2,
+      "name": {
+        "th": "ห้วยราช",
+        "en": "Huai Rat",
+        "slug": "huai-rat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "31000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.088",
+    "lon": "103.285"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ta-sao-311603/"
+  }
+}

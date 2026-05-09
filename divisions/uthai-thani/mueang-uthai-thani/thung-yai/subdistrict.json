@@ -1,0 +1,61 @@
+{
+  "id": "610113",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งใหญ่",
+    "en": "Thung Yai",
+    "slug": "thung-yai"
+  },
+  "code": {
+    "dopa": "610113"
+  },
+  "parent": {
+    "id": "6101",
+    "level": 2,
+    "name": {
+      "th": "เมืองอุทัยธานี",
+      "en": "Mueang Uthai Thani",
+      "slug": "mueang-uthai-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "th": "เมืองอุทัยธานี",
+        "en": "Mueang Uthai Thani",
+        "slug": "mueang-uthai-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "61000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.483",
+    "lon": "99.974"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-yai-610113/"
+  }
+}

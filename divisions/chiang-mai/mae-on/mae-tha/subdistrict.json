@@ -1,0 +1,61 @@
+{
+  "id": "502305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่ทา",
+    "en": "Mae Tha",
+    "slug": "mae-tha"
+  },
+  "code": {
+    "dopa": "502305"
+  },
+  "parent": {
+    "id": "5023",
+    "level": 2,
+    "name": {
+      "th": "แม่ออน",
+      "en": "Mae On",
+      "slug": "mae-on"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5023",
+      "level": 2,
+      "name": {
+        "th": "แม่ออน",
+        "en": "Mae On",
+        "slug": "mae-on"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "50130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.591",
+    "lon": "99.289"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-tha-502305/"
+  }
+}

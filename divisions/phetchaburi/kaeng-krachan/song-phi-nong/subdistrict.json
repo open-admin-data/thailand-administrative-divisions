@@ -1,0 +1,61 @@
+{
+  "id": "760802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สองพี่น้อง",
+    "en": "Song Phi Nong",
+    "slug": "song-phi-nong"
+  },
+  "code": {
+    "dopa": "760802"
+  },
+  "parent": {
+    "id": "7608",
+    "level": 2,
+    "name": {
+      "th": "แก่งกระจาน",
+      "en": "Kaeng Krachan",
+      "slug": "kaeng-krachan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7608",
+      "level": 2,
+      "name": {
+        "th": "แก่งกระจาน",
+        "en": "Kaeng Krachan",
+        "slug": "kaeng-krachan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "76170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.853",
+    "lon": "99.614"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/song-phi-nong-760802/"
+  }
+}

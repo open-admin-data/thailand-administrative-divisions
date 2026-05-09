@@ -1,0 +1,61 @@
+{
+  "id": "501510",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านปง",
+    "en": "Ban Pong",
+    "slug": "ban-pong"
+  },
+  "code": {
+    "dopa": "501510"
+  },
+  "parent": {
+    "id": "5015",
+    "level": 2,
+    "name": {
+      "th": "หางดง",
+      "en": "Hang Dong",
+      "slug": "hang-dong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5015",
+      "level": 2,
+      "name": {
+        "th": "หางดง",
+        "en": "Hang Dong",
+        "slug": "hang-dong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "50230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.769",
+    "lon": "98.868"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-pong-501510/"
+  }
+}

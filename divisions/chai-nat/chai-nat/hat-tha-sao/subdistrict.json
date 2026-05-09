@@ -1,0 +1,61 @@
+{
+  "id": "180106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หาดท่าเสา",
+    "en": "Hat Tha Sao",
+    "slug": "hat-tha-sao"
+  },
+  "code": {
+    "dopa": "180106"
+  },
+  "parent": {
+    "id": "1801",
+    "level": 2,
+    "name": {
+      "th": "เมืองชัยนาท",
+      "en": "Chai Nat",
+      "slug": "chai-nat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "th": "เมืองชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "17000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.200",
+    "lon": "100.079"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hat-tha-sao-180106/"
+  }
+}

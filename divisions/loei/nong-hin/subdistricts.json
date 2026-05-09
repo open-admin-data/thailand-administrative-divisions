@@ -1,0 +1,185 @@
+[
+  {
+    "id": "421401",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองหิน",
+      "en": "Nong Hin",
+      "slug": "nong-hin"
+    },
+    "code": {
+      "dopa": "421401"
+    },
+    "parent": {
+      "id": "4214",
+      "level": 2,
+      "name": {
+        "th": "หนองหิน",
+        "en": "Nong Hin",
+        "slug": "nong-hin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      },
+      {
+        "id": "4214",
+        "level": 2,
+        "name": {
+          "th": "หนองหิน",
+          "en": "Nong Hin",
+          "slug": "nong-hin"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 14
+    },
+    "zip_codes": [
+      "42190"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.112",
+      "lon": "101.860"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-hin-421401/"
+    }
+  },
+  {
+    "id": "421403",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ปวนพุ",
+      "en": "Puan Phu",
+      "slug": "puan-phu"
+    },
+    "code": {
+      "dopa": "421403"
+    },
+    "parent": {
+      "id": "4214",
+      "level": 2,
+      "name": {
+        "th": "หนองหิน",
+        "en": "Nong Hin",
+        "slug": "nong-hin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      },
+      {
+        "id": "4214",
+        "level": 2,
+        "name": {
+          "th": "หนองหิน",
+          "en": "Nong Hin",
+          "slug": "nong-hin"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 15
+    },
+    "zip_codes": [
+      "42190"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.031",
+      "lon": "101.741"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/puan-phu-421403/"
+    }
+  },
+  {
+    "id": "421402",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ตาดข่า",
+      "en": "Tat Kha",
+      "slug": "tat-kha"
+    },
+    "code": {
+      "dopa": "421402"
+    },
+    "parent": {
+      "id": "4214",
+      "level": 2,
+      "name": {
+        "th": "หนองหิน",
+        "en": "Nong Hin",
+        "slug": "nong-hin"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      },
+      {
+        "id": "4214",
+        "level": 2,
+        "name": {
+          "th": "หนองหิน",
+          "en": "Nong Hin",
+          "slug": "nong-hin"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 5
+    },
+    "zip_codes": [
+      "42190"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.033",
+      "lon": "101.879"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/tat-kha-421402/"
+    }
+  }
+]

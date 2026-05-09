@@ -1,0 +1,50 @@
+{
+  "id": "2305",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แหลมงอบ",
+    "en": "Laem Ngop",
+    "slug": "laem-ngop"
+  },
+  "code": {
+    "dopa": "2305"
+  },
+  "parent": {
+    "id": "23",
+    "level": 1,
+    "name": {
+      "th": "ตราด",
+      "en": "Trat",
+      "slug": "trat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "th": "ตราด",
+        "en": "Trat",
+        "slug": "trat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 27
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.209",
+    "lon": "102.436"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/laem-ngop-2305/"
+  }
+}

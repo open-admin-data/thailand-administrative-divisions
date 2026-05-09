@@ -1,0 +1,61 @@
+{
+  "id": "470303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาม่อง",
+    "en": "Na Mong",
+    "slug": "na-mong"
+  },
+  "code": {
+    "dopa": "470303"
+  },
+  "parent": {
+    "id": "4703",
+    "level": 2,
+    "name": {
+      "th": "กุดบาก",
+      "en": "Kut Bak",
+      "slug": "kut-bak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4703",
+      "level": 2,
+      "name": {
+        "th": "กุดบาก",
+        "en": "Kut Bak",
+        "slug": "kut-bak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "47180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.093",
+    "lon": "103.906"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-mong-470303/"
+  }
+}

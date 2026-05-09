@@ -1,0 +1,61 @@
+{
+  "id": "302403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สำพะเนียง",
+    "en": "Samphaniang",
+    "slug": "samphaniang"
+  },
+  "code": {
+    "dopa": "302403"
+  },
+  "parent": {
+    "id": "3024",
+    "level": 2,
+    "name": {
+      "th": "โนนแดง",
+      "en": "Non Daeng",
+      "slug": "non-daeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3024",
+      "level": 2,
+      "name": {
+        "th": "โนนแดง",
+        "en": "Non Daeng",
+        "slug": "non-daeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "30360"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.452",
+    "lon": "102.568"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samphaniang-302403/"
+  }
+}

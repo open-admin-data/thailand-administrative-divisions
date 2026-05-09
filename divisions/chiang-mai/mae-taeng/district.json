@@ -1,0 +1,50 @@
+{
+  "id": "5006",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แม่แตง",
+    "en": "Mae Taeng",
+    "slug": "mae-taeng"
+  },
+  "code": {
+    "dopa": "5006"
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 147
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.144",
+    "lon": "99.024"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mae-taeng-5006/"
+  }
+}

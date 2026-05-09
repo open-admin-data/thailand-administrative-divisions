@@ -1,0 +1,61 @@
+{
+  "id": "400511",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองเสาเล้า",
+    "en": "Nong Sao Lao",
+    "slug": "nong-sao-lao"
+  },
+  "code": {
+    "dopa": "400511"
+  },
+  "parent": {
+    "id": "4005",
+    "level": 2,
+    "name": {
+      "th": "ชุมแพ",
+      "en": "Chum Phae",
+      "slug": "chum-phae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4005",
+      "level": 2,
+      "name": {
+        "th": "ชุมแพ",
+        "en": "Chum Phae",
+        "slug": "chum-phae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "40130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.586",
+    "lon": "102.298"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-sao-lao-400511/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "501904",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไชยสถาน",
+    "en": "Chai Sathan",
+    "slug": "chai-sathan"
+  },
+  "code": {
+    "dopa": "501904"
+  },
+  "parent": {
+    "id": "5019",
+    "level": 2,
+    "name": {
+      "th": "สารภี",
+      "en": "Saraphi",
+      "slug": "saraphi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5019",
+      "level": 2,
+      "name": {
+        "th": "สารภี",
+        "en": "Saraphi",
+        "slug": "saraphi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "50140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.745",
+    "lon": "99.043"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chai-sathan-501904/"
+  }
+}

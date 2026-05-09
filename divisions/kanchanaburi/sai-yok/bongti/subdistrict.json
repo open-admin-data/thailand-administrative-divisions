@@ -1,0 +1,61 @@
+{
+  "id": "710207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้องตี้",
+    "en": "Bongti",
+    "slug": "bongti"
+  },
+  "code": {
+    "dopa": "710207"
+  },
+  "parent": {
+    "id": "7102",
+    "level": 2,
+    "name": {
+      "th": "ไทรโยค",
+      "en": "Sai Yok",
+      "slug": "sai-yok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "th": "ไทรโยค",
+        "en": "Sai Yok",
+        "slug": "sai-yok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "71150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.134",
+    "lon": "98.916"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bongti-710207/"
+  }
+}

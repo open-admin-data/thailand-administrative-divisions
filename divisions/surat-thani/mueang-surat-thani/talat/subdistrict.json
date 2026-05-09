@@ -1,0 +1,61 @@
+{
+  "id": "840101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตลาด",
+    "en": "Talat",
+    "slug": "talat"
+  },
+  "code": {
+    "dopa": "840101"
+  },
+  "parent": {
+    "id": "8401",
+    "level": 2,
+    "name": {
+      "th": "เมืองสุราษฎร์ธานี",
+      "en": "Mueang Surat Thani",
+      "slug": "mueang-surat-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8401",
+      "level": 2,
+      "name": {
+        "th": "เมืองสุราษฎร์ธานี",
+        "en": "Mueang Surat Thani",
+        "slug": "mueang-surat-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "84000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.137",
+    "lon": "99.320"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/talat-840101/"
+  }
+}

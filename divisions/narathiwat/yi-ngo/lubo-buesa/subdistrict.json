@@ -1,0 +1,61 @@
+{
+  "id": "960405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลุโบะบือซา",
+    "en": "Lubo Buesa",
+    "slug": "lubo-buesa"
+  },
+  "code": {
+    "dopa": "960405"
+  },
+  "parent": {
+    "id": "9604",
+    "level": 2,
+    "name": {
+      "th": "ยี่งอ",
+      "en": "Yi-ngo",
+      "slug": "yi-ngo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9604",
+      "level": 2,
+      "name": {
+        "th": "ยี่งอ",
+        "en": "Yi-ngo",
+        "slug": "yi-ngo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "96180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.430",
+    "lon": "101.725"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lubo-buesa-960405/"
+  }
+}

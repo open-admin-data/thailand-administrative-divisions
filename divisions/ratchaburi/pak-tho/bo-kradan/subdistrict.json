@@ -1,0 +1,61 @@
+{
+  "id": "700809",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อกระดาน",
+    "en": "Bo Kradan",
+    "slug": "bo-kradan"
+  },
+  "code": {
+    "dopa": "700809"
+  },
+  "parent": {
+    "id": "7008",
+    "level": 2,
+    "name": {
+      "th": "ปากท่อ",
+      "en": "Pak Tho",
+      "slug": "pak-tho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7008",
+      "level": 2,
+      "name": {
+        "th": "ปากท่อ",
+        "en": "Pak Tho",
+        "slug": "pak-tho"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "70140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.438",
+    "lon": "99.801"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-kradan-700809/"
+  }
+}

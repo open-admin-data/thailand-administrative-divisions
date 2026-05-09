@@ -1,0 +1,61 @@
+{
+  "id": "620609",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ถ้ำกระต่ายทอง",
+    "en": "Tham Kratai Thong",
+    "slug": "tham-kratai-thong"
+  },
+  "code": {
+    "dopa": "620609"
+  },
+  "parent": {
+    "id": "6206",
+    "level": 2,
+    "name": {
+      "th": "พรานกระต่าย",
+      "en": "Phran Kratai",
+      "slug": "phran-kratai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6206",
+      "level": 2,
+      "name": {
+        "th": "พรานกระต่าย",
+        "en": "Phran Kratai",
+        "slug": "phran-kratai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "62110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.729",
+    "lon": "99.541"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tham-kratai-thong-620609/"
+  }
+}

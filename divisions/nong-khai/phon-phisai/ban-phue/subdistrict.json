@@ -1,0 +1,61 @@
+{
+  "id": "430521",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านผือ",
+    "en": "Ban Phue",
+    "slug": "ban-phue"
+  },
+  "code": {
+    "dopa": "430521"
+  },
+  "parent": {
+    "id": "4305",
+    "level": 2,
+    "name": {
+      "th": "โพนพิสัย",
+      "en": "Phon Phisai",
+      "slug": "phon-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4305",
+      "level": 2,
+      "name": {
+        "th": "โพนพิสัย",
+        "en": "Phon Phisai",
+        "slug": "phon-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "43120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.930",
+    "lon": "103.213"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-phue-430521/"
+  }
+}

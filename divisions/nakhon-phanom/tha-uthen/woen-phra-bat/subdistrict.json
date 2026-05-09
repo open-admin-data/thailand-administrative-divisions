@@ -1,0 +1,61 @@
+{
+  "id": "480311",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เวินพระบาท",
+    "en": "Woen Phra Bat",
+    "slug": "woen-phra-bat"
+  },
+  "code": {
+    "dopa": "480311"
+  },
+  "parent": {
+    "id": "4803",
+    "level": 2,
+    "name": {
+      "th": "ท่าอุเทน",
+      "en": "Tha Uthen",
+      "slug": "tha-uthen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4803",
+      "level": 2,
+      "name": {
+        "th": "ท่าอุเทน",
+        "en": "Tha Uthen",
+        "slug": "tha-uthen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "48120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.509",
+    "lon": "104.676"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/woen-phra-bat-480311/"
+  }
+}

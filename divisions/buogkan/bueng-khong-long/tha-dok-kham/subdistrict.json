@@ -1,0 +1,61 @@
+{
+  "id": "380604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าดอกคำ",
+    "en": "Tha Dok Kham",
+    "slug": "tha-dok-kham"
+  },
+  "code": {
+    "dopa": "380604"
+  },
+  "parent": {
+    "id": "3806",
+    "level": 2,
+    "name": {
+      "th": "บึงโขงหลง",
+      "en": "Bueng Khong Long",
+      "slug": "bueng-khong-long"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3806",
+      "level": 2,
+      "name": {
+        "th": "บึงโขงหลง",
+        "en": "Bueng Khong Long",
+        "slug": "bueng-khong-long"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "38220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.123",
+    "lon": "104.058"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-dok-kham-380604/"
+  }
+}

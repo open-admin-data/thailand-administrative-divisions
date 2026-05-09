@@ -1,0 +1,61 @@
+{
+  "id": "421001",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีฐาน",
+    "en": "Si Than",
+    "slug": "si-than"
+  },
+  "code": {
+    "dopa": "421001"
+  },
+  "parent": {
+    "id": "4210",
+    "level": 2,
+    "name": {
+      "th": "ภูกระดึง",
+      "en": "Phu Kradueng",
+      "slug": "phu-kradueng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4210",
+      "level": 2,
+      "name": {
+        "th": "ภูกระดึง",
+        "en": "Phu Kradueng",
+        "slug": "phu-kradueng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "42180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.880",
+    "lon": "101.771"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-than-421001/"
+  }
+}

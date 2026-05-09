@@ -1,0 +1,61 @@
+{
+  "id": "901509",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวเขา",
+    "en": "Hua Khao",
+    "slug": "hua-khao"
+  },
+  "code": {
+    "dopa": "901509"
+  },
+  "parent": {
+    "id": "9015",
+    "level": 2,
+    "name": {
+      "th": "สิงหนคร",
+      "en": "Singhanakhon",
+      "slug": "singhanakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9015",
+      "level": 2,
+      "name": {
+        "th": "สิงหนคร",
+        "en": "Singhanakhon",
+        "slug": "singhanakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "90280"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.181",
+    "lon": "100.570"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-khao-901509/"
+  }
+}

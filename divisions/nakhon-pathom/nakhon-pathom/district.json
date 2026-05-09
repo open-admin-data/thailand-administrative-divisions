@@ -1,0 +1,50 @@
+{
+  "id": "7301",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองนครปฐม",
+    "en": "Nakhon Pathom",
+    "slug": "nakhon-pathom"
+  },
+  "code": {
+    "dopa": "7301"
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "th": "นครปฐม",
+      "en": "Nakhon Pathom",
+      "slug": "nakhon-pathom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 25,
+    "villages": 291
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.819",
+    "lon": "100.050"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nakhon-pathom-7301/"
+  }
+}

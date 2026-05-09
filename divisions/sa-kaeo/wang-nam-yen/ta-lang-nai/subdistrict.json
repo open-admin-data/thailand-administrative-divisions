@@ -1,0 +1,61 @@
+{
+  "id": "270403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตาหลังใน",
+    "en": "Ta Lang Nai",
+    "slug": "ta-lang-nai"
+  },
+  "code": {
+    "dopa": "270403"
+  },
+  "parent": {
+    "id": "2704",
+    "level": 2,
+    "name": {
+      "th": "วังน้ำเย็น",
+      "en": "Wang Nam Yen",
+      "slug": "wang-nam-yen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    },
+    {
+      "id": "2704",
+      "level": 2,
+      "name": {
+        "th": "วังน้ำเย็น",
+        "en": "Wang Nam Yen",
+        "slug": "wang-nam-yen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "27210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.471",
+    "lon": "102.130"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ta-lang-nai-270403/"
+  }
+}

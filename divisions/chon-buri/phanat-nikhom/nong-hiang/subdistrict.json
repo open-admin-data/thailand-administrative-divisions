@@ -1,0 +1,61 @@
+{
+  "id": "200616",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองเหียง",
+    "en": "Nong Hiang",
+    "slug": "nong-hiang"
+  },
+  "code": {
+    "dopa": "200616"
+  },
+  "parent": {
+    "id": "2006",
+    "level": 2,
+    "name": {
+      "th": "พนัสนิคม",
+      "en": "Phanat Nikhom",
+      "slug": "phanat-nikhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2006",
+      "level": 2,
+      "name": {
+        "th": "พนัสนิคม",
+        "en": "Phanat Nikhom",
+        "slug": "phanat-nikhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "20140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.464",
+    "lon": "101.330"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-hiang-200616/"
+  }
+}

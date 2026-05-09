@@ -1,0 +1,61 @@
+{
+  "id": "650508",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เนินกุ่ม",
+    "en": "Noen Kum",
+    "slug": "noen-kum"
+  },
+  "code": {
+    "dopa": "650508"
+  },
+  "parent": {
+    "id": "6505",
+    "level": 2,
+    "name": {
+      "th": "บางกระทุ่ม",
+      "en": "Bang Krathum",
+      "slug": "bang-krathum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6505",
+      "level": 2,
+      "name": {
+        "th": "บางกระทุ่ม",
+        "en": "Bang Krathum",
+        "slug": "bang-krathum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "65210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.541",
+    "lon": "100.458"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/noen-kum-650508/"
+  }
+}

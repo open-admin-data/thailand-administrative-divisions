@@ -1,0 +1,61 @@
+{
+  "id": "190208",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านป่า",
+    "en": "Ban Pa",
+    "slug": "ban-pa"
+  },
+  "code": {
+    "dopa": "190208"
+  },
+  "parent": {
+    "id": "1902",
+    "level": 2,
+    "name": {
+      "th": "แก่งคอย",
+      "en": "Kaeng Khoi",
+      "slug": "kaeng-khoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1902",
+      "level": 2,
+      "name": {
+        "th": "แก่งคอย",
+        "en": "Kaeng Khoi",
+        "slug": "kaeng-khoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "18110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.622",
+    "lon": "101.029"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-pa-190208/"
+  }
+}

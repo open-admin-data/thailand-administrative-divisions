@@ -1,0 +1,61 @@
+{
+  "id": "150502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีพราน",
+    "en": "Si Phran",
+    "slug": "si-phran"
+  },
+  "code": {
+    "dopa": "150502"
+  },
+  "parent": {
+    "id": "1505",
+    "level": 2,
+    "name": {
+      "th": "แสวงหา",
+      "en": "Sawaeng Ha",
+      "slug": "sawaeng-ha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1505",
+      "level": 2,
+      "name": {
+        "th": "แสวงหา",
+        "en": "Sawaeng Ha",
+        "slug": "sawaeng-ha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "14150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.725",
+    "lon": "100.328"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-phran-150502/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "9607",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ศรีสาคร",
+    "en": "Si Sakhon",
+    "slug": "si-sakhon"
+  },
+  "code": {
+    "dopa": "9607"
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "th": "นราธิวาส",
+      "en": "Narathiwat",
+      "slug": "narathiwat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 35
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.282",
+    "lon": "101.515"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/si-sakhon-9607/"
+  }
+}

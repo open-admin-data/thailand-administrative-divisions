@@ -1,0 +1,61 @@
+{
+  "id": "332003",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตำแย",
+    "en": "Tamyae",
+    "slug": "tamyae"
+  },
+  "code": {
+    "dopa": "332003"
+  },
+  "parent": {
+    "id": "3320",
+    "level": 2,
+    "name": {
+      "th": "พยุห์",
+      "en": "Phayu",
+      "slug": "phayu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "th": "พยุห์",
+        "en": "Phayu",
+        "slug": "phayu"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "33230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.918",
+    "lon": "104.422"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tamyae-332003/"
+  }
+}

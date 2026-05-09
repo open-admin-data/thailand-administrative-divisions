@@ -1,0 +1,61 @@
+{
+  "id": "900103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะแต้ว",
+    "en": "Ko Taeo",
+    "slug": "ko-taeo"
+  },
+  "code": {
+    "dopa": "900103"
+  },
+  "parent": {
+    "id": "9001",
+    "level": 2,
+    "name": {
+      "th": "เมืองสงขลา",
+      "en": "Mueang Songkhla",
+      "slug": "mueang-songkhla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9001",
+      "level": 2,
+      "name": {
+        "th": "เมืองสงขลา",
+        "en": "Mueang Songkhla",
+        "slug": "mueang-songkhla"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "90000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.112",
+    "lon": "100.638"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-taeo-900103/"
+  }
+}

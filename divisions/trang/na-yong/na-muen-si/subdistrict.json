@@ -1,0 +1,61 @@
+{
+  "id": "920805",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาหมื่นศรี",
+    "en": "Na Muen Si",
+    "slug": "na-muen-si"
+  },
+  "code": {
+    "dopa": "920805"
+  },
+  "parent": {
+    "id": "9208",
+    "level": 2,
+    "name": {
+      "th": "นาโยง",
+      "en": "Na Yong",
+      "slug": "na-yong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9208",
+      "level": 2,
+      "name": {
+        "th": "นาโยง",
+        "en": "Na Yong",
+        "slug": "na-yong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "92170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.609",
+    "lon": "99.699"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-muen-si-920805/"
+  }
+}

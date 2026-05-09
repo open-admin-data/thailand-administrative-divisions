@@ -1,0 +1,50 @@
+{
+  "id": "6302",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านตาก",
+    "en": "Ban Tak",
+    "slug": "ban-tak"
+  },
+  "code": {
+    "dopa": "6302"
+  },
+  "parent": {
+    "id": "63",
+    "level": 1,
+    "name": {
+      "th": "ตาก",
+      "en": "Tak",
+      "slug": "tak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 79
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.001",
+    "lon": "99.068"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-tak-6302/"
+  }
+}

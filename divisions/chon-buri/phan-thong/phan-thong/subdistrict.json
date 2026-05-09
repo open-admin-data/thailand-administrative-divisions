@@ -1,0 +1,61 @@
+{
+  "id": "200501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พานทอง",
+    "en": "Phan Thong",
+    "slug": "phan-thong"
+  },
+  "code": {
+    "dopa": "200501"
+  },
+  "parent": {
+    "id": "2005",
+    "level": 2,
+    "name": {
+      "th": "พานทอง",
+      "en": "Phan Thong",
+      "slug": "phan-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "th": "พานทอง",
+        "en": "Phan Thong",
+        "slug": "phan-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "20160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.461",
+    "lon": "101.084"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phan-thong-200501/"
+  }
+}

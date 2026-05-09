@@ -1,0 +1,734 @@
+[
+  {
+    "id": "56020101",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านห้วยข้าวก่ำใต้",
+      "en": "Ban Huai Khao Kam Tai",
+      "slug": "56020101"
+    },
+    "code": {
+      "dopa": "56020101"
+    },
+    "parent": {
+      "id": "560201",
+      "level": 3,
+      "name": {
+        "th": "ห้วยข้าวก่ำ",
+        "en": "Huai Khao Kam",
+        "slug": "huai-khao-kam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "th": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao"
+        }
+      },
+      {
+        "id": "5602",
+        "level": 2,
+        "name": {
+          "th": "จุน",
+          "en": "Chun",
+          "slug": "chun"
+        }
+      },
+      {
+        "id": "560201",
+        "level": 3,
+        "name": {
+          "th": "ห้วยข้าวก่ำ",
+          "en": "Huai Khao Kam",
+          "slug": "huai-khao-kam"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "19.344684686219686",
+      "lon": "100.13237580657005"
+    },
+    "source": {}
+  },
+  {
+    "id": "56020102",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านทุ่ง",
+      "en": "Ban Thung",
+      "slug": "56020102"
+    },
+    "code": {
+      "dopa": "56020102"
+    },
+    "parent": {
+      "id": "560201",
+      "level": 3,
+      "name": {
+        "th": "ห้วยข้าวก่ำ",
+        "en": "Huai Khao Kam",
+        "slug": "huai-khao-kam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "th": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao"
+        }
+      },
+      {
+        "id": "5602",
+        "level": 2,
+        "name": {
+          "th": "จุน",
+          "en": "Chun",
+          "slug": "chun"
+        }
+      },
+      {
+        "id": "560201",
+        "level": 3,
+        "name": {
+          "th": "ห้วยข้าวก่ำ",
+          "en": "Huai Khao Kam",
+          "slug": "huai-khao-kam"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.72706875088845",
+      "lon": "100.5340875685215"
+    },
+    "source": {}
+  },
+  {
+    "id": "56020103",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านสันป่าก้าว",
+      "en": "Ban San Pa Kao",
+      "slug": "56020103"
+    },
+    "code": {
+      "dopa": "56020103"
+    },
+    "parent": {
+      "id": "560201",
+      "level": 3,
+      "name": {
+        "th": "ห้วยข้าวก่ำ",
+        "en": "Huai Khao Kam",
+        "slug": "huai-khao-kam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "th": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao"
+        }
+      },
+      {
+        "id": "5602",
+        "level": 2,
+        "name": {
+          "th": "จุน",
+          "en": "Chun",
+          "slug": "chun"
+        }
+      },
+      {
+        "id": "560201",
+        "level": 3,
+        "name": {
+          "th": "ห้วยข้าวก่ำ",
+          "en": "Huai Khao Kam",
+          "slug": "huai-khao-kam"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.72706875088845",
+      "lon": "100.5340875685215"
+    },
+    "source": {}
+  },
+  {
+    "id": "56020104",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านห้วยข้าวก่ำเหนือ",
+      "en": "Ban Huai Khao Kam Nuea",
+      "slug": "56020104"
+    },
+    "code": {
+      "dopa": "56020104"
+    },
+    "parent": {
+      "id": "560201",
+      "level": 3,
+      "name": {
+        "th": "ห้วยข้าวก่ำ",
+        "en": "Huai Khao Kam",
+        "slug": "huai-khao-kam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "th": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao"
+        }
+      },
+      {
+        "id": "5602",
+        "level": 2,
+        "name": {
+          "th": "จุน",
+          "en": "Chun",
+          "slug": "chun"
+        }
+      },
+      {
+        "id": "560201",
+        "level": 3,
+        "name": {
+          "th": "ห้วยข้าวก่ำ",
+          "en": "Huai Khao Kam",
+          "slug": "huai-khao-kam"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "19.341894478227502",
+      "lon": "100.11876359581947"
+    },
+    "source": {}
+  },
+  {
+    "id": "56020105",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านบัวสถาน",
+      "en": "Ban Hua Sathan",
+      "slug": "56020105"
+    },
+    "code": {
+      "dopa": "56020105"
+    },
+    "parent": {
+      "id": "560201",
+      "level": 3,
+      "name": {
+        "th": "ห้วยข้าวก่ำ",
+        "en": "Huai Khao Kam",
+        "slug": "huai-khao-kam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "th": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao"
+        }
+      },
+      {
+        "id": "5602",
+        "level": 2,
+        "name": {
+          "th": "จุน",
+          "en": "Chun",
+          "slug": "chun"
+        }
+      },
+      {
+        "id": "560201",
+        "level": 3,
+        "name": {
+          "th": "ห้วยข้าวก่ำ",
+          "en": "Huai Khao Kam",
+          "slug": "huai-khao-kam"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "19.34217919551401",
+      "lon": "100.12718573212624"
+    },
+    "source": {}
+  },
+  {
+    "id": "56020106",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านห้วยหลวง",
+      "en": "Ban Huai Luang",
+      "slug": "56020106"
+    },
+    "code": {
+      "dopa": "56020106"
+    },
+    "parent": {
+      "id": "560201",
+      "level": 3,
+      "name": {
+        "th": "ห้วยข้าวก่ำ",
+        "en": "Huai Khao Kam",
+        "slug": "huai-khao-kam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "th": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao"
+        }
+      },
+      {
+        "id": "5602",
+        "level": 2,
+        "name": {
+          "th": "จุน",
+          "en": "Chun",
+          "slug": "chun"
+        }
+      },
+      {
+        "id": "560201",
+        "level": 3,
+        "name": {
+          "th": "ห้วยข้าวก่ำ",
+          "en": "Huai Khao Kam",
+          "slug": "huai-khao-kam"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "19.33955724688702",
+      "lon": "100.1277919113636"
+    },
+    "source": {}
+  },
+  {
+    "id": "56020107",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านไชยสถาน",
+      "en": "Ban Chaiya Sathan",
+      "slug": "56020107"
+    },
+    "code": {
+      "dopa": "56020107"
+    },
+    "parent": {
+      "id": "560201",
+      "level": 3,
+      "name": {
+        "th": "ห้วยข้าวก่ำ",
+        "en": "Huai Khao Kam",
+        "slug": "huai-khao-kam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "th": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao"
+        }
+      },
+      {
+        "id": "5602",
+        "level": 2,
+        "name": {
+          "th": "จุน",
+          "en": "Chun",
+          "slug": "chun"
+        }
+      },
+      {
+        "id": "560201",
+        "level": 3,
+        "name": {
+          "th": "ห้วยข้าวก่ำ",
+          "en": "Huai Khao Kam",
+          "slug": "huai-khao-kam"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "19.33955724688702",
+      "lon": "100.1277919113636"
+    },
+    "source": {}
+  },
+  {
+    "id": "56020108",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกิ่วแก้ว",
+      "en": "Ban Kio Kaeo",
+      "slug": "56020108"
+    },
+    "code": {
+      "dopa": "56020108"
+    },
+    "parent": {
+      "id": "560201",
+      "level": 3,
+      "name": {
+        "th": "ห้วยข้าวก่ำ",
+        "en": "Huai Khao Kam",
+        "slug": "huai-khao-kam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "th": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao"
+        }
+      },
+      {
+        "id": "5602",
+        "level": 2,
+        "name": {
+          "th": "จุน",
+          "en": "Chun",
+          "slug": "chun"
+        }
+      },
+      {
+        "id": "560201",
+        "level": 3,
+        "name": {
+          "th": "ห้วยข้าวก่ำ",
+          "en": "Huai Khao Kam",
+          "slug": "huai-khao-kam"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "19.369321227306116",
+      "lon": "100.09428039193153"
+    },
+    "source": {}
+  },
+  {
+    "id": "56020109",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านร่องหาด",
+      "en": "Ban Rong Hat",
+      "slug": "56020109"
+    },
+    "code": {
+      "dopa": "56020109"
+    },
+    "parent": {
+      "id": "560201",
+      "level": 3,
+      "name": {
+        "th": "ห้วยข้าวก่ำ",
+        "en": "Huai Khao Kam",
+        "slug": "huai-khao-kam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "th": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao"
+        }
+      },
+      {
+        "id": "5602",
+        "level": 2,
+        "name": {
+          "th": "จุน",
+          "en": "Chun",
+          "slug": "chun"
+        }
+      },
+      {
+        "id": "560201",
+        "level": 3,
+        "name": {
+          "th": "ห้วยข้าวก่ำ",
+          "en": "Huai Khao Kam",
+          "slug": "huai-khao-kam"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "19.33955724688702",
+      "lon": "100.1277919113636"
+    },
+    "source": {}
+  },
+  {
+    "id": "56020110",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านทุ่งใหม่พัฒนา",
+      "en": "Ban Thung Mai Phatthana",
+      "slug": "56020110"
+    },
+    "code": {
+      "dopa": "56020110"
+    },
+    "parent": {
+      "id": "560201",
+      "level": 3,
+      "name": {
+        "th": "ห้วยข้าวก่ำ",
+        "en": "Huai Khao Kam",
+        "slug": "huai-khao-kam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "th": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao"
+        }
+      },
+      {
+        "id": "5602",
+        "level": 2,
+        "name": {
+          "th": "จุน",
+          "en": "Chun",
+          "slug": "chun"
+        }
+      },
+      {
+        "id": "560201",
+        "level": 3,
+        "name": {
+          "th": "ห้วยข้าวก่ำ",
+          "en": "Huai Khao Kam",
+          "slug": "huai-khao-kam"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.72706875088845",
+      "lon": "100.5340875685215"
+    },
+    "source": {}
+  },
+  {
+    "id": "56020111",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านห้วยแก้วพัฒนา",
+      "en": "Ban Huai Kaeo Phatthana",
+      "slug": "56020111"
+    },
+    "code": {
+      "dopa": "56020111"
+    },
+    "parent": {
+      "id": "560201",
+      "level": 3,
+      "name": {
+        "th": "ห้วยข้าวก่ำ",
+        "en": "Huai Khao Kam",
+        "slug": "huai-khao-kam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "th": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao"
+        }
+      },
+      {
+        "id": "5602",
+        "level": 2,
+        "name": {
+          "th": "จุน",
+          "en": "Chun",
+          "slug": "chun"
+        }
+      },
+      {
+        "id": "560201",
+        "level": 3,
+        "name": {
+          "th": "ห้วยข้าวก่ำ",
+          "en": "Huai Khao Kam",
+          "slug": "huai-khao-kam"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "19.380850573318636",
+      "lon": "100.08580192923546"
+    },
+    "source": {}
+  },
+  {
+    "id": "56020112",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านก้าวนคร",
+      "en": "Ban Kao Nakhon",
+      "slug": "56020112"
+    },
+    "code": {
+      "dopa": "56020112"
+    },
+    "parent": {
+      "id": "560201",
+      "level": 3,
+      "name": {
+        "th": "ห้วยข้าวก่ำ",
+        "en": "Huai Khao Kam",
+        "slug": "huai-khao-kam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "th": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao"
+        }
+      },
+      {
+        "id": "5602",
+        "level": 2,
+        "name": {
+          "th": "จุน",
+          "en": "Chun",
+          "slug": "chun"
+        }
+      },
+      {
+        "id": "560201",
+        "level": 3,
+        "name": {
+          "th": "ห้วยข้าวก่ำ",
+          "en": "Huai Khao Kam",
+          "slug": "huai-khao-kam"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "19.35686613749676",
+      "lon": "100.13169586658478"
+    },
+    "source": {}
+  }
+]

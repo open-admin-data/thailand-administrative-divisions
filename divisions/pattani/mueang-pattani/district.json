@@ -1,0 +1,50 @@
+{
+  "id": "9401",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองปัตตานี",
+    "en": "Mueang Pattani",
+    "slug": "mueang-pattani"
+  },
+  "code": {
+    "dopa": "9401"
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "th": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 85
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.870",
+    "lon": "101.256"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-pattani-9401/"
+  }
+}

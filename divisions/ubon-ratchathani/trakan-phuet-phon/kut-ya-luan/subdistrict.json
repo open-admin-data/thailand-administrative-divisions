@@ -1,0 +1,61 @@
+{
+  "id": "341121",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุดยาลวน",
+    "en": "Kut Ya Luan",
+    "slug": "kut-ya-luan"
+  },
+  "code": {
+    "dopa": "341121"
+  },
+  "parent": {
+    "id": "3411",
+    "level": 2,
+    "name": {
+      "th": "ตระการพืชผล",
+      "en": "Trakan Phuet Phon",
+      "slug": "trakan-phuet-phon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3411",
+      "level": 2,
+      "name": {
+        "th": "ตระการพืชผล",
+        "en": "Trakan Phuet Phon",
+        "slug": "trakan-phuet-phon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "34130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.731",
+    "lon": "105.029"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kut-ya-luan-341121/"
+  }
+}

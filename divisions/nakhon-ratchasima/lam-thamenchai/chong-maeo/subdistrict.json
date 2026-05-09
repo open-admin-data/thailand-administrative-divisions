@@ -1,0 +1,61 @@
+{
+  "id": "302903",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ช่องแมว",
+    "en": "Chong Maeo",
+    "slug": "chong-maeo"
+  },
+  "code": {
+    "dopa": "302903"
+  },
+  "parent": {
+    "id": "3029",
+    "level": 2,
+    "name": {
+      "th": "ลำทะเมนชัย",
+      "en": "Lam Thamenchai",
+      "slug": "lam-thamenchai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3029",
+      "level": 2,
+      "name": {
+        "th": "ลำทะเมนชัย",
+        "en": "Lam Thamenchai",
+        "slug": "lam-thamenchai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 22
+  },
+  "zip_codes": [
+    "30270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.276",
+    "lon": "102.874"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chong-maeo-302903/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "230203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หาดเล็ก",
+    "en": "Hat Lek",
+    "slug": "hat-lek"
+  },
+  "code": {
+    "dopa": "230203"
+  },
+  "parent": {
+    "id": "2302",
+    "level": 2,
+    "name": {
+      "th": "คลองใหญ่",
+      "en": "Khlong Yai",
+      "slug": "khlong-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "th": "ตราด",
+        "en": "Trat",
+        "slug": "trat"
+      }
+    },
+    {
+      "id": "2302",
+      "level": 2,
+      "name": {
+        "th": "คลองใหญ่",
+        "en": "Khlong Yai",
+        "slug": "khlong-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "23110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "11.699",
+    "lon": "102.909"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hat-lek-230203/"
+  }
+}

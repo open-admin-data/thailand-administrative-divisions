@@ -1,0 +1,61 @@
+{
+  "id": "161006",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาน้อย",
+    "en": "Khao Noi",
+    "slug": "khao-noi"
+  },
+  "code": {
+    "dopa": "161006"
+  },
+  "parent": {
+    "id": "1610",
+    "level": 2,
+    "name": {
+      "th": "ลำสนธิ",
+      "en": "Lam Sonthi",
+      "slug": "lam-sonthi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "th": "ลำสนธิ",
+        "en": "Lam Sonthi",
+        "slug": "lam-sonthi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "15130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.112",
+    "lon": "101.387"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-noi-161006/"
+  }
+}

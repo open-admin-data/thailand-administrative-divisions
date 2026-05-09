@@ -1,0 +1,61 @@
+{
+  "id": "170504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พิกุลทอง",
+    "en": "Phikun Thong",
+    "slug": "phikun-thong"
+  },
+  "code": {
+    "dopa": "170504"
+  },
+  "parent": {
+    "id": "1705",
+    "level": 2,
+    "name": {
+      "th": "ท่าช้าง",
+      "en": "Tha Chang",
+      "slug": "tha-chang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "th": "ท่าช้าง",
+        "en": "Tha Chang",
+        "slug": "tha-chang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "16140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.772",
+    "lon": "100.410"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phikun-thong-170504/"
+  }
+}

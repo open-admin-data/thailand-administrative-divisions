@@ -1,0 +1,61 @@
+{
+  "id": "640701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองสวรรคโลก",
+    "en": "Mueang Sawankhalok",
+    "slug": "mueang-sawankhalok"
+  },
+  "code": {
+    "dopa": "640701"
+  },
+  "parent": {
+    "id": "6407",
+    "level": 2,
+    "name": {
+      "th": "สวรรคโลก",
+      "en": "Mueang Sawankhalok",
+      "slug": "mueang-sawankhalok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6407",
+      "level": 2,
+      "name": {
+        "th": "สวรรคโลก",
+        "en": "Mueang Sawankhalok",
+        "slug": "mueang-sawankhalok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "64110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.315",
+    "lon": "99.834"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-sawankhalok-640701/"
+  }
+}

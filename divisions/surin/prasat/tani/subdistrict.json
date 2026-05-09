@@ -1,0 +1,61 @@
+{
+  "id": "320514",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตานี",
+    "en": "Tani",
+    "slug": "tani"
+  },
+  "code": {
+    "dopa": "320514"
+  },
+  "parent": {
+    "id": "3205",
+    "level": 2,
+    "name": {
+      "th": "ปราสาท",
+      "en": "Prasat",
+      "slug": "prasat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "th": "ปราสาท",
+        "en": "Prasat",
+        "slug": "prasat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "32140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.617",
+    "lon": "103.258"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tani-320514/"
+  }
+}

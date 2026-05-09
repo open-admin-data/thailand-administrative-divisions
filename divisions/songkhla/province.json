@@ -1,0 +1,38 @@
+{
+  "id": "90",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "สงขลา",
+    "en": "Songkhla",
+    "slug": "songkhla"
+  },
+  "code": {
+    "dopa": "90",
+    "iso": "TH-90"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 16,
+    "subdistricts": 127,
+    "villages": 1325
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern"
+    }
+  },
+  "geo": {
+    "lat": "7.561",
+    "lon": "100.356"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/songkhla-90/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "8015",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ขนอม",
+    "en": "Khanom",
+    "slug": "khanom"
+  },
+  "code": {
+    "dopa": "8015"
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "th": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 34
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.324",
+    "lon": "99.775"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khanom-8015/"
+  }
+}

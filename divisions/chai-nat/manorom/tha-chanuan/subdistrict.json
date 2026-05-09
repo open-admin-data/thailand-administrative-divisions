@@ -1,0 +1,61 @@
+{
+  "id": "180204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าฉนวน",
+    "en": "Tha Chanuan",
+    "slug": "tha-chanuan"
+  },
+  "code": {
+    "dopa": "180204"
+  },
+  "parent": {
+    "id": "1802",
+    "level": 2,
+    "name": {
+      "th": "มโนรมย์",
+      "en": "Manorom",
+      "slug": "manorom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1802",
+      "level": 2,
+      "name": {
+        "th": "มโนรมย์",
+        "en": "Manorom",
+        "slug": "manorom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "17110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.379",
+    "lon": "100.138"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-chanuan-180204/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "250904",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไผ่ชะเลือด",
+    "en": "Phai Cha Lueat",
+    "slug": "phai-cha-lueat"
+  },
+  "code": {
+    "dopa": "250904"
+  },
+  "parent": {
+    "id": "2509",
+    "level": 2,
+    "name": {
+      "th": "ศรีมโหสถ",
+      "en": "Si Mahosot",
+      "slug": "si-mahosot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "th": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri"
+      }
+    },
+    {
+      "id": "2509",
+      "level": 2,
+      "name": {
+        "th": "ศรีมโหสถ",
+        "en": "Si Mahosot",
+        "slug": "si-mahosot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "25190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.919",
+    "lon": "101.372"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phai-cha-lueat-250904/"
+  }
+}

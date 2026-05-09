@@ -1,0 +1,61 @@
+{
+  "id": "170103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพกรวม",
+    "en": "Phok Ruam",
+    "slug": "phok-ruam"
+  },
+  "code": {
+    "dopa": "170103"
+  },
+  "parent": {
+    "id": "1701",
+    "level": 2,
+    "name": {
+      "th": "เมืองสิงห์บุรี",
+      "en": "Mueang Sing Buri",
+      "slug": "mueang-sing-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1701",
+      "level": 2,
+      "name": {
+        "th": "เมืองสิงห์บุรี",
+        "en": "Mueang Sing Buri",
+        "slug": "mueang-sing-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "16000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.944",
+    "lon": "100.394"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phok-ruam-170103/"
+  }
+}

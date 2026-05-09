@@ -1,0 +1,50 @@
+{
+  "id": "3201",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองสุรินทร์",
+    "en": "Mueang Surin",
+    "slug": "mueang-surin"
+  },
+  "code": {
+    "dopa": "3201"
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "th": "สุรินทร์",
+      "en": "Surin",
+      "slug": "surin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 21,
+    "villages": 323
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.884",
+    "lon": "103.490"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-surin-3201/"
+  }
+}

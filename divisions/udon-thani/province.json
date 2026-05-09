@@ -1,0 +1,38 @@
+{
+  "id": "41",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "อุดรธานี",
+    "en": "Udon Thani",
+    "slug": "udon-thani"
+  },
+  "code": {
+    "dopa": "41",
+    "iso": "TH-41"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 20,
+    "subdistricts": 155,
+    "villages": 2036
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "Northeastern"
+    }
+  },
+  "geo": {
+    "lat": "17.411",
+    "lon": "102.792"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/udon-thani-41/"
+  }
+}

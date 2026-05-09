@@ -1,0 +1,61 @@
+{
+  "id": "401707",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นางาม",
+    "en": "Na Ngam",
+    "slug": "na-ngam"
+  },
+  "code": {
+    "dopa": "401707"
+  },
+  "parent": {
+    "id": "4017",
+    "level": 2,
+    "name": {
+      "th": "มัญจาคีรี",
+      "en": "Mancha Khiri",
+      "slug": "mancha-khiri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4017",
+      "level": 2,
+      "name": {
+        "th": "มัญจาคีรี",
+        "en": "Mancha Khiri",
+        "slug": "mancha-khiri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "40160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.196",
+    "lon": "102.419"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-ngam-401707/"
+  }
+}

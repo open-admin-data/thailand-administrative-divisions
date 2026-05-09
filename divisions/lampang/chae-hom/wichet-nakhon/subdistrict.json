@@ -1,0 +1,61 @@
+{
+  "id": "520607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วิเชตนคร",
+    "en": "Wichet Nakhon",
+    "slug": "wichet-nakhon"
+  },
+  "code": {
+    "dopa": "520607"
+  },
+  "parent": {
+    "id": "5206",
+    "level": 2,
+    "name": {
+      "th": "แจ้ห่ม",
+      "en": "Chae Hom",
+      "slug": "chae-hom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5206",
+      "level": 2,
+      "name": {
+        "th": "แจ้ห่ม",
+        "en": "Chae Hom",
+        "slug": "chae-hom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "52120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.726",
+    "lon": "99.557"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wichet-nakhon-520607/"
+  }
+}

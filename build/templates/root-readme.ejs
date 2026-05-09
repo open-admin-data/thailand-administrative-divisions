@@ -1,0 +1,211 @@
+# Thailand Administrative Divisions / การแบ่งเขตการปกครองของประเทศไทย
+
+<%- aiIntro %>
+
+## Overview / ภาพรวม
+
+| รายการ / Item | ข้อมูล / Details |
+|---------------|-----------------|
+| จังหวัด / Provinces | <%= stats.provinces %> |
+| อำเภอ·เขต / Districts | <%= stats.districts.toLocaleString() %> |
+| ตำบล·แขวง / Subdistricts | <%= stats.subdistricts.toLocaleString() %> |
+| หมู่บ้าน / Villages | <%= stats.villages.toLocaleString() %> |
+| รหัสไปรษณีย์ / Zip Codes | ✅ Included (subdistrict level) |
+| พิกัด / Coordinates | ✅ Included (all levels, including villages) |
+| Formats | JSON, NDJSON, CSV |
+| License | CC-BY-4.0 (data) + MIT (code) |
+| Source | [ThaiAddress.org](https://thaiaddress.org) |
+| Last Updated | <%= lastUpdated %> |
+
+## Browse by Province / เรียกดูตามจังหวัด
+
+Each province folder contains its districts, subdistricts, and village data. Click any province to explore.
+
+| # | จังหวัด / Province | ภาค / Region | อำเภอ / Districts | ตำบล / Subdistricts | หมู่บ้าน / Villages | Link |
+|---|--------------------|--------------|--------------------|---------------------|---------------------|------|
+<% provinces.forEach((p, i) => { -%>
+| <%= i + 1 %> | <%= p.name.th %> (<%= p.name.en %>) | <%= p.metadata.region.th %> (<%= p.metadata.region.en %>) | <%= p.children_count.districts %> | <%= p.children_count.subdistricts.toLocaleString() %> | <%= p.children_count.villages.toLocaleString() %> | [Browse](divisions/<%= p.name.slug %>/) |
+<% }) -%>
+
+## Data Files / ไฟล์ข้อมูล
+
+| File | Format | Description |
+|------|--------|-------------|
+| [all-provinces.json](data/all-provinces.json) | JSON | All <%= stats.provinces %> province records |
+| [all-districts.json](data/all-districts.json) | JSON | All <%= stats.districts.toLocaleString() %> district records |
+| [all-subdistricts.json](data/all-subdistricts.json) | JSON | All <%= stats.subdistricts.toLocaleString() %> subdistrict records |
+| [villages-by-province/](data/villages-by-province/) | JSON | <%= stats.villages.toLocaleString() %> villages split by province (bilingual) |
+| [all-flat.json](data/all-flat.json) | JSON | Provinces + districts + subdistricts in one file |
+| [all-flat.ndjson](data/all-flat.ndjson) | NDJSON | Newline-delimited JSON for streaming |
+| [all-flat.csv](data/all-flat.csv) | CSV | Flat CSV format |
+| [hierarchy.json](data/hierarchy.json) | JSON | Nested hierarchy tree |
+| [schema.json](data/schema.json) | JSON Schema | Data schema definition |
+
+## Quick Start / เริ่มต้นใช้งาน
+
+### Python
+
+```python
+import json
+
+# Load all provinces
+with open("data/all-provinces.json", "r", encoding="utf-8") as f:
+    provinces = json.load(f)
+
+# Find provinces in a region
+central = [p for p in provinces if p["metadata"]["region"]["en"] == "Central"]
+print(f"Central Thailand has {len(central)} provinces")
+
+# Look up a specific province
+for p in provinces:
+    if p["name"]["en"] == "Chiang Mai":
+        print(f"{p['name']['th']} has {p['children_count']['districts']} districts")
+```
+
+### JavaScript / Node.js
+
+```javascript
+import { readFileSync } from "fs";
+
+const provinces = JSON.parse(readFileSync("data/all-provinces.json", "utf-8"));
+
+// Districts in Bangkok
+const bkk = provinces.find(p => p.name.en === "Bangkok");
+console.log(`Bangkok has ${bkk.children_count.districts} districts`);
+
+// All provinces sorted by district count
+const sorted = [...provinces].sort((a, b) =>
+  b.children_count.districts - a.children_count.districts
+);
+```
+
+### Villages — Find by Subdistrict
+
+```python
+import json
+
+# Load all villages
+with open("data/all-villages.json", "r", encoding="utf-8") as f:
+    villages = json.load(f)
+
+# Find villages in a specific subdistrict
+sub_villages = [v for v in villages if v["parent"]["name"]["en"] == "Si Phum"]
+for v in sub_villages:
+    print(f"{v['name']['th']} ({v['name']['en']}) — {v['geo']['lat']}, {v['geo']['lon']}")
+```
+
+### Villages — Zip Code Lookup
+
+```python
+import json
+
+# Load subdistricts with zip codes
+with open("data/all-subdistricts.json", "r", encoding="utf-8") as f:
+    subdistricts = json.load(f)
+
+# Find subdistricts by zip code
+results = [s for s in subdistricts if "50200" in s.get("zip_codes", [])]
+for s in results:
+    print(f"{s['name']['th']} ({s['name']['en']}) — {s['zip_codes']}")
+```
+
+### Streaming (NDJSON)
+
+```javascript
+import { createReadStream } from "fs";
+import { createInterface } from "readline";
+
+const rl = createInterface({
+  input: createReadStream("data/all-flat.ndjson"),
+});
+
+for await (const line of rl) {
+  const record = JSON.parse(line);
+  if (record.level === 4 && record.ancestors[0].name.en === "Phuket") {
+    console.log(record.name.th, record.name.en, record.geo.lat, record.geo.lon);
+  }
+}
+```
+
+## Schema / โครงสร้างข้อมูล
+
+Each division record contains:
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `id` | string | Unique DOPA identifier |
+| `level` | integer | 1 (province), 2 (district), 3 (subdistrict), 4 (village) |
+| `level_name` | object | Level label in Thai and English |
+| `name.th` | string | Thai name |
+| `name.en` | string | English (Romanized) name |
+| `name.slug` | string | URL-safe slug |
+| `code.dopa` | string | DOPA code |
+| `code.iso` | string | ISO 3166-2 code (provinces only) |
+| `parent` | object/null | Parent division reference |
+| `ancestors` | array | Full ancestor chain to root |
+| `children_count` | object | Count of immediate children |
+| `zip_codes` | array | Postal/zip codes (subdistrict level) |
+| `geo.lat` | string | Latitude (WGS84, all levels including villages) |
+| `geo.lon` | string | Longitude (WGS84, all levels including villages) |
+| `metadata` | object | Region, special flags |
+| `source.url` | string | Original page on ThaiAddress.org |
+
+Full schema: [data/schema.json](data/schema.json)
+
+## Hierarchy Browse / เรียกดูตามลำดับชั้น
+
+Browse the administrative hierarchy through GitHub's folder navigation:
+
+```
+divisions/{province-slug}/                                → Province overview + districts
+divisions/{province-slug}/{district-slug}/                 → District overview + subdistricts
+divisions/{province-slug}/{district-slug}/{subdistrict}/   → Subdistrict + village list (inline)
+```
+
+Example paths:
+- `divisions/bangkok/` — Bangkok province (50 districts)
+- `divisions/bangkok/khet-phra-nakhon/` — Phra Nakhon district (12 subdistricts)
+- `divisions/chiang-mai/mueang-chiang-mai/si-phum/` — Si Phum subdistrict (villages listed inline)
+
+Villages are listed inline in each subdistrict's README — no separate village folders.
+
+## AI Integration
+
+- [llms.txt](docs/llms.txt) — Quick reference for AI agents
+- [llms-full.txt](docs/llms-full.txt) — Summary with per-province links
+- [Per-province data](docs/llms-full/) — Full division data by province
+
+## Citation / อ้างอิง
+
+If you use this dataset, please cite:
+
+```
+Thailand Administrative Divisions Dataset (CC-BY-4.0)
+Author: jakkrapongt
+URL: <%= githubUrl %>
+Source: https://thaiaddress.org
+```
+
+See [CITATION.cff](CITATION.cff) for machine-readable citation.
+
+## Source / แหล่งข้อมูล
+
+Administrative hierarchy (provinces, districts, subdistricts) and zip codes are sourced from
+[ThaiAddress.org](https://thaiaddress.org), which compiles data from Thailand's Department
+of Provincial Administration (DOPA). Village-level data is sourced from the
+[National Statistical Office](https://www.nso.go.th/) village registry.
+
+See [docs/methodology.md](docs/methodology.md) for details on data collection and processing.
+
+## License / สัญญาอนุญาต
+
+- **Data** (division records): [CC-BY-4.0](LICENSE)
+- **Build code** (build/ directory): [MIT](LICENSE)
+
+You are free to share and adapt this dataset for any purpose, including commercial,
+as long as you give appropriate credit.
+
+## Related / โครงการที่เกี่ยวข้อง
+
+- [thai-temples-knowledge](https://github.com/jakkrapongt/thai-temples-knowledge) — Thai Buddhist temple addresses dataset
+- [open-admin-data](https://github.com/open-admin-data) — Open administrative data for ASEAN countries

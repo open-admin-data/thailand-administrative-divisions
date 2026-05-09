@@ -1,0 +1,61 @@
+{
+  "id": "501501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หางดง",
+    "en": "Hang Dong",
+    "slug": "hang-dong"
+  },
+  "code": {
+    "dopa": "501501"
+  },
+  "parent": {
+    "id": "5015",
+    "level": 2,
+    "name": {
+      "th": "หางดง",
+      "en": "Hang Dong",
+      "slug": "hang-dong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5015",
+      "level": 2,
+      "name": {
+        "th": "หางดง",
+        "en": "Hang Dong",
+        "slug": "hang-dong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "50230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.692",
+    "lon": "98.915"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hang-dong-501501/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "390302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านถิ่น",
+    "en": "Ban Thin",
+    "slug": "ban-thin"
+  },
+  "code": {
+    "dopa": "390302"
+  },
+  "parent": {
+    "id": "3903",
+    "level": 2,
+    "name": {
+      "th": "โนนสัง",
+      "en": "Non Sang",
+      "slug": "non-sang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3903",
+      "level": 2,
+      "name": {
+        "th": "โนนสัง",
+        "en": "Non Sang",
+        "slug": "non-sang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "39140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.987",
+    "lon": "102.527"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-thin-390302/"
+  }
+}

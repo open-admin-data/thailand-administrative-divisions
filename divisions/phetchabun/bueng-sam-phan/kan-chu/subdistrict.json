@@ -1,0 +1,61 @@
+{
+  "id": "670804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กันจุ",
+    "en": "Kan Chu",
+    "slug": "kan-chu"
+  },
+  "code": {
+    "dopa": "670804"
+  },
+  "parent": {
+    "id": "6708",
+    "level": 2,
+    "name": {
+      "th": "บึงสามพัน",
+      "en": "Bueng Sam Phan",
+      "slug": "bueng-sam-phan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6708",
+      "level": 2,
+      "name": {
+        "th": "บึงสามพัน",
+        "en": "Bueng Sam Phan",
+        "slug": "bueng-sam-phan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "67160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.817",
+    "lon": "101.075"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kan-chu-670804/"
+  }
+}

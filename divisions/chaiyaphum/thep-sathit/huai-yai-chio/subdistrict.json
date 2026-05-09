@@ -1,0 +1,61 @@
+{
+  "id": "360902",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยยายจิ๋ว",
+    "en": "Huai Yai Chio",
+    "slug": "huai-yai-chio"
+  },
+  "code": {
+    "dopa": "360902"
+  },
+  "parent": {
+    "id": "3609",
+    "level": 2,
+    "name": {
+      "th": "เทพสถิต",
+      "en": "Thep Sathit",
+      "slug": "thep-sathit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3609",
+      "level": 2,
+      "name": {
+        "th": "เทพสถิต",
+        "en": "Thep Sathit",
+        "slug": "thep-sathit"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 22
+  },
+  "zip_codes": [
+    "36230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.432",
+    "lon": "101.547"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-yai-chio-360902/"
+  }
+}

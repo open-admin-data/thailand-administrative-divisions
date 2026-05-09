@@ -1,0 +1,61 @@
+{
+  "id": "401617",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ภูเวียง",
+    "en": "Phu Wiang",
+    "slug": "phu-wiang"
+  },
+  "code": {
+    "dopa": "401617"
+  },
+  "parent": {
+    "id": "4016",
+    "level": 2,
+    "name": {
+      "th": "ภูเวียง",
+      "en": "Phu Wiang",
+      "slug": "phu-wiang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4016",
+      "level": 2,
+      "name": {
+        "th": "ภูเวียง",
+        "en": "Phu Wiang",
+        "slug": "phu-wiang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "40150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.679",
+    "lon": "102.364"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phu-wiang-401617/"
+  }
+}

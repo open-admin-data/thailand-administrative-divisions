@@ -1,0 +1,61 @@
+{
+  "id": "560601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปง",
+    "en": "Pong",
+    "slug": "pong"
+  },
+  "code": {
+    "dopa": "560601"
+  },
+  "parent": {
+    "id": "5606",
+    "level": 2,
+    "name": {
+      "th": "ปง",
+      "en": "Pong",
+      "slug": "pong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5606",
+      "level": 2,
+      "name": {
+        "th": "ปง",
+        "en": "Pong",
+        "slug": "pong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "56140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.102",
+    "lon": "100.205"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pong-560601/"
+  }
+}

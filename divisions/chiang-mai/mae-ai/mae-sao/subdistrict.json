@@ -1,0 +1,61 @@
+{
+  "id": "501002",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่สาว",
+    "en": "Mae Sao",
+    "slug": "mae-sao"
+  },
+  "code": {
+    "dopa": "501002"
+  },
+  "parent": {
+    "id": "5010",
+    "level": 2,
+    "name": {
+      "th": "แม่อาย",
+      "en": "Mae Ai",
+      "slug": "mae-ai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5010",
+      "level": 2,
+      "name": {
+        "th": "แม่อาย",
+        "en": "Mae Ai",
+        "slug": "mae-ai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "50280"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.060",
+    "lon": "99.168"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-sao-501002/"
+  }
+}

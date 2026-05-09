@@ -1,0 +1,61 @@
+{
+  "id": "400305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขามป้อม",
+    "en": "Kham Pom",
+    "slug": "kham-pom"
+  },
+  "code": {
+    "dopa": "400305"
+  },
+  "parent": {
+    "id": "4003",
+    "level": 2,
+    "name": {
+      "th": "พระยืน",
+      "en": "Phra Yuen",
+      "slug": "phra-yuen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4003",
+      "level": 2,
+      "name": {
+        "th": "พระยืน",
+        "en": "Phra Yuen",
+        "slug": "phra-yuen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "40320"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.301",
+    "lon": "102.657"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kham-pom-400305/"
+  }
+}

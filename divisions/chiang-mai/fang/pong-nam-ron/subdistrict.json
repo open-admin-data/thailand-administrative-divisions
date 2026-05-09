@@ -1,0 +1,61 @@
+{
+  "id": "500912",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โป่งน้ำร้อน",
+    "en": "Pong Nam Ron",
+    "slug": "pong-nam-ron"
+  },
+  "code": {
+    "dopa": "500912"
+  },
+  "parent": {
+    "id": "5009",
+    "level": 2,
+    "name": {
+      "th": "ฝาง",
+      "en": "Fang",
+      "slug": "fang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5009",
+      "level": 2,
+      "name": {
+        "th": "ฝาง",
+        "en": "Fang",
+        "slug": "fang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "50110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.061",
+    "lon": "99.121"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pong-nam-ron-500912/"
+  }
+}

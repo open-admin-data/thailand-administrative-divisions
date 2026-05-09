@@ -1,0 +1,38 @@
+{
+  "id": "16",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ลพบุรี",
+    "en": "Loburi",
+    "slug": "loburi"
+  },
+  "code": {
+    "dopa": "16",
+    "iso": "TH-16"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 11,
+    "subdistricts": 121,
+    "villages": 1168
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central"
+    }
+  },
+  "geo": {
+    "lat": "14.802",
+    "lon": "100.611"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/loburi-16/"
+  }
+}

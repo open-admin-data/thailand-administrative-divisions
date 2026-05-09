@@ -1,0 +1,61 @@
+{
+  "id": "530303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ผาเลือด",
+    "en": "Pha Lueat",
+    "slug": "pha-lueat"
+  },
+  "code": {
+    "dopa": "530303"
+  },
+  "parent": {
+    "id": "5303",
+    "level": 2,
+    "name": {
+      "th": "ท่าปลา",
+      "en": "Tha Pla",
+      "slug": "tha-pla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "th": "ท่าปลา",
+        "en": "Tha Pla",
+        "slug": "tha-pla"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "53190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.749",
+    "lon": "100.491"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pha-lueat-530303/"
+  }
+}

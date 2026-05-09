@@ -1,0 +1,61 @@
+{
+  "id": "380305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บัวตูม",
+    "en": "Bua Tum",
+    "slug": "bua-tum"
+  },
+  "code": {
+    "dopa": "380305"
+  },
+  "parent": {
+    "id": "3803",
+    "level": 2,
+    "name": {
+      "th": "โซ่พิสัย",
+      "en": "So Phisai",
+      "slug": "so-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3803",
+      "level": 2,
+      "name": {
+        "th": "โซ่พิสัย",
+        "en": "So Phisai",
+        "slug": "so-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "38170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.072",
+    "lon": "103.364"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bua-tum-380305/"
+  }
+}

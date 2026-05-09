@@ -1,0 +1,61 @@
+{
+  "id": "920109",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางรัก",
+    "en": "Bang Rak",
+    "slug": "bang-rak"
+  },
+  "code": {
+    "dopa": "920109"
+  },
+  "parent": {
+    "id": "9201",
+    "level": 2,
+    "name": {
+      "th": "เมืองตรัง",
+      "en": "Mueang Trang",
+      "slug": "mueang-trang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9201",
+      "level": 2,
+      "name": {
+        "th": "เมืองตรัง",
+        "en": "Mueang Trang",
+        "slug": "mueang-trang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "92000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.558",
+    "lon": "99.577"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-rak-920109/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "640605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังทอง",
+    "en": "Wang Thong",
+    "slug": "wang-thong"
+  },
+  "code": {
+    "dopa": "640605"
+  },
+  "parent": {
+    "id": "6406",
+    "level": 2,
+    "name": {
+      "th": "ศรีสำโรง",
+      "en": "Si Samrong",
+      "slug": "si-samrong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6406",
+      "level": 2,
+      "name": {
+        "th": "ศรีสำโรง",
+        "en": "Si Samrong",
+        "slug": "si-samrong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "64120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.139",
+    "lon": "99.811"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-thong-640605/"
+  }
+}

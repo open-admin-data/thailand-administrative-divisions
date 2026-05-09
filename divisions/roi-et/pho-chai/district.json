@@ -1,0 +1,50 @@
+{
+  "id": "4508",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โพธิ์ชัย",
+    "en": "Pho Chai",
+    "slug": "pho-chai"
+  },
+  "code": {
+    "dopa": "4508"
+  },
+  "parent": {
+    "id": "45",
+    "level": 1,
+    "name": {
+      "th": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 112
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.281",
+    "lon": "103.812"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pho-chai-4508/"
+  }
+}

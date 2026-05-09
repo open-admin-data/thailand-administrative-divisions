@@ -1,0 +1,61 @@
+{
+  "id": "630202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สมอโคน",
+    "en": "Samo Khon",
+    "slug": "samo-khon"
+  },
+  "code": {
+    "dopa": "630202"
+  },
+  "parent": {
+    "id": "6302",
+    "level": 2,
+    "name": {
+      "th": "บ้านตาก",
+      "en": "Ban Tak",
+      "slug": "ban-tak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6302",
+      "level": 2,
+      "name": {
+        "th": "บ้านตาก",
+        "en": "Ban Tak",
+        "slug": "ban-tak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "63120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.046",
+    "lon": "99.183"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samo-khon-630202/"
+  }
+}

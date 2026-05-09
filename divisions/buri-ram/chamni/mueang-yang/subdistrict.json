@@ -1,0 +1,61 @@
+{
+  "id": "311803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองยาง",
+    "en": "Mueang Yang",
+    "slug": "mueang-yang"
+  },
+  "code": {
+    "dopa": "311803"
+  },
+  "parent": {
+    "id": "3118",
+    "level": 2,
+    "name": {
+      "th": "ชำนิ",
+      "en": "Chamni",
+      "slug": "chamni"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3118",
+      "level": 2,
+      "name": {
+        "th": "ชำนิ",
+        "en": "Chamni",
+        "slug": "chamni"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "31110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.794",
+    "lon": "102.906"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-yang-311803/"
+  }
+}

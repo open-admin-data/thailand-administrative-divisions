@@ -1,0 +1,61 @@
+{
+  "id": "650601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พรหมพิราม",
+    "en": "Phrom Phiram",
+    "slug": "phrom-phiram"
+  },
+  "code": {
+    "dopa": "650601"
+  },
+  "parent": {
+    "id": "6506",
+    "level": 2,
+    "name": {
+      "th": "พรหมพิราม",
+      "en": "Phrom Phiram",
+      "slug": "phrom-phiram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6506",
+      "level": 2,
+      "name": {
+        "th": "พรหมพิราม",
+        "en": "Phrom Phiram",
+        "slug": "phrom-phiram"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "65150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.004",
+    "lon": "100.135"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phrom-phiram-650601/"
+  }
+}

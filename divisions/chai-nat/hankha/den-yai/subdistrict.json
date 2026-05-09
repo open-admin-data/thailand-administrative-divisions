@@ -1,0 +1,61 @@
+{
+  "id": "180609",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เด่นใหญ่",
+    "en": "Den Yai",
+    "slug": "den-yai"
+  },
+  "code": {
+    "dopa": "180609"
+  },
+  "parent": {
+    "id": "1806",
+    "level": 2,
+    "name": {
+      "th": "หันคา",
+      "en": "Hankha",
+      "slug": "hankha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "th": "หันคา",
+        "en": "Hankha",
+        "slug": "hankha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "17130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.017",
+    "lon": "99.930"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/den-yai-180609/"
+  }
+}

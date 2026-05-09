@@ -1,0 +1,61 @@
+{
+  "id": "960103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มะนังตายอ",
+    "en": "Manang Tayo",
+    "slug": "manang-tayo"
+  },
+  "code": {
+    "dopa": "960103"
+  },
+  "parent": {
+    "id": "9601",
+    "level": 2,
+    "name": {
+      "th": "เมืองนราธิวาส",
+      "en": "Mueang Narathiwat",
+      "slug": "mueang-narathiwat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9601",
+      "level": 2,
+      "name": {
+        "th": "เมืองนราธิวาส",
+        "en": "Mueang Narathiwat",
+        "slug": "mueang-narathiwat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "96000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.354",
+    "lon": "101.760"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/manang-tayo-960103/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "3502",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ทรายมูล",
+    "en": "Sai Mun",
+    "slug": "sai-mun"
+  },
+  "code": {
+    "dopa": "3502"
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "th": "ยโสธร",
+      "en": "Yasothon",
+      "slug": "yasothon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 54
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.070",
+    "lon": "104.128"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sai-mun-3502/"
+  }
+}

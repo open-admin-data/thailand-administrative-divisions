@@ -1,0 +1,61 @@
+{
+  "id": "320703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แก",
+    "en": "Kae",
+    "slug": "kae"
+  },
+  "code": {
+    "dopa": "320703"
+  },
+  "parent": {
+    "id": "3207",
+    "level": 2,
+    "name": {
+      "th": "รัตนบุรี",
+      "en": "Rattanaburi",
+      "slug": "rattanaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "th": "รัตนบุรี",
+        "en": "Rattanaburi",
+        "slug": "rattanaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "32130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.355",
+    "lon": "103.808"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kae-320703/"
+  }
+}

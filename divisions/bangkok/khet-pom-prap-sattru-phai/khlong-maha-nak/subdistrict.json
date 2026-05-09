@@ -1,0 +1,61 @@
+{
+  "id": "100803",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง คลองมหานาค",
+    "en": "Khlong Maha Nak",
+    "slug": "khlong-maha-nak"
+  },
+  "code": {
+    "dopa": "100803"
+  },
+  "parent": {
+    "id": "1008",
+    "level": 2,
+    "name": {
+      "th": "เขต ป้อมปราบศัตรูพ่าย",
+      "en": "Khet Pom Prap Sattru Phai",
+      "slug": "khet-pom-prap-sattru-phai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1008",
+      "level": 2,
+      "name": {
+        "th": "เขต ป้อมปราบศัตรูพ่าย",
+        "en": "Khet Pom Prap Sattru Phai",
+        "slug": "khet-pom-prap-sattru-phai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10100"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.753",
+    "lon": "100.513"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-maha-nak-100803/"
+  }
+}

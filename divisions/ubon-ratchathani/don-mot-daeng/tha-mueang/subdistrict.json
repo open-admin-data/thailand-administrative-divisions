@@ -1,0 +1,61 @@
+{
+  "id": "342403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าเมือง",
+    "en": "Tha Mueang",
+    "slug": "tha-mueang"
+  },
+  "code": {
+    "dopa": "342403"
+  },
+  "parent": {
+    "id": "3424",
+    "level": 2,
+    "name": {
+      "th": "ดอนมดแดง",
+      "en": "Don Mot Daeng",
+      "slug": "don-mot-daeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3424",
+      "level": 2,
+      "name": {
+        "th": "ดอนมดแดง",
+        "en": "Don Mot Daeng",
+        "slug": "don-mot-daeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "34000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.473",
+    "lon": "104.968"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-mueang-342403/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "303105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองตาดใหญ่",
+    "en": "Nong Tat Yai",
+    "slug": "nong-tat-yai"
+  },
+  "code": {
+    "dopa": "303105"
+  },
+  "parent": {
+    "id": "3031",
+    "level": 2,
+    "name": {
+      "th": "สีดา",
+      "en": "Sida",
+      "slug": "sida"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3031",
+      "level": 2,
+      "name": {
+        "th": "สีดา",
+        "en": "Sida",
+        "slug": "sida"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "30430"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.617",
+    "lon": "102.591"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-tat-yai-303105/"
+  }
+}

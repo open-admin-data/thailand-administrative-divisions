@@ -1,0 +1,61 @@
+{
+  "id": "801303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เสาธง",
+    "en": "Sao Thong",
+    "slug": "sao-thong"
+  },
+  "code": {
+    "dopa": "801303"
+  },
+  "parent": {
+    "id": "8013",
+    "level": 2,
+    "name": {
+      "th": "ร่อนพิบูลย์",
+      "en": "Ron Phibun",
+      "slug": "ron-phibun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8013",
+      "level": 2,
+      "name": {
+        "th": "ร่อนพิบูลย์",
+        "en": "Ron Phibun",
+        "slug": "ron-phibun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "80350"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.252",
+    "lon": "99.924"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sao-thong-801303/"
+  }
+}

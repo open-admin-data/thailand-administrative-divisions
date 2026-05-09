@@ -1,0 +1,61 @@
+{
+  "id": "240516",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แสนภูดาษ",
+    "en": "Saen Phu Dat",
+    "slug": "saen-phu-dat"
+  },
+  "code": {
+    "dopa": "240516"
+  },
+  "parent": {
+    "id": "2405",
+    "level": 2,
+    "name": {
+      "th": "บ้านโพธิ์",
+      "en": "Ban Pho",
+      "slug": "ban-pho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2405",
+      "level": 2,
+      "name": {
+        "th": "บ้านโพธิ์",
+        "en": "Ban Pho",
+        "slug": "ban-pho"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 3
+  },
+  "zip_codes": [
+    "24140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.582",
+    "lon": "101.015"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/saen-phu-dat-240516/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "720213",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยางนอน",
+    "en": "Yang Non",
+    "slug": "yang-non"
+  },
+  "code": {
+    "dopa": "720213"
+  },
+  "parent": {
+    "id": "7202",
+    "level": 2,
+    "name": {
+      "th": "เดิมบางนางบวช",
+      "en": "Doem Bang Nang Buat",
+      "slug": "doem-bang-nang-buat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7202",
+      "level": 2,
+      "name": {
+        "th": "เดิมบางนางบวช",
+        "en": "Doem Bang Nang Buat",
+        "slug": "doem-bang-nang-buat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "72120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.857",
+    "lon": "100.132"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yang-non-720213/"
+  }
+}

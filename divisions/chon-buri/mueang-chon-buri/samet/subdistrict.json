@@ -1,0 +1,61 @@
+{
+  "id": "200116",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เสม็ด",
+    "en": "Samet",
+    "slug": "samet"
+  },
+  "code": {
+    "dopa": "200116"
+  },
+  "parent": {
+    "id": "2001",
+    "level": 2,
+    "name": {
+      "th": "เมืองชลบุรี",
+      "en": "Mueang Chon Buri",
+      "slug": "mueang-chon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2001",
+      "level": 2,
+      "name": {
+        "th": "เมืองชลบุรี",
+        "en": "Mueang Chon Buri",
+        "slug": "mueang-chon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "20130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.326",
+    "lon": "100.951"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samet-200116/"
+  }
+}

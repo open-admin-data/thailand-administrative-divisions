@@ -1,0 +1,38 @@
+{
+  "id": "40",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ขอนแก่น",
+    "en": "Khon Kaen",
+    "slug": "khon-kaen"
+  },
+  "code": {
+    "dopa": "40",
+    "iso": "TH-40"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 26,
+    "subdistricts": 199,
+    "villages": 2484
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "Northeastern"
+    }
+  },
+  "geo": {
+    "lat": "16.035",
+    "lon": "102.723"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/khon-kaen-40/"
+  }
+}

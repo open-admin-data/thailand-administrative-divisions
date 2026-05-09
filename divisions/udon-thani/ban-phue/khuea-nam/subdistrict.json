@@ -1,0 +1,61 @@
+{
+  "id": "411703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขือน้ำ",
+    "en": "Khuea Nam",
+    "slug": "khuea-nam"
+  },
+  "code": {
+    "dopa": "411703"
+  },
+  "parent": {
+    "id": "4117",
+    "level": 2,
+    "name": {
+      "th": "บ้านผือ",
+      "en": "Ban Phue",
+      "slug": "ban-phue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4117",
+      "level": 2,
+      "name": {
+        "th": "บ้านผือ",
+        "en": "Ban Phue",
+        "slug": "ban-phue"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "41160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.565",
+    "lon": "102.646"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khuea-nam-411703/"
+  }
+}

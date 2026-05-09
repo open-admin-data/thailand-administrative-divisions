@@ -1,0 +1,61 @@
+{
+  "id": "461105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาตาล",
+    "en": "Na Tan",
+    "slug": "na-tan"
+  },
+  "code": {
+    "dopa": "461105"
+  },
+  "parent": {
+    "id": "4611",
+    "level": 2,
+    "name": {
+      "th": "ท่าคันโท",
+      "en": "Tha Khantho",
+      "slug": "tha-khantho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4611",
+      "level": 2,
+      "name": {
+        "th": "ท่าคันโท",
+        "en": "Tha Khantho",
+        "slug": "tha-khantho"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "46190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.847",
+    "lon": "103.280"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-tan-461105/"
+  }
+}

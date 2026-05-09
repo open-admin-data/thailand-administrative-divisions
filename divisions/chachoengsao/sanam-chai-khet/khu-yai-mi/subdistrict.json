@@ -1,0 +1,61 @@
+{
+  "id": "240801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คู้ยายหมี",
+    "en": "Khu Yai Mi",
+    "slug": "khu-yai-mi"
+  },
+  "code": {
+    "dopa": "240801"
+  },
+  "parent": {
+    "id": "2408",
+    "level": 2,
+    "name": {
+      "th": "สนามชัยเขต",
+      "en": "Sanam Chai Khet",
+      "slug": "sanam-chai-khet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2408",
+      "level": 2,
+      "name": {
+        "th": "สนามชัยเขต",
+        "en": "Sanam Chai Khet",
+        "slug": "sanam-chai-khet"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "24160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.644",
+    "lon": "101.461"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khu-yai-mi-240801/"
+  }
+}

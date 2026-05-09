@@ -1,0 +1,61 @@
+{
+  "id": "730121",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สวนป่าน",
+    "en": "Suan Pan",
+    "slug": "suan-pan"
+  },
+  "code": {
+    "dopa": "730121"
+  },
+  "parent": {
+    "id": "7301",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครปฐม",
+      "en": "Nakhon Pathom",
+      "slug": "nakhon-pathom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7301",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "73000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.757",
+    "lon": "99.947"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/suan-pan-730121/"
+  }
+}

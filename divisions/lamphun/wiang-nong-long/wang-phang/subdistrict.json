@@ -1,0 +1,61 @@
+{
+  "id": "510803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังผาง",
+    "en": "Wang Phang",
+    "slug": "wang-phang"
+  },
+  "code": {
+    "dopa": "510803"
+  },
+  "parent": {
+    "id": "5108",
+    "level": 2,
+    "name": {
+      "th": "เวียงหนองล่อง",
+      "en": "Wiang Nong Long",
+      "slug": "wiang-nong-long"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5108",
+      "level": 2,
+      "name": {
+        "th": "เวียงหนองล่อง",
+        "en": "Wiang Nong Long",
+        "slug": "wiang-nong-long"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "51120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.422",
+    "lon": "98.744"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-phang-510803/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "140814",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลาดชิด",
+    "en": "Lat Chit",
+    "slug": "lat-chit"
+  },
+  "code": {
+    "dopa": "140814"
+  },
+  "parent": {
+    "id": "1408",
+    "level": 2,
+    "name": {
+      "th": "ผักไห่",
+      "en": "Phak Hai",
+      "slug": "phak-hai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "th": "ผักไห่",
+        "en": "Phak Hai",
+        "slug": "phak-hai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "13120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.422",
+    "lon": "100.358"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lat-chit-140814/"
+  }
+}

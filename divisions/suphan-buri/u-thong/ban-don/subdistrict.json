@@ -1,0 +1,61 @@
+{
+  "id": "720904",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านดอน",
+    "en": "Ban Don",
+    "slug": "ban-don"
+  },
+  "code": {
+    "dopa": "720904"
+  },
+  "parent": {
+    "id": "7209",
+    "level": 2,
+    "name": {
+      "th": "อู่ทอง",
+      "en": "U Thong",
+      "slug": "u-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7209",
+      "level": 2,
+      "name": {
+        "th": "อู่ทอง",
+        "en": "U Thong",
+        "slug": "u-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "72160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.303",
+    "lon": "99.923"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-don-720904/"
+  }
+}

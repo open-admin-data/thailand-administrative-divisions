@@ -1,0 +1,61 @@
+{
+  "id": "402402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกสำราญ",
+    "en": "Khok Samran",
+    "slug": "khok-samran"
+  },
+  "code": {
+    "dopa": "402402"
+  },
+  "parent": {
+    "id": "4024",
+    "level": 2,
+    "name": {
+      "th": "บ้านแฮด",
+      "en": "Ban Haet",
+      "slug": "ban-haet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4024",
+      "level": 2,
+      "name": {
+        "th": "บ้านแฮด",
+        "en": "Ban Haet",
+        "slug": "ban-haet"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "40110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.190",
+    "lon": "102.710"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-samran-402402/"
+  }
+}

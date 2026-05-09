@@ -1,0 +1,61 @@
+{
+  "id": "240608",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาหินซ้อน",
+    "en": "Khao Hin Son",
+    "slug": "khao-hin-son"
+  },
+  "code": {
+    "dopa": "240608"
+  },
+  "parent": {
+    "id": "2406",
+    "level": 2,
+    "name": {
+      "th": "พนมสารคาม",
+      "en": "Phanom Sarakham",
+      "slug": "phanom-sarakham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2406",
+      "level": 2,
+      "name": {
+        "th": "พนมสารคาม",
+        "en": "Phanom Sarakham",
+        "slug": "phanom-sarakham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "24120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.750",
+    "lon": "101.494"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-hin-son-240608/"
+  }
+}

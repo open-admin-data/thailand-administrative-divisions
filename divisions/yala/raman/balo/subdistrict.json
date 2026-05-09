@@ -1,0 +1,61 @@
+{
+  "id": "950610",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บาลอ",
+    "en": "Balo",
+    "slug": "balo"
+  },
+  "code": {
+    "dopa": "950610"
+  },
+  "parent": {
+    "id": "9506",
+    "level": 2,
+    "name": {
+      "th": "รามัน",
+      "en": "Raman",
+      "slug": "raman"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9506",
+      "level": 2,
+      "name": {
+        "th": "รามัน",
+        "en": "Raman",
+        "slug": "raman"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "95140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.448",
+    "lon": "101.445"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/balo-950610/"
+  }
+}

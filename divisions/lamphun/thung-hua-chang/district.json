@@ -1,0 +1,50 @@
+{
+  "id": "5105",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ทุ่งหัวช้าง",
+    "en": "Thung Hua Chang",
+    "slug": "thung-hua-chang"
+  },
+  "code": {
+    "dopa": "5105"
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "th": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 35
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.983",
+    "lon": "99.048"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thung-hua-chang-5105/"
+  }
+}

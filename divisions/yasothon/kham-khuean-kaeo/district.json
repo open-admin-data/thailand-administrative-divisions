@@ -1,0 +1,50 @@
+{
+  "id": "3504",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "คำเขื่อนแก้ว",
+    "en": "Kham Khuean Kaeo",
+    "slug": "kham-khuean-kaeo"
+  },
+  "code": {
+    "dopa": "3504"
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "th": "ยโสธร",
+      "en": "Yasothon",
+      "slug": "yasothon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 115
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.665",
+    "lon": "104.282"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kham-khuean-kaeo-3504/"
+  }
+}

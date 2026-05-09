@@ -1,0 +1,50 @@
+{
+  "id": "2203",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ท่าใหม่",
+    "en": "Tha Mai",
+    "slug": "tha-mai"
+  },
+  "code": {
+    "dopa": "2203"
+  },
+  "parent": {
+    "id": "22",
+    "level": 1,
+    "name": {
+      "th": "จันทบุรี",
+      "en": "Chanthaburi",
+      "slug": "chanthaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 14,
+    "villages": 132
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.512",
+    "lon": "101.950"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tha-mai-2203/"
+  }
+}

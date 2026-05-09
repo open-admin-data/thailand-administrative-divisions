@@ -1,0 +1,61 @@
+{
+  "id": "390506",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สุวรรณคูหา",
+    "en": "Suwannakhuha",
+    "slug": "suwannakhuha"
+  },
+  "code": {
+    "dopa": "390506"
+  },
+  "parent": {
+    "id": "3905",
+    "level": 2,
+    "name": {
+      "th": "สุวรรณคูหา",
+      "en": "Suwannakhuha",
+      "slug": "suwannakhuha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3905",
+      "level": 2,
+      "name": {
+        "th": "สุวรรณคูหา",
+        "en": "Suwannakhuha",
+        "slug": "suwannakhuha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "39270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.551",
+    "lon": "102.277"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/suwannakhuha-390506/"
+  }
+}

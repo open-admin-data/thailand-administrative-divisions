@@ -1,0 +1,61 @@
+{
+  "id": "302702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กระเบื้องนอก",
+    "en": "Krabueang Nok",
+    "slug": "krabueang-nok"
+  },
+  "code": {
+    "dopa": "302702"
+  },
+  "parent": {
+    "id": "3027",
+    "level": 2,
+    "name": {
+      "th": "เมืองยาง",
+      "en": "Mueang Yang",
+      "slug": "mueang-yang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3027",
+      "level": 2,
+      "name": {
+        "th": "เมืองยาง",
+        "en": "Mueang Yang",
+        "slug": "mueang-yang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "30270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.440",
+    "lon": "102.957"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/krabueang-nok-302702/"
+  }
+}

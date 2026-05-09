@@ -1,0 +1,61 @@
+{
+  "id": "390604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังปลาป้อม",
+    "en": "Wang Pla Pom",
+    "slug": "wang-pla-pom"
+  },
+  "code": {
+    "dopa": "390604"
+  },
+  "parent": {
+    "id": "3906",
+    "level": 2,
+    "name": {
+      "th": "นาวัง",
+      "en": "Na Wang",
+      "slug": "na-wang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3906",
+      "level": 2,
+      "name": {
+        "th": "นาวัง",
+        "en": "Na Wang",
+        "slug": "na-wang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "39170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.426",
+    "lon": "102.024"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-pla-pom-390604/"
+  }
+}

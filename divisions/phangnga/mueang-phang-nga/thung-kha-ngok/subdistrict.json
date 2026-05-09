@@ -1,0 +1,61 @@
+{
+  "id": "820107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งคาโงก",
+    "en": "Thung Kha Ngok",
+    "slug": "thung-kha-ngok"
+  },
+  "code": {
+    "dopa": "820107"
+  },
+  "parent": {
+    "id": "8201",
+    "level": 2,
+    "name": {
+      "th": "เมืองพังงา",
+      "en": "Mueang Phang-nga",
+      "slug": "mueang-phang-nga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8201",
+      "level": 2,
+      "name": {
+        "th": "เมืองพังงา",
+        "en": "Mueang Phang-nga",
+        "slug": "mueang-phang-nga"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "82000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.554",
+    "lon": "98.438"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-kha-ngok-820107/"
+  }
+}

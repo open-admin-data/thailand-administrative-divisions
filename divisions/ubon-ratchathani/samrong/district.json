@@ -1,0 +1,50 @@
+{
+  "id": "3422",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สำโรง",
+    "en": "Samrong",
+    "slug": "samrong"
+  },
+  "code": {
+    "dopa": "3422"
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 108
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.010",
+    "lon": "104.793"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/samrong-3422/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "3021",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปากช่อง",
+    "en": "Pak Chong",
+    "slug": "pak-chong"
+  },
+  "code": {
+    "dopa": "3021"
+  },
+  "parent": {
+    "id": "30",
+    "level": 1,
+    "name": {
+      "th": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 242
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.594",
+    "lon": "101.530"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pak-chong-3021/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "210604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่น้ำคู้",
+    "en": "Maenam Khu",
+    "slug": "maenam-khu"
+  },
+  "code": {
+    "dopa": "210604"
+  },
+  "parent": {
+    "id": "2106",
+    "level": 2,
+    "name": {
+      "th": "ปลวกแดง",
+      "en": "Pluak Daeng",
+      "slug": "pluak-daeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2106",
+      "level": 2,
+      "name": {
+        "th": "ปลวกแดง",
+        "en": "Pluak Daeng",
+        "slug": "pluak-daeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "21140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.908",
+    "lon": "101.230"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/maenam-khu-210604/"
+  }
+}

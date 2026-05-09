@@ -1,0 +1,61 @@
+{
+  "id": "580507",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สันติคีรี",
+    "en": "Santi Khiri",
+    "slug": "santi-khiri"
+  },
+  "code": {
+    "dopa": "580507"
+  },
+  "parent": {
+    "id": "5805",
+    "level": 2,
+    "name": {
+      "th": "แม่ลาน้อย",
+      "en": "Mae La Noi",
+      "slug": "mae-la-noi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    },
+    {
+      "id": "5805",
+      "level": 2,
+      "name": {
+        "th": "แม่ลาน้อย",
+        "en": "Mae La Noi",
+        "slug": "mae-la-noi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "58120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.508",
+    "lon": "97.992"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/santi-khiri-580507/"
+  }
+}

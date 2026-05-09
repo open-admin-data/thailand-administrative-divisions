@@ -1,0 +1,61 @@
+{
+  "id": "370103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาจิก",
+    "en": "Na Chik",
+    "slug": "na-chik"
+  },
+  "code": {
+    "dopa": "370103"
+  },
+  "parent": {
+    "id": "3701",
+    "level": 2,
+    "name": {
+      "th": "เมืองอำนาจเจริญ",
+      "en": "Mueang Amnat Charoen",
+      "slug": "mueang-amnat-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    {
+      "id": "3701",
+      "level": 2,
+      "name": {
+        "th": "เมืองอำนาจเจริญ",
+        "en": "Mueang Amnat Charoen",
+        "slug": "mueang-amnat-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "37000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.787",
+    "lon": "104.564"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-chik-370103/"
+  }
+}

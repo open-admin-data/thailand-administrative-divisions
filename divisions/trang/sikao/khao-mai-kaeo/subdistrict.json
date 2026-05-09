@@ -1,0 +1,61 @@
+{
+  "id": "920502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาไม้แก้ว",
+    "en": "Khao Mai Kaeo",
+    "slug": "khao-mai-kaeo"
+  },
+  "code": {
+    "dopa": "920502"
+  },
+  "parent": {
+    "id": "9205",
+    "level": 2,
+    "name": {
+      "th": "สิเกา",
+      "en": "Sikao",
+      "slug": "sikao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9205",
+      "level": 2,
+      "name": {
+        "th": "สิเกา",
+        "en": "Sikao",
+        "slug": "sikao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "92150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.645",
+    "lon": "99.306"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-mai-kaeo-920502/"
+  }
+}

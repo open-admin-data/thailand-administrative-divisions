@@ -1,0 +1,61 @@
+{
+  "id": "180303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองน้อย",
+    "en": "Nong Noi",
+    "slug": "nong-noi"
+  },
+  "code": {
+    "dopa": "180303"
+  },
+  "parent": {
+    "id": "1803",
+    "level": 2,
+    "name": {
+      "th": "วัดสิงห์",
+      "en": "Wat Sing",
+      "slug": "wat-sing"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "th": "วัดสิงห์",
+        "en": "Wat Sing",
+        "slug": "wat-sing"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "17120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.177",
+    "lon": "100.015"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-noi-180303/"
+  }
+}

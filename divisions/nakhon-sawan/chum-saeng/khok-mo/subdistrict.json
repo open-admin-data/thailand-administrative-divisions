@@ -1,0 +1,61 @@
+{
+  "id": "600309",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกหม้อ",
+    "en": "Khok Mo",
+    "slug": "khok-mo"
+  },
+  "code": {
+    "dopa": "600309"
+  },
+  "parent": {
+    "id": "6003",
+    "level": 2,
+    "name": {
+      "th": "ชุมแสง",
+      "en": "Chum Saeng",
+      "slug": "chum-saeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6003",
+      "level": 2,
+      "name": {
+        "th": "ชุมแสง",
+        "en": "Chum Saeng",
+        "slug": "chum-saeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "60120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.830",
+    "lon": "100.235"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-mo-600309/"
+  }
+}

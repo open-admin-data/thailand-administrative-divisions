@@ -1,0 +1,61 @@
+{
+  "id": "960603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เรียง",
+    "en": "Riang",
+    "slug": "riang"
+  },
+  "code": {
+    "dopa": "960603"
+  },
+  "parent": {
+    "id": "9606",
+    "level": 2,
+    "name": {
+      "th": "รือเสาะ",
+      "en": "Rueso",
+      "slug": "rueso"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9606",
+      "level": 2,
+      "name": {
+        "th": "รือเสาะ",
+        "en": "Rueso",
+        "slug": "rueso"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "96150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.398",
+    "lon": "101.445"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/riang-960603/"
+  }
+}

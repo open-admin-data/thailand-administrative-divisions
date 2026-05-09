@@ -1,0 +1,61 @@
+{
+  "id": "800404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาแว",
+    "en": "Na Wae",
+    "slug": "na-wae"
+  },
+  "code": {
+    "dopa": "800404"
+  },
+  "parent": {
+    "id": "8004",
+    "level": 2,
+    "name": {
+      "th": "ฉวาง",
+      "en": "Chawang",
+      "slug": "chawang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8004",
+      "level": 2,
+      "name": {
+        "th": "ฉวาง",
+        "en": "Chawang",
+        "slug": "chawang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "80260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.483",
+    "lon": "99.523"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-wae-800404/"
+  }
+}

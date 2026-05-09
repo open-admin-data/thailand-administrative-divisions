@@ -1,0 +1,50 @@
+{
+  "id": "5807",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปางมะผ้า",
+    "en": "Pang Mapha",
+    "slug": "pang-mapha"
+  },
+  "code": {
+    "dopa": "5807"
+  },
+  "parent": {
+    "id": "58",
+    "level": 1,
+    "name": {
+      "th": "แม่ฮ่องสอน",
+      "en": "Mae Hong Son",
+      "slug": "mae-hong-son"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 38
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.615",
+    "lon": "98.204"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pang-mapha-5807/"
+  }
+}

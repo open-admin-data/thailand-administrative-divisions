@@ -1,0 +1,61 @@
+{
+  "id": "101701",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง ห้วยขวาง",
+    "en": "Huai Khwang",
+    "slug": "huai-khwang"
+  },
+  "code": {
+    "dopa": "101701"
+  },
+  "parent": {
+    "id": "1017",
+    "level": 2,
+    "name": {
+      "th": "เขต ห้วยขวาง",
+      "en": "Huai Khwang",
+      "slug": "huai-khwang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1017",
+      "level": 2,
+      "name": {
+        "th": "เขต ห้วยขวาง",
+        "en": "Huai Khwang",
+        "slug": "huai-khwang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10310"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.769",
+    "lon": "100.577"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-khwang-101701/"
+  }
+}

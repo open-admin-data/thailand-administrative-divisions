@@ -1,0 +1,61 @@
+{
+  "id": "950306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขื่อนบางลาง",
+    "en": "Khuean Bang Lang",
+    "slug": "khuean-bang-lang"
+  },
+  "code": {
+    "dopa": "950306"
+  },
+  "parent": {
+    "id": "9503",
+    "level": 2,
+    "name": {
+      "th": "บันนังสตา",
+      "en": "Bannang Sata",
+      "slug": "bannang-sata"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9503",
+      "level": 2,
+      "name": {
+        "th": "บันนังสตา",
+        "en": "Bannang Sata",
+        "slug": "bannang-sata"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "95130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.142",
+    "lon": "101.309"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khuean-bang-lang-950306/"
+  }
+}

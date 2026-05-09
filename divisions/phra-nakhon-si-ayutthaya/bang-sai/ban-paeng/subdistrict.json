@@ -1,0 +1,61 @@
+{
+  "id": "140404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านแป้ง",
+    "en": "Ban Paeng",
+    "slug": "ban-paeng"
+  },
+  "code": {
+    "dopa": "140404"
+  },
+  "parent": {
+    "id": "1404",
+    "level": 2,
+    "name": {
+      "th": "บางไทร",
+      "en": "Bang Sai",
+      "slug": "bang-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "th": "บางไทร",
+        "en": "Bang Sai",
+        "slug": "bang-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 3
+  },
+  "zip_codes": [
+    "13190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.232",
+    "lon": "100.507"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-paeng-140404/"
+  }
+}

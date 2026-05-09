@@ -1,0 +1,61 @@
+{
+  "id": "720302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ด่านช้าง",
+    "en": "Dan Chang",
+    "slug": "dan-chang"
+  },
+  "code": {
+    "dopa": "720302"
+  },
+  "parent": {
+    "id": "7203",
+    "level": 2,
+    "name": {
+      "th": "ด่านช้าง",
+      "en": "Dan Chang",
+      "slug": "dan-chang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7203",
+      "level": 2,
+      "name": {
+        "th": "ด่านช้าง",
+        "en": "Dan Chang",
+        "slug": "dan-chang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "72180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.744",
+    "lon": "99.527"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dan-chang-720302/"
+  }
+}

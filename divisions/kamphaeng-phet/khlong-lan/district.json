@@ -1,0 +1,50 @@
+{
+  "id": "6203",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "คลองลาน",
+    "en": "Khlong Lan",
+    "slug": "khlong-lan"
+  },
+  "code": {
+    "dopa": "6203"
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "th": "กำแพงเพชร",
+      "en": "Kamphaeng Phet",
+      "slug": "kamphaeng-phet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 69
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.324",
+    "lon": "99.348"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khlong-lan-6203/"
+  }
+}

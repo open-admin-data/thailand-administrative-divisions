@@ -1,0 +1,61 @@
+{
+  "id": "350803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สวาท",
+    "en": "Sawat",
+    "slug": "sawat"
+  },
+  "code": {
+    "dopa": "350803"
+  },
+  "parent": {
+    "id": "3508",
+    "level": 2,
+    "name": {
+      "th": "เลิงนกทา",
+      "en": "Loeng Nok Tha",
+      "slug": "loeng-nok-tha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3508",
+      "level": 2,
+      "name": {
+        "th": "เลิงนกทา",
+        "en": "Loeng Nok Tha",
+        "slug": "loeng-nok-tha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "35120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.153",
+    "lon": "104.538"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sawat-350803/"
+  }
+}

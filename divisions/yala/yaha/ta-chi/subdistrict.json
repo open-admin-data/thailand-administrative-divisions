@@ -1,0 +1,61 @@
+{
+  "id": "950506",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตาชี",
+    "en": "Ta Chi",
+    "slug": "ta-chi"
+  },
+  "code": {
+    "dopa": "950506"
+  },
+  "parent": {
+    "id": "9505",
+    "level": 2,
+    "name": {
+      "th": "ยะหา",
+      "en": "Yaha",
+      "slug": "yaha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9505",
+      "level": 2,
+      "name": {
+        "th": "ยะหา",
+        "en": "Yaha",
+        "slug": "yaha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "95120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.563",
+    "lon": "101.115"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ta-chi-950506/"
+  }
+}

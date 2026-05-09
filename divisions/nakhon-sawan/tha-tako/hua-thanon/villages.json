@@ -1,0 +1,612 @@
+[
+  {
+    "id": "60080301",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหัวถนนเหนือ",
+      "en": "Ban Hua Thanon Nuea",
+      "slug": "60080301"
+    },
+    "code": {
+      "dopa": "60080301"
+    },
+    "parent": {
+      "id": "600803",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      },
+      {
+        "id": "6008",
+        "level": 2,
+        "name": {
+          "th": "ท่าตะโก",
+          "en": "Tha Tako",
+          "slug": "tha-tako"
+        }
+      },
+      {
+        "id": "600803",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.597072317651318",
+      "lon": "100.4555632174015"
+    },
+    "source": {}
+  },
+  {
+    "id": "60080302",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหัวถนนใต้",
+      "en": "Ban Hua Thanon Tai",
+      "slug": "60080302"
+    },
+    "code": {
+      "dopa": "60080302"
+    },
+    "parent": {
+      "id": "600803",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      },
+      {
+        "id": "6008",
+        "level": 2,
+        "name": {
+          "th": "ท่าตะโก",
+          "en": "Tha Tako",
+          "slug": "tha-tako"
+        }
+      },
+      {
+        "id": "600803",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.603759443587013",
+      "lon": "100.44435694813728"
+    },
+    "source": {}
+  },
+  {
+    "id": "60080303",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านไดตามุ่ย",
+      "en": "Ban Dai Ta Mui",
+      "slug": "60080303"
+    },
+    "code": {
+      "dopa": "60080303"
+    },
+    "parent": {
+      "id": "600803",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      },
+      {
+        "id": "6008",
+        "level": 2,
+        "name": {
+          "th": "ท่าตะโก",
+          "en": "Tha Tako",
+          "slug": "tha-tako"
+        }
+      },
+      {
+        "id": "600803",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.625674173027493",
+      "lon": "100.43337598443031"
+    },
+    "source": {}
+  },
+  {
+    "id": "60080304",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองเนิน",
+      "en": "Ban Nong Noen",
+      "slug": "60080304"
+    },
+    "code": {
+      "dopa": "60080304"
+    },
+    "parent": {
+      "id": "600803",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      },
+      {
+        "id": "6008",
+        "level": 2,
+        "name": {
+          "th": "ท่าตะโก",
+          "en": "Tha Tako",
+          "slug": "tha-tako"
+        }
+      },
+      {
+        "id": "600803",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.604946492228393",
+      "lon": "100.4005779325962"
+    },
+    "source": {}
+  },
+  {
+    "id": "60080305",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเขาค้างคาว",
+      "en": "Ban Khao Khang Khao",
+      "slug": "60080305"
+    },
+    "code": {
+      "dopa": "60080305"
+    },
+    "parent": {
+      "id": "600803",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      },
+      {
+        "id": "6008",
+        "level": 2,
+        "name": {
+          "th": "ท่าตะโก",
+          "en": "Tha Tako",
+          "slug": "tha-tako"
+        }
+      },
+      {
+        "id": "600803",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.605693076429876",
+      "lon": "100.37933751940727"
+    },
+    "source": {}
+  },
+  {
+    "id": "60080306",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหัวถนนกลาง",
+      "en": "Ban Hua Thanon Klang",
+      "slug": "60080306"
+    },
+    "code": {
+      "dopa": "60080306"
+    },
+    "parent": {
+      "id": "600803",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      },
+      {
+        "id": "6008",
+        "level": 2,
+        "name": {
+          "th": "ท่าตะโก",
+          "en": "Tha Tako",
+          "slug": "tha-tako"
+        }
+      },
+      {
+        "id": "600803",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.597216990250008",
+      "lon": "100.44894352555275"
+    },
+    "source": {}
+  },
+  {
+    "id": "60080307",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองสองห้อง",
+      "en": "Ban Nong Song Hong",
+      "slug": "60080307"
+    },
+    "code": {
+      "dopa": "60080307"
+    },
+    "parent": {
+      "id": "600803",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      },
+      {
+        "id": "6008",
+        "level": 2,
+        "name": {
+          "th": "ท่าตะโก",
+          "en": "Tha Tako",
+          "slug": "tha-tako"
+        }
+      },
+      {
+        "id": "600803",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.539736491313715",
+      "lon": "100.44566050171852"
+    },
+    "source": {}
+  },
+  {
+    "id": "60080308",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเขาขาด",
+      "en": "Ban Khao Khat",
+      "slug": "60080308"
+    },
+    "code": {
+      "dopa": "60080308"
+    },
+    "parent": {
+      "id": "600803",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      },
+      {
+        "id": "6008",
+        "level": 2,
+        "name": {
+          "th": "ท่าตะโก",
+          "en": "Tha Tako",
+          "slug": "tha-tako"
+        }
+      },
+      {
+        "id": "600803",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.59488154869367",
+      "lon": "100.39186879992485"
+    },
+    "source": {}
+  },
+  {
+    "id": "60080309",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านใหม่เขาขาด",
+      "en": "Ban Mai Khao Khat",
+      "slug": "60080309"
+    },
+    "code": {
+      "dopa": "60080309"
+    },
+    "parent": {
+      "id": "600803",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      },
+      {
+        "id": "6008",
+        "level": 2,
+        "name": {
+          "th": "ท่าตะโก",
+          "en": "Tha Tako",
+          "slug": "tha-tako"
+        }
+      },
+      {
+        "id": "600803",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.596354120026762",
+      "lon": "100.37594452500343"
+    },
+    "source": {}
+  },
+  {
+    "id": "60080310",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหัวถนนพัฒนา",
+      "en": "Ban Hua Thanon Phatthana",
+      "slug": "60080310"
+    },
+    "code": {
+      "dopa": "60080310"
+    },
+    "parent": {
+      "id": "600803",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      },
+      {
+        "id": "6008",
+        "level": 2,
+        "name": {
+          "th": "ท่าตะโก",
+          "en": "Tha Tako",
+          "slug": "tha-tako"
+        }
+      },
+      {
+        "id": "600803",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.591548848251172",
+      "lon": "100.45515552163124"
+    },
+    "source": {}
+  }
+]

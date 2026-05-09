@@ -1,0 +1,50 @@
+{
+  "id": "9306",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปากพะยูน",
+    "en": "Pak Phayun",
+    "slug": "pak-phayun"
+  },
+  "code": {
+    "dopa": "9306"
+  },
+  "parent": {
+    "id": "93",
+    "level": 1,
+    "name": {
+      "th": "พัทลุง",
+      "en": "Phatthalung",
+      "slug": "phatthalung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 65
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.244",
+    "lon": "100.321"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pak-phayun-9306/"
+  }
+}

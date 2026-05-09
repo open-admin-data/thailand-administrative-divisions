@@ -1,0 +1,65 @@
+# Thailand Administrative Divisions
+
+> Open dataset of Thailand's complete 4-level administrative hierarchy:
+> <%= stats.provinces %> provinces, <%= stats.districts.toLocaleString() %> districts, <%= stats.subdistricts.toLocaleString() %> subdistricts, <%= stats.villages.toLocaleString() %> villages.
+> Bilingual (Thai + English). CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total provinces: <%= stats.provinces %>
+- Total districts: <%= stats.districts.toLocaleString() %>
+- Total subdistricts: <%= stats.subdistricts.toLocaleString() %>
+- Total villages: <%= stats.villages.toLocaleString() %>
+- Zip codes: included (subdistrict level)
+- Coordinates: included (all levels, WGS84)
+- Last updated: <%= lastUpdated %>
+- License: CC-BY-4.0
+- Source: ThaiAddress.org
+
+## Aggregate Data Files
+
+- [All provinces (JSON)](<%= githubRaw %>/data/all-provinces.json)
+- [All districts (JSON)](<%= githubRaw %>/data/all-districts.json)
+- [All subdistricts (JSON)](<%= githubRaw %>/data/all-subdistricts.json)
+- [All villages (JSON)](<%= githubRaw %>/data/all-villages.json)
+- [Flat array (NDJSON streaming)](<%= githubRaw %>/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](<%= githubRaw %>/data/hierarchy.json)
+- [JSON Schema](<%= githubRaw %>/data/schema.json)
+
+## Browse by Province
+
+<% for (const p of provinces) { -%>
+- [<%= p.name.th %> (<%= p.name.en %>)](<%= githubUrl %>/tree/main/divisions/<%= p.name.slug %>/) — <%= p.children_count.districts %> districts, <%= p.children_count.subdistricts.toLocaleString() %> subdistricts
+<% } -%>
+
+## Per-Province Full Data
+
+<% for (const p of provinces) { -%>
+- [<%= p.name.en %>](<%= githubRaw %>/docs/llms-full/<%= p.name.slug %>.txt) — <%= p.children_count.districts %> districts
+<% } -%>
+
+## Schema Fields
+
+- id: Unique DOPA identifier
+- level: 1 (province), 2 (district), 3 (subdistrict), 4 (village)
+- name: Thai and English names with URL slug
+- code: Government codes (DOPA, ISO if applicable)
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of immediate children
+- zip_codes: Postal/zip codes (subdistrict level, array — may have multiple)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+- metadata: Special flags (Bangkok, region)
+- source: Original ThaiAddress.org URL
+
+## Citation
+
+Thailand Administrative Divisions Dataset (CC-BY-4.0)
+Author: <%= githubUser %>
+URL: <%= githubUrl %>
+Source: ThaiAddress.org
+
+## Related Repos
+
+- [thai-temples-knowledge](https://github.com/jakkrapongt/thai-temples-knowledge) — Thai temple addresses
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN

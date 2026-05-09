@@ -1,0 +1,61 @@
+{
+  "id": "302803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พังเทียม",
+    "en": "Phang Thiam",
+    "slug": "phang-thiam"
+  },
+  "code": {
+    "dopa": "302803"
+  },
+  "parent": {
+    "id": "3028",
+    "level": 2,
+    "name": {
+      "th": "พระทองคำ",
+      "en": "Phra Thong Kham",
+      "slug": "phra-thong-kham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3028",
+      "level": 2,
+      "name": {
+        "th": "พระทองคำ",
+        "en": "Phra Thong Kham",
+        "slug": "phra-thong-kham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "30220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.275",
+    "lon": "101.995"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phang-thiam-302803/"
+  }
+}

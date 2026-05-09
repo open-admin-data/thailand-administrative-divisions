@@ -1,0 +1,61 @@
+{
+  "id": "600512",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บึงปลาทู",
+    "en": "Bueng Pla Thu",
+    "slug": "bueng-pla-thu"
+  },
+  "code": {
+    "dopa": "600512"
+  },
+  "parent": {
+    "id": "6005",
+    "level": 2,
+    "name": {
+      "th": "บรรพตพิสัย",
+      "en": "Banphot Phisai",
+      "slug": "banphot-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6005",
+      "level": 2,
+      "name": {
+        "th": "บรรพตพิสัย",
+        "en": "Banphot Phisai",
+        "slug": "banphot-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "60180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.073",
+    "lon": "100.065"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bueng-pla-thu-600512/"
+  }
+}

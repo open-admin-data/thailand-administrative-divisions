@@ -1,0 +1,50 @@
+{
+  "id": "8608",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ทุ่งตะโก",
+    "en": "Thung Tako",
+    "slug": "thung-tako"
+  },
+  "code": {
+    "dopa": "8608"
+  },
+  "parent": {
+    "id": "86",
+    "level": 1,
+    "name": {
+      "th": "ชุมพร",
+      "en": "Chumphon",
+      "slug": "chumphon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 35
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.165",
+    "lon": "99.176"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thung-tako-8608/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "501208",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งสะโตก",
+    "en": "Thung Satok",
+    "slug": "thung-satok"
+  },
+  "code": {
+    "dopa": "501208"
+  },
+  "parent": {
+    "id": "5012",
+    "level": 2,
+    "name": {
+      "th": "สันป่าตอง",
+      "en": "San Pa Tong",
+      "slug": "san-pa-tong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5012",
+      "level": 2,
+      "name": {
+        "th": "สันป่าตอง",
+        "en": "San Pa Tong",
+        "slug": "san-pa-tong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "50120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.586",
+    "lon": "98.849"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-satok-501208/"
+  }
+}

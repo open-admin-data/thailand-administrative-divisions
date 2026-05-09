@@ -1,0 +1,61 @@
+{
+  "id": "160115",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าศาลา",
+    "en": "Tha Sala",
+    "slug": "tha-sala"
+  },
+  "code": {
+    "dopa": "160115"
+  },
+  "parent": {
+    "id": "1601",
+    "level": 2,
+    "name": {
+      "th": "เมืองลพบุรี",
+      "en": "Mueang Lop Buri",
+      "slug": "mueang-lop-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "th": "เมืองลพบุรี",
+        "en": "Mueang Lop Buri",
+        "slug": "mueang-lop-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "15000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.792",
+    "lon": "100.671"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-sala-160115/"
+  }
+}

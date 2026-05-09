@@ -1,0 +1,50 @@
+{
+  "id": "6307",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พบพระ",
+    "en": "Phop Phra",
+    "slug": "phop-phra"
+  },
+  "code": {
+    "dopa": "6307"
+  },
+  "parent": {
+    "id": "63",
+    "level": 1,
+    "name": {
+      "th": "ตาก",
+      "en": "Tak",
+      "slug": "tak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 55
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.368",
+    "lon": "98.768"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phop-phra-6307/"
+  }
+}

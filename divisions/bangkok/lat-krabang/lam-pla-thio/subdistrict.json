@@ -1,0 +1,61 @@
+{
+  "id": "101104",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง ลำปลาทิว",
+    "en": "Lam Pla Thio",
+    "slug": "lam-pla-thio"
+  },
+  "code": {
+    "dopa": "101104"
+  },
+  "parent": {
+    "id": "1011",
+    "level": 2,
+    "name": {
+      "th": "เขต ลาดกระบัง",
+      "en": "Lat Krabang",
+      "slug": "lat-krabang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1011",
+      "level": 2,
+      "name": {
+        "th": "เขต ลาดกระบัง",
+        "en": "Lat Krabang",
+        "slug": "lat-krabang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10520"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.765",
+    "lon": "100.817"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lam-pla-thio-101104/"
+  }
+}

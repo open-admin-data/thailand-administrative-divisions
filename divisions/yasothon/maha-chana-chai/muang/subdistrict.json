@@ -1,0 +1,61 @@
+{
+  "id": "350606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ม่วง",
+    "en": "Muang",
+    "slug": "muang"
+  },
+  "code": {
+    "dopa": "350606"
+  },
+  "parent": {
+    "id": "3506",
+    "level": 2,
+    "name": {
+      "th": "มหาชนะชัย",
+      "en": "Maha Chana Chai",
+      "slug": "maha-chana-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "th": "มหาชนะชัย",
+        "en": "Maha Chana Chai",
+        "slug": "maha-chana-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "35130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.473",
+    "lon": "104.324"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/muang-350606/"
+  }
+}

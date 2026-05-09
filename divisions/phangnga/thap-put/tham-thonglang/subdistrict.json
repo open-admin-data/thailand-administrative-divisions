@@ -1,0 +1,61 @@
+{
+  "id": "820704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ถ้ำทองหลาง",
+    "en": "Tham Thonglang",
+    "slug": "tham-thonglang"
+  },
+  "code": {
+    "dopa": "820704"
+  },
+  "parent": {
+    "id": "8207",
+    "level": 2,
+    "name": {
+      "th": "ทับปุด",
+      "en": "Thap Put",
+      "slug": "thap-put"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8207",
+      "level": 2,
+      "name": {
+        "th": "ทับปุด",
+        "en": "Thap Put",
+        "slug": "thap-put"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "82180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.556",
+    "lon": "98.598"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tham-thonglang-820704/"
+  }
+}

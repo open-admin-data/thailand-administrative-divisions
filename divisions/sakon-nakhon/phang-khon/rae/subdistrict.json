@@ -1,0 +1,61 @@
+{
+  "id": "470503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แร่",
+    "en": "Rae",
+    "slug": "rae"
+  },
+  "code": {
+    "dopa": "470503"
+  },
+  "parent": {
+    "id": "4705",
+    "level": 2,
+    "name": {
+      "th": "พังโคน",
+      "en": "Phang Khon",
+      "slug": "phang-khon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4705",
+      "level": 2,
+      "name": {
+        "th": "พังโคน",
+        "en": "Phang Khon",
+        "slug": "phang-khon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "47160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.297",
+    "lon": "103.767"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rae-470503/"
+  }
+}

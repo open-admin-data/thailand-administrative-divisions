@@ -1,0 +1,61 @@
+{
+  "id": "710513",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หวายเหนียว",
+    "en": "Wai Niao",
+    "slug": "wai-niao"
+  },
+  "code": {
+    "dopa": "710513"
+  },
+  "parent": {
+    "id": "7105",
+    "level": 2,
+    "name": {
+      "th": "ท่ามะกา",
+      "en": "Tha Maka",
+      "slug": "tha-maka"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7105",
+      "level": 2,
+      "name": {
+        "th": "ท่ามะกา",
+        "en": "Tha Maka",
+        "slug": "tha-maka"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "71120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.902",
+    "lon": "99.759"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wai-niao-710513/"
+  }
+}

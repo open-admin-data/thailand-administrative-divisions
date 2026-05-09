@@ -1,0 +1,50 @@
+{
+  "id": "9009",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "รัตภูมิ",
+    "en": "Rattaphum",
+    "slug": "rattaphum"
+  },
+  "code": {
+    "dopa": "9009"
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "th": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 63
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.183",
+    "lon": "100.313"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/rattaphum-9009/"
+  }
+}

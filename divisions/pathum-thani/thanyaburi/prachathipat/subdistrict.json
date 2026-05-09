@@ -1,0 +1,61 @@
+{
+  "id": "130301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ประชาธิปัตย์",
+    "en": "Prachathipat",
+    "slug": "prachathipat"
+  },
+  "code": {
+    "dopa": "130301"
+  },
+  "parent": {
+    "id": "1303",
+    "level": 2,
+    "name": {
+      "th": "ธัญบุรี",
+      "en": "Thanyaburi",
+      "slug": "thanyaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "th": "ธัญบุรี",
+        "en": "Thanyaburi",
+        "slug": "thanyaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 83
+  },
+  "zip_codes": [
+    "12130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.987",
+    "lon": "100.632"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/prachathipat-130301/"
+  }
+}

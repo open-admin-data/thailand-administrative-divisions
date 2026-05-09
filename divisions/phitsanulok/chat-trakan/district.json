@@ -1,0 +1,50 @@
+{
+  "id": "6503",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ชาติตระการ",
+    "en": "Chat Trakan",
+    "slug": "chat-trakan"
+  },
+  "code": {
+    "dopa": "6503"
+  },
+  "parent": {
+    "id": "65",
+    "level": 1,
+    "name": {
+      "th": "พิษณุโลก",
+      "en": "Phitsanulok",
+      "slug": "phitsanulok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 72
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.285",
+    "lon": "100.561"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chat-trakan-6503/"
+  }
+}

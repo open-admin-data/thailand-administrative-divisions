@@ -1,0 +1,61 @@
+{
+  "id": "810203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สินปุน",
+    "en": "Sin Pun",
+    "slug": "sin-pun"
+  },
+  "code": {
+    "dopa": "810203"
+  },
+  "parent": {
+    "id": "8102",
+    "level": 2,
+    "name": {
+      "th": "เขาพนม",
+      "en": "Khao Phanom",
+      "slug": "khao-phanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8102",
+      "level": 2,
+      "name": {
+        "th": "เขาพนม",
+        "en": "Khao Phanom",
+        "slug": "khao-phanom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "80240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.277",
+    "lon": "99.295"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sin-pun-810203/"
+  }
+}

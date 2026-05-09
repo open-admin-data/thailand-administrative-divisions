@@ -1,0 +1,61 @@
+{
+  "id": "900307",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำขาว",
+    "en": "Nam Khao",
+    "slug": "nam-khao"
+  },
+  "code": {
+    "dopa": "900307"
+  },
+  "parent": {
+    "id": "9003",
+    "level": 2,
+    "name": {
+      "th": "จะนะ",
+      "en": "Chana",
+      "slug": "chana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "th": "จะนะ",
+        "en": "Chana",
+        "slug": "chana"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "90130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.805",
+    "lon": "100.609"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-khao-900307/"
+  }
+}

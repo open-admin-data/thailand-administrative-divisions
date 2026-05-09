@@ -1,0 +1,50 @@
+{
+  "id": "2103",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แกลง",
+    "en": "Klaeng",
+    "slug": "klaeng"
+  },
+  "code": {
+    "dopa": "2103"
+  },
+  "parent": {
+    "id": "21",
+    "level": 1,
+    "name": {
+      "th": "ระยอง",
+      "en": "Rayong",
+      "slug": "rayong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 15,
+    "villages": 163
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.584",
+    "lon": "101.510"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/klaeng-2103/"
+  }
+}

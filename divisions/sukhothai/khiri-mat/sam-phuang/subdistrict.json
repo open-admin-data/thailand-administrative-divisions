@@ -1,0 +1,61 @@
+{
+  "id": "640304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สามพวง",
+    "en": "Sam Phuang",
+    "slug": "sam-phuang"
+  },
+  "code": {
+    "dopa": "640304"
+  },
+  "parent": {
+    "id": "6403",
+    "level": 2,
+    "name": {
+      "th": "คีรีมาศ",
+      "en": "Khiri Mat",
+      "slug": "khiri-mat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6403",
+      "level": 2,
+      "name": {
+        "th": "คีรีมาศ",
+        "en": "Khiri Mat",
+        "slug": "khiri-mat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "64160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.790",
+    "lon": "99.785"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sam-phuang-640304/"
+  }
+}

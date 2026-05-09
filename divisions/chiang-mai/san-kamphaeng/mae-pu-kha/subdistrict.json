@@ -1,0 +1,61 @@
+{
+  "id": "501310",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่ปูคา",
+    "en": "Mae Pu Kha",
+    "slug": "mae-pu-kha"
+  },
+  "code": {
+    "dopa": "501310"
+  },
+  "parent": {
+    "id": "5013",
+    "level": 2,
+    "name": {
+      "th": "สันกำแพง",
+      "en": "San Kamphaeng",
+      "slug": "san-kamphaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5013",
+      "level": 2,
+      "name": {
+        "th": "สันกำแพง",
+        "en": "San Kamphaeng",
+        "slug": "san-kamphaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "50130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.785",
+    "lon": "99.126"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-pu-kha-501310/"
+  }
+}

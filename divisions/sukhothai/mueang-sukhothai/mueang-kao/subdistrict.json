@@ -1,0 +1,61 @@
+{
+  "id": "640103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองเก่า",
+    "en": "Mueang Kao",
+    "slug": "mueang-kao"
+  },
+  "code": {
+    "dopa": "640103"
+  },
+  "parent": {
+    "id": "6401",
+    "level": 2,
+    "name": {
+      "th": "เมืองสุโขทัย",
+      "en": "Mueang Sukhothai",
+      "slug": "mueang-sukhothai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6401",
+      "level": 2,
+      "name": {
+        "th": "เมืองสุโขทัย",
+        "en": "Mueang Sukhothai",
+        "slug": "mueang-sukhothai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "64210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.021",
+    "lon": "99.682"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-kao-640103/"
+  }
+}

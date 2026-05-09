@@ -1,0 +1,50 @@
+{
+  "id": "4505",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ธวัชบุรี",
+    "en": "Thawat Buri",
+    "slug": "thawat-buri"
+  },
+  "code": {
+    "dopa": "4505"
+  },
+  "parent": {
+    "id": "45",
+    "level": 1,
+    "name": {
+      "th": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 147
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.099",
+    "lon": "103.767"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thawat-buri-4505/"
+  }
+}

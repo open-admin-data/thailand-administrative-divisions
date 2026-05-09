@@ -1,0 +1,50 @@
+{
+  "id": "4602",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "นามน",
+    "en": "Na Mon",
+    "slug": "na-mon"
+  },
+  "code": {
+    "dopa": "4602"
+  },
+  "parent": {
+    "id": "46",
+    "level": 1,
+    "name": {
+      "th": "กาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 67
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.548",
+    "lon": "103.820"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/na-mon-4602/"
+  }
+}

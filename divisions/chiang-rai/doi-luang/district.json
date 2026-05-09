@@ -1,0 +1,50 @@
+{
+  "id": "5718",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ดอยหลวง",
+    "en": "Doi Luang",
+    "slug": "doi-luang"
+  },
+  "code": {
+    "dopa": "5718"
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 33
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.181",
+    "lon": "100.124"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/doi-luang-5718/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "501111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โหล่งขอด",
+    "en": "Long Khot",
+    "slug": "long-khot"
+  },
+  "code": {
+    "dopa": "501111"
+  },
+  "parent": {
+    "id": "5011",
+    "level": 2,
+    "name": {
+      "th": "พร้าว",
+      "en": "Phrao",
+      "slug": "phrao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5011",
+      "level": 2,
+      "name": {
+        "th": "พร้าว",
+        "en": "Phrao",
+        "slug": "phrao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "50190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.074",
+    "lon": "99.225"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/long-khot-501111/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "330107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองครก",
+    "en": "Nong Khrok",
+    "slug": "nong-khrok"
+  },
+  "code": {
+    "dopa": "330107"
+  },
+  "parent": {
+    "id": "3301",
+    "level": 2,
+    "name": {
+      "th": "เมืองศรีสะเกษ",
+      "en": "Mueang Si Sa Ket",
+      "slug": "mueang-si-sa-ket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "th": "เมืองศรีสะเกษ",
+        "en": "Mueang Si Sa Ket",
+        "slug": "mueang-si-sa-ket"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "33000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.078",
+    "lon": "104.295"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-khrok-330107/"
+  }
+}

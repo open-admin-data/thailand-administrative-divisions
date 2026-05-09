@@ -1,0 +1,61 @@
+{
+  "id": "550609",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าวังผา",
+    "en": "Tha Wang Pha",
+    "slug": "tha-wang-pha"
+  },
+  "code": {
+    "dopa": "550609"
+  },
+  "parent": {
+    "id": "5506",
+    "level": 2,
+    "name": {
+      "th": "ท่าวังผา",
+      "en": "Tha Wang Pha",
+      "slug": "tha-wang-pha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5506",
+      "level": 2,
+      "name": {
+        "th": "ท่าวังผา",
+        "en": "Tha Wang Pha",
+        "slug": "tha-wang-pha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "55140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.128",
+    "lon": "100.831"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-wang-pha-550609/"
+  }
+}

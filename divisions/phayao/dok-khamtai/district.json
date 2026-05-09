@@ -1,0 +1,50 @@
+{
+  "id": "5605",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ดอกคำใต้",
+    "en": "Dok Khamtai",
+    "slug": "dok-khamtai"
+  },
+  "code": {
+    "dopa": "5605"
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "th": "พะเยา",
+      "en": "Phayao",
+      "slug": "phayao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 125
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.134",
+    "lon": "99.998"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/dok-khamtai-5605/"
+  }
+}

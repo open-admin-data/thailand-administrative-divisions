@@ -1,0 +1,61 @@
+{
+  "id": "390409",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองกุงแก้ว",
+    "en": "Nong Kung Kaeo",
+    "slug": "nong-kung-kaeo"
+  },
+  "code": {
+    "dopa": "390409"
+  },
+  "parent": {
+    "id": "3904",
+    "level": 2,
+    "name": {
+      "th": "ศรีบุญเรือง",
+      "en": "Si Bun Rueang",
+      "slug": "si-bun-rueang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3904",
+      "level": 2,
+      "name": {
+        "th": "ศรีบุญเรือง",
+        "en": "Si Bun Rueang",
+        "slug": "si-bun-rueang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "39180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.149",
+    "lon": "102.073"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-kung-kaeo-390409/"
+  }
+}

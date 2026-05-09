@@ -1,0 +1,61 @@
+{
+  "id": "670201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชนแดน",
+    "en": "Chon Daen",
+    "slug": "chon-daen"
+  },
+  "code": {
+    "dopa": "670201"
+  },
+  "parent": {
+    "id": "6702",
+    "level": 2,
+    "name": {
+      "th": "ชนแดน",
+      "en": "Chon Daen",
+      "slug": "chon-daen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6702",
+      "level": 2,
+      "name": {
+        "th": "ชนแดน",
+        "en": "Chon Daen",
+        "slug": "chon-daen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "67150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.158",
+    "lon": "100.895"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chon-daen-670201/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "720907",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองโอ่ง",
+    "en": "Nong Ong",
+    "slug": "nong-ong"
+  },
+  "code": {
+    "dopa": "720907"
+  },
+  "parent": {
+    "id": "7209",
+    "level": 2,
+    "name": {
+      "th": "อู่ทอง",
+      "en": "U Thong",
+      "slug": "u-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7209",
+      "level": 2,
+      "name": {
+        "th": "อู่ทอง",
+        "en": "U Thong",
+        "slug": "u-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "72160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.418",
+    "lon": "99.886"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-ong-720907/"
+  }
+}

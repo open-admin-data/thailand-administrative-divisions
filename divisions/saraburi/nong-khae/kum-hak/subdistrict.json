@@ -1,0 +1,61 @@
+{
+  "id": "190302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุ่มหัก",
+    "en": "Kum Hak",
+    "slug": "kum-hak"
+  },
+  "code": {
+    "dopa": "190302"
+  },
+  "parent": {
+    "id": "1903",
+    "level": 2,
+    "name": {
+      "th": "หนองแค",
+      "en": "Nong Khae",
+      "slug": "nong-khae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1903",
+      "level": 2,
+      "name": {
+        "th": "หนองแค",
+        "en": "Nong Khae",
+        "slug": "nong-khae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "18140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.312",
+    "lon": "100.863"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kum-hak-190302/"
+  }
+}

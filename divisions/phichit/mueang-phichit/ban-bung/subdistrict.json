@@ -1,0 +1,61 @@
+{
+  "id": "660110",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านบุ่ง",
+    "en": "Ban Bung",
+    "slug": "ban-bung"
+  },
+  "code": {
+    "dopa": "660110"
+  },
+  "parent": {
+    "id": "6601",
+    "level": 2,
+    "name": {
+      "th": "เมืองพิจิตร",
+      "en": "Mueang Phichit",
+      "slug": "mueang-phichit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6601",
+      "level": 2,
+      "name": {
+        "th": "เมืองพิจิตร",
+        "en": "Mueang Phichit",
+        "slug": "mueang-phichit"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "66000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.394",
+    "lon": "100.427"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-bung-660110/"
+  }
+}

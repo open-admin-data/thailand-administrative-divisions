@@ -1,0 +1,61 @@
+{
+  "id": "950108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าสาป",
+    "en": "Tha Sap",
+    "slug": "tha-sap"
+  },
+  "code": {
+    "dopa": "950108"
+  },
+  "parent": {
+    "id": "9501",
+    "level": 2,
+    "name": {
+      "th": "เมืองยะลา",
+      "en": "Yala",
+      "slug": "yala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "th": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "95000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.538",
+    "lon": "101.235"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-sap-950108/"
+  }
+}

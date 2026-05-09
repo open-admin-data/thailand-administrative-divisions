@@ -1,0 +1,61 @@
+{
+  "id": "920117",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาตาล่วง",
+    "en": "Na Ta Luang",
+    "slug": "na-ta-luang"
+  },
+  "code": {
+    "dopa": "920117"
+  },
+  "parent": {
+    "id": "9201",
+    "level": 2,
+    "name": {
+      "th": "เมืองตรัง",
+      "en": "Mueang Trang",
+      "slug": "mueang-trang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9201",
+      "level": 2,
+      "name": {
+        "th": "เมืองตรัง",
+        "en": "Mueang Trang",
+        "slug": "mueang-trang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "92000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.584",
+    "lon": "99.596"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-ta-luang-920117/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "600807",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทำนบ",
+    "en": "Thamnop",
+    "slug": "thamnop"
+  },
+  "code": {
+    "dopa": "600807"
+  },
+  "parent": {
+    "id": "6008",
+    "level": 2,
+    "name": {
+      "th": "ท่าตะโก",
+      "en": "Tha Tako",
+      "slug": "tha-tako"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6008",
+      "level": 2,
+      "name": {
+        "th": "ท่าตะโก",
+        "en": "Tha Tako",
+        "slug": "tha-tako"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "60160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.603",
+    "lon": "100.518"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thamnop-600807/"
+  }
+}

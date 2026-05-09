@@ -1,0 +1,61 @@
+{
+  "id": "230507",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองใหญ่",
+    "en": "Khlong Yai",
+    "slug": "khlong-yai"
+  },
+  "code": {
+    "dopa": "230507"
+  },
+  "parent": {
+    "id": "2305",
+    "level": 2,
+    "name": {
+      "th": "แหลมงอบ",
+      "en": "Laem Ngop",
+      "slug": "laem-ngop"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "th": "ตราด",
+        "en": "Trat",
+        "slug": "trat"
+      }
+    },
+    {
+      "id": "2305",
+      "level": 2,
+      "name": {
+        "th": "แหลมงอบ",
+        "en": "Laem Ngop",
+        "slug": "laem-ngop"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "23120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.226",
+    "lon": "102.362"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-yai-230507/"
+  }
+}

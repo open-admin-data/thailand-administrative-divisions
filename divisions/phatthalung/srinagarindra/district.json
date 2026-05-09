@@ -1,0 +1,50 @@
+{
+  "id": "9311",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ศรีนครินทร์",
+    "en": "Srinagarindra",
+    "slug": "srinagarindra"
+  },
+  "code": {
+    "dopa": "9311"
+  },
+  "parent": {
+    "id": "93",
+    "level": 1,
+    "name": {
+      "th": "พัทลุง",
+      "en": "Phatthalung",
+      "slug": "phatthalung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 43
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.554",
+    "lon": "99.971"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/srinagarindra-9311/"
+  }
+}

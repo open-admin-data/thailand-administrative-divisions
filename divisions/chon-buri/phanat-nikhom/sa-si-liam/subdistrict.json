@@ -1,0 +1,61 @@
+{
+  "id": "200607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สระสี่เหลี่ยม",
+    "en": "Sa Si Liam",
+    "slug": "sa-si-liam"
+  },
+  "code": {
+    "dopa": "200607"
+  },
+  "parent": {
+    "id": "2006",
+    "level": 2,
+    "name": {
+      "th": "พนัสนิคม",
+      "en": "Phanat Nikhom",
+      "slug": "phanat-nikhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2006",
+      "level": 2,
+      "name": {
+        "th": "พนัสนิคม",
+        "en": "Phanat Nikhom",
+        "slug": "phanat-nikhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "20140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.554",
+    "lon": "101.239"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sa-si-liam-200607/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "960903",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกียร์",
+    "en": "Kia",
+    "slug": "kia"
+  },
+  "code": {
+    "dopa": "960903"
+  },
+  "parent": {
+    "id": "9609",
+    "level": 2,
+    "name": {
+      "th": "สุคิริน",
+      "en": "Sukhirin",
+      "slug": "sukhirin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9609",
+      "level": 2,
+      "name": {
+        "th": "สุคิริน",
+        "en": "Sukhirin",
+        "slug": "sukhirin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "96190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "5.984",
+    "lon": "101.775"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kia-960903/"
+  }
+}

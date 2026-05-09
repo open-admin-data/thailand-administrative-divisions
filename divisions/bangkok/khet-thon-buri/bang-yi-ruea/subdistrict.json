@@ -1,0 +1,61 @@
+{
+  "id": "101503",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง บางยี่เรือ",
+    "en": "Bang Yi Ruea",
+    "slug": "bang-yi-ruea"
+  },
+  "code": {
+    "dopa": "101503"
+  },
+  "parent": {
+    "id": "1015",
+    "level": 2,
+    "name": {
+      "th": "เขต ธนบุรี",
+      "en": "Khet Thon Buri",
+      "slug": "khet-thon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1015",
+      "level": 2,
+      "name": {
+        "th": "เขต ธนบุรี",
+        "en": "Khet Thon Buri",
+        "slug": "khet-thon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10600"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.720",
+    "lon": "100.482"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-yi-ruea-101503/"
+  }
+}

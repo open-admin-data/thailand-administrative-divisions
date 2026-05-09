@@ -1,0 +1,61 @@
+{
+  "id": "101501",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง วัดกัลยาณ์",
+    "en": "Wat Kanlaya",
+    "slug": "wat-kanlaya"
+  },
+  "code": {
+    "dopa": "101501"
+  },
+  "parent": {
+    "id": "1015",
+    "level": 2,
+    "name": {
+      "th": "เขต ธนบุรี",
+      "en": "Khet Thon Buri",
+      "slug": "khet-thon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1015",
+      "level": 2,
+      "name": {
+        "th": "เขต ธนบุรี",
+        "en": "Khet Thon Buri",
+        "slug": "khet-thon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10600"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.737",
+    "lon": "100.493"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wat-kanlaya-101501/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "570410",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หงาว",
+    "en": "Ngao",
+    "slug": "ngao"
+  },
+  "code": {
+    "dopa": "570410"
+  },
+  "parent": {
+    "id": "5704",
+    "level": 2,
+    "name": {
+      "th": "เทิง",
+      "en": "Thoeng",
+      "slug": "thoeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5704",
+      "level": 2,
+      "name": {
+        "th": "เทิง",
+        "en": "Thoeng",
+        "slug": "thoeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "57160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.678",
+    "lon": "100.283"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ngao-570410/"
+  }
+}

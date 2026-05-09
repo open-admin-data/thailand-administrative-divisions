@@ -1,0 +1,61 @@
+{
+  "id": "920108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาโยงใต้",
+    "en": "Na Yong Tai",
+    "slug": "na-yong-tai"
+  },
+  "code": {
+    "dopa": "920108"
+  },
+  "parent": {
+    "id": "9201",
+    "level": 2,
+    "name": {
+      "th": "เมืองตรัง",
+      "en": "Mueang Trang",
+      "slug": "mueang-trang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9201",
+      "level": 2,
+      "name": {
+        "th": "เมืองตรัง",
+        "en": "Mueang Trang",
+        "slug": "mueang-trang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "92170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.571",
+    "lon": "99.669"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-yong-tai-920108/"
+  }
+}

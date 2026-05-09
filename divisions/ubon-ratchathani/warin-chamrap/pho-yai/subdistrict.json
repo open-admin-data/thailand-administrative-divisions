@@ -1,0 +1,61 @@
+{
+  "id": "341516",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพธิ์ใหญ่",
+    "en": "Pho Yai",
+    "slug": "pho-yai"
+  },
+  "code": {
+    "dopa": "341516"
+  },
+  "parent": {
+    "id": "3415",
+    "level": 2,
+    "name": {
+      "th": "วารินชำราบ",
+      "en": "Warin Chamrap",
+      "slug": "warin-chamrap"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3415",
+      "level": 2,
+      "name": {
+        "th": "วารินชำราบ",
+        "en": "Warin Chamrap",
+        "slug": "warin-chamrap"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "34190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.122",
+    "lon": "104.963"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pho-yai-341516/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "560701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่ใจ",
+    "en": "Mae Chai",
+    "slug": "mae-chai"
+  },
+  "code": {
+    "dopa": "560701"
+  },
+  "parent": {
+    "id": "5607",
+    "level": 2,
+    "name": {
+      "th": "แม่ใจ",
+      "en": "Mae Chai",
+      "slug": "mae-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5607",
+      "level": 2,
+      "name": {
+        "th": "แม่ใจ",
+        "en": "Mae Chai",
+        "slug": "mae-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "56130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.330",
+    "lon": "99.846"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-chai-560701/"
+  }
+}

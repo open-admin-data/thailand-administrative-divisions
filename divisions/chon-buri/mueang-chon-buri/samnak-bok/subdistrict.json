@@ -1,0 +1,61 @@
+{
+  "id": "200118",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สำนักบก",
+    "en": "Samnak Bok",
+    "slug": "samnak-bok"
+  },
+  "code": {
+    "dopa": "200118"
+  },
+  "parent": {
+    "id": "2001",
+    "level": 2,
+    "name": {
+      "th": "เมืองชลบุรี",
+      "en": "Mueang Chon Buri",
+      "slug": "mueang-chon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2001",
+      "level": 2,
+      "name": {
+        "th": "เมืองชลบุรี",
+        "en": "Mueang Chon Buri",
+        "slug": "mueang-chon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "20000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.368",
+    "lon": "101.061"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samnak-bok-200118/"
+  }
+}

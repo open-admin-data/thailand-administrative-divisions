@@ -1,0 +1,61 @@
+{
+  "id": "760801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แก่งกระจาน",
+    "en": "Kaeng Krachan",
+    "slug": "kaeng-krachan"
+  },
+  "code": {
+    "dopa": "760801"
+  },
+  "parent": {
+    "id": "7608",
+    "level": 2,
+    "name": {
+      "th": "แก่งกระจาน",
+      "en": "Kaeng Krachan",
+      "slug": "kaeng-krachan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7608",
+      "level": 2,
+      "name": {
+        "th": "แก่งกระจาน",
+        "en": "Kaeng Krachan",
+        "slug": "kaeng-krachan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "76170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.979",
+    "lon": "99.609"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kaeng-krachan-760801/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "4404",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "กันทรวิชัย",
+    "en": "Kantharawichai",
+    "slug": "kantharawichai"
+  },
+  "code": {
+    "dopa": "4404"
+  },
+  "parent": {
+    "id": "44",
+    "level": 1,
+    "name": {
+      "th": "มหาสารคาม",
+      "en": "Maha Sarakham",
+      "slug": "maha-sarakham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 183
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.283",
+    "lon": "103.380"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kantharawichai-4404/"
+  }
+}

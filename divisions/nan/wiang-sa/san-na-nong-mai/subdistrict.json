@@ -1,0 +1,61 @@
+{
+  "id": "550712",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ส้านนาหนองใหม่",
+    "en": "San Na Nong Mai",
+    "slug": "san-na-nong-mai"
+  },
+  "code": {
+    "dopa": "550712"
+  },
+  "parent": {
+    "id": "5507",
+    "level": 2,
+    "name": {
+      "th": "เวียงสา",
+      "en": "Wiang Sa",
+      "slug": "wiang-sa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "th": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "55110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.531",
+    "lon": "100.996"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/san-na-nong-mai-550712/"
+  }
+}

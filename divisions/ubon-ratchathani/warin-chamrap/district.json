@@ -1,0 +1,50 @@
+{
+  "id": "3415",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "วารินชำราบ",
+    "en": "Warin Chamrap",
+    "slug": "warin-chamrap"
+  },
+  "code": {
+    "dopa": "3415"
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 16,
+    "villages": 220
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.198",
+    "lon": "104.815"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/warin-chamrap-3415/"
+  }
+}

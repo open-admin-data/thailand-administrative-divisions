@@ -1,0 +1,61 @@
+{
+  "id": "301703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าลาด",
+    "en": "Tha Lat",
+    "slug": "tha-lat"
+  },
+  "code": {
+    "dopa": "301703"
+  },
+  "parent": {
+    "id": "3017",
+    "level": 2,
+    "name": {
+      "th": "ชุมพวง",
+      "en": "Chum Phuang",
+      "slug": "chum-phuang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3017",
+      "level": 2,
+      "name": {
+        "th": "ชุมพวง",
+        "en": "Chum Phuang",
+        "slug": "chum-phuang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "30270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.243",
+    "lon": "102.720"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-lat-301703/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "770202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุยเหนือ",
+    "en": "Kui Nuea",
+    "slug": "kui-nuea"
+  },
+  "code": {
+    "dopa": "770202"
+  },
+  "parent": {
+    "id": "7702",
+    "level": 2,
+    "name": {
+      "th": "กุยบุรี",
+      "en": "Kui Buri",
+      "slug": "kui-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    },
+    {
+      "id": "7702",
+      "level": 2,
+      "name": {
+        "th": "กุยบุรี",
+        "en": "Kui Buri",
+        "slug": "kui-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "77150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.086",
+    "lon": "99.908"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kui-nuea-770202/"
+  }
+}

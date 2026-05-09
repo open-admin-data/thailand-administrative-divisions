@@ -1,0 +1,61 @@
+{
+  "id": "361307",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งนาเลา",
+    "en": "Thung Na Lao",
+    "slug": "thung-na-lao"
+  },
+  "code": {
+    "dopa": "361307"
+  },
+  "parent": {
+    "id": "3613",
+    "level": 2,
+    "name": {
+      "th": "คอนสาร",
+      "en": "Khon San",
+      "slug": "khon-san"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3613",
+      "level": 2,
+      "name": {
+        "th": "คอนสาร",
+        "en": "Khon San",
+        "slug": "khon-san"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "36180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.590",
+    "lon": "101.864"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-na-lao-361307/"
+  }
+}

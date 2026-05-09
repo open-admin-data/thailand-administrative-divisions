@@ -1,0 +1,61 @@
+{
+  "id": "570704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าซาง",
+    "en": "Pa Sang",
+    "slug": "pa-sang"
+  },
+  "code": {
+    "dopa": "570704"
+  },
+  "parent": {
+    "id": "5707",
+    "level": 2,
+    "name": {
+      "th": "แม่จัน",
+      "en": "Mae Chan",
+      "slug": "mae-chan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5707",
+      "level": 2,
+      "name": {
+        "th": "แม่จัน",
+        "en": "Mae Chan",
+        "slug": "mae-chan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "57110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.181",
+    "lon": "99.846"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-sang-570704/"
+  }
+}

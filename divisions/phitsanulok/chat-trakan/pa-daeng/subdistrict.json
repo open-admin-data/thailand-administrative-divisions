@@ -1,0 +1,61 @@
+{
+  "id": "650301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าแดง",
+    "en": "Pa Daeng",
+    "slug": "pa-daeng"
+  },
+  "code": {
+    "dopa": "650301"
+  },
+  "parent": {
+    "id": "6503",
+    "level": 2,
+    "name": {
+      "th": "ชาติตระการ",
+      "en": "Chat Trakan",
+      "slug": "chat-trakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6503",
+      "level": 2,
+      "name": {
+        "th": "ชาติตระการ",
+        "en": "Chat Trakan",
+        "slug": "chat-trakan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "65170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.285",
+    "lon": "100.561"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-daeng-650301/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "6210",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บึงสามัคคี",
+    "en": "Bueng Samakkhi",
+    "slug": "bueng-samakkhi"
+  },
+  "code": {
+    "dopa": "6210"
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "th": "กำแพงเพชร",
+      "en": "Kamphaeng Phet",
+      "slug": "kamphaeng-phet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 45
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.158",
+    "lon": "99.941"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bueng-samakkhi-6210/"
+  }
+}

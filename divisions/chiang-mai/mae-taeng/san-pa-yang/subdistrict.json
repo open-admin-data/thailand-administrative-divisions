@@ -1,0 +1,61 @@
+{
+  "id": "500608",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สันป่ายาง",
+    "en": "San Pa Yang",
+    "slug": "san-pa-yang"
+  },
+  "code": {
+    "dopa": "500608"
+  },
+  "parent": {
+    "id": "5006",
+    "level": 2,
+    "name": {
+      "th": "แม่แตง",
+      "en": "Mae Taeng",
+      "slug": "mae-taeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5006",
+      "level": 2,
+      "name": {
+        "th": "แม่แตง",
+        "en": "Mae Taeng",
+        "slug": "mae-taeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "50330"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.049",
+    "lon": "98.830"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/san-pa-yang-500608/"
+  }
+}

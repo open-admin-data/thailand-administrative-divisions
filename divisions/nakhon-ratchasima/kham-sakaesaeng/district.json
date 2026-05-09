@@ -1,0 +1,50 @@
+{
+  "id": "3011",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ขามสะแกแสง",
+    "en": "Kham Sakaesaeng",
+    "slug": "kham-sakaesaeng"
+  },
+  "code": {
+    "dopa": "3011"
+  },
+  "parent": {
+    "id": "30",
+    "level": 1,
+    "name": {
+      "th": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 72
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.424",
+    "lon": "102.159"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kham-sakaesaeng-3011/"
+  }
+}

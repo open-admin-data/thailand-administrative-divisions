@@ -1,0 +1,61 @@
+{
+  "id": "901504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "รำแดง",
+    "en": "Ram Daeng",
+    "slug": "ram-daeng"
+  },
+  "code": {
+    "dopa": "901504"
+  },
+  "parent": {
+    "id": "9015",
+    "level": 2,
+    "name": {
+      "th": "สิงหนคร",
+      "en": "Singhanakhon",
+      "slug": "singhanakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9015",
+      "level": 2,
+      "name": {
+        "th": "สิงหนคร",
+        "en": "Singhanakhon",
+        "slug": "singhanakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "90330"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.290",
+    "lon": "100.486"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ram-daeng-901504/"
+  }
+}

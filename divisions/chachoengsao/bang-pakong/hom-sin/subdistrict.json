@@ -1,0 +1,61 @@
+{
+  "id": "240411",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หอมศีล",
+    "en": "Hom Sin",
+    "slug": "hom-sin"
+  },
+  "code": {
+    "dopa": "240411"
+  },
+  "parent": {
+    "id": "2404",
+    "level": 2,
+    "name": {
+      "th": "บางปะกง",
+      "en": "Bang Pakong",
+      "slug": "bang-pakong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2404",
+      "level": 2,
+      "name": {
+        "th": "บางปะกง",
+        "en": "Bang Pakong",
+        "slug": "bang-pakong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "24180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.543",
+    "lon": "100.892"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hom-sin-240411/"
+  }
+}

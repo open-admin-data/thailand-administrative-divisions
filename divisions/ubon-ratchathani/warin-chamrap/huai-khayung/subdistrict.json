@@ -1,0 +1,61 @@
+{
+  "id": "341524",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยขะยุง",
+    "en": "Huai Khayung",
+    "slug": "huai-khayung"
+  },
+  "code": {
+    "dopa": "341524"
+  },
+  "parent": {
+    "id": "3415",
+    "level": 2,
+    "name": {
+      "th": "วารินชำราบ",
+      "en": "Warin Chamrap",
+      "slug": "warin-chamrap"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3415",
+      "level": 2,
+      "name": {
+        "th": "วารินชำราบ",
+        "en": "Warin Chamrap",
+        "slug": "warin-chamrap"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "34310"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.091",
+    "lon": "104.708"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-khayung-341524/"
+  }
+}

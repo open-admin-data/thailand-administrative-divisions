@@ -1,0 +1,61 @@
+{
+  "id": "720508",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังน้ำซับ",
+    "en": "Wang Nam Sap",
+    "slug": "wang-nam-sap"
+  },
+  "code": {
+    "dopa": "720508"
+  },
+  "parent": {
+    "id": "7205",
+    "level": 2,
+    "name": {
+      "th": "ศรีประจันต์",
+      "en": "Si Prachan",
+      "slug": "si-prachan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "th": "ศรีประจันต์",
+        "en": "Si Prachan",
+        "slug": "si-prachan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "72140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.650",
+    "lon": "100.154"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-nam-sap-720508/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "750306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางช้าง",
+    "en": "Bang Chang",
+    "slug": "bang-chang"
+  },
+  "code": {
+    "dopa": "750306"
+  },
+  "parent": {
+    "id": "7503",
+    "level": 2,
+    "name": {
+      "th": "อัมพวา",
+      "en": "Amphawa",
+      "slug": "amphawa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสงคราม",
+        "en": "Samut Songkhram",
+        "slug": "samut-songkhram"
+      }
+    },
+    {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "th": "อัมพวา",
+        "en": "Amphawa",
+        "slug": "amphawa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "75110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.437",
+    "lon": "99.953"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-chang-750306/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "5501",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองน่าน",
+    "en": "Mueang Nan",
+    "slug": "mueang-nan"
+  },
+  "code": {
+    "dopa": "5501"
+  },
+  "parent": {
+    "id": "55",
+    "level": 1,
+    "name": {
+      "th": "น่าน",
+      "en": "Nan",
+      "slug": "nan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 137
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.793",
+    "lon": "100.786"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-nan-5501/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "1806",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หันคา",
+    "en": "Hankha",
+    "slug": "hankha"
+  },
+  "code": {
+    "dopa": "1806"
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "th": "ชัยนาท",
+      "en": "Chai Nat",
+      "slug": "chai-nat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 100
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.065",
+    "lon": "100.026"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/hankha-1806/"
+  }
+}

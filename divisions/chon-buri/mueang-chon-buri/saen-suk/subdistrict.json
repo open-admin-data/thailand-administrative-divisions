@@ -1,0 +1,61 @@
+{
+  "id": "200104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แสนสุข",
+    "en": "Saen Suk",
+    "slug": "saen-suk"
+  },
+  "code": {
+    "dopa": "200104"
+  },
+  "parent": {
+    "id": "2001",
+    "level": 2,
+    "name": {
+      "th": "เมืองชลบุรี",
+      "en": "Mueang Chon Buri",
+      "slug": "mueang-chon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2001",
+      "level": 2,
+      "name": {
+        "th": "เมืองชลบุรี",
+        "en": "Mueang Chon Buri",
+        "slug": "mueang-chon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 25
+  },
+  "zip_codes": [
+    "20000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.274",
+    "lon": "100.928"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/saen-suk-200104/"
+  }
+}

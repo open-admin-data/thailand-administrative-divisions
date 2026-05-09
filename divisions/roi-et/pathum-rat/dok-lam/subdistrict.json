@@ -1,0 +1,61 @@
+{
+  "id": "450302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอกล้ำ",
+    "en": "Dok Lam",
+    "slug": "dok-lam"
+  },
+  "code": {
+    "dopa": "450302"
+  },
+  "parent": {
+    "id": "4503",
+    "level": 2,
+    "name": {
+      "th": "ปทุมรัตต์",
+      "en": "Pathum Rat",
+      "slug": "pathum-rat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4503",
+      "level": 2,
+      "name": {
+        "th": "ปทุมรัตต์",
+        "en": "Pathum Rat",
+        "slug": "pathum-rat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "45190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.639",
+    "lon": "103.309"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dok-lam-450302/"
+  }
+}

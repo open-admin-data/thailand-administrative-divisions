@@ -1,0 +1,50 @@
+{
+  "id": "7109",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พนมทวน",
+    "en": "Phanom Thuan",
+    "slug": "phanom-thuan"
+  },
+  "code": {
+    "dopa": "7109"
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "th": "กาญจนบุรี",
+      "en": "Kanchanaburi",
+      "slug": "kanchanaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 103
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.076",
+    "lon": "99.667"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phanom-thuan-7109/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "3505",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ป่าติ้ว",
+    "en": "Pa Tio",
+    "slug": "pa-tio"
+  },
+  "code": {
+    "dopa": "3505"
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "th": "ยโสธร",
+      "en": "Yasothon",
+      "slug": "yasothon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 57
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.772",
+    "lon": "104.409"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pa-tio-3505/"
+  }
+}

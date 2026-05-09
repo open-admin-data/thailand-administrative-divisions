@@ -1,0 +1,61 @@
+{
+  "id": "160410",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาโสม",
+    "en": "Na Som",
+    "slug": "na-som"
+  },
+  "code": {
+    "dopa": "160410"
+  },
+  "parent": {
+    "id": "1604",
+    "level": 2,
+    "name": {
+      "th": "ชัยบาดาล",
+      "en": "Chai Badan",
+      "slug": "chai-badan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1604",
+      "level": 2,
+      "name": {
+        "th": "ชัยบาดาล",
+        "en": "Chai Badan",
+        "slug": "chai-badan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "15190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.245",
+    "lon": "101.282"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-som-160410/"
+  }
+}

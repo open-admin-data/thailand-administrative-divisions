@@ -1,0 +1,61 @@
+{
+  "id": "471210",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองหลวง",
+    "en": "Nong Luang",
+    "slug": "nong-luang"
+  },
+  "code": {
+    "dopa": "471210"
+  },
+  "parent": {
+    "id": "4712",
+    "level": 2,
+    "name": {
+      "th": "สว่างแดนดิน",
+      "en": "Sawang Daen Din",
+      "slug": "sawang-daen-din"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4712",
+      "level": 2,
+      "name": {
+        "th": "สว่างแดนดิน",
+        "en": "Sawang Daen Din",
+        "slug": "sawang-daen-din"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "47110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.377",
+    "lon": "103.383"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-luang-471210/"
+  }
+}

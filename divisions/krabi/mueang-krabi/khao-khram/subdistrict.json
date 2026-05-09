@@ -1,0 +1,61 @@
+{
+  "id": "810105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาคราม",
+    "en": "Khao Khram",
+    "slug": "khao-khram"
+  },
+  "code": {
+    "dopa": "810105"
+  },
+  "parent": {
+    "id": "8101",
+    "level": 2,
+    "name": {
+      "th": "เมืองกระบี่",
+      "en": "Mueang Krabi",
+      "slug": "mueang-krabi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8101",
+      "level": 2,
+      "name": {
+        "th": "เมืองกระบี่",
+        "en": "Mueang Krabi",
+        "slug": "mueang-krabi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "81000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.241",
+    "lon": "98.825"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-khram-810105/"
+  }
+}

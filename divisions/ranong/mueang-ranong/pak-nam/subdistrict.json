@@ -1,0 +1,61 @@
+{
+  "id": "850105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากน้ำ",
+    "en": "Pak Nam",
+    "slug": "pak-nam"
+  },
+  "code": {
+    "dopa": "850105"
+  },
+  "parent": {
+    "id": "8501",
+    "level": 2,
+    "name": {
+      "th": "เมืองระนอง",
+      "en": "Mueang Ranong",
+      "slug": "mueang-ranong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "85",
+      "level": 1,
+      "name": {
+        "th": "ระนอง",
+        "en": "Ranong",
+        "slug": "ranong"
+      }
+    },
+    {
+      "id": "8501",
+      "level": 2,
+      "name": {
+        "th": "เมืองระนอง",
+        "en": "Mueang Ranong",
+        "slug": "mueang-ranong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "85000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.060",
+    "lon": "98.647"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-nam-850105/"
+  }
+}

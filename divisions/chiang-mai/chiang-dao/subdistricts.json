@@ -1,0 +1,429 @@
+[
+  {
+    "id": "500401",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เชียงดาว",
+      "en": "Chiang Dao",
+      "slug": "chiang-dao"
+    },
+    "code": {
+      "dopa": "500401"
+    },
+    "parent": {
+      "id": "5004",
+      "level": 2,
+      "name": {
+        "th": "เชียงดาว",
+        "en": "Chiang Dao",
+        "slug": "chiang-dao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5004",
+        "level": 2,
+        "name": {
+          "th": "เชียงดาว",
+          "en": "Chiang Dao",
+          "slug": "chiang-dao"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 16
+    },
+    "zip_codes": [
+      "50170"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "19.389",
+      "lon": "98.947"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/chiang-dao-500401/"
+    }
+  },
+  {
+    "id": "500404",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แม่นะ",
+      "en": "Mae Na",
+      "slug": "mae-na"
+    },
+    "code": {
+      "dopa": "500404"
+    },
+    "parent": {
+      "id": "5004",
+      "level": 2,
+      "name": {
+        "th": "เชียงดาว",
+        "en": "Chiang Dao",
+        "slug": "chiang-dao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5004",
+        "level": 2,
+        "name": {
+          "th": "เชียงดาว",
+          "en": "Chiang Dao",
+          "slug": "chiang-dao"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 13
+    },
+    "zip_codes": [
+      "50170"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "19.687",
+      "lon": "98.900"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/mae-na-500404/"
+    }
+  },
+  {
+    "id": "500405",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เมืองคอง",
+      "en": "Mueang Khong",
+      "slug": "mueang-khong"
+    },
+    "code": {
+      "dopa": "500405"
+    },
+    "parent": {
+      "id": "5004",
+      "level": 2,
+      "name": {
+        "th": "เชียงดาว",
+        "en": "Chiang Dao",
+        "slug": "chiang-dao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5004",
+        "level": 2,
+        "name": {
+          "th": "เชียงดาว",
+          "en": "Chiang Dao",
+          "slug": "chiang-dao"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "50170"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "19.388",
+      "lon": "98.753"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/mueang-khong-500405/"
+    }
+  },
+  {
+    "id": "500402",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เมืองนะ",
+      "en": "Mueang Na",
+      "slug": "mueang-na"
+    },
+    "code": {
+      "dopa": "500402"
+    },
+    "parent": {
+      "id": "5004",
+      "level": 2,
+      "name": {
+        "th": "เชียงดาว",
+        "en": "Chiang Dao",
+        "slug": "chiang-dao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5004",
+        "level": 2,
+        "name": {
+          "th": "เชียงดาว",
+          "en": "Chiang Dao",
+          "slug": "chiang-dao"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 14
+    },
+    "zip_codes": [
+      "50170"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "19.312",
+      "lon": "98.939"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/mueang-na-500402/"
+    }
+  },
+  {
+    "id": "500403",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เมืองงาย",
+      "en": "Mueang Ngai",
+      "slug": "mueang-ngai"
+    },
+    "code": {
+      "dopa": "500403"
+    },
+    "parent": {
+      "id": "5004",
+      "level": 2,
+      "name": {
+        "th": "เชียงดาว",
+        "en": "Chiang Dao",
+        "slug": "chiang-dao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5004",
+        "level": 2,
+        "name": {
+          "th": "เชียงดาว",
+          "en": "Chiang Dao",
+          "slug": "chiang-dao"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "50170"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "19.477",
+      "lon": "98.833"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/mueang-ngai-500403/"
+    }
+  },
+  {
+    "id": "500406",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ปิงโค้ง",
+      "en": "Ping Khong",
+      "slug": "ping-khong"
+    },
+    "code": {
+      "dopa": "500406"
+    },
+    "parent": {
+      "id": "5004",
+      "level": 2,
+      "name": {
+        "th": "เชียงดาว",
+        "en": "Chiang Dao",
+        "slug": "chiang-dao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5004",
+        "level": 2,
+        "name": {
+          "th": "เชียงดาว",
+          "en": "Chiang Dao",
+          "slug": "chiang-dao"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 16
+    },
+    "zip_codes": [
+      "50170"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "19.507",
+      "lon": "99.066"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ping-khong-500406/"
+    }
+  },
+  {
+    "id": "500407",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ทุ่งข้าวพวง",
+      "en": "Thung Khao Phuang",
+      "slug": "thung-khao-phuang"
+    },
+    "code": {
+      "dopa": "500407"
+    },
+    "parent": {
+      "id": "5004",
+      "level": 2,
+      "name": {
+        "th": "เชียงดาว",
+        "en": "Chiang Dao",
+        "slug": "chiang-dao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5004",
+        "level": 2,
+        "name": {
+          "th": "เชียงดาว",
+          "en": "Chiang Dao",
+          "slug": "chiang-dao"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "50170"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "19.552",
+      "lon": "98.906"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/thung-khao-phuang-500407/"
+    }
+  }
+]

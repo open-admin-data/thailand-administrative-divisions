@@ -1,0 +1,185 @@
+[
+  {
+    "id": "66040401",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองเจ็กเสี่ยง",
+      "en": "Ban Khlong Chek Siang",
+      "slug": "66040401"
+    },
+    "code": {
+      "dopa": "66040401"
+    },
+    "parent": {
+      "id": "660404",
+      "level": 3,
+      "name": {
+        "th": "ไทรโรงโขน",
+        "en": "Sai Rong Khon",
+        "slug": "sai-rong-khon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "th": "พิจิตร",
+          "en": "Phichit",
+          "slug": "phichit"
+        }
+      },
+      {
+        "id": "6604",
+        "level": 2,
+        "name": {
+          "th": "ตะพานหิน",
+          "en": "Taphan Hin",
+          "slug": "taphan-hin"
+        }
+      },
+      {
+        "id": "660404",
+        "level": 3,
+        "name": {
+          "th": "ไทรโรงโขน",
+          "en": "Sai Rong Khon",
+          "slug": "sai-rong-khon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.18030905060966",
+      "lon": "100.41462332010269"
+    },
+    "source": {}
+  },
+  {
+    "id": "66040402",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านไทรโรงโขน",
+      "en": "Ban Sai Rong Khon",
+      "slug": "66040402"
+    },
+    "code": {
+      "dopa": "66040402"
+    },
+    "parent": {
+      "id": "660404",
+      "level": 3,
+      "name": {
+        "th": "ไทรโรงโขน",
+        "en": "Sai Rong Khon",
+        "slug": "sai-rong-khon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "th": "พิจิตร",
+          "en": "Phichit",
+          "slug": "phichit"
+        }
+      },
+      {
+        "id": "6604",
+        "level": 2,
+        "name": {
+          "th": "ตะพานหิน",
+          "en": "Taphan Hin",
+          "slug": "taphan-hin"
+        }
+      },
+      {
+        "id": "660404",
+        "level": 3,
+        "name": {
+          "th": "ไทรโรงโขน",
+          "en": "Sai Rong Khon",
+          "slug": "sai-rong-khon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.179214262278826",
+      "lon": "100.40941312909126"
+    },
+    "source": {}
+  },
+  {
+    "id": "66040403",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านไผ่ร้อยกอ",
+      "en": "Ban Phai Roi Ko",
+      "slug": "66040403"
+    },
+    "code": {
+      "dopa": "66040403"
+    },
+    "parent": {
+      "id": "660404",
+      "level": 3,
+      "name": {
+        "th": "ไทรโรงโขน",
+        "en": "Sai Rong Khon",
+        "slug": "sai-rong-khon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "th": "พิจิตร",
+          "en": "Phichit",
+          "slug": "phichit"
+        }
+      },
+      {
+        "id": "6604",
+        "level": 2,
+        "name": {
+          "th": "ตะพานหิน",
+          "en": "Taphan Hin",
+          "slug": "taphan-hin"
+        }
+      },
+      {
+        "id": "660404",
+        "level": 3,
+        "name": {
+          "th": "ไทรโรงโขน",
+          "en": "Sai Rong Khon",
+          "slug": "sai-rong-khon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.170583253775366",
+      "lon": "100.40400177240372"
+    },
+    "source": {}
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "910504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากน้ำ",
+    "en": "Pak Nam",
+    "slug": "pak-nam"
+  },
+  "code": {
+    "dopa": "910504"
+  },
+  "parent": {
+    "id": "9105",
+    "level": 2,
+    "name": {
+      "th": "ละงู",
+      "en": "La-ngu",
+      "slug": "la-ngu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    },
+    {
+      "id": "9105",
+      "level": 2,
+      "name": {
+        "th": "ละงู",
+        "en": "La-ngu",
+        "slug": "la-ngu"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "91110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.872",
+    "lon": "99.731"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-nam-910504/"
+  }
+}

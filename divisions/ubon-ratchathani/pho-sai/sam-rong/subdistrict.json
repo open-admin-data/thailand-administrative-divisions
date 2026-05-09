@@ -1,0 +1,61 @@
+{
+  "id": "342103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สำโรง",
+    "en": "Sam Rong",
+    "slug": "sam-rong"
+  },
+  "code": {
+    "dopa": "342103"
+  },
+  "parent": {
+    "id": "3421",
+    "level": 2,
+    "name": {
+      "th": "โพธิ์ไทร",
+      "en": "Pho Sai",
+      "slug": "pho-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3421",
+      "level": 2,
+      "name": {
+        "th": "โพธิ์ไทร",
+        "en": "Pho Sai",
+        "slug": "pho-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "34340"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.728",
+    "lon": "105.494"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sam-rong-342103/"
+  }
+}

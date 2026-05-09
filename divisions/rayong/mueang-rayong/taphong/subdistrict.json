@@ -1,0 +1,61 @@
+{
+  "id": "210103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตะพง",
+    "en": "Taphong",
+    "slug": "taphong"
+  },
+  "code": {
+    "dopa": "210103"
+  },
+  "parent": {
+    "id": "2101",
+    "level": 2,
+    "name": {
+      "th": "เมืองระยอง",
+      "en": "Mueang Rayong",
+      "slug": "mueang-rayong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "th": "เมืองระยอง",
+        "en": "Mueang Rayong",
+        "slug": "mueang-rayong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "21000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.653",
+    "lon": "101.364"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/taphong-210103/"
+  }
+}

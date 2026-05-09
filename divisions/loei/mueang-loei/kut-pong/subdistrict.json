@@ -1,0 +1,61 @@
+{
+  "id": "420101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุดป่อง",
+    "en": "Kut Pong",
+    "slug": "kut-pong"
+  },
+  "code": {
+    "dopa": "420101"
+  },
+  "parent": {
+    "id": "4201",
+    "level": 2,
+    "name": {
+      "th": "เมืองเลย",
+      "en": "Mueang Loei",
+      "slug": "mueang-loei"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4201",
+      "level": 2,
+      "name": {
+        "th": "เมืองเลย",
+        "en": "Mueang Loei",
+        "slug": "mueang-loei"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 49
+  },
+  "zip_codes": [
+    "42000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.493",
+    "lon": "101.732"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kut-pong-420101/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "160305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยโป่ง",
+    "en": "Huai Pong",
+    "slug": "huai-pong"
+  },
+  "code": {
+    "dopa": "160305"
+  },
+  "parent": {
+    "id": "1603",
+    "level": 2,
+    "name": {
+      "th": "โคกสำโรง",
+      "en": "Khok Samrong",
+      "slug": "khok-samrong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1603",
+      "level": 2,
+      "name": {
+        "th": "โคกสำโรง",
+        "en": "Khok Samrong",
+        "slug": "khok-samrong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "15120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.981",
+    "lon": "100.677"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-pong-160305/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "430503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุดบง",
+    "en": "Kut Bong",
+    "slug": "kut-bong"
+  },
+  "code": {
+    "dopa": "430503"
+  },
+  "parent": {
+    "id": "4305",
+    "level": 2,
+    "name": {
+      "th": "โพนพิสัย",
+      "en": "Phon Phisai",
+      "slug": "phon-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4305",
+      "level": 2,
+      "name": {
+        "th": "โพนพิสัย",
+        "en": "Phon Phisai",
+        "slug": "phon-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "43120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.105",
+    "lon": "103.118"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kut-bong-430503/"
+  }
+}

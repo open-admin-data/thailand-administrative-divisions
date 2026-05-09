@@ -1,0 +1,61 @@
+{
+  "id": "740204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สวนหลวง",
+    "en": "Suan Luang",
+    "slug": "suan-luang"
+  },
+  "code": {
+    "dopa": "740204"
+  },
+  "parent": {
+    "id": "7402",
+    "level": 2,
+    "name": {
+      "th": "กระทุ่มแบน",
+      "en": "Krathum Baen",
+      "slug": "krathum-baen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสาคร",
+        "en": "Samut Sakhon",
+        "slug": "samut-sakhon"
+      }
+    },
+    {
+      "id": "7402",
+      "level": 2,
+      "name": {
+        "th": "กระทุ่มแบน",
+        "en": "Krathum Baen",
+        "slug": "krathum-baen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "74110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.671",
+    "lon": "100.323"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/suan-luang-740204/"
+  }
+}

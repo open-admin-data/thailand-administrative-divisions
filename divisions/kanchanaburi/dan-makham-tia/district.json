@@ -1,0 +1,50 @@
+{
+  "id": "7111",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ด่านมะขามเตี้ย",
+    "en": "Dan Makham Tia",
+    "slug": "dan-makham-tia"
+  },
+  "code": {
+    "dopa": "7111"
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "th": "กาญจนบุรี",
+      "en": "Kanchanaburi",
+      "slug": "kanchanaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 41
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.808",
+    "lon": "99.440"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/dan-makham-tia-7111/"
+  }
+}

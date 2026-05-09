@@ -1,0 +1,61 @@
+{
+  "id": "801301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ร่อนพิบูลย์",
+    "en": "Ron Phibun",
+    "slug": "ron-phibun"
+  },
+  "code": {
+    "dopa": "801301"
+  },
+  "parent": {
+    "id": "8013",
+    "level": 2,
+    "name": {
+      "th": "ร่อนพิบูลย์",
+      "en": "Ron Phibun",
+      "slug": "ron-phibun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8013",
+      "level": 2,
+      "name": {
+        "th": "ร่อนพิบูลย์",
+        "en": "Ron Phibun",
+        "slug": "ron-phibun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "80130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.189",
+    "lon": "99.832"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ron-phibun-801301/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "920222",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะนก",
+    "en": "Ko Nok",
+    "slug": "ko-nok"
+  },
+  "code": {
+    "dopa": "920222"
+  },
+  "parent": {
+    "id": "9202",
+    "level": 2,
+    "name": {
+      "th": "กันตัง",
+      "en": "Kantang",
+      "slug": "kantang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "th": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "92110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.272",
+    "lon": "99.475"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-nok-920222/"
+  }
+}

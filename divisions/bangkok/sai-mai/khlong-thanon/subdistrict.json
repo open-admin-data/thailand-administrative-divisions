@@ -1,0 +1,61 @@
+{
+  "id": "104203",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง คลองถนน",
+    "en": "Khlong Thanon",
+    "slug": "khlong-thanon"
+  },
+  "code": {
+    "dopa": "104203"
+  },
+  "parent": {
+    "id": "1042",
+    "level": 2,
+    "name": {
+      "th": "เขต สายไหม",
+      "en": "Sai Mai",
+      "slug": "sai-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1042",
+      "level": 2,
+      "name": {
+        "th": "เขต สายไหม",
+        "en": "Sai Mai",
+        "slug": "sai-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10220"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.898",
+    "lon": "100.630"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-thanon-104203/"
+  }
+}

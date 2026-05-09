@@ -1,0 +1,61 @@
+{
+  "id": "311805",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ละลวด",
+    "en": "Laluat",
+    "slug": "laluat"
+  },
+  "code": {
+    "dopa": "311805"
+  },
+  "parent": {
+    "id": "3118",
+    "level": 2,
+    "name": {
+      "th": "ชำนิ",
+      "en": "Chamni",
+      "slug": "chamni"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3118",
+      "level": 2,
+      "name": {
+        "th": "ชำนิ",
+        "en": "Chamni",
+        "slug": "chamni"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "31110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.780",
+    "lon": "102.745"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/laluat-311805/"
+  }
+}

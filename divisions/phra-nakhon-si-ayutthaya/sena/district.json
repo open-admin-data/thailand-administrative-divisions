@@ -1,0 +1,50 @@
+{
+  "id": "1412",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เสนา",
+    "en": "Sena",
+    "slug": "sena"
+  },
+  "code": {
+    "dopa": "1412"
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "th": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 17,
+    "villages": 138
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.328",
+    "lon": "100.404"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sena-1412/"
+  }
+}

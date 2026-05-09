@@ -1,0 +1,61 @@
+{
+  "id": "920304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ในควน",
+    "en": "Nai Khuan",
+    "slug": "nai-khuan"
+  },
+  "code": {
+    "dopa": "920304"
+  },
+  "parent": {
+    "id": "9203",
+    "level": 2,
+    "name": {
+      "th": "ย่านตาขาว",
+      "en": "Yan Ta Khao",
+      "slug": "yan-ta-khao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9203",
+      "level": 2,
+      "name": {
+        "th": "ย่านตาขาว",
+        "en": "Yan Ta Khao",
+        "slug": "yan-ta-khao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "92140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.376",
+    "lon": "99.768"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nai-khuan-920304/"
+  }
+}

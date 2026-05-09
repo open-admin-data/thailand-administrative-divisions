@@ -1,0 +1,61 @@
+{
+  "id": "440408",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีสุข",
+    "en": "Si Suk",
+    "slug": "si-suk"
+  },
+  "code": {
+    "dopa": "440408"
+  },
+  "parent": {
+    "id": "4404",
+    "level": 2,
+    "name": {
+      "th": "กันทรวิชัย",
+      "en": "Kantharawichai",
+      "slug": "kantharawichai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4404",
+      "level": 2,
+      "name": {
+        "th": "กันทรวิชัย",
+        "en": "Kantharawichai",
+        "slug": "kantharawichai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 24
+  },
+  "zip_codes": [
+    "44150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.348",
+    "lon": "103.263"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-suk-440408/"
+  }
+}

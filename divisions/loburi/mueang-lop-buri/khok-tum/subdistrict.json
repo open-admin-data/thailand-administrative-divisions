@@ -1,0 +1,61 @@
+{
+  "id": "160109",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกตูม",
+    "en": "Khok Tum",
+    "slug": "khok-tum"
+  },
+  "code": {
+    "dopa": "160109"
+  },
+  "parent": {
+    "id": "1601",
+    "level": 2,
+    "name": {
+      "th": "เมืองลพบุรี",
+      "en": "Mueang Lop Buri",
+      "slug": "mueang-lop-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "th": "เมืองลพบุรี",
+        "en": "Mueang Lop Buri",
+        "slug": "mueang-lop-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "15210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.866",
+    "lon": "100.817"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-tum-160109/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "5014",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สันทราย",
+    "en": "San Sai",
+    "slug": "san-sai"
+  },
+  "code": {
+    "dopa": "5014"
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 121
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.857",
+    "lon": "99.046"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/san-sai-5014/"
+  }
+}

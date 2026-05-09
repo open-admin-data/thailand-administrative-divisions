@@ -1,0 +1,61 @@
+{
+  "id": "100204",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง สี่แยกมหานาค",
+    "en": "Si Yaek Maha Nak",
+    "slug": "si-yaek-maha-nak"
+  },
+  "code": {
+    "dopa": "100204"
+  },
+  "parent": {
+    "id": "1002",
+    "level": 2,
+    "name": {
+      "th": "เขต ดุสิต",
+      "en": "Dusit",
+      "slug": "dusit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1002",
+      "level": 2,
+      "name": {
+        "th": "เขต ดุสิต",
+        "en": "Dusit",
+        "slug": "dusit"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10300"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.758",
+    "lon": "100.517"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-yaek-maha-nak-100204/"
+  }
+}

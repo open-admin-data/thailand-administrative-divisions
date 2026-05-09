@@ -1,0 +1,61 @@
+{
+  "id": "671106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองแม่นา",
+    "en": "Nong Mae Na",
+    "slug": "nong-mae-na"
+  },
+  "code": {
+    "dopa": "671106"
+  },
+  "parent": {
+    "id": "6711",
+    "level": 2,
+    "name": {
+      "th": "เขาค้อ",
+      "en": "Thung Samo",
+      "slug": "thung-samo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6711",
+      "level": 2,
+      "name": {
+        "th": "เขาค้อ",
+        "en": "Thung Samo",
+        "slug": "thung-samo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "67270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.578",
+    "lon": "100.898"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-mae-na-671106/"
+  }
+}

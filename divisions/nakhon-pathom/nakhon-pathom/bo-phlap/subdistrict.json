@@ -1,0 +1,61 @@
+{
+  "id": "730110",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อพลับ",
+    "en": "Bo Phlap",
+    "slug": "bo-phlap"
+  },
+  "code": {
+    "dopa": "730110"
+  },
+  "parent": {
+    "id": "7301",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครปฐม",
+      "en": "Nakhon Pathom",
+      "slug": "nakhon-pathom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7301",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "73000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.837",
+    "lon": "100.065"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-phlap-730110/"
+  }
+}

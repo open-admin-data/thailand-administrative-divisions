@@ -1,0 +1,61 @@
+{
+  "id": "720908",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนคา",
+    "en": "Don Kha",
+    "slug": "don-kha"
+  },
+  "code": {
+    "dopa": "720908"
+  },
+  "parent": {
+    "id": "7209",
+    "level": 2,
+    "name": {
+      "th": "อู่ทอง",
+      "en": "U Thong",
+      "slug": "u-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7209",
+      "level": 2,
+      "name": {
+        "th": "อู่ทอง",
+        "en": "U Thong",
+        "slug": "u-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "72160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.452",
+    "lon": "99.854"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-kha-720908/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "260206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองแสง",
+    "en": "Nong Saeng",
+    "slug": "nong-saeng"
+  },
+  "code": {
+    "dopa": "260206"
+  },
+  "parent": {
+    "id": "2602",
+    "level": 2,
+    "name": {
+      "th": "ปากพลี",
+      "en": "Pak Phli",
+      "slug": "pak-phli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    {
+      "id": "2602",
+      "level": 2,
+      "name": {
+        "th": "ปากพลี",
+        "en": "Pak Phli",
+        "slug": "pak-phli"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "26130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.211",
+    "lon": "101.307"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-saeng-260206/"
+  }
+}

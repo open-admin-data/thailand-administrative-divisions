@@ -1,0 +1,61 @@
+{
+  "id": "342105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สารภี",
+    "en": "Saraphi",
+    "slug": "saraphi"
+  },
+  "code": {
+    "dopa": "342105"
+  },
+  "parent": {
+    "id": "3421",
+    "level": 2,
+    "name": {
+      "th": "โพธิ์ไทร",
+      "en": "Pho Sai",
+      "slug": "pho-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3421",
+      "level": 2,
+      "name": {
+        "th": "โพธิ์ไทร",
+        "en": "Pho Sai",
+        "slug": "pho-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "34340"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.756",
+    "lon": "105.254"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/saraphi-342105/"
+  }
+}

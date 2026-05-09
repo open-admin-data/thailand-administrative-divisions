@@ -1,0 +1,61 @@
+{
+  "id": "440503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองซอน",
+    "en": "Nong Son",
+    "slug": "nong-son"
+  },
+  "code": {
+    "dopa": "440503"
+  },
+  "parent": {
+    "id": "4405",
+    "level": 2,
+    "name": {
+      "th": "เชียงยืน",
+      "en": "Chiang Yuen",
+      "slug": "chiang-yuen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4405",
+      "level": 2,
+      "name": {
+        "th": "เชียงยืน",
+        "en": "Chiang Yuen",
+        "slug": "chiang-yuen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "44160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.334",
+    "lon": "103.156"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-son-440503/"
+  }
+}

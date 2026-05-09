@@ -1,0 +1,61 @@
+{
+  "id": "350115",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขุมเงิน",
+    "en": "Khum Ngoen",
+    "slug": "khum-ngoen"
+  },
+  "code": {
+    "dopa": "350115"
+  },
+  "parent": {
+    "id": "3501",
+    "level": 2,
+    "name": {
+      "th": "เมืองยโสธร",
+      "en": "Mueang Yasothon",
+      "slug": "mueang-yasothon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3501",
+      "level": 2,
+      "name": {
+        "th": "เมืองยโสธร",
+        "en": "Mueang Yasothon",
+        "slug": "mueang-yasothon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "35000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.713",
+    "lon": "104.194"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khum-ngoen-350115/"
+  }
+}

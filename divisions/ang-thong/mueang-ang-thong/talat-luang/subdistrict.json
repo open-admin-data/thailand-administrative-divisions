@@ -1,0 +1,61 @@
+{
+  "id": "150101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตลาดหลวง",
+    "en": "Talat Luang",
+    "slug": "talat-luang"
+  },
+  "code": {
+    "dopa": "150101"
+  },
+  "parent": {
+    "id": "1501",
+    "level": 2,
+    "name": {
+      "th": "เมืองอ่างทอง",
+      "en": "Mueang Ang Thong",
+      "slug": "mueang-ang-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1501",
+      "level": 2,
+      "name": {
+        "th": "เมืองอ่างทอง",
+        "en": "Mueang Ang Thong",
+        "slug": "mueang-ang-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "14000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.592",
+    "lon": "100.453"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/talat-luang-150101/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "710404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่ากระดาน",
+    "en": "Tha Kradan",
+    "slug": "tha-kradan"
+  },
+  "code": {
+    "dopa": "710404"
+  },
+  "parent": {
+    "id": "7104",
+    "level": 2,
+    "name": {
+      "th": "ศรีสวัสดิ์",
+      "en": "Si Sawat",
+      "slug": "si-sawat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7104",
+      "level": 2,
+      "name": {
+        "th": "ศรีสวัสดิ์",
+        "en": "Si Sawat",
+        "slug": "si-sawat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "71250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.366",
+    "lon": "99.174"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-kradan-710404/"
+  }
+}

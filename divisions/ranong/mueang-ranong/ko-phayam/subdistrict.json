@@ -1,0 +1,61 @@
+{
+  "id": "850109",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะพยาม",
+    "en": "Ko Phayam",
+    "slug": "ko-phayam"
+  },
+  "code": {
+    "dopa": "850109"
+  },
+  "parent": {
+    "id": "8501",
+    "level": 2,
+    "name": {
+      "th": "เมืองระนอง",
+      "en": "Mueang Ranong",
+      "slug": "mueang-ranong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "85",
+      "level": 1,
+      "name": {
+        "th": "ระนอง",
+        "en": "Ranong",
+        "slug": "ranong"
+      }
+    },
+    {
+      "id": "8501",
+      "level": 2,
+      "name": {
+        "th": "เมืองระนอง",
+        "en": "Mueang Ranong",
+        "slug": "mueang-ranong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 2
+  },
+  "zip_codes": [
+    "85000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.833",
+    "lon": "98.450"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-phayam-850109/"
+  }
+}

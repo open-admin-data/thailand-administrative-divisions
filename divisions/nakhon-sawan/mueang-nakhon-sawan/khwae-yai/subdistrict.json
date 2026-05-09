@@ -1,0 +1,61 @@
+{
+  "id": "600104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แควใหญ่",
+    "en": "Khwae Yai",
+    "slug": "khwae-yai"
+  },
+  "code": {
+    "dopa": "600104"
+  },
+  "parent": {
+    "id": "6001",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครสวรรค์",
+      "en": "Mueang Nakhon Sawan",
+      "slug": "mueang-nakhon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6001",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครสวรรค์",
+        "en": "Mueang Nakhon Sawan",
+        "slug": "mueang-nakhon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "60000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.712",
+    "lon": "100.174"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khwae-yai-600104/"
+  }
+}

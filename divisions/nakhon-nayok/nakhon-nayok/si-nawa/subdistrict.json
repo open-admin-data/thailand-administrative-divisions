@@ -1,0 +1,61 @@
+{
+  "id": "260109",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีนาวา",
+    "en": "Si Nawa",
+    "slug": "si-nawa"
+  },
+  "code": {
+    "dopa": "260109"
+  },
+  "parent": {
+    "id": "2601",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครนายก",
+      "en": "Nakhon Nayok",
+      "slug": "nakhon-nayok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    {
+      "id": "2601",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "26000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.209",
+    "lon": "101.267"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-nawa-260109/"
+  }
+}

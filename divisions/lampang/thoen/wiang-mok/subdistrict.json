@@ -1,0 +1,61 @@
+{
+  "id": "520805",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เวียงมอก",
+    "en": "Wiang Mok",
+    "slug": "wiang-mok"
+  },
+  "code": {
+    "dopa": "520805"
+  },
+  "parent": {
+    "id": "5208",
+    "level": 2,
+    "name": {
+      "th": "เถิน",
+      "en": "Thoen",
+      "slug": "thoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5208",
+      "level": 2,
+      "name": {
+        "th": "เถิน",
+        "en": "Thoen",
+        "slug": "thoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "52160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.396",
+    "lon": "99.353"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wiang-mok-520805/"
+  }
+}

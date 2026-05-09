@@ -1,0 +1,61 @@
+{
+  "id": "341008",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านแมด",
+    "en": "Ban Maet",
+    "slug": "ban-maet"
+  },
+  "code": {
+    "dopa": "341008"
+  },
+  "parent": {
+    "id": "3410",
+    "level": 2,
+    "name": {
+      "th": "บุณฑริก",
+      "en": "Buntharik",
+      "slug": "buntharik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3410",
+      "level": 2,
+      "name": {
+        "th": "บุณฑริก",
+        "en": "Buntharik",
+        "slug": "buntharik"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "34230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.906",
+    "lon": "105.348"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-maet-341008/"
+  }
+}

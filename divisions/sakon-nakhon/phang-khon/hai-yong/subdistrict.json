@@ -1,0 +1,61 @@
+{
+  "id": "470504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไฮหย่อง",
+    "en": "Hai Yong",
+    "slug": "hai-yong"
+  },
+  "code": {
+    "dopa": "470504"
+  },
+  "parent": {
+    "id": "4705",
+    "level": 2,
+    "name": {
+      "th": "พังโคน",
+      "en": "Phang Khon",
+      "slug": "phang-khon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4705",
+      "level": 2,
+      "name": {
+        "th": "พังโคน",
+        "en": "Phang Khon",
+        "slug": "phang-khon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "47160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.406",
+    "lon": "103.765"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hai-yong-470504/"
+  }
+}

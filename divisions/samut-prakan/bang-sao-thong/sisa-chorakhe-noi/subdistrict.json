@@ -1,0 +1,61 @@
+{
+  "id": "110602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีษะจรเข้น้อย",
+    "en": "Sisa Chorakhe Noi",
+    "slug": "sisa-chorakhe-noi"
+  },
+  "code": {
+    "dopa": "110602"
+  },
+  "parent": {
+    "id": "1106",
+    "level": 2,
+    "name": {
+      "th": "บางเสาธง",
+      "en": "Bang Sao Thong",
+      "slug": "bang-sao-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "th": "บางเสาธง",
+        "en": "Bang Sao Thong",
+        "slug": "bang-sao-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "10540"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.689",
+    "lon": "100.799"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sisa-chorakhe-noi-110602/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "300303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนสมบูรณ์",
+    "en": "Non Sombun",
+    "slug": "non-sombun"
+  },
+  "code": {
+    "dopa": "300303"
+  },
+  "parent": {
+    "id": "3003",
+    "level": 2,
+    "name": {
+      "th": "เสิงสาง",
+      "en": "Soeng Sang",
+      "slug": "soeng-sang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3003",
+      "level": 2,
+      "name": {
+        "th": "เสิงสาง",
+        "en": "Soeng Sang",
+        "slug": "soeng-sang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "30330"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.278",
+    "lon": "102.398"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-sombun-300303/"
+  }
+}

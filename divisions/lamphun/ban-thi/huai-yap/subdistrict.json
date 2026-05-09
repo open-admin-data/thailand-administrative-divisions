@@ -1,0 +1,61 @@
+{
+  "id": "510702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยยาบ",
+    "en": "Huai Yap",
+    "slug": "huai-yap"
+  },
+  "code": {
+    "dopa": "510702"
+  },
+  "parent": {
+    "id": "5107",
+    "level": 2,
+    "name": {
+      "th": "บ้านธิ",
+      "en": "Ban Thi",
+      "slug": "ban-thi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5107",
+      "level": 2,
+      "name": {
+        "th": "บ้านธิ",
+        "en": "Ban Thi",
+        "slug": "ban-thi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "51180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.679",
+    "lon": "99.163"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-yap-510702/"
+  }
+}

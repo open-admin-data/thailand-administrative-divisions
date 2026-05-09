@@ -1,0 +1,61 @@
+{
+  "id": "460904",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนศิลา",
+    "en": "Non Sila",
+    "slug": "non-sila"
+  },
+  "code": {
+    "dopa": "460904"
+  },
+  "parent": {
+    "id": "4609",
+    "level": 2,
+    "name": {
+      "th": "สหัสขันธ์",
+      "en": "Sahatsakhan",
+      "slug": "sahatsakhan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4609",
+      "level": 2,
+      "name": {
+        "th": "สหัสขันธ์",
+        "en": "Sahatsakhan",
+        "slug": "sahatsakhan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "46140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.800",
+    "lon": "103.605"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-sila-460904/"
+  }
+}

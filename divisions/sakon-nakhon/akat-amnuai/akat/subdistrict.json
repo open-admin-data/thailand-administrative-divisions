@@ -1,0 +1,61 @@
+{
+  "id": "471101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อากาศ",
+    "en": "Akat",
+    "slug": "akat"
+  },
+  "code": {
+    "dopa": "471101"
+  },
+  "parent": {
+    "id": "4711",
+    "level": 2,
+    "name": {
+      "th": "อากาศอำนวย",
+      "en": "Akat Amnuai",
+      "slug": "akat-amnuai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4711",
+      "level": 2,
+      "name": {
+        "th": "อากาศอำนวย",
+        "en": "Akat Amnuai",
+        "slug": "akat-amnuai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "47170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.572",
+    "lon": "104.013"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/akat-471101/"
+  }
+}

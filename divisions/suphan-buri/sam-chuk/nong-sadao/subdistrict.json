@@ -1,0 +1,61 @@
+{
+  "id": "720806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองสะเดา",
+    "en": "Nong Sadao",
+    "slug": "nong-sadao"
+  },
+  "code": {
+    "dopa": "720806"
+  },
+  "parent": {
+    "id": "7208",
+    "level": 2,
+    "name": {
+      "th": "สามชุก",
+      "en": "Sam Chuk",
+      "slug": "sam-chuk"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7208",
+      "level": 2,
+      "name": {
+        "th": "สามชุก",
+        "en": "Sam Chuk",
+        "slug": "sam-chuk"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "72130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.803",
+    "lon": "99.991"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-sadao-720806/"
+  }
+}

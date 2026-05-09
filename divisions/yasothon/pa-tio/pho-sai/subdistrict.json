@@ -1,0 +1,61 @@
+{
+  "id": "350501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพธิ์ไทร",
+    "en": "Pho Sai",
+    "slug": "pho-sai"
+  },
+  "code": {
+    "dopa": "350501"
+  },
+  "parent": {
+    "id": "3505",
+    "level": 2,
+    "name": {
+      "th": "ป่าติ้ว",
+      "en": "Pa Tio",
+      "slug": "pa-tio"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3505",
+      "level": 2,
+      "name": {
+        "th": "ป่าติ้ว",
+        "en": "Pa Tio",
+        "slug": "pa-tio"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "35150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.832",
+    "lon": "104.398"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pho-sai-350501/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "311404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองชัยศรี",
+    "en": "Nong Chai Si",
+    "slug": "nong-chai-si"
+  },
+  "code": {
+    "dopa": "311404"
+  },
+  "parent": {
+    "id": "3114",
+    "level": 2,
+    "name": {
+      "th": "หนองหงส์",
+      "en": "Nong Hong",
+      "slug": "nong-hong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3114",
+      "level": 2,
+      "name": {
+        "th": "หนองหงส์",
+        "en": "Nong Hong",
+        "slug": "nong-hong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "31240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.823",
+    "lon": "102.645"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-chai-si-311404/"
+  }
+}

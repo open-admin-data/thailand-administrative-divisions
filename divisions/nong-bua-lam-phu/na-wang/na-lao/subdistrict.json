@@ -1,0 +1,61 @@
+{
+  "id": "390601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาเหล่า",
+    "en": "Na Lao",
+    "slug": "na-lao"
+  },
+  "code": {
+    "dopa": "390601"
+  },
+  "parent": {
+    "id": "3906",
+    "level": 2,
+    "name": {
+      "th": "นาวัง",
+      "en": "Na Wang",
+      "slug": "na-wang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3906",
+      "level": 2,
+      "name": {
+        "th": "นาวัง",
+        "en": "Na Wang",
+        "slug": "na-wang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "39170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.294",
+    "lon": "102.073"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-lao-390601/"
+  }
+}

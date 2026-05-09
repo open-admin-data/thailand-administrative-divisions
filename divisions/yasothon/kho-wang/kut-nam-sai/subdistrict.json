@@ -1,0 +1,61 @@
+{
+  "id": "350702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุดน้ำใส",
+    "en": "Kut Nam Sai",
+    "slug": "kut-nam-sai"
+  },
+  "code": {
+    "dopa": "350702"
+  },
+  "parent": {
+    "id": "3507",
+    "level": 2,
+    "name": {
+      "th": "ค้อวัง",
+      "en": "Kho Wang",
+      "slug": "kho-wang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3507",
+      "level": 2,
+      "name": {
+        "th": "ค้อวัง",
+        "en": "Kho Wang",
+        "slug": "kho-wang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "35160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.415",
+    "lon": "104.353"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kut-nam-sai-350702/"
+  }
+}

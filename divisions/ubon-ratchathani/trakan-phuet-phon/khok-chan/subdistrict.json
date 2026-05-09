@@ -1,0 +1,61 @@
+{
+  "id": "341107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกจาน",
+    "en": "Khok Chan",
+    "slug": "khok-chan"
+  },
+  "code": {
+    "dopa": "341107"
+  },
+  "parent": {
+    "id": "3411",
+    "level": 2,
+    "name": {
+      "th": "ตระการพืชผล",
+      "en": "Trakan Phuet Phon",
+      "slug": "trakan-phuet-phon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3411",
+      "level": 2,
+      "name": {
+        "th": "ตระการพืชผล",
+        "en": "Trakan Phuet Phon",
+        "slug": "trakan-phuet-phon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "34130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.507",
+    "lon": "105.100"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-chan-341107/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "570806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โยนก",
+    "en": "Yonok",
+    "slug": "yonok"
+  },
+  "code": {
+    "dopa": "570806"
+  },
+  "parent": {
+    "id": "5708",
+    "level": 2,
+    "name": {
+      "th": "เชียงแสน",
+      "en": "Chiang Saen",
+      "slug": "chiang-saen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5708",
+      "level": 2,
+      "name": {
+        "th": "เชียงแสน",
+        "en": "Chiang Saen",
+        "slug": "chiang-saen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "57150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.238",
+    "lon": "100.062"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yonok-570806/"
+  }
+}

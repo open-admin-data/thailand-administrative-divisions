@@ -1,0 +1,61 @@
+{
+  "id": "900801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะใหญ่",
+    "en": "Ko Yai",
+    "slug": "ko-yai"
+  },
+  "code": {
+    "dopa": "900801"
+  },
+  "parent": {
+    "id": "9008",
+    "level": 2,
+    "name": {
+      "th": "กระแสสินธุ์",
+      "en": "Krasae Sin",
+      "slug": "krasae-sin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9008",
+      "level": 2,
+      "name": {
+        "th": "กระแสสินธุ์",
+        "en": "Krasae Sin",
+        "slug": "krasae-sin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "90270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.540",
+    "lon": "100.323"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-yai-900801/"
+  }
+}

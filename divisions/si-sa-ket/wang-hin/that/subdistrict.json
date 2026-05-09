@@ -1,0 +1,61 @@
+{
+  "id": "331602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ธาตุ",
+    "en": "That",
+    "slug": "that"
+  },
+  "code": {
+    "dopa": "331602"
+  },
+  "parent": {
+    "id": "3316",
+    "level": 2,
+    "name": {
+      "th": "วังหิน",
+      "en": "Wang Hin",
+      "slug": "wang-hin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "th": "วังหิน",
+        "en": "Wang Hin",
+        "slug": "wang-hin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "33270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.988",
+    "lon": "104.186"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/that-331602/"
+  }
+}

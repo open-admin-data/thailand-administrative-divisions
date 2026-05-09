@@ -1,0 +1,61 @@
+{
+  "id": "620902",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หินดาต",
+    "en": "Hin Dat",
+    "slug": "hin-dat"
+  },
+  "code": {
+    "dopa": "620902"
+  },
+  "parent": {
+    "id": "6209",
+    "level": 2,
+    "name": {
+      "th": "ปางศิลาทอง",
+      "en": "Pang Sila Thong",
+      "slug": "pang-sila-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6209",
+      "level": 2,
+      "name": {
+        "th": "ปางศิลาทอง",
+        "en": "Pang Sila Thong",
+        "slug": "pang-sila-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "62120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.052",
+    "lon": "99.426"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hin-dat-620902/"
+  }
+}

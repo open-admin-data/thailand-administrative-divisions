@@ -1,0 +1,61 @@
+{
+  "id": "350701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ฟ้าห่วน",
+    "en": "Fa Huan",
+    "slug": "fa-huan"
+  },
+  "code": {
+    "dopa": "350701"
+  },
+  "parent": {
+    "id": "3507",
+    "level": 2,
+    "name": {
+      "th": "ค้อวัง",
+      "en": "Kho Wang",
+      "slug": "kho-wang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3507",
+      "level": 2,
+      "name": {
+        "th": "ค้อวัง",
+        "en": "Kho Wang",
+        "slug": "kho-wang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "35160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.339",
+    "lon": "104.405"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/fa-huan-350701/"
+  }
+}

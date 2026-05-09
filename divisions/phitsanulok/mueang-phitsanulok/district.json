@@ -1,0 +1,50 @@
+{
+  "id": "6501",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองพิษณุโลก",
+    "en": "Mueang Phitsanulok",
+    "slug": "mueang-phitsanulok"
+  },
+  "code": {
+    "dopa": "6501"
+  },
+  "parent": {
+    "id": "65",
+    "level": 1,
+    "name": {
+      "th": "พิษณุโลก",
+      "en": "Phitsanulok",
+      "slug": "phitsanulok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 20,
+    "villages": 237
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.789",
+    "lon": "100.250"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-phitsanulok-6501/"
+  }
+}

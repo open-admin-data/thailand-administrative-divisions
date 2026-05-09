@@ -1,0 +1,61 @@
+{
+  "id": "510801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองล่อง",
+    "en": "Nong Long",
+    "slug": "nong-long"
+  },
+  "code": {
+    "dopa": "510801"
+  },
+  "parent": {
+    "id": "5108",
+    "level": 2,
+    "name": {
+      "th": "เวียงหนองล่อง",
+      "en": "Wiang Nong Long",
+      "slug": "wiang-nong-long"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5108",
+      "level": 2,
+      "name": {
+        "th": "เวียงหนองล่อง",
+        "en": "Wiang Nong Long",
+        "slug": "wiang-nong-long"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "51120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.404",
+    "lon": "98.732"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-long-510801/"
+  }
+}

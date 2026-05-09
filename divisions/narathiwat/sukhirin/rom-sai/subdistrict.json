@@ -1,0 +1,61 @@
+{
+  "id": "960905",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ร่มไทร",
+    "en": "Rom Sai",
+    "slug": "rom-sai"
+  },
+  "code": {
+    "dopa": "960905"
+  },
+  "parent": {
+    "id": "9609",
+    "level": 2,
+    "name": {
+      "th": "สุคิริน",
+      "en": "Sukhirin",
+      "slug": "sukhirin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9609",
+      "level": 2,
+      "name": {
+        "th": "สุคิริน",
+        "en": "Sukhirin",
+        "slug": "sukhirin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "96190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.048",
+    "lon": "101.759"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rom-sai-960905/"
+  }
+}

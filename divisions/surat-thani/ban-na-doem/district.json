@@ -1,0 +1,50 @@
+{
+  "id": "8413",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านนาเดิม",
+    "en": "Ban Na Doem",
+    "slug": "ban-na-doem"
+  },
+  "code": {
+    "dopa": "8413"
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "th": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 30
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.947",
+    "lon": "99.269"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-na-doem-8413/"
+  }
+}

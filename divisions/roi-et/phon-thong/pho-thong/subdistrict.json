@@ -1,0 +1,61 @@
+{
+  "id": "450706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพธิ์ทอง",
+    "en": "Pho Thong",
+    "slug": "pho-thong"
+  },
+  "code": {
+    "dopa": "450706"
+  },
+  "parent": {
+    "id": "4507",
+    "level": 2,
+    "name": {
+      "th": "โพนทอง",
+      "en": "Phon Thong",
+      "slug": "phon-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4507",
+      "level": 2,
+      "name": {
+        "th": "โพนทอง",
+        "en": "Phon Thong",
+        "slug": "phon-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "45110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.322",
+    "lon": "103.920"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pho-thong-450706/"
+  }
+}

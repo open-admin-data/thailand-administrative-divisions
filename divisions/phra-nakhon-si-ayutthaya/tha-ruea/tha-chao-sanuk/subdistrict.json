@@ -1,0 +1,61 @@
+{
+  "id": "140210",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าเจ้าสนุก",
+    "en": "Tha Chao Sanuk",
+    "slug": "tha-chao-sanuk"
+  },
+  "code": {
+    "dopa": "140210"
+  },
+  "parent": {
+    "id": "1402",
+    "level": 2,
+    "name": {
+      "th": "ท่าเรือ",
+      "en": "Tha Ruea",
+      "slug": "tha-ruea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1402",
+      "level": 2,
+      "name": {
+        "th": "ท่าเรือ",
+        "en": "Tha Ruea",
+        "slug": "tha-ruea"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "13130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.543",
+    "lon": "100.717"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-chao-sanuk-140210/"
+  }
+}

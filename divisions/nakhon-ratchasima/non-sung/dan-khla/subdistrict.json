@@ -1,0 +1,61 @@
+{
+  "id": "301012",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ด่านคล้า",
+    "en": "Dan Khla",
+    "slug": "dan-khla"
+  },
+  "code": {
+    "dopa": "301012"
+  },
+  "parent": {
+    "id": "3010",
+    "level": 2,
+    "name": {
+      "th": "โนนสูง",
+      "en": "Non Sung",
+      "slug": "non-sung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3010",
+      "level": 2,
+      "name": {
+        "th": "โนนสูง",
+        "en": "Non Sung",
+        "slug": "non-sung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "30160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.152",
+    "lon": "102.212"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dan-khla-301012/"
+  }
+}

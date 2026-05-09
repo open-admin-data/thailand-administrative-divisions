@@ -1,0 +1,61 @@
+{
+  "id": "820102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นบปริง",
+    "en": "Nop Pring",
+    "slug": "nop-pring"
+  },
+  "code": {
+    "dopa": "820102"
+  },
+  "parent": {
+    "id": "8201",
+    "level": 2,
+    "name": {
+      "th": "เมืองพังงา",
+      "en": "Mueang Phang-nga",
+      "slug": "mueang-phang-nga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8201",
+      "level": 2,
+      "name": {
+        "th": "เมืองพังงา",
+        "en": "Mueang Phang-nga",
+        "slug": "mueang-phang-nga"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "82000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.536",
+    "lon": "98.514"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nop-pring-820102/"
+  }
+}

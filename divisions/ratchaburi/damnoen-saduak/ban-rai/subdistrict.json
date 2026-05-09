@@ -1,0 +1,61 @@
+{
+  "id": "700408",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านไร่",
+    "en": "Ban Rai",
+    "slug": "ban-rai"
+  },
+  "code": {
+    "dopa": "700408"
+  },
+  "parent": {
+    "id": "7004",
+    "level": 2,
+    "name": {
+      "th": "ดำเนินสะดวก",
+      "en": "Damnoen Saduak",
+      "slug": "damnoen-saduak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7004",
+      "level": 2,
+      "name": {
+        "th": "ดำเนินสะดวก",
+        "en": "Damnoen Saduak",
+        "slug": "damnoen-saduak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "70130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.606",
+    "lon": "99.909"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-rai-700408/"
+  }
+}

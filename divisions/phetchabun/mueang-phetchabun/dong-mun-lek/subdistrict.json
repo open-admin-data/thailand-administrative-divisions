@@ -1,0 +1,61 @@
+{
+  "id": "670108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงมูลเหล็ก",
+    "en": "Dong Mun Lek",
+    "slug": "dong-mun-lek"
+  },
+  "code": {
+    "dopa": "670108"
+  },
+  "parent": {
+    "id": "6701",
+    "level": 2,
+    "name": {
+      "th": "เมืองเพชรบูรณ์",
+      "en": "Mueang Phetchabun",
+      "slug": "mueang-phetchabun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "th": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "67000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.478",
+    "lon": "101.203"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-mun-lek-670108/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "540505",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปงป่าหวาย",
+    "en": "Pong Pa Wai",
+    "slug": "pong-pa-wai"
+  },
+  "code": {
+    "dopa": "540505"
+  },
+  "parent": {
+    "id": "5405",
+    "level": 2,
+    "name": {
+      "th": "เด่นชัย",
+      "en": "Den Chai",
+      "slug": "den-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    {
+      "id": "5405",
+      "level": 2,
+      "name": {
+        "th": "เด่นชัย",
+        "en": "Den Chai",
+        "slug": "den-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "54110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.024",
+    "lon": "99.991"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pong-pa-wai-540505/"
+  }
+}

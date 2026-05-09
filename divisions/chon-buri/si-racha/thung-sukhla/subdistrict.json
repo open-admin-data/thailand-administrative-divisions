@@ -1,0 +1,61 @@
+{
+  "id": "200703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งสุขลา",
+    "en": "Thung Sukhla",
+    "slug": "thung-sukhla"
+  },
+  "code": {
+    "dopa": "200703"
+  },
+  "parent": {
+    "id": "2007",
+    "level": 2,
+    "name": {
+      "th": "ศรีราชา",
+      "en": "Si Racha",
+      "slug": "si-racha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2007",
+      "level": 2,
+      "name": {
+        "th": "ศรีราชา",
+        "en": "Si Racha",
+        "slug": "si-racha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "20230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.097",
+    "lon": "100.912"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-sukhla-200703/"
+  }
+}

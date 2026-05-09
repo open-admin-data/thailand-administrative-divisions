@@ -1,0 +1,50 @@
+{
+  "id": "8008",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ท่าศาลา",
+    "en": "Tha Sala",
+    "slug": "tha-sala"
+  },
+  "code": {
+    "dopa": "8008"
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "th": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 110
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.613",
+    "lon": "99.923"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tha-sala-8008/"
+  }
+}

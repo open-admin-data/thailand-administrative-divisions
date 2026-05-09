@@ -1,0 +1,63 @@
+[
+  {
+    "id": "104401",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง สะพานสูง",
+      "en": "Sapan Sung",
+      "slug": "sapan-sung"
+    },
+    "code": {
+      "dopa": "104401"
+    },
+    "parent": {
+      "id": "1044",
+      "level": 2,
+      "name": {
+        "th": "เขต สะพานสูง",
+        "en": "Khet Saphan Sung",
+        "slug": "khet-saphan-sung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1044",
+        "level": 2,
+        "name": {
+          "th": "เขต สะพานสูง",
+          "en": "Khet Saphan Sung",
+          "slug": "khet-saphan-sung"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10240"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.761",
+      "lon": "100.688"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/sapan-sung-104401/"
+    }
+  }
+]

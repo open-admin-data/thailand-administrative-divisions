@@ -1,0 +1,61 @@
+{
+  "id": "330701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พิมาย",
+    "en": "Phimai",
+    "slug": "phimai"
+  },
+  "code": {
+    "dopa": "330701"
+  },
+  "parent": {
+    "id": "3307",
+    "level": 2,
+    "name": {
+      "th": "ปรางค์กู่",
+      "en": "Prang Ku",
+      "slug": "prang-ku"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3307",
+      "level": 2,
+      "name": {
+        "th": "ปรางค์กู่",
+        "en": "Prang Ku",
+        "slug": "prang-ku"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "33170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.835",
+    "lon": "104.032"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phimai-330701/"
+  }
+}

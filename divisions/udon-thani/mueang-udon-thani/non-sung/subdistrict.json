@@ -1,0 +1,61 @@
+{
+  "id": "410106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนสูง",
+    "en": "Non Sung",
+    "slug": "non-sung"
+  },
+  "code": {
+    "dopa": "410106"
+  },
+  "parent": {
+    "id": "4101",
+    "level": 2,
+    "name": {
+      "th": "เมืองอุดรธานี",
+      "en": "Mueang Udon Thani",
+      "slug": "mueang-udon-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4101",
+      "level": 2,
+      "name": {
+        "th": "เมืองอุดรธานี",
+        "en": "Mueang Udon Thani",
+        "slug": "mueang-udon-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 30
+  },
+  "zip_codes": [
+    "41330"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.287",
+    "lon": "102.846"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-sung-410106/"
+  }
+}

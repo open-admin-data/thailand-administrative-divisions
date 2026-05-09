@@ -1,0 +1,61 @@
+{
+  "id": "700812",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยยางโทน",
+    "en": "Huai Yang Thon",
+    "slug": "huai-yang-thon"
+  },
+  "code": {
+    "dopa": "700812"
+  },
+  "parent": {
+    "id": "7008",
+    "level": 2,
+    "name": {
+      "th": "ปากท่อ",
+      "en": "Pak Tho",
+      "slug": "pak-tho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7008",
+      "level": 2,
+      "name": {
+        "th": "ปากท่อ",
+        "en": "Pak Tho",
+        "slug": "pak-tho"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "70140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.345",
+    "lon": "99.693"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-yang-thon-700812/"
+  }
+}

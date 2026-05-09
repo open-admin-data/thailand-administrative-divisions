@@ -1,0 +1,61 @@
+{
+  "id": "760803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังจันทร์",
+    "en": "Wang Chan",
+    "slug": "wang-chan"
+  },
+  "code": {
+    "dopa": "760803"
+  },
+  "parent": {
+    "id": "7608",
+    "level": 2,
+    "name": {
+      "th": "แก่งกระจาน",
+      "en": "Kaeng Krachan",
+      "slug": "kaeng-krachan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7608",
+      "level": 2,
+      "name": {
+        "th": "แก่งกระจาน",
+        "en": "Kaeng Krachan",
+        "slug": "kaeng-krachan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "76170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.942",
+    "lon": "99.735"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-chan-760803/"
+  }
+}

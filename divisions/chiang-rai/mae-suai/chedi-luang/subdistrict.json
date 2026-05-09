@@ -1,0 +1,61 @@
+{
+  "id": "571007",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เจดีย์หลวง",
+    "en": "Chedi Luang",
+    "slug": "chedi-luang"
+  },
+  "code": {
+    "dopa": "571007"
+  },
+  "parent": {
+    "id": "5710",
+    "level": 2,
+    "name": {
+      "th": "แม่สรวย",
+      "en": "Mae Suai",
+      "slug": "mae-suai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5710",
+      "level": 2,
+      "name": {
+        "th": "แม่สรวย",
+        "en": "Mae Suai",
+        "slug": "mae-suai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "57180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.569",
+    "lon": "99.546"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chedi-luang-571007/"
+  }
+}

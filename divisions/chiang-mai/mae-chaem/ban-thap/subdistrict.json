@@ -1,0 +1,61 @@
+{
+  "id": "500303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านทับ",
+    "en": "Ban Thap",
+    "slug": "ban-thap"
+  },
+  "code": {
+    "dopa": "500303"
+  },
+  "parent": {
+    "id": "5003",
+    "level": 2,
+    "name": {
+      "th": "แม่แจ่ม",
+      "en": "Mae Chaem",
+      "slug": "mae-chaem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5003",
+      "level": 2,
+      "name": {
+        "th": "แม่แจ่ม",
+        "en": "Mae Chaem",
+        "slug": "mae-chaem"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "50270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.342",
+    "lon": "98.234"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-thap-500303/"
+  }
+}

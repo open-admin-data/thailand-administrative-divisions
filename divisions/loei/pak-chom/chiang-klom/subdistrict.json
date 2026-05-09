@@ -1,0 +1,61 @@
+{
+  "id": "420402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เชียงกลม",
+    "en": "Chiang Klom",
+    "slug": "chiang-klom"
+  },
+  "code": {
+    "dopa": "420402"
+  },
+  "parent": {
+    "id": "4204",
+    "level": 2,
+    "name": {
+      "th": "ปากชม",
+      "en": "Pak Chom",
+      "slug": "pak-chom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4204",
+      "level": 2,
+      "name": {
+        "th": "ปากชม",
+        "en": "Pak Chom",
+        "slug": "pak-chom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "42150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.851",
+    "lon": "101.962"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chiang-klom-420402/"
+  }
+}

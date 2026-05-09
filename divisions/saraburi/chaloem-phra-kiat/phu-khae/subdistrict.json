@@ -1,0 +1,61 @@
+{
+  "id": "191304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พุแค",
+    "en": "Phu Khae",
+    "slug": "phu-khae"
+  },
+  "code": {
+    "dopa": "191304"
+  },
+  "parent": {
+    "id": "1913",
+    "level": 2,
+    "name": {
+      "th": "เฉลิมพระเกียรติ",
+      "en": "Chaloem Phra Kiat",
+      "slug": "chaloem-phra-kiat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1913",
+      "level": 2,
+      "name": {
+        "th": "เฉลิมพระเกียรติ",
+        "en": "Chaloem Phra Kiat",
+        "slug": "chaloem-phra-kiat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "18240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.656",
+    "lon": "100.905"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phu-khae-191304/"
+  }
+}

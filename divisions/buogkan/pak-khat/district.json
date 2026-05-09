@@ -1,0 +1,50 @@
+{
+  "id": "3805",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปากคาด",
+    "en": "Pak Khat",
+    "slug": "pak-khat"
+  },
+  "code": {
+    "dopa": "3805"
+  },
+  "parent": {
+    "id": "38",
+    "level": 1,
+    "name": {
+      "th": "บึงกาฬ",
+      "en": "Buogkan",
+      "slug": "buogkan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 64
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.382",
+    "lon": "103.285"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pak-khat-3805/"
+  }
+}

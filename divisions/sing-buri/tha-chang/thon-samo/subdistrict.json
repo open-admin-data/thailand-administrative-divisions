@@ -1,0 +1,61 @@
+{
+  "id": "170501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ถอนสมอ",
+    "en": "Thon Samo",
+    "slug": "thon-samo"
+  },
+  "code": {
+    "dopa": "170501"
+  },
+  "parent": {
+    "id": "1705",
+    "level": 2,
+    "name": {
+      "th": "ท่าช้าง",
+      "en": "Tha Chang",
+      "slug": "tha-chang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1705",
+      "level": 2,
+      "name": {
+        "th": "ท่าช้าง",
+        "en": "Tha Chang",
+        "slug": "tha-chang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "16140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.765",
+    "lon": "100.384"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thon-samo-170501/"
+  }
+}

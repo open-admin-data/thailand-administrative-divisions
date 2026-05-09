@@ -1,0 +1,61 @@
+{
+  "id": "150701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สามโก้",
+    "en": "Samko",
+    "slug": "samko"
+  },
+  "code": {
+    "dopa": "150701"
+  },
+  "parent": {
+    "id": "1507",
+    "level": 2,
+    "name": {
+      "th": "สามโก้",
+      "en": "Samko",
+      "slug": "samko"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1507",
+      "level": 2,
+      "name": {
+        "th": "สามโก้",
+        "en": "Samko",
+        "slug": "samko"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "14160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.606",
+    "lon": "100.252"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samko-150701/"
+  }
+}

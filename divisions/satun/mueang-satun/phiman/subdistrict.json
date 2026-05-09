@@ -1,0 +1,61 @@
+{
+  "id": "910101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พิมาน",
+    "en": "Phiman",
+    "slug": "phiman"
+  },
+  "code": {
+    "dopa": "910101"
+  },
+  "parent": {
+    "id": "9101",
+    "level": 2,
+    "name": {
+      "th": "เมืองสตูล",
+      "en": "Mueang Satun",
+      "slug": "mueang-satun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    },
+    {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสตูล",
+        "en": "Mueang Satun",
+        "slug": "mueang-satun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "91000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.615",
+    "lon": "100.071"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phiman-910101/"
+  }
+}

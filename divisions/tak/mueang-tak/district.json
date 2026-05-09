@@ -1,0 +1,50 @@
+{
+  "id": "6301",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองตาก",
+    "en": "Mueang Tak",
+    "slug": "mueang-tak"
+  },
+  "code": {
+    "dopa": "6301"
+  },
+  "parent": {
+    "id": "63",
+    "level": 1,
+    "name": {
+      "th": "ตาก",
+      "en": "Tak",
+      "slug": "tak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 109
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.862",
+    "lon": "99.129"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-tak-6301/"
+  }
+}

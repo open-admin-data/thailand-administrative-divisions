@@ -1,0 +1,61 @@
+{
+  "id": "670304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ฝายนาแซง",
+    "en": "Fai Na Saeng",
+    "slug": "fai-na-saeng"
+  },
+  "code": {
+    "dopa": "670304"
+  },
+  "parent": {
+    "id": "6703",
+    "level": 2,
+    "name": {
+      "th": "หล่มสัก",
+      "en": "Lom Sak",
+      "slug": "lom-sak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6703",
+      "level": 2,
+      "name": {
+        "th": "หล่มสัก",
+        "en": "Lom Sak",
+        "slug": "lom-sak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "67110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.811",
+    "lon": "101.206"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/fai-na-saeng-670304/"
+  }
+}

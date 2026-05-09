@@ -1,0 +1,50 @@
+{
+  "id": "7202",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เดิมบางนางบวช",
+    "en": "Doem Bang Nang Buat",
+    "slug": "doem-bang-nang-buat"
+  },
+  "code": {
+    "dopa": "7202"
+  },
+  "parent": {
+    "id": "72",
+    "level": 1,
+    "name": {
+      "th": "สุพรรณบุรี",
+      "en": "Suphan Buri",
+      "slug": "suphan-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 115
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.850",
+    "lon": "99.988"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/doem-bang-nang-buat-7202/"
+  }
+}

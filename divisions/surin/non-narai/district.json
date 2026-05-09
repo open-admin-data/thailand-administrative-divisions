@@ -1,0 +1,50 @@
+{
+  "id": "3217",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โนนนารายณ์",
+    "en": "Non Narai",
+    "slug": "non-narai"
+  },
+  "code": {
+    "dopa": "3217"
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "th": "สุรินทร์",
+      "en": "Surin",
+      "slug": "surin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 68
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.228",
+    "lon": "103.927"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/non-narai-3217/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "760512",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปึกเตียน",
+    "en": "Puek Tian",
+    "slug": "puek-tian"
+  },
+  "code": {
+    "dopa": "760512"
+  },
+  "parent": {
+    "id": "7605",
+    "level": 2,
+    "name": {
+      "th": "ท่ายาง",
+      "en": "Tha Yang",
+      "slug": "tha-yang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7605",
+      "level": 2,
+      "name": {
+        "th": "ท่ายาง",
+        "en": "Tha Yang",
+        "slug": "tha-yang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "76130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.943",
+    "lon": "100.014"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/puek-tian-760512/"
+  }
+}

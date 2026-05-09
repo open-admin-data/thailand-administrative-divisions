@@ -1,0 +1,61 @@
+{
+  "id": "520202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาสัก",
+    "en": "Na Sak",
+    "slug": "na-sak"
+  },
+  "code": {
+    "dopa": "520202"
+  },
+  "parent": {
+    "id": "5202",
+    "level": 2,
+    "name": {
+      "th": "แม่เมาะ",
+      "en": "Mae Mo",
+      "slug": "mae-mo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5202",
+      "level": 2,
+      "name": {
+        "th": "แม่เมาะ",
+        "en": "Mae Mo",
+        "slug": "mae-mo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "52220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.343",
+    "lon": "99.836"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-sak-520202/"
+  }
+}

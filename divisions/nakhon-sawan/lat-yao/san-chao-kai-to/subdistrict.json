@@ -1,0 +1,61 @@
+{
+  "id": "601116",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศาลเจ้าไก่ต่อ",
+    "en": "San Chao Kai To",
+    "slug": "san-chao-kai-to"
+  },
+  "code": {
+    "dopa": "601116"
+  },
+  "parent": {
+    "id": "6011",
+    "level": 2,
+    "name": {
+      "th": "ลาดยาว",
+      "en": "Lat Yao",
+      "slug": "lat-yao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6011",
+      "level": 2,
+      "name": {
+        "th": "ลาดยาว",
+        "en": "Lat Yao",
+        "slug": "lat-yao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "60150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.788",
+    "lon": "99.669"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/san-chao-kai-to-601116/"
+  }
+}

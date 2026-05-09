@@ -1,0 +1,61 @@
+{
+  "id": "530704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าสัก",
+    "en": "Tha Sak",
+    "slug": "tha-sak"
+  },
+  "code": {
+    "dopa": "530704"
+  },
+  "parent": {
+    "id": "5307",
+    "level": 2,
+    "name": {
+      "th": "พิชัย",
+      "en": "Phichai",
+      "slug": "phichai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5307",
+      "level": 2,
+      "name": {
+        "th": "พิชัย",
+        "en": "Phichai",
+        "slug": "phichai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "53220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.379",
+    "lon": "100.178"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-sak-530704/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "110308",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ราชาเทวะ",
+    "en": "Racha Thewa",
+    "slug": "racha-thewa"
+  },
+  "code": {
+    "dopa": "110308"
+  },
+  "parent": {
+    "id": "1103",
+    "level": 2,
+    "name": {
+      "th": "บางพลี",
+      "en": "Bang Phli",
+      "slug": "bang-phli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "th": "บางพลี",
+        "en": "Bang Phli",
+        "slug": "bang-phli"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "10540"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.681",
+    "lon": "100.733"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/racha-thewa-110308/"
+  }
+}

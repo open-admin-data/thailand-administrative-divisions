@@ -1,0 +1,61 @@
+{
+  "id": "102206",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง บางจาก",
+    "en": "Bang Chak",
+    "slug": "bang-chak"
+  },
+  "code": {
+    "dopa": "102206"
+  },
+  "parent": {
+    "id": "1022",
+    "level": 2,
+    "name": {
+      "th": "เขต ภาษีเจริญ",
+      "en": "Khet Phasi Charoen",
+      "slug": "khet-phasi-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1022",
+      "level": 2,
+      "name": {
+        "th": "เขต ภาษีเจริญ",
+        "en": "Khet Phasi Charoen",
+        "slug": "khet-phasi-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10160"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.727",
+    "lon": "100.450"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-chak-102206/"
+  }
+}

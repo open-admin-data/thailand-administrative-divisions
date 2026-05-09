@@ -1,0 +1,61 @@
+{
+  "id": "570203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ผางาม",
+    "en": "Pha Ngam",
+    "slug": "pha-ngam"
+  },
+  "code": {
+    "dopa": "570203"
+  },
+  "parent": {
+    "id": "5702",
+    "level": 2,
+    "name": {
+      "th": "เวียงชัย",
+      "en": "Wiang Chai",
+      "slug": "wiang-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5702",
+      "level": 2,
+      "name": {
+        "th": "เวียงชัย",
+        "en": "Wiang Chai",
+        "slug": "wiang-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "57210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.882",
+    "lon": "100.046"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pha-ngam-570203/"
+  }
+}

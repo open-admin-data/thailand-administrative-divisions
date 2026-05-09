@@ -1,0 +1,61 @@
+{
+  "id": "220601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากน้ำแหลมสิงห์",
+    "en": "Pak Nam Laem Sing",
+    "slug": "pak-nam-laem-sing"
+  },
+  "code": {
+    "dopa": "220601"
+  },
+  "parent": {
+    "id": "2206",
+    "level": 2,
+    "name": {
+      "th": "แหลมสิงห์",
+      "en": "Laem Sing",
+      "slug": "laem-sing"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    },
+    {
+      "id": "2206",
+      "level": 2,
+      "name": {
+        "th": "แหลมสิงห์",
+        "en": "Laem Sing",
+        "slug": "laem-sing"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "22130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.452",
+    "lon": "102.122"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-nam-laem-sing-220601/"
+  }
+}

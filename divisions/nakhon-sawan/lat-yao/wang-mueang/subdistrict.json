@@ -1,0 +1,61 @@
+{
+  "id": "601104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังเมือง",
+    "en": "Wang Mueang",
+    "slug": "wang-mueang"
+  },
+  "code": {
+    "dopa": "601104"
+  },
+  "parent": {
+    "id": "6011",
+    "level": 2,
+    "name": {
+      "th": "ลาดยาว",
+      "en": "Lat Yao",
+      "slug": "lat-yao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6011",
+      "level": 2,
+      "name": {
+        "th": "ลาดยาว",
+        "en": "Lat Yao",
+        "slug": "lat-yao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "60150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.640",
+    "lon": "99.846"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-mueang-601104/"
+  }
+}

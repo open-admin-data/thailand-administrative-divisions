@@ -1,0 +1,50 @@
+{
+  "id": "7502",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บางคนที",
+    "en": "Bang Khonthi",
+    "slug": "bang-khonthi"
+  },
+  "code": {
+    "dopa": "7502"
+  },
+  "parent": {
+    "id": "75",
+    "level": 1,
+    "name": {
+      "th": "สมุทรสงคราม",
+      "en": "Samut Songkhram",
+      "slug": "samut-songkhram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสงคราม",
+        "en": "Samut Songkhram",
+        "slug": "samut-songkhram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 101
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.487",
+    "lon": "99.958"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-khonthi-7502/"
+  }
+}

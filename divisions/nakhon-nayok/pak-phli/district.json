@@ -1,0 +1,50 @@
+{
+  "id": "2602",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปากพลี",
+    "en": "Pak Phli",
+    "slug": "pak-phli"
+  },
+  "code": {
+    "dopa": "2602"
+  },
+  "parent": {
+    "id": "26",
+    "level": 1,
+    "name": {
+      "th": "นครนายก",
+      "en": "Nakhon Nayok",
+      "slug": "nakhon-nayok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 51
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.180",
+    "lon": "101.306"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pak-phli-2602/"
+  }
+}

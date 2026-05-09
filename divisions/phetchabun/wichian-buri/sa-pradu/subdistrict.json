@@ -1,0 +1,61 @@
+{
+  "id": "670502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สระประดู่",
+    "en": "Sa Pradu",
+    "slug": "sa-pradu"
+  },
+  "code": {
+    "dopa": "670502"
+  },
+  "parent": {
+    "id": "6705",
+    "level": 2,
+    "name": {
+      "th": "วิเชียรบุรี",
+      "en": "Wichian Buri",
+      "slug": "wichian-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6705",
+      "level": 2,
+      "name": {
+        "th": "วิเชียรบุรี",
+        "en": "Wichian Buri",
+        "slug": "wichian-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "67130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.628",
+    "lon": "101.061"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sa-pradu-670502/"
+  }
+}

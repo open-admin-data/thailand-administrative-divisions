@@ -1,0 +1,61 @@
+{
+  "id": "100107",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง บวรนิเวศ",
+    "en": "Bowon Niwet",
+    "slug": "bowon-niwet"
+  },
+  "code": {
+    "dopa": "100107"
+  },
+  "parent": {
+    "id": "1001",
+    "level": 2,
+    "name": {
+      "th": "เขต พระนคร",
+      "en": "Khet Phra Nakhon",
+      "slug": "khet-phra-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1001",
+      "level": 2,
+      "name": {
+        "th": "เขต พระนคร",
+        "en": "Khet Phra Nakhon",
+        "slug": "khet-phra-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10200"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.757",
+    "lon": "100.501"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bowon-niwet-100107/"
+  }
+}

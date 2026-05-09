@@ -1,0 +1,61 @@
+{
+  "id": "330511",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวเสือ",
+    "en": "Hua Suea",
+    "slug": "hua-suea"
+  },
+  "code": {
+    "dopa": "330511"
+  },
+  "parent": {
+    "id": "3305",
+    "level": 2,
+    "name": {
+      "th": "ขุขันธ์",
+      "en": "Khukhan",
+      "slug": "khukhan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3305",
+      "level": 2,
+      "name": {
+        "th": "ขุขันธ์",
+        "en": "Khukhan",
+        "slug": "khukhan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "33140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.834",
+    "lon": "104.186"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-suea-330511/"
+  }
+}

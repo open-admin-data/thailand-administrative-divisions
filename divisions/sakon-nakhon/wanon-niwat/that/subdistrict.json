@@ -1,0 +1,61 @@
+{
+  "id": "470806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ธาตุ",
+    "en": "That",
+    "slug": "that"
+  },
+  "code": {
+    "dopa": "470806"
+  },
+  "parent": {
+    "id": "4708",
+    "level": 2,
+    "name": {
+      "th": "วานรนิวาส",
+      "en": "Wanon Niwat",
+      "slug": "wanon-niwat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4708",
+      "level": 2,
+      "name": {
+        "th": "วานรนิวาส",
+        "en": "Wanon Niwat",
+        "slug": "wanon-niwat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 22
+  },
+  "zip_codes": [
+    "47120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.641",
+    "lon": "103.651"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/that-470806/"
+  }
+}

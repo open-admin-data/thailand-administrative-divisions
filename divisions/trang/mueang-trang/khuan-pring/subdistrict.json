@@ -1,0 +1,61 @@
+{
+  "id": "920107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ควนปริง",
+    "en": "Khuan Pring",
+    "slug": "khuan-pring"
+  },
+  "code": {
+    "dopa": "920107"
+  },
+  "parent": {
+    "id": "9201",
+    "level": 2,
+    "name": {
+      "th": "เมืองตรัง",
+      "en": "Mueang Trang",
+      "slug": "mueang-trang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9201",
+      "level": 2,
+      "name": {
+        "th": "เมืองตรัง",
+        "en": "Mueang Trang",
+        "slug": "mueang-trang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "92000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.521",
+    "lon": "99.596"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khuan-pring-920107/"
+  }
+}

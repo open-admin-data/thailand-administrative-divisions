@@ -1,0 +1,61 @@
+{
+  "id": "661004",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางลาย",
+    "en": "Bang Lai",
+    "slug": "bang-lai"
+  },
+  "code": {
+    "dopa": "661004"
+  },
+  "parent": {
+    "id": "6610",
+    "level": 2,
+    "name": {
+      "th": "บึงนาราง",
+      "en": "Bueng Na Rang",
+      "slug": "bueng-na-rang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6610",
+      "level": 2,
+      "name": {
+        "th": "บึงนาราง",
+        "en": "Bueng Na Rang",
+        "slug": "bueng-na-rang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "66130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.208",
+    "lon": "100.231"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-lai-661004/"
+  }
+}

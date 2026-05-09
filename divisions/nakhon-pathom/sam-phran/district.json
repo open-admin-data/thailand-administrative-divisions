@@ -1,0 +1,50 @@
+{
+  "id": "7306",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สามพราน",
+    "en": "Sam Phran",
+    "slug": "sam-phran"
+  },
+  "code": {
+    "dopa": "7306"
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "th": "นครปฐม",
+      "en": "Nakhon Pathom",
+      "slug": "nakhon-pathom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 16,
+    "villages": 209
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.714",
+    "lon": "100.247"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sam-phran-7306/"
+  }
+}

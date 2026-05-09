@@ -1,0 +1,61 @@
+{
+  "id": "860504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งคาวัด",
+    "en": "Thung Kha Wat",
+    "slug": "thung-kha-wat"
+  },
+  "code": {
+    "dopa": "860504"
+  },
+  "parent": {
+    "id": "8605",
+    "level": 2,
+    "name": {
+      "th": "ละแม",
+      "en": "Lamae",
+      "slug": "lamae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8605",
+      "level": 2,
+      "name": {
+        "th": "ละแม",
+        "en": "Lamae",
+        "slug": "lamae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "86170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.748",
+    "lon": "99.000"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-kha-wat-860504/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "430210",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองนาง",
+    "en": "Nong Nang",
+    "slug": "nong-nang"
+  },
+  "code": {
+    "dopa": "430210"
+  },
+  "parent": {
+    "id": "4302",
+    "level": 2,
+    "name": {
+      "th": "ท่าบ่อ",
+      "en": "Tha Bo",
+      "slug": "tha-bo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4302",
+      "level": 2,
+      "name": {
+        "th": "ท่าบ่อ",
+        "en": "Tha Bo",
+        "slug": "tha-bo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "43110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.713",
+    "lon": "102.621"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-nang-430210/"
+  }
+}

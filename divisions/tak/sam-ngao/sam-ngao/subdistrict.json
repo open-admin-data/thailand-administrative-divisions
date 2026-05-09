@@ -1,0 +1,61 @@
+{
+  "id": "630301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สามเงา",
+    "en": "Sam Ngao",
+    "slug": "sam-ngao"
+  },
+  "code": {
+    "dopa": "630301"
+  },
+  "parent": {
+    "id": "6303",
+    "level": 2,
+    "name": {
+      "th": "สามเงา",
+      "en": "Sam Ngao",
+      "slug": "sam-ngao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6303",
+      "level": 2,
+      "name": {
+        "th": "สามเงา",
+        "en": "Sam Ngao",
+        "slug": "sam-ngao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "63130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.250",
+    "lon": "99.034"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sam-ngao-630301/"
+  }
+}

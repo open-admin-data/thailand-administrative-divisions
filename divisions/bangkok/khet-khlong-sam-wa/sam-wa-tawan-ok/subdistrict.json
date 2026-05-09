@@ -1,0 +1,61 @@
+{
+  "id": "104602",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง สามวาตะวันออก",
+    "en": "Sam Wa Tawan-ok",
+    "slug": "sam-wa-tawan-ok"
+  },
+  "code": {
+    "dopa": "104602"
+  },
+  "parent": {
+    "id": "1046",
+    "level": 2,
+    "name": {
+      "th": "เขต คลองสามวา",
+      "en": "Khet Khlong Sam Wa",
+      "slug": "khet-khlong-sam-wa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1046",
+      "level": 2,
+      "name": {
+        "th": "เขต คลองสามวา",
+        "en": "Khet Khlong Sam Wa",
+        "slug": "khet-khlong-sam-wa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10510"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.896",
+    "lon": "100.760"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sam-wa-tawan-ok-104602/"
+  }
+}

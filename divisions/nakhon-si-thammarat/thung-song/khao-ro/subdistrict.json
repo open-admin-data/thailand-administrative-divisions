@@ -1,0 +1,61 @@
+{
+  "id": "800907",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาโร",
+    "en": "Khao Ro",
+    "slug": "khao-ro"
+  },
+  "code": {
+    "dopa": "800907"
+  },
+  "parent": {
+    "id": "8009",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งสง",
+      "en": "Thung Song",
+      "slug": "thung-song"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8009",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งสง",
+        "en": "Thung Song",
+        "slug": "thung-song"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "80110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.047",
+    "lon": "99.594"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-ro-800907/"
+  }
+}

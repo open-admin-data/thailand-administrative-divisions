@@ -1,0 +1,61 @@
+{
+  "id": "520111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พิชัย",
+    "en": "Phichai",
+    "slug": "phichai"
+  },
+  "code": {
+    "dopa": "520111"
+  },
+  "parent": {
+    "id": "5201",
+    "level": 2,
+    "name": {
+      "th": "เมืองลำปาง",
+      "en": "Mueang Lampang",
+      "slug": "mueang-lampang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5201",
+      "level": 2,
+      "name": {
+        "th": "เมืองลำปาง",
+        "en": "Mueang Lampang",
+        "slug": "mueang-lampang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "52000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.316",
+    "lon": "99.571"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phichai-520111/"
+  }
+}

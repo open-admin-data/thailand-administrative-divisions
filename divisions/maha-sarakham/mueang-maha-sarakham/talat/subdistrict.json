@@ -1,0 +1,61 @@
+{
+  "id": "440101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตลาด",
+    "en": "Talat",
+    "slug": "talat"
+  },
+  "code": {
+    "dopa": "440101"
+  },
+  "parent": {
+    "id": "4401",
+    "level": 2,
+    "name": {
+      "th": "เมืองมหาสารคาม",
+      "en": "Mueang Maha Sarakham",
+      "slug": "mueang-maha-sarakham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4401",
+      "level": 2,
+      "name": {
+        "th": "เมืองมหาสารคาม",
+        "en": "Mueang Maha Sarakham",
+        "slug": "mueang-maha-sarakham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 30
+  },
+  "zip_codes": [
+    "44000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.175",
+    "lon": "103.319"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/talat-440101/"
+  }
+}

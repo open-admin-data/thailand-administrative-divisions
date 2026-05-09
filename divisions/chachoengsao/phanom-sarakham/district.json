@@ -1,0 +1,50 @@
+{
+  "id": "2406",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พนมสารคาม",
+    "en": "Phanom Sarakham",
+    "slug": "phanom-sarakham"
+  },
+  "code": {
+    "dopa": "2406"
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "th": "ฉะเชิงเทรา",
+      "en": "Chachoengsao",
+      "slug": "chachoengsao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 87
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.760",
+    "lon": "101.383"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phanom-sarakham-2406/"
+  }
+}

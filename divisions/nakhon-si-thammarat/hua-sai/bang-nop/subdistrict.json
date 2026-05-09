@@ -1,0 +1,61 @@
+{
+  "id": "801607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางนบ",
+    "en": "Bang Nop",
+    "slug": "bang-nop"
+  },
+  "code": {
+    "dopa": "801607"
+  },
+  "parent": {
+    "id": "8016",
+    "level": 2,
+    "name": {
+      "th": "หัวไทร",
+      "en": "Hua Sai",
+      "slug": "hua-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8016",
+      "level": 2,
+      "name": {
+        "th": "หัวไทร",
+        "en": "Hua Sai",
+        "slug": "hua-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "80170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.104",
+    "lon": "100.261"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-nop-801607/"
+  }
+}

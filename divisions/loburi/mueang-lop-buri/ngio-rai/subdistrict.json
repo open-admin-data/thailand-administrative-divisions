@@ -1,0 +1,61 @@
+{
+  "id": "160110",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "งิ้วราย",
+    "en": "Ngio Rai",
+    "slug": "ngio-rai"
+  },
+  "code": {
+    "dopa": "160110"
+  },
+  "parent": {
+    "id": "1601",
+    "level": 2,
+    "name": {
+      "th": "เมืองลพบุรี",
+      "en": "Mueang Lop Buri",
+      "slug": "mueang-lop-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1601",
+      "level": 2,
+      "name": {
+        "th": "เมืองลพบุรี",
+        "en": "Mueang Lop Buri",
+        "slug": "mueang-lop-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "15000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.704",
+    "lon": "100.592"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ngio-rai-160110/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "130303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "รังสิต",
+    "en": "Rangsit",
+    "slug": "rangsit"
+  },
+  "code": {
+    "dopa": "130303"
+  },
+  "parent": {
+    "id": "1303",
+    "level": 2,
+    "name": {
+      "th": "ธัญบุรี",
+      "en": "Thanyaburi",
+      "slug": "thanyaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "th": "ธัญบุรี",
+        "en": "Thanyaburi",
+        "slug": "thanyaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "12110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.018",
+    "lon": "100.731"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rangsit-130303/"
+  }
+}

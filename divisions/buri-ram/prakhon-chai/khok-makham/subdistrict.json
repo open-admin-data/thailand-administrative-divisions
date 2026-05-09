@@ -1,0 +1,61 @@
+{
+  "id": "310718",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกมะขาม",
+    "en": "Khok Makham",
+    "slug": "khok-makham"
+  },
+  "code": {
+    "dopa": "310718"
+  },
+  "parent": {
+    "id": "3107",
+    "level": 2,
+    "name": {
+      "th": "ประโคนชัย",
+      "en": "Prakhon Chai",
+      "slug": "prakhon-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3107",
+      "level": 2,
+      "name": {
+        "th": "ประโคนชัย",
+        "en": "Prakhon Chai",
+        "slug": "prakhon-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "31140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.602",
+    "lon": "103.129"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-makham-310718/"
+  }
+}

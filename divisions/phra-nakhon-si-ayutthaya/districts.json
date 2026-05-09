@@ -1,0 +1,802 @@
+[
+  {
+    "id": "1416",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บ้านแพรก",
+      "en": "Ban Phraek",
+      "slug": "ban-phraek"
+    },
+    "code": {
+      "dopa": "1416"
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 5,
+      "villages": 27
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.640",
+      "lon": "100.585"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/ban-phraek-1416/"
+    }
+  },
+  {
+    "id": "1405",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บางบาล",
+      "en": "Bang Ban",
+      "slug": "bang-ban"
+    },
+    "code": {
+      "dopa": "1405"
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 16,
+      "villages": 111
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.410",
+      "lon": "100.464"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/bang-ban-1405/"
+    }
+  },
+  {
+    "id": "1406",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บางปะอิน",
+      "en": "Bang Pa-in",
+      "slug": "bang-pa-in"
+    },
+    "code": {
+      "dopa": "1406"
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 17,
+      "villages": 141
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.295",
+      "lon": "100.621"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/bang-pa-in-1406/"
+    }
+  },
+  {
+    "id": "1407",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บางปะหัน",
+      "en": "Bang Pahan",
+      "slug": "bang-pahan"
+    },
+    "code": {
+      "dopa": "1407"
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 17,
+      "villages": 94
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.414",
+      "lon": "100.564"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/bang-pahan-1407/"
+    }
+  },
+  {
+    "id": "1404",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บางไทร",
+      "en": "Bang Sai",
+      "slug": "bang-sai"
+    },
+    "code": {
+      "dopa": "1404"
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 22,
+      "villages": 132
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.315",
+      "lon": "100.462"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/bang-sai-1404/"
+    }
+  },
+  {
+    "id": "1413",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บางซ้าย",
+      "en": "Bang Sai",
+      "slug": "bang-sai"
+    },
+    "code": {
+      "dopa": "1413"
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 6,
+      "villages": 53
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.313",
+      "lon": "100.326"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/bang-sai-1413/"
+    }
+  },
+  {
+    "id": "1410",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ลาดบัวหลวง",
+      "en": "Lat Bua Luang",
+      "slug": "lat-bua-luang"
+    },
+    "code": {
+      "dopa": "1410"
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 7,
+      "villages": 58
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.134",
+      "lon": "100.368"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/lat-bua-luang-1410/"
+    }
+  },
+  {
+    "id": "1415",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "มหาราช",
+      "en": "Maha Rat",
+      "slug": "maha-rat"
+    },
+    "code": {
+      "dopa": "1415"
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 12,
+      "villages": 58
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.566",
+      "lon": "100.542"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/maha-rat-1415/"
+    }
+  },
+  {
+    "id": "1403",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "นครหลวง",
+      "en": "Nakhon Luang",
+      "slug": "nakhon-luang"
+    },
+    "code": {
+      "dopa": "1403"
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 12,
+      "villages": 74
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.489",
+      "lon": "100.675"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/nakhon-luang-1403/"
+    }
+  },
+  {
+    "id": "1409",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ภาชี",
+      "en": "Phachi",
+      "slug": "phachi"
+    },
+    "code": {
+      "dopa": "1409"
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 8,
+      "villages": 72
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.442",
+      "lon": "100.725"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/phachi-1409/"
+    }
+  },
+  {
+    "id": "1408",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ผักไห่",
+      "en": "Phak Hai",
+      "slug": "phak-hai"
+    },
+    "code": {
+      "dopa": "1408"
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 16,
+      "villages": 128
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.435",
+      "lon": "100.384"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/phak-hai-1408/"
+    }
+  },
+  {
+    "id": "1401",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya"
+    },
+    "code": {
+      "dopa": "1401"
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 21,
+      "villages": 201
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.341",
+      "lon": "100.581"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/phra-nakhon-si-ayutthaya-1401/"
+    }
+  },
+  {
+    "id": "1412",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เสนา",
+      "en": "Sena",
+      "slug": "sena"
+    },
+    "code": {
+      "dopa": "1412"
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 17,
+      "villages": 138
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.328",
+      "lon": "100.404"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/sena-1412/"
+    }
+  },
+  {
+    "id": "1402",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ท่าเรือ",
+      "en": "Tha Ruea",
+      "slug": "tha-ruea"
+    },
+    "code": {
+      "dopa": "1402"
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 10,
+      "villages": 91
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.566",
+      "lon": "100.719"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/tha-ruea-1402/"
+    }
+  },
+  {
+    "id": "1414",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "อุทัย",
+      "en": "Uthai",
+      "slug": "uthai"
+    },
+    "code": {
+      "dopa": "1414"
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 11,
+      "villages": 107
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.355",
+      "lon": "100.622"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/uthai-1414/"
+    }
+  },
+  {
+    "id": "1411",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "วังน้อย",
+      "en": "Wang Noi",
+      "slug": "wang-noi"
+    },
+    "code": {
+      "dopa": "1411"
+    },
+    "parent": {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 10,
+      "villages": 68
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.249",
+      "lon": "100.800"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/wang-noi-1411/"
+    }
+  }
+]

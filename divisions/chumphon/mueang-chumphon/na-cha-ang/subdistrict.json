@@ -1,0 +1,61 @@
+{
+  "id": "860106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาชะอัง",
+    "en": "Na Cha-ang",
+    "slug": "na-cha-ang"
+  },
+  "code": {
+    "dopa": "860106"
+  },
+  "parent": {
+    "id": "8601",
+    "level": 2,
+    "name": {
+      "th": "เมืองชุมพร",
+      "en": "Mueang Chumphon",
+      "slug": "mueang-chumphon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8601",
+      "level": 2,
+      "name": {
+        "th": "เมืองชุมพร",
+        "en": "Mueang Chumphon",
+        "slug": "mueang-chumphon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "86000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.540",
+    "lon": "99.227"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-cha-ang-860106/"
+  }
+}

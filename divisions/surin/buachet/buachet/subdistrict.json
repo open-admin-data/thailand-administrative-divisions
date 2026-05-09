@@ -1,0 +1,61 @@
+{
+  "id": "321301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บัวเชด",
+    "en": "Buachet",
+    "slug": "buachet"
+  },
+  "code": {
+    "dopa": "321301"
+  },
+  "parent": {
+    "id": "3213",
+    "level": 2,
+    "name": {
+      "th": "บัวเชด",
+      "en": "Buachet",
+      "slug": "buachet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3213",
+      "level": 2,
+      "name": {
+        "th": "บัวเชด",
+        "en": "Buachet",
+        "slug": "buachet"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "32230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.527",
+    "lon": "103.942"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/buachet-321301/"
+  }
+}

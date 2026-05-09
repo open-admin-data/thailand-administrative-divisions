@@ -1,0 +1,795 @@
+[
+  {
+    "id": "80200301",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านป่ายาง",
+      "en": "Ban Pa Yang",
+      "slug": "80200301"
+    },
+    "code": {
+      "dopa": "80200301"
+    },
+    "parent": {
+      "id": "802003",
+      "level": 3,
+      "name": {
+        "th": "ท้ายสำเภา",
+        "en": "Thai Samphao",
+        "slug": "thai-samphao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8020",
+        "level": 2,
+        "name": {
+          "th": "พระพรหม",
+          "en": "Phra Phrom",
+          "slug": "phra-phrom"
+        }
+      },
+      {
+        "id": "802003",
+        "level": 3,
+        "name": {
+          "th": "ท้ายสำเภา",
+          "en": "Thai Samphao",
+          "slug": "thai-samphao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.300581648091514",
+      "lon": "99.9168348312378"
+    },
+    "source": {}
+  },
+  {
+    "id": "80200302",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านท้ายสำเภา",
+      "en": "Ban Thai Samphao",
+      "slug": "80200302"
+    },
+    "code": {
+      "dopa": "80200302"
+    },
+    "parent": {
+      "id": "802003",
+      "level": 3,
+      "name": {
+        "th": "ท้ายสำเภา",
+        "en": "Thai Samphao",
+        "slug": "thai-samphao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8020",
+        "level": 2,
+        "name": {
+          "th": "พระพรหม",
+          "en": "Phra Phrom",
+          "slug": "phra-phrom"
+        }
+      },
+      {
+        "id": "802003",
+        "level": 3,
+        "name": {
+          "th": "ท้ายสำเภา",
+          "en": "Thai Samphao",
+          "slug": "thai-samphao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.295918347275679",
+      "lon": "99.91214632987976"
+    },
+    "source": {}
+  },
+  {
+    "id": "80200303",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านนาสระ",
+      "en": "Ban Na Sa",
+      "slug": "80200303"
+    },
+    "code": {
+      "dopa": "80200303"
+    },
+    "parent": {
+      "id": "802003",
+      "level": 3,
+      "name": {
+        "th": "ท้ายสำเภา",
+        "en": "Thai Samphao",
+        "slug": "thai-samphao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8020",
+        "level": 2,
+        "name": {
+          "th": "พระพรหม",
+          "en": "Phra Phrom",
+          "slug": "phra-phrom"
+        }
+      },
+      {
+        "id": "802003",
+        "level": 3,
+        "name": {
+          "th": "ท้ายสำเภา",
+          "en": "Thai Samphao",
+          "slug": "thai-samphao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.287041467226025",
+      "lon": "99.89566147327423"
+    },
+    "source": {}
+  },
+  {
+    "id": "80200304",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านทุ่งหลด",
+      "en": "Ban Thung Lot",
+      "slug": "80200304"
+    },
+    "code": {
+      "dopa": "80200304"
+    },
+    "parent": {
+      "id": "802003",
+      "level": 3,
+      "name": {
+        "th": "ท้ายสำเภา",
+        "en": "Thai Samphao",
+        "slug": "thai-samphao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8020",
+        "level": 2,
+        "name": {
+          "th": "พระพรหม",
+          "en": "Phra Phrom",
+          "slug": "phra-phrom"
+        }
+      },
+      {
+        "id": "802003",
+        "level": 3,
+        "name": {
+          "th": "ท้ายสำเภา",
+          "en": "Thai Samphao",
+          "slug": "thai-samphao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.281973234918501",
+      "lon": "99.93350476026535"
+    },
+    "source": {}
+  },
+  {
+    "id": "80200305",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านไสใหญ่",
+      "en": "Ban Sai Yai",
+      "slug": "80200305"
+    },
+    "code": {
+      "dopa": "80200305"
+    },
+    "parent": {
+      "id": "802003",
+      "level": 3,
+      "name": {
+        "th": "ท้ายสำเภา",
+        "en": "Thai Samphao",
+        "slug": "thai-samphao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8020",
+        "level": 2,
+        "name": {
+          "th": "พระพรหม",
+          "en": "Phra Phrom",
+          "slug": "phra-phrom"
+        }
+      },
+      {
+        "id": "802003",
+        "level": 3,
+        "name": {
+          "th": "ท้ายสำเภา",
+          "en": "Thai Samphao",
+          "slug": "thai-samphao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.299997743223996",
+      "lon": "99.87367540597916"
+    },
+    "source": {}
+  },
+  {
+    "id": "80200306",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเชิงแตระ",
+      "en": "Ban Choeng Trae",
+      "slug": "80200306"
+    },
+    "code": {
+      "dopa": "80200306"
+    },
+    "parent": {
+      "id": "802003",
+      "level": 3,
+      "name": {
+        "th": "ท้ายสำเภา",
+        "en": "Thai Samphao",
+        "slug": "thai-samphao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8020",
+        "level": 2,
+        "name": {
+          "th": "พระพรหม",
+          "en": "Phra Phrom",
+          "slug": "phra-phrom"
+        }
+      },
+      {
+        "id": "802003",
+        "level": 3,
+        "name": {
+          "th": "ท้ายสำเภา",
+          "en": "Thai Samphao",
+          "slug": "thai-samphao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.296450502500237",
+      "lon": "99.89390596747398"
+    },
+    "source": {}
+  },
+  {
+    "id": "80200307",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านปากตน",
+      "en": "Ban Pak Ton",
+      "slug": "80200307"
+    },
+    "code": {
+      "dopa": "80200307"
+    },
+    "parent": {
+      "id": "802003",
+      "level": 3,
+      "name": {
+        "th": "ท้ายสำเภา",
+        "en": "Thai Samphao",
+        "slug": "thai-samphao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8020",
+        "level": 2,
+        "name": {
+          "th": "พระพรหม",
+          "en": "Phra Phrom",
+          "slug": "phra-phrom"
+        }
+      },
+      {
+        "id": "802003",
+        "level": 3,
+        "name": {
+          "th": "ท้ายสำเภา",
+          "en": "Thai Samphao",
+          "slug": "thai-samphao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.315267896875573",
+      "lon": "99.88517135381699"
+    },
+    "source": {}
+  },
+  {
+    "id": "80200308",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเนกข์",
+      "en": "Ban Nek",
+      "slug": "80200308"
+    },
+    "code": {
+      "dopa": "80200308"
+    },
+    "parent": {
+      "id": "802003",
+      "level": 3,
+      "name": {
+        "th": "ท้ายสำเภา",
+        "en": "Thai Samphao",
+        "slug": "thai-samphao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8020",
+        "level": 2,
+        "name": {
+          "th": "พระพรหม",
+          "en": "Phra Phrom",
+          "slug": "phra-phrom"
+        }
+      },
+      {
+        "id": "802003",
+        "level": 3,
+        "name": {
+          "th": "ท้ายสำเภา",
+          "en": "Thai Samphao",
+          "slug": "thai-samphao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.30581552021994",
+      "lon": "99.94167074561119"
+    },
+    "source": {}
+  },
+  {
+    "id": "80200309",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านโพรงหมี",
+      "en": "Ban Phrong Mi",
+      "slug": "80200309"
+    },
+    "code": {
+      "dopa": "80200309"
+    },
+    "parent": {
+      "id": "802003",
+      "level": 3,
+      "name": {
+        "th": "ท้ายสำเภา",
+        "en": "Thai Samphao",
+        "slug": "thai-samphao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8020",
+        "level": 2,
+        "name": {
+          "th": "พระพรหม",
+          "en": "Phra Phrom",
+          "slug": "phra-phrom"
+        }
+      },
+      {
+        "id": "802003",
+        "level": 3,
+        "name": {
+          "th": "ท้ายสำเภา",
+          "en": "Thai Samphao",
+          "slug": "thai-samphao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.290580830328324",
+      "lon": "99.92644116282463"
+    },
+    "source": {}
+  },
+  {
+    "id": "80200310",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านทุ่งนางแวก",
+      "en": "Ban Thung Nang Waek",
+      "slug": "80200310"
+    },
+    "code": {
+      "dopa": "80200310"
+    },
+    "parent": {
+      "id": "802003",
+      "level": 3,
+      "name": {
+        "th": "ท้ายสำเภา",
+        "en": "Thai Samphao",
+        "slug": "thai-samphao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8020",
+        "level": 2,
+        "name": {
+          "th": "พระพรหม",
+          "en": "Phra Phrom",
+          "slug": "phra-phrom"
+        }
+      },
+      {
+        "id": "802003",
+        "level": 3,
+        "name": {
+          "th": "ท้ายสำเภา",
+          "en": "Thai Samphao",
+          "slug": "thai-samphao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.31263112736479",
+      "lon": "99.92873042821884"
+    },
+    "source": {}
+  },
+  {
+    "id": "80200311",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านท่าสาน",
+      "en": "Ban Na San",
+      "slug": "80200311"
+    },
+    "code": {
+      "dopa": "80200311"
+    },
+    "parent": {
+      "id": "802003",
+      "level": 3,
+      "name": {
+        "th": "ท้ายสำเภา",
+        "en": "Thai Samphao",
+        "slug": "thai-samphao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8020",
+        "level": 2,
+        "name": {
+          "th": "พระพรหม",
+          "en": "Phra Phrom",
+          "slug": "phra-phrom"
+        }
+      },
+      {
+        "id": "802003",
+        "level": 3,
+        "name": {
+          "th": "ท้ายสำเภา",
+          "en": "Thai Samphao",
+          "slug": "thai-samphao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.300796631028625",
+      "lon": "99.88105148077011"
+    },
+    "source": {}
+  },
+  {
+    "id": "80200312",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหน้าคอก",
+      "en": "Ban Na Khok",
+      "slug": "80200312"
+    },
+    "code": {
+      "dopa": "80200312"
+    },
+    "parent": {
+      "id": "802003",
+      "level": 3,
+      "name": {
+        "th": "ท้ายสำเภา",
+        "en": "Thai Samphao",
+        "slug": "thai-samphao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8020",
+        "level": 2,
+        "name": {
+          "th": "พระพรหม",
+          "en": "Phra Phrom",
+          "slug": "phra-phrom"
+        }
+      },
+      {
+        "id": "802003",
+        "level": 3,
+        "name": {
+          "th": "ท้ายสำเภา",
+          "en": "Thai Samphao",
+          "slug": "thai-samphao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.319304627914825",
+      "lon": "99.87611219286919"
+    },
+    "source": {}
+  },
+  {
+    "id": "80200313",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านรอ",
+      "en": "Ban Ro",
+      "slug": "80200313"
+    },
+    "code": {
+      "dopa": "80200313"
+    },
+    "parent": {
+      "id": "802003",
+      "level": 3,
+      "name": {
+        "th": "ท้ายสำเภา",
+        "en": "Thai Samphao",
+        "slug": "thai-samphao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8020",
+        "level": 2,
+        "name": {
+          "th": "พระพรหม",
+          "en": "Phra Phrom",
+          "slug": "phra-phrom"
+        }
+      },
+      {
+        "id": "802003",
+        "level": 3,
+        "name": {
+          "th": "ท้ายสำเภา",
+          "en": "Thai Samphao",
+          "slug": "thai-samphao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.288251781701831",
+      "lon": "99.88976329565048"
+    },
+    "source": {}
+  }
+]

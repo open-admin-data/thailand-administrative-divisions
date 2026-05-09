@@ -1,0 +1,61 @@
+{
+  "id": "540213",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยโรง",
+    "en": "Huai Rong",
+    "slug": "huai-rong"
+  },
+  "code": {
+    "dopa": "540213"
+  },
+  "parent": {
+    "id": "5402",
+    "level": 2,
+    "name": {
+      "th": "ร้องกวาง",
+      "en": "Rong Kwang",
+      "slug": "rong-kwang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    {
+      "id": "5402",
+      "level": 2,
+      "name": {
+        "th": "ร้องกวาง",
+        "en": "Rong Kwang",
+        "slug": "rong-kwang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "54140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.432",
+    "lon": "100.513"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-rong-540213/"
+  }
+}

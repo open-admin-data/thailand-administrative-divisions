@@ -1,0 +1,61 @@
+{
+  "id": "170401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พระงาม",
+    "en": "Phra Ngam",
+    "slug": "phra-ngam"
+  },
+  "code": {
+    "dopa": "170401"
+  },
+  "parent": {
+    "id": "1704",
+    "level": 2,
+    "name": {
+      "th": "พรหมบุรี",
+      "en": "Phrom Buri",
+      "slug": "phrom-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "th": "พรหมบุรี",
+        "en": "Phrom Buri",
+        "slug": "phrom-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "16120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.748",
+    "lon": "100.422"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phra-ngam-170401/"
+  }
+}

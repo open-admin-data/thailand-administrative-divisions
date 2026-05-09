@@ -1,0 +1,50 @@
+{
+  "id": "6611",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ดงเจริญ",
+    "en": "Dong Charoen",
+    "slug": "dong-charoen"
+  },
+  "code": {
+    "dopa": "6611"
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "th": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 55
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.028",
+    "lon": "100.648"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/dong-charoen-6611/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "360110",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองนาแซง",
+    "en": "Nong Na Saeng",
+    "slug": "nong-na-saeng"
+  },
+  "code": {
+    "dopa": "360110"
+  },
+  "parent": {
+    "id": "3601",
+    "level": 2,
+    "name": {
+      "th": "เมืองชัยภูมิ",
+      "en": "Mueang Chaiyaphum",
+      "slug": "mueang-chaiyaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3601",
+      "level": 2,
+      "name": {
+        "th": "เมืองชัยภูมิ",
+        "en": "Mueang Chaiyaphum",
+        "slug": "mueang-chaiyaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "36000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.742",
+    "lon": "102.022"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-na-saeng-360110/"
+  }
+}

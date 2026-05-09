@@ -1,0 +1,50 @@
+{
+  "id": "9201",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองตรัง",
+    "en": "Mueang Trang",
+    "slug": "mueang-trang"
+  },
+  "code": {
+    "dopa": "9201"
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "th": "ตรัง",
+      "en": "Trang",
+      "slug": "trang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 15,
+    "villages": 187
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.599",
+    "lon": "99.664"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-trang-9201/"
+  }
+}

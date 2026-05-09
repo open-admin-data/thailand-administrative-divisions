@@ -1,0 +1,50 @@
+{
+  "id": "6607",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สามง่าม",
+    "en": "Sam Ngam",
+    "slug": "sam-ngam"
+  },
+  "code": {
+    "dopa": "6607"
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "th": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 80
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.432",
+    "lon": "100.212"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sam-ngam-6607/"
+  }
+}

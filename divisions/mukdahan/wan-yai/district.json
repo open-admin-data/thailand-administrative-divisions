@@ -1,0 +1,50 @@
+{
+  "id": "4906",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ว่านใหญ่",
+    "en": "Wan Yai",
+    "slug": "wan-yai"
+  },
+  "code": {
+    "dopa": "4906"
+  },
+  "parent": {
+    "id": "49",
+    "level": 1,
+    "name": {
+      "th": "มุกดาหาร",
+      "en": "Mukdahan",
+      "slug": "mukdahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 43
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.807",
+    "lon": "104.708"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wan-yai-4906/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "361103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สระพัง",
+    "en": "Sa Phang",
+    "slug": "sa-phang"
+  },
+  "code": {
+    "dopa": "361103"
+  },
+  "parent": {
+    "id": "3611",
+    "level": 2,
+    "name": {
+      "th": "บ้านแท่น",
+      "en": "Ban Thaen",
+      "slug": "ban-thaen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3611",
+      "level": 2,
+      "name": {
+        "th": "บ้านแท่น",
+        "en": "Ban Thaen",
+        "slug": "ban-thaen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "36190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.401",
+    "lon": "102.418"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sa-phang-361103/"
+  }
+}

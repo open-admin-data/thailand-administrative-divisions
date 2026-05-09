@@ -1,0 +1,50 @@
+{
+  "id": "5510",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "นาหมื่น",
+    "en": "Na Muen",
+    "slug": "na-muen"
+  },
+  "code": {
+    "dopa": "5510"
+  },
+  "parent": {
+    "id": "55",
+    "level": 1,
+    "name": {
+      "th": "น่าน",
+      "en": "Nan",
+      "slug": "nan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 48
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.226",
+    "lon": "100.505"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/na-muen-5510/"
+  }
+}

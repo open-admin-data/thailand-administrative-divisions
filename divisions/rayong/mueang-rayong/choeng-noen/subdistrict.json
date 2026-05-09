@@ -1,0 +1,61 @@
+{
+  "id": "210102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เชิงเนิน",
+    "en": "Choeng Noen",
+    "slug": "choeng-noen"
+  },
+  "code": {
+    "dopa": "210102"
+  },
+  "parent": {
+    "id": "2101",
+    "level": 2,
+    "name": {
+      "th": "เมืองระยอง",
+      "en": "Mueang Rayong",
+      "slug": "mueang-rayong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "th": "เมืองระยอง",
+        "en": "Mueang Rayong",
+        "slug": "mueang-rayong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "21000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.677",
+    "lon": "101.318"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/choeng-noen-210102/"
+  }
+}

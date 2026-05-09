@@ -1,0 +1,61 @@
+{
+  "id": "390407",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยางหล่อ",
+    "en": "Yang Lo",
+    "slug": "yang-lo"
+  },
+  "code": {
+    "dopa": "390407"
+  },
+  "parent": {
+    "id": "3904",
+    "level": 2,
+    "name": {
+      "th": "ศรีบุญเรือง",
+      "en": "Si Bun Rueang",
+      "slug": "si-bun-rueang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3904",
+      "level": 2,
+      "name": {
+        "th": "ศรีบุญเรือง",
+        "en": "Si Bun Rueang",
+        "slug": "si-bun-rueang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "39180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.062",
+    "lon": "102.159"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yang-lo-390407/"
+  }
+}

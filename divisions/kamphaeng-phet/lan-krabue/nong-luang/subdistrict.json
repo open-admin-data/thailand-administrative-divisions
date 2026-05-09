@@ -1,0 +1,61 @@
+{
+  "id": "620703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองหลวง",
+    "en": "Nong Luang",
+    "slug": "nong-luang"
+  },
+  "code": {
+    "dopa": "620703"
+  },
+  "parent": {
+    "id": "6207",
+    "level": 2,
+    "name": {
+      "th": "ลานกระบือ",
+      "en": "Lan Krabue",
+      "slug": "lan-krabue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6207",
+      "level": 2,
+      "name": {
+        "th": "ลานกระบือ",
+        "en": "Lan Krabue",
+        "slug": "lan-krabue"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "62170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.640",
+    "lon": "99.780"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-luang-620703/"
+  }
+}

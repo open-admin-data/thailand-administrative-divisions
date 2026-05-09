@@ -1,0 +1,61 @@
+{
+  "id": "650902",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านมุง",
+    "en": "Ban Mung",
+    "slug": "ban-mung"
+  },
+  "code": {
+    "dopa": "650902"
+  },
+  "parent": {
+    "id": "6509",
+    "level": 2,
+    "name": {
+      "th": "เนินมะปราง",
+      "en": "Noen Maprang",
+      "slug": "noen-maprang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6509",
+      "level": 2,
+      "name": {
+        "th": "เนินมะปราง",
+        "en": "Noen Maprang",
+        "slug": "noen-maprang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "65190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.543",
+    "lon": "100.752"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-mung-650902/"
+  }
+}

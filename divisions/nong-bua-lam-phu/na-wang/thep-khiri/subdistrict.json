@@ -1,0 +1,61 @@
+{
+  "id": "390605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เทพคีรี",
+    "en": "Thep Khiri",
+    "slug": "thep-khiri"
+  },
+  "code": {
+    "dopa": "390605"
+  },
+  "parent": {
+    "id": "3906",
+    "level": 2,
+    "name": {
+      "th": "นาวัง",
+      "en": "Na Wang",
+      "slug": "na-wang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3906",
+      "level": 2,
+      "name": {
+        "th": "นาวัง",
+        "en": "Na Wang",
+        "slug": "na-wang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "39170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.308",
+    "lon": "102.117"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thep-khiri-390605/"
+  }
+}

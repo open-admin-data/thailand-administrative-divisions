@@ -1,0 +1,61 @@
+{
+  "id": "941011",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กอลำ",
+    "en": "Kolam",
+    "slug": "kolam"
+  },
+  "code": {
+    "dopa": "941011"
+  },
+  "parent": {
+    "id": "9410",
+    "level": 2,
+    "name": {
+      "th": "ยะรัง",
+      "en": "Yarang",
+      "slug": "yarang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9410",
+      "level": 2,
+      "name": {
+        "th": "ยะรัง",
+        "en": "Yarang",
+        "slug": "yarang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "94160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.673",
+    "lon": "101.329"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kolam-941011/"
+  }
+}

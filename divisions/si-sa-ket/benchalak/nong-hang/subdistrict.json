@@ -1,0 +1,61 @@
+{
+  "id": "331904",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองฮาง",
+    "en": "Nong Hang",
+    "slug": "nong-hang"
+  },
+  "code": {
+    "dopa": "331904"
+  },
+  "parent": {
+    "id": "3319",
+    "level": 2,
+    "name": {
+      "th": "เบญจลักษ์",
+      "en": "Benchalak",
+      "slug": "benchalak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3319",
+      "level": 2,
+      "name": {
+        "th": "เบญจลักษ์",
+        "en": "Benchalak",
+        "slug": "benchalak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "33110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.778",
+    "lon": "104.594"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-hang-331904/"
+  }
+}

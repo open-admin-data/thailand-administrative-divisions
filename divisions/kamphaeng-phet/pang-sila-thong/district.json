@@ -1,0 +1,50 @@
+{
+  "id": "6209",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปางศิลาทอง",
+    "en": "Pang Sila Thong",
+    "slug": "pang-sila-thong"
+  },
+  "code": {
+    "dopa": "6209"
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "th": "กำแพงเพชร",
+      "en": "Kamphaeng Phet",
+      "slug": "kamphaeng-phet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 42
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.052",
+    "lon": "99.426"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pang-sila-thong-6209/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "220208",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มาบไพ",
+    "en": "Map Phai",
+    "slug": "map-phai"
+  },
+  "code": {
+    "dopa": "220208"
+  },
+  "parent": {
+    "id": "2202",
+    "level": 2,
+    "name": {
+      "th": "ขลุง",
+      "en": "Khlung",
+      "slug": "khlung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    },
+    {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "th": "ขลุง",
+        "en": "Khlung",
+        "slug": "khlung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "22110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.598",
+    "lon": "102.258"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/map-phai-220208/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "470803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขัวก่าย",
+    "en": "Khua Kai",
+    "slug": "khua-kai"
+  },
+  "code": {
+    "dopa": "470803"
+  },
+  "parent": {
+    "id": "4708",
+    "level": 2,
+    "name": {
+      "th": "วานรนิวาส",
+      "en": "Wanon Niwat",
+      "slug": "wanon-niwat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4708",
+      "level": 2,
+      "name": {
+        "th": "วานรนิวาส",
+        "en": "Wanon Niwat",
+        "slug": "wanon-niwat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "47120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.579",
+    "lon": "103.814"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khua-kai-470803/"
+  }
+}

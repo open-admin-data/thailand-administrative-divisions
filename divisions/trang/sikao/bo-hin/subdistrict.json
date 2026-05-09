@@ -1,0 +1,61 @@
+{
+  "id": "920501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อหิน",
+    "en": "Bo Hin",
+    "slug": "bo-hin"
+  },
+  "code": {
+    "dopa": "920501"
+  },
+  "parent": {
+    "id": "9205",
+    "level": 2,
+    "name": {
+      "th": "สิเกา",
+      "en": "Sikao",
+      "slug": "sikao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9205",
+      "level": 2,
+      "name": {
+        "th": "สิเกา",
+        "en": "Sikao",
+        "slug": "sikao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "92150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.593",
+    "lon": "99.345"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-hin-920501/"
+  }
+}

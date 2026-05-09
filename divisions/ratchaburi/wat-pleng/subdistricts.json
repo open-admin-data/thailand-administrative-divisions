@@ -1,0 +1,185 @@
+[
+  {
+    "id": "700902",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "จอมประทัด",
+      "en": "Chom Prathat",
+      "slug": "chom-prathat"
+    },
+    "code": {
+      "dopa": "700902"
+    },
+    "parent": {
+      "id": "7009",
+      "level": 2,
+      "name": {
+        "th": "วัดเพลง",
+        "en": "Wat Pleng",
+        "slug": "wat-pleng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7009",
+        "level": 2,
+        "name": {
+          "th": "วัดเพลง",
+          "en": "Wat Pleng",
+          "slug": "wat-pleng"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "70170"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.424",
+      "lon": "99.863"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/chom-prathat-700902/"
+    }
+  },
+  {
+    "id": "700901",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เกาะศาลพระ",
+      "en": "Ko San Phra",
+      "slug": "ko-san-phra"
+    },
+    "code": {
+      "dopa": "700901"
+    },
+    "parent": {
+      "id": "7009",
+      "level": 2,
+      "name": {
+        "th": "วัดเพลง",
+        "en": "Wat Pleng",
+        "slug": "wat-pleng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7009",
+        "level": 2,
+        "name": {
+          "th": "วัดเพลง",
+          "en": "Wat Pleng",
+          "slug": "wat-pleng"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "70170"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.473",
+      "lon": "99.860"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ko-san-phra-700901/"
+    }
+  },
+  {
+    "id": "700903",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "วัดเพลง",
+      "en": "Wat Pleng",
+      "slug": "wat-pleng"
+    },
+    "code": {
+      "dopa": "700903"
+    },
+    "parent": {
+      "id": "7009",
+      "level": 2,
+      "name": {
+        "th": "วัดเพลง",
+        "en": "Wat Pleng",
+        "slug": "wat-pleng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7009",
+        "level": 2,
+        "name": {
+          "th": "วัดเพลง",
+          "en": "Wat Pleng",
+          "slug": "wat-pleng"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "70170"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.449",
+      "lon": "99.872"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/wat-pleng-700903/"
+    }
+  }
+]

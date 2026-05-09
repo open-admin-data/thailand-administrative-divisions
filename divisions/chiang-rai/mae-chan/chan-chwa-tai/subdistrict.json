@@ -1,0 +1,61 @@
+{
+  "id": "570712",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "จันจว้าใต้",
+    "en": "Chan Chwa Tai",
+    "slug": "chan-chwa-tai"
+  },
+  "code": {
+    "dopa": "570712"
+  },
+  "parent": {
+    "id": "5707",
+    "level": 2,
+    "name": {
+      "th": "แม่จัน",
+      "en": "Mae Chan",
+      "slug": "mae-chan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5707",
+      "level": 2,
+      "name": {
+        "th": "แม่จัน",
+        "en": "Mae Chan",
+        "slug": "mae-chan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "57270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.239",
+    "lon": "99.936"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chan-chwa-tai-570712/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "270610",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองสังข์",
+    "en": "Nong Sang",
+    "slug": "nong-sang"
+  },
+  "code": {
+    "dopa": "270610"
+  },
+  "parent": {
+    "id": "2706",
+    "level": 2,
+    "name": {
+      "th": "อรัญประเทศ",
+      "en": "Aranprathet",
+      "slug": "aranprathet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    },
+    {
+      "id": "2706",
+      "level": 2,
+      "name": {
+        "th": "อรัญประเทศ",
+        "en": "Aranprathet",
+        "slug": "aranprathet"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "27120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.804",
+    "lon": "102.539"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-sang-270610/"
+  }
+}

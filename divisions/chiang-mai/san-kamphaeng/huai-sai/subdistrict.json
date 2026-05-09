@@ -1,0 +1,61 @@
+{
+  "id": "501311",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยทราย",
+    "en": "Huai Sai",
+    "slug": "huai-sai"
+  },
+  "code": {
+    "dopa": "501311"
+  },
+  "parent": {
+    "id": "5013",
+    "level": 2,
+    "name": {
+      "th": "สันกำแพง",
+      "en": "San Kamphaeng",
+      "slug": "san-kamphaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5013",
+      "level": 2,
+      "name": {
+        "th": "สันกำแพง",
+        "en": "San Kamphaeng",
+        "slug": "san-kamphaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "50130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.781",
+    "lon": "99.189"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-sai-501311/"
+  }
+}

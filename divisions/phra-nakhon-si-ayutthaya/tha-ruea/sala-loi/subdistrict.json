@@ -1,0 +1,61 @@
+{
+  "id": "140205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศาลาลอย",
+    "en": "Sala Loi",
+    "slug": "sala-loi"
+  },
+  "code": {
+    "dopa": "140205"
+  },
+  "parent": {
+    "id": "1402",
+    "level": 2,
+    "name": {
+      "th": "ท่าเรือ",
+      "en": "Tha Ruea",
+      "slug": "tha-ruea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1402",
+      "level": 2,
+      "name": {
+        "th": "ท่าเรือ",
+        "en": "Tha Ruea",
+        "slug": "tha-ruea"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "13130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.532",
+    "lon": "100.700"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sala-loi-140205/"
+  }
+}

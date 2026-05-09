@@ -1,0 +1,61 @@
+{
+  "id": "380403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่ากกแดง",
+    "en": "Tha Kok Daeng",
+    "slug": "tha-kok-daeng"
+  },
+  "code": {
+    "dopa": "380403"
+  },
+  "parent": {
+    "id": "3804",
+    "level": 2,
+    "name": {
+      "th": "เซกา",
+      "en": "Seka",
+      "slug": "seka"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3804",
+      "level": 2,
+      "name": {
+        "th": "เซกา",
+        "en": "Seka",
+        "slug": "seka"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "38150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.911",
+    "lon": "103.816"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-kok-daeng-380403/"
+  }
+}

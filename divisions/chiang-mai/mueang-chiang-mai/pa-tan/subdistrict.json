@@ -1,0 +1,61 @@
+{
+  "id": "500115",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าตัน",
+    "en": "Pa Tan",
+    "slug": "pa-tan"
+  },
+  "code": {
+    "dopa": "500115"
+  },
+  "parent": {
+    "id": "5001",
+    "level": 2,
+    "name": {
+      "th": "เมืองเชียงใหม่",
+      "en": "Mueang Chiang Mai",
+      "slug": "mueang-chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5001",
+      "level": 2,
+      "name": {
+        "th": "เมืองเชียงใหม่",
+        "en": "Mueang Chiang Mai",
+        "slug": "mueang-chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "50300"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.811",
+    "lon": "98.999"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-tan-500115/"
+  }
+}

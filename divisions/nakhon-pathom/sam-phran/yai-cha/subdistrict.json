@@ -1,0 +1,61 @@
+{
+  "id": "730614",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยายชา",
+    "en": "Yai Cha",
+    "slug": "yai-cha"
+  },
+  "code": {
+    "dopa": "730614"
+  },
+  "parent": {
+    "id": "7306",
+    "level": 2,
+    "name": {
+      "th": "สามพราน",
+      "en": "Sam Phran",
+      "slug": "sam-phran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "th": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "73110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.733",
+    "lon": "100.235"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yai-cha-730614/"
+  }
+}

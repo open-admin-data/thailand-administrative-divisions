@@ -1,0 +1,61 @@
+{
+  "id": "760112",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ต้นมะม่วง",
+    "en": "Ton Mamuang",
+    "slug": "ton-mamuang"
+  },
+  "code": {
+    "dopa": "760112"
+  },
+  "parent": {
+    "id": "7601",
+    "level": 2,
+    "name": {
+      "th": "เมืองเพชรบุรี",
+      "en": "Mueang Phetchaburi",
+      "slug": "mueang-phetchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7601",
+      "level": 2,
+      "name": {
+        "th": "เมืองเพชรบุรี",
+        "en": "Mueang Phetchaburi",
+        "slug": "mueang-phetchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "76000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.079",
+    "lon": "99.958"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ton-mamuang-760112/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "210504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตาขัน",
+    "en": "Ta Khan",
+    "slug": "ta-khan"
+  },
+  "code": {
+    "dopa": "210504"
+  },
+  "parent": {
+    "id": "2105",
+    "level": 2,
+    "name": {
+      "th": "บ้านค่าย",
+      "en": "Ban Khai",
+      "slug": "ban-khai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2105",
+      "level": 2,
+      "name": {
+        "th": "บ้านค่าย",
+        "en": "Ban Khai",
+        "slug": "ban-khai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "21120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.735",
+    "lon": "101.321"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ta-khan-210504/"
+  }
+}

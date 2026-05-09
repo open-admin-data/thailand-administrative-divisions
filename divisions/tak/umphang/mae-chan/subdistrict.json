@@ -1,0 +1,61 @@
+{
+  "id": "630804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่จัน",
+    "en": "Mae Chan",
+    "slug": "mae-chan"
+  },
+  "code": {
+    "dopa": "630804"
+  },
+  "parent": {
+    "id": "6308",
+    "level": 2,
+    "name": {
+      "th": "อุ้มผาง",
+      "en": "Umphang",
+      "slug": "umphang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6308",
+      "level": 2,
+      "name": {
+        "th": "อุ้มผาง",
+        "en": "Umphang",
+        "slug": "umphang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "63170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.727",
+    "lon": "98.716"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-chan-630804/"
+  }
+}

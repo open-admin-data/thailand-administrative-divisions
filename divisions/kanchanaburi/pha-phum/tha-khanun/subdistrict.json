@@ -1,0 +1,61 @@
+{
+  "id": "710701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าขนุน",
+    "en": "Tha Khanun",
+    "slug": "tha-khanun"
+  },
+  "code": {
+    "dopa": "710701"
+  },
+  "parent": {
+    "id": "7107",
+    "level": 2,
+    "name": {
+      "th": "ทองผาภูมิ",
+      "en": "Pha Phum",
+      "slug": "pha-phum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7107",
+      "level": 2,
+      "name": {
+        "th": "ทองผาภูมิ",
+        "en": "Pha Phum",
+        "slug": "pha-phum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "71180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.762",
+    "lon": "98.641"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-khanun-710701/"
+  }
+}

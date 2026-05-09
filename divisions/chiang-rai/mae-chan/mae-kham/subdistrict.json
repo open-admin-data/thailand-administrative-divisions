@@ -1,0 +1,61 @@
+{
+  "id": "570703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่คำ",
+    "en": "Mae Kham",
+    "slug": "mae-kham"
+  },
+  "code": {
+    "dopa": "570703"
+  },
+  "parent": {
+    "id": "5707",
+    "level": 2,
+    "name": {
+      "th": "แม่จัน",
+      "en": "Mae Chan",
+      "slug": "mae-chan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5707",
+      "level": 2,
+      "name": {
+        "th": "แม่จัน",
+        "en": "Mae Chan",
+        "slug": "mae-chan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "57240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.251",
+    "lon": "99.902"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-kham-570703/"
+  }
+}

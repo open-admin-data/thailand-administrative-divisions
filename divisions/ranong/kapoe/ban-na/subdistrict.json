@@ -1,0 +1,61 @@
+{
+  "id": "850304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านนา",
+    "en": "Ban Na",
+    "slug": "ban-na"
+  },
+  "code": {
+    "dopa": "850304"
+  },
+  "parent": {
+    "id": "8503",
+    "level": 2,
+    "name": {
+      "th": "กะเปอร์",
+      "en": "Kapoe",
+      "slug": "kapoe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "85",
+      "level": 1,
+      "name": {
+        "th": "ระนอง",
+        "en": "Ranong",
+        "slug": "ranong"
+      }
+    },
+    {
+      "id": "8503",
+      "level": 2,
+      "name": {
+        "th": "กะเปอร์",
+        "en": "Kapoe",
+        "slug": "kapoe"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "85120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.553",
+    "lon": "98.740"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-na-850304/"
+  }
+}

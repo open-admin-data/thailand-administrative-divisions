@@ -1,0 +1,61 @@
+{
+  "id": "180205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หางน้ำสาคร",
+    "en": "Hang Nam Sakhon",
+    "slug": "hang-nam-sakhon"
+  },
+  "code": {
+    "dopa": "180205"
+  },
+  "parent": {
+    "id": "1802",
+    "level": 2,
+    "name": {
+      "th": "มโนรมย์",
+      "en": "Manorom",
+      "slug": "manorom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1802",
+      "level": 2,
+      "name": {
+        "th": "มโนรมย์",
+        "en": "Manorom",
+        "slug": "manorom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "17170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.292",
+    "lon": "100.146"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hang-nam-sakhon-180205/"
+  }
+}

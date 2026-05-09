@@ -1,0 +1,61 @@
+{
+  "id": "490603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางทรายน้อย",
+    "en": "Bang Sai Noi",
+    "slug": "bang-sai-noi"
+  },
+  "code": {
+    "dopa": "490603"
+  },
+  "parent": {
+    "id": "4906",
+    "level": 2,
+    "name": {
+      "th": "ว่านใหญ่",
+      "en": "Wan Yai",
+      "slug": "wan-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4906",
+      "level": 2,
+      "name": {
+        "th": "ว่านใหญ่",
+        "en": "Wan Yai",
+        "slug": "wan-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "49150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.667",
+    "lon": "104.707"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-sai-noi-490603/"
+  }
+}

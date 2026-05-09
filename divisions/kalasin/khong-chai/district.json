@@ -1,0 +1,50 @@
+{
+  "id": "4618",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ฆ้องชัย",
+    "en": "Khong Chai",
+    "slug": "khong-chai"
+  },
+  "code": {
+    "dopa": "4618"
+  },
+  "parent": {
+    "id": "46",
+    "level": 1,
+    "name": {
+      "th": "กาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 48
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.321",
+    "lon": "103.493"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khong-chai-4618/"
+  }
+}

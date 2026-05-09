@@ -1,0 +1,61 @@
+{
+  "id": "710105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แก่งเสี้ยน",
+    "en": "Kaeng Sian",
+    "slug": "kaeng-sian"
+  },
+  "code": {
+    "dopa": "710105"
+  },
+  "parent": {
+    "id": "7101",
+    "level": 2,
+    "name": {
+      "th": "เมืองกาญจนบุรี",
+      "en": "Mueang Kanchanaburi",
+      "slug": "mueang-kanchanaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7101",
+      "level": 2,
+      "name": {
+        "th": "เมืองกาญจนบุรี",
+        "en": "Mueang Kanchanaburi",
+        "slug": "mueang-kanchanaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "71000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.103",
+    "lon": "99.501"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kaeng-sian-710105/"
+  }
+}

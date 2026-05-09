@@ -1,0 +1,61 @@
+{
+  "id": "460715",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองตอกแป้น",
+    "en": "Nong Tok Paen",
+    "slug": "nong-tok-paen"
+  },
+  "code": {
+    "dopa": "460715"
+  },
+  "parent": {
+    "id": "4607",
+    "level": 2,
+    "name": {
+      "th": "ยางตลาด",
+      "en": "Yang Talat",
+      "slug": "yang-talat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4607",
+      "level": 2,
+      "name": {
+        "th": "ยางตลาด",
+        "en": "Yang Talat",
+        "slug": "yang-talat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "46120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.319",
+    "lon": "103.406"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-tok-paen-460715/"
+  }
+}

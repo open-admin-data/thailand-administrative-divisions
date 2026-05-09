@@ -1,0 +1,61 @@
+{
+  "id": "800305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขุนทะเล",
+    "en": "Khun Thale",
+    "slug": "khun-thale"
+  },
+  "code": {
+    "dopa": "800305"
+  },
+  "parent": {
+    "id": "8003",
+    "level": 2,
+    "name": {
+      "th": "ลานสกา",
+      "en": "Lan Saka",
+      "slug": "lan-saka"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8003",
+      "level": 2,
+      "name": {
+        "th": "ลานสกา",
+        "en": "Lan Saka",
+        "slug": "lan-saka"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "80230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.344",
+    "lon": "99.848"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khun-thale-800305/"
+  }
+}

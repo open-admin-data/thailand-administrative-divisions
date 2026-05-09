@@ -1,0 +1,50 @@
+{
+  "id": "8601",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองชุมพร",
+    "en": "Mueang Chumphon",
+    "slug": "mueang-chumphon"
+  },
+  "code": {
+    "dopa": "8601"
+  },
+  "parent": {
+    "id": "86",
+    "level": 1,
+    "name": {
+      "th": "ชุมพร",
+      "en": "Chumphon",
+      "slug": "chumphon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 17,
+    "villages": 205
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.459",
+    "lon": "99.403"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-chumphon-8601/"
+  }
+}

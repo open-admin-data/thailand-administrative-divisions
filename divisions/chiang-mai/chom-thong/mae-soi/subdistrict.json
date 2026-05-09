@@ -1,0 +1,61 @@
+{
+  "id": "500209",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่สอย",
+    "en": "Mae Soi",
+    "slug": "mae-soi"
+  },
+  "code": {
+    "dopa": "500209"
+  },
+  "parent": {
+    "id": "5002",
+    "level": 2,
+    "name": {
+      "th": "จอมทอง",
+      "en": "Chom Thong",
+      "slug": "chom-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5002",
+      "level": 2,
+      "name": {
+        "th": "จอมทอง",
+        "en": "Chom Thong",
+        "slug": "chom-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "50240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.222",
+    "lon": "98.721"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-soi-500209/"
+  }
+}

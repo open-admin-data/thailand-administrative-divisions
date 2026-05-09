@@ -1,0 +1,61 @@
+{
+  "id": "101901",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง คลองชักพระ",
+    "en": "Khlong Chak Phra",
+    "slug": "khlong-chak-phra"
+  },
+  "code": {
+    "dopa": "101901"
+  },
+  "parent": {
+    "id": "1019",
+    "level": 2,
+    "name": {
+      "th": "เขต ตลิ่งชัน",
+      "en": "Taling Chan",
+      "slug": "taling-chan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1019",
+      "level": 2,
+      "name": {
+        "th": "เขต ตลิ่งชัน",
+        "en": "Taling Chan",
+        "slug": "taling-chan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10170"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.760",
+    "lon": "100.456"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-chak-phra-101901/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "341103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกษม",
+    "en": "Kasem",
+    "slug": "kasem"
+  },
+  "code": {
+    "dopa": "341103"
+  },
+  "parent": {
+    "id": "3411",
+    "level": 2,
+    "name": {
+      "th": "ตระการพืชผล",
+      "en": "Trakan Phuet Phon",
+      "slug": "trakan-phuet-phon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3411",
+      "level": 2,
+      "name": {
+        "th": "ตระการพืชผล",
+        "en": "Trakan Phuet Phon",
+        "slug": "trakan-phuet-phon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "34130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.691",
+    "lon": "105.049"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kasem-341103/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "302103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "จันทึก",
+    "en": "Chanthuek",
+    "slug": "chanthuek"
+  },
+  "code": {
+    "dopa": "302103"
+  },
+  "parent": {
+    "id": "3021",
+    "level": 2,
+    "name": {
+      "th": "ปากช่อง",
+      "en": "Pak Chong",
+      "slug": "pak-chong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3021",
+      "level": 2,
+      "name": {
+        "th": "ปากช่อง",
+        "en": "Pak Chong",
+        "slug": "pak-chong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 22
+  },
+  "zip_codes": [
+    "30130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.806",
+    "lon": "101.456"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chanthuek-302103/"
+  }
+}

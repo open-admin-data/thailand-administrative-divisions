@@ -1,0 +1,61 @@
+{
+  "id": "520110",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านเสด็จ",
+    "en": "Ban Sadet",
+    "slug": "ban-sadet"
+  },
+  "code": {
+    "dopa": "520110"
+  },
+  "parent": {
+    "id": "5201",
+    "level": 2,
+    "name": {
+      "th": "เมืองลำปาง",
+      "en": "Mueang Lampang",
+      "slug": "mueang-lampang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5201",
+      "level": 2,
+      "name": {
+        "th": "เมืองลำปาง",
+        "en": "Mueang Lampang",
+        "slug": "mueang-lampang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "52000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.392",
+    "lon": "99.645"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-sadet-520110/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "901201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาหม่อม",
+    "en": "Na Mom",
+    "slug": "na-mom"
+  },
+  "code": {
+    "dopa": "901201"
+  },
+  "parent": {
+    "id": "9012",
+    "level": 2,
+    "name": {
+      "th": "นาหม่อม",
+      "en": "Na Mom",
+      "slug": "na-mom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9012",
+      "level": 2,
+      "name": {
+        "th": "นาหม่อม",
+        "en": "Na Mom",
+        "slug": "na-mom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "90310"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.965",
+    "lon": "100.529"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-mom-901201/"
+  }
+}

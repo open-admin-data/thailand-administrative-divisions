@@ -1,0 +1,50 @@
+{
+  "id": "8202",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เกาะยาว",
+    "en": "Ko Yao",
+    "slug": "ko-yao"
+  },
+  "code": {
+    "dopa": "8202"
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "th": "พังงา",
+      "en": "Phangnga",
+      "slug": "phangnga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 18
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.892",
+    "lon": "98.581"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ko-yao-8202/"
+  }
+}

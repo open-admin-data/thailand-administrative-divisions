@@ -1,0 +1,61 @@
+{
+  "id": "400901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองโก",
+    "en": "Nong Ko",
+    "slug": "nong-ko"
+  },
+  "code": {
+    "dopa": "400901"
+  },
+  "parent": {
+    "id": "4009",
+    "level": 2,
+    "name": {
+      "th": "กระนวน",
+      "en": "Kranuan",
+      "slug": "kranuan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4009",
+      "level": 2,
+      "name": {
+        "th": "กระนวน",
+        "en": "Kranuan",
+        "slug": "kranuan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "40170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.727",
+    "lon": "103.110"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-ko-400901/"
+  }
+}

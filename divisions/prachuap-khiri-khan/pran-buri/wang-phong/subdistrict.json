@@ -1,0 +1,61 @@
+{
+  "id": "770608",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังก์พง",
+    "en": "Wang Phong",
+    "slug": "wang-phong"
+  },
+  "code": {
+    "dopa": "770608"
+  },
+  "parent": {
+    "id": "7706",
+    "level": 2,
+    "name": {
+      "th": "ปราณบุรี",
+      "en": "Pran Buri",
+      "slug": "pran-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    },
+    {
+      "id": "7706",
+      "level": 2,
+      "name": {
+        "th": "ปราณบุรี",
+        "en": "Pran Buri",
+        "slug": "pran-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "77120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.447",
+    "lon": "99.911"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-phong-770608/"
+  }
+}

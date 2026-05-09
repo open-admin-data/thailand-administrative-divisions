@@ -1,0 +1,61 @@
+{
+  "id": "700515",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลาดบัวขาว",
+    "en": "Lat Bua Khao",
+    "slug": "lat-bua-khao"
+  },
+  "code": {
+    "dopa": "700515"
+  },
+  "parent": {
+    "id": "7005",
+    "level": 2,
+    "name": {
+      "th": "บ้านโป่ง",
+      "en": "Ban Pong",
+      "slug": "ban-pong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7005",
+      "level": 2,
+      "name": {
+        "th": "บ้านโป่ง",
+        "en": "Ban Pong",
+        "slug": "ban-pong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "70110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.841",
+    "lon": "99.831"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lat-bua-khao-700515/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "920504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไม้ฝาด",
+    "en": "Mai Fat",
+    "slug": "mai-fat"
+  },
+  "code": {
+    "dopa": "920504"
+  },
+  "parent": {
+    "id": "9205",
+    "level": 2,
+    "name": {
+      "th": "สิเกา",
+      "en": "Sikao",
+      "slug": "sikao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9205",
+      "level": 2,
+      "name": {
+        "th": "สิเกา",
+        "en": "Sikao",
+        "slug": "sikao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "92150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.505",
+    "lon": "99.369"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mai-fat-920504/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "3507",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ค้อวัง",
+    "en": "Kho Wang",
+    "slug": "kho-wang"
+  },
+  "code": {
+    "dopa": "3507"
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "th": "ยโสธร",
+      "en": "Yasothon",
+      "slug": "yasothon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 45
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.363",
+    "lon": "104.310"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kho-wang-3507/"
+  }
+}

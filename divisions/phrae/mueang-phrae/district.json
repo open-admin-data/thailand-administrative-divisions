@@ -1,0 +1,50 @@
+{
+  "id": "5401",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองแพร่",
+    "en": "Mueang Phrae",
+    "slug": "mueang-phrae"
+  },
+  "code": {
+    "dopa": "5401"
+  },
+  "parent": {
+    "id": "54",
+    "level": 1,
+    "name": {
+      "th": "แพร่",
+      "en": "Phrae",
+      "slug": "phrae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 20,
+    "villages": 184
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.140",
+    "lon": "100.142"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-phrae-5401/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "360309",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีสำราญ",
+    "en": "Si Samran",
+    "slug": "si-samran"
+  },
+  "code": {
+    "dopa": "360309"
+  },
+  "parent": {
+    "id": "3603",
+    "level": 2,
+    "name": {
+      "th": "คอนสวรรค์",
+      "en": "Khon Sawan",
+      "slug": "khon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3603",
+      "level": 2,
+      "name": {
+        "th": "คอนสวรรค์",
+        "en": "Khon Sawan",
+        "slug": "khon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "36140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.993",
+    "lon": "102.339"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-samran-360309/"
+  }
+}

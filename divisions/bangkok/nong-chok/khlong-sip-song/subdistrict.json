@@ -1,0 +1,61 @@
+{
+  "id": "100304",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง คลองสิบสอง",
+    "en": "Khlong Sip Song",
+    "slug": "khlong-sip-song"
+  },
+  "code": {
+    "dopa": "100304"
+  },
+  "parent": {
+    "id": "1003",
+    "level": 2,
+    "name": {
+      "th": "เขต หนองจอก",
+      "en": "Nong Chok",
+      "slug": "nong-chok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1003",
+      "level": 2,
+      "name": {
+        "th": "เขต หนองจอก",
+        "en": "Nong Chok",
+        "slug": "nong-chok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10530"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.914",
+    "lon": "100.880"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-sip-song-100304/"
+  }
+}

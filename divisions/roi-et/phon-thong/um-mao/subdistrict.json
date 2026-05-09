@@ -1,0 +1,61 @@
+{
+  "id": "450709",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อุ่มเม่า",
+    "en": "Um Mao",
+    "slug": "um-mao"
+  },
+  "code": {
+    "dopa": "450709"
+  },
+  "parent": {
+    "id": "4507",
+    "level": 2,
+    "name": {
+      "th": "โพนทอง",
+      "en": "Phon Thong",
+      "slug": "phon-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4507",
+      "level": 2,
+      "name": {
+        "th": "โพนทอง",
+        "en": "Phon Thong",
+        "slug": "phon-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "45110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.277",
+    "lon": "103.862"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/um-mao-450709/"
+  }
+}

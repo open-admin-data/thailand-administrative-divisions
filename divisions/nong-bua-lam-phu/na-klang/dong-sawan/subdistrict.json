@@ -1,0 +1,61 @@
+{
+  "id": "390211",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงสวรรค์",
+    "en": "Dong Sawan",
+    "slug": "dong-sawan"
+  },
+  "code": {
+    "dopa": "390211"
+  },
+  "parent": {
+    "id": "3902",
+    "level": 2,
+    "name": {
+      "th": "นากลาง",
+      "en": "Na Klang",
+      "slug": "na-klang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3902",
+      "level": 2,
+      "name": {
+        "th": "นากลาง",
+        "en": "Na Klang",
+        "slug": "na-klang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "39350"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.443",
+    "lon": "102.193"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-sawan-390211/"
+  }
+}

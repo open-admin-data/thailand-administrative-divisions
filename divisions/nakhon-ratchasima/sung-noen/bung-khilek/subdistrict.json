@@ -1,0 +1,61 @@
+{
+  "id": "301804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บุ่งขี้เหล็ก",
+    "en": "Bung Khilek",
+    "slug": "bung-khilek"
+  },
+  "code": {
+    "dopa": "301804"
+  },
+  "parent": {
+    "id": "3018",
+    "level": 2,
+    "name": {
+      "th": "สูงเนิน",
+      "en": "Sung Noen",
+      "slug": "sung-noen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3018",
+      "level": 2,
+      "name": {
+        "th": "สูงเนิน",
+        "en": "Sung Noen",
+        "slug": "sung-noen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "30170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.952",
+    "lon": "101.839"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bung-khilek-301804/"
+  }
+}

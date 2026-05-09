@@ -1,0 +1,61 @@
+{
+  "id": "332203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองบัวดง",
+    "en": "Nong Bua Dong",
+    "slug": "nong-bua-dong"
+  },
+  "code": {
+    "dopa": "332203"
+  },
+  "parent": {
+    "id": "3322",
+    "level": 2,
+    "name": {
+      "th": "ศิลาลาด",
+      "en": "Sila Lat",
+      "slug": "sila-lat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3322",
+      "level": 2,
+      "name": {
+        "th": "ศิลาลาด",
+        "en": "Sila Lat",
+        "slug": "sila-lat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "33160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.458",
+    "lon": "104.046"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-bua-dong-332203/"
+  }
+}

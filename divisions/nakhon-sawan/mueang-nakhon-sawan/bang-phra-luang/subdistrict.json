@@ -1,0 +1,61 @@
+{
+  "id": "600108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางพระหลวง",
+    "en": "Bang Phra Luang",
+    "slug": "bang-phra-luang"
+  },
+  "code": {
+    "dopa": "600108"
+  },
+  "parent": {
+    "id": "6001",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครสวรรค์",
+      "en": "Mueang Nakhon Sawan",
+      "slug": "mueang-nakhon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6001",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครสวรรค์",
+        "en": "Mueang Nakhon Sawan",
+        "slug": "mueang-nakhon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "60000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.771",
+    "lon": "100.188"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-phra-luang-600108/"
+  }
+}

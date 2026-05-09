@@ -1,0 +1,61 @@
+{
+  "id": "500804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อแก้ว",
+    "en": "Bo Kaeo",
+    "slug": "bo-kaeo"
+  },
+  "code": {
+    "dopa": "500804"
+  },
+  "parent": {
+    "id": "5008",
+    "level": 2,
+    "name": {
+      "th": "สะเมิง",
+      "en": "Samoeng",
+      "slug": "samoeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5008",
+      "level": 2,
+      "name": {
+        "th": "สะเมิง",
+        "en": "Samoeng",
+        "slug": "samoeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "50250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.791",
+    "lon": "98.604"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-kaeo-500804/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "411706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ข้าวสาร",
+    "en": "Khao San",
+    "slug": "khao-san"
+  },
+  "code": {
+    "dopa": "411706"
+  },
+  "parent": {
+    "id": "4117",
+    "level": 2,
+    "name": {
+      "th": "บ้านผือ",
+      "en": "Ban Phue",
+      "slug": "ban-phue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4117",
+      "level": 2,
+      "name": {
+        "th": "บ้านผือ",
+        "en": "Ban Phue",
+        "slug": "ban-phue"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "41160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.634",
+    "lon": "102.439"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-san-411706/"
+  }
+}

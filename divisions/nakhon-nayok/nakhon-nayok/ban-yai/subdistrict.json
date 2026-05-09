@@ -1,0 +1,61 @@
+{
+  "id": "260103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านใหญ่",
+    "en": "Ban Yai",
+    "slug": "ban-yai"
+  },
+  "code": {
+    "dopa": "260103"
+  },
+  "parent": {
+    "id": "2601",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครนายก",
+      "en": "Nakhon Nayok",
+      "slug": "nakhon-nayok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    {
+      "id": "2601",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "26000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.221",
+    "lon": "101.225"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-yai-260103/"
+  }
+}

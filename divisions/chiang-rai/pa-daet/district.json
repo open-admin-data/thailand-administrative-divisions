@@ -1,0 +1,50 @@
+{
+  "id": "5706",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ป่าแดด",
+    "en": "Pa Daet",
+    "slug": "pa-daet"
+  },
+  "code": {
+    "dopa": "5706"
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 59
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.435",
+    "lon": "99.934"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pa-daet-5706/"
+  }
+}

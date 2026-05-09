@@ -1,0 +1,61 @@
+{
+  "id": "660707",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองโสน",
+    "en": "Nong Sano",
+    "slug": "nong-sano"
+  },
+  "code": {
+    "dopa": "660707"
+  },
+  "parent": {
+    "id": "6607",
+    "level": 2,
+    "name": {
+      "th": "สามง่าม",
+      "en": "Sam Ngam",
+      "slug": "sam-ngam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6607",
+      "level": 2,
+      "name": {
+        "th": "สามง่าม",
+        "en": "Sam Ngam",
+        "slug": "sam-ngam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "66140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.389",
+    "lon": "100.044"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-sano-660707/"
+  }
+}

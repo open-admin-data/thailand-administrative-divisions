@@ -1,0 +1,61 @@
+{
+  "id": "661201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านนา",
+    "en": "Ban Na",
+    "slug": "ban-na"
+  },
+  "code": {
+    "dopa": "661201"
+  },
+  "parent": {
+    "id": "6612",
+    "level": 2,
+    "name": {
+      "th": "วชิรบารมี",
+      "en": "Wachirabarami",
+      "slug": "wachirabarami"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6612",
+      "level": 2,
+      "name": {
+        "th": "วชิรบารมี",
+        "en": "Wachirabarami",
+        "slug": "wachirabarami"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "66140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.495",
+    "lon": "100.128"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-na-661201/"
+  }
+}

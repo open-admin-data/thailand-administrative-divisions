@@ -1,0 +1,61 @@
+{
+  "id": "200701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีราชา",
+    "en": "Si Racha",
+    "slug": "si-racha"
+  },
+  "code": {
+    "dopa": "200701"
+  },
+  "parent": {
+    "id": "2007",
+    "level": 2,
+    "name": {
+      "th": "ศรีราชา",
+      "en": "Si Racha",
+      "slug": "si-racha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2007",
+      "level": 2,
+      "name": {
+        "th": "ศรีราชา",
+        "en": "Si Racha",
+        "slug": "si-racha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "20110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.162",
+    "lon": "100.923"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-racha-200701/"
+  }
+}

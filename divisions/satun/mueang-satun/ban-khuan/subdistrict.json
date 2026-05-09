@@ -1,0 +1,61 @@
+{
+  "id": "910104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านควน",
+    "en": "Ban Khuan",
+    "slug": "ban-khuan"
+  },
+  "code": {
+    "dopa": "910104"
+  },
+  "parent": {
+    "id": "9101",
+    "level": 2,
+    "name": {
+      "th": "เมืองสตูล",
+      "en": "Mueang Satun",
+      "slug": "mueang-satun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    },
+    {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสตูล",
+        "en": "Mueang Satun",
+        "slug": "mueang-satun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "91140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.691",
+    "lon": "100.049"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-khuan-910104/"
+  }
+}

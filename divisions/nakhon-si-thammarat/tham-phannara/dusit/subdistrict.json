@@ -1,0 +1,61 @@
+{
+  "id": "801803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดุสิต",
+    "en": "Dusit",
+    "slug": "dusit"
+  },
+  "code": {
+    "dopa": "801803"
+  },
+  "parent": {
+    "id": "8018",
+    "level": 2,
+    "name": {
+      "th": "ถ้ำพรรณรา",
+      "en": "Tham Phannara",
+      "slug": "tham-phannara"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8018",
+      "level": 2,
+      "name": {
+        "th": "ถ้ำพรรณรา",
+        "en": "Tham Phannara",
+        "slug": "tham-phannara"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "80260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.466",
+    "lon": "99.347"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dusit-801803/"
+  }
+}

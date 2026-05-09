@@ -1,0 +1,61 @@
+{
+  "id": "331016",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพธิ์ชัย",
+    "en": "Pho Chai",
+    "slug": "pho-chai"
+  },
+  "code": {
+    "dopa": "331016"
+  },
+  "parent": {
+    "id": "3310",
+    "level": 2,
+    "name": {
+      "th": "อุทุมพรพิสัย",
+      "en": "Uthumphon Phisai",
+      "slug": "uthumphon-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3310",
+      "level": 2,
+      "name": {
+        "th": "อุทุมพรพิสัย",
+        "en": "Uthumphon Phisai",
+        "slug": "uthumphon-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "33120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.173",
+    "lon": "104.227"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pho-chai-331016/"
+  }
+}

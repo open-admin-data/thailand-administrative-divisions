@@ -1,0 +1,61 @@
+{
+  "id": "440315",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองกุงสวรรค์",
+    "en": "Nong Kung Sawan",
+    "slug": "nong-kung-sawan"
+  },
+  "code": {
+    "dopa": "440315"
+  },
+  "parent": {
+    "id": "4403",
+    "level": 2,
+    "name": {
+      "th": "โกสุมพิสัย",
+      "en": "Kosum Phisai",
+      "slug": "kosum-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4403",
+      "level": 2,
+      "name": {
+        "th": "โกสุมพิสัย",
+        "en": "Kosum Phisai",
+        "slug": "kosum-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "44140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.194",
+    "lon": "102.975"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-kung-sawan-440315/"
+  }
+}

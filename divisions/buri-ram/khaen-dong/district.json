@@ -1,0 +1,50 @@
+{
+  "id": "3122",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แคนดง",
+    "en": "Khaen Dong",
+    "slug": "khaen-dong"
+  },
+  "code": {
+    "dopa": "3122"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 54
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.267",
+    "lon": "103.180"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khaen-dong-3122/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "650804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านกลาง",
+    "en": "Ban Klang",
+    "slug": "ban-klang"
+  },
+  "code": {
+    "dopa": "650804"
+  },
+  "parent": {
+    "id": "6508",
+    "level": 2,
+    "name": {
+      "th": "วังทอง",
+      "en": "Wang Thong",
+      "slug": "wang-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6508",
+      "level": 2,
+      "name": {
+        "th": "วังทอง",
+        "en": "Wang Thong",
+        "slug": "wang-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 27
+  },
+  "zip_codes": [
+    "65220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.017",
+    "lon": "100.549"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-klang-650804/"
+  }
+}

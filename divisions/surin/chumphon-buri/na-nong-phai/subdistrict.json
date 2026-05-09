@@ -1,0 +1,61 @@
+{
+  "id": "320202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาหนองไผ่",
+    "en": "Na Nong Phai",
+    "slug": "na-nong-phai"
+  },
+  "code": {
+    "dopa": "320202"
+  },
+  "parent": {
+    "id": "3202",
+    "level": 2,
+    "name": {
+      "th": "ชุมพลบุรี",
+      "en": "Chumphon Buri",
+      "slug": "chumphon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3202",
+      "level": 2,
+      "name": {
+        "th": "ชุมพลบุรี",
+        "en": "Chumphon Buri",
+        "slug": "chumphon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "32190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.376",
+    "lon": "103.487"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-nong-phai-320202/"
+  }
+}

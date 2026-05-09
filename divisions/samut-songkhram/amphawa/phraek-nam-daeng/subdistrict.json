@@ -1,0 +1,61 @@
+{
+  "id": "750310",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แพรกหนามแดง",
+    "en": "Phraek Nam Daeng",
+    "slug": "phraek-nam-daeng"
+  },
+  "code": {
+    "dopa": "750310"
+  },
+  "parent": {
+    "id": "7503",
+    "level": 2,
+    "name": {
+      "th": "อัมพวา",
+      "en": "Amphawa",
+      "slug": "amphawa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสงคราม",
+        "en": "Samut Songkhram",
+        "slug": "samut-songkhram"
+      }
+    },
+    {
+      "id": "7503",
+      "level": 2,
+      "name": {
+        "th": "อัมพวา",
+        "en": "Amphawa",
+        "slug": "amphawa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "75110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.343",
+    "lon": "99.882"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phraek-nam-daeng-750310/"
+  }
+}

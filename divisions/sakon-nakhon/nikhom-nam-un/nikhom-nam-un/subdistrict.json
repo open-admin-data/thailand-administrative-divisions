@@ -1,0 +1,61 @@
+{
+  "id": "470701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นิคมน้ำอูน",
+    "en": "Nikhom Nam Un",
+    "slug": "nikhom-nam-un"
+  },
+  "code": {
+    "dopa": "470701"
+  },
+  "parent": {
+    "id": "4707",
+    "level": 2,
+    "name": {
+      "th": "นิคมน้ำอูน",
+      "en": "Nikhom Nam Un",
+      "slug": "nikhom-nam-un"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4707",
+      "level": 2,
+      "name": {
+        "th": "นิคมน้ำอูน",
+        "en": "Nikhom Nam Un",
+        "slug": "nikhom-nam-un"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "47270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.142",
+    "lon": "103.645"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nikhom-nam-un-470701/"
+  }
+}

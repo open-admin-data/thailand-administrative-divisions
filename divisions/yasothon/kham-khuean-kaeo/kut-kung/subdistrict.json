@@ -1,0 +1,61 @@
+{
+  "id": "350410",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุดกุง",
+    "en": "Kut Kung",
+    "slug": "kut-kung"
+  },
+  "code": {
+    "dopa": "350410"
+  },
+  "parent": {
+    "id": "3504",
+    "level": 2,
+    "name": {
+      "th": "คำเขื่อนแก้ว",
+      "en": "Kham Khuean Kaeo",
+      "slug": "kham-khuean-kaeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3504",
+      "level": 2,
+      "name": {
+        "th": "คำเขื่อนแก้ว",
+        "en": "Kham Khuean Kaeo",
+        "slug": "kham-khuean-kaeo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "35110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.615",
+    "lon": "104.246"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kut-kung-350410/"
+  }
+}

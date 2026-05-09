@@ -1,0 +1,61 @@
+{
+  "id": "250201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กบินทร์",
+    "en": "Kabin",
+    "slug": "kabin"
+  },
+  "code": {
+    "dopa": "250201"
+  },
+  "parent": {
+    "id": "2502",
+    "level": 2,
+    "name": {
+      "th": "กบินทร์บุรี",
+      "en": "Kabin Buri",
+      "slug": "kabin-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "th": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri"
+      }
+    },
+    {
+      "id": "2502",
+      "level": 2,
+      "name": {
+        "th": "กบินทร์บุรี",
+        "en": "Kabin Buri",
+        "slug": "kabin-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "25110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.939",
+    "lon": "101.711"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kabin-250201/"
+  }
+}

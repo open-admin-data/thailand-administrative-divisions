@@ -1,0 +1,61 @@
+{
+  "id": "530104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าเซ่า",
+    "en": "Pa Sao",
+    "slug": "pa-sao"
+  },
+  "code": {
+    "dopa": "530104"
+  },
+  "parent": {
+    "id": "5301",
+    "level": 2,
+    "name": {
+      "th": "เมืองอุตรดิตถ์",
+      "en": "Mueang Uttaradit",
+      "slug": "mueang-uttaradit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "th": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "53000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.600",
+    "lon": "100.160"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-sao-530104/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "7702",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "กุยบุรี",
+    "en": "Kui Buri",
+    "slug": "kui-buri"
+  },
+  "code": {
+    "dopa": "7702"
+  },
+  "parent": {
+    "id": "77",
+    "level": 1,
+    "name": {
+      "th": "ประจวบคีรีขันธ์",
+      "en": "Prachuap Khiri Khan",
+      "slug": "prachuap-khiri-khan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 47
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.159",
+    "lon": "99.980"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kui-buri-7702/"
+  }
+}

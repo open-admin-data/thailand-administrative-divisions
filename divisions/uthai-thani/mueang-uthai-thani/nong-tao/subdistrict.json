@@ -1,0 +1,61 @@
+{
+  "id": "610110",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองเต่า",
+    "en": "Nong Tao",
+    "slug": "nong-tao"
+  },
+  "code": {
+    "dopa": "610110"
+  },
+  "parent": {
+    "id": "6101",
+    "level": 2,
+    "name": {
+      "th": "เมืองอุทัยธานี",
+      "en": "Mueang Uthai Thani",
+      "slug": "mueang-uthai-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "th": "เมืองอุทัยธานี",
+        "en": "Mueang Uthai Thani",
+        "slug": "mueang-uthai-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "61000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.455",
+    "lon": "99.963"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-tao-610110/"
+  }
+}

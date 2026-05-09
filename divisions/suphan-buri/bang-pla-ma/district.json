@@ -1,0 +1,50 @@
+{
+  "id": "7204",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บางปลาม้า",
+    "en": "Bang Pla Ma",
+    "slug": "bang-pla-ma"
+  },
+  "code": {
+    "dopa": "7204"
+  },
+  "parent": {
+    "id": "72",
+    "level": 1,
+    "name": {
+      "th": "สุพรรณบุรี",
+      "en": "Suphan Buri",
+      "slug": "suphan-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 14,
+    "villages": 127
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.346",
+    "lon": "100.140"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-pla-ma-7204/"
+  }
+}

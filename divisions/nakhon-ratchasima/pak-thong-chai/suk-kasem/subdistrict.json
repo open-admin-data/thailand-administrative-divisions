@@ -1,0 +1,61 @@
+{
+  "id": "301418",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สุขเกษม",
+    "en": "Suk Kasem",
+    "slug": "suk-kasem"
+  },
+  "code": {
+    "dopa": "301418"
+  },
+  "parent": {
+    "id": "3014",
+    "level": 2,
+    "name": {
+      "th": "ปักธงชัย",
+      "en": "Pak Thong Chai",
+      "slug": "pak-thong-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3014",
+      "level": 2,
+      "name": {
+        "th": "ปักธงชัย",
+        "en": "Pak Thong Chai",
+        "slug": "pak-thong-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "30150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.667",
+    "lon": "101.939"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/suk-kasem-301418/"
+  }
+}

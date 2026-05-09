@@ -1,0 +1,61 @@
+{
+  "id": "900306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาทับ",
+    "en": "Na Thap",
+    "slug": "na-thap"
+  },
+  "code": {
+    "dopa": "900306"
+  },
+  "parent": {
+    "id": "9003",
+    "level": 2,
+    "name": {
+      "th": "จะนะ",
+      "en": "Chana",
+      "slug": "chana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "th": "จะนะ",
+        "en": "Chana",
+        "slug": "chana"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "90130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.035",
+    "lon": "100.700"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-thap-900306/"
+  }
+}

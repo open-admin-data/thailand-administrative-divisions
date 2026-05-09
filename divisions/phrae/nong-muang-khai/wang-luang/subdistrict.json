@@ -1,0 +1,61 @@
+{
+  "id": "540804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังหลวง",
+    "en": "Wang Luang",
+    "slug": "wang-luang"
+  },
+  "code": {
+    "dopa": "540804"
+  },
+  "parent": {
+    "id": "5408",
+    "level": 2,
+    "name": {
+      "th": "หนองม่วงไข่",
+      "en": "Nong Muang Khai",
+      "slug": "nong-muang-khai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    {
+      "id": "5408",
+      "level": 2,
+      "name": {
+        "th": "หนองม่วงไข่",
+        "en": "Nong Muang Khai",
+        "slug": "nong-muang-khai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "54170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.294",
+    "lon": "100.115"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-luang-540804/"
+  }
+}

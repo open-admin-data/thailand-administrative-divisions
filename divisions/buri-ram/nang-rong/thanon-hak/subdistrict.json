@@ -1,0 +1,61 @@
+{
+  "id": "310413",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ถนนหัก",
+    "en": "Thanon Hak",
+    "slug": "thanon-hak"
+  },
+  "code": {
+    "dopa": "310413"
+  },
+  "parent": {
+    "id": "3104",
+    "level": 2,
+    "name": {
+      "th": "นางรอง",
+      "en": "Nang Rong",
+      "slug": "nang-rong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3104",
+      "level": 2,
+      "name": {
+        "th": "นางรอง",
+        "en": "Nang Rong",
+        "slug": "nang-rong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "31110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.616",
+    "lon": "102.833"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thanon-hak-310413/"
+  }
+}

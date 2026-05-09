@@ -1,0 +1,61 @@
+{
+  "id": "802203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สวนขัน",
+    "en": "Suan Kan",
+    "slug": "suan-kan"
+  },
+  "code": {
+    "dopa": "802203"
+  },
+  "parent": {
+    "id": "8022",
+    "level": 2,
+    "name": {
+      "th": "ช้างกลาง",
+      "en": "Chang Klang",
+      "slug": "chang-klang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8022",
+      "level": 2,
+      "name": {
+        "th": "ช้างกลาง",
+        "en": "Chang Klang",
+        "slug": "chang-klang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "80250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.416",
+    "lon": "99.643"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/suan-kan-802203/"
+  }
+}

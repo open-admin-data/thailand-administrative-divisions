@@ -1,0 +1,50 @@
+{
+  "id": "8505",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สุขสำราญ",
+    "en": "Suk Samran",
+    "slug": "suk-samran"
+  },
+  "code": {
+    "dopa": "8505"
+  },
+  "parent": {
+    "id": "85",
+    "level": 1,
+    "name": {
+      "th": "ระนอง",
+      "en": "Ranong",
+      "slug": "ranong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "85",
+      "level": 1,
+      "name": {
+        "th": "ระนอง",
+        "en": "Ranong",
+        "slug": "ranong"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 2,
+    "villages": 15
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.401",
+    "lon": "98.392"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/suk-samran-8505/"
+  }
+}

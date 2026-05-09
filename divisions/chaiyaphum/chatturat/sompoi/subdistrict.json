@@ -1,0 +1,61 @@
+{
+  "id": "360613",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ส้มป่อย",
+    "en": "Sompoi",
+    "slug": "sompoi"
+  },
+  "code": {
+    "dopa": "360613"
+  },
+  "parent": {
+    "id": "3606",
+    "level": 2,
+    "name": {
+      "th": "จัตุรัส",
+      "en": "Chatturat",
+      "slug": "chatturat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3606",
+      "level": 2,
+      "name": {
+        "th": "จัตุรัส",
+        "en": "Chatturat",
+        "slug": "chatturat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "36130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.711",
+    "lon": "101.806"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sompoi-360613/"
+  }
+}

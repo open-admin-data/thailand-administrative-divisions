@@ -1,0 +1,50 @@
+{
+  "id": "7303",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "นครชัยศรี",
+    "en": "Nakhon Chai Si",
+    "slug": "nakhon-chai-si"
+  },
+  "code": {
+    "dopa": "7303"
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "th": "นครปฐม",
+      "en": "Nakhon Pathom",
+      "slug": "nakhon-pathom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 24,
+    "villages": 108
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.787",
+    "lon": "100.192"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nakhon-chai-si-7303/"
+  }
+}

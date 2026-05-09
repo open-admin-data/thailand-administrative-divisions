@@ -1,0 +1,61 @@
+{
+  "id": "660302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไผ่ท่าโพ",
+    "en": "Phai Tha Pho",
+    "slug": "phai-tha-pho"
+  },
+  "code": {
+    "dopa": "660302"
+  },
+  "parent": {
+    "id": "6603",
+    "level": 2,
+    "name": {
+      "th": "โพธิ์ประทับช้าง",
+      "en": "Pho Prathap Chang",
+      "slug": "pho-prathap-chang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6603",
+      "level": 2,
+      "name": {
+        "th": "โพธิ์ประทับช้าง",
+        "en": "Pho Prathap Chang",
+        "slug": "pho-prathap-chang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "66190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.278",
+    "lon": "100.235"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phai-tha-pho-660302/"
+  }
+}

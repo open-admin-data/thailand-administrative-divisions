@@ -1,0 +1,61 @@
+{
+  "id": "380205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังชมภู",
+    "en": "Wang Chomphu",
+    "slug": "wang-chomphu"
+  },
+  "code": {
+    "dopa": "380205"
+  },
+  "parent": {
+    "id": "3802",
+    "level": 2,
+    "name": {
+      "th": "พรเจริญ",
+      "en": "Phon Charoen",
+      "slug": "phon-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3802",
+      "level": 2,
+      "name": {
+        "th": "พรเจริญ",
+        "en": "Phon Charoen",
+        "slug": "phon-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "38180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.983",
+    "lon": "103.683"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-chomphu-380205/"
+  }
+}

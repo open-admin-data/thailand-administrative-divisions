@@ -1,0 +1,61 @@
+{
+  "id": "120302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางแม่นาง",
+    "en": "Bang Mae Nang",
+    "slug": "bang-mae-nang"
+  },
+  "code": {
+    "dopa": "120302"
+  },
+  "parent": {
+    "id": "1203",
+    "level": 2,
+    "name": {
+      "th": "บางใหญ่",
+      "en": "Bang Yai",
+      "slug": "bang-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1203",
+      "level": 2,
+      "name": {
+        "th": "บางใหญ่",
+        "en": "Bang Yai",
+        "slug": "bang-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "11140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.868",
+    "lon": "100.381"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-mae-nang-120302/"
+  }
+}

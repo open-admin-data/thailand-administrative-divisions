@@ -1,0 +1,61 @@
+{
+  "id": "100102",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง วังบูรพาภิรมย์",
+    "en": "Wang Burapha Phirom",
+    "slug": "wang-burapha-phirom"
+  },
+  "code": {
+    "dopa": "100102"
+  },
+  "parent": {
+    "id": "1001",
+    "level": 2,
+    "name": {
+      "th": "เขต พระนคร",
+      "en": "Khet Phra Nakhon",
+      "slug": "khet-phra-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1001",
+      "level": 2,
+      "name": {
+        "th": "เขต พระนคร",
+        "en": "Khet Phra Nakhon",
+        "slug": "khet-phra-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10200"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.744",
+    "lon": "100.499"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-burapha-phirom-100102/"
+  }
+}

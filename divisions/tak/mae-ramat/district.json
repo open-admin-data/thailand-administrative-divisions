@@ -1,0 +1,50 @@
+{
+  "id": "6304",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แม่ระมาด",
+    "en": "Mae Ramat",
+    "slug": "mae-ramat"
+  },
+  "code": {
+    "dopa": "6304"
+  },
+  "parent": {
+    "id": "63",
+    "level": 1,
+    "name": {
+      "th": "ตาก",
+      "en": "Tak",
+      "slug": "tak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 57
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.971",
+    "lon": "98.525"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mae-ramat-6304/"
+  }
+}

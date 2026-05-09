@@ -1,0 +1,50 @@
+{
+  "id": "7207",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สองพี่น้อง",
+    "en": "Song Phi Nong",
+    "slug": "song-phi-nong"
+  },
+  "code": {
+    "dopa": "7207"
+  },
+  "parent": {
+    "id": "72",
+    "level": 1,
+    "name": {
+      "th": "สุพรรณบุรี",
+      "en": "Suphan Buri",
+      "slug": "suphan-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 15,
+    "villages": 159
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.225",
+    "lon": "100.023"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/song-phi-nong-7207/"
+  }
+}

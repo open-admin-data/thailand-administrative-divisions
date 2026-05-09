@@ -1,0 +1,61 @@
+{
+  "id": "401808",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปอแดง",
+    "en": "Po Daeng",
+    "slug": "po-daeng"
+  },
+  "code": {
+    "dopa": "401808"
+  },
+  "parent": {
+    "id": "4018",
+    "level": 2,
+    "name": {
+      "th": "ชนบท",
+      "en": "Chonnabot",
+      "slug": "chonnabot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4018",
+      "level": 2,
+      "name": {
+        "th": "ชนบท",
+        "en": "Chonnabot",
+        "slug": "chonnabot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "40180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.950",
+    "lon": "102.579"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/po-daeng-401808/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "120401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โสนลอย",
+    "en": "Sano Loi",
+    "slug": "sano-loi"
+  },
+  "code": {
+    "dopa": "120401"
+  },
+  "parent": {
+    "id": "1204",
+    "level": 2,
+    "name": {
+      "th": "บางบัวทอง",
+      "en": "Bang Bua Thong",
+      "slug": "bang-bua-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1204",
+      "level": 2,
+      "name": {
+        "th": "บางบัวทอง",
+        "en": "Bang Bua Thong",
+        "slug": "bang-bua-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "11110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.914",
+    "lon": "100.422"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sano-loi-120401/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "580104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปางหมู",
+    "en": "Pang Mu",
+    "slug": "pang-mu"
+  },
+  "code": {
+    "dopa": "580104"
+  },
+  "parent": {
+    "id": "5801",
+    "level": 2,
+    "name": {
+      "th": "เมืองแม่ฮ่องสอน",
+      "en": "Mueang Mae Hong Son",
+      "slug": "mueang-mae-hong-son"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    },
+    {
+      "id": "5801",
+      "level": 2,
+      "name": {
+        "th": "เมืองแม่ฮ่องสอน",
+        "en": "Mueang Mae Hong Son",
+        "slug": "mueang-mae-hong-son"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "58000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.344",
+    "lon": "97.915"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pang-mu-580104/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "260408",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางลูกเสือ",
+    "en": "Bang Luk Suea",
+    "slug": "bang-luk-suea"
+  },
+  "code": {
+    "dopa": "260408"
+  },
+  "parent": {
+    "id": "2604",
+    "level": 2,
+    "name": {
+      "th": "องครักษ์",
+      "en": "Ongkharak",
+      "slug": "ongkharak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    {
+      "id": "2604",
+      "level": 2,
+      "name": {
+        "th": "องครักษ์",
+        "en": "Ongkharak",
+        "slug": "ongkharak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "26120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.054",
+    "lon": "101.066"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-luk-suea-260408/"
+  }
+}

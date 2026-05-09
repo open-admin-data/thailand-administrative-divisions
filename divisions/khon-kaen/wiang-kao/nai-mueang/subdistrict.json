@@ -1,0 +1,61 @@
+{
+  "id": "402602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ในเมือง",
+    "en": "Nai Mueang",
+    "slug": "nai-mueang"
+  },
+  "code": {
+    "dopa": "402602"
+  },
+  "parent": {
+    "id": "4026",
+    "level": 2,
+    "name": {
+      "th": "เวียงเก่า",
+      "en": "Wiang Kao",
+      "slug": "wiang-kao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4026",
+      "level": 2,
+      "name": {
+        "th": "เวียงเก่า",
+        "en": "Wiang Kao",
+        "slug": "wiang-kao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "40150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.742",
+    "lon": "102.259"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nai-mueang-402602/"
+  }
+}

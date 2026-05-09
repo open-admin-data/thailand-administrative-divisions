@@ -1,0 +1,61 @@
+{
+  "id": "451407",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โหรา",
+    "en": "Hora",
+    "slug": "hora"
+  },
+  "code": {
+    "dopa": "451407"
+  },
+  "parent": {
+    "id": "4514",
+    "level": 2,
+    "name": {
+      "th": "อาจสามารถ",
+      "en": "At Samat",
+      "slug": "at-samat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4514",
+      "level": 2,
+      "name": {
+        "th": "อาจสามารถ",
+        "en": "At Samat",
+        "slug": "at-samat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "45160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.854",
+    "lon": "103.802"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hora-451407/"
+  }
+}

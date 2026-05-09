@@ -1,0 +1,61 @@
+{
+  "id": "500116",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สันผีเสื้อ",
+    "en": "San Phi Suea",
+    "slug": "san-phi-suea"
+  },
+  "code": {
+    "dopa": "500116"
+  },
+  "parent": {
+    "id": "5001",
+    "level": 2,
+    "name": {
+      "th": "เมืองเชียงใหม่",
+      "en": "Mueang Chiang Mai",
+      "slug": "mueang-chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5001",
+      "level": 2,
+      "name": {
+        "th": "เมืองเชียงใหม่",
+        "en": "Mueang Chiang Mai",
+        "slug": "mueang-chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "50300"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.841",
+    "lon": "98.998"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/san-phi-suea-500116/"
+  }
+}

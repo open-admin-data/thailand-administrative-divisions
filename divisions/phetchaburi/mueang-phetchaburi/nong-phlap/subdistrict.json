@@ -1,0 +1,61 @@
+{
+  "id": "760124",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองพลับ",
+    "en": "Nong Phlap",
+    "slug": "nong-phlap"
+  },
+  "code": {
+    "dopa": "760124"
+  },
+  "parent": {
+    "id": "7601",
+    "level": 2,
+    "name": {
+      "th": "เมืองเพชรบุรี",
+      "en": "Mueang Phetchaburi",
+      "slug": "mueang-phetchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7601",
+      "level": 2,
+      "name": {
+        "th": "เมืองเพชรบุรี",
+        "en": "Mueang Phetchaburi",
+        "slug": "mueang-phetchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "76000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.048",
+    "lon": "100.000"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-phlap-760124/"
+  }
+}

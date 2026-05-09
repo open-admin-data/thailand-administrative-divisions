@@ -1,0 +1,61 @@
+{
+  "id": "501411",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองเล็น",
+    "en": "Mueang Len",
+    "slug": "mueang-len"
+  },
+  "code": {
+    "dopa": "501411"
+  },
+  "parent": {
+    "id": "5014",
+    "level": 2,
+    "name": {
+      "th": "สันทราย",
+      "en": "San Sai",
+      "slug": "san-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5014",
+      "level": 2,
+      "name": {
+        "th": "สันทราย",
+        "en": "San Sai",
+        "slug": "san-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "50210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.896",
+    "lon": "99.080"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-len-501411/"
+  }
+}

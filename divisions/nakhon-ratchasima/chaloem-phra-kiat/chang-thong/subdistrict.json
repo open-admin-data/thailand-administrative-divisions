@@ -1,0 +1,61 @@
+{
+  "id": "303201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ช้างทอง",
+    "en": "Chang Thong",
+    "slug": "chang-thong"
+  },
+  "code": {
+    "dopa": "303201"
+  },
+  "parent": {
+    "id": "3032",
+    "level": 2,
+    "name": {
+      "th": "เฉลิมพระเกียรติ",
+      "en": "Chaloem Phra Kiat",
+      "slug": "chaloem-phra-kiat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3032",
+      "level": 2,
+      "name": {
+        "th": "เฉลิมพระเกียรติ",
+        "en": "Chaloem Phra Kiat",
+        "slug": "chaloem-phra-kiat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "30230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.029",
+    "lon": "102.310"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chang-thong-303201/"
+  }
+}

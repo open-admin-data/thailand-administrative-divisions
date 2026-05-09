@@ -1,0 +1,61 @@
+{
+  "id": "101302",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง สัมพันธวงศ์",
+    "en": "Samphanthawong",
+    "slug": "samphanthawong"
+  },
+  "code": {
+    "dopa": "101302"
+  },
+  "parent": {
+    "id": "1013",
+    "level": 2,
+    "name": {
+      "th": "เขต สัมพันธวงศ์",
+      "en": "Samphanthawong",
+      "slug": "samphanthawong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1013",
+      "level": 2,
+      "name": {
+        "th": "เขต สัมพันธวงศ์",
+        "en": "Samphanthawong",
+        "slug": "samphanthawong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10100"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.739",
+    "lon": "100.511"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samphanthawong-101302/"
+  }
+}

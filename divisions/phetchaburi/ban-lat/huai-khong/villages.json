@@ -1,0 +1,185 @@
+[
+  {
+    "id": "76061501",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านห้วยข้อง",
+      "en": "Ban Huai Khong",
+      "slug": "76061501"
+    },
+    "code": {
+      "dopa": "76061501"
+    },
+    "parent": {
+      "id": "760615",
+      "level": 3,
+      "name": {
+        "th": "ห้วยข้อง",
+        "en": "Huai Khong",
+        "slug": "huai-khong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "th": "เพชรบุรี",
+          "en": "Phetchaburi",
+          "slug": "phetchaburi"
+        }
+      },
+      {
+        "id": "7606",
+        "level": 2,
+        "name": {
+          "th": "บ้านลาด",
+          "en": "Ban Lat",
+          "slug": "ban-lat"
+        }
+      },
+      {
+        "id": "760615",
+        "level": 3,
+        "name": {
+          "th": "ห้วยข้อง",
+          "en": "Huai Khong",
+          "slug": "huai-khong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.053348034336272",
+      "lon": "99.85309481620789"
+    },
+    "source": {}
+  },
+  {
+    "id": "76061502",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเหียงค่อม",
+      "en": "Ban Hiang Khom",
+      "slug": "76061502"
+    },
+    "code": {
+      "dopa": "76061502"
+    },
+    "parent": {
+      "id": "760615",
+      "level": 3,
+      "name": {
+        "th": "ห้วยข้อง",
+        "en": "Huai Khong",
+        "slug": "huai-khong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "th": "เพชรบุรี",
+          "en": "Phetchaburi",
+          "slug": "phetchaburi"
+        }
+      },
+      {
+        "id": "7606",
+        "level": 2,
+        "name": {
+          "th": "บ้านลาด",
+          "en": "Ban Lat",
+          "slug": "ban-lat"
+        }
+      },
+      {
+        "id": "760615",
+        "level": 3,
+        "name": {
+          "th": "ห้วยข้อง",
+          "en": "Huai Khong",
+          "slug": "huai-khong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.664359286202862",
+      "lon": "100.5231012403965"
+    },
+    "source": {}
+  },
+  {
+    "id": "76061503",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองโสน",
+      "en": "Ban Nong Sano",
+      "slug": "76061503"
+    },
+    "code": {
+      "dopa": "76061503"
+    },
+    "parent": {
+      "id": "760615",
+      "level": 3,
+      "name": {
+        "th": "ห้วยข้อง",
+        "en": "Huai Khong",
+        "slug": "huai-khong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "th": "เพชรบุรี",
+          "en": "Phetchaburi",
+          "slug": "phetchaburi"
+        }
+      },
+      {
+        "id": "7606",
+        "level": 2,
+        "name": {
+          "th": "บ้านลาด",
+          "en": "Ban Lat",
+          "slug": "ban-lat"
+        }
+      },
+      {
+        "id": "760615",
+        "level": 3,
+        "name": {
+          "th": "ห้วยข้อง",
+          "en": "Huai Khong",
+          "slug": "huai-khong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.033368984248689",
+      "lon": "99.83851298689842"
+    },
+    "source": {}
+  }
+]

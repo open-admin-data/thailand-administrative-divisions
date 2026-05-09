@@ -1,0 +1,50 @@
+{
+  "id": "6205",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "คลองขลุง",
+    "en": "Khlong Khlung",
+    "slug": "khlong-khlung"
+  },
+  "code": {
+    "dopa": "6205"
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "th": "กำแพงเพชร",
+      "en": "Kamphaeng Phet",
+      "slug": "kamphaeng-phet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 103
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.269",
+    "lon": "99.679"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khlong-khlung-6205/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "460402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สามัคคี",
+    "en": "Samakkhi",
+    "slug": "samakkhi"
+  },
+  "code": {
+    "dopa": "460402"
+  },
+  "parent": {
+    "id": "4604",
+    "level": 2,
+    "name": {
+      "th": "ร่องคำ",
+      "en": "Rong Kham",
+      "slug": "rong-kham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4604",
+      "level": 2,
+      "name": {
+        "th": "ร่องคำ",
+        "en": "Rong Kham",
+        "slug": "rong-kham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "46210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.318",
+    "lon": "103.713"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samakkhi-460402/"
+  }
+}

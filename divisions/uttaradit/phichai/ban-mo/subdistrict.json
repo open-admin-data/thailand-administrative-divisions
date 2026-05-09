@@ -1,0 +1,61 @@
+{
+  "id": "530706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านหม้อ",
+    "en": "Ban Mo",
+    "slug": "ban-mo"
+  },
+  "code": {
+    "dopa": "530706"
+  },
+  "parent": {
+    "id": "5307",
+    "level": 2,
+    "name": {
+      "th": "พิชัย",
+      "en": "Phichai",
+      "slug": "phichai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5307",
+      "level": 2,
+      "name": {
+        "th": "พิชัย",
+        "en": "Phichai",
+        "slug": "phichai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "53120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.256",
+    "lon": "100.123"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-mo-530706/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "421204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนป่าซาง",
+    "en": "Non Pa Sang",
+    "slug": "non-pa-sang"
+  },
+  "code": {
+    "dopa": "421204"
+  },
+  "parent": {
+    "id": "4212",
+    "level": 2,
+    "name": {
+      "th": "ผาขาว",
+      "en": "Pha Khao",
+      "slug": "pha-khao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4212",
+      "level": 2,
+      "name": {
+        "th": "ผาขาว",
+        "en": "Pha Khao",
+        "slug": "pha-khao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "42240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.102",
+    "lon": "102.052"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-pa-sang-421204/"
+  }
+}

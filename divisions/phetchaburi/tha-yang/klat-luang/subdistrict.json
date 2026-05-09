@@ -1,0 +1,61 @@
+{
+  "id": "760511",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กลัดหลวง",
+    "en": "Klat Luang",
+    "slug": "klat-luang"
+  },
+  "code": {
+    "dopa": "760511"
+  },
+  "parent": {
+    "id": "7605",
+    "level": 2,
+    "name": {
+      "th": "ท่ายาง",
+      "en": "Tha Yang",
+      "slug": "tha-yang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7605",
+      "level": 2,
+      "name": {
+        "th": "ท่ายาง",
+        "en": "Tha Yang",
+        "slug": "tha-yang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "76130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.801",
+    "lon": "99.732"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/klat-luang-760511/"
+  }
+}

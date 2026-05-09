@@ -1,0 +1,61 @@
+{
+  "id": "310203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านแพ",
+    "en": "Ban Phae",
+    "slug": "ban-phae"
+  },
+  "code": {
+    "dopa": "310203"
+  },
+  "parent": {
+    "id": "3102",
+    "level": 2,
+    "name": {
+      "th": "คูเมือง",
+      "en": "Khu Mueang",
+      "slug": "khu-mueang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3102",
+      "level": 2,
+      "name": {
+        "th": "คูเมือง",
+        "en": "Khu Mueang",
+        "slug": "khu-mueang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "31190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.388",
+    "lon": "103.008"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-phae-310203/"
+  }
+}

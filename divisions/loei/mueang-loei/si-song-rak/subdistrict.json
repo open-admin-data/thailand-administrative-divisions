@@ -1,0 +1,61 @@
+{
+  "id": "420113",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีสองรัก",
+    "en": "Si Song Rak",
+    "slug": "si-song-rak"
+  },
+  "code": {
+    "dopa": "420113"
+  },
+  "parent": {
+    "id": "4201",
+    "level": 2,
+    "name": {
+      "th": "เมืองเลย",
+      "en": "Mueang Loei",
+      "slug": "mueang-loei"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4201",
+      "level": 2,
+      "name": {
+        "th": "เมืองเลย",
+        "en": "Mueang Loei",
+        "slug": "mueang-loei"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "42100"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.642",
+    "lon": "101.769"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-song-rak-420113/"
+  }
+}

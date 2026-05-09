@@ -1,0 +1,61 @@
+{
+  "id": "920407",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านนา",
+    "en": "Ban Na",
+    "slug": "ban-na"
+  },
+  "code": {
+    "dopa": "920407"
+  },
+  "parent": {
+    "id": "9204",
+    "level": 2,
+    "name": {
+      "th": "ปะเหลียน",
+      "en": "Palian",
+      "slug": "palian"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9204",
+      "level": 2,
+      "name": {
+        "th": "ปะเหลียน",
+        "en": "Palian",
+        "slug": "palian"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "92140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.302",
+    "lon": "99.699"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-na-920407/"
+  }
+}

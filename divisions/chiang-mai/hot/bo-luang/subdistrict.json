@@ -1,0 +1,61 @@
+{
+  "id": "501604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อหลวง",
+    "en": "Bo Luang",
+    "slug": "bo-luang"
+  },
+  "code": {
+    "dopa": "501604"
+  },
+  "parent": {
+    "id": "5016",
+    "level": 2,
+    "name": {
+      "th": "ฮอด",
+      "en": "Hot",
+      "slug": "hot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5016",
+      "level": 2,
+      "name": {
+        "th": "ฮอด",
+        "en": "Hot",
+        "slug": "hot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "50240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.158",
+    "lon": "98.379"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-luang-501604/"
+  }
+}

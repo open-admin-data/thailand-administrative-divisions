@@ -1,0 +1,50 @@
+{
+  "id": "6011",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ลาดยาว",
+    "en": "Lat Yao",
+    "slug": "lat-yao"
+  },
+  "code": {
+    "dopa": "6011"
+  },
+  "parent": {
+    "id": "60",
+    "level": 1,
+    "name": {
+      "th": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 149
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.726",
+    "lon": "99.824"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/lat-yao-6011/"
+  }
+}

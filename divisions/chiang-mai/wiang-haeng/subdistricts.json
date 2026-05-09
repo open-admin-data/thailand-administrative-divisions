@@ -1,0 +1,185 @@
+[
+  {
+    "id": "502001",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เมืองแหง",
+      "en": "Mueang Haeng",
+      "slug": "mueang-haeng"
+    },
+    "code": {
+      "dopa": "502001"
+    },
+    "parent": {
+      "id": "5020",
+      "level": 2,
+      "name": {
+        "th": "เวียงแหง",
+        "en": "Wiang Haeng",
+        "slug": "wiang-haeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5020",
+        "level": 2,
+        "name": {
+          "th": "เวียงแหง",
+          "en": "Wiang Haeng",
+          "slug": "wiang-haeng"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 12
+    },
+    "zip_codes": [
+      "50350"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "19.515",
+      "lon": "98.639"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/mueang-haeng-502001/"
+    }
+  },
+  {
+    "id": "502002",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เปียงหลวง",
+      "en": "Piang Luang",
+      "slug": "piang-luang"
+    },
+    "code": {
+      "dopa": "502002"
+    },
+    "parent": {
+      "id": "5020",
+      "level": 2,
+      "name": {
+        "th": "เวียงแหง",
+        "en": "Wiang Haeng",
+        "slug": "wiang-haeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5020",
+        "level": 2,
+        "name": {
+          "th": "เวียงแหง",
+          "en": "Wiang Haeng",
+          "slug": "wiang-haeng"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "50350"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "19.692",
+      "lon": "98.693"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/piang-luang-502002/"
+    }
+  },
+  {
+    "id": "502003",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แสนไห",
+      "en": "Saen Hai",
+      "slug": "saen-hai"
+    },
+    "code": {
+      "dopa": "502003"
+    },
+    "parent": {
+      "id": "5020",
+      "level": 2,
+      "name": {
+        "th": "เวียงแหง",
+        "en": "Wiang Haeng",
+        "slug": "wiang-haeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5020",
+        "level": 2,
+        "name": {
+          "th": "เวียงแหง",
+          "en": "Wiang Haeng",
+          "slug": "wiang-haeng"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 5
+    },
+    "zip_codes": [
+      "50350"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "19.615",
+      "lon": "98.632"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/saen-hai-502003/"
+    }
+  }
+]

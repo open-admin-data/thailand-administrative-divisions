@@ -1,0 +1,61 @@
+{
+  "id": "120306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านใหม่",
+    "en": "Ban Mai",
+    "slug": "ban-mai"
+  },
+  "code": {
+    "dopa": "120306"
+  },
+  "parent": {
+    "id": "1203",
+    "level": 2,
+    "name": {
+      "th": "บางใหญ่",
+      "en": "Bang Yai",
+      "slug": "bang-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1203",
+      "level": 2,
+      "name": {
+        "th": "บางใหญ่",
+        "en": "Bang Yai",
+        "slug": "bang-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "11140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.861",
+    "lon": "100.333"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-mai-120306/"
+  }
+}

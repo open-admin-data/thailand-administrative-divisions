@@ -1,0 +1,61 @@
+{
+  "id": "770802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศิลาลอย",
+    "en": "Sila Loi",
+    "slug": "sila-loi"
+  },
+  "code": {
+    "dopa": "770802"
+  },
+  "parent": {
+    "id": "7708",
+    "level": 2,
+    "name": {
+      "th": "สามร้อยยอด",
+      "en": "Sam Roi Yot",
+      "slug": "sam-roi-yot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    },
+    {
+      "id": "7708",
+      "level": 2,
+      "name": {
+        "th": "สามร้อยยอด",
+        "en": "Sam Roi Yot",
+        "slug": "sam-roi-yot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "77180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.309",
+    "lon": "99.560"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sila-loi-770802/"
+  }
+}

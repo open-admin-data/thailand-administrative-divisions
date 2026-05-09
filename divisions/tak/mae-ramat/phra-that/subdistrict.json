@@ -1,0 +1,61 @@
+{
+  "id": "630406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พระธาตุ",
+    "en": "Phra That",
+    "slug": "phra-that"
+  },
+  "code": {
+    "dopa": "630406"
+  },
+  "parent": {
+    "id": "6304",
+    "level": 2,
+    "name": {
+      "th": "แม่ระมาด",
+      "en": "Mae Ramat",
+      "slug": "mae-ramat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6304",
+      "level": 2,
+      "name": {
+        "th": "แม่ระมาด",
+        "en": "Mae Ramat",
+        "slug": "mae-ramat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "63140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.004",
+    "lon": "98.668"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phra-that-630406/"
+  }
+}

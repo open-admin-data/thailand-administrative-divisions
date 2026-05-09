@@ -1,0 +1,50 @@
+{
+  "id": "8201",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองพังงา",
+    "en": "Mueang Phang-nga",
+    "slug": "mueang-phang-nga"
+  },
+  "code": {
+    "dopa": "8201"
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "th": "พังงา",
+      "en": "Phangnga",
+      "slug": "phangnga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 51
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.446",
+    "lon": "98.524"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-phang-nga-8201/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "5701",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองเชียงราย",
+    "en": "Mueang Chiang Rai",
+    "slug": "mueang-chiang-rai"
+  },
+  "code": {
+    "dopa": "5701"
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 15,
+    "villages": 282
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.907",
+    "lon": "99.832"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-chiang-rai-5701/"
+  }
+}

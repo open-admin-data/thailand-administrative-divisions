@@ -1,0 +1,61 @@
+{
+  "id": "140309",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองปลิง",
+    "en": "Nong Pling",
+    "slug": "nong-pling"
+  },
+  "code": {
+    "dopa": "140309"
+  },
+  "parent": {
+    "id": "1403",
+    "level": 2,
+    "name": {
+      "th": "นครหลวง",
+      "en": "Nakhon Luang",
+      "slug": "nakhon-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "th": "นครหลวง",
+        "en": "Nakhon Luang",
+        "slug": "nakhon-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "13260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.423",
+    "lon": "100.640"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-pling-140309/"
+  }
+}

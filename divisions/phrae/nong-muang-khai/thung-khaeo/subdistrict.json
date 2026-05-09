@@ -1,0 +1,61 @@
+{
+  "id": "540806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งแค้ว",
+    "en": "Thung Khaeo",
+    "slug": "thung-khaeo"
+  },
+  "code": {
+    "dopa": "540806"
+  },
+  "parent": {
+    "id": "5408",
+    "level": 2,
+    "name": {
+      "th": "หนองม่วงไข่",
+      "en": "Nong Muang Khai",
+      "slug": "nong-muang-khai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    {
+      "id": "5408",
+      "level": 2,
+      "name": {
+        "th": "หนองม่วงไข่",
+        "en": "Nong Muang Khai",
+        "slug": "nong-muang-khai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "54170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.320",
+    "lon": "100.120"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-khaeo-540806/"
+  }
+}

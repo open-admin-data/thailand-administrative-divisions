@@ -1,0 +1,61 @@
+{
+  "id": "841402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พ่วงพรมคร",
+    "en": "Phuang Phromkhon",
+    "slug": "phuang-phromkhon"
+  },
+  "code": {
+    "dopa": "841402"
+  },
+  "parent": {
+    "id": "8414",
+    "level": 2,
+    "name": {
+      "th": "เคียนซา",
+      "en": "Khian Sa",
+      "slug": "khian-sa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8414",
+      "level": 2,
+      "name": {
+        "th": "เคียนซา",
+        "en": "Khian Sa",
+        "slug": "khian-sa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "84210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.665",
+    "lon": "99.227"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phuang-phromkhon-841402/"
+  }
+}

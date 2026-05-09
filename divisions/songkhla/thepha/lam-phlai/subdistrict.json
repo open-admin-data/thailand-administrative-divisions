@@ -1,0 +1,61 @@
+{
+  "id": "900504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลำไพล",
+    "en": "Lam Phlai",
+    "slug": "lam-phlai"
+  },
+  "code": {
+    "dopa": "900504"
+  },
+  "parent": {
+    "id": "9005",
+    "level": 2,
+    "name": {
+      "th": "เทพา",
+      "en": "Thepha",
+      "slug": "thepha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9005",
+      "level": 2,
+      "name": {
+        "th": "เทพา",
+        "en": "Thepha",
+        "slug": "thepha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "90260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.721",
+    "lon": "100.930"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lam-phlai-900504/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "480314",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองเทา",
+    "en": "Nong Thao",
+    "slug": "nong-thao"
+  },
+  "code": {
+    "dopa": "480314"
+  },
+  "parent": {
+    "id": "4803",
+    "level": 2,
+    "name": {
+      "th": "ท่าอุเทน",
+      "en": "Tha Uthen",
+      "slug": "tha-uthen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4803",
+      "level": 2,
+      "name": {
+        "th": "ท่าอุเทน",
+        "en": "Tha Uthen",
+        "slug": "tha-uthen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "48120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.783",
+    "lon": "104.352"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-thao-480314/"
+  }
+}

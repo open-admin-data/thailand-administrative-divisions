@@ -1,0 +1,61 @@
+{
+  "id": "660602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท้ายน้ำ",
+    "en": "Thai Nam",
+    "slug": "thai-nam"
+  },
+  "code": {
+    "dopa": "660602"
+  },
+  "parent": {
+    "id": "6606",
+    "level": 2,
+    "name": {
+      "th": "โพทะเล",
+      "en": "Pho Thale",
+      "slug": "pho-thale"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6606",
+      "level": 2,
+      "name": {
+        "th": "โพทะเล",
+        "en": "Pho Thale",
+        "slug": "pho-thale"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "66130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.147",
+    "lon": "100.207"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thai-nam-660602/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "502402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สองแคว",
+    "en": "Song Khwae",
+    "slug": "song-khwae"
+  },
+  "code": {
+    "dopa": "502402"
+  },
+  "parent": {
+    "id": "5024",
+    "level": 2,
+    "name": {
+      "th": "ดอยหล่อ",
+      "en": "Doi Lo",
+      "slug": "doi-lo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5024",
+      "level": 2,
+      "name": {
+        "th": "ดอยหล่อ",
+        "en": "Doi Lo",
+        "slug": "doi-lo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "50160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.504",
+    "lon": "98.841"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/song-khwae-502402/"
+  }
+}

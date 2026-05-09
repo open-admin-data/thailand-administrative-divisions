@@ -1,0 +1,61 @@
+{
+  "id": "501408",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองหาร",
+    "en": "Nong Han",
+    "slug": "nong-han"
+  },
+  "code": {
+    "dopa": "501408"
+  },
+  "parent": {
+    "id": "5014",
+    "level": 2,
+    "name": {
+      "th": "สันทราย",
+      "en": "San Sai",
+      "slug": "san-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5014",
+      "level": 2,
+      "name": {
+        "th": "สันทราย",
+        "en": "San Sai",
+        "slug": "san-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "50290"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.930",
+    "lon": "99.014"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-han-501408/"
+  }
+}

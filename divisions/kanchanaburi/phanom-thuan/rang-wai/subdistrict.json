@@ -1,0 +1,61 @@
+{
+  "id": "710906",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "รางหวาย",
+    "en": "Rang Wai",
+    "slug": "rang-wai"
+  },
+  "code": {
+    "dopa": "710906"
+  },
+  "parent": {
+    "id": "7109",
+    "level": 2,
+    "name": {
+      "th": "พนมทวน",
+      "en": "Phanom Thuan",
+      "slug": "phanom-thuan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7109",
+      "level": 2,
+      "name": {
+        "th": "พนมทวน",
+        "en": "Phanom Thuan",
+        "slug": "phanom-thuan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 23
+  },
+  "zip_codes": [
+    "71170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.232",
+    "lon": "99.767"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rang-wai-710906/"
+  }
+}

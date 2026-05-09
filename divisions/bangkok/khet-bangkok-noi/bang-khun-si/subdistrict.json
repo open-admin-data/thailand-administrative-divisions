@@ -1,0 +1,61 @@
+{
+  "id": "102007",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง บางขุนศรี",
+    "en": "Bang Khun Si",
+    "slug": "bang-khun-si"
+  },
+  "code": {
+    "dopa": "102007"
+  },
+  "parent": {
+    "id": "1020",
+    "level": 2,
+    "name": {
+      "th": "เขต บางกอกน้อย",
+      "en": "Khet Bangkok Noi",
+      "slug": "khet-bangkok-noi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1020",
+      "level": 2,
+      "name": {
+        "th": "เขต บางกอกน้อย",
+        "en": "Khet Bangkok Noi",
+        "slug": "khet-bangkok-noi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10700"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.760",
+    "lon": "100.463"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-khun-si-102007/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "400108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สาวะถี",
+    "en": "Sawathi",
+    "slug": "sawathi"
+  },
+  "code": {
+    "dopa": "400108"
+  },
+  "parent": {
+    "id": "4001",
+    "level": 2,
+    "name": {
+      "th": "เมืองขอนแก่น",
+      "en": "Mueang Khon Kaen",
+      "slug": "mueang-khon-kaen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4001",
+      "level": 2,
+      "name": {
+        "th": "เมืองขอนแก่น",
+        "en": "Mueang Khon Kaen",
+        "slug": "mueang-khon-kaen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 24
+  },
+  "zip_codes": [
+    "40000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.538",
+    "lon": "102.684"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sawathi-400108/"
+  }
+}

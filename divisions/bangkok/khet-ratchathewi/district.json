@@ -1,0 +1,50 @@
+{
+  "id": "1037",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต ราชเทวี",
+    "en": "Khet Ratchathewi",
+    "slug": "khet-ratchathewi"
+  },
+  "code": {
+    "dopa": "1037"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.752",
+    "lon": "100.528"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khet-ratchathewi-1037/"
+  }
+}

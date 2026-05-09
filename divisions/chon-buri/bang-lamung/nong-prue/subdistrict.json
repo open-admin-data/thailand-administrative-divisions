@@ -1,0 +1,61 @@
+{
+  "id": "200402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองปรือ",
+    "en": "Nong Prue",
+    "slug": "nong-prue"
+  },
+  "code": {
+    "dopa": "200402"
+  },
+  "parent": {
+    "id": "2004",
+    "level": 2,
+    "name": {
+      "th": "บางละมุง",
+      "en": "Bang Lamung",
+      "slug": "bang-lamung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "th": "บางละมุง",
+        "en": "Bang Lamung",
+        "slug": "bang-lamung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 64
+  },
+  "zip_codes": [
+    "20150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.920",
+    "lon": "100.935"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-prue-200402/"
+  }
+}

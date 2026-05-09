@@ -1,0 +1,50 @@
+{
+  "id": "9204",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปะเหลียน",
+    "en": "Palian",
+    "slug": "palian"
+  },
+  "code": {
+    "dopa": "9204"
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "th": "ตรัง",
+      "en": "Trang",
+      "slug": "trang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 86
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.152",
+    "lon": "99.651"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/palian-9204/"
+  }
+}

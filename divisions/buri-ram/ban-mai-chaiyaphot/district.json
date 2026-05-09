@@ -1,0 +1,50 @@
+{
+  "id": "3119",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านใหม่ไชยพจน์",
+    "en": "Ban Mai Chaiyaphot",
+    "slug": "ban-mai-chaiyaphot"
+  },
+  "code": {
+    "dopa": "3119"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 55
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.534",
+    "lon": "102.860"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-mai-chaiyaphot-3119/"
+  }
+}

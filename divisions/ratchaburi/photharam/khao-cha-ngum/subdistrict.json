@@ -1,0 +1,61 @@
+{
+  "id": "700718",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาชะงุ้ม",
+    "en": "Khao Cha-ngum",
+    "slug": "khao-cha-ngum"
+  },
+  "code": {
+    "dopa": "700718"
+  },
+  "parent": {
+    "id": "7007",
+    "level": 2,
+    "name": {
+      "th": "โพธาราม",
+      "en": "Photharam",
+      "slug": "photharam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7007",
+      "level": 2,
+      "name": {
+        "th": "โพธาราม",
+        "en": "Photharam",
+        "slug": "photharam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "70120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.726",
+    "lon": "99.700"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-cha-ngum-700718/"
+  }
+}

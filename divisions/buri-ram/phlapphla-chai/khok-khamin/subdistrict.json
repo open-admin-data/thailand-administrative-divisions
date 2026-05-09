@@ -1,0 +1,61 @@
+{
+  "id": "311502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกขมิ้น",
+    "en": "Khok Khamin",
+    "slug": "khok-khamin"
+  },
+  "code": {
+    "dopa": "311502"
+  },
+  "parent": {
+    "id": "3115",
+    "level": 2,
+    "name": {
+      "th": "พลับพลาชัย",
+      "en": "Phlapphla Chai",
+      "slug": "phlapphla-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3115",
+      "level": 2,
+      "name": {
+        "th": "พลับพลาชัย",
+        "en": "Phlapphla Chai",
+        "slug": "phlapphla-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "31250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.769",
+    "lon": "103.193"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-khamin-311502/"
+  }
+}

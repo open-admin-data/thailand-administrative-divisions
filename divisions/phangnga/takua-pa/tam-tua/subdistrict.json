@@ -1,0 +1,61 @@
+{
+  "id": "820505",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตำตัว",
+    "en": "Tam Tua",
+    "slug": "tam-tua"
+  },
+  "code": {
+    "dopa": "820505"
+  },
+  "parent": {
+    "id": "8205",
+    "level": 2,
+    "name": {
+      "th": "ตะกั่วป่า",
+      "en": "Takua Pa",
+      "slug": "takua-pa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "th": "ตะกั่วป่า",
+        "en": "Takua Pa",
+        "slug": "takua-pa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "82110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.784",
+    "lon": "98.377"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tam-tua-820505/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "240901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แปลงยาว",
+    "en": "Plaeng Yao",
+    "slug": "plaeng-yao"
+  },
+  "code": {
+    "dopa": "240901"
+  },
+  "parent": {
+    "id": "2409",
+    "level": 2,
+    "name": {
+      "th": "แปลงยาว",
+      "en": "Plaeng Yao",
+      "slug": "plaeng-yao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2409",
+      "level": 2,
+      "name": {
+        "th": "แปลงยาว",
+        "en": "Plaeng Yao",
+        "slug": "plaeng-yao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "24190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.599",
+    "lon": "101.293"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/plaeng-yao-240901/"
+  }
+}

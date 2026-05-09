@@ -1,0 +1,50 @@
+{
+  "id": "4801",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองนครพนม",
+    "en": "Mueang Nakhon Phanom",
+    "slug": "mueang-nakhon-phanom"
+  },
+  "code": {
+    "dopa": "4801"
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "th": "นครพนม",
+      "en": "Nakhon Phanom",
+      "slug": "nakhon-phanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 14,
+    "villages": 183
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.409",
+    "lon": "104.781"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-nakhon-phanom-4801/"
+  }
+}

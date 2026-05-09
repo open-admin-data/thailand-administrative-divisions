@@ -1,0 +1,61 @@
+{
+  "id": "710510",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อุโลกสี่หมื่น",
+    "en": "Ulok Si Muen",
+    "slug": "ulok-si-muen"
+  },
+  "code": {
+    "dopa": "710510"
+  },
+  "parent": {
+    "id": "7105",
+    "level": 2,
+    "name": {
+      "th": "ท่ามะกา",
+      "en": "Tha Maka",
+      "slug": "tha-maka"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7105",
+      "level": 2,
+      "name": {
+        "th": "ท่ามะกา",
+        "en": "Tha Maka",
+        "slug": "tha-maka"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "71130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.060",
+    "lon": "99.773"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ulok-si-muen-710510/"
+  }
+}

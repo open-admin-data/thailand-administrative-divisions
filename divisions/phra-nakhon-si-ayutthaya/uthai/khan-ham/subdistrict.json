@@ -1,0 +1,61 @@
+{
+  "id": "141401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คานหาม",
+    "en": "Khan Ham",
+    "slug": "khan-ham"
+  },
+  "code": {
+    "dopa": "141401"
+  },
+  "parent": {
+    "id": "1414",
+    "level": 2,
+    "name": {
+      "th": "อุทัย",
+      "en": "Uthai",
+      "slug": "uthai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1414",
+      "level": 2,
+      "name": {
+        "th": "อุทัย",
+        "en": "Uthai",
+        "slug": "uthai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "13210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.335",
+    "lon": "100.641"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khan-ham-141401/"
+  }
+}

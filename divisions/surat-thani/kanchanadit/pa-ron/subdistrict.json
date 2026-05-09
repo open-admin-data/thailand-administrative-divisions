@@ -1,0 +1,61 @@
+{
+  "id": "840208",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าร่อน",
+    "en": "Pa Ron",
+    "slug": "pa-ron"
+  },
+  "code": {
+    "dopa": "840208"
+  },
+  "parent": {
+    "id": "8402",
+    "level": 2,
+    "name": {
+      "th": "กาญจนดิษฐ์",
+      "en": "Kanchanadit",
+      "slug": "kanchanadit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8402",
+      "level": 2,
+      "name": {
+        "th": "กาญจนดิษฐ์",
+        "en": "Kanchanadit",
+        "slug": "kanchanadit"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "84160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.970",
+    "lon": "99.521"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-ron-840208/"
+  }
+}

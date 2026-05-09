@@ -1,0 +1,61 @@
+{
+  "id": "810504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองหิน",
+    "en": "Khlong Hin",
+    "slug": "khlong-hin"
+  },
+  "code": {
+    "dopa": "810504"
+  },
+  "parent": {
+    "id": "8105",
+    "level": 2,
+    "name": {
+      "th": "อ่าวลึก",
+      "en": "Ao Luek",
+      "slug": "ao-luek"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8105",
+      "level": 2,
+      "name": {
+        "th": "อ่าวลึก",
+        "en": "Ao Luek",
+        "slug": "ao-luek"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "81110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.324",
+    "lon": "98.837"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-hin-810504/"
+  }
+}

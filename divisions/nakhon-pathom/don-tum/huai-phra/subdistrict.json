@@ -1,0 +1,61 @@
+{
+  "id": "730402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยพระ",
+    "en": "Huai Phra",
+    "slug": "huai-phra"
+  },
+  "code": {
+    "dopa": "730402"
+  },
+  "parent": {
+    "id": "7304",
+    "level": 2,
+    "name": {
+      "th": "ดอนตูม",
+      "en": "Don Tum",
+      "slug": "don-tum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7304",
+      "level": 2,
+      "name": {
+        "th": "ดอนตูม",
+        "en": "Don Tum",
+        "slug": "don-tum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "73150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.930",
+    "lon": "100.084"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-phra-730402/"
+  }
+}

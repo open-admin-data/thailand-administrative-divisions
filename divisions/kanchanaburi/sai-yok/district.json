@@ -1,0 +1,50 @@
+{
+  "id": "7102",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ไทรโยค",
+    "en": "Sai Yok",
+    "slug": "sai-yok"
+  },
+  "code": {
+    "dopa": "7102"
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "th": "กาญจนบุรี",
+      "en": "Kanchanaburi",
+      "slug": "kanchanaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 57
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.035",
+    "lon": "99.287"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sai-yok-7102/"
+  }
+}

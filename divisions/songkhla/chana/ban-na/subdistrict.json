@@ -1,0 +1,61 @@
+{
+  "id": "900301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านนา",
+    "en": "Ban Na",
+    "slug": "ban-na"
+  },
+  "code": {
+    "dopa": "900301"
+  },
+  "parent": {
+    "id": "9003",
+    "level": 2,
+    "name": {
+      "th": "จะนะ",
+      "en": "Chana",
+      "slug": "chana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "th": "จะนะ",
+        "en": "Chana",
+        "slug": "chana"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "90130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.901",
+    "lon": "100.742"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-na-900301/"
+  }
+}

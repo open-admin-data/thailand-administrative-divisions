@@ -1,0 +1,61 @@
+{
+  "id": "500206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านแปะ",
+    "en": "Ban Pae",
+    "slug": "ban-pae"
+  },
+  "code": {
+    "dopa": "500206"
+  },
+  "parent": {
+    "id": "5002",
+    "level": 2,
+    "name": {
+      "th": "จอมทอง",
+      "en": "Chom Thong",
+      "slug": "chom-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5002",
+      "level": 2,
+      "name": {
+        "th": "จอมทอง",
+        "en": "Chom Thong",
+        "slug": "chom-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "50240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.256",
+    "lon": "98.565"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-pae-500206/"
+  }
+}

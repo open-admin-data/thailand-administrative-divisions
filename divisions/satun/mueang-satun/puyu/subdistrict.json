@@ -1,0 +1,61 @@
+{
+  "id": "910110",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปูยู",
+    "en": "Puyu",
+    "slug": "puyu"
+  },
+  "code": {
+    "dopa": "910110"
+  },
+  "parent": {
+    "id": "9101",
+    "level": 2,
+    "name": {
+      "th": "เมืองสตูล",
+      "en": "Mueang Satun",
+      "slug": "mueang-satun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    },
+    {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสตูล",
+        "en": "Mueang Satun",
+        "slug": "mueang-satun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 3
+  },
+  "zip_codes": [
+    "91000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.517",
+    "lon": "100.124"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/puyu-910110/"
+  }
+}

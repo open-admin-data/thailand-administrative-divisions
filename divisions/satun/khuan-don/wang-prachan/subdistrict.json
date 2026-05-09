@@ -1,0 +1,61 @@
+{
+  "id": "910204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังประจัน",
+    "en": "Wang Prachan",
+    "slug": "wang-prachan"
+  },
+  "code": {
+    "dopa": "910204"
+  },
+  "parent": {
+    "id": "9102",
+    "level": 2,
+    "name": {
+      "th": "ควนโดน",
+      "en": "Khuan Don",
+      "slug": "khuan-don"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    },
+    {
+      "id": "9102",
+      "level": 2,
+      "name": {
+        "th": "ควนโดน",
+        "en": "Khuan Don",
+        "slug": "khuan-don"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "91160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.753",
+    "lon": "100.160"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-prachan-910204/"
+  }
+}

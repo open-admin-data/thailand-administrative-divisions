@@ -1,0 +1,61 @@
+{
+  "id": "250809",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หาดยาง",
+    "en": "Hat Yang",
+    "slug": "hat-yang"
+  },
+  "code": {
+    "dopa": "250809"
+  },
+  "parent": {
+    "id": "2508",
+    "level": 2,
+    "name": {
+      "th": "ศรีมหาโพธิ",
+      "en": "Si Maha Phot",
+      "slug": "si-maha-phot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "th": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri"
+      }
+    },
+    {
+      "id": "2508",
+      "level": 2,
+      "name": {
+        "th": "ศรีมหาโพธิ",
+        "en": "Si Maha Phot",
+        "slug": "si-maha-phot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "25140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.988",
+    "lon": "101.432"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hat-yang-250809/"
+  }
+}

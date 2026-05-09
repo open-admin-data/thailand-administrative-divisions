@@ -1,0 +1,61 @@
+{
+  "id": "550909",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พระพุทธบาท",
+    "en": "Phra Phutthabat",
+    "slug": "phra-phutthabat"
+  },
+  "code": {
+    "dopa": "550909"
+  },
+  "parent": {
+    "id": "5509",
+    "level": 2,
+    "name": {
+      "th": "เชียงกลาง",
+      "en": "Chiang Klang",
+      "slug": "chiang-klang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5509",
+      "level": 2,
+      "name": {
+        "th": "เชียงกลาง",
+        "en": "Chiang Klang",
+        "slug": "chiang-klang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "55160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.258",
+    "lon": "100.814"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phra-phutthabat-550909/"
+  }
+}

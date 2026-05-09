@@ -1,0 +1,61 @@
+{
+  "id": "510106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ริมปิง",
+    "en": "Rim Ping",
+    "slug": "rim-ping"
+  },
+  "code": {
+    "dopa": "510106"
+  },
+  "parent": {
+    "id": "5101",
+    "level": 2,
+    "name": {
+      "th": "เมืองลำพูน",
+      "en": "Mueang Lamphun",
+      "slug": "mueang-lamphun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5101",
+      "level": 2,
+      "name": {
+        "th": "เมืองลำพูน",
+        "en": "Mueang Lamphun",
+        "slug": "mueang-lamphun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "51000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.598",
+    "lon": "98.984"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rim-ping-510106/"
+  }
+}

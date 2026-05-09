@@ -1,0 +1,61 @@
+{
+  "id": "240214",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวไทร",
+    "en": "Hua Sai",
+    "slug": "hua-sai"
+  },
+  "code": {
+    "dopa": "240214"
+  },
+  "parent": {
+    "id": "2402",
+    "level": 2,
+    "name": {
+      "th": "บางคล้า",
+      "en": "Bang Khla",
+      "slug": "bang-khla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2402",
+      "level": 2,
+      "name": {
+        "th": "บางคล้า",
+        "en": "Bang Khla",
+        "slug": "bang-khla"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "24110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.799",
+    "lon": "101.221"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-sai-240214/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "700122",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านไร่",
+    "en": "Ban Rai",
+    "slug": "ban-rai"
+  },
+  "code": {
+    "dopa": "700122"
+  },
+  "parent": {
+    "id": "7001",
+    "level": 2,
+    "name": {
+      "th": "เมืองราชบุรี",
+      "en": "Mueang Ratchaburi",
+      "slug": "mueang-ratchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7001",
+      "level": 2,
+      "name": {
+        "th": "เมืองราชบุรี",
+        "en": "Mueang Ratchaburi",
+        "slug": "mueang-ratchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "70000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.511",
+    "lon": "99.845"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-rai-700122/"
+  }
+}

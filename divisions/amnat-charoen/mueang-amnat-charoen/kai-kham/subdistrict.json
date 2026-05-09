@@ -1,0 +1,61 @@
+{
+  "id": "370102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไก่คำ",
+    "en": "Kai Kham",
+    "slug": "kai-kham"
+  },
+  "code": {
+    "dopa": "370102"
+  },
+  "parent": {
+    "id": "3701",
+    "level": 2,
+    "name": {
+      "th": "เมืองอำนาจเจริญ",
+      "en": "Mueang Amnat Charoen",
+      "slug": "mueang-amnat-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    {
+      "id": "3701",
+      "level": 2,
+      "name": {
+        "th": "เมืองอำนาจเจริญ",
+        "en": "Mueang Amnat Charoen",
+        "slug": "mueang-amnat-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "37000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.804",
+    "lon": "104.640"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kai-kham-370102/"
+  }
+}

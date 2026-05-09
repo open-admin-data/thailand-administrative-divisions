@@ -1,0 +1,50 @@
+{
+  "id": "4105",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โนนสะอาด",
+    "en": "Non Sa-at",
+    "slug": "non-sa-at"
+  },
+  "code": {
+    "dopa": "4105"
+  },
+  "parent": {
+    "id": "41",
+    "level": 1,
+    "name": {
+      "th": "อุดรธานี",
+      "en": "Udon Thani",
+      "slug": "udon-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 66
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.977",
+    "lon": "102.902"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/non-sa-at-4105/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "920105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านควน",
+    "en": "Ban Khuan",
+    "slug": "ban-khuan"
+  },
+  "code": {
+    "dopa": "920105"
+  },
+  "parent": {
+    "id": "9201",
+    "level": 2,
+    "name": {
+      "th": "เมืองตรัง",
+      "en": "Mueang Trang",
+      "slug": "mueang-trang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9201",
+      "level": 2,
+      "name": {
+        "th": "เมืองตรัง",
+        "en": "Mueang Trang",
+        "slug": "mueang-trang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "92000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.529",
+    "lon": "99.636"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-khuan-920105/"
+  }
+}

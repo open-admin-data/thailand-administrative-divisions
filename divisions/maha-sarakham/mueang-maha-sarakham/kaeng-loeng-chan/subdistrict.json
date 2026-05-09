@@ -1,0 +1,61 @@
+{
+  "id": "440108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แก่งเลิงจาน",
+    "en": "Kaeng Loeng Chan",
+    "slug": "kaeng-loeng-chan"
+  },
+  "code": {
+    "dopa": "440108"
+  },
+  "parent": {
+    "id": "4401",
+    "level": 2,
+    "name": {
+      "th": "เมืองมหาสารคาม",
+      "en": "Mueang Maha Sarakham",
+      "slug": "mueang-maha-sarakham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4401",
+      "level": 2,
+      "name": {
+        "th": "เมืองมหาสารคาม",
+        "en": "Mueang Maha Sarakham",
+        "slug": "mueang-maha-sarakham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "44000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.139",
+    "lon": "103.226"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kaeng-loeng-chan-440108/"
+  }
+}

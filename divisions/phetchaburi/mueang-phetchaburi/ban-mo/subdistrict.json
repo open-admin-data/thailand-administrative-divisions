@@ -1,0 +1,61 @@
+{
+  "id": "760111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านหม้อ",
+    "en": "Ban Mo",
+    "slug": "ban-mo"
+  },
+  "code": {
+    "dopa": "760111"
+  },
+  "parent": {
+    "id": "7601",
+    "level": 2,
+    "name": {
+      "th": "เมืองเพชรบุรี",
+      "en": "Mueang Phetchaburi",
+      "slug": "mueang-phetchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7601",
+      "level": 2,
+      "name": {
+        "th": "เมืองเพชรบุรี",
+        "en": "Mueang Phetchaburi",
+        "slug": "mueang-phetchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "76000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.092",
+    "lon": "99.932"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-mo-760111/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "560310",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ร่มเย็น",
+    "en": "Rom Yen",
+    "slug": "rom-yen"
+  },
+  "code": {
+    "dopa": "560310"
+  },
+  "parent": {
+    "id": "5603",
+    "level": 2,
+    "name": {
+      "th": "เชียงคำ",
+      "en": "Chiang Kham",
+      "slug": "chiang-kham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5603",
+      "level": 2,
+      "name": {
+        "th": "เชียงคำ",
+        "en": "Chiang Kham",
+        "slug": "chiang-kham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 22
+  },
+  "zip_codes": [
+    "56110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.517",
+    "lon": "100.406"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rom-yen-560310/"
+  }
+}

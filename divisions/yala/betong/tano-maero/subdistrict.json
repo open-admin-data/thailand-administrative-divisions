@@ -1,0 +1,61 @@
+{
+  "id": "950203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตาเนาะแมเราะ",
+    "en": "Tano Maero",
+    "slug": "tano-maero"
+  },
+  "code": {
+    "dopa": "950203"
+  },
+  "parent": {
+    "id": "9502",
+    "level": 2,
+    "name": {
+      "th": "เบตง",
+      "en": "Betong",
+      "slug": "betong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9502",
+      "level": 2,
+      "name": {
+        "th": "เบตง",
+        "en": "Betong",
+        "slug": "betong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "95110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "5.853",
+    "lon": "101.099"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tano-maero-950203/"
+  }
+}

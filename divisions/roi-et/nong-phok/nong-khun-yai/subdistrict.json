@@ -1,0 +1,61 @@
+{
+  "id": "450906",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองขุ่นใหญ่",
+    "en": "Nong Khun Yai",
+    "slug": "nong-khun-yai"
+  },
+  "code": {
+    "dopa": "450906"
+  },
+  "parent": {
+    "id": "4509",
+    "level": 2,
+    "name": {
+      "th": "หนองพอก",
+      "en": "Nong Phok",
+      "slug": "nong-phok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4509",
+      "level": 2,
+      "name": {
+        "th": "หนองพอก",
+        "en": "Nong Phok",
+        "slug": "nong-phok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "45210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.234",
+    "lon": "104.146"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-khun-yai-450906/"
+  }
+}

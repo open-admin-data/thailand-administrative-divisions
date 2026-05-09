@@ -1,0 +1,61 @@
+{
+  "id": "560902",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงเจน",
+    "en": "Dong Chen",
+    "slug": "dong-chen"
+  },
+  "code": {
+    "dopa": "560902"
+  },
+  "parent": {
+    "id": "5609",
+    "level": 2,
+    "name": {
+      "th": "ภูกามยาว",
+      "en": "Phu Kamyao",
+      "slug": "phu-kamyao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5609",
+      "level": 2,
+      "name": {
+        "th": "ภูกามยาว",
+        "en": "Phu Kamyao",
+        "slug": "phu-kamyao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "56000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.240",
+    "lon": "99.952"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-chen-560902/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "120106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางไผ่",
+    "en": "Bang Phai",
+    "slug": "bang-phai"
+  },
+  "code": {
+    "dopa": "120106"
+  },
+  "parent": {
+    "id": "1201",
+    "level": 2,
+    "name": {
+      "th": "เมืองนนทบุรี",
+      "en": "Mueang Nonthaburi",
+      "slug": "mueang-nonthaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "th": "เมืองนนทบุรี",
+        "en": "Mueang Nonthaburi",
+        "slug": "mueang-nonthaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "11000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.823",
+    "lon": "100.492"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-phai-120106/"
+  }
+}

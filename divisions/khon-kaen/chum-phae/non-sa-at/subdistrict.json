@@ -1,0 +1,61 @@
+{
+  "id": "400512",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนสะอาด",
+    "en": "Non Sa-at",
+    "slug": "non-sa-at"
+  },
+  "code": {
+    "dopa": "400512"
+  },
+  "parent": {
+    "id": "4005",
+    "level": 2,
+    "name": {
+      "th": "ชุมแพ",
+      "en": "Chum Phae",
+      "slug": "chum-phae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4005",
+      "level": 2,
+      "name": {
+        "th": "ชุมแพ",
+        "en": "Chum Phae",
+        "slug": "chum-phae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "40290"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.576",
+    "lon": "101.999"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-sa-at-400512/"
+  }
+}

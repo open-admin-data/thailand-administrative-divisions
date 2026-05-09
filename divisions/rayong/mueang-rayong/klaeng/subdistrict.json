@@ -1,0 +1,61 @@
+{
+  "id": "210106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แกลง",
+    "en": "Klaeng",
+    "slug": "klaeng"
+  },
+  "code": {
+    "dopa": "210106"
+  },
+  "parent": {
+    "id": "2101",
+    "level": 2,
+    "name": {
+      "th": "เมืองระยอง",
+      "en": "Mueang Rayong",
+      "slug": "mueang-rayong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "th": "เมืองระยอง",
+        "en": "Mueang Rayong",
+        "slug": "mueang-rayong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "21160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.663",
+    "lon": "101.467"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/klaeng-210106/"
+  }
+}

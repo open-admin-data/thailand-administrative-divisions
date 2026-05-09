@@ -1,0 +1,917 @@
+[
+  {
+    "id": "390106",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บ้านขาม",
+      "en": "Ban Kham",
+      "slug": "ban-kham"
+    },
+    "code": {
+      "dopa": "390106"
+    },
+    "parent": {
+      "id": "3901",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": "Mueang Nong Bua Lam Phu",
+        "slug": "mueang-nong-bua-lam-phu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "39",
+        "level": 1,
+        "name": {
+          "th": "หนองบัวลำภู",
+          "en": "Nong Bua Lam Phu",
+          "slug": "nong-bua-lam-phu"
+        }
+      },
+      {
+        "id": "3901",
+        "level": 2,
+        "name": {
+          "th": "เมืองหนองบัวลำภู",
+          "en": "Mueang Nong Bua Lam Phu",
+          "slug": "mueang-nong-bua-lam-phu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 14
+    },
+    "zip_codes": [
+      "39000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.111",
+      "lon": "102.477"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ban-kham-390106/"
+    }
+  },
+  {
+    "id": "390108",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บ้านพร้าว",
+      "en": "Ban Phrao",
+      "slug": "ban-phrao"
+    },
+    "code": {
+      "dopa": "390108"
+    },
+    "parent": {
+      "id": "3901",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": "Mueang Nong Bua Lam Phu",
+        "slug": "mueang-nong-bua-lam-phu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "39",
+        "level": 1,
+        "name": {
+          "th": "หนองบัวลำภู",
+          "en": "Nong Bua Lam Phu",
+          "slug": "nong-bua-lam-phu"
+        }
+      },
+      {
+        "id": "3901",
+        "level": 2,
+        "name": {
+          "th": "เมืองหนองบัวลำภู",
+          "en": "Mueang Nong Bua Lam Phu",
+          "slug": "mueang-nong-bua-lam-phu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 15
+    },
+    "zip_codes": [
+      "39000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.102",
+      "lon": "102.392"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ban-phrao-390108/"
+    }
+  },
+  {
+    "id": "390105",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หัวนา",
+      "en": "Hua Na",
+      "slug": "hua-na"
+    },
+    "code": {
+      "dopa": "390105"
+    },
+    "parent": {
+      "id": "3901",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": "Mueang Nong Bua Lam Phu",
+        "slug": "mueang-nong-bua-lam-phu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "39",
+        "level": 1,
+        "name": {
+          "th": "หนองบัวลำภู",
+          "en": "Nong Bua Lam Phu",
+          "slug": "nong-bua-lam-phu"
+        }
+      },
+      {
+        "id": "3901",
+        "level": 2,
+        "name": {
+          "th": "เมืองหนองบัวลำภู",
+          "en": "Mueang Nong Bua Lam Phu",
+          "slug": "mueang-nong-bua-lam-phu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 16
+    },
+    "zip_codes": [
+      "39000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.032",
+      "lon": "102.390"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/hua-na-390105/"
+    }
+  },
+  {
+    "id": "390111",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "กุดจิก",
+      "en": "Kut Chik",
+      "slug": "kut-chik"
+    },
+    "code": {
+      "dopa": "390111"
+    },
+    "parent": {
+      "id": "3901",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": "Mueang Nong Bua Lam Phu",
+        "slug": "mueang-nong-bua-lam-phu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "39",
+        "level": 1,
+        "name": {
+          "th": "หนองบัวลำภู",
+          "en": "Nong Bua Lam Phu",
+          "slug": "nong-bua-lam-phu"
+        }
+      },
+      {
+        "id": "3901",
+        "level": 2,
+        "name": {
+          "th": "เมืองหนองบัวลำภู",
+          "en": "Mueang Nong Bua Lam Phu",
+          "slug": "mueang-nong-bua-lam-phu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 14
+    },
+    "zip_codes": [
+      "39000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.333",
+      "lon": "102.372"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/kut-chik-390111/"
+    }
+  },
+  {
+    "id": "390110",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ลำภู",
+      "en": "Lam Phu",
+      "slug": "lam-phu"
+    },
+    "code": {
+      "dopa": "390110"
+    },
+    "parent": {
+      "id": "3901",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": "Mueang Nong Bua Lam Phu",
+        "slug": "mueang-nong-bua-lam-phu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "39",
+        "level": 1,
+        "name": {
+          "th": "หนองบัวลำภู",
+          "en": "Nong Bua Lam Phu",
+          "slug": "nong-bua-lam-phu"
+        }
+      },
+      {
+        "id": "3901",
+        "level": 2,
+        "name": {
+          "th": "เมืองหนองบัวลำภู",
+          "en": "Mueang Nong Bua Lam Phu",
+          "slug": "mueang-nong-bua-lam-phu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 15
+    },
+    "zip_codes": [
+      "39000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.243",
+      "lon": "102.440"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/lam-phu-390110/"
+    }
+  },
+  {
+    "id": "390113",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "นาคำไฮ",
+      "en": "Na Kham Hai",
+      "slug": "na-kham-hai"
+    },
+    "code": {
+      "dopa": "390113"
+    },
+    "parent": {
+      "id": "3901",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": "Mueang Nong Bua Lam Phu",
+        "slug": "mueang-nong-bua-lam-phu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "39",
+        "level": 1,
+        "name": {
+          "th": "หนองบัวลำภู",
+          "en": "Nong Bua Lam Phu",
+          "slug": "nong-bua-lam-phu"
+        }
+      },
+      {
+        "id": "3901",
+        "level": 2,
+        "name": {
+          "th": "เมืองหนองบัวลำภู",
+          "en": "Mueang Nong Bua Lam Phu",
+          "slug": "mueang-nong-bua-lam-phu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "39000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.280",
+      "lon": "102.304"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/na-kham-hai-390113/"
+    }
+  },
+  {
+    "id": "390107",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "นามะเฟือง",
+      "en": "Na Mafueang",
+      "slug": "na-mafueang"
+    },
+    "code": {
+      "dopa": "390107"
+    },
+    "parent": {
+      "id": "3901",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": "Mueang Nong Bua Lam Phu",
+        "slug": "mueang-nong-bua-lam-phu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "39",
+        "level": 1,
+        "name": {
+          "th": "หนองบัวลำภู",
+          "en": "Nong Bua Lam Phu",
+          "slug": "nong-bua-lam-phu"
+        }
+      },
+      {
+        "id": "3901",
+        "level": 2,
+        "name": {
+          "th": "เมืองหนองบัวลำภู",
+          "en": "Mueang Nong Bua Lam Phu",
+          "slug": "mueang-nong-bua-lam-phu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "39000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.046",
+      "lon": "102.506"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/na-mafueang-390107/"
+    }
+  },
+  {
+    "id": "390109",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "โนนขมิ้น",
+      "en": "Non Khamin",
+      "slug": "non-khamin"
+    },
+    "code": {
+      "dopa": "390109"
+    },
+    "parent": {
+      "id": "3901",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": "Mueang Nong Bua Lam Phu",
+        "slug": "mueang-nong-bua-lam-phu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "39",
+        "level": 1,
+        "name": {
+          "th": "หนองบัวลำภู",
+          "en": "Nong Bua Lam Phu",
+          "slug": "nong-bua-lam-phu"
+        }
+      },
+      {
+        "id": "3901",
+        "level": 2,
+        "name": {
+          "th": "เมืองหนองบัวลำภู",
+          "en": "Mueang Nong Bua Lam Phu",
+          "slug": "mueang-nong-bua-lam-phu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "39000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.164",
+      "lon": "102.283"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/non-khamin-390109/"
+    }
+  },
+  {
+    "id": "390112",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "โนนทัน",
+      "en": "Non Than",
+      "slug": "non-than"
+    },
+    "code": {
+      "dopa": "390112"
+    },
+    "parent": {
+      "id": "3901",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": "Mueang Nong Bua Lam Phu",
+        "slug": "mueang-nong-bua-lam-phu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "39",
+        "level": 1,
+        "name": {
+          "th": "หนองบัวลำภู",
+          "en": "Nong Bua Lam Phu",
+          "slug": "nong-bua-lam-phu"
+        }
+      },
+      {
+        "id": "3901",
+        "level": 2,
+        "name": {
+          "th": "เมืองหนองบัวลำภู",
+          "en": "Mueang Nong Bua Lam Phu",
+          "slug": "mueang-nong-bua-lam-phu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "39000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.245",
+      "lon": "102.503"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/non-than-390112/"
+    }
+  },
+  {
+    "id": "390101",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองบัว",
+      "en": "Nong Bua",
+      "slug": "nong-bua"
+    },
+    "code": {
+      "dopa": "390101"
+    },
+    "parent": {
+      "id": "3901",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": "Mueang Nong Bua Lam Phu",
+        "slug": "mueang-nong-bua-lam-phu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "39",
+        "level": 1,
+        "name": {
+          "th": "หนองบัวลำภู",
+          "en": "Nong Bua Lam Phu",
+          "slug": "nong-bua-lam-phu"
+        }
+      },
+      {
+        "id": "3901",
+        "level": 2,
+        "name": {
+          "th": "เมืองหนองบัวลำภู",
+          "en": "Mueang Nong Bua Lam Phu",
+          "slug": "mueang-nong-bua-lam-phu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 18
+    },
+    "zip_codes": [
+      "39000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.168",
+      "lon": "102.444"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-bua-390101/"
+    }
+  },
+  {
+    "id": "390102",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองภัยศูนย์",
+      "en": "Nong Phai Sun",
+      "slug": "nong-phai-sun"
+    },
+    "code": {
+      "dopa": "390102"
+    },
+    "parent": {
+      "id": "3901",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": "Mueang Nong Bua Lam Phu",
+        "slug": "mueang-nong-bua-lam-phu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "39",
+        "level": 1,
+        "name": {
+          "th": "หนองบัวลำภู",
+          "en": "Nong Bua Lam Phu",
+          "slug": "nong-bua-lam-phu"
+        }
+      },
+      {
+        "id": "3901",
+        "level": 2,
+        "name": {
+          "th": "เมืองหนองบัวลำภู",
+          "en": "Mueang Nong Bua Lam Phu",
+          "slug": "mueang-nong-bua-lam-phu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "39000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.263",
+      "lon": "102.395"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-phai-sun-390102/"
+    }
+  },
+  {
+    "id": "390104",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองสวรรค์",
+      "en": "Nong Sawan",
+      "slug": "nong-sawan"
+    },
+    "code": {
+      "dopa": "390104"
+    },
+    "parent": {
+      "id": "3901",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": "Mueang Nong Bua Lam Phu",
+        "slug": "mueang-nong-bua-lam-phu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "39",
+        "level": 1,
+        "name": {
+          "th": "หนองบัวลำภู",
+          "en": "Nong Bua Lam Phu",
+          "slug": "nong-bua-lam-phu"
+        }
+      },
+      {
+        "id": "3901",
+        "level": 2,
+        "name": {
+          "th": "เมืองหนองบัวลำภู",
+          "en": "Mueang Nong Bua Lam Phu",
+          "slug": "mueang-nong-bua-lam-phu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "39000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.200",
+      "lon": "102.317"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-sawan-390104/"
+    }
+  },
+  {
+    "id": "390115",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองหว้า",
+      "en": "Nong Wa",
+      "slug": "nong-wa"
+    },
+    "code": {
+      "dopa": "390115"
+    },
+    "parent": {
+      "id": "3901",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": "Mueang Nong Bua Lam Phu",
+        "slug": "mueang-nong-bua-lam-phu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "39",
+        "level": 1,
+        "name": {
+          "th": "หนองบัวลำภู",
+          "en": "Nong Bua Lam Phu",
+          "slug": "nong-bua-lam-phu"
+        }
+      },
+      {
+        "id": "3901",
+        "level": 2,
+        "name": {
+          "th": "เมืองหนองบัวลำภู",
+          "en": "Mueang Nong Bua Lam Phu",
+          "slug": "mueang-nong-bua-lam-phu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "39000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.147",
+      "lon": "102.350"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-wa-390115/"
+    }
+  },
+  {
+    "id": "390114",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ป่าไม้งาม",
+      "en": "Pa Mai Ngam",
+      "slug": "pa-mai-ngam"
+    },
+    "code": {
+      "dopa": "390114"
+    },
+    "parent": {
+      "id": "3901",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": "Mueang Nong Bua Lam Phu",
+        "slug": "mueang-nong-bua-lam-phu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "39",
+        "level": 1,
+        "name": {
+          "th": "หนองบัวลำภู",
+          "en": "Nong Bua Lam Phu",
+          "slug": "nong-bua-lam-phu"
+        }
+      },
+      {
+        "id": "3901",
+        "level": 2,
+        "name": {
+          "th": "เมืองหนองบัวลำภู",
+          "en": "Mueang Nong Bua Lam Phu",
+          "slug": "mueang-nong-bua-lam-phu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 13
+    },
+    "zip_codes": [
+      "39000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.974",
+      "lon": "102.366"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/pa-mai-ngam-390114/"
+    }
+  },
+  {
+    "id": "390103",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "โพธิ์ชัย",
+      "en": "Pho Chai",
+      "slug": "pho-chai"
+    },
+    "code": {
+      "dopa": "390103"
+    },
+    "parent": {
+      "id": "3901",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": "Mueang Nong Bua Lam Phu",
+        "slug": "mueang-nong-bua-lam-phu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "39",
+        "level": 1,
+        "name": {
+          "th": "หนองบัวลำภู",
+          "en": "Nong Bua Lam Phu",
+          "slug": "nong-bua-lam-phu"
+        }
+      },
+      {
+        "id": "3901",
+        "level": 2,
+        "name": {
+          "th": "เมืองหนองบัวลำภู",
+          "en": "Mueang Nong Bua Lam Phu",
+          "slug": "mueang-nong-bua-lam-phu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 13
+    },
+    "zip_codes": [
+      "39000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.211",
+      "lon": "102.381"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/pho-chai-390103/"
+    }
+  }
+]

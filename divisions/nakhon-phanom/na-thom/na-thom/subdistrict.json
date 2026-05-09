@@ -1,0 +1,61 @@
+{
+  "id": "481101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาทม",
+    "en": "Na Thom",
+    "slug": "na-thom"
+  },
+  "code": {
+    "dopa": "481101"
+  },
+  "parent": {
+    "id": "4811",
+    "level": 2,
+    "name": {
+      "th": "นาทม",
+      "en": "Na Thom",
+      "slug": "na-thom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4811",
+      "level": 2,
+      "name": {
+        "th": "นาทม",
+        "en": "Na Thom",
+        "slug": "na-thom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "48140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.845",
+    "lon": "104.037"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-thom-481101/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "570308",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีดอนชัย",
+    "en": "Si Don Chai",
+    "slug": "si-don-chai"
+  },
+  "code": {
+    "dopa": "570308"
+  },
+  "parent": {
+    "id": "5703",
+    "level": 2,
+    "name": {
+      "th": "เชียงของ",
+      "en": "Chiang Khong",
+      "slug": "chiang-khong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5703",
+      "level": 2,
+      "name": {
+        "th": "เชียงของ",
+        "en": "Chiang Khong",
+        "slug": "chiang-khong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "57230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.150",
+    "lon": "100.324"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-don-chai-570308/"
+  }
+}

@@ -1,0 +1,185 @@
+[
+  {
+    "id": "94030101",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเกาะเปาะเหนือ",
+      "en": "Ban Ko Po Nuea",
+      "slug": "94030101"
+    },
+    "code": {
+      "dopa": "94030101"
+    },
+    "parent": {
+      "id": "940301",
+      "level": 3,
+      "name": {
+        "th": "เกาะเปาะ",
+        "en": "Ko Po",
+        "slug": "ko-po"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "th": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani"
+        }
+      },
+      {
+        "id": "9403",
+        "level": 2,
+        "name": {
+          "th": "หนองจิก",
+          "en": "Nong Chik",
+          "slug": "nong-chik"
+        }
+      },
+      {
+        "id": "940301",
+        "level": 3,
+        "name": {
+          "th": "เกาะเปาะ",
+          "en": "Ko Po",
+          "slug": "ko-po"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.810826496988912",
+      "lon": "101.21021077036858"
+    },
+    "source": {}
+  },
+  {
+    "id": "94030102",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเกาะเปาะใต้",
+      "en": "Ban Ko Po Tai",
+      "slug": "94030102"
+    },
+    "code": {
+      "dopa": "94030102"
+    },
+    "parent": {
+      "id": "940301",
+      "level": 3,
+      "name": {
+        "th": "เกาะเปาะ",
+        "en": "Ko Po",
+        "slug": "ko-po"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "th": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani"
+        }
+      },
+      {
+        "id": "9403",
+        "level": 2,
+        "name": {
+          "th": "หนองจิก",
+          "en": "Nong Chik",
+          "slug": "nong-chik"
+        }
+      },
+      {
+        "id": "940301",
+        "level": 3,
+        "name": {
+          "th": "เกาะเปาะ",
+          "en": "Ko Po",
+          "slug": "ko-po"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.807394847174781",
+      "lon": "101.20790541172028"
+    },
+    "source": {}
+  },
+  {
+    "id": "94030103",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านใหม่",
+      "en": "Ban Mai",
+      "slug": "94030103"
+    },
+    "code": {
+      "dopa": "94030103"
+    },
+    "parent": {
+      "id": "940301",
+      "level": 3,
+      "name": {
+        "th": "เกาะเปาะ",
+        "en": "Ko Po",
+        "slug": "ko-po"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "th": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani"
+        }
+      },
+      {
+        "id": "9403",
+        "level": 2,
+        "name": {
+          "th": "หนองจิก",
+          "en": "Nong Chik",
+          "slug": "nong-chik"
+        }
+      },
+      {
+        "id": "940301",
+        "level": 3,
+        "name": {
+          "th": "เกาะเปาะ",
+          "en": "Ko Po",
+          "slug": "ko-po"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.824797865417333",
+      "lon": "101.19992583990097"
+    },
+    "source": {}
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "710205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังกระแจะ",
+    "en": "Wang Krachae",
+    "slug": "wang-krachae"
+  },
+  "code": {
+    "dopa": "710205"
+  },
+  "parent": {
+    "id": "7102",
+    "level": 2,
+    "name": {
+      "th": "ไทรโยค",
+      "en": "Sai Yok",
+      "slug": "sai-yok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7102",
+      "level": 2,
+      "name": {
+        "th": "ไทรโยค",
+        "en": "Sai Yok",
+        "slug": "sai-yok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "71150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.260",
+    "lon": "98.911"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-krachae-710205/"
+  }
+}

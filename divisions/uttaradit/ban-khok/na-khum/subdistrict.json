@@ -1,0 +1,61 @@
+{
+  "id": "530603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาขุม",
+    "en": "Na Khum",
+    "slug": "na-khum"
+  },
+  "code": {
+    "dopa": "530603"
+  },
+  "parent": {
+    "id": "5306",
+    "level": 2,
+    "name": {
+      "th": "บ้านโคก",
+      "en": "Ban Khok",
+      "slug": "ban-khok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5306",
+      "level": 2,
+      "name": {
+        "th": "บ้านโคก",
+        "en": "Ban Khok",
+        "slug": "ban-khok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "53180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.951",
+    "lon": "100.998"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-khum-530603/"
+  }
+}

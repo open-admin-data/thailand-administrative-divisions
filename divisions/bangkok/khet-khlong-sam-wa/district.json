@@ -1,0 +1,50 @@
+{
+  "id": "1046",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต คลองสามวา",
+    "en": "Khet Khlong Sam Wa",
+    "slug": "khet-khlong-sam-wa"
+  },
+  "code": {
+    "dopa": "1046"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.854",
+    "lon": "100.745"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khet-khlong-sam-wa-1046/"
+  }
+}

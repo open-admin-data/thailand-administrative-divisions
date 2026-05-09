@@ -1,0 +1,61 @@
+{
+  "id": "950802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สะเอะ",
+    "en": "Sa-Ae",
+    "slug": "sa-ae"
+  },
+  "code": {
+    "dopa": "950802"
+  },
+  "parent": {
+    "id": "9508",
+    "level": 2,
+    "name": {
+      "th": "กรงปีนัง",
+      "en": "Krong Pinang",
+      "slug": "krong-pinang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9508",
+      "level": 2,
+      "name": {
+        "th": "กรงปีนัง",
+        "en": "Krong Pinang",
+        "slug": "krong-pinang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "95000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.398",
+    "lon": "101.202"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sa-ae-950802/"
+  }
+}

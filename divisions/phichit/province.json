@@ -1,0 +1,38 @@
+{
+  "id": "66",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "พิจิตร",
+    "en": "Phichit",
+    "slug": "phichit"
+  },
+  "code": {
+    "dopa": "66",
+    "iso": "TH-66"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 12,
+    "subdistricts": 88,
+    "villages": 930
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central"
+    }
+  },
+  "geo": {
+    "lat": "16.222",
+    "lon": "100.427"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/phichit-66/"
+  }
+}

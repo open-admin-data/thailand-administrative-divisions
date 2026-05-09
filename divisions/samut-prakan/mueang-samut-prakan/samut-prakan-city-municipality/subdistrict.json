@@ -1,0 +1,61 @@
+{
+  "id": "110101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เทศบาลนครสมุทรปราการ",
+    "en": "Samut Prakan City Municipality",
+    "slug": "samut-prakan-city-municipality"
+  },
+  "code": {
+    "dopa": "110101"
+  },
+  "parent": {
+    "id": "1101",
+    "level": 2,
+    "name": {
+      "th": "เมืองสมุทรปราการ",
+      "en": "Mueang Samut Prakan",
+      "slug": "mueang-samut-prakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรปราการ",
+        "en": "Mueang Samut Prakan",
+        "slug": "mueang-samut-prakan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 31
+  },
+  "zip_codes": [
+    "10270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.593",
+    "lon": "100.597"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samut-prakan-city-municipality-110101/"
+  }
+}

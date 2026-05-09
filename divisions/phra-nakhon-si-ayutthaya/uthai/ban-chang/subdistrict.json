@@ -1,0 +1,61 @@
+{
+  "id": "141402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านช้าง",
+    "en": "Ban Chang",
+    "slug": "ban-chang"
+  },
+  "code": {
+    "dopa": "141402"
+  },
+  "parent": {
+    "id": "1414",
+    "level": 2,
+    "name": {
+      "th": "อุทัย",
+      "en": "Uthai",
+      "slug": "uthai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1414",
+      "level": 2,
+      "name": {
+        "th": "อุทัย",
+        "en": "Uthai",
+        "slug": "uthai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "13210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.322",
+    "lon": "100.680"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-chang-141402/"
+  }
+}

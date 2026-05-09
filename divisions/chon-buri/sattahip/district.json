@@ -1,0 +1,50 @@
+{
+  "id": "2009",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สัตหีบ",
+    "en": "Sattahip",
+    "slug": "sattahip"
+  },
+  "code": {
+    "dopa": "2009"
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "th": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 56
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.611",
+    "lon": "100.889"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sattahip-2009/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "841501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เวียงสระ",
+    "en": "Wiang Sa",
+    "slug": "wiang-sa"
+  },
+  "code": {
+    "dopa": "841501"
+  },
+  "parent": {
+    "id": "8415",
+    "level": 2,
+    "name": {
+      "th": "เวียงสระ",
+      "en": "Wiang Sa",
+      "slug": "wiang-sa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8415",
+      "level": 2,
+      "name": {
+        "th": "เวียงสระ",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "84190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.649",
+    "lon": "99.342"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wiang-sa-841501/"
+  }
+}

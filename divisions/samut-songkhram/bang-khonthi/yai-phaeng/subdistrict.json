@@ -1,0 +1,61 @@
+{
+  "id": "750211",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยายแพง",
+    "en": "Yai Phaeng",
+    "slug": "yai-phaeng"
+  },
+  "code": {
+    "dopa": "750211"
+  },
+  "parent": {
+    "id": "7502",
+    "level": 2,
+    "name": {
+      "th": "บางคนที",
+      "en": "Bang Khonthi",
+      "slug": "bang-khonthi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสงคราม",
+        "en": "Samut Songkhram",
+        "slug": "samut-songkhram"
+      }
+    },
+    {
+      "id": "7502",
+      "level": 2,
+      "name": {
+        "th": "บางคนที",
+        "en": "Bang Khonthi",
+        "slug": "bang-khonthi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "75120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.487",
+    "lon": "99.958"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yai-phaeng-750211/"
+  }
+}

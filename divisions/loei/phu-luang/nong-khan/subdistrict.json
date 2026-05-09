@@ -1,0 +1,61 @@
+{
+  "id": "421102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองคัน",
+    "en": "Nong Khan",
+    "slug": "nong-khan"
+  },
+  "code": {
+    "dopa": "421102"
+  },
+  "parent": {
+    "id": "4211",
+    "level": 2,
+    "name": {
+      "th": "ภูหลวง",
+      "en": "Phu Luang",
+      "slug": "phu-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4211",
+      "level": 2,
+      "name": {
+        "th": "ภูหลวง",
+        "en": "Phu Luang",
+        "slug": "phu-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "42230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.141",
+    "lon": "101.701"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-khan-421102/"
+  }
+}

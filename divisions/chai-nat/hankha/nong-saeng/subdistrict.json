@@ -1,0 +1,61 @@
+{
+  "id": "180606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองแซง",
+    "en": "Nong Saeng",
+    "slug": "nong-saeng"
+  },
+  "code": {
+    "dopa": "180606"
+  },
+  "parent": {
+    "id": "1806",
+    "level": 2,
+    "name": {
+      "th": "หันคา",
+      "en": "Hankha",
+      "slug": "hankha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "th": "หันคา",
+        "en": "Hankha",
+        "slug": "hankha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "17160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.107",
+    "lon": "99.973"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-saeng-180606/"
+  }
+}

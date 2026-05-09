@@ -1,0 +1,61 @@
+{
+  "id": "730211",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยม่วง",
+    "en": "Huai Muang",
+    "slug": "huai-muang"
+  },
+  "code": {
+    "dopa": "730211"
+  },
+  "parent": {
+    "id": "7302",
+    "level": 2,
+    "name": {
+      "th": "กำแพงแสน",
+      "en": "Kamphaeng Saen",
+      "slug": "kamphaeng-saen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7302",
+      "level": 2,
+      "name": {
+        "th": "กำแพงแสน",
+        "en": "Kamphaeng Saen",
+        "slug": "kamphaeng-saen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "73180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.130",
+    "lon": "100.025"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-muang-730211/"
+  }
+}

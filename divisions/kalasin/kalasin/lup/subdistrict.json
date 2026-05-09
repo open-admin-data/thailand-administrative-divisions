@@ -1,0 +1,61 @@
+{
+  "id": "460103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หลุบ",
+    "en": "Lup",
+    "slug": "lup"
+  },
+  "code": {
+    "dopa": "460103"
+  },
+  "parent": {
+    "id": "4601",
+    "level": 2,
+    "name": {
+      "th": "เมืองกาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4601",
+      "level": 2,
+      "name": {
+        "th": "เมืองกาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "46000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.393",
+    "lon": "103.512"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lup-460103/"
+  }
+}

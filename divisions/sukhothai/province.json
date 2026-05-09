@@ -1,0 +1,38 @@
+{
+  "id": "64",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "สุโขทัย",
+    "en": "Sukhothai",
+    "slug": "sukhothai"
+  },
+  "code": {
+    "dopa": "64",
+    "iso": "TH-64"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 9,
+    "subdistricts": 86,
+    "villages": 866
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central"
+    }
+  },
+  "geo": {
+    "lat": "17.012",
+    "lon": "99.822"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/sukhothai-64/"
+  }
+}

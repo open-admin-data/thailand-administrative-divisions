@@ -1,0 +1,61 @@
+{
+  "id": "530901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ผักขวง",
+    "en": "Phak Khuang",
+    "slug": "phak-khuang"
+  },
+  "code": {
+    "dopa": "530901"
+  },
+  "parent": {
+    "id": "5309",
+    "level": 2,
+    "name": {
+      "th": "ทองแสนขัน",
+      "en": "Thong Saen Khan",
+      "slug": "thong-saen-khan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5309",
+      "level": 2,
+      "name": {
+        "th": "ทองแสนขัน",
+        "en": "Thong Saen Khan",
+        "slug": "thong-saen-khan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "53230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.535",
+    "lon": "100.415"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phak-khuang-530901/"
+  }
+}

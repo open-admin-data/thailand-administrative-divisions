@@ -1,0 +1,61 @@
+{
+  "id": "710503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนชะเอม",
+    "en": "Don Cha-em",
+    "slug": "don-cha-em"
+  },
+  "code": {
+    "dopa": "710503"
+  },
+  "parent": {
+    "id": "7105",
+    "level": 2,
+    "name": {
+      "th": "ท่ามะกา",
+      "en": "Tha Maka",
+      "slug": "tha-maka"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7105",
+      "level": 2,
+      "name": {
+        "th": "ท่ามะกา",
+        "en": "Tha Maka",
+        "slug": "tha-maka"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "71130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.971",
+    "lon": "99.807"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-cha-em-710503/"
+  }
+}

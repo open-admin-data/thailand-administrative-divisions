@@ -1,0 +1,61 @@
+{
+  "id": "650901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชมพู",
+    "en": "Chomphu",
+    "slug": "chomphu"
+  },
+  "code": {
+    "dopa": "650901"
+  },
+  "parent": {
+    "id": "6509",
+    "level": 2,
+    "name": {
+      "th": "เนินมะปราง",
+      "en": "Noen Maprang",
+      "slug": "noen-maprang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6509",
+      "level": 2,
+      "name": {
+        "th": "เนินมะปราง",
+        "en": "Noen Maprang",
+        "slug": "noen-maprang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "65190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.717",
+    "lon": "100.641"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chomphu-650901/"
+  }
+}

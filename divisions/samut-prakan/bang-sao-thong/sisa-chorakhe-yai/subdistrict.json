@@ -1,0 +1,61 @@
+{
+  "id": "110603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีษะจรเข้ใหญ่",
+    "en": "Sisa Chorakhe Yai",
+    "slug": "sisa-chorakhe-yai"
+  },
+  "code": {
+    "dopa": "110603"
+  },
+  "parent": {
+    "id": "1106",
+    "level": 2,
+    "name": {
+      "th": "บางเสาธง",
+      "en": "Bang Sao Thong",
+      "slug": "bang-sao-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "th": "บางเสาธง",
+        "en": "Bang Sao Thong",
+        "slug": "bang-sao-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "10540"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.641",
+    "lon": "100.803"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sisa-chorakhe-yai-110603/"
+  }
+}

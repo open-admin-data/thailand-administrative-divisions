@@ -1,0 +1,61 @@
+{
+  "id": "301807",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มะเกลือเก่า",
+    "en": "Makluea Kao",
+    "slug": "makluea-kao"
+  },
+  "code": {
+    "dopa": "301807"
+  },
+  "parent": {
+    "id": "3018",
+    "level": 2,
+    "name": {
+      "th": "สูงเนิน",
+      "en": "Sung Noen",
+      "slug": "sung-noen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3018",
+      "level": 2,
+      "name": {
+        "th": "สูงเนิน",
+        "en": "Sung Noen",
+        "slug": "sung-noen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "30170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.779",
+    "lon": "101.805"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/makluea-kao-301807/"
+  }
+}

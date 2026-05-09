@@ -1,0 +1,61 @@
+{
+  "id": "560603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ออย",
+    "en": "Oi",
+    "slug": "oi"
+  },
+  "code": {
+    "dopa": "560603"
+  },
+  "parent": {
+    "id": "5606",
+    "level": 2,
+    "name": {
+      "th": "ปง",
+      "en": "Pong",
+      "slug": "pong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5606",
+      "level": 2,
+      "name": {
+        "th": "ปง",
+        "en": "Pong",
+        "slug": "pong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "56140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.211",
+    "lon": "100.329"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/oi-560603/"
+  }
+}

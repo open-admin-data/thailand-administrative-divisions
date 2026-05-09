@@ -1,0 +1,61 @@
+{
+  "id": "450506",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อุ่มเม้า",
+    "en": "Um Mao",
+    "slug": "um-mao"
+  },
+  "code": {
+    "dopa": "450506"
+  },
+  "parent": {
+    "id": "4505",
+    "level": 2,
+    "name": {
+      "th": "ธวัชบุรี",
+      "en": "Thawat Buri",
+      "slug": "thawat-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4505",
+      "level": 2,
+      "name": {
+        "th": "ธวัชบุรี",
+        "en": "Thawat Buri",
+        "slug": "thawat-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "45170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.025",
+    "lon": "103.773"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/um-mao-450506/"
+  }
+}

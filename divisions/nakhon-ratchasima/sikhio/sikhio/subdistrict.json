@@ -1,0 +1,61 @@
+{
+  "id": "302001",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สีคิ้ว",
+    "en": "Sikhio",
+    "slug": "sikhio"
+  },
+  "code": {
+    "dopa": "302001"
+  },
+  "parent": {
+    "id": "3020",
+    "level": 2,
+    "name": {
+      "th": "สีคิ้ว",
+      "en": "Sikhio",
+      "slug": "sikhio"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3020",
+      "level": 2,
+      "name": {
+        "th": "สีคิ้ว",
+        "en": "Sikhio",
+        "slug": "sikhio"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 22
+  },
+  "zip_codes": [
+    "30140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.905",
+    "lon": "101.687"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sikhio-302001/"
+  }
+}

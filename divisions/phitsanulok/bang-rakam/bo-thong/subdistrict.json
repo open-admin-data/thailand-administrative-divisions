@@ -1,0 +1,61 @@
+{
+  "id": "650409",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อทอง",
+    "en": "Bo Thong",
+    "slug": "bo-thong"
+  },
+  "code": {
+    "dopa": "650409"
+  },
+  "parent": {
+    "id": "6504",
+    "level": 2,
+    "name": {
+      "th": "บางระกำ",
+      "en": "Bang Rakam",
+      "slug": "bang-rakam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6504",
+      "level": 2,
+      "name": {
+        "th": "บางระกำ",
+        "en": "Bang Rakam",
+        "slug": "bang-rakam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "65140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.631",
+    "lon": "100.134"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-thong-650409/"
+  }
+}

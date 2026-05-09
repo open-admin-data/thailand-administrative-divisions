@@ -1,0 +1,61 @@
+{
+  "id": "570404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่ลอย",
+    "en": "Mae Loi",
+    "slug": "mae-loi"
+  },
+  "code": {
+    "dopa": "570404"
+  },
+  "parent": {
+    "id": "5704",
+    "level": 2,
+    "name": {
+      "th": "เทิง",
+      "en": "Thoeng",
+      "slug": "thoeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5704",
+      "level": 2,
+      "name": {
+        "th": "เทิง",
+        "en": "Thoeng",
+        "slug": "thoeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "57230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.573",
+    "lon": "100.063"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-loi-570404/"
+  }
+}

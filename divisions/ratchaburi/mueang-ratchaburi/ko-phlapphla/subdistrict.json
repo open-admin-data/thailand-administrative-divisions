@@ -1,0 +1,61 @@
+{
+  "id": "700116",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะพลับพลา",
+    "en": "Ko Phlapphla",
+    "slug": "ko-phlapphla"
+  },
+  "code": {
+    "dopa": "700116"
+  },
+  "parent": {
+    "id": "7001",
+    "level": 2,
+    "name": {
+      "th": "เมืองราชบุรี",
+      "en": "Mueang Ratchaburi",
+      "slug": "mueang-ratchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7001",
+      "level": 2,
+      "name": {
+        "th": "เมืองราชบุรี",
+        "en": "Mueang Ratchaburi",
+        "slug": "mueang-ratchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "70000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.585",
+    "lon": "99.750"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-phlapphla-700116/"
+  }
+}

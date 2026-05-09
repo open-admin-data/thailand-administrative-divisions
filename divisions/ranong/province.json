@@ -1,0 +1,38 @@
+{
+  "id": "85",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ระนอง",
+    "en": "Ranong",
+    "slug": "ranong"
+  },
+  "code": {
+    "dopa": "85",
+    "iso": "TH-85"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 5,
+    "subdistricts": 30,
+    "villages": 198
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern"
+    }
+  },
+  "geo": {
+    "lat": "9.401",
+    "lon": "98.392"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/ranong-85/"
+  }
+}

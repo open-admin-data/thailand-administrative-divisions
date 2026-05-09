@@ -1,0 +1,61 @@
+{
+  "id": "330913",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองหมี",
+    "en": "Nong Me",
+    "slug": "nong-me"
+  },
+  "code": {
+    "dopa": "330913"
+  },
+  "parent": {
+    "id": "3309",
+    "level": 2,
+    "name": {
+      "th": "ราษีไศล",
+      "en": "Rasi Salai",
+      "slug": "rasi-salai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3309",
+      "level": 2,
+      "name": {
+        "th": "ราษีไศล",
+        "en": "Rasi Salai",
+        "slug": "rasi-salai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "33160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.271",
+    "lon": "104.293"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-me-330913/"
+  }
+}

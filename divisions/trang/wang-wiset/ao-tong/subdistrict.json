@@ -1,0 +1,61 @@
+{
+  "id": "920703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อ่าวตง",
+    "en": "Ao Tong",
+    "slug": "ao-tong"
+  },
+  "code": {
+    "dopa": "920703"
+  },
+  "parent": {
+    "id": "9207",
+    "level": 2,
+    "name": {
+      "th": "วังวิเศษ",
+      "en": "Wang Wiset",
+      "slug": "wang-wiset"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9207",
+      "level": 2,
+      "name": {
+        "th": "วังวิเศษ",
+        "en": "Wang Wiset",
+        "slug": "wang-wiset"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "92220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.862",
+    "lon": "99.365"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ao-tong-920703/"
+  }
+}

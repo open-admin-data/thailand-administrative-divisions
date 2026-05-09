@@ -1,0 +1,61 @@
+{
+  "id": "343104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองบก",
+    "en": "Nong Bok",
+    "slug": "nong-bok"
+  },
+  "code": {
+    "dopa": "343104"
+  },
+  "parent": {
+    "id": "3431",
+    "level": 2,
+    "name": {
+      "th": "เหล่าเสือโก้ก",
+      "en": "Lao Suea Kok",
+      "slug": "lao-suea-kok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3431",
+      "level": 2,
+      "name": {
+        "th": "เหล่าเสือโก้ก",
+        "en": "Lao Suea Kok",
+        "slug": "lao-suea-kok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "34000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.423",
+    "lon": "104.988"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-bok-343104/"
+  }
+}

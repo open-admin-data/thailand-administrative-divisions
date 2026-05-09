@@ -1,0 +1,50 @@
+{
+  "id": "6007",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ตาคลี",
+    "en": "Takhli",
+    "slug": "takhli"
+  },
+  "code": {
+    "dopa": "6007"
+  },
+  "parent": {
+    "id": "60",
+    "level": 1,
+    "name": {
+      "th": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 147
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.175",
+    "lon": "100.393"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/takhli-6007/"
+  }
+}

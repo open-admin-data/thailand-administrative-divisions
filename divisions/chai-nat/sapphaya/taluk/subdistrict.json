@@ -1,0 +1,61 @@
+{
+  "id": "180402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตลุก",
+    "en": "Taluk",
+    "slug": "taluk"
+  },
+  "code": {
+    "dopa": "180402"
+  },
+  "parent": {
+    "id": "1804",
+    "level": 2,
+    "name": {
+      "th": "สรรพยา",
+      "en": "Sapphaya",
+      "slug": "sapphaya"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1804",
+      "level": 2,
+      "name": {
+        "th": "สรรพยา",
+        "en": "Sapphaya",
+        "slug": "sapphaya"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "17150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.195",
+    "lon": "100.198"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/taluk-180402/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "570903",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะช้าง",
+    "en": "Ko Chang",
+    "slug": "ko-chang"
+  },
+  "code": {
+    "dopa": "570903"
+  },
+  "parent": {
+    "id": "5709",
+    "level": 2,
+    "name": {
+      "th": "แม่สาย",
+      "en": "Mae Sai",
+      "slug": "mae-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5709",
+      "level": 2,
+      "name": {
+        "th": "แม่สาย",
+        "en": "Mae Sai",
+        "slug": "mae-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "57130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.398",
+    "lon": "100.010"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-chang-570903/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "8205",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ตะกั่วป่า",
+    "en": "Takua Pa",
+    "slug": "takua-pa"
+  },
+  "code": {
+    "dopa": "8205"
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "th": "พังงา",
+      "en": "Phangnga",
+      "slug": "phangnga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 58
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.829",
+    "lon": "98.362"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/takua-pa-8205/"
+  }
+}

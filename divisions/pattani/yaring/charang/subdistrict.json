@@ -1,0 +1,61 @@
+{
+  "id": "940917",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "จะรัง",
+    "en": "Charang",
+    "slug": "charang"
+  },
+  "code": {
+    "dopa": "940917"
+  },
+  "parent": {
+    "id": "9409",
+    "level": 2,
+    "name": {
+      "th": "ยะหริ่ง",
+      "en": "Yaring",
+      "slug": "yaring"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9409",
+      "level": 2,
+      "name": {
+        "th": "ยะหริ่ง",
+        "en": "Yaring",
+        "slug": "yaring"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "94150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.843",
+    "lon": "101.450"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/charang-940917/"
+  }
+}

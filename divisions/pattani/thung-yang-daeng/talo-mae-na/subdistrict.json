@@ -1,0 +1,61 @@
+{
+  "id": "940601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตะโละแมะนา",
+    "en": "Talo Mae Na",
+    "slug": "talo-mae-na"
+  },
+  "code": {
+    "dopa": "940601"
+  },
+  "parent": {
+    "id": "9406",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งยางแดง",
+      "en": "Thung Yang Daeng",
+      "slug": "thung-yang-daeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9406",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งยางแดง",
+        "en": "Thung Yang Daeng",
+        "slug": "thung-yang-daeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "94140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.604",
+    "lon": "101.401"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/talo-mae-na-940601/"
+  }
+}

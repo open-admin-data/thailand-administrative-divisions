@@ -1,0 +1,50 @@
+{
+  "id": "9202",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "กันตัง",
+    "en": "Kantang",
+    "slug": "kantang"
+  },
+  "code": {
+    "dopa": "9202"
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "th": "ตรัง",
+      "en": "Trang",
+      "slug": "trang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 16,
+    "villages": 95
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.272",
+    "lon": "99.475"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kantang-9202/"
+  }
+}

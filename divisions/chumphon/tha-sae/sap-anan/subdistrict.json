@@ -1,0 +1,61 @@
+{
+  "id": "860209",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทรัพย์อนันต์",
+    "en": "Sap Anan",
+    "slug": "sap-anan"
+  },
+  "code": {
+    "dopa": "860209"
+  },
+  "parent": {
+    "id": "8602",
+    "level": 2,
+    "name": {
+      "th": "ท่าแซะ",
+      "en": "Tha Sae",
+      "slug": "tha-sae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8602",
+      "level": 2,
+      "name": {
+        "th": "ท่าแซะ",
+        "en": "Tha Sae",
+        "slug": "tha-sae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "86140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.713",
+    "lon": "99.202"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sap-anan-860209/"
+  }
+}

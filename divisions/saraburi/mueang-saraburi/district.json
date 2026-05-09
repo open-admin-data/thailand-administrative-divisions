@@ -1,0 +1,50 @@
+{
+  "id": "1901",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองสระบุรี",
+    "en": "Mueang Saraburi",
+    "slug": "mueang-saraburi"
+  },
+  "code": {
+    "dopa": "1901"
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "th": "สระบุรี",
+      "en": "Saraburi",
+      "slug": "saraburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 106
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.529",
+    "lon": "100.886"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-saraburi-1901/"
+  }
+}

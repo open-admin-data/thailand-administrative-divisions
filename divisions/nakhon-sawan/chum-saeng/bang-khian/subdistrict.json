@@ -1,0 +1,61 @@
+{
+  "id": "600306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางเคียน",
+    "en": "Bang Khian",
+    "slug": "bang-khian"
+  },
+  "code": {
+    "dopa": "600306"
+  },
+  "parent": {
+    "id": "6003",
+    "level": 2,
+    "name": {
+      "th": "ชุมแสง",
+      "en": "Chum Saeng",
+      "slug": "chum-saeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6003",
+      "level": 2,
+      "name": {
+        "th": "ชุมแสง",
+        "en": "Chum Saeng",
+        "slug": "chum-saeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "60120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.806",
+    "lon": "100.176"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-khian-600306/"
+  }
+}

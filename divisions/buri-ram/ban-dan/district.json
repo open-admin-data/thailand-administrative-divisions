@@ -1,0 +1,50 @@
+{
+  "id": "3121",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านด่าน",
+    "en": "Ban Dan",
+    "slug": "ban-dan"
+  },
+  "code": {
+    "dopa": "3121"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 59
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.138",
+    "lon": "103.219"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-dan-3121/"
+  }
+}

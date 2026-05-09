@@ -1,0 +1,246 @@
+[
+  {
+    "id": "82030301",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเหมาะ",
+      "en": "Ban Mo",
+      "slug": "82030301"
+    },
+    "code": {
+      "dopa": "82030301"
+    },
+    "parent": {
+      "id": "820303",
+      "level": 3,
+      "name": {
+        "th": "เหมาะ",
+        "en": "Mock",
+        "slug": "mock"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "th": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga"
+        }
+      },
+      {
+        "id": "8203",
+        "level": 2,
+        "name": {
+          "th": "กะปง",
+          "en": "Kapong",
+          "slug": "kapong"
+        }
+      },
+      {
+        "id": "820303",
+        "level": 3,
+        "name": {
+          "th": "เหมาะ",
+          "en": "Mock",
+          "slug": "mock"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.699040887412263",
+      "lon": "98.39835450053215"
+    },
+    "source": {}
+  },
+  {
+    "id": "82030302",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านปลายวา",
+      "en": "Ban Plai Wa",
+      "slug": "82030302"
+    },
+    "code": {
+      "dopa": "82030302"
+    },
+    "parent": {
+      "id": "820303",
+      "level": 3,
+      "name": {
+        "th": "เหมาะ",
+        "en": "Mock",
+        "slug": "mock"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "th": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga"
+        }
+      },
+      {
+        "id": "8203",
+        "level": 2,
+        "name": {
+          "th": "กะปง",
+          "en": "Kapong",
+          "slug": "kapong"
+        }
+      },
+      {
+        "id": "820303",
+        "level": 3,
+        "name": {
+          "th": "เหมาะ",
+          "en": "Mock",
+          "slug": "mock"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.720027091495103",
+      "lon": "98.38917598128319"
+    },
+    "source": {}
+  },
+  {
+    "id": "82030303",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านสะพานเสือ",
+      "en": "Ban Saphan Suea",
+      "slug": "82030303"
+    },
+    "code": {
+      "dopa": "82030303"
+    },
+    "parent": {
+      "id": "820303",
+      "level": 3,
+      "name": {
+        "th": "เหมาะ",
+        "en": "Mock",
+        "slug": "mock"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "th": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga"
+        }
+      },
+      {
+        "id": "8203",
+        "level": 2,
+        "name": {
+          "th": "กะปง",
+          "en": "Kapong",
+          "slug": "kapong"
+        }
+      },
+      {
+        "id": "820303",
+        "level": 3,
+        "name": {
+          "th": "เหมาะ",
+          "en": "Mock",
+          "slug": "mock"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.748041325656438",
+      "lon": "98.3900597691536"
+    },
+    "source": {}
+  },
+  {
+    "id": "82030304",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านในหนด",
+      "en": "Ban Nai Mot",
+      "slug": "82030304"
+    },
+    "code": {
+      "dopa": "82030304"
+    },
+    "parent": {
+      "id": "820303",
+      "level": 3,
+      "name": {
+        "th": "เหมาะ",
+        "en": "Mock",
+        "slug": "mock"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "th": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga"
+        }
+      },
+      {
+        "id": "8203",
+        "level": 2,
+        "name": {
+          "th": "กะปง",
+          "en": "Kapong",
+          "slug": "kapong"
+        }
+      },
+      {
+        "id": "820303",
+        "level": 3,
+        "name": {
+          "th": "เหมาะ",
+          "en": "Mock",
+          "slug": "mock"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.670598734087674",
+      "lon": "98.38666677474976"
+    },
+    "source": {}
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "930502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทะเลน้อย",
+    "en": "Thale Noi",
+    "slug": "thale-noi"
+  },
+  "code": {
+    "dopa": "930502"
+  },
+  "parent": {
+    "id": "9305",
+    "level": 2,
+    "name": {
+      "th": "ควนขนุน",
+      "en": "Khuan Khanun",
+      "slug": "khuan-khanun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9305",
+      "level": 2,
+      "name": {
+        "th": "ควนขนุน",
+        "en": "Khuan Khanun",
+        "slug": "khuan-khanun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "93150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.824",
+    "lon": "100.145"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thale-noi-930502/"
+  }
+}

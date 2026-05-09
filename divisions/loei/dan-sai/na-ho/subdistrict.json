@@ -1,0 +1,61 @@
+{
+  "id": "420510",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาหอ",
+    "en": "Na Ho",
+    "slug": "na-ho"
+  },
+  "code": {
+    "dopa": "420510"
+  },
+  "parent": {
+    "id": "4205",
+    "level": 2,
+    "name": {
+      "th": "ด่านซ้าย",
+      "en": "Dan Sai",
+      "slug": "dan-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4205",
+      "level": 2,
+      "name": {
+        "th": "ด่านซ้าย",
+        "en": "Dan Sai",
+        "slug": "dan-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "42120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.331",
+    "lon": "101.142"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-ho-420510/"
+  }
+}

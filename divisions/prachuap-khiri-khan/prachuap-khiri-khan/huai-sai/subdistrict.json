@@ -1,0 +1,61 @@
+{
+  "id": "770104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยทราย",
+    "en": "Huai Sai",
+    "slug": "huai-sai"
+  },
+  "code": {
+    "dopa": "770104"
+  },
+  "parent": {
+    "id": "7701",
+    "level": 2,
+    "name": {
+      "th": "เมืองประจวบคีรีขันธ์",
+      "en": "Prachuap Khiri Khan",
+      "slug": "prachuap-khiri-khan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    },
+    {
+      "id": "7701",
+      "level": 2,
+      "name": {
+        "th": "เมืองประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "77000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "11.709",
+    "lon": "99.672"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-sai-770104/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "411907",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านเหล่า",
+    "en": "Ban Lao",
+    "slug": "ban-lao"
+  },
+  "code": {
+    "dopa": "411907"
+  },
+  "parent": {
+    "id": "4119",
+    "level": 2,
+    "name": {
+      "th": "เพ็ญ",
+      "en": "Phen",
+      "slug": "phen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4119",
+      "level": 2,
+      "name": {
+        "th": "เพ็ญ",
+        "en": "Phen",
+        "slug": "phen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "41150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.685",
+    "lon": "103.040"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-lao-411907/"
+  }
+}

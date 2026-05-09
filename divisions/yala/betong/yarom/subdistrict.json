@@ -1,0 +1,61 @@
+{
+  "id": "950202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยะรม",
+    "en": "Yarom",
+    "slug": "yarom"
+  },
+  "code": {
+    "dopa": "950202"
+  },
+  "parent": {
+    "id": "9502",
+    "level": 2,
+    "name": {
+      "th": "เบตง",
+      "en": "Betong",
+      "slug": "betong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9502",
+      "level": 2,
+      "name": {
+        "th": "เบตง",
+        "en": "Betong",
+        "slug": "betong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "95110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "5.771",
+    "lon": "101.203"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yarom-950202/"
+  }
+}

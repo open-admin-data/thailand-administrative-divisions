@@ -1,0 +1,61 @@
+{
+  "id": "802301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เชียรเขา",
+    "en": "Chian Khao",
+    "slug": "chian-khao"
+  },
+  "code": {
+    "dopa": "802301"
+  },
+  "parent": {
+    "id": "8023",
+    "level": 2,
+    "name": {
+      "th": "เฉลิมพระเกียรติ",
+      "en": "Chaloem Phra Kiat",
+      "slug": "chaloem-phra-kiat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8023",
+      "level": 2,
+      "name": {
+        "th": "เฉลิมพระเกียรติ",
+        "en": "Chaloem Phra Kiat",
+        "slug": "chaloem-phra-kiat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "80190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.184",
+    "lon": "100.078"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chian-khao-802301/"
+  }
+}

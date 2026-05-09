@@ -1,0 +1,61 @@
+{
+  "id": "130407",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นพรัตน์",
+    "en": "Noppharat",
+    "slug": "noppharat"
+  },
+  "code": {
+    "dopa": "130407"
+  },
+  "parent": {
+    "id": "1304",
+    "level": 2,
+    "name": {
+      "th": "หนองเสือ",
+      "en": "Nong Suea",
+      "slug": "nong-suea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1304",
+      "level": 2,
+      "name": {
+        "th": "หนองเสือ",
+        "en": "Nong Suea",
+        "slug": "nong-suea"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "12170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.223",
+    "lon": "100.866"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/noppharat-130407/"
+  }
+}

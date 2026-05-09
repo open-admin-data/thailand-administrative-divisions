@@ -1,0 +1,61 @@
+{
+  "id": "850403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มะมุ",
+    "en": "Mamu",
+    "slug": "mamu"
+  },
+  "code": {
+    "dopa": "850403"
+  },
+  "parent": {
+    "id": "8504",
+    "level": 2,
+    "name": {
+      "th": "กระบุรี",
+      "en": "Kra Buri",
+      "slug": "kra-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "85",
+      "level": 1,
+      "name": {
+        "th": "ระนอง",
+        "en": "Ranong",
+        "slug": "ranong"
+      }
+    },
+    {
+      "id": "8504",
+      "level": 2,
+      "name": {
+        "th": "กระบุรี",
+        "en": "Kra Buri",
+        "slug": "kra-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "85110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.457",
+    "lon": "98.846"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mamu-850403/"
+  }
+}

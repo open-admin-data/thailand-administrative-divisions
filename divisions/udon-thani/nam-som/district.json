@@ -1,0 +1,50 @@
+{
+  "id": "4118",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "น้ำโสม",
+    "en": "Nam Som",
+    "slug": "nam-som"
+  },
+  "code": {
+    "dopa": "4118"
+  },
+  "parent": {
+    "id": "41",
+    "level": 1,
+    "name": {
+      "th": "อุดรธานี",
+      "en": "Udon Thani",
+      "slug": "udon-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 85
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.732",
+    "lon": "102.162"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nam-som-4118/"
+  }
+}

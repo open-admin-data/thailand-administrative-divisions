@@ -1,0 +1,61 @@
+{
+  "id": "671101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งสมอ",
+    "en": "Khao Kho",
+    "slug": "khao-kho"
+  },
+  "code": {
+    "dopa": "671101"
+  },
+  "parent": {
+    "id": "6711",
+    "level": 2,
+    "name": {
+      "th": "เขาค้อ",
+      "en": "Thung Samo",
+      "slug": "thung-samo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6711",
+      "level": 2,
+      "name": {
+        "th": "เขาค้อ",
+        "en": "Thung Samo",
+        "slug": "thung-samo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "67270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.717",
+    "lon": "100.962"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-kho-671101/"
+  }
+}

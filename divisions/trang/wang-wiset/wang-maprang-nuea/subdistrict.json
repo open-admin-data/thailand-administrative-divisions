@@ -1,0 +1,61 @@
+{
+  "id": "920705",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังมะปรางเหนือ",
+    "en": "Wang Maprang Nuea",
+    "slug": "wang-maprang-nuea"
+  },
+  "code": {
+    "dopa": "920705"
+  },
+  "parent": {
+    "id": "9207",
+    "level": 2,
+    "name": {
+      "th": "วังวิเศษ",
+      "en": "Wang Wiset",
+      "slug": "wang-wiset"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9207",
+      "level": 2,
+      "name": {
+        "th": "วังวิเศษ",
+        "en": "Wang Wiset",
+        "slug": "wang-wiset"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "92220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.746",
+    "lon": "99.398"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-maprang-nuea-920705/"
+  }
+}

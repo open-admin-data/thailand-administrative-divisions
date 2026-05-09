@@ -1,0 +1,50 @@
+{
+  "id": "1502",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ไชโย",
+    "en": "Chaiyo",
+    "slug": "chaiyo"
+  },
+  "code": {
+    "dopa": "1502"
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "th": "อ่างทอง",
+      "en": "Ang Thong",
+      "slug": "ang-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 51
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.687",
+    "lon": "100.494"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chaiyo-1502/"
+  }
+}

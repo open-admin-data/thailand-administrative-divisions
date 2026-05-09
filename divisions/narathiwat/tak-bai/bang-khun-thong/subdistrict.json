@@ -1,0 +1,61 @@
+{
+  "id": "960205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางขุนทอง",
+    "en": "Bang Khun Thong",
+    "slug": "bang-khun-thong"
+  },
+  "code": {
+    "dopa": "960205"
+  },
+  "parent": {
+    "id": "9602",
+    "level": 2,
+    "name": {
+      "th": "ตากใบ",
+      "en": "Tak Bai",
+      "slug": "tak-bai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9602",
+      "level": 2,
+      "name": {
+        "th": "ตากใบ",
+        "en": "Tak Bai",
+        "slug": "tak-bai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "96110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.234",
+    "lon": "101.967"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-khun-thong-960205/"
+  }
+}

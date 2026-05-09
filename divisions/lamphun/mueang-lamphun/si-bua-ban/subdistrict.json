@@ -1,0 +1,61 @@
+{
+  "id": "510116",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีบัวบาน",
+    "en": "Si Bua Ban",
+    "slug": "si-bua-ban"
+  },
+  "code": {
+    "dopa": "510116"
+  },
+  "parent": {
+    "id": "5101",
+    "level": 2,
+    "name": {
+      "th": "เมืองลำพูน",
+      "en": "Mueang Lamphun",
+      "slug": "mueang-lamphun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5101",
+      "level": 2,
+      "name": {
+        "th": "เมืองลำพูน",
+        "en": "Mueang Lamphun",
+        "slug": "mueang-lamphun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "51000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.517",
+    "lon": "99.109"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-bua-ban-510116/"
+  }
+}

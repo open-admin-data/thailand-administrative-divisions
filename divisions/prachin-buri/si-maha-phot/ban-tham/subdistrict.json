@@ -1,0 +1,61 @@
+{
+  "id": "250803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านทาม",
+    "en": "Ban Tham",
+    "slug": "ban-tham"
+  },
+  "code": {
+    "dopa": "250803"
+  },
+  "parent": {
+    "id": "2508",
+    "level": 2,
+    "name": {
+      "th": "ศรีมหาโพธิ",
+      "en": "Si Maha Phot",
+      "slug": "si-maha-phot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "th": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri"
+      }
+    },
+    {
+      "id": "2508",
+      "level": 2,
+      "name": {
+        "th": "ศรีมหาโพธิ",
+        "en": "Si Maha Phot",
+        "slug": "si-maha-phot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "25140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.976",
+    "lon": "101.552"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-tham-250803/"
+  }
+}

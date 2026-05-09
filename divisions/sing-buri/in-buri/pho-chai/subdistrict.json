@@ -1,0 +1,61 @@
+{
+  "id": "170610",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพธิ์ชัย",
+    "en": "Pho Chai",
+    "slug": "pho-chai"
+  },
+  "code": {
+    "dopa": "170610"
+  },
+  "parent": {
+    "id": "1706",
+    "level": 2,
+    "name": {
+      "th": "อินทร์บุรี",
+      "en": "In Buri",
+      "slug": "in-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "th": "อินทร์บุรี",
+        "en": "In Buri",
+        "slug": "in-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "16110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.027",
+    "lon": "100.439"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pho-chai-170610/"
+  }
+}

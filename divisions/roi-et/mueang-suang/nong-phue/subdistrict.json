@@ -1,0 +1,61 @@
+{
+  "id": "451201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองผือ",
+    "en": "Nong Phue",
+    "slug": "nong-phue"
+  },
+  "code": {
+    "dopa": "451201"
+  },
+  "parent": {
+    "id": "4512",
+    "level": 2,
+    "name": {
+      "th": "เมืองสรวง",
+      "en": "Mueang Suang",
+      "slug": "mueang-suang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4512",
+      "level": 2,
+      "name": {
+        "th": "เมืองสรวง",
+        "en": "Mueang Suang",
+        "slug": "mueang-suang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "45220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.817",
+    "lon": "103.714"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-phue-451201/"
+  }
+}

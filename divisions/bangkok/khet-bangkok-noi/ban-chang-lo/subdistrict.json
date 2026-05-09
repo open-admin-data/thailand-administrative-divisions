@@ -1,0 +1,61 @@
+{
+  "id": "102005",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง บ้านช่างหล่อ",
+    "en": "Ban Chang Lo",
+    "slug": "ban-chang-lo"
+  },
+  "code": {
+    "dopa": "102005"
+  },
+  "parent": {
+    "id": "1020",
+    "level": 2,
+    "name": {
+      "th": "เขต บางกอกน้อย",
+      "en": "Khet Bangkok Noi",
+      "slug": "khet-bangkok-noi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1020",
+      "level": 2,
+      "name": {
+        "th": "เขต บางกอกน้อย",
+        "en": "Khet Bangkok Noi",
+        "slug": "khet-bangkok-noi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10700"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.752",
+    "lon": "100.477"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-chang-lo-102005/"
+  }
+}

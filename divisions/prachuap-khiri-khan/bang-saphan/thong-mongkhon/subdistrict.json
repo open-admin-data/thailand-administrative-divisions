@@ -1,0 +1,61 @@
+{
+  "id": "770406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทองมงคล",
+    "en": "Thong Mongkhon",
+    "slug": "thong-mongkhon"
+  },
+  "code": {
+    "dopa": "770406"
+  },
+  "parent": {
+    "id": "7704",
+    "level": 2,
+    "name": {
+      "th": "บางสะพาน",
+      "en": "Bang Saphan",
+      "slug": "bang-saphan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    },
+    {
+      "id": "7704",
+      "level": 2,
+      "name": {
+        "th": "บางสะพาน",
+        "en": "Bang Saphan",
+        "slug": "bang-saphan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "77230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "11.204",
+    "lon": "99.369"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thong-mongkhon-770406/"
+  }
+}

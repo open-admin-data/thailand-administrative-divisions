@@ -1,0 +1,61 @@
+{
+  "id": "900102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขารูปช้าง",
+    "en": "Khao Rup Chang",
+    "slug": "khao-rup-chang"
+  },
+  "code": {
+    "dopa": "900102"
+  },
+  "parent": {
+    "id": "9001",
+    "level": 2,
+    "name": {
+      "th": "เมืองสงขลา",
+      "en": "Mueang Songkhla",
+      "slug": "mueang-songkhla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9001",
+      "level": 2,
+      "name": {
+        "th": "เมืองสงขลา",
+        "en": "Mueang Songkhla",
+        "slug": "mueang-songkhla"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "90000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.154",
+    "lon": "100.612"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-rup-chang-900102/"
+  }
+}

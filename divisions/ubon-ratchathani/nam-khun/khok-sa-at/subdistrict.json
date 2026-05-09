@@ -1,0 +1,61 @@
+{
+  "id": "343304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกสะอาด",
+    "en": "Khok Sa-at",
+    "slug": "khok-sa-at"
+  },
+  "code": {
+    "dopa": "343304"
+  },
+  "parent": {
+    "id": "3433",
+    "level": 2,
+    "name": {
+      "th": "น้ำขุ่น",
+      "en": "Nam Khun",
+      "slug": "nam-khun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3433",
+      "level": 2,
+      "name": {
+        "th": "น้ำขุ่น",
+        "en": "Nam Khun",
+        "slug": "nam-khun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "34260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.443",
+    "lon": "104.848"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-sa-at-343304/"
+  }
+}

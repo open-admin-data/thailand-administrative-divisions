@@ -1,0 +1,61 @@
+{
+  "id": "900904",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ควนรู",
+    "en": "Khuan Ru",
+    "slug": "khuan-ru"
+  },
+  "code": {
+    "dopa": "900904"
+  },
+  "parent": {
+    "id": "9009",
+    "level": 2,
+    "name": {
+      "th": "รัตภูมิ",
+      "en": "Rattaphum",
+      "slug": "rattaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9009",
+      "level": 2,
+      "name": {
+        "th": "รัตภูมิ",
+        "en": "Rattaphum",
+        "slug": "rattaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "90180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.183",
+    "lon": "100.313"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khuan-ru-900904/"
+  }
+}

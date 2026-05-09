@@ -1,0 +1,61 @@
+{
+  "id": "801906",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สาม",
+    "en": "Sam Tambon",
+    "slug": "sam-tambon"
+  },
+  "code": {
+    "dopa": "801906"
+  },
+  "parent": {
+    "id": "8019",
+    "level": 2,
+    "name": {
+      "th": "จุฬาภรณ์",
+      "en": "Chulabhorn",
+      "slug": "chulabhorn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8019",
+      "level": 2,
+      "name": {
+        "th": "จุฬาภรณ์",
+        "en": "Chulabhorn",
+        "slug": "chulabhorn"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "80130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.060",
+    "lon": "99.806"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sam-tambon-801906/"
+  }
+}

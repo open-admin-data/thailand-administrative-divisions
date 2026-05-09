@@ -1,0 +1,61 @@
+{
+  "id": "580605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าโปง",
+    "en": "Pa Pong",
+    "slug": "pa-pong"
+  },
+  "code": {
+    "dopa": "580605"
+  },
+  "parent": {
+    "id": "5806",
+    "level": 2,
+    "name": {
+      "th": "สบเมย",
+      "en": "Sop Moei",
+      "slug": "sop-moei"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    },
+    {
+      "id": "5806",
+      "level": 2,
+      "name": {
+        "th": "สบเมย",
+        "en": "Sop Moei",
+        "slug": "sop-moei"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "58110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.113",
+    "lon": "98.166"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-pong-580605/"
+  }
+}

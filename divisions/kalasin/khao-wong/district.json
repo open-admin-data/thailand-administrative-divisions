@@ -1,0 +1,50 @@
+{
+  "id": "4606",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขาวง",
+    "en": "Khao Wong",
+    "slug": "khao-wong"
+  },
+  "code": {
+    "dopa": "4606"
+  },
+  "parent": {
+    "id": "46",
+    "level": 1,
+    "name": {
+      "th": "กาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 71
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.719",
+    "lon": "104.055"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khao-wong-4606/"
+  }
+}

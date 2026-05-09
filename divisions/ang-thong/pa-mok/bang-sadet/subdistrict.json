@@ -1,0 +1,61 @@
+{
+  "id": "150305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางเสด็จ",
+    "en": "Bang Sadet",
+    "slug": "bang-sadet"
+  },
+  "code": {
+    "dopa": "150305"
+  },
+  "parent": {
+    "id": "1503",
+    "level": 2,
+    "name": {
+      "th": "ป่าโมก",
+      "en": "Pa Mok",
+      "slug": "pa-mok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1503",
+      "level": 2,
+      "name": {
+        "th": "ป่าโมก",
+        "en": "Pa Mok",
+        "slug": "pa-mok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "14130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.461",
+    "lon": "100.473"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-sadet-150305/"
+  }
+}

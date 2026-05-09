@@ -1,0 +1,61 @@
+{
+  "id": "471503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ด่านม่วงคำ",
+    "en": "Dan Muang Kham",
+    "slug": "dan-muang-kham"
+  },
+  "code": {
+    "dopa": "471503"
+  },
+  "parent": {
+    "id": "4715",
+    "level": 2,
+    "name": {
+      "th": "โคกศรีสุพรรณ",
+      "en": "Khok Si Suphan",
+      "slug": "khok-si-suphan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4715",
+      "level": 2,
+      "name": {
+        "th": "โคกศรีสุพรรณ",
+        "en": "Khok Si Suphan",
+        "slug": "khok-si-suphan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "47280"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.096",
+    "lon": "104.320"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dan-muang-kham-471503/"
+  }
+}

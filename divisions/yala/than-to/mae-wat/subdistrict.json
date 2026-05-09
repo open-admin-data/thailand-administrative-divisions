@@ -1,0 +1,61 @@
+{
+  "id": "950403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่หวาด",
+    "en": "Mae Wat",
+    "slug": "mae-wat"
+  },
+  "code": {
+    "dopa": "950403"
+  },
+  "parent": {
+    "id": "9504",
+    "level": 2,
+    "name": {
+      "th": "ธารโต",
+      "en": "Than To",
+      "slug": "than-to"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9504",
+      "level": 2,
+      "name": {
+        "th": "ธารโต",
+        "en": "Than To",
+        "slug": "than-to"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "95170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.102",
+    "lon": "101.384"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-wat-950403/"
+  }
+}

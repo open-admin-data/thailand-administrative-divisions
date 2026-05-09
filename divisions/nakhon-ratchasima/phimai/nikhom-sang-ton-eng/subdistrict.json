@@ -1,0 +1,61 @@
+{
+  "id": "301508",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นิคมสร้างตนเอง",
+    "en": "Nikhom Sang Ton-eng",
+    "slug": "nikhom-sang-ton-eng"
+  },
+  "code": {
+    "dopa": "301508"
+  },
+  "parent": {
+    "id": "3015",
+    "level": 2,
+    "name": {
+      "th": "พิมาย",
+      "en": "Phimai",
+      "slug": "phimai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3015",
+      "level": 2,
+      "name": {
+        "th": "พิมาย",
+        "en": "Phimai",
+        "slug": "phimai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 22
+  },
+  "zip_codes": [
+    "30110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.128",
+    "lon": "102.490"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nikhom-sang-ton-eng-301508/"
+  }
+}

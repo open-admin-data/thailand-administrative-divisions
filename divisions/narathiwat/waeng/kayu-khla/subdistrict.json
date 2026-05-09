@@ -1,0 +1,61 @@
+{
+  "id": "960802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กายูคละ",
+    "en": "Kayu Khla",
+    "slug": "kayu-khla"
+  },
+  "code": {
+    "dopa": "960802"
+  },
+  "parent": {
+    "id": "9608",
+    "level": 2,
+    "name": {
+      "th": "แว้ง",
+      "en": "Waeng",
+      "slug": "waeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9608",
+      "level": 2,
+      "name": {
+        "th": "แว้ง",
+        "en": "Waeng",
+        "slug": "waeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "96160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "5.974",
+    "lon": "101.911"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kayu-khla-960802/"
+  }
+}

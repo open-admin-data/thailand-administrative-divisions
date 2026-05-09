@@ -1,0 +1,61 @@
+{
+  "id": "451503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บุ่งเลิศ",
+    "en": "Bung Loet",
+    "slug": "bung-loet"
+  },
+  "code": {
+    "dopa": "451503"
+  },
+  "parent": {
+    "id": "4515",
+    "level": 2,
+    "name": {
+      "th": "เมยวดี",
+      "en": "Moei Wadi",
+      "slug": "moei-wadi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4515",
+      "level": 2,
+      "name": {
+        "th": "เมยวดี",
+        "en": "Moei Wadi",
+        "slug": "moei-wadi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "45250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.416",
+    "lon": "104.123"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bung-loet-451503/"
+  }
+}

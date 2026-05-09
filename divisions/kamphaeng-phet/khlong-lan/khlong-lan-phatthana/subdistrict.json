@@ -1,0 +1,61 @@
+{
+  "id": "620303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองลานพัฒนา",
+    "en": "Khlong Lan Phatthana",
+    "slug": "khlong-lan-phatthana"
+  },
+  "code": {
+    "dopa": "620303"
+  },
+  "parent": {
+    "id": "6203",
+    "level": 2,
+    "name": {
+      "th": "คลองลาน",
+      "en": "Khlong Lan",
+      "slug": "khlong-lan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6203",
+      "level": 2,
+      "name": {
+        "th": "คลองลาน",
+        "en": "Khlong Lan",
+        "slug": "khlong-lan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "62180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.096",
+    "lon": "99.252"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-lan-phatthana-620303/"
+  }
+}

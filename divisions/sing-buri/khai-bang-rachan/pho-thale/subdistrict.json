@@ -1,0 +1,61 @@
+{
+  "id": "170301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพทะเล",
+    "en": "Pho Thale",
+    "slug": "pho-thale"
+  },
+  "code": {
+    "dopa": "170301"
+  },
+  "parent": {
+    "id": "1703",
+    "level": 2,
+    "name": {
+      "th": "ค่ายบางระจัน",
+      "en": "Khai Bang Rachan",
+      "slug": "khai-bang-rachan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1703",
+      "level": 2,
+      "name": {
+        "th": "ค่ายบางระจัน",
+        "en": "Khai Bang Rachan",
+        "slug": "khai-bang-rachan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "16150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.829",
+    "lon": "100.257"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pho-thale-170301/"
+  }
+}

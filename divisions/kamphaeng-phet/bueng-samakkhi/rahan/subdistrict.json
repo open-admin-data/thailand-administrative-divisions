@@ -1,0 +1,61 @@
+{
+  "id": "621003",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ระหาน",
+    "en": "Rahan",
+    "slug": "rahan"
+  },
+  "code": {
+    "dopa": "621003"
+  },
+  "parent": {
+    "id": "6210",
+    "level": 2,
+    "name": {
+      "th": "บึงสามัคคี",
+      "en": "Bueng Samakkhi",
+      "slug": "bueng-samakkhi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6210",
+      "level": 2,
+      "name": {
+        "th": "บึงสามัคคี",
+        "en": "Bueng Samakkhi",
+        "slug": "bueng-samakkhi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "62210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.158",
+    "lon": "99.941"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rahan-621003/"
+  }
+}

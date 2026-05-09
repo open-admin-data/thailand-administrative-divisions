@@ -1,0 +1,50 @@
+{
+  "id": "1414",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "อุทัย",
+    "en": "Uthai",
+    "slug": "uthai"
+  },
+  "code": {
+    "dopa": "1414"
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "th": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 107
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.355",
+    "lon": "100.622"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/uthai-1414/"
+  }
+}

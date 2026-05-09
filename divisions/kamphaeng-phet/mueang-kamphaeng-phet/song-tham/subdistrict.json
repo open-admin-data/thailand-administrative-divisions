@@ -1,0 +1,61 @@
+{
+  "id": "620106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทรงธรรม",
+    "en": "Song Tham",
+    "slug": "song-tham"
+  },
+  "code": {
+    "dopa": "620106"
+  },
+  "parent": {
+    "id": "6201",
+    "level": 2,
+    "name": {
+      "th": "เมืองกำแพงเพชร",
+      "en": "Mueang Kamphaeng Phet",
+      "slug": "mueang-kamphaeng-phet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6201",
+      "level": 2,
+      "name": {
+        "th": "เมืองกำแพงเพชร",
+        "en": "Mueang Kamphaeng Phet",
+        "slug": "mueang-kamphaeng-phet"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "62000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.530",
+    "lon": "99.454"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/song-tham-620106/"
+  }
+}

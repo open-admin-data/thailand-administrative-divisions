@@ -1,0 +1,61 @@
+{
+  "id": "650101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ในเมือง",
+    "en": "Nai Mueang",
+    "slug": "nai-mueang"
+  },
+  "code": {
+    "dopa": "650101"
+  },
+  "parent": {
+    "id": "6501",
+    "level": 2,
+    "name": {
+      "th": "เมืองพิษณุโลก",
+      "en": "Mueang Phitsanulok",
+      "slug": "mueang-phitsanulok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "th": "เมืองพิษณุโลก",
+        "en": "Mueang Phitsanulok",
+        "slug": "mueang-phitsanulok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 64
+  },
+  "zip_codes": [
+    "65000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.815",
+    "lon": "100.260"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nai-mueang-650101/"
+  }
+}

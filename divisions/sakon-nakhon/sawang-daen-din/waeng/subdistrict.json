@@ -1,0 +1,61 @@
+{
+  "id": "471214",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แวง",
+    "en": "Waeng",
+    "slug": "waeng"
+  },
+  "code": {
+    "dopa": "471214"
+  },
+  "parent": {
+    "id": "4712",
+    "level": 2,
+    "name": {
+      "th": "สว่างแดนดิน",
+      "en": "Sawang Daen Din",
+      "slug": "sawang-daen-din"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4712",
+      "level": 2,
+      "name": {
+        "th": "สว่างแดนดิน",
+        "en": "Sawang Daen Din",
+        "slug": "sawang-daen-din"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "47240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.456",
+    "lon": "103.630"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/waeng-471214/"
+  }
+}

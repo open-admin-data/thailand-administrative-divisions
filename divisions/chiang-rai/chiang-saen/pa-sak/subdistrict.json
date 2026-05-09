@@ -1,0 +1,61 @@
+{
+  "id": "570802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าสัก",
+    "en": "Pa Sak",
+    "slug": "pa-sak"
+  },
+  "code": {
+    "dopa": "570802"
+  },
+  "parent": {
+    "id": "5708",
+    "level": 2,
+    "name": {
+      "th": "เชียงแสน",
+      "en": "Chiang Saen",
+      "slug": "chiang-saen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5708",
+      "level": 2,
+      "name": {
+        "th": "เชียงแสน",
+        "en": "Chiang Saen",
+        "slug": "chiang-saen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "57150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.280",
+    "lon": "100.003"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-sak-570802/"
+  }
+}

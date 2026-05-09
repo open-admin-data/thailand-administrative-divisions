@@ -1,0 +1,50 @@
+{
+  "id": "1043",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต คันนายาว",
+    "en": "Khet Khan Na Yao",
+    "slug": "khet-khan-na-yao"
+  },
+  "code": {
+    "dopa": "1043"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 1,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.821",
+    "lon": "100.677"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khet-khan-na-yao-1043/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "550604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยม",
+    "en": "Yom",
+    "slug": "yom"
+  },
+  "code": {
+    "dopa": "550604"
+  },
+  "parent": {
+    "id": "5506",
+    "level": 2,
+    "name": {
+      "th": "ท่าวังผา",
+      "en": "Tha Wang Pha",
+      "slug": "tha-wang-pha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5506",
+      "level": 2,
+      "name": {
+        "th": "ท่าวังผา",
+        "en": "Tha Wang Pha",
+        "slug": "tha-wang-pha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "55140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.061",
+    "lon": "100.926"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yom-550604/"
+  }
+}

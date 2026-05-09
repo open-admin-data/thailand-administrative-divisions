@@ -1,0 +1,61 @@
+{
+  "id": "410207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตาลเลียน",
+    "en": "Tan Lian",
+    "slug": "tan-lian"
+  },
+  "code": {
+    "dopa": "410207"
+  },
+  "parent": {
+    "id": "4102",
+    "level": 2,
+    "name": {
+      "th": "กุดจับ",
+      "en": "Kut Chap",
+      "slug": "kut-chap"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4102",
+      "level": 2,
+      "name": {
+        "th": "กุดจับ",
+        "en": "Kut Chap",
+        "slug": "kut-chap"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "41250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.440",
+    "lon": "102.429"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tan-lian-410207/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "4020",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ภูผาม่าน",
+    "en": "Phu Pha Man",
+    "slug": "phu-pha-man"
+  },
+  "code": {
+    "dopa": "4020"
+  },
+  "parent": {
+    "id": "40",
+    "level": 1,
+    "name": {
+      "th": "ขอนแก่น",
+      "en": "Khon Kaen",
+      "slug": "khon-kaen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 42
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.648",
+    "lon": "101.935"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phu-pha-man-4020/"
+  }
+}

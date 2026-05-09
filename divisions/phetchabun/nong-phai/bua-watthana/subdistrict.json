@@ -1,0 +1,61 @@
+{
+  "id": "670709",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บัววัฒนา",
+    "en": "Bua Watthana",
+    "slug": "bua-watthana"
+  },
+  "code": {
+    "dopa": "670709"
+  },
+  "parent": {
+    "id": "6707",
+    "level": 2,
+    "name": {
+      "th": "หนองไผ่",
+      "en": "Nong Phai",
+      "slug": "nong-phai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6707",
+      "level": 2,
+      "name": {
+        "th": "หนองไผ่",
+        "en": "Nong Phai",
+        "slug": "nong-phai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "67140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.953",
+    "lon": "101.034"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bua-watthana-670709/"
+  }
+}

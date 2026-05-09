@@ -1,0 +1,61 @@
+{
+  "id": "120610",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองข่อย",
+    "en": "Khlong Khoi",
+    "slug": "khlong-khoi"
+  },
+  "code": {
+    "dopa": "120610"
+  },
+  "parent": {
+    "id": "1206",
+    "level": 2,
+    "name": {
+      "th": "ปากเกร็ด",
+      "en": "Pak Kret",
+      "slug": "pak-kret"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "th": "ปากเกร็ด",
+        "en": "Pak Kret",
+        "slug": "pak-kret"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "11120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.959",
+    "lon": "100.450"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-khoi-120610/"
+  }
+}

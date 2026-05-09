@@ -1,0 +1,61 @@
+{
+  "id": "301511",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ธารละหลอด",
+    "en": "Than Lalot",
+    "slug": "than-lalot"
+  },
+  "code": {
+    "dopa": "301511"
+  },
+  "parent": {
+    "id": "3015",
+    "level": 2,
+    "name": {
+      "th": "พิมาย",
+      "en": "Phimai",
+      "slug": "phimai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3015",
+      "level": 2,
+      "name": {
+        "th": "พิมาย",
+        "en": "Phimai",
+        "slug": "phimai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "30110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.162",
+    "lon": "102.403"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/than-lalot-301511/"
+  }
+}

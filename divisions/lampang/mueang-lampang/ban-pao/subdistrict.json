@@ -1,0 +1,61 @@
+{
+  "id": "520114",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านเป้า",
+    "en": "Ban Pao",
+    "slug": "ban-pao"
+  },
+  "code": {
+    "dopa": "520114"
+  },
+  "parent": {
+    "id": "5201",
+    "level": 2,
+    "name": {
+      "th": "เมืองลำปาง",
+      "en": "Mueang Lampang",
+      "slug": "mueang-lampang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5201",
+      "level": 2,
+      "name": {
+        "th": "เมืองลำปาง",
+        "en": "Mueang Lampang",
+        "slug": "mueang-lampang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "52100"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.357",
+    "lon": "99.455"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-pao-520114/"
+  }
+}

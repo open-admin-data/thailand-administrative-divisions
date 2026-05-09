@@ -1,0 +1,61 @@
+{
+  "id": "480607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองย่างชิ้น",
+    "en": "Nong Yang Chin",
+    "slug": "nong-yang-chin"
+  },
+  "code": {
+    "dopa": "480607"
+  },
+  "parent": {
+    "id": "4806",
+    "level": 2,
+    "name": {
+      "th": "เรณูนคร",
+      "en": "Renu Nakhon",
+      "slug": "renu-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4806",
+      "level": 2,
+      "name": {
+        "th": "เรณูนคร",
+        "en": "Renu Nakhon",
+        "slug": "renu-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "48170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.019",
+    "lon": "104.698"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-yang-chin-480607/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "730206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สระสี่มุม",
+    "en": "Sa Si Mum",
+    "slug": "sa-si-mum"
+  },
+  "code": {
+    "dopa": "730206"
+  },
+  "parent": {
+    "id": "7302",
+    "level": 2,
+    "name": {
+      "th": "กำแพงแสน",
+      "en": "Kamphaeng Saen",
+      "slug": "kamphaeng-saen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7302",
+      "level": 2,
+      "name": {
+        "th": "กำแพงแสน",
+        "en": "Kamphaeng Saen",
+        "slug": "kamphaeng-saen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 24
+  },
+  "zip_codes": [
+    "73140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.065",
+    "lon": "100.003"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sa-si-mum-730206/"
+  }
+}

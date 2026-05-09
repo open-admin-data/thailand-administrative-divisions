@@ -1,0 +1,61 @@
+{
+  "id": "310416",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านสิงห์",
+    "en": "Ban Sing",
+    "slug": "ban-sing"
+  },
+  "code": {
+    "dopa": "310416"
+  },
+  "parent": {
+    "id": "3104",
+    "level": 2,
+    "name": {
+      "th": "นางรอง",
+      "en": "Nang Rong",
+      "slug": "nang-rong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3104",
+      "level": 2,
+      "name": {
+        "th": "นางรอง",
+        "en": "Nang Rong",
+        "slug": "nang-rong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "31110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.735",
+    "lon": "102.789"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-sing-310416/"
+  }
+}

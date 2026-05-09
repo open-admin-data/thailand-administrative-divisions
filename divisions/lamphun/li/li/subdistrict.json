@@ -1,0 +1,61 @@
+{
+  "id": "510401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลี้",
+    "en": "Li",
+    "slug": "li"
+  },
+  "code": {
+    "dopa": "510401"
+  },
+  "parent": {
+    "id": "5104",
+    "level": 2,
+    "name": {
+      "th": "ลี้",
+      "en": "Li",
+      "slug": "li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5104",
+      "level": 2,
+      "name": {
+        "th": "ลี้",
+        "en": "Li",
+        "slug": "li"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "51110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.790",
+    "lon": "98.986"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/li-510401/"
+  }
+}

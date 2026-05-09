@@ -1,0 +1,61 @@
+{
+  "id": "800107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากนคร",
+    "en": "Pak Nakhon",
+    "slug": "pak-nakhon"
+  },
+  "code": {
+    "dopa": "800107"
+  },
+  "parent": {
+    "id": "8001",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครศรีธรรมราช",
+      "en": "Mueang Nakhon Si Thammarat",
+      "slug": "mueang-nakhon-si-thammarat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8001",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครศรีธรรมราช",
+        "en": "Mueang Nakhon Si Thammarat",
+        "slug": "mueang-nakhon-si-thammarat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "80000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.421",
+    "lon": "99.996"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-nakhon-800107/"
+  }
+}

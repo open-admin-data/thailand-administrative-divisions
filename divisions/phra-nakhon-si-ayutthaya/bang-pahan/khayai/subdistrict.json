@@ -1,0 +1,61 @@
+{
+  "id": "140702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขยาย",
+    "en": "Khayai",
+    "slug": "khayai"
+  },
+  "code": {
+    "dopa": "140702"
+  },
+  "parent": {
+    "id": "1407",
+    "level": 2,
+    "name": {
+      "th": "บางปะหัน",
+      "en": "Bang Pahan",
+      "slug": "bang-pahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1407",
+      "level": 2,
+      "name": {
+        "th": "บางปะหัน",
+        "en": "Bang Pahan",
+        "slug": "bang-pahan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "13220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.414",
+    "lon": "100.564"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khayai-140702/"
+  }
+}

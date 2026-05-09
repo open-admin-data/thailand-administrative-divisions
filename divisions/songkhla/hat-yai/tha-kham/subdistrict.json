@@ -1,0 +1,61 @@
+{
+  "id": "901113",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าข้าม",
+    "en": "Tha Kham",
+    "slug": "tha-kham"
+  },
+  "code": {
+    "dopa": "901113"
+  },
+  "parent": {
+    "id": "9011",
+    "level": 2,
+    "name": {
+      "th": "หาดใหญ่",
+      "en": "Hat Yai",
+      "slug": "hat-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9011",
+      "level": 2,
+      "name": {
+        "th": "หาดใหญ่",
+        "en": "Hat Yai",
+        "slug": "hat-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "90110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.041",
+    "lon": "100.574"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-kham-901113/"
+  }
+}

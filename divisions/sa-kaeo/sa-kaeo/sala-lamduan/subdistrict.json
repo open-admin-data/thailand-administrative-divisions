@@ -1,0 +1,61 @@
+{
+  "id": "270103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศาลาลำดวน",
+    "en": "Sala Lamduan",
+    "slug": "sala-lamduan"
+  },
+  "code": {
+    "dopa": "270103"
+  },
+  "parent": {
+    "id": "2701",
+    "level": 2,
+    "name": {
+      "th": "เมืองสระแก้ว",
+      "en": "Sa Kaeo",
+      "slug": "sa-kaeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    },
+    {
+      "id": "2701",
+      "level": 2,
+      "name": {
+        "th": "เมืองสระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "27000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.838",
+    "lon": "101.964"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sala-lamduan-270103/"
+  }
+}

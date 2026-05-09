@@ -1,0 +1,61 @@
+{
+  "id": "530101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าอิฐ",
+    "en": "Tha It",
+    "slug": "tha-it"
+  },
+  "code": {
+    "dopa": "530101"
+  },
+  "parent": {
+    "id": "5301",
+    "level": 2,
+    "name": {
+      "th": "เมืองอุตรดิตถ์",
+      "en": "Mueang Uttaradit",
+      "slug": "mueang-uttaradit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "th": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 28
+  },
+  "zip_codes": [
+    "53000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.613",
+    "lon": "100.079"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-it-530101/"
+  }
+}

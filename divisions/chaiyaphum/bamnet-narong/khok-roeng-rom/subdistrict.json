@@ -1,0 +1,61 @@
+{
+  "id": "360705",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกเริงรมย์",
+    "en": "Khok Roeng Rom",
+    "slug": "khok-roeng-rom"
+  },
+  "code": {
+    "dopa": "360705"
+  },
+  "parent": {
+    "id": "3607",
+    "level": 2,
+    "name": {
+      "th": "บำเหน็จณรงค์",
+      "en": "Bamnet Narong",
+      "slug": "bamnet-narong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3607",
+      "level": 2,
+      "name": {
+        "th": "บำเหน็จณรงค์",
+        "en": "Bamnet Narong",
+        "slug": "bamnet-narong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "36160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.391",
+    "lon": "101.576"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-roeng-rom-360705/"
+  }
+}

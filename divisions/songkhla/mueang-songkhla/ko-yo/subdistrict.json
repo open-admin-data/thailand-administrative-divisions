@@ -1,0 +1,61 @@
+{
+  "id": "900106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะยอ",
+    "en": "Ko Yo",
+    "slug": "ko-yo"
+  },
+  "code": {
+    "dopa": "900106"
+  },
+  "parent": {
+    "id": "9001",
+    "level": 2,
+    "name": {
+      "th": "เมืองสงขลา",
+      "en": "Mueang Songkhla",
+      "slug": "mueang-songkhla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9001",
+      "level": 2,
+      "name": {
+        "th": "เมืองสงขลา",
+        "en": "Mueang Songkhla",
+        "slug": "mueang-songkhla"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "90100"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.171",
+    "lon": "100.517"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-yo-900106/"
+  }
+}

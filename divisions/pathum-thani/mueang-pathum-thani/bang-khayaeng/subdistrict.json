@@ -1,0 +1,61 @@
+{
+  "id": "130106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางขะแยง",
+    "en": "Bang Khayaeng",
+    "slug": "bang-khayaeng"
+  },
+  "code": {
+    "dopa": "130106"
+  },
+  "parent": {
+    "id": "1301",
+    "level": 2,
+    "name": {
+      "th": "เมืองปทุมธานี",
+      "en": "Mueang Pathum Thani",
+      "slug": "mueang-pathum-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1301",
+      "level": 2,
+      "name": {
+        "th": "เมืองปทุมธานี",
+        "en": "Mueang Pathum Thani",
+        "slug": "mueang-pathum-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "12000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.967",
+    "lon": "100.523"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-khayaeng-130106/"
+  }
+}

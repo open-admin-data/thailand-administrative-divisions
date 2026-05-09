@@ -1,0 +1,61 @@
+{
+  "id": "160903",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองมะค่า",
+    "en": "Nong Makha",
+    "slug": "nong-makha"
+  },
+  "code": {
+    "dopa": "160903"
+  },
+  "parent": {
+    "id": "1609",
+    "level": 2,
+    "name": {
+      "th": "โคกเจริญ",
+      "en": "Khok Charoen",
+      "slug": "khok-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1609",
+      "level": 2,
+      "name": {
+        "th": "โคกเจริญ",
+        "en": "Khok Charoen",
+        "slug": "khok-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "15250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.515",
+    "lon": "100.839"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-makha-160903/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "450909",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าสีดา",
+    "en": "Ta See Da",
+    "slug": "ta-see-da"
+  },
+  "code": {
+    "dopa": "450909"
+  },
+  "parent": {
+    "id": "4509",
+    "level": 2,
+    "name": {
+      "th": "หนองพอก",
+      "en": "Nong Phok",
+      "slug": "nong-phok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4509",
+      "level": 2,
+      "name": {
+        "th": "หนองพอก",
+        "en": "Nong Phok",
+        "slug": "nong-phok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "45210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.200",
+    "lon": "104.215"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ta-see-da-450909/"
+  }
+}

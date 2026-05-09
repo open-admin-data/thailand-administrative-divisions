@@ -1,0 +1,50 @@
+{
+  "id": "2709",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "วังสมบูรณ์",
+    "en": "Wang Sombun",
+    "slug": "wang-sombun"
+  },
+  "code": {
+    "dopa": "2709"
+  },
+  "parent": {
+    "id": "27",
+    "level": 1,
+    "name": {
+      "th": "สระแก้ว",
+      "en": "Sa Kaeo",
+      "slug": "sa-kaeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 48
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.344",
+    "lon": "102.207"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wang-sombun-2709/"
+  }
+}

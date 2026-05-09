@@ -1,0 +1,61 @@
+{
+  "id": "490102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีบุญเรือง",
+    "en": "Si Bun Rueang",
+    "slug": "si-bun-rueang"
+  },
+  "code": {
+    "dopa": "490102"
+  },
+  "parent": {
+    "id": "4901",
+    "level": 2,
+    "name": {
+      "th": "เมืองมุกดาหาร",
+      "en": "Mukdahan",
+      "slug": "mukdahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4901",
+      "level": 2,
+      "name": {
+        "th": "เมืองมุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "49000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.530",
+    "lon": "104.724"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-bun-rueang-490102/"
+  }
+}

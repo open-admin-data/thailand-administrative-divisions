@@ -1,0 +1,61 @@
+{
+  "id": "210109",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เนินพระ",
+    "en": "Noen Phra",
+    "slug": "noen-phra"
+  },
+  "code": {
+    "dopa": "210109"
+  },
+  "parent": {
+    "id": "2101",
+    "level": 2,
+    "name": {
+      "th": "เมืองระยอง",
+      "en": "Mueang Rayong",
+      "slug": "mueang-rayong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "th": "เมืองระยอง",
+        "en": "Mueang Rayong",
+        "slug": "mueang-rayong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "21000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.681",
+    "lon": "101.223"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/noen-phra-210109/"
+  }
+}

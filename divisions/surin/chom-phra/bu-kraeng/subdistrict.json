@@ -1,0 +1,61 @@
+{
+  "id": "320404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บุแกรง",
+    "en": "Bu Kraeng",
+    "slug": "bu-kraeng"
+  },
+  "code": {
+    "dopa": "320404"
+  },
+  "parent": {
+    "id": "3204",
+    "level": 2,
+    "name": {
+      "th": "จอมพระ",
+      "en": "Chom Phra",
+      "slug": "chom-phra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3204",
+      "level": 2,
+      "name": {
+        "th": "จอมพระ",
+        "en": "Chom Phra",
+        "slug": "chom-phra"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "32180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.079",
+    "lon": "103.683"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bu-kraeng-320404/"
+  }
+}

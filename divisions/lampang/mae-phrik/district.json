@@ -1,0 +1,50 @@
+{
+  "id": "5209",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แม่พริก",
+    "en": "Mae Phrik",
+    "slug": "mae-phrik"
+  },
+  "code": {
+    "dopa": "5209"
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "th": "ลำปาง",
+      "en": "Lampang",
+      "slug": "lampang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 30
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.539",
+    "lon": "99.152"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mae-phrik-5209/"
+  }
+}

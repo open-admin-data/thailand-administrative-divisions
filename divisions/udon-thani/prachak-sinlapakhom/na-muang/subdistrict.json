@@ -1,0 +1,61 @@
+{
+  "id": "412501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาม่วง",
+    "en": "Na Muang",
+    "slug": "na-muang"
+  },
+  "code": {
+    "dopa": "412501"
+  },
+  "parent": {
+    "id": "4125",
+    "level": 2,
+    "name": {
+      "th": "ประจักษ์ศิลปาคม",
+      "en": "Prachak Sinlapakhom",
+      "slug": "prachak-sinlapakhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4125",
+      "level": 2,
+      "name": {
+        "th": "ประจักษ์ศิลปาคม",
+        "en": "Prachak Sinlapakhom",
+        "slug": "prachak-sinlapakhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "41110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.256",
+    "lon": "102.976"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-muang-412501/"
+  }
+}

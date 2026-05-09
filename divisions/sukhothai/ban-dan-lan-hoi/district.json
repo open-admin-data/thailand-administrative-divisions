@@ -1,0 +1,50 @@
+{
+  "id": "6402",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านด่านลานหอย",
+    "en": "Ban Dan Lan Hoi",
+    "slug": "ban-dan-lan-hoi"
+  },
+  "code": {
+    "dopa": "6402"
+  },
+  "parent": {
+    "id": "64",
+    "level": 1,
+    "name": {
+      "th": "สุโขทัย",
+      "en": "Sukhothai",
+      "slug": "sukhothai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 71
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.995",
+    "lon": "99.481"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-dan-lan-hoi-6402/"
+  }
+}

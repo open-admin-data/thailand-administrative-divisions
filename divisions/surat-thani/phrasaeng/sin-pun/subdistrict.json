@@ -1,0 +1,61 @@
+{
+  "id": "841602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สินปุน",
+    "en": "Sin Pun",
+    "slug": "sin-pun"
+  },
+  "code": {
+    "dopa": "841602"
+  },
+  "parent": {
+    "id": "8416",
+    "level": 2,
+    "name": {
+      "th": "พระแสง",
+      "en": "Phrasaeng",
+      "slug": "phrasaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8416",
+      "level": 2,
+      "name": {
+        "th": "พระแสง",
+        "en": "Phrasaeng",
+        "slug": "phrasaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "84210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.514",
+    "lon": "99.238"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sin-pun-841602/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "101704",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง สามเสนนอก",
+    "en": "Samsen Nok",
+    "slug": "samsen-nok"
+  },
+  "code": {
+    "dopa": "101704"
+  },
+  "parent": {
+    "id": "1017",
+    "level": 2,
+    "name": {
+      "th": "เขต ห้วยขวาง",
+      "en": "Huai Khwang",
+      "slug": "huai-khwang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1017",
+      "level": 2,
+      "name": {
+        "th": "เขต ห้วยขวาง",
+        "en": "Huai Khwang",
+        "slug": "huai-khwang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10310"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.796",
+    "lon": "100.579"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samsen-nok-101704/"
+  }
+}

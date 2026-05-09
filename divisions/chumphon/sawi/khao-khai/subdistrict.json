@@ -1,0 +1,61 @@
+{
+  "id": "860711",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาค่าย",
+    "en": "Khao Khai",
+    "slug": "khao-khai"
+  },
+  "code": {
+    "dopa": "860711"
+  },
+  "parent": {
+    "id": "8607",
+    "level": 2,
+    "name": {
+      "th": "สวี",
+      "en": "Sawi",
+      "slug": "sawi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8607",
+      "level": 2,
+      "name": {
+        "th": "สวี",
+        "en": "Sawi",
+        "slug": "sawi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "86130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.104",
+    "lon": "98.891"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-khai-860711/"
+  }
+}

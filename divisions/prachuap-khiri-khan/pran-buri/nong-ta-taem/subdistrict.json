@@ -1,0 +1,61 @@
+{
+  "id": "770607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองตาแต้ม",
+    "en": "Nong Ta Taem",
+    "slug": "nong-ta-taem"
+  },
+  "code": {
+    "dopa": "770607"
+  },
+  "parent": {
+    "id": "7706",
+    "level": 2,
+    "name": {
+      "th": "ปราณบุรี",
+      "en": "Pran Buri",
+      "slug": "pran-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    },
+    {
+      "id": "7706",
+      "level": 2,
+      "name": {
+        "th": "ปราณบุรี",
+        "en": "Pran Buri",
+        "slug": "pran-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "77120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.380",
+    "lon": "99.814"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-ta-taem-770607/"
+  }
+}

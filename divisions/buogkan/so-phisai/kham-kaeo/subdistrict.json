@@ -1,0 +1,61 @@
+{
+  "id": "380304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คำแก้ว",
+    "en": "Kham Kaeo",
+    "slug": "kham-kaeo"
+  },
+  "code": {
+    "dopa": "380304"
+  },
+  "parent": {
+    "id": "3803",
+    "level": 2,
+    "name": {
+      "th": "โซ่พิสัย",
+      "en": "So Phisai",
+      "slug": "so-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3803",
+      "level": 2,
+      "name": {
+        "th": "โซ่พิสัย",
+        "en": "So Phisai",
+        "slug": "so-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "38170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.093",
+    "lon": "103.489"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kham-kaeo-380304/"
+  }
+}

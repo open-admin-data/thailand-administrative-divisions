@@ -1,0 +1,61 @@
+{
+  "id": "400801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกสูง",
+    "en": "Khok Sung",
+    "slug": "khok-sung"
+  },
+  "code": {
+    "dopa": "400801"
+  },
+  "parent": {
+    "id": "4008",
+    "level": 2,
+    "name": {
+      "th": "อุบลรัตน์",
+      "en": "Ubolratana",
+      "slug": "ubolratana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4008",
+      "level": 2,
+      "name": {
+        "th": "อุบลรัตน์",
+        "en": "Ubolratana",
+        "slug": "ubolratana"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "40250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.679",
+    "lon": "102.676"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-sung-400801/"
+  }
+}

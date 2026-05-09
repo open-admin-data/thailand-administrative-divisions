@@ -1,0 +1,38 @@
+{
+  "id": "15",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "อ่างทอง",
+    "en": "Ang Thong",
+    "slug": "ang-thong"
+  },
+  "code": {
+    "dopa": "15",
+    "iso": "TH-15"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 7,
+    "subdistricts": 73,
+    "villages": 545
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central"
+    }
+  },
+  "geo": {
+    "lat": "14.588",
+    "lon": "100.459"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/ang-thong-15/"
+  }
+}

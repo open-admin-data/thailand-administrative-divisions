@@ -1,0 +1,61 @@
+{
+  "id": "490105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพนทราย",
+    "en": "Phon Sai",
+    "slug": "phon-sai"
+  },
+  "code": {
+    "dopa": "490105"
+  },
+  "parent": {
+    "id": "4901",
+    "level": 2,
+    "name": {
+      "th": "เมืองมุกดาหาร",
+      "en": "Mukdahan",
+      "slug": "mukdahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4901",
+      "level": 2,
+      "name": {
+        "th": "เมืองมุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "49000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.541",
+    "lon": "104.584"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phon-sai-490105/"
+  }
+}

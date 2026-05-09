@@ -1,0 +1,61 @@
+{
+  "id": "620606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาคีริส",
+    "en": "Khao Khirit",
+    "slug": "khao-khirit"
+  },
+  "code": {
+    "dopa": "620606"
+  },
+  "parent": {
+    "id": "6206",
+    "level": 2,
+    "name": {
+      "th": "พรานกระต่าย",
+      "en": "Phran Kratai",
+      "slug": "phran-kratai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6206",
+      "level": 2,
+      "name": {
+        "th": "พรานกระต่าย",
+        "en": "Phran Kratai",
+        "slug": "phran-kratai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "62110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.588",
+    "lon": "99.683"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-khirit-620606/"
+  }
+}

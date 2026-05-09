@@ -1,0 +1,61 @@
+{
+  "id": "220306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาวัว",
+    "en": "Khao Wua",
+    "slug": "khao-wua"
+  },
+  "code": {
+    "dopa": "220306"
+  },
+  "parent": {
+    "id": "2203",
+    "level": 2,
+    "name": {
+      "th": "ท่าใหม่",
+      "en": "Tha Mai",
+      "slug": "tha-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    },
+    {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "th": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "22120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.637",
+    "lon": "102.035"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-wua-220306/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "571801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปงน้อย",
+    "en": "Pong Noi",
+    "slug": "pong-noi"
+  },
+  "code": {
+    "dopa": "571801"
+  },
+  "parent": {
+    "id": "5718",
+    "level": 2,
+    "name": {
+      "th": "ดอยหลวง",
+      "en": "Doi Luang",
+      "slug": "doi-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5718",
+      "level": 2,
+      "name": {
+        "th": "ดอยหลวง",
+        "en": "Doi Luang",
+        "slug": "doi-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "57110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.104",
+    "lon": "100.068"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pong-noi-571801/"
+  }
+}

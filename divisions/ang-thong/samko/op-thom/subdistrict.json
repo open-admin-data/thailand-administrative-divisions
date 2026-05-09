@@ -1,0 +1,61 @@
+{
+  "id": "150703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อบทม",
+    "en": "Op Thom",
+    "slug": "op-thom"
+  },
+  "code": {
+    "dopa": "150703"
+  },
+  "parent": {
+    "id": "1507",
+    "level": 2,
+    "name": {
+      "th": "สามโก้",
+      "en": "Samko",
+      "slug": "samko"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1507",
+      "level": 2,
+      "name": {
+        "th": "สามโก้",
+        "en": "Samko",
+        "slug": "samko"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "14160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.581",
+    "lon": "100.246"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/op-thom-150703/"
+  }
+}

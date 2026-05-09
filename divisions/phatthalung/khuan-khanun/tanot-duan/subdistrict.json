@@ -1,0 +1,61 @@
+{
+  "id": "930509",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โตนดด้วน",
+    "en": "Tanot Duan",
+    "slug": "tanot-duan"
+  },
+  "code": {
+    "dopa": "930509"
+  },
+  "parent": {
+    "id": "9305",
+    "level": 2,
+    "name": {
+      "th": "ควนขนุน",
+      "en": "Khuan Khanun",
+      "slug": "khuan-khanun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9305",
+      "level": 2,
+      "name": {
+        "th": "ควนขนุน",
+        "en": "Khuan Khanun",
+        "slug": "khuan-khanun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "93110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.718",
+    "lon": "100.036"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tanot-duan-930509/"
+  }
+}

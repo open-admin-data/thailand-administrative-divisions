@@ -1,0 +1,602 @@
+[
+  {
+    "id": "4804",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บ้านแพง",
+      "en": "Ban Phaeng",
+      "slug": "ban-phaeng"
+    },
+    "code": {
+      "dopa": "4804"
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "th": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 5,
+      "villages": 60
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.943",
+      "lon": "104.182"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/ban-phaeng-4804/"
+    }
+  },
+  {
+    "id": "4801",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เมืองนครพนม",
+      "en": "Mueang Nakhon Phanom",
+      "slug": "mueang-nakhon-phanom"
+    },
+    "code": {
+      "dopa": "4801"
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "th": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 14,
+      "villages": 183
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.409",
+      "lon": "104.781"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/mueang-nakhon-phanom-4801/"
+    }
+  },
+  {
+    "id": "4807",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "นาแก",
+      "en": "Na Kae",
+      "slug": "na-kae"
+    },
+    "code": {
+      "dopa": "4807"
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "th": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 12,
+      "villages": 143
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.918",
+      "lon": "104.575"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/na-kae-4807/"
+    }
+  },
+  {
+    "id": "4811",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "นาทม",
+      "en": "Na Thom",
+      "slug": "na-thom"
+    },
+    "code": {
+      "dopa": "4811"
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "th": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 3,
+      "villages": 38
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.798",
+      "lon": "104.108"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/na-thom-4811/"
+    }
+  },
+  {
+    "id": "4809",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "นาหว้า",
+      "en": "Na Wa",
+      "slug": "na-wa"
+    },
+    "code": {
+      "dopa": "4809"
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "th": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 6,
+      "villages": 68
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.507",
+      "lon": "104.145"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/na-wa-4809/"
+    }
+  },
+  {
+    "id": "4810",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "โพนสวรรค์",
+      "en": "Phon Sawan",
+      "slug": "phon-sawan"
+    },
+    "code": {
+      "dopa": "4810"
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "th": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 5,
+      "villages": 73
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.409",
+      "lon": "104.424"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/phon-sawan-4810/"
+    }
+  },
+  {
+    "id": "4802",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ปลาปาก",
+      "en": "Pla Pak",
+      "slug": "pla-pak"
+    },
+    "code": {
+      "dopa": "4802"
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "th": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 8,
+      "villages": 85
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.121",
+      "lon": "104.523"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/pla-pak-4802/"
+    }
+  },
+  {
+    "id": "4806",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เรณูนคร",
+      "en": "Renu Nakhon",
+      "slug": "renu-nakhon"
+    },
+    "code": {
+      "dopa": "4806"
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "th": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 8,
+      "villages": 91
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.019",
+      "lon": "104.698"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/renu-nakhon-4806/"
+    }
+  },
+  {
+    "id": "4808",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ศรีสงคราม",
+      "en": "Si Songkhram",
+      "slug": "si-songkhram"
+    },
+    "code": {
+      "dopa": "4808"
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "th": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 9,
+      "villages": 109
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.641",
+      "lon": "104.289"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/si-songkhram-4808/"
+    }
+  },
+  {
+    "id": "4803",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ท่าอุเทน",
+      "en": "Tha Uthen",
+      "slug": "tha-uthen"
+    },
+    "code": {
+      "dopa": "4803"
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "th": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 9,
+      "villages": 111
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.576",
+      "lon": "104.591"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/tha-uthen-4803/"
+    }
+  },
+  {
+    "id": "4805",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ธาตุพนม",
+      "en": "That Phanom",
+      "slug": "that-phanom"
+    },
+    "code": {
+      "dopa": "4805"
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "th": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 12,
+      "villages": 136
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.066",
+      "lon": "104.749"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/that-phanom-4805/"
+    }
+  },
+  {
+    "id": "4812",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "วังยาง",
+      "en": "Wang Yang",
+      "slug": "wang-yang"
+    },
+    "code": {
+      "dopa": "4812"
+    },
+    "parent": {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "th": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 4,
+      "villages": 27
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.065",
+      "lon": "104.482"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/wang-yang-4812/"
+    }
+  }
+]

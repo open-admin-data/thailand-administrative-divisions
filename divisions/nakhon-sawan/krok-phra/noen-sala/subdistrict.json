@@ -1,0 +1,61 @@
+{
+  "id": "600208",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เนินศาลา",
+    "en": "Noen Sala",
+    "slug": "noen-sala"
+  },
+  "code": {
+    "dopa": "600208"
+  },
+  "parent": {
+    "id": "6002",
+    "level": 2,
+    "name": {
+      "th": "โกรกพระ",
+      "en": "Krok Phra",
+      "slug": "krok-phra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6002",
+      "level": 2,
+      "name": {
+        "th": "โกรกพระ",
+        "en": "Krok Phra",
+        "slug": "krok-phra"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "60170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.540",
+    "lon": "99.960"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/noen-sala-600208/"
+  }
+}

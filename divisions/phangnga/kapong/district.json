@@ -1,0 +1,50 @@
+{
+  "id": "8203",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "กะปง",
+    "en": "Kapong",
+    "slug": "kapong"
+  },
+  "code": {
+    "dopa": "8203"
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "th": "พังงา",
+      "en": "Phangnga",
+      "slug": "phangnga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 22
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.713",
+    "lon": "98.419"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kapong-8203/"
+  }
+}

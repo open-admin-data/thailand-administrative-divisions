@@ -1,0 +1,61 @@
+{
+  "id": "920615",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลำภูรา",
+    "en": "Lamphu Ra",
+    "slug": "lamphu-ra"
+  },
+  "code": {
+    "dopa": "920615"
+  },
+  "parent": {
+    "id": "9206",
+    "level": 2,
+    "name": {
+      "th": "ห้วยยอด",
+      "en": "Huai Yot",
+      "slug": "huai-yot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9206",
+      "level": 2,
+      "name": {
+        "th": "ห้วยยอด",
+        "en": "Huai Yot",
+        "slug": "huai-yot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "92190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.698",
+    "lon": "99.583"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lamphu-ra-920615/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "170205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่ลา",
+    "en": "Mae La",
+    "slug": "mae-la"
+  },
+  "code": {
+    "dopa": "170205"
+  },
+  "parent": {
+    "id": "1702",
+    "level": 2,
+    "name": {
+      "th": "บางระจัน",
+      "en": "Bang Rachan",
+      "slug": "bang-rachan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1702",
+      "level": 2,
+      "name": {
+        "th": "บางระจัน",
+        "en": "Bang Rachan",
+        "slug": "bang-rachan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "16130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.941",
+    "lon": "100.319"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-la-170205/"
+  }
+}

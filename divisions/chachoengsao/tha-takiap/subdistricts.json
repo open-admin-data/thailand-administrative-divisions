@@ -1,0 +1,124 @@
+[
+  {
+    "id": "241002",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "คลองตะเกรา",
+      "en": "Khlong Takrao",
+      "slug": "khlong-takrao"
+    },
+    "code": {
+      "dopa": "241002"
+    },
+    "parent": {
+      "id": "2410",
+      "level": 2,
+      "name": {
+        "th": "ท่าตะเกียบ",
+        "en": "Tha Takiap",
+        "slug": "tha-takiap"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2410",
+        "level": 2,
+        "name": {
+          "th": "ท่าตะเกียบ",
+          "en": "Tha Takiap",
+          "slug": "tha-takiap"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 25
+    },
+    "zip_codes": [
+      "24160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.299",
+      "lon": "101.739"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khlong-takrao-241002/"
+    }
+  },
+  {
+    "id": "241001",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ท่าตะเกียบ",
+      "en": "Tha Takiap",
+      "slug": "tha-takiap"
+    },
+    "code": {
+      "dopa": "241001"
+    },
+    "parent": {
+      "id": "2410",
+      "level": 2,
+      "name": {
+        "th": "ท่าตะเกียบ",
+        "en": "Tha Takiap",
+        "slug": "tha-takiap"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2410",
+        "level": 2,
+        "name": {
+          "th": "ท่าตะเกียบ",
+          "en": "Tha Takiap",
+          "slug": "tha-takiap"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 22
+    },
+    "zip_codes": [
+      "24160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.508",
+      "lon": "101.639"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/tha-takiap-241001/"
+    }
+  }
+]

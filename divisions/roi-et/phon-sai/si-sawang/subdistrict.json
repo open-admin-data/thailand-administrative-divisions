@@ -1,0 +1,61 @@
+{
+  "id": "451303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีสว่าง",
+    "en": "Si Sawang",
+    "slug": "si-sawang"
+  },
+  "code": {
+    "dopa": "451303"
+  },
+  "parent": {
+    "id": "4513",
+    "level": 2,
+    "name": {
+      "th": "โพนทราย",
+      "en": "Phon Sai",
+      "slug": "phon-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4513",
+      "level": 2,
+      "name": {
+        "th": "โพนทราย",
+        "en": "Phon Sai",
+        "slug": "phon-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "45240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.533",
+    "lon": "103.868"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-sawang-451303/"
+  }
+}

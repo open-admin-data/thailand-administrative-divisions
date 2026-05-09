@@ -1,0 +1,61 @@
+{
+  "id": "350116",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งนางโอก",
+    "en": "Thung Nang Ok",
+    "slug": "thung-nang-ok"
+  },
+  "code": {
+    "dopa": "350116"
+  },
+  "parent": {
+    "id": "3501",
+    "level": 2,
+    "name": {
+      "th": "เมืองยโสธร",
+      "en": "Mueang Yasothon",
+      "slug": "mueang-yasothon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3501",
+      "level": 2,
+      "name": {
+        "th": "เมืองยโสธร",
+        "en": "Mueang Yasothon",
+        "slug": "mueang-yasothon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "35000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.886",
+    "lon": "104.147"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-nang-ok-350116/"
+  }
+}

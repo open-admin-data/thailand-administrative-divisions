@@ -1,0 +1,61 @@
+{
+  "id": "201002",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วัดสุวรรณ",
+    "en": "Wat Suwan",
+    "slug": "wat-suwan"
+  },
+  "code": {
+    "dopa": "201002"
+  },
+  "parent": {
+    "id": "2010",
+    "level": 2,
+    "name": {
+      "th": "บ่อทอง",
+      "en": "Bo Thong",
+      "slug": "bo-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2010",
+      "level": 2,
+      "name": {
+        "th": "บ่อทอง",
+        "en": "Bo Thong",
+        "slug": "bo-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "20270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.332",
+    "lon": "101.419"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wat-suwan-201002/"
+  }
+}

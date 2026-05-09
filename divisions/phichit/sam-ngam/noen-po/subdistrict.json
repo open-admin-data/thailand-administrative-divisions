@@ -1,0 +1,61 @@
+{
+  "id": "660706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เนินปอ",
+    "en": "Noen Po",
+    "slug": "noen-po"
+  },
+  "code": {
+    "dopa": "660706"
+  },
+  "parent": {
+    "id": "6607",
+    "level": 2,
+    "name": {
+      "th": "สามง่าม",
+      "en": "Sam Ngam",
+      "slug": "sam-ngam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6607",
+      "level": 2,
+      "name": {
+        "th": "สามง่าม",
+        "en": "Sam Ngam",
+        "slug": "sam-ngam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "66140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.408",
+    "lon": "100.136"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/noen-po-660706/"
+  }
+}

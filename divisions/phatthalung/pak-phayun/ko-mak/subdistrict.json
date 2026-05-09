@@ -1,0 +1,61 @@
+{
+  "id": "930604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะหมาก",
+    "en": "Ko Mak",
+    "slug": "ko-mak"
+  },
+  "code": {
+    "dopa": "930604"
+  },
+  "parent": {
+    "id": "9306",
+    "level": 2,
+    "name": {
+      "th": "ปากพะยูน",
+      "en": "Pak Phayun",
+      "slug": "pak-phayun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9306",
+      "level": 2,
+      "name": {
+        "th": "ปากพะยูน",
+        "en": "Pak Phayun",
+        "slug": "pak-phayun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "93120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.435",
+    "lon": "100.329"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-mak-930604/"
+  }
+}

@@ -1,0 +1,152 @@
+[
+  {
+    "id": "7403",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บ้านแพ้ว",
+      "en": "Ban Phaeo",
+      "slug": "ban-phaeo"
+    },
+    "code": {
+      "dopa": "7403"
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสาคร",
+        "en": "Samut Sakhon",
+        "slug": "samut-sakhon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "th": "สมุทรสาคร",
+          "en": "Samut Sakhon",
+          "slug": "samut-sakhon"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 12,
+      "villages": 98
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.639",
+      "lon": "100.141"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/ban-phaeo-7403/"
+    }
+  },
+  {
+    "id": "7402",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "กระทุ่มแบน",
+      "en": "Krathum Baen",
+      "slug": "krathum-baen"
+    },
+    "code": {
+      "dopa": "7402"
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสาคร",
+        "en": "Samut Sakhon",
+        "slug": "samut-sakhon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "th": "สมุทรสาคร",
+          "en": "Samut Sakhon",
+          "slug": "samut-sakhon"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 10,
+      "villages": 113
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.654",
+      "lon": "100.250"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/krathum-baen-7402/"
+    }
+  },
+  {
+    "id": "7401",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เมืองสมุทรสาคร",
+      "en": "Mueang Samut Sakhon",
+      "slug": "mueang-samut-sakhon"
+    },
+    "code": {
+      "dopa": "7401"
+    },
+    "parent": {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสาคร",
+        "en": "Samut Sakhon",
+        "slug": "samut-sakhon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "74",
+        "level": 1,
+        "name": {
+          "th": "สมุทรสาคร",
+          "en": "Samut Sakhon",
+          "slug": "samut-sakhon"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 18,
+      "villages": 148
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.533",
+      "lon": "100.276"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/mueang-samut-sakhon-7401/"
+    }
+  }
+]

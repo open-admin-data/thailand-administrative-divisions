@@ -1,0 +1,612 @@
+[
+  {
+    "id": "401009",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บ้านลาน",
+      "en": "Ban Lan",
+      "slug": "ban-lan"
+    },
+    "code": {
+      "dopa": "401009"
+    },
+    "parent": {
+      "id": "4010",
+      "level": 2,
+      "name": {
+        "th": "บ้านไผ่",
+        "en": "Ban Phai",
+        "slug": "ban-phai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4010",
+        "level": 2,
+        "name": {
+          "th": "บ้านไผ่",
+          "en": "Ban Phai",
+          "slug": "ban-phai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 16
+    },
+    "zip_codes": [
+      "40110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.992",
+      "lon": "102.838"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ban-lan-401009/"
+    }
+  },
+  {
+    "id": "401001",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บ้านไผ่",
+      "en": "Ban Phai",
+      "slug": "ban-phai"
+    },
+    "code": {
+      "dopa": "401001"
+    },
+    "parent": {
+      "id": "4010",
+      "level": 2,
+      "name": {
+        "th": "บ้านไผ่",
+        "en": "Ban Phai",
+        "slug": "ban-phai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4010",
+        "level": 2,
+        "name": {
+          "th": "บ้านไผ่",
+          "en": "Ban Phai",
+          "slug": "ban-phai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 13
+    },
+    "zip_codes": [
+      "40110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.119",
+      "lon": "102.713"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ban-phai-401001/"
+    }
+  },
+  {
+    "id": "401014",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หินตั้ง",
+      "en": "Hin Tang",
+      "slug": "hin-tang"
+    },
+    "code": {
+      "dopa": "401014"
+    },
+    "parent": {
+      "id": "4010",
+      "level": 2,
+      "name": {
+        "th": "บ้านไผ่",
+        "en": "Ban Phai",
+        "slug": "ban-phai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4010",
+        "level": 2,
+        "name": {
+          "th": "บ้านไผ่",
+          "en": "Ban Phai",
+          "slug": "ban-phai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 12
+    },
+    "zip_codes": [
+      "40110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.045",
+      "lon": "102.831"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/hin-tang-401014/"
+    }
+  },
+  {
+    "id": "401017",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หัวหนอง",
+      "en": "Hua Nong",
+      "slug": "hua-nong"
+    },
+    "code": {
+      "dopa": "401017"
+    },
+    "parent": {
+      "id": "4010",
+      "level": 2,
+      "name": {
+        "th": "บ้านไผ่",
+        "en": "Ban Phai",
+        "slug": "ban-phai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4010",
+        "level": 2,
+        "name": {
+          "th": "บ้านไผ่",
+          "en": "Ban Phai",
+          "slug": "ban-phai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "40110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.040",
+      "lon": "102.697"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/hua-nong-401017/"
+    }
+  },
+  {
+    "id": "401010",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แคนเหนือ",
+      "en": "Khaen Nuea",
+      "slug": "khaen-nuea"
+    },
+    "code": {
+      "dopa": "401010"
+    },
+    "parent": {
+      "id": "4010",
+      "level": 2,
+      "name": {
+        "th": "บ้านไผ่",
+        "en": "Ban Phai",
+        "slug": "ban-phai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4010",
+        "level": 2,
+        "name": {
+          "th": "บ้านไผ่",
+          "en": "Ban Phai",
+          "slug": "ban-phai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "40110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.990",
+      "lon": "102.771"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khaen-nuea-401010/"
+    }
+  },
+  {
+    "id": "401005",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เมืองเพีย",
+      "en": "Mueang Phia",
+      "slug": "mueang-phia"
+    },
+    "code": {
+      "dopa": "401005"
+    },
+    "parent": {
+      "id": "4010",
+      "level": 2,
+      "name": {
+        "th": "บ้านไผ่",
+        "en": "Ban Phai",
+        "slug": "ban-phai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4010",
+        "level": 2,
+        "name": {
+          "th": "บ้านไผ่",
+          "en": "Ban Phai",
+          "slug": "ban-phai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 14
+    },
+    "zip_codes": [
+      "40110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.102",
+      "lon": "102.684"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/mueang-phia-401005/"
+    }
+  },
+  {
+    "id": "401002",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "code": {
+      "dopa": "401002"
+    },
+    "parent": {
+      "id": "4010",
+      "level": 2,
+      "name": {
+        "th": "บ้านไผ่",
+        "en": "Ban Phai",
+        "slug": "ban-phai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4010",
+        "level": 2,
+        "name": {
+          "th": "บ้านไผ่",
+          "en": "Ban Phai",
+          "slug": "ban-phai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 48
+    },
+    "zip_codes": [
+      "40110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.106",
+      "lon": "102.767"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nai-mueang-401002/"
+    }
+  },
+  {
+    "id": "401016",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองน้ำใส",
+      "en": "Nong Nam Sai",
+      "slug": "nong-nam-sai"
+    },
+    "code": {
+      "dopa": "401016"
+    },
+    "parent": {
+      "id": "4010",
+      "level": 2,
+      "name": {
+        "th": "บ้านไผ่",
+        "en": "Ban Phai",
+        "slug": "ban-phai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4010",
+        "level": 2,
+        "name": {
+          "th": "บ้านไผ่",
+          "en": "Ban Phai",
+          "slug": "ban-phai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 12
+    },
+    "zip_codes": [
+      "40110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.042",
+      "lon": "102.760"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-nam-sai-401016/"
+    }
+  },
+  {
+    "id": "401013",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ป่าปอ",
+      "en": "Pa Po",
+      "slug": "pa-po"
+    },
+    "code": {
+      "dopa": "401013"
+    },
+    "parent": {
+      "id": "4010",
+      "level": 2,
+      "name": {
+        "th": "บ้านไผ่",
+        "en": "Ban Phai",
+        "slug": "ban-phai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4010",
+        "level": 2,
+        "name": {
+          "th": "บ้านไผ่",
+          "en": "Ban Phai",
+          "slug": "ban-phai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "40110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.919",
+      "lon": "102.777"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/pa-po-401013/"
+    }
+  },
+  {
+    "id": "401011",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ภูเหล็ก",
+      "en": "Phu Lek",
+      "slug": "phu-lek"
+    },
+    "code": {
+      "dopa": "401011"
+    },
+    "parent": {
+      "id": "4010",
+      "level": 2,
+      "name": {
+        "th": "บ้านไผ่",
+        "en": "Ban Phai",
+        "slug": "ban-phai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4010",
+        "level": 2,
+        "name": {
+          "th": "บ้านไผ่",
+          "en": "Ban Phai",
+          "slug": "ban-phai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "40110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.115",
+      "lon": "102.828"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/phu-lek-401011/"
+    }
+  }
+]

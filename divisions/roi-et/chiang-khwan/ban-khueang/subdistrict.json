@@ -1,0 +1,61 @@
+{
+  "id": "451806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านเขือง",
+    "en": "Ban Khueang",
+    "slug": "ban-khueang"
+  },
+  "code": {
+    "dopa": "451806"
+  },
+  "parent": {
+    "id": "4518",
+    "level": 2,
+    "name": {
+      "th": "เชียงขวัญ",
+      "en": "Chiang Khwan",
+      "slug": "chiang-khwan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4518",
+      "level": 2,
+      "name": {
+        "th": "เชียงขวัญ",
+        "en": "Chiang Khwan",
+        "slug": "chiang-khwan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "45000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.150",
+    "lon": "103.710"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-khueang-451806/"
+  }
+}

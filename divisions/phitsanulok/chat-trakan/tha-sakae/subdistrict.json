@@ -1,0 +1,61 @@
+{
+  "id": "650306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าสะแก",
+    "en": "Tha Sakae",
+    "slug": "tha-sakae"
+  },
+  "code": {
+    "dopa": "650306"
+  },
+  "parent": {
+    "id": "6503",
+    "level": 2,
+    "name": {
+      "th": "ชาติตระการ",
+      "en": "Chat Trakan",
+      "slug": "chat-trakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6503",
+      "level": 2,
+      "name": {
+        "th": "ชาติตระการ",
+        "en": "Chat Trakan",
+        "slug": "chat-trakan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "65170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.241",
+    "lon": "100.711"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-sakae-650306/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "471216",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตาลโกน",
+    "en": "Tan Kon",
+    "slug": "tan-kon"
+  },
+  "code": {
+    "dopa": "471216"
+  },
+  "parent": {
+    "id": "4712",
+    "level": 2,
+    "name": {
+      "th": "สว่างแดนดิน",
+      "en": "Sawang Daen Din",
+      "slug": "sawang-daen-din"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4712",
+      "level": 2,
+      "name": {
+        "th": "สว่างแดนดิน",
+        "en": "Sawang Daen Din",
+        "slug": "sawang-daen-din"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "47240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.345",
+    "lon": "103.564"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tan-kon-471216/"
+  }
+}

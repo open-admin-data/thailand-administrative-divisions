@@ -1,0 +1,61 @@
+{
+  "id": "301208",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนทองหลาง",
+    "en": "Non Thonglang",
+    "slug": "non-thonglang"
+  },
+  "code": {
+    "dopa": "301208"
+  },
+  "parent": {
+    "id": "3012",
+    "level": 2,
+    "name": {
+      "th": "บัวใหญ่",
+      "en": "Bua Yai",
+      "slug": "bua-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3012",
+      "level": 2,
+      "name": {
+        "th": "บัวใหญ่",
+        "en": "Bua Yai",
+        "slug": "bua-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "30120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.522",
+    "lon": "102.374"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-thonglang-301208/"
+  }
+}

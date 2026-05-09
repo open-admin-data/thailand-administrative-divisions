@@ -1,0 +1,61 @@
+{
+  "id": "770102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะหลัก",
+    "en": "Ko Lak",
+    "slug": "ko-lak"
+  },
+  "code": {
+    "dopa": "770102"
+  },
+  "parent": {
+    "id": "7701",
+    "level": 2,
+    "name": {
+      "th": "เมืองประจวบคีรีขันธ์",
+      "en": "Prachuap Khiri Khan",
+      "slug": "prachuap-khiri-khan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    },
+    {
+      "id": "7701",
+      "level": 2,
+      "name": {
+        "th": "เมืองประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "77000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "11.808",
+    "lon": "99.729"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-lak-770102/"
+  }
+}

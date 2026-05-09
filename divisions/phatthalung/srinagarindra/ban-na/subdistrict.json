@@ -1,0 +1,61 @@
+{
+  "id": "931102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านนา",
+    "en": "Ban Na",
+    "slug": "ban-na"
+  },
+  "code": {
+    "dopa": "931102"
+  },
+  "parent": {
+    "id": "9311",
+    "level": 2,
+    "name": {
+      "th": "ศรีนครินทร์",
+      "en": "Srinagarindra",
+      "slug": "srinagarindra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9311",
+      "level": 2,
+      "name": {
+        "th": "ศรีนครินทร์",
+        "en": "Srinagarindra",
+        "slug": "srinagarindra"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "93000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.559",
+    "lon": "99.868"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-na-931102/"
+  }
+}

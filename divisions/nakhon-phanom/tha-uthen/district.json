@@ -1,0 +1,50 @@
+{
+  "id": "4803",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ท่าอุเทน",
+    "en": "Tha Uthen",
+    "slug": "tha-uthen"
+  },
+  "code": {
+    "dopa": "4803"
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "th": "นครพนม",
+      "en": "Nakhon Phanom",
+      "slug": "nakhon-phanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 111
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.576",
+    "lon": "104.591"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tha-uthen-4803/"
+  }
+}

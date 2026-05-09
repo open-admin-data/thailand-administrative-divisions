@@ -1,0 +1,734 @@
+[
+  {
+    "id": "13050101",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านบ่อน้ำเชี่ยว",
+      "en": "Ban Bo Nam Chiao",
+      "slug": "13050101"
+    },
+    "code": {
+      "dopa": "13050101"
+    },
+    "parent": {
+      "id": "130501",
+      "level": 3,
+      "name": {
+        "th": "ระแหง",
+        "en": "Rahaeng",
+        "slug": "rahaeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "th": "ลาดหลุมแก้ว",
+          "en": "Lat Lum Kaeo",
+          "slug": "lat-lum-kaeo"
+        }
+      },
+      {
+        "id": "130501",
+        "level": 3,
+        "name": {
+          "th": "ระแหง",
+          "en": "Rahaeng",
+          "slug": "rahaeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.03721731246692",
+      "lon": "100.40017426013947"
+    },
+    "source": {}
+  },
+  {
+    "id": "13050102",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองลาดหลุมแก้ว",
+      "en": "Ban Khlong Lat Lum Kaeo",
+      "slug": "13050102"
+    },
+    "code": {
+      "dopa": "13050102"
+    },
+    "parent": {
+      "id": "130501",
+      "level": 3,
+      "name": {
+        "th": "ระแหง",
+        "en": "Rahaeng",
+        "slug": "rahaeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "th": "ลาดหลุมแก้ว",
+          "en": "Lat Lum Kaeo",
+          "slug": "lat-lum-kaeo"
+        }
+      },
+      {
+        "id": "130501",
+        "level": 3,
+        "name": {
+          "th": "ระแหง",
+          "en": "Rahaeng",
+          "slug": "rahaeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.018595829184026",
+      "lon": "100.44028803706169"
+    },
+    "source": {}
+  },
+  {
+    "id": "13050103",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านโยธา",
+      "en": "Ban Yotha",
+      "slug": "13050103"
+    },
+    "code": {
+      "dopa": "13050103"
+    },
+    "parent": {
+      "id": "130501",
+      "level": 3,
+      "name": {
+        "th": "ระแหง",
+        "en": "Rahaeng",
+        "slug": "rahaeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "th": "ลาดหลุมแก้ว",
+          "en": "Lat Lum Kaeo",
+          "slug": "lat-lum-kaeo"
+        }
+      },
+      {
+        "id": "130501",
+        "level": 3,
+        "name": {
+          "th": "ระแหง",
+          "en": "Rahaeng",
+          "slug": "rahaeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.041510760182208",
+      "lon": "100.42674824595451"
+    },
+    "source": {}
+  },
+  {
+    "id": "13050104",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านระแหง",
+      "en": "Ban Rahaeng",
+      "slug": "13050104"
+    },
+    "code": {
+      "dopa": "13050104"
+    },
+    "parent": {
+      "id": "130501",
+      "level": 3,
+      "name": {
+        "th": "ระแหง",
+        "en": "Rahaeng",
+        "slug": "rahaeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "th": "ลาดหลุมแก้ว",
+          "en": "Lat Lum Kaeo",
+          "slug": "lat-lum-kaeo"
+        }
+      },
+      {
+        "id": "130501",
+        "level": 3,
+        "name": {
+          "th": "ระแหง",
+          "en": "Rahaeng",
+          "slug": "rahaeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.043820081357756",
+      "lon": "100.43011575937271"
+    },
+    "source": {}
+  },
+  {
+    "id": "13050105",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองโยธา",
+      "en": "Ban Khlong Yotha",
+      "slug": "13050105"
+    },
+    "code": {
+      "dopa": "13050105"
+    },
+    "parent": {
+      "id": "130501",
+      "level": 3,
+      "name": {
+        "th": "ระแหง",
+        "en": "Rahaeng",
+        "slug": "rahaeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "th": "ลาดหลุมแก้ว",
+          "en": "Lat Lum Kaeo",
+          "slug": "lat-lum-kaeo"
+        }
+      },
+      {
+        "id": "130501",
+        "level": 3,
+        "name": {
+          "th": "ระแหง",
+          "en": "Rahaeng",
+          "slug": "rahaeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.068310462534352",
+      "lon": "100.41199877858162"
+    },
+    "source": {}
+  },
+  {
+    "id": "13050106",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองระแหง",
+      "en": "Ban Khlong Rahaeng",
+      "slug": "13050106"
+    },
+    "code": {
+      "dopa": "13050106"
+    },
+    "parent": {
+      "id": "130501",
+      "level": 3,
+      "name": {
+        "th": "ระแหง",
+        "en": "Rahaeng",
+        "slug": "rahaeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "th": "ลาดหลุมแก้ว",
+          "en": "Lat Lum Kaeo",
+          "slug": "lat-lum-kaeo"
+        }
+      },
+      {
+        "id": "130501",
+        "level": 3,
+        "name": {
+          "th": "ระแหง",
+          "en": "Rahaeng",
+          "slug": "rahaeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.051110878335942",
+      "lon": "100.40576800704002"
+    },
+    "source": {}
+  },
+  {
+    "id": "13050107",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านปลายคลองระแหง",
+      "en": "Ban Plai Khlong Rahaeng",
+      "slug": "13050107"
+    },
+    "code": {
+      "dopa": "13050107"
+    },
+    "parent": {
+      "id": "130501",
+      "level": 3,
+      "name": {
+        "th": "ระแหง",
+        "en": "Rahaeng",
+        "slug": "rahaeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "th": "ลาดหลุมแก้ว",
+          "en": "Lat Lum Kaeo",
+          "slug": "lat-lum-kaeo"
+        }
+      },
+      {
+        "id": "130501",
+        "level": 3,
+        "name": {
+          "th": "ระแหง",
+          "en": "Rahaeng",
+          "slug": "rahaeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.057395816934168",
+      "lon": "100.38397774100304"
+    },
+    "source": {}
+  },
+  {
+    "id": "13050108",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองถ้ำตะบัน",
+      "en": "Ban Khlong Tham Taban",
+      "slug": "13050108"
+    },
+    "code": {
+      "dopa": "13050108"
+    },
+    "parent": {
+      "id": "130501",
+      "level": 3,
+      "name": {
+        "th": "ระแหง",
+        "en": "Rahaeng",
+        "slug": "rahaeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "th": "ลาดหลุมแก้ว",
+          "en": "Lat Lum Kaeo",
+          "slug": "lat-lum-kaeo"
+        }
+      },
+      {
+        "id": "130501",
+        "level": 3,
+        "name": {
+          "th": "ระแหง",
+          "en": "Rahaeng",
+          "slug": "rahaeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.056878041308916",
+      "lon": "100.39726808667183"
+    },
+    "source": {}
+  },
+  {
+    "id": "13050109",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองวัดบัวสุวรรณ",
+      "en": "Ban Khlong Wat Bua Suwan",
+      "slug": "13050109"
+    },
+    "code": {
+      "dopa": "13050109"
+    },
+    "parent": {
+      "id": "130501",
+      "level": 3,
+      "name": {
+        "th": "ระแหง",
+        "en": "Rahaeng",
+        "slug": "rahaeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "th": "ลาดหลุมแก้ว",
+          "en": "Lat Lum Kaeo",
+          "slug": "lat-lum-kaeo"
+        }
+      },
+      {
+        "id": "130501",
+        "level": 3,
+        "name": {
+          "th": "ระแหง",
+          "en": "Rahaeng",
+          "slug": "rahaeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.071125550027391",
+      "lon": "100.3832870721817"
+    },
+    "source": {}
+  },
+  {
+    "id": "13050110",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองถ้ำตะบัน",
+      "en": "Ban Khlong Tham Taban",
+      "slug": "13050110"
+    },
+    "code": {
+      "dopa": "13050110"
+    },
+    "parent": {
+      "id": "130501",
+      "level": 3,
+      "name": {
+        "th": "ระแหง",
+        "en": "Rahaeng",
+        "slug": "rahaeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "th": "ลาดหลุมแก้ว",
+          "en": "Lat Lum Kaeo",
+          "slug": "lat-lum-kaeo"
+        }
+      },
+      {
+        "id": "130501",
+        "level": 3,
+        "name": {
+          "th": "ระแหง",
+          "en": "Rahaeng",
+          "slug": "rahaeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.080948164618498",
+      "lon": "100.38871049880981"
+    },
+    "source": {}
+  },
+  {
+    "id": "13050111",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านปลายคลองระแหง",
+      "en": "Ban Plai Khlong Rahaeng",
+      "slug": "13050111"
+    },
+    "code": {
+      "dopa": "13050111"
+    },
+    "parent": {
+      "id": "130501",
+      "level": 3,
+      "name": {
+        "th": "ระแหง",
+        "en": "Rahaeng",
+        "slug": "rahaeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "th": "ลาดหลุมแก้ว",
+          "en": "Lat Lum Kaeo",
+          "slug": "lat-lum-kaeo"
+        }
+      },
+      {
+        "id": "130501",
+        "level": 3,
+        "name": {
+          "th": "ระแหง",
+          "en": "Rahaeng",
+          "slug": "rahaeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.070212341524641",
+      "lon": "100.38108095526695"
+    },
+    "source": {}
+  },
+  {
+    "id": "13050112",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองตับผักชี",
+      "en": "Ban Khlong Tap Phakchi",
+      "slug": "13050112"
+    },
+    "code": {
+      "dopa": "13050112"
+    },
+    "parent": {
+      "id": "130501",
+      "level": 3,
+      "name": {
+        "th": "ระแหง",
+        "en": "Rahaeng",
+        "slug": "rahaeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1305",
+        "level": 2,
+        "name": {
+          "th": "ลาดหลุมแก้ว",
+          "en": "Lat Lum Kaeo",
+          "slug": "lat-lum-kaeo"
+        }
+      },
+      {
+        "id": "130501",
+        "level": 3,
+        "name": {
+          "th": "ระแหง",
+          "en": "Rahaeng",
+          "slug": "rahaeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.093815397766388",
+      "lon": "100.37096634507179"
+    },
+    "source": {}
+  }
+]

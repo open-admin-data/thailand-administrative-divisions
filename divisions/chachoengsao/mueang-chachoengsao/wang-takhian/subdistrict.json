@@ -1,0 +1,61 @@
+{
+  "id": "240111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังตะเคียน",
+    "en": "Wang Takhian",
+    "slug": "wang-takhian"
+  },
+  "code": {
+    "dopa": "240111"
+  },
+  "parent": {
+    "id": "2401",
+    "level": 2,
+    "name": {
+      "th": "เมืองฉะเชิงเทรา",
+      "en": "Mueang Chachoengsao",
+      "slug": "mueang-chachoengsao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2401",
+      "level": 2,
+      "name": {
+        "th": "เมืองฉะเชิงเทรา",
+        "en": "Mueang Chachoengsao",
+        "slug": "mueang-chachoengsao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "24000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.719",
+    "lon": "101.034"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-takhian-240111/"
+  }
+}

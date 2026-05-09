@@ -1,0 +1,61 @@
+{
+  "id": "901510",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางเขียด",
+    "en": "Bang Khiat",
+    "slug": "bang-khiat"
+  },
+  "code": {
+    "dopa": "901510"
+  },
+  "parent": {
+    "id": "9015",
+    "level": 2,
+    "name": {
+      "th": "สิงหนคร",
+      "en": "Singhanakhon",
+      "slug": "singhanakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9015",
+      "level": 2,
+      "name": {
+        "th": "สิงหนคร",
+        "en": "Singhanakhon",
+        "slug": "singhanakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "90330"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.346",
+    "lon": "100.437"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-khiat-901510/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "450307",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนสง่า",
+    "en": "Non Sa-nga",
+    "slug": "non-sa-nga"
+  },
+  "code": {
+    "dopa": "450307"
+  },
+  "parent": {
+    "id": "4503",
+    "level": 2,
+    "name": {
+      "th": "ปทุมรัตต์",
+      "en": "Pathum Rat",
+      "slug": "pathum-rat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4503",
+      "level": 2,
+      "name": {
+        "th": "ปทุมรัตต์",
+        "en": "Pathum Rat",
+        "slug": "pathum-rat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "45190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.608",
+    "lon": "103.349"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-sa-nga-450307/"
+  }
+}

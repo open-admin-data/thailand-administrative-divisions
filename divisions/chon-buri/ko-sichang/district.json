@@ -1,0 +1,50 @@
+{
+  "id": "2008",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เกาะสีชัง",
+    "en": "Ko Sichang",
+    "slug": "ko-sichang"
+  },
+  "code": {
+    "dopa": "2008"
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "th": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 1,
+    "villages": 7
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.151",
+    "lon": "100.809"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ko-sichang-2008/"
+  }
+}

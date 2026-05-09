@@ -1,0 +1,50 @@
+{
+  "id": "5603",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เชียงคำ",
+    "en": "Chiang Kham",
+    "slug": "chiang-kham"
+  },
+  "code": {
+    "dopa": "5603"
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "th": "พะเยา",
+      "en": "Phayao",
+      "slug": "phayao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 135
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.495",
+    "lon": "100.327"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chiang-kham-5603/"
+  }
+}

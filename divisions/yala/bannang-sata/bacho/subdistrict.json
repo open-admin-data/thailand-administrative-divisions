@@ -1,0 +1,61 @@
+{
+  "id": "950302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บาเจาะ",
+    "en": "Bacho",
+    "slug": "bacho"
+  },
+  "code": {
+    "dopa": "950302"
+  },
+  "parent": {
+    "id": "9503",
+    "level": 2,
+    "name": {
+      "th": "บันนังสตา",
+      "en": "Bannang Sata",
+      "slug": "bannang-sata"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9503",
+      "level": 2,
+      "name": {
+        "th": "บันนังสตา",
+        "en": "Bannang Sata",
+        "slug": "bannang-sata"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "95130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.212",
+    "lon": "101.291"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bacho-950302/"
+  }
+}

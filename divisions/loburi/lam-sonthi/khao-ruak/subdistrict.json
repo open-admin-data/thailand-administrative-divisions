@@ -1,0 +1,61 @@
+{
+  "id": "161005",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขารวก",
+    "en": "Khao Ruak",
+    "slug": "khao-ruak"
+  },
+  "code": {
+    "dopa": "161005"
+  },
+  "parent": {
+    "id": "1610",
+    "level": 2,
+    "name": {
+      "th": "ลำสนธิ",
+      "en": "Lam Sonthi",
+      "slug": "lam-sonthi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "th": "ลำสนธิ",
+        "en": "Lam Sonthi",
+        "slug": "lam-sonthi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "15190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.374",
+    "lon": "101.330"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-ruak-161005/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "500514",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เทพเสด็จ",
+    "en": "Thep Sadet",
+    "slug": "thep-sadet"
+  },
+  "code": {
+    "dopa": "500514"
+  },
+  "parent": {
+    "id": "5005",
+    "level": 2,
+    "name": {
+      "th": "ดอยสะเก็ด",
+      "en": "Doi Saket",
+      "slug": "doi-saket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5005",
+      "level": 2,
+      "name": {
+        "th": "ดอยสะเก็ด",
+        "en": "Doi Saket",
+        "slug": "doi-saket"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "50220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.956",
+    "lon": "99.326"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thep-sadet-500514/"
+  }
+}

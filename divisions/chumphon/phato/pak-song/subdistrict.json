@@ -1,0 +1,61 @@
+{
+  "id": "860602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากทรง",
+    "en": "Pak Song",
+    "slug": "pak-song"
+  },
+  "code": {
+    "dopa": "860602"
+  },
+  "parent": {
+    "id": "8606",
+    "level": 2,
+    "name": {
+      "th": "พะโต๊ะ",
+      "en": "Phato",
+      "slug": "phato"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8606",
+      "level": 2,
+      "name": {
+        "th": "พะโต๊ะ",
+        "en": "Phato",
+        "slug": "phato"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "86180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.741",
+    "lon": "98.703"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-song-860602/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "270309",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคคลาน",
+    "en": "Kho Khlan",
+    "slug": "kho-khlan"
+  },
+  "code": {
+    "dopa": "270309"
+  },
+  "parent": {
+    "id": "2703",
+    "level": 2,
+    "name": {
+      "th": "ตาพระยา",
+      "en": "Ta Phraya",
+      "slug": "ta-phraya"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    },
+    {
+      "id": "2703",
+      "level": 2,
+      "name": {
+        "th": "ตาพระยา",
+        "en": "Ta Phraya",
+        "slug": "ta-phraya"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "27180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.968",
+    "lon": "102.650"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kho-khlan-270309/"
+  }
+}

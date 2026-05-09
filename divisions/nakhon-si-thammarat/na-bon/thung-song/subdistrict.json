@@ -1,0 +1,61 @@
+{
+  "id": "801002",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งสง",
+    "en": "Thung Song",
+    "slug": "thung-song"
+  },
+  "code": {
+    "dopa": "801002"
+  },
+  "parent": {
+    "id": "8010",
+    "level": 2,
+    "name": {
+      "th": "นาบอน",
+      "en": "Na Bon",
+      "slug": "na-bon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8010",
+      "level": 2,
+      "name": {
+        "th": "นาบอน",
+        "en": "Na Bon",
+        "slug": "na-bon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "80220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.255",
+    "lon": "99.487"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-song-801002/"
+  }
+}

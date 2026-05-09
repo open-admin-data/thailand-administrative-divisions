@@ -1,0 +1,61 @@
+{
+  "id": "960107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกเคียน",
+    "en": "Khok Khian",
+    "slug": "khok-khian"
+  },
+  "code": {
+    "dopa": "960107"
+  },
+  "parent": {
+    "id": "9601",
+    "level": 2,
+    "name": {
+      "th": "เมืองนราธิวาส",
+      "en": "Mueang Narathiwat",
+      "slug": "mueang-narathiwat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9601",
+      "level": 2,
+      "name": {
+        "th": "เมืองนราธิวาส",
+        "en": "Mueang Narathiwat",
+        "slug": "mueang-narathiwat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "96000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.482",
+    "lon": "101.763"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-khian-960107/"
+  }
+}

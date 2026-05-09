@@ -1,0 +1,61 @@
+{
+  "id": "250706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คำโตนด",
+    "en": "Kham Tanot",
+    "slug": "kham-tanot"
+  },
+  "code": {
+    "dopa": "250706"
+  },
+  "parent": {
+    "id": "2507",
+    "level": 2,
+    "name": {
+      "th": "ประจันตคาม",
+      "en": "Prachantakham",
+      "slug": "prachantakham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "th": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri"
+      }
+    },
+    {
+      "id": "2507",
+      "level": 2,
+      "name": {
+        "th": "ประจันตคาม",
+        "en": "Prachantakham",
+        "slug": "prachantakham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "25130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.112",
+    "lon": "101.597"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kham-tanot-250706/"
+  }
+}

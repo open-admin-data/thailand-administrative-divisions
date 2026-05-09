@@ -1,0 +1,61 @@
+{
+  "id": "551402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาปัง",
+    "en": "Na Pang",
+    "slug": "na-pang"
+  },
+  "code": {
+    "dopa": "551402"
+  },
+  "parent": {
+    "id": "5514",
+    "level": 2,
+    "name": {
+      "th": "ภูเพียง",
+      "en": "Phu Phiang",
+      "slug": "phu-phiang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5514",
+      "level": 2,
+      "name": {
+        "th": "ภูเพียง",
+        "en": "Phu Phiang",
+        "slug": "phu-phiang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "55000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.696",
+    "lon": "100.801"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-pang-551402/"
+  }
+}

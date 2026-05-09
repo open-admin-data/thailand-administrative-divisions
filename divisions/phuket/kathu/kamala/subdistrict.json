@@ -1,0 +1,61 @@
+{
+  "id": "830203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กมลา",
+    "en": "Kamala",
+    "slug": "kamala"
+  },
+  "code": {
+    "dopa": "830203"
+  },
+  "parent": {
+    "id": "8302",
+    "level": 2,
+    "name": {
+      "th": "กะทู้",
+      "en": "Kathu",
+      "slug": "kathu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "th": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket"
+      }
+    },
+    {
+      "id": "8302",
+      "level": 2,
+      "name": {
+        "th": "กะทู้",
+        "en": "Kathu",
+        "slug": "kathu"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "83150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.945",
+    "lon": "98.289"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kamala-830203/"
+  }
+}

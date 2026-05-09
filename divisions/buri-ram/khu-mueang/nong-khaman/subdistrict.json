@@ -1,0 +1,61 @@
+{
+  "id": "310207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองขมาร",
+    "en": "Nong Khaman",
+    "slug": "nong-khaman"
+  },
+  "code": {
+    "dopa": "310207"
+  },
+  "parent": {
+    "id": "3102",
+    "level": 2,
+    "name": {
+      "th": "คูเมือง",
+      "en": "Khu Mueang",
+      "slug": "khu-mueang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3102",
+      "level": 2,
+      "name": {
+        "th": "คูเมือง",
+        "en": "Khu Mueang",
+        "slug": "khu-mueang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "31190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.314",
+    "lon": "102.995"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-khaman-310207/"
+  }
+}

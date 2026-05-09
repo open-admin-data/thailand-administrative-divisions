@@ -1,0 +1,61 @@
+{
+  "id": "770106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อนอก",
+    "en": "Bo Nok",
+    "slug": "bo-nok"
+  },
+  "code": {
+    "dopa": "770106"
+  },
+  "parent": {
+    "id": "7701",
+    "level": 2,
+    "name": {
+      "th": "เมืองประจวบคีรีขันธ์",
+      "en": "Prachuap Khiri Khan",
+      "slug": "prachuap-khiri-khan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    },
+    {
+      "id": "7701",
+      "level": 2,
+      "name": {
+        "th": "เมืองประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "77210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "11.996",
+    "lon": "99.771"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-nok-770106/"
+  }
+}

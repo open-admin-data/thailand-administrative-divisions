@@ -1,0 +1,61 @@
+{
+  "id": "360307",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกมั่งงอย",
+    "en": "Khok Mang Ngoi",
+    "slug": "khok-mang-ngoi"
+  },
+  "code": {
+    "dopa": "360307"
+  },
+  "parent": {
+    "id": "3603",
+    "level": 2,
+    "name": {
+      "th": "คอนสวรรค์",
+      "en": "Khon Sawan",
+      "slug": "khon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3603",
+      "level": 2,
+      "name": {
+        "th": "คอนสวรรค์",
+        "en": "Khon Sawan",
+        "slug": "khon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "36140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.955",
+    "lon": "102.259"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-mang-ngoi-360307/"
+  }
+}

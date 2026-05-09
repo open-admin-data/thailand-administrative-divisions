@@ -1,0 +1,61 @@
+{
+  "id": "310721",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สี่เหลี่ยม",
+    "en": "Si Liam",
+    "slug": "si-liam"
+  },
+  "code": {
+    "dopa": "310721"
+  },
+  "parent": {
+    "id": "3107",
+    "level": 2,
+    "name": {
+      "th": "ประโคนชัย",
+      "en": "Prakhon Chai",
+      "slug": "prakhon-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3107",
+      "level": 2,
+      "name": {
+        "th": "ประโคนชัย",
+        "en": "Prakhon Chai",
+        "slug": "prakhon-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "31140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.750",
+    "lon": "103.003"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-liam-310721/"
+  }
+}

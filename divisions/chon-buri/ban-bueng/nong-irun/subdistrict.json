@@ -1,0 +1,61 @@
+{
+  "id": "200207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองอิรุณ",
+    "en": "Nong Irun",
+    "slug": "nong-irun"
+  },
+  "code": {
+    "dopa": "200207"
+  },
+  "parent": {
+    "id": "2002",
+    "level": 2,
+    "name": {
+      "th": "บ้านบึง",
+      "en": "Ban Bueng",
+      "slug": "ban-bueng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2002",
+      "level": 2,
+      "name": {
+        "th": "บ้านบึง",
+        "en": "Ban Bueng",
+        "slug": "ban-bueng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "20220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.280",
+    "lon": "101.247"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-irun-200207/"
+  }
+}

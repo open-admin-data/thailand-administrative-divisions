@@ -1,0 +1,61 @@
+{
+  "id": "310607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองแวง",
+    "en": "Nong Waeng",
+    "slug": "nong-waeng"
+  },
+  "code": {
+    "dopa": "310607"
+  },
+  "parent": {
+    "id": "3106",
+    "level": 2,
+    "name": {
+      "th": "ละหานทราย",
+      "en": "Lahan Sai",
+      "slug": "lahan-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3106",
+      "level": 2,
+      "name": {
+        "th": "ละหานทราย",
+        "en": "Lahan Sai",
+        "slug": "lahan-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "31170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.268",
+    "lon": "102.935"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-waeng-310607/"
+  }
+}

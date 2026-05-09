@@ -1,0 +1,50 @@
+{
+  "id": "4718",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ภูพาน",
+    "en": "Phu Phan",
+    "slug": "phu-phan"
+  },
+  "code": {
+    "dopa": "4718"
+  },
+  "parent": {
+    "id": "47",
+    "level": 1,
+    "name": {
+      "th": "สกลนคร",
+      "en": "Sakon Nakhon",
+      "slug": "sakon-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 65
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.881",
+    "lon": "104.022"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phu-phan-4718/"
+  }
+}

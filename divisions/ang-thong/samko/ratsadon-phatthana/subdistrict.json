@@ -1,0 +1,61 @@
+{
+  "id": "150702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ราษฎรพัฒนา",
+    "en": "Ratsadon Phatthana",
+    "slug": "ratsadon-phatthana"
+  },
+  "code": {
+    "dopa": "150702"
+  },
+  "parent": {
+    "id": "1507",
+    "level": 2,
+    "name": {
+      "th": "สามโก้",
+      "en": "Samko",
+      "slug": "samko"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1507",
+      "level": 2,
+      "name": {
+        "th": "สามโก้",
+        "en": "Samko",
+        "slug": "samko"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "14160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.605",
+    "lon": "100.293"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ratsadon-phatthana-150702/"
+  }
+}

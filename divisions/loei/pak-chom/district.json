@@ -1,0 +1,50 @@
+{
+  "id": "4204",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปากชม",
+    "en": "Pak Chom",
+    "slug": "pak-chom"
+  },
+  "code": {
+    "dopa": "4204"
+  },
+  "parent": {
+    "id": "42",
+    "level": 1,
+    "name": {
+      "th": "เลย",
+      "en": "Loei",
+      "slug": "loei"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 50
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.700",
+    "lon": "101.922"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pak-chom-4204/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "310806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หินลาด",
+    "en": "Hin Lat",
+    "slug": "hin-lat"
+  },
+  "code": {
+    "dopa": "310806"
+  },
+  "parent": {
+    "id": "3108",
+    "level": 2,
+    "name": {
+      "th": "บ้านกรวด",
+      "en": "Ban Kruat",
+      "slug": "ban-kruat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3108",
+      "level": 2,
+      "name": {
+        "th": "บ้านกรวด",
+        "en": "Ban Kruat",
+        "slug": "ban-kruat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "31180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.473",
+    "lon": "103.143"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hin-lat-310806/"
+  }
+}

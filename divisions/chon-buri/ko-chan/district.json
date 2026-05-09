@@ -1,0 +1,50 @@
+{
+  "id": "2011",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เกาะจันทร์",
+    "en": "Ko Chan",
+    "slug": "ko-chan"
+  },
+  "code": {
+    "dopa": "2011"
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "th": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 2,
+    "villages": 27
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.389",
+    "lon": "101.288"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ko-chan-2011/"
+  }
+}

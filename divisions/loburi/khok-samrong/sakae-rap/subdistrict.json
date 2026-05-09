@@ -1,0 +1,61 @@
+{
+  "id": "160307",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สะแกราบ",
+    "en": "Sakae Rap",
+    "slug": "sakae-rap"
+  },
+  "code": {
+    "dopa": "160307"
+  },
+  "parent": {
+    "id": "1603",
+    "level": 2,
+    "name": {
+      "th": "โคกสำโรง",
+      "en": "Khok Samrong",
+      "slug": "khok-samrong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1603",
+      "level": 2,
+      "name": {
+        "th": "โคกสำโรง",
+        "en": "Khok Samrong",
+        "slug": "khok-samrong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "15120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.120",
+    "lon": "100.797"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sakae-rap-160307/"
+  }
+}

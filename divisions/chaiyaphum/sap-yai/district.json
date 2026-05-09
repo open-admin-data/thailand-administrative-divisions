@@ -1,0 +1,50 @@
+{
+  "id": "3616",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ซับใหญ่",
+    "en": "Sap Yai",
+    "slug": "sap-yai"
+  },
+  "code": {
+    "dopa": "3616"
+  },
+  "parent": {
+    "id": "36",
+    "level": 1,
+    "name": {
+      "th": "ชัยภูมิ",
+      "en": "Chaiyaphum",
+      "slug": "chaiyaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 37
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.565",
+    "lon": "101.670"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sap-yai-3616/"
+  }
+}

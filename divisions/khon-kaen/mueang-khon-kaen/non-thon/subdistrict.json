@@ -1,0 +1,61 @@
+{
+  "id": "400118",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนท่อน",
+    "en": "Non Thon",
+    "slug": "non-thon"
+  },
+  "code": {
+    "dopa": "400118"
+  },
+  "parent": {
+    "id": "4001",
+    "level": 2,
+    "name": {
+      "th": "เมืองขอนแก่น",
+      "en": "Mueang Khon Kaen",
+      "slug": "mueang-khon-kaen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4001",
+      "level": 2,
+      "name": {
+        "th": "เมืองขอนแก่น",
+        "en": "Mueang Khon Kaen",
+        "slug": "mueang-khon-kaen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "40000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.595",
+    "lon": "102.837"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-thon-400118/"
+  }
+}

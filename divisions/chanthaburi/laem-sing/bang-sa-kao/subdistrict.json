@@ -1,0 +1,61 @@
+{
+  "id": "220606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางสระเก้า",
+    "en": "Bang Sa Kao",
+    "slug": "bang-sa-kao"
+  },
+  "code": {
+    "dopa": "220606"
+  },
+  "parent": {
+    "id": "2206",
+    "level": 2,
+    "name": {
+      "th": "แหลมสิงห์",
+      "en": "Laem Sing",
+      "slug": "laem-sing"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    },
+    {
+      "id": "2206",
+      "level": 2,
+      "name": {
+        "th": "แหลมสิงห์",
+        "en": "Laem Sing",
+        "slug": "laem-sing"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "22190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.511",
+    "lon": "102.109"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-sa-kao-220606/"
+  }
+}

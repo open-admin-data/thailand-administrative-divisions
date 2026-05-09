@@ -1,0 +1,50 @@
+{
+  "id": "7008",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปากท่อ",
+    "en": "Pak Tho",
+    "slug": "pak-tho"
+  },
+  "code": {
+    "dopa": "7008"
+  },
+  "parent": {
+    "id": "70",
+    "level": 1,
+    "name": {
+      "th": "ราชบุรี",
+      "en": "Ratchaburi",
+      "slug": "ratchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 85
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.354",
+    "lon": "99.856"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pak-tho-7008/"
+  }
+}

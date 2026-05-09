@@ -1,0 +1,61 @@
+{
+  "id": "210801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นิคมพัฒนา",
+    "en": "Nikhom Phatthana",
+    "slug": "nikhom-phatthana"
+  },
+  "code": {
+    "dopa": "210801"
+  },
+  "parent": {
+    "id": "2108",
+    "level": 2,
+    "name": {
+      "th": "นิคมพัฒนา",
+      "en": "Nikhom Phatthana",
+      "slug": "nikhom-phatthana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2108",
+      "level": 2,
+      "name": {
+        "th": "นิคมพัฒนา",
+        "en": "Nikhom Phatthana",
+        "slug": "nikhom-phatthana"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "21180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.856",
+    "lon": "101.177"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nikhom-phatthana-210801/"
+  }
+}

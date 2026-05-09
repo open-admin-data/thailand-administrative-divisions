@@ -1,0 +1,61 @@
+{
+  "id": "610105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หาดทนง",
+    "en": "Hat Thanong",
+    "slug": "hat-thanong"
+  },
+  "code": {
+    "dopa": "610105"
+  },
+  "parent": {
+    "id": "6101",
+    "level": 2,
+    "name": {
+      "th": "เมืองอุทัยธานี",
+      "en": "Mueang Uthai Thani",
+      "slug": "mueang-uthai-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "th": "เมืองอุทัยธานี",
+        "en": "Mueang Uthai Thani",
+        "slug": "mueang-uthai-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "61000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.382",
+    "lon": "100.096"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hat-thanong-610105/"
+  }
+}

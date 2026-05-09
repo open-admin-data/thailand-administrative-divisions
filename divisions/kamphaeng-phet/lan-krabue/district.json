@@ -1,0 +1,50 @@
+{
+  "id": "6207",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ลานกระบือ",
+    "en": "Lan Krabue",
+    "slug": "lan-krabue"
+  },
+  "code": {
+    "dopa": "6207"
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "th": "กำแพงเพชร",
+      "en": "Kamphaeng Phet",
+      "slug": "kamphaeng-phet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 69
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.521",
+    "lon": "99.974"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/lan-krabue-6207/"
+  }
+}

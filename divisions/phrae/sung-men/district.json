@@ -1,0 +1,50 @@
+{
+  "id": "5404",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สูงเม่น",
+    "en": "Sung Men",
+    "slug": "sung-men"
+  },
+  "code": {
+    "dopa": "5404"
+  },
+  "parent": {
+    "id": "54",
+    "level": 1,
+    "name": {
+      "th": "แพร่",
+      "en": "Phrae",
+      "slug": "phrae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 110
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.090",
+    "lon": "100.168"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sung-men-5404/"
+  }
+}

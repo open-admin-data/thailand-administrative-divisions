@@ -1,0 +1,61 @@
+{
+  "id": "180407",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หาดอาษา",
+    "en": "Hat Asa",
+    "slug": "hat-asa"
+  },
+  "code": {
+    "dopa": "180407"
+  },
+  "parent": {
+    "id": "1804",
+    "level": 2,
+    "name": {
+      "th": "สรรพยา",
+      "en": "Sapphaya",
+      "slug": "sapphaya"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1804",
+      "level": 2,
+      "name": {
+        "th": "สรรพยา",
+        "en": "Sapphaya",
+        "slug": "sapphaya"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "17150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.165",
+    "lon": "100.262"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hat-asa-180407/"
+  }
+}

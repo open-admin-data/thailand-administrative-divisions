@@ -1,0 +1,50 @@
+{
+  "id": "5022",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แม่วาง",
+    "en": "Mae Wang",
+    "slug": "mae-wang"
+  },
+  "code": {
+    "dopa": "5022"
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 58
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.554",
+    "lon": "98.849"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mae-wang-5022/"
+  }
+}

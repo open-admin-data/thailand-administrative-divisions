@@ -1,0 +1,61 @@
+{
+  "id": "710707",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สหกรณ์นิคม",
+    "en": "Sahakon Nikhom",
+    "slug": "sahakon-nikhom"
+  },
+  "code": {
+    "dopa": "710707"
+  },
+  "parent": {
+    "id": "7107",
+    "level": 2,
+    "name": {
+      "th": "ทองผาภูมิ",
+      "en": "Pha Phum",
+      "slug": "pha-phum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7107",
+      "level": 2,
+      "name": {
+        "th": "ทองผาภูมิ",
+        "en": "Pha Phum",
+        "slug": "pha-phum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "71180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.735",
+    "lon": "98.763"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sahakon-nikhom-710707/"
+  }
+}

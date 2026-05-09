@@ -1,0 +1,61 @@
+{
+  "id": "430208",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาข่า",
+    "en": "Na Kha",
+    "slug": "na-kha"
+  },
+  "code": {
+    "dopa": "430208"
+  },
+  "parent": {
+    "id": "4302",
+    "level": 2,
+    "name": {
+      "th": "ท่าบ่อ",
+      "en": "Tha Bo",
+      "slug": "tha-bo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4302",
+      "level": 2,
+      "name": {
+        "th": "ท่าบ่อ",
+        "en": "Tha Bo",
+        "slug": "tha-bo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "43110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.784",
+    "lon": "102.458"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-kha-430208/"
+  }
+}

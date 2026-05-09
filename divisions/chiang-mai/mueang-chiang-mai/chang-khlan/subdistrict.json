@@ -1,0 +1,61 @@
+{
+  "id": "500105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ช้างคลาน",
+    "en": "Chang Khlan",
+    "slug": "chang-khlan"
+  },
+  "code": {
+    "dopa": "500105"
+  },
+  "parent": {
+    "id": "5001",
+    "level": 2,
+    "name": {
+      "th": "เมืองเชียงใหม่",
+      "en": "Mueang Chiang Mai",
+      "slug": "mueang-chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5001",
+      "level": 2,
+      "name": {
+        "th": "เมืองเชียงใหม่",
+        "en": "Mueang Chiang Mai",
+        "slug": "mueang-chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "50100"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.774",
+    "lon": "98.996"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chang-khlan-500105/"
+  }
+}

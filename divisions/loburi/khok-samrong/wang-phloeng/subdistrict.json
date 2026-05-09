@@ -1,0 +1,61 @@
+{
+  "id": "160309",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังเพลิง",
+    "en": "Wang Phloeng",
+    "slug": "wang-phloeng"
+  },
+  "code": {
+    "dopa": "160309"
+  },
+  "parent": {
+    "id": "1603",
+    "level": 2,
+    "name": {
+      "th": "โคกสำโรง",
+      "en": "Khok Samrong",
+      "slug": "khok-samrong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1603",
+      "level": 2,
+      "name": {
+        "th": "โคกสำโรง",
+        "en": "Khok Samrong",
+        "slug": "khok-samrong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "15120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.062",
+    "lon": "100.841"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-phloeng-160309/"
+  }
+}

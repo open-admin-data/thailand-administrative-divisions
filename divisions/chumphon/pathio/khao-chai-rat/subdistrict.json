@@ -1,0 +1,61 @@
+{
+  "id": "860307",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาไชยราช",
+    "en": "Khao Chai Rat",
+    "slug": "khao-chai-rat"
+  },
+  "code": {
+    "dopa": "860307"
+  },
+  "parent": {
+    "id": "8603",
+    "level": 2,
+    "name": {
+      "th": "ปะทิว",
+      "en": "Pathio",
+      "slug": "pathio"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8603",
+      "level": 2,
+      "name": {
+        "th": "ปะทิว",
+        "en": "Pathio",
+        "slug": "pathio"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "86210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.939",
+    "lon": "99.349"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-chai-rat-860307/"
+  }
+}

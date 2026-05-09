@@ -1,0 +1,61 @@
+{
+  "id": "370113",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนหนามแท่ง",
+    "en": "Non Nam Thaeng",
+    "slug": "non-nam-thaeng"
+  },
+  "code": {
+    "dopa": "370113"
+  },
+  "parent": {
+    "id": "3701",
+    "level": 2,
+    "name": {
+      "th": "เมืองอำนาจเจริญ",
+      "en": "Mueang Amnat Charoen",
+      "slug": "mueang-amnat-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    {
+      "id": "3701",
+      "level": 2,
+      "name": {
+        "th": "เมืองอำนาจเจริญ",
+        "en": "Mueang Amnat Charoen",
+        "slug": "mueang-amnat-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "37000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.929",
+    "lon": "104.631"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-nam-thaeng-370113/"
+  }
+}

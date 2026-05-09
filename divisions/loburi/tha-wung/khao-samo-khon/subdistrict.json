@@ -1,0 +1,61 @@
+{
+  "id": "160507",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาสมอคอน",
+    "en": "Khao Samo Khon",
+    "slug": "khao-samo-khon"
+  },
+  "code": {
+    "dopa": "160507"
+  },
+  "parent": {
+    "id": "1605",
+    "level": 2,
+    "name": {
+      "th": "ท่าวุ้ง",
+      "en": "Tha Wung",
+      "slug": "tha-wung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1605",
+      "level": 2,
+      "name": {
+        "th": "ท่าวุ้ง",
+        "en": "Tha Wung",
+        "slug": "tha-wung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "15180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.906",
+    "lon": "100.447"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-samo-khon-160507/"
+  }
+}

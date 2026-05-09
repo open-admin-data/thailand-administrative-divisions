@@ -1,0 +1,61 @@
+{
+  "id": "600201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โกรกพระ",
+    "en": "Krok Phra",
+    "slug": "krok-phra"
+  },
+  "code": {
+    "dopa": "600201"
+  },
+  "parent": {
+    "id": "6002",
+    "level": 2,
+    "name": {
+      "th": "โกรกพระ",
+      "en": "Krok Phra",
+      "slug": "krok-phra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6002",
+      "level": 2,
+      "name": {
+        "th": "โกรกพระ",
+        "en": "Krok Phra",
+        "slug": "krok-phra"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "60170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.559",
+    "lon": "100.056"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/krok-phra-600201/"
+  }
+}

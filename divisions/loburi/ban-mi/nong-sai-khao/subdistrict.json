@@ -1,0 +1,61 @@
+{
+  "id": "160609",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองทรายขาว",
+    "en": "Nong Sai Khao",
+    "slug": "nong-sai-khao"
+  },
+  "code": {
+    "dopa": "160609"
+  },
+  "parent": {
+    "id": "1606",
+    "level": 2,
+    "name": {
+      "th": "บ้านหมี่",
+      "en": "Ban Mi",
+      "slug": "ban-mi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1606",
+      "level": 2,
+      "name": {
+        "th": "บ้านหมี่",
+        "en": "Ban Mi",
+        "slug": "ban-mi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "15110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.996",
+    "lon": "100.597"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-sai-khao-160609/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "331506",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คูบ",
+    "en": "Khup",
+    "slug": "khup"
+  },
+  "code": {
+    "dopa": "331506"
+  },
+  "parent": {
+    "id": "3315",
+    "level": 2,
+    "name": {
+      "th": "น้ำเกลี้ยง",
+      "en": "Nam Kliang",
+      "slug": "nam-kliang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3315",
+      "level": 2,
+      "name": {
+        "th": "น้ำเกลี้ยง",
+        "en": "Nam Kliang",
+        "slug": "nam-kliang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "33130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.971",
+    "lon": "104.569"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khup-331506/"
+  }
+}

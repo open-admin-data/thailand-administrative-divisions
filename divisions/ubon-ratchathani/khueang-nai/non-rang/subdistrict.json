@@ -1,0 +1,61 @@
+{
+  "id": "340414",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนรัง",
+    "en": "Non Rang",
+    "slug": "non-rang"
+  },
+  "code": {
+    "dopa": "340414"
+  },
+  "parent": {
+    "id": "3404",
+    "level": 2,
+    "name": {
+      "th": "เขื่องใน",
+      "en": "Khueang Nai",
+      "slug": "khueang-nai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "th": "เขื่องใน",
+        "en": "Khueang Nai",
+        "slug": "khueang-nai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "34320"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.521",
+    "lon": "104.500"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-rang-340414/"
+  }
+}

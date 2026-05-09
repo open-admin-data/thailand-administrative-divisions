@@ -1,0 +1,61 @@
+{
+  "id": "430703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านหม้อ",
+    "en": "Ban Mo",
+    "slug": "ban-mo"
+  },
+  "code": {
+    "dopa": "430703"
+  },
+  "parent": {
+    "id": "4307",
+    "level": 2,
+    "name": {
+      "th": "ศรีเชียงใหม่",
+      "en": "Si Chiang Mai",
+      "slug": "si-chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4307",
+      "level": 2,
+      "name": {
+        "th": "ศรีเชียงใหม่",
+        "en": "Si Chiang Mai",
+        "slug": "si-chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "43130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.957",
+    "lon": "102.502"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-mo-430703/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "500405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองคอง",
+    "en": "Mueang Khong",
+    "slug": "mueang-khong"
+  },
+  "code": {
+    "dopa": "500405"
+  },
+  "parent": {
+    "id": "5004",
+    "level": 2,
+    "name": {
+      "th": "เชียงดาว",
+      "en": "Chiang Dao",
+      "slug": "chiang-dao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5004",
+      "level": 2,
+      "name": {
+        "th": "เชียงดาว",
+        "en": "Chiang Dao",
+        "slug": "chiang-dao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "50170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.388",
+    "lon": "98.753"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-khong-500405/"
+  }
+}

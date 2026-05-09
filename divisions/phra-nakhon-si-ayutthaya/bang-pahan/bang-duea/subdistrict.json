@@ -1,0 +1,61 @@
+{
+  "id": "140703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางเดื่อ",
+    "en": "Bang Duea",
+    "slug": "bang-duea"
+  },
+  "code": {
+    "dopa": "140703"
+  },
+  "parent": {
+    "id": "1407",
+    "level": 2,
+    "name": {
+      "th": "บางปะหัน",
+      "en": "Bang Pahan",
+      "slug": "bang-pahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1407",
+      "level": 2,
+      "name": {
+        "th": "บางปะหัน",
+        "en": "Bang Pahan",
+        "slug": "bang-pahan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "13220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.436",
+    "lon": "100.576"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-duea-140703/"
+  }
+}

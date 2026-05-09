@@ -1,0 +1,61 @@
+{
+  "id": "110117",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แพรกษาใหม่",
+    "en": "Phraek Sa Mai",
+    "slug": "phraek-sa-mai"
+  },
+  "code": {
+    "dopa": "110117"
+  },
+  "parent": {
+    "id": "1101",
+    "level": 2,
+    "name": {
+      "th": "เมืองสมุทรปราการ",
+      "en": "Mueang Samut Prakan",
+      "slug": "mueang-samut-prakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรปราการ",
+        "en": "Mueang Samut Prakan",
+        "slug": "mueang-samut-prakan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "10280"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.559",
+    "lon": "100.691"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phraek-sa-mai-110117/"
+  }
+}

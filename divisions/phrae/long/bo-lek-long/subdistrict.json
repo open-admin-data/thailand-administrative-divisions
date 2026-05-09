@@ -1,0 +1,61 @@
+{
+  "id": "540308",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อเหล็กลอง",
+    "en": "Bo Lek Long",
+    "slug": "bo-lek-long"
+  },
+  "code": {
+    "dopa": "540308"
+  },
+  "parent": {
+    "id": "5403",
+    "level": 2,
+    "name": {
+      "th": "ลอง",
+      "en": "Long",
+      "slug": "long"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    {
+      "id": "5403",
+      "level": 2,
+      "name": {
+        "th": "ลอง",
+        "en": "Long",
+        "slug": "long"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "54150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.013",
+    "lon": "99.719"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-lek-long-540308/"
+  }
+}

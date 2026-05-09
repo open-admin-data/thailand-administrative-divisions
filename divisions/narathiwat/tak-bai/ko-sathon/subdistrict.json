@@ -1,0 +1,61 @@
+{
+  "id": "960206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะสะท้อน",
+    "en": "Ko Sathon",
+    "slug": "ko-sathon"
+  },
+  "code": {
+    "dopa": "960206"
+  },
+  "parent": {
+    "id": "9602",
+    "level": 2,
+    "name": {
+      "th": "ตากใบ",
+      "en": "Tak Bai",
+      "slug": "tak-bai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9602",
+      "level": 2,
+      "name": {
+        "th": "ตากใบ",
+        "en": "Tak Bai",
+        "slug": "tak-bai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "96110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.220",
+    "lon": "102.059"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-sathon-960206/"
+  }
+}

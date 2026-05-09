@@ -1,0 +1,61 @@
+{
+  "id": "810205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หน้าเขา",
+    "en": "Na Khao",
+    "slug": "na-khao"
+  },
+  "code": {
+    "dopa": "810205"
+  },
+  "parent": {
+    "id": "8102",
+    "level": 2,
+    "name": {
+      "th": "เขาพนม",
+      "en": "Khao Phanom",
+      "slug": "khao-phanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8102",
+      "level": 2,
+      "name": {
+        "th": "เขาพนม",
+        "en": "Khao Phanom",
+        "slug": "khao-phanom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "81140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.343",
+    "lon": "98.966"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-khao-810205/"
+  }
+}

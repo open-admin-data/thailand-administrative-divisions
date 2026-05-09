@@ -1,0 +1,50 @@
+{
+  "id": "5302",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ตรอน",
+    "en": "Tron",
+    "slug": "tron"
+  },
+  "code": {
+    "dopa": "5302"
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "th": "อุตรดิตถ์",
+      "en": "Uttaradit",
+      "slug": "uttaradit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 47
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.502",
+    "lon": "99.976"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tron-5302/"
+  }
+}

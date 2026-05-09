@@ -1,0 +1,124 @@
+[
+  {
+    "id": "850502",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "กำพวน",
+      "en": "Kamphuan",
+      "slug": "kamphuan"
+    },
+    "code": {
+      "dopa": "850502"
+    },
+    "parent": {
+      "id": "8505",
+      "level": 2,
+      "name": {
+        "th": "สุขสำราญ",
+        "en": "Suk Samran",
+        "slug": "suk-samran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "85",
+        "level": 1,
+        "name": {
+          "th": "ระนอง",
+          "en": "Ranong",
+          "slug": "ranong"
+        }
+      },
+      {
+        "id": "8505",
+        "level": 2,
+        "name": {
+          "th": "สุขสำราญ",
+          "en": "Suk Samran",
+          "slug": "suk-samran"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "85120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "9.364",
+      "lon": "98.424"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/kamphuan-850502/"
+    }
+  },
+  {
+    "id": "850501",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "นาคา",
+      "en": "Nakha",
+      "slug": "nakha"
+    },
+    "code": {
+      "dopa": "850501"
+    },
+    "parent": {
+      "id": "8505",
+      "level": 2,
+      "name": {
+        "th": "สุขสำราญ",
+        "en": "Suk Samran",
+        "slug": "suk-samran"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "85",
+        "level": 1,
+        "name": {
+          "th": "ระนอง",
+          "en": "Ranong",
+          "slug": "ranong"
+        }
+      },
+      {
+        "id": "8505",
+        "level": 2,
+        "name": {
+          "th": "สุขสำราญ",
+          "en": "Suk Samran",
+          "slug": "suk-samran"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "85120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "9.424",
+      "lon": "98.540"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nakha-850501/"
+    }
+  }
+]

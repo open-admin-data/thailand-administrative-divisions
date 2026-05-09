@@ -1,0 +1,61 @@
+{
+  "id": "661103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยร่วม",
+    "en": "Huai Ruam",
+    "slug": "huai-ruam"
+  },
+  "code": {
+    "dopa": "661103"
+  },
+  "parent": {
+    "id": "6611",
+    "level": 2,
+    "name": {
+      "th": "ดงเจริญ",
+      "en": "Dong Charoen",
+      "slug": "dong-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6611",
+      "level": 2,
+      "name": {
+        "th": "ดงเจริญ",
+        "en": "Dong Charoen",
+        "slug": "dong-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "66210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.972",
+    "lon": "100.536"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-ruam-661103/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "260107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีจุฬา",
+    "en": "Si Chula",
+    "slug": "si-chula"
+  },
+  "code": {
+    "dopa": "260107"
+  },
+  "parent": {
+    "id": "2601",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครนายก",
+      "en": "Nakhon Nayok",
+      "slug": "nakhon-nayok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    {
+      "id": "2601",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "26000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.072",
+    "lon": "101.132"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-chula-260107/"
+  }
+}

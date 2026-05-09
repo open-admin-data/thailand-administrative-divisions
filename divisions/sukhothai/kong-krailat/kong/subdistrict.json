@@ -1,0 +1,61 @@
+{
+  "id": "640401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กง",
+    "en": "Kong",
+    "slug": "kong"
+  },
+  "code": {
+    "dopa": "640401"
+  },
+  "parent": {
+    "id": "6404",
+    "level": 2,
+    "name": {
+      "th": "กงไกรลาศ",
+      "en": "Kong Krailat",
+      "slug": "kong-krailat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6404",
+      "level": 2,
+      "name": {
+        "th": "กงไกรลาศ",
+        "en": "Kong Krailat",
+        "slug": "kong-krailat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "64170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.893",
+    "lon": "99.984"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kong-640401/"
+  }
+}

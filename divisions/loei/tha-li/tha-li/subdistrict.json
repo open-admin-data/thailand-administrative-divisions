@@ -1,0 +1,61 @@
+{
+  "id": "420801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าลี่",
+    "en": "Tha Li",
+    "slug": "tha-li"
+  },
+  "code": {
+    "dopa": "420801"
+  },
+  "parent": {
+    "id": "4208",
+    "level": 2,
+    "name": {
+      "th": "ท่าลี่",
+      "en": "Tha Li",
+      "slug": "tha-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4208",
+      "level": 2,
+      "name": {
+        "th": "ท่าลี่",
+        "en": "Tha Li",
+        "slug": "tha-li"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "42140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.573",
+    "lon": "101.412"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-li-420801/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "1913",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เฉลิมพระเกียรติ",
+    "en": "Chaloem Phra Kiat",
+    "slug": "chaloem-phra-kiat"
+  },
+  "code": {
+    "dopa": "1913"
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "th": "สระบุรี",
+      "en": "Saraburi",
+      "slug": "saraburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 53
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.607",
+    "lon": "100.931"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chaloem-phra-kiat-1913/"
+  }
+}

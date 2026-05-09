@@ -1,0 +1,50 @@
+{
+  "id": "4203",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เชียงคาน",
+    "en": "Chiang Khan",
+    "slug": "chiang-khan"
+  },
+  "code": {
+    "dopa": "4203"
+  },
+  "parent": {
+    "id": "42",
+    "level": 1,
+    "name": {
+      "th": "เลย",
+      "en": "Loei",
+      "slug": "loei"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 82
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.763",
+    "lon": "101.735"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chiang-khan-4203/"
+  }
+}

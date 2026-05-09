@@ -1,0 +1,50 @@
+{
+  "id": "9609",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สุคิริน",
+    "en": "Sukhirin",
+    "slug": "sukhirin"
+  },
+  "code": {
+    "dopa": "9609"
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "th": "นราธิวาส",
+      "en": "Narathiwat",
+      "slug": "narathiwat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 41
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "5.984",
+    "lon": "101.775"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sukhirin-9609/"
+  }
+}

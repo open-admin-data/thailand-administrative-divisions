@@ -1,0 +1,61 @@
+{
+  "id": "141002",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หลักชัย",
+    "en": "Lak Chai",
+    "slug": "lak-chai"
+  },
+  "code": {
+    "dopa": "141002"
+  },
+  "parent": {
+    "id": "1410",
+    "level": 2,
+    "name": {
+      "th": "ลาดบัวหลวง",
+      "en": "Lat Bua Luang",
+      "slug": "lat-bua-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1410",
+      "level": 2,
+      "name": {
+        "th": "ลาดบัวหลวง",
+        "en": "Lat Bua Luang",
+        "slug": "lat-bua-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "13230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.195",
+    "lon": "100.277"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lak-chai-141002/"
+  }
+}

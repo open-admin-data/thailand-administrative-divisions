@@ -1,0 +1,61 @@
+{
+  "id": "401401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แวงน้อย",
+    "en": "Waeng Noi",
+    "slug": "waeng-noi"
+  },
+  "code": {
+    "dopa": "401401"
+  },
+  "parent": {
+    "id": "4014",
+    "level": 2,
+    "name": {
+      "th": "แวงน้อย",
+      "en": "Waeng Noi",
+      "slug": "waeng-noi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4014",
+      "level": 2,
+      "name": {
+        "th": "แวงน้อย",
+        "en": "Waeng Noi",
+        "slug": "waeng-noi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "40230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.813",
+    "lon": "102.423"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/waeng-noi-401401/"
+  }
+}

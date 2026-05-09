@@ -1,0 +1,61 @@
+{
+  "id": "830303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เชิงทะเล",
+    "en": "Choeng Thale",
+    "slug": "choeng-thale"
+  },
+  "code": {
+    "dopa": "830303"
+  },
+  "parent": {
+    "id": "8303",
+    "level": 2,
+    "name": {
+      "th": "ถลาง",
+      "en": "Thalang",
+      "slug": "thalang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "th": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket"
+      }
+    },
+    {
+      "id": "8303",
+      "level": 2,
+      "name": {
+        "th": "ถลาง",
+        "en": "Thalang",
+        "slug": "thalang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "83110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.996",
+    "lon": "98.309"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/choeng-thale-830303/"
+  }
+}

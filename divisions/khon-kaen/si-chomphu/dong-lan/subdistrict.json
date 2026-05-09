@@ -1,0 +1,61 @@
+{
+  "id": "400607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงลาน",
+    "en": "Dong Lan",
+    "slug": "dong-lan"
+  },
+  "code": {
+    "dopa": "400607"
+  },
+  "parent": {
+    "id": "4006",
+    "level": 2,
+    "name": {
+      "th": "สีชมพู",
+      "en": "Si Chomphu",
+      "slug": "si-chomphu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4006",
+      "level": 2,
+      "name": {
+        "th": "สีชมพู",
+        "en": "Si Chomphu",
+        "slug": "si-chomphu"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "40220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.805",
+    "lon": "102.075"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-lan-400607/"
+  }
+}

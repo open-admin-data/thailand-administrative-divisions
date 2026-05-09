@@ -1,0 +1,61 @@
+{
+  "id": "450205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงครั่งใหญ่",
+    "en": "Dong Khrang Yai",
+    "slug": "dong-khrang-yai"
+  },
+  "code": {
+    "dopa": "450205"
+  },
+  "parent": {
+    "id": "4502",
+    "level": 2,
+    "name": {
+      "th": "เกษตรวิสัย",
+      "en": "Kaset Wisai",
+      "slug": "kaset-wisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4502",
+      "level": 2,
+      "name": {
+        "th": "เกษตรวิสัย",
+        "en": "Kaset Wisai",
+        "slug": "kaset-wisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "45150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.487",
+    "lon": "103.534"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-khrang-yai-450205/"
+  }
+}

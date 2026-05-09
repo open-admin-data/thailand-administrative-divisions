@@ -1,0 +1,61 @@
+{
+  "id": "220210",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตรอกนอง",
+    "en": "Trok Nong",
+    "slug": "trok-nong"
+  },
+  "code": {
+    "dopa": "220210"
+  },
+  "parent": {
+    "id": "2202",
+    "level": 2,
+    "name": {
+      "th": "ขลุง",
+      "en": "Khlung",
+      "slug": "khlung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    },
+    {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "th": "ขลุง",
+        "en": "Khlung",
+        "slug": "khlung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "22110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.533",
+    "lon": "102.275"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/trok-nong-220210/"
+  }
+}

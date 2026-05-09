@@ -1,0 +1,61 @@
+{
+  "id": "140604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านกรด",
+    "en": "Ban Krot",
+    "slug": "ban-krot"
+  },
+  "code": {
+    "dopa": "140604"
+  },
+  "parent": {
+    "id": "1406",
+    "level": 2,
+    "name": {
+      "th": "บางปะอิน",
+      "en": "Bang Pa-in",
+      "slug": "bang-pa-in"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1406",
+      "level": 2,
+      "name": {
+        "th": "บางปะอิน",
+        "en": "Bang Pa-in",
+        "slug": "bang-pa-in"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "13160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.307",
+    "lon": "100.604"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-krot-140604/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "910605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าแก่บ่อหิน",
+    "en": "Pa Kae Bo Hin",
+    "slug": "pa-kae-bo-hin"
+  },
+  "code": {
+    "dopa": "910605"
+  },
+  "parent": {
+    "id": "9106",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งหว้า",
+      "en": "Thung Wa",
+      "slug": "thung-wa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    },
+    {
+      "id": "9106",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งหว้า",
+        "en": "Thung Wa",
+        "slug": "thung-wa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "91120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.048",
+    "lon": "99.817"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-kae-bo-hin-910605/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "420804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำแคม",
+    "en": "Nam Khaem",
+    "slug": "nam-khaem"
+  },
+  "code": {
+    "dopa": "420804"
+  },
+  "parent": {
+    "id": "4208",
+    "level": 2,
+    "name": {
+      "th": "ท่าลี่",
+      "en": "Tha Li",
+      "slug": "tha-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4208",
+      "level": 2,
+      "name": {
+        "th": "ท่าลี่",
+        "en": "Tha Li",
+        "slug": "tha-li"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "42140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.676",
+    "lon": "101.527"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-khaem-420804/"
+  }
+}

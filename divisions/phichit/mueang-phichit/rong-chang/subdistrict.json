@@ -1,0 +1,61 @@
+{
+  "id": "660107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โรงช้าง",
+    "en": "Rong Chang",
+    "slug": "rong-chang"
+  },
+  "code": {
+    "dopa": "660107"
+  },
+  "parent": {
+    "id": "6601",
+    "level": 2,
+    "name": {
+      "th": "เมืองพิจิตร",
+      "en": "Mueang Phichit",
+      "slug": "mueang-phichit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6601",
+      "level": 2,
+      "name": {
+        "th": "เมืองพิจิตร",
+        "en": "Mueang Phichit",
+        "slug": "mueang-phichit"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "66000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.422",
+    "lon": "100.259"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rong-chang-660107/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "711002",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองโสน",
+    "en": "Nong Sano",
+    "slug": "nong-sano"
+  },
+  "code": {
+    "dopa": "711002"
+  },
+  "parent": {
+    "id": "7110",
+    "level": 2,
+    "name": {
+      "th": "เลาขวัญ",
+      "en": "Lao Khwan",
+      "slug": "lao-khwan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7110",
+      "level": 2,
+      "name": {
+        "th": "เลาขวัญ",
+        "en": "Lao Khwan",
+        "slug": "lao-khwan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "71210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.648",
+    "lon": "99.758"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-sano-711002/"
+  }
+}

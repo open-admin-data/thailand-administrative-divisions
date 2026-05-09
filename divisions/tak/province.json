@@ -1,0 +1,38 @@
+{
+  "id": "63",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ตาก",
+    "en": "Tak",
+    "slug": "tak"
+  },
+  "code": {
+    "dopa": "63",
+    "iso": "TH-63"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 9,
+    "subdistricts": 60,
+    "villages": 588
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันตก",
+      "en": "Western"
+    }
+  },
+  "geo": {
+    "lat": "16.862",
+    "lon": "99.129"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/tak-63/"
+  }
+}

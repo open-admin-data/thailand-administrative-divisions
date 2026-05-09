@@ -1,0 +1,50 @@
+{
+  "id": "6610",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บึงนาราง",
+    "en": "Bueng Na Rang",
+    "slug": "bueng-na-rang"
+  },
+  "code": {
+    "dopa": "6610"
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "th": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 51
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.208",
+    "lon": "100.231"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bueng-na-rang-6610/"
+  }
+}

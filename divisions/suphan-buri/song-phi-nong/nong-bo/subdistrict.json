@@ -1,0 +1,61 @@
+{
+  "id": "720713",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองบ่อ",
+    "en": "Nong Bo",
+    "slug": "nong-bo"
+  },
+  "code": {
+    "dopa": "720713"
+  },
+  "parent": {
+    "id": "7207",
+    "level": 2,
+    "name": {
+      "th": "สองพี่น้อง",
+      "en": "Song Phi Nong",
+      "slug": "song-phi-nong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7207",
+      "level": 2,
+      "name": {
+        "th": "สองพี่น้อง",
+        "en": "Song Phi Nong",
+        "slug": "song-phi-nong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "72110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.204",
+    "lon": "99.860"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-bo-720713/"
+  }
+}

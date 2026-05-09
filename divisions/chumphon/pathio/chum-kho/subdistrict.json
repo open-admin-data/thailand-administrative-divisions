@@ -1,0 +1,61 @@
+{
+  "id": "860304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชุมโค",
+    "en": "Chum Kho",
+    "slug": "chum-kho"
+  },
+  "code": {
+    "dopa": "860304"
+  },
+  "parent": {
+    "id": "8603",
+    "level": 2,
+    "name": {
+      "th": "ปะทิว",
+      "en": "Pathio",
+      "slug": "pathio"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8603",
+      "level": 2,
+      "name": {
+        "th": "ปะทิว",
+        "en": "Pathio",
+        "slug": "pathio"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "86160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.767",
+    "lon": "99.336"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chum-kho-860304/"
+  }
+}

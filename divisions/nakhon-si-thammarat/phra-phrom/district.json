@@ -1,0 +1,50 @@
+{
+  "id": "8020",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พระพรหม",
+    "en": "Phra Phrom",
+    "slug": "phra-phrom"
+  },
+  "code": {
+    "dopa": "8020"
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "th": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 40
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.331",
+    "lon": "99.907"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phra-phrom-8020/"
+  }
+}

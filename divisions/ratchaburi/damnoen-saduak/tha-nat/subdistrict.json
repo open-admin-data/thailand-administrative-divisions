@@ -1,0 +1,61 @@
+{
+  "id": "700411",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่านัด",
+    "en": "Tha Nat",
+    "slug": "tha-nat"
+  },
+  "code": {
+    "dopa": "700411"
+  },
+  "parent": {
+    "id": "7004",
+    "level": 2,
+    "name": {
+      "th": "ดำเนินสะดวก",
+      "en": "Damnoen Saduak",
+      "slug": "damnoen-saduak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7004",
+      "level": 2,
+      "name": {
+        "th": "ดำเนินสะดวก",
+        "en": "Damnoen Saduak",
+        "slug": "damnoen-saduak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "70130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.544",
+    "lon": "99.960"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-nat-700411/"
+  }
+}

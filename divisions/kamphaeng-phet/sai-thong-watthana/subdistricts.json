@@ -1,0 +1,185 @@
+[
+  {
+    "id": "620803",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ถาวรวัฒนา",
+      "en": "Thawon Watthana",
+      "slug": "thawon-watthana"
+    },
+    "code": {
+      "dopa": "620803"
+    },
+    "parent": {
+      "id": "6208",
+      "level": 2,
+      "name": {
+        "th": "ทรายทองวัฒนา",
+        "en": "Sai Thong Watthana",
+        "slug": "sai-thong-watthana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "th": "กำแพงเพชร",
+          "en": "Kamphaeng Phet",
+          "slug": "kamphaeng-phet"
+        }
+      },
+      {
+        "id": "6208",
+        "level": 2,
+        "name": {
+          "th": "ทรายทองวัฒนา",
+          "en": "Sai Thong Watthana",
+          "slug": "sai-thong-watthana"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "62190"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.287",
+      "lon": "99.915"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/thawon-watthana-620803/"
+    }
+  },
+  {
+    "id": "620801",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ทุ่งทราย",
+      "en": "Thung Sai",
+      "slug": "thung-sai"
+    },
+    "code": {
+      "dopa": "620801"
+    },
+    "parent": {
+      "id": "6208",
+      "level": 2,
+      "name": {
+        "th": "ทรายทองวัฒนา",
+        "en": "Sai Thong Watthana",
+        "slug": "sai-thong-watthana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "th": "กำแพงเพชร",
+          "en": "Kamphaeng Phet",
+          "slug": "kamphaeng-phet"
+        }
+      },
+      {
+        "id": "6208",
+        "level": 2,
+        "name": {
+          "th": "ทรายทองวัฒนา",
+          "en": "Sai Thong Watthana",
+          "slug": "sai-thong-watthana"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 17
+    },
+    "zip_codes": [
+      "62190"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.305",
+      "lon": "99.862"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/thung-sai-620801/"
+    }
+  },
+  {
+    "id": "620802",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ทุ่งทอง",
+      "en": "Thung Thong",
+      "slug": "thung-thong"
+    },
+    "code": {
+      "dopa": "620802"
+    },
+    "parent": {
+      "id": "6208",
+      "level": 2,
+      "name": {
+        "th": "ทรายทองวัฒนา",
+        "en": "Sai Thong Watthana",
+        "slug": "sai-thong-watthana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "th": "กำแพงเพชร",
+          "en": "Kamphaeng Phet",
+          "slug": "kamphaeng-phet"
+        }
+      },
+      {
+        "id": "6208",
+        "level": 2,
+        "name": {
+          "th": "ทรายทองวัฒนา",
+          "en": "Sai Thong Watthana",
+          "slug": "sai-thong-watthana"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "62190"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.341",
+      "lon": "99.899"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/thung-thong-620802/"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "330602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดินแดง",
+    "en": "Din Daeng",
+    "slug": "din-daeng"
+  },
+  "code": {
+    "dopa": "330602"
+  },
+  "parent": {
+    "id": "3306",
+    "level": 2,
+    "name": {
+      "th": "ไพรบึง",
+      "en": "Phrai Bueng",
+      "slug": "phrai-bueng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3306",
+      "level": 2,
+      "name": {
+        "th": "ไพรบึง",
+        "en": "Phrai Bueng",
+        "slug": "phrai-bueng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "33180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.801",
+    "lon": "104.308"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/din-daeng-330602/"
+  }
+}

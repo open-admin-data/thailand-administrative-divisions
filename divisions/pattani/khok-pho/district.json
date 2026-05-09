@@ -1,0 +1,50 @@
+{
+  "id": "9402",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โคกโพธิ์",
+    "en": "Khok Pho",
+    "slug": "khok-pho"
+  },
+  "code": {
+    "dopa": "9402"
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "th": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 83
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.701",
+    "lon": "101.116"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khok-pho-9402/"
+  }
+}

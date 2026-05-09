@@ -1,0 +1,61 @@
+{
+  "id": "200705",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองขาม",
+    "en": "Nong Kham",
+    "slug": "nong-kham"
+  },
+  "code": {
+    "dopa": "200705"
+  },
+  "parent": {
+    "id": "2007",
+    "level": 2,
+    "name": {
+      "th": "ศรีราชา",
+      "en": "Si Racha",
+      "slug": "si-racha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2007",
+      "level": 2,
+      "name": {
+        "th": "ศรีราชา",
+        "en": "Si Racha",
+        "slug": "si-racha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "20110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.134",
+    "lon": "101.038"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-kham-200705/"
+  }
+}

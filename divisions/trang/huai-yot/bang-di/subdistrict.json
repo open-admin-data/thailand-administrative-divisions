@@ -1,0 +1,61 @@
+{
+  "id": "920605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางดี",
+    "en": "Bang Di",
+    "slug": "bang-di"
+  },
+  "code": {
+    "dopa": "920605"
+  },
+  "parent": {
+    "id": "9206",
+    "level": 2,
+    "name": {
+      "th": "ห้วยยอด",
+      "en": "Huai Yot",
+      "slug": "huai-yot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9206",
+      "level": 2,
+      "name": {
+        "th": "ห้วยยอด",
+        "en": "Huai Yot",
+        "slug": "huai-yot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "92210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.841",
+    "lon": "99.494"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-di-920605/"
+  }
+}

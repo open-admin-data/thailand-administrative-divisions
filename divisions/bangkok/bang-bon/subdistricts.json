@@ -1,0 +1,63 @@
+[
+  {
+    "id": "105001",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง บางบอน",
+      "en": "Bang Bon",
+      "slug": "bang-bon"
+    },
+    "code": {
+      "dopa": "105001"
+    },
+    "parent": {
+      "id": "1050",
+      "level": 2,
+      "name": {
+        "th": "เขต บางบอน",
+        "en": "Bang Bon",
+        "slug": "bang-bon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1050",
+        "level": 2,
+        "name": {
+          "th": "เขต บางบอน",
+          "en": "Bang Bon",
+          "slug": "bang-bon"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10150"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.646",
+      "lon": "100.370"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bang-bon-105001/"
+    }
+  }
+]

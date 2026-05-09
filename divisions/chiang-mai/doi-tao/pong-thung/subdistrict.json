@@ -1,0 +1,61 @@
+{
+  "id": "501706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โปงทุ่ง",
+    "en": "Pong Thung",
+    "slug": "pong-thung"
+  },
+  "code": {
+    "dopa": "501706"
+  },
+  "parent": {
+    "id": "5017",
+    "level": 2,
+    "name": {
+      "th": "ดอยเต่า",
+      "en": "Doi Tao",
+      "slug": "doi-tao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5017",
+      "level": 2,
+      "name": {
+        "th": "ดอยเต่า",
+        "en": "Doi Tao",
+        "slug": "doi-tao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "50260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.836",
+    "lon": "98.736"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pong-thung-501706/"
+  }
+}

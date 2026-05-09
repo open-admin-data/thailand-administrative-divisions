@@ -1,0 +1,50 @@
+{
+  "id": "1031",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต บางคอแหลม",
+    "en": "Bang Kho Laem",
+    "slug": "bang-kho-laem"
+  },
+  "code": {
+    "dopa": "1031"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.706",
+    "lon": "100.508"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-kho-laem-1031/"
+  }
+}

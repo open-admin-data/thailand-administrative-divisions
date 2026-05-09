@@ -1,0 +1,61 @@
+{
+  "id": "410504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทมนางาม",
+    "en": "Thom Na Ngam",
+    "slug": "thom-na-ngam"
+  },
+  "code": {
+    "dopa": "410504"
+  },
+  "parent": {
+    "id": "4105",
+    "level": 2,
+    "name": {
+      "th": "โนนสะอาด",
+      "en": "Non Sa-at",
+      "slug": "non-sa-at"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4105",
+      "level": 2,
+      "name": {
+        "th": "โนนสะอาด",
+        "en": "Non Sa-at",
+        "slug": "non-sa-at"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "41240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.888",
+    "lon": "102.956"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thom-na-ngam-410504/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "412402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนทองอินทร์",
+    "en": "Non Thong In",
+    "slug": "non-thong-in"
+  },
+  "code": {
+    "dopa": "412402"
+  },
+  "parent": {
+    "id": "4124",
+    "level": 2,
+    "name": {
+      "th": "กู่แก้ว",
+      "en": "Ku Kaeo",
+      "slug": "ku-kaeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4124",
+      "level": 2,
+      "name": {
+        "th": "กู่แก้ว",
+        "en": "Ku Kaeo",
+        "slug": "ku-kaeo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "41130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.197",
+    "lon": "103.177"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-thong-in-412402/"
+  }
+}

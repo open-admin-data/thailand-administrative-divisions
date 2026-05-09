@@ -1,0 +1,61 @@
+{
+  "id": "170406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวป่า",
+    "en": "Hua Pa",
+    "slug": "hua-pa"
+  },
+  "code": {
+    "dopa": "170406"
+  },
+  "parent": {
+    "id": "1704",
+    "level": 2,
+    "name": {
+      "th": "พรหมบุรี",
+      "en": "Phrom Buri",
+      "slug": "phrom-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "th": "พรหมบุรี",
+        "en": "Phrom Buri",
+        "slug": "phrom-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "16120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.831",
+    "lon": "100.425"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-pa-170406/"
+  }
+}

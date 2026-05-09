@@ -1,0 +1,61 @@
+{
+  "id": "700717",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ธรรมเสน",
+    "en": "Thammasen",
+    "slug": "thammasen"
+  },
+  "code": {
+    "dopa": "700717"
+  },
+  "parent": {
+    "id": "7007",
+    "level": 2,
+    "name": {
+      "th": "โพธาราม",
+      "en": "Photharam",
+      "slug": "photharam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7007",
+      "level": 2,
+      "name": {
+        "th": "โพธาราม",
+        "en": "Photharam",
+        "slug": "photharam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "70120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.669",
+    "lon": "99.726"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thammasen-700717/"
+  }
+}

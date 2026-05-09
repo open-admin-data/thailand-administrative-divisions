@@ -1,0 +1,61 @@
+{
+  "id": "730610",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กระทุ่มล้ม",
+    "en": "Krathum Lom",
+    "slug": "krathum-lom"
+  },
+  "code": {
+    "dopa": "730610"
+  },
+  "parent": {
+    "id": "7306",
+    "level": 2,
+    "name": {
+      "th": "สามพราน",
+      "en": "Sam Phran",
+      "slug": "sam-phran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "th": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 38
+  },
+  "zip_codes": [
+    "73220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.737",
+    "lon": "100.322"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/krathum-lom-730610/"
+  }
+}

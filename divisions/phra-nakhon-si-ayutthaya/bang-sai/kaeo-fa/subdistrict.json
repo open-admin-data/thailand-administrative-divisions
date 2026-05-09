@@ -1,0 +1,61 @@
+{
+  "id": "141302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แก้วฟ้า",
+    "en": "Kaeo Fa",
+    "slug": "kaeo-fa"
+  },
+  "code": {
+    "dopa": "141302"
+  },
+  "parent": {
+    "id": "1413",
+    "level": 2,
+    "name": {
+      "th": "บางซ้าย",
+      "en": "Bang Sai",
+      "slug": "bang-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1413",
+      "level": 2,
+      "name": {
+        "th": "บางซ้าย",
+        "en": "Bang Sai",
+        "slug": "bang-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "13270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.313",
+    "lon": "100.326"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kaeo-fa-141302/"
+  }
+}

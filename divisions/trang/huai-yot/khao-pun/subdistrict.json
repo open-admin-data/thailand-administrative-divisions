@@ -1,0 +1,61 @@
+{
+  "id": "920609",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาปูน",
+    "en": "Khao Pun",
+    "slug": "khao-pun"
+  },
+  "code": {
+    "dopa": "920609"
+  },
+  "parent": {
+    "id": "9206",
+    "level": 2,
+    "name": {
+      "th": "ห้วยยอด",
+      "en": "Huai Yot",
+      "slug": "huai-yot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9206",
+      "level": 2,
+      "name": {
+        "th": "ห้วยยอด",
+        "en": "Huai Yot",
+        "slug": "huai-yot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "92130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.803",
+    "lon": "99.668"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-pun-920609/"
+  }
+}

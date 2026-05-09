@@ -1,0 +1,50 @@
+{
+  "id": "2704",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "วังน้ำเย็น",
+    "en": "Wang Nam Yen",
+    "slug": "wang-nam-yen"
+  },
+  "code": {
+    "dopa": "2704"
+  },
+  "parent": {
+    "id": "27",
+    "level": 1,
+    "name": {
+      "th": "สระแก้ว",
+      "en": "Sa Kaeo",
+      "slug": "sa-kaeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 84
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.606",
+    "lon": "102.104"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wang-nam-yen-2704/"
+  }
+}

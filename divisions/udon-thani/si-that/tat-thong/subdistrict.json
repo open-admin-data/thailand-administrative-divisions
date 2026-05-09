@@ -1,0 +1,61 @@
+{
+  "id": "410907",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตาดทอง",
+    "en": "Tat Thong",
+    "slug": "tat-thong"
+  },
+  "code": {
+    "dopa": "410907"
+  },
+  "parent": {
+    "id": "4109",
+    "level": 2,
+    "name": {
+      "th": "ศรีธาตุ",
+      "en": "Si That",
+      "slug": "si-that"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4109",
+      "level": 2,
+      "name": {
+        "th": "ศรีธาตุ",
+        "en": "Si That",
+        "slug": "si-that"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "41230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.067",
+    "lon": "103.155"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tat-thong-410907/"
+  }
+}

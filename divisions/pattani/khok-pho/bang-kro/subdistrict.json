@@ -1,0 +1,61 @@
+{
+  "id": "940203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางโกระ",
+    "en": "Bang Kro",
+    "slug": "bang-kro"
+  },
+  "code": {
+    "dopa": "940203"
+  },
+  "parent": {
+    "id": "9402",
+    "level": 2,
+    "name": {
+      "th": "โคกโพธิ์",
+      "en": "Khok Pho",
+      "slug": "khok-pho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9402",
+      "level": 2,
+      "name": {
+        "th": "โคกโพธิ์",
+        "en": "Khok Pho",
+        "slug": "khok-pho"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "94120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.760",
+    "lon": "101.108"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-kro-940203/"
+  }
+}

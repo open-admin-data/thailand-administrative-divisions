@@ -1,0 +1,61 @@
+{
+  "id": "240118",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองหลวงแพ่ง",
+    "en": "Khlong Luang Phaeng",
+    "slug": "khlong-luang-phaeng"
+  },
+  "code": {
+    "dopa": "240118"
+  },
+  "parent": {
+    "id": "2401",
+    "level": 2,
+    "name": {
+      "th": "เมืองฉะเชิงเทรา",
+      "en": "Mueang Chachoengsao",
+      "slug": "mueang-chachoengsao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2401",
+      "level": 2,
+      "name": {
+        "th": "เมืองฉะเชิงเทรา",
+        "en": "Mueang Chachoengsao",
+        "slug": "mueang-chachoengsao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "24000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.780",
+    "lon": "100.927"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-luang-phaeng-240118/"
+  }
+}

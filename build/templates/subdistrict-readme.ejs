@@ -1,0 +1,43 @@
+# <%= subdistrict.name.th %> (<%= subdistrict.name.en %>)
+
+[Home](../../../../) > [<%= province.name.en %>](../../) > [<%= district.name.en %>](../) > **<%= subdistrict.name.en %>**
+
+<%= subdistrict.name.th %> (<%= subdistrict.name.en %>) is a subdistrict in <%= district.name.th %> (<%= district.name.en %>), <%= province.name.th %> (<%= province.name.en %>), Thailand.
+
+## Overview / ภาพรวม
+
+| รายการ / Item | ข้อมูล / Details |
+|---------------|-----------------|
+| หมู่บ้าน / Villages | <%= subdistrict.children_count.villages %> |
+<% if (subdistrict.zip_codes && subdistrict.zip_codes.length > 0) { -%>
+| รหัสไปรษณีย์ / Zip Code | <%= subdistrict.zip_codes.join(', ') %> |
+<% } -%>
+| DOPA Code | <%= subdistrict.code.dopa %> |
+<% if (subdistrict.geo && subdistrict.geo.lat) { -%>
+| พิกัด / Coordinates | <%= subdistrict.geo.lat %>, <%= subdistrict.geo.lon %> |
+<% } -%>
+| อำเภอ / District | <%= district.name.th %> (<%= district.name.en %>) |
+| จังหวัด / Province | <%= province.name.th %> (<%= province.name.en %>) |
+
+<% if (villages.length > 0) { -%>
+## หมู่บ้าน / Villages
+
+| หมู่ที่ | ชื่อหมู่บ้าน (Thai) | Village Name (English) | DOPA Code |
+|---------|---------------------|------------------------|-----------|
+<% villages.forEach((v, i) => { -%>
+| <%= i + 1 %> | <%= v.name.th %> | <%= v.name.en %> | <%= v.code.dopa %> |
+<% }) -%>
+
+<% } else { -%>
+*No village data available for this subdistrict.*
+
+<% } -%>
+## Data Files / ไฟล์ข้อมูล
+
+- [subdistrict.json](subdistrict.json) — Subdistrict metadata
+- [villages.json](villages.json) — All villages in <%= subdistrict.name.en %> (JSON)
+- [villages.csv](villages.csv) — CSV format
+
+---
+
+← Back to [<%= district.name.th %> (<%= district.name.en %>)](../)

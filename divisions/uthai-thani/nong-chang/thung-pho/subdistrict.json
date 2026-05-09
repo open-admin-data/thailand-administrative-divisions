@@ -1,0 +1,61 @@
+{
+  "id": "610407",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งโพ",
+    "en": "Thung Pho",
+    "slug": "thung-pho"
+  },
+  "code": {
+    "dopa": "610407"
+  },
+  "parent": {
+    "id": "6104",
+    "level": 2,
+    "name": {
+      "th": "หนองฉาง",
+      "en": "Nong Chang",
+      "slug": "nong-chang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6104",
+      "level": 2,
+      "name": {
+        "th": "หนองฉาง",
+        "en": "Nong Chang",
+        "slug": "nong-chang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "61110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.344",
+    "lon": "99.712"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-pho-610407/"
+  }
+}

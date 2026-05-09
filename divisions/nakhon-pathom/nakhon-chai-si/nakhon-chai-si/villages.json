@@ -1,0 +1,185 @@
+[
+  {
+    "id": "73030101",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านท่านา",
+      "en": "Ban Tha Na",
+      "slug": "73030101"
+    },
+    "code": {
+      "dopa": "73030101"
+    },
+    "parent": {
+      "id": "730301",
+      "level": 3,
+      "name": {
+        "th": "นครชัยศรี",
+        "en": "Nakhon Chai Si",
+        "slug": "nakhon-chai-si"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "th": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom"
+        }
+      },
+      {
+        "id": "7303",
+        "level": 2,
+        "name": {
+          "th": "นครชัยศรี",
+          "en": "Nakhon Chai Si",
+          "slug": "nakhon-chai-si"
+        }
+      },
+      {
+        "id": "730301",
+        "level": 3,
+        "name": {
+          "th": "นครชัยศรี",
+          "en": "Nakhon Chai Si",
+          "slug": "nakhon-chai-si"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.801029",
+      "lon": "100.185554"
+    },
+    "source": {}
+  },
+  {
+    "id": "73030102",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านปากคลองบางแก้ว",
+      "en": "Ban Pak Khlong Bang Kaeo",
+      "slug": "73030102"
+    },
+    "code": {
+      "dopa": "73030102"
+    },
+    "parent": {
+      "id": "730301",
+      "level": 3,
+      "name": {
+        "th": "นครชัยศรี",
+        "en": "Nakhon Chai Si",
+        "slug": "nakhon-chai-si"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "th": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom"
+        }
+      },
+      {
+        "id": "7303",
+        "level": 2,
+        "name": {
+          "th": "นครชัยศรี",
+          "en": "Nakhon Chai Si",
+          "slug": "nakhon-chai-si"
+        }
+      },
+      {
+        "id": "730301",
+        "level": 3,
+        "name": {
+          "th": "นครชัยศรี",
+          "en": "Nakhon Chai Si",
+          "slug": "nakhon-chai-si"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.795522118324227",
+      "lon": "100.19171565771103"
+    },
+    "source": {}
+  },
+  {
+    "id": "73030103",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกลาง",
+      "en": "Ban Klang",
+      "slug": "73030103"
+    },
+    "code": {
+      "dopa": "73030103"
+    },
+    "parent": {
+      "id": "730301",
+      "level": 3,
+      "name": {
+        "th": "นครชัยศรี",
+        "en": "Nakhon Chai Si",
+        "slug": "nakhon-chai-si"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "th": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom"
+        }
+      },
+      {
+        "id": "7303",
+        "level": 2,
+        "name": {
+          "th": "นครชัยศรี",
+          "en": "Nakhon Chai Si",
+          "slug": "nakhon-chai-si"
+        }
+      },
+      {
+        "id": "730301",
+        "level": 3,
+        "name": {
+          "th": "นครชัยศรี",
+          "en": "Nakhon Chai Si",
+          "slug": "nakhon-chai-si"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.792882103002153",
+      "lon": "100.19404783844948"
+    },
+    "source": {}
+  }
+]

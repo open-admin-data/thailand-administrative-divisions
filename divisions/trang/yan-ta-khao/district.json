@@ -1,0 +1,50 @@
+{
+  "id": "9203",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ย่านตาขาว",
+    "en": "Yan Ta Khao",
+    "slug": "yan-ta-khao"
+  },
+  "code": {
+    "dopa": "9203"
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "th": "ตรัง",
+      "en": "Trang",
+      "slug": "trang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 67
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.406",
+    "lon": "99.674"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/yan-ta-khao-9203/"
+  }
+}

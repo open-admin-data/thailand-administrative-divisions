@@ -1,0 +1,61 @@
+{
+  "id": "610409",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาบางแกรก",
+    "en": "Khao Bang Kraek",
+    "slug": "khao-bang-kraek"
+  },
+  "code": {
+    "dopa": "610409"
+  },
+  "parent": {
+    "id": "6104",
+    "level": 2,
+    "name": {
+      "th": "หนองฉาง",
+      "en": "Nong Chang",
+      "slug": "nong-chang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6104",
+      "level": 2,
+      "name": {
+        "th": "หนองฉาง",
+        "en": "Nong Chang",
+        "slug": "nong-chang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "61170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.328",
+    "lon": "99.657"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-bang-kraek-610409/"
+  }
+}

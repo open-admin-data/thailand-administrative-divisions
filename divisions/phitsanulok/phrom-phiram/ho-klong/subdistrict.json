@@ -1,0 +1,61 @@
+{
+  "id": "650605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หอกลอง",
+    "en": "Ho Klong",
+    "slug": "ho-klong"
+  },
+  "code": {
+    "dopa": "650605"
+  },
+  "parent": {
+    "id": "6506",
+    "level": 2,
+    "name": {
+      "th": "พรหมพิราม",
+      "en": "Phrom Phiram",
+      "slug": "phrom-phiram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6506",
+      "level": 2,
+      "name": {
+        "th": "พรหมพิราม",
+        "en": "Phrom Phiram",
+        "slug": "phrom-phiram"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "65150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.985",
+    "lon": "100.251"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ho-klong-650605/"
+  }
+}

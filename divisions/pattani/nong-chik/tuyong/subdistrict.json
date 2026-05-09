@@ -1,0 +1,61 @@
+{
+  "id": "940305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตุยง",
+    "en": "Tuyong",
+    "slug": "tuyong"
+  },
+  "code": {
+    "dopa": "940305"
+  },
+  "parent": {
+    "id": "9403",
+    "level": 2,
+    "name": {
+      "th": "หนองจิก",
+      "en": "Nong Chik",
+      "slug": "nong-chik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9403",
+      "level": 2,
+      "name": {
+        "th": "หนองจิก",
+        "en": "Nong Chik",
+        "slug": "nong-chik"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "94170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.832",
+    "lon": "101.178"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tuyong-940305/"
+  }
+}

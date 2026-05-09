@@ -1,0 +1,61 @@
+{
+  "id": "950109",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลำใหม่",
+    "en": "Lam Mai",
+    "slug": "lam-mai"
+  },
+  "code": {
+    "dopa": "950109"
+  },
+  "parent": {
+    "id": "9501",
+    "level": 2,
+    "name": {
+      "th": "เมืองยะลา",
+      "en": "Yala",
+      "slug": "yala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "th": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "95160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.583",
+    "lon": "101.205"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lam-mai-950109/"
+  }
+}

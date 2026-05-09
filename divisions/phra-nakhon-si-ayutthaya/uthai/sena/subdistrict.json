@@ -1,0 +1,61 @@
+{
+  "id": "141407",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เสนา",
+    "en": "Sena",
+    "slug": "sena"
+  },
+  "code": {
+    "dopa": "141407"
+  },
+  "parent": {
+    "id": "1414",
+    "level": 2,
+    "name": {
+      "th": "อุทัย",
+      "en": "Uthai",
+      "slug": "uthai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1414",
+      "level": 2,
+      "name": {
+        "th": "อุทัย",
+        "en": "Uthai",
+        "slug": "uthai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "13210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.392",
+    "lon": "100.689"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sena-141407/"
+  }
+}

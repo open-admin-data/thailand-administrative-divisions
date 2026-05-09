@@ -1,0 +1,61 @@
+{
+  "id": "220312",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โขมง",
+    "en": "Khamong",
+    "slug": "khamong"
+  },
+  "code": {
+    "dopa": "220312"
+  },
+  "parent": {
+    "id": "2203",
+    "level": 2,
+    "name": {
+      "th": "ท่าใหม่",
+      "en": "Tha Mai",
+      "slug": "tha-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    },
+    {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "th": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "22170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.620",
+    "lon": "101.940"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khamong-220312/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "481103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนเตย",
+    "en": "Don Toei",
+    "slug": "don-toei"
+  },
+  "code": {
+    "dopa": "481103"
+  },
+  "parent": {
+    "id": "4811",
+    "level": 2,
+    "name": {
+      "th": "นาทม",
+      "en": "Na Thom",
+      "slug": "na-thom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4811",
+      "level": 2,
+      "name": {
+        "th": "นาทม",
+        "en": "Na Thom",
+        "slug": "na-thom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "48140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.798",
+    "lon": "104.108"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-toei-481103/"
+  }
+}

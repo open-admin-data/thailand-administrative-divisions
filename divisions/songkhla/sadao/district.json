@@ -1,0 +1,50 @@
+{
+  "id": "9010",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สะเดา",
+    "en": "Sadao",
+    "slug": "sadao"
+  },
+  "code": {
+    "dopa": "9010"
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "th": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 95
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.636",
+    "lon": "100.416"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sadao-9010/"
+  }
+}

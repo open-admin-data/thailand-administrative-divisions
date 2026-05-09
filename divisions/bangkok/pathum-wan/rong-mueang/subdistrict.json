@@ -1,0 +1,61 @@
+{
+  "id": "100701",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง รองเมือง",
+    "en": "Rong Mueang",
+    "slug": "rong-mueang"
+  },
+  "code": {
+    "dopa": "100701"
+  },
+  "parent": {
+    "id": "1007",
+    "level": 2,
+    "name": {
+      "th": "เขต ปทุมวัน",
+      "en": "Pathum Wan",
+      "slug": "pathum-wan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1007",
+      "level": 2,
+      "name": {
+        "th": "เขต ปทุมวัน",
+        "en": "Pathum Wan",
+        "slug": "pathum-wan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10330"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.744",
+    "lon": "100.520"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rong-mueang-100701/"
+  }
+}

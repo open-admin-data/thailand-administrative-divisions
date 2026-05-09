@@ -1,0 +1,61 @@
+{
+  "id": "650204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เนินเพิ่ม",
+    "en": "Noen Phoem",
+    "slug": "noen-phoem"
+  },
+  "code": {
+    "dopa": "650204"
+  },
+  "parent": {
+    "id": "6502",
+    "level": 2,
+    "name": {
+      "th": "นครไทย",
+      "en": "Nakhon Thai",
+      "slug": "nakhon-thai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6502",
+      "level": 2,
+      "name": {
+        "th": "นครไทย",
+        "en": "Nakhon Thai",
+        "slug": "nakhon-thai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "65120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.033",
+    "lon": "100.946"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/noen-phoem-650204/"
+  }
+}

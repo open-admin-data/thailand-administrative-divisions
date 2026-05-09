@@ -1,0 +1,50 @@
+{
+  "id": "6701",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองเพชรบูรณ์",
+    "en": "Mueang Phetchabun",
+    "slug": "mueang-phetchabun"
+  },
+  "code": {
+    "dopa": "6701"
+  },
+  "parent": {
+    "id": "67",
+    "level": 1,
+    "name": {
+      "th": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 17,
+    "villages": 238
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.420",
+    "lon": "101.156"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-phetchabun-6701/"
+  }
+}

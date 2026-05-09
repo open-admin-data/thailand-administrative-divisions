@@ -1,0 +1,61 @@
+{
+  "id": "100307",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง ลำผักชี",
+    "en": "Lam Phak Chi",
+    "slug": "lam-phak-chi"
+  },
+  "code": {
+    "dopa": "100307"
+  },
+  "parent": {
+    "id": "1003",
+    "level": 2,
+    "name": {
+      "th": "เขต หนองจอก",
+      "en": "Nong Chok",
+      "slug": "nong-chok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1003",
+      "level": 2,
+      "name": {
+        "th": "เขต หนองจอก",
+        "en": "Nong Chok",
+        "slug": "nong-chok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10530"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.797",
+    "lon": "100.844"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lam-phak-chi-100307/"
+  }
+}

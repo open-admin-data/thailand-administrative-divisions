@@ -1,0 +1,50 @@
+{
+  "id": "3508",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เลิงนกทา",
+    "en": "Loeng Nok Tha",
+    "slug": "loeng-nok-tha"
+  },
+  "code": {
+    "dopa": "3508"
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "th": "ยโสธร",
+      "en": "Yasothon",
+      "slug": "yasothon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 145
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.095",
+    "lon": "104.506"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/loeng-nok-tha-3508/"
+  }
+}

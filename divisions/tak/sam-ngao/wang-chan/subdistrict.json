@@ -1,0 +1,61 @@
+{
+  "id": "630306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังจันทร์",
+    "en": "Wang Chan",
+    "slug": "wang-chan"
+  },
+  "code": {
+    "dopa": "630306"
+  },
+  "parent": {
+    "id": "6303",
+    "level": 2,
+    "name": {
+      "th": "สามเงา",
+      "en": "Sam Ngao",
+      "slug": "sam-ngao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6303",
+      "level": 2,
+      "name": {
+        "th": "สามเงา",
+        "en": "Sam Ngao",
+        "slug": "sam-ngao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "63130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.275",
+    "lon": "99.147"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-chan-630306/"
+  }
+}

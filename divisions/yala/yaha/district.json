@@ -1,0 +1,50 @@
+{
+  "id": "9505",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ยะหา",
+    "en": "Yaha",
+    "slug": "yaha"
+  },
+  "code": {
+    "dopa": "9505"
+  },
+  "parent": {
+    "id": "95",
+    "level": 1,
+    "name": {
+      "th": "ยะลา",
+      "en": "Yala",
+      "slug": "yala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 49
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.527",
+    "lon": "101.153"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/yaha-9505/"
+  }
+}

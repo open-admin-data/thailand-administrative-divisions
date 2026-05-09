@@ -1,0 +1,61 @@
+{
+  "id": "150207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หลักฟ้า",
+    "en": "Lak Fa",
+    "slug": "lak-fa"
+  },
+  "code": {
+    "dopa": "150207"
+  },
+  "parent": {
+    "id": "1502",
+    "level": 2,
+    "name": {
+      "th": "ไชโย",
+      "en": "Chaiyo",
+      "slug": "chaiyo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1502",
+      "level": 2,
+      "name": {
+        "th": "ไชโย",
+        "en": "Chaiyo",
+        "slug": "chaiyo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 3
+  },
+  "zip_codes": [
+    "14140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.684",
+    "lon": "100.462"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lak-fa-150207/"
+  }
+}

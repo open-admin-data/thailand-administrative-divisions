@@ -1,0 +1,61 @@
+{
+  "id": "160406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บัวชุม",
+    "en": "Bua Chum",
+    "slug": "bua-chum"
+  },
+  "code": {
+    "dopa": "160406"
+  },
+  "parent": {
+    "id": "1604",
+    "level": 2,
+    "name": {
+      "th": "ชัยบาดาล",
+      "en": "Chai Badan",
+      "slug": "chai-badan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1604",
+      "level": 2,
+      "name": {
+        "th": "ชัยบาดาล",
+        "en": "Chai Badan",
+        "slug": "chai-badan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "15130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.176",
+    "lon": "101.238"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bua-chum-160406/"
+  }
+}

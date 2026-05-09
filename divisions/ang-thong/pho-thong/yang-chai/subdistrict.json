@@ -1,0 +1,61 @@
+{
+  "id": "150410",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยางซ้าย",
+    "en": "Yang Chai",
+    "slug": "yang-chai"
+  },
+  "code": {
+    "dopa": "150410"
+  },
+  "parent": {
+    "id": "1504",
+    "level": 2,
+    "name": {
+      "th": "โพธิ์ทอง",
+      "en": "Pho Thong",
+      "slug": "pho-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1504",
+      "level": 2,
+      "name": {
+        "th": "โพธิ์ทอง",
+        "en": "Pho Thong",
+        "slug": "pho-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "64000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.658",
+    "lon": "100.297"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yang-chai-150410/"
+  }
+}

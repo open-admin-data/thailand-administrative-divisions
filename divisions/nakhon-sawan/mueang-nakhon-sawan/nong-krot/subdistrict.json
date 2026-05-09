@@ -1,0 +1,61 @@
+{
+  "id": "600114",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองกรด",
+    "en": "Nong Krot",
+    "slug": "nong-krot"
+  },
+  "code": {
+    "dopa": "600114"
+  },
+  "parent": {
+    "id": "6001",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครสวรรค์",
+      "en": "Mueang Nakhon Sawan",
+      "slug": "mueang-nakhon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6001",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครสวรรค์",
+        "en": "Mueang Nakhon Sawan",
+        "slug": "mueang-nakhon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "60240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.724",
+    "lon": "99.997"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-krot-600114/"
+  }
+}

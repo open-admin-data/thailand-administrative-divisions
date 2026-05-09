@@ -1,0 +1,61 @@
+{
+  "id": "940307",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อทอง",
+    "en": "Bo Thong",
+    "slug": "bo-thong"
+  },
+  "code": {
+    "dopa": "940307"
+  },
+  "parent": {
+    "id": "9403",
+    "level": 2,
+    "name": {
+      "th": "หนองจิก",
+      "en": "Nong Chik",
+      "slug": "nong-chik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9403",
+      "level": 2,
+      "name": {
+        "th": "หนองจิก",
+        "en": "Nong Chik",
+        "slug": "nong-chik"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "94170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.789",
+    "lon": "101.135"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-thong-940307/"
+  }
+}

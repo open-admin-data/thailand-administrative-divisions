@@ -1,0 +1,61 @@
+{
+  "id": "150111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพสะ",
+    "en": "Phosa",
+    "slug": "phosa"
+  },
+  "code": {
+    "dopa": "150111"
+  },
+  "parent": {
+    "id": "1501",
+    "level": 2,
+    "name": {
+      "th": "เมืองอ่างทอง",
+      "en": "Mueang Ang Thong",
+      "slug": "mueang-ang-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1501",
+      "level": 2,
+      "name": {
+        "th": "เมืองอ่างทอง",
+        "en": "Mueang Ang Thong",
+        "slug": "mueang-ang-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "14000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.542",
+    "lon": "100.457"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phosa-150111/"
+  }
+}

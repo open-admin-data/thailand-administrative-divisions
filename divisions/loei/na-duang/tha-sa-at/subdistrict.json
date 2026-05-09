@@ -1,0 +1,61 @@
+{
+  "id": "420203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าสะอาด",
+    "en": "Tha Sa-at",
+    "slug": "tha-sa-at"
+  },
+  "code": {
+    "dopa": "420203"
+  },
+  "parent": {
+    "id": "4202",
+    "level": 2,
+    "name": {
+      "th": "นาด้วง",
+      "en": "Na Duang",
+      "slug": "na-duang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4202",
+      "level": 2,
+      "name": {
+        "th": "นาด้วง",
+        "en": "Na Duang",
+        "slug": "na-duang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "42210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.497",
+    "lon": "101.917"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-sa-at-420203/"
+  }
+}

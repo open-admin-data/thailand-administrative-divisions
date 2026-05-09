@@ -1,0 +1,50 @@
+{
+  "id": "5601",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองพะเยา",
+    "en": "Mueang Phayao",
+    "slug": "mueang-phayao"
+  },
+  "code": {
+    "dopa": "5601"
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "th": "พะเยา",
+      "en": "Phayao",
+      "slug": "phayao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 15,
+    "villages": 186
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.172",
+    "lon": "99.894"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-phayao-5601/"
+  }
+}

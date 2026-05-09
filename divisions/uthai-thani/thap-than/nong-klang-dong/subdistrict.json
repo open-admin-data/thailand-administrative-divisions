@@ -1,0 +1,61 @@
+{
+  "id": "610207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองกลางดง",
+    "en": "Nong Klang Dong",
+    "slug": "nong-klang-dong"
+  },
+  "code": {
+    "dopa": "610207"
+  },
+  "parent": {
+    "id": "6102",
+    "level": 2,
+    "name": {
+      "th": "ทัพทัน",
+      "en": "Thap Than",
+      "slug": "thap-than"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "th": "ทัพทัน",
+        "en": "Thap Than",
+        "slug": "thap-than"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "61120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.465",
+    "lon": "99.844"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-klang-dong-610207/"
+  }
+}

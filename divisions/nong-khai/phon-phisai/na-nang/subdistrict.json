@@ -1,0 +1,61 @@
+{
+  "id": "430508",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาหนัง",
+    "en": "Na Nang",
+    "slug": "na-nang"
+  },
+  "code": {
+    "dopa": "430508"
+  },
+  "parent": {
+    "id": "4305",
+    "level": 2,
+    "name": {
+      "th": "โพนพิสัย",
+      "en": "Phon Phisai",
+      "slug": "phon-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4305",
+      "level": 2,
+      "name": {
+        "th": "โพนพิสัย",
+        "en": "Phon Phisai",
+        "slug": "phon-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "43120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.888",
+    "lon": "103.136"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-nang-430508/"
+  }
+}

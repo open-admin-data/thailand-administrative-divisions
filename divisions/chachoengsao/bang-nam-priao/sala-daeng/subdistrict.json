@@ -1,0 +1,61 @@
+{
+  "id": "240309",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศาลาแดง",
+    "en": "Sala Daeng",
+    "slug": "sala-daeng"
+  },
+  "code": {
+    "dopa": "240309"
+  },
+  "parent": {
+    "id": "2403",
+    "level": 2,
+    "name": {
+      "th": "บางน้ำเปรี้ยว",
+      "en": "Bang Nam Priao",
+      "slug": "bang-nam-priao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2403",
+      "level": 2,
+      "name": {
+        "th": "บางน้ำเปรี้ยว",
+        "en": "Bang Nam Priao",
+        "slug": "bang-nam-priao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 22
+  },
+  "zip_codes": [
+    "24000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.838",
+    "lon": "100.928"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sala-daeng-240309/"
+  }
+}

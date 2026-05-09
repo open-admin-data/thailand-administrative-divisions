@@ -1,0 +1,61 @@
+{
+  "id": "103303",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง พระโขนง",
+    "en": "Phra Khanong",
+    "slug": "phra-khanong"
+  },
+  "code": {
+    "dopa": "103303"
+  },
+  "parent": {
+    "id": "1033",
+    "level": 2,
+    "name": {
+      "th": "เขต คลองเตย",
+      "en": "Khlong Toei",
+      "slug": "khlong-toei"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1033",
+      "level": 2,
+      "name": {
+        "th": "เขต คลองเตย",
+        "en": "Khlong Toei",
+        "slug": "khlong-toei"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10110"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.707",
+    "lon": "100.595"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phra-khanong-103303/"
+  }
+}

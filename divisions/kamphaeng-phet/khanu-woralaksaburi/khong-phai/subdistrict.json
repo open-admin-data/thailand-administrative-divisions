@@ -1,0 +1,61 @@
+{
+  "id": "620410",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โค้งไผ่",
+    "en": "Khong Phai",
+    "slug": "khong-phai"
+  },
+  "code": {
+    "dopa": "620410"
+  },
+  "parent": {
+    "id": "6204",
+    "level": 2,
+    "name": {
+      "th": "ขาณุวรลักษบุรี",
+      "en": "Khanu Woralaksaburi",
+      "slug": "khanu-woralaksaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6204",
+      "level": 2,
+      "name": {
+        "th": "ขาณุวรลักษบุรี",
+        "en": "Khanu Woralaksaburi",
+        "slug": "khanu-woralaksaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "62140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.108",
+    "lon": "99.657"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khong-phai-620410/"
+  }
+}

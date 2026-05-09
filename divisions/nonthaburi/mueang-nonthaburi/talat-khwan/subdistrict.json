@@ -1,0 +1,61 @@
+{
+  "id": "120102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตลาดขวัญ",
+    "en": "Talat Khwan",
+    "slug": "talat-khwan"
+  },
+  "code": {
+    "dopa": "120102"
+  },
+  "parent": {
+    "id": "1201",
+    "level": 2,
+    "name": {
+      "th": "เมืองนนทบุรี",
+      "en": "Mueang Nonthaburi",
+      "slug": "mueang-nonthaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "th": "เมืองนนทบุรี",
+        "en": "Mueang Nonthaburi",
+        "slug": "mueang-nonthaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "11000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.850",
+    "lon": "100.509"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/talat-khwan-120102/"
+  }
+}

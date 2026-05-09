@@ -1,0 +1,61 @@
+{
+  "id": "360111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลาดใหญ่",
+    "en": "Lat Yai",
+    "slug": "lat-yai"
+  },
+  "code": {
+    "dopa": "360111"
+  },
+  "parent": {
+    "id": "3601",
+    "level": 2,
+    "name": {
+      "th": "เมืองชัยภูมิ",
+      "en": "Mueang Chaiyaphum",
+      "slug": "mueang-chaiyaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3601",
+      "level": 2,
+      "name": {
+        "th": "เมืองชัยภูมิ",
+        "en": "Mueang Chaiyaphum",
+        "slug": "mueang-chaiyaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "36000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.809",
+    "lon": "102.189"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lat-yai-360111/"
+  }
+}

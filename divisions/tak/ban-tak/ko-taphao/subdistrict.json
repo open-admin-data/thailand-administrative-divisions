@@ -1,0 +1,61 @@
+{
+  "id": "630205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะตะเภา",
+    "en": "Ko Taphao",
+    "slug": "ko-taphao"
+  },
+  "code": {
+    "dopa": "630205"
+  },
+  "parent": {
+    "id": "6302",
+    "level": 2,
+    "name": {
+      "th": "บ้านตาก",
+      "en": "Ban Tak",
+      "slug": "ban-tak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6302",
+      "level": 2,
+      "name": {
+        "th": "บ้านตาก",
+        "en": "Ban Tak",
+        "slug": "ban-tak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "63120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.110",
+    "lon": "99.011"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-taphao-630205/"
+  }
+}

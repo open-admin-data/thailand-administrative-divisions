@@ -1,0 +1,50 @@
+{
+  "id": "3506",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "มหาชนะชัย",
+    "en": "Maha Chana Chai",
+    "slug": "maha-chana-chai"
+  },
+  "code": {
+    "dopa": "3506"
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "th": "ยโสธร",
+      "en": "Yasothon",
+      "slug": "yasothon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 103
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.552",
+    "lon": "104.329"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/maha-chana-chai-3506/"
+  }
+}

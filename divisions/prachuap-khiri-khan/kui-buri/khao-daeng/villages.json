@@ -1,0 +1,185 @@
+[
+  {
+    "id": "77020301",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคุ้งโตนด",
+      "en": "Ban Khung Tanot",
+      "slug": "77020301"
+    },
+    "code": {
+      "dopa": "77020301"
+    },
+    "parent": {
+      "id": "770203",
+      "level": 3,
+      "name": {
+        "th": "เขาแดง",
+        "en": "Khao Daeng",
+        "slug": "khao-daeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "77",
+        "level": 1,
+        "name": {
+          "th": "ประจวบคีรีขันธ์",
+          "en": "Prachuap Khiri Khan",
+          "slug": "prachuap-khiri-khan"
+        }
+      },
+      {
+        "id": "7702",
+        "level": 2,
+        "name": {
+          "th": "กุยบุรี",
+          "en": "Kui Buri",
+          "slug": "kui-buri"
+        }
+      },
+      {
+        "id": "770203",
+        "level": 3,
+        "name": {
+          "th": "เขาแดง",
+          "en": "Khao Daeng",
+          "slug": "khao-daeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.173267634893367",
+      "lon": "100.00490918755531"
+    },
+    "source": {}
+  },
+  {
+    "id": "77020302",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเขาแดง",
+      "en": "Ban Khao Daeng",
+      "slug": "77020302"
+    },
+    "code": {
+      "dopa": "77020302"
+    },
+    "parent": {
+      "id": "770203",
+      "level": 3,
+      "name": {
+        "th": "เขาแดง",
+        "en": "Khao Daeng",
+        "slug": "khao-daeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "77",
+        "level": 1,
+        "name": {
+          "th": "ประจวบคีรีขันธ์",
+          "en": "Prachuap Khiri Khan",
+          "slug": "prachuap-khiri-khan"
+        }
+      },
+      {
+        "id": "7702",
+        "level": 2,
+        "name": {
+          "th": "กุยบุรี",
+          "en": "Kui Buri",
+          "slug": "kui-buri"
+        }
+      },
+      {
+        "id": "770203",
+        "level": 3,
+        "name": {
+          "th": "เขาแดง",
+          "en": "Khao Daeng",
+          "slug": "khao-daeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.136287126282761",
+      "lon": "99.96401891112328"
+    },
+    "source": {}
+  },
+  {
+    "id": "77020303",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านทุ่งน้อย",
+      "en": "Ban Thung Noi",
+      "slug": "77020303"
+    },
+    "code": {
+      "dopa": "77020303"
+    },
+    "parent": {
+      "id": "770203",
+      "level": 3,
+      "name": {
+        "th": "เขาแดง",
+        "en": "Khao Daeng",
+        "slug": "khao-daeng"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "77",
+        "level": 1,
+        "name": {
+          "th": "ประจวบคีรีขันธ์",
+          "en": "Prachuap Khiri Khan",
+          "slug": "prachuap-khiri-khan"
+        }
+      },
+      {
+        "id": "7702",
+        "level": 2,
+        "name": {
+          "th": "กุยบุรี",
+          "en": "Kui Buri",
+          "slug": "kui-buri"
+        }
+      },
+      {
+        "id": "770203",
+        "level": 3,
+        "name": {
+          "th": "เขาแดง",
+          "en": "Khao Daeng",
+          "slug": "khao-daeng"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.092567807488532",
+      "lon": "99.95193690061569"
+    },
+    "source": {}
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "9015",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สิงหนคร",
+    "en": "Singhanakhon",
+    "slug": "singhanakhon"
+  },
+  "code": {
+    "dopa": "9015"
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "th": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 91
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.214",
+    "lon": "100.567"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/singhanakhon-9015/"
+  }
+}

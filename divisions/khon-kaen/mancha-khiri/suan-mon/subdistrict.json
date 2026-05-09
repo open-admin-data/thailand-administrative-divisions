@@ -1,0 +1,61 @@
+{
+  "id": "401702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สวนหม่อน",
+    "en": "Suan Mon",
+    "slug": "suan-mon"
+  },
+  "code": {
+    "dopa": "401702"
+  },
+  "parent": {
+    "id": "4017",
+    "level": 2,
+    "name": {
+      "th": "มัญจาคีรี",
+      "en": "Mancha Khiri",
+      "slug": "mancha-khiri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4017",
+      "level": 2,
+      "name": {
+        "th": "มัญจาคีรี",
+        "en": "Mancha Khiri",
+        "slug": "mancha-khiri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "40160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.165",
+    "lon": "102.561"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/suan-mon-401702/"
+  }
+}

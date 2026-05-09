@@ -1,0 +1,61 @@
+{
+  "id": "841713",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวเตย",
+    "en": "Hua Toei",
+    "slug": "hua-toei"
+  },
+  "code": {
+    "dopa": "841713"
+  },
+  "parent": {
+    "id": "8417",
+    "level": 2,
+    "name": {
+      "th": "พุนพิน",
+      "en": "Phunphin",
+      "slug": "phunphin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8417",
+      "level": 2,
+      "name": {
+        "th": "พุนพิน",
+        "en": "Phunphin",
+        "slug": "phunphin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "84130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.136",
+    "lon": "99.163"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-toei-841713/"
+  }
+}

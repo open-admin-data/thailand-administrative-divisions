@@ -1,0 +1,61 @@
+{
+  "id": "103703",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง ถนนเพชรบุรี",
+    "en": "Thanon Phetchaburi",
+    "slug": "thanon-phetchaburi"
+  },
+  "code": {
+    "dopa": "103703"
+  },
+  "parent": {
+    "id": "1037",
+    "level": 2,
+    "name": {
+      "th": "เขต ราชเทวี",
+      "en": "Khet Ratchathewi",
+      "slug": "khet-ratchathewi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1037",
+      "level": 2,
+      "name": {
+        "th": "เขต ราชเทวี",
+        "en": "Khet Ratchathewi",
+        "slug": "khet-ratchathewi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10400"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.752",
+    "lon": "100.559"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thanon-phetchaburi-103703/"
+  }
+}

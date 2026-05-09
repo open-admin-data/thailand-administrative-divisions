@@ -1,0 +1,38 @@
+{
+  "id": "14",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "พระนครศรีอยุธยา",
+    "en": "Phra Nakhon Si Ayutthaya",
+    "slug": "phra-nakhon-si-ayutthaya"
+  },
+  "code": {
+    "dopa": "14",
+    "iso": "TH-14"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 16,
+    "subdistricts": 207,
+    "villages": 1553
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central"
+    }
+  },
+  "geo": {
+    "lat": "14.328",
+    "lon": "100.404"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/phra-nakhon-si-ayutthaya-14/"
+  }
+}

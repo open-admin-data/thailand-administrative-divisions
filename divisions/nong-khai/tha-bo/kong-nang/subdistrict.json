@@ -1,0 +1,61 @@
+{
+  "id": "430203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กองนาง",
+    "en": "Kong Nang",
+    "slug": "kong-nang"
+  },
+  "code": {
+    "dopa": "430203"
+  },
+  "parent": {
+    "id": "4302",
+    "level": 2,
+    "name": {
+      "th": "ท่าบ่อ",
+      "en": "Tha Bo",
+      "slug": "tha-bo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4302",
+      "level": 2,
+      "name": {
+        "th": "ท่าบ่อ",
+        "en": "Tha Bo",
+        "slug": "tha-bo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "43110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.889",
+    "lon": "102.592"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kong-nang-430203/"
+  }
+}

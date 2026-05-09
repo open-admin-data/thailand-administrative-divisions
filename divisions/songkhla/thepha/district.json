@@ -1,0 +1,50 @@
+{
+  "id": "9005",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เทพา",
+    "en": "Thepha",
+    "slug": "thepha"
+  },
+  "code": {
+    "dopa": "9005"
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "th": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 67
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.820",
+    "lon": "100.940"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thepha-9005/"
+  }
+}

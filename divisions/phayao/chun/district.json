@@ -1,0 +1,50 @@
+{
+  "id": "5602",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "จุน",
+    "en": "Chun",
+    "slug": "chun"
+  },
+  "code": {
+    "dopa": "5602"
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "th": "พะเยา",
+      "en": "Phayao",
+      "slug": "phayao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 86
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.378",
+    "lon": "100.163"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chun-5602/"
+  }
+}

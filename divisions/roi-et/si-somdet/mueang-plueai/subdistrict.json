@@ -1,0 +1,61 @@
+{
+  "id": "451603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองเปลือย",
+    "en": "Mueang Plueai",
+    "slug": "mueang-plueai"
+  },
+  "code": {
+    "dopa": "451603"
+  },
+  "parent": {
+    "id": "4516",
+    "level": 2,
+    "name": {
+      "th": "ศรีสมเด็จ",
+      "en": "Si Somdet",
+      "slug": "si-somdet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4516",
+      "level": 2,
+      "name": {
+        "th": "ศรีสมเด็จ",
+        "en": "Si Somdet",
+        "slug": "si-somdet"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "45000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.011",
+    "lon": "103.551"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-plueai-451603/"
+  }
+}

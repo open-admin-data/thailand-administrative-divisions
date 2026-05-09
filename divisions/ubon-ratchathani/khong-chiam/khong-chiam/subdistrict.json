@@ -1,0 +1,61 @@
+{
+  "id": "340301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โขงเจียม",
+    "en": "Khong Chiam",
+    "slug": "khong-chiam"
+  },
+  "code": {
+    "dopa": "340301"
+  },
+  "parent": {
+    "id": "3403",
+    "level": 2,
+    "name": {
+      "th": "โขงเจียม",
+      "en": "Khong Chiam",
+      "slug": "khong-chiam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3403",
+      "level": 2,
+      "name": {
+        "th": "โขงเจียม",
+        "en": "Khong Chiam",
+        "slug": "khong-chiam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "34220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.307",
+    "lon": "105.530"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khong-chiam-340301/"
+  }
+}

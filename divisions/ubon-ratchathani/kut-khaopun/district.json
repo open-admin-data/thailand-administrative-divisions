@@ -1,0 +1,50 @@
+{
+  "id": "3412",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "กุดข้าวปุ้น",
+    "en": "Kut Khaopun",
+    "slug": "kut-khaopun"
+  },
+  "code": {
+    "dopa": "3412"
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 75
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.757",
+    "lon": "104.964"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kut-khaopun-3412/"
+  }
+}

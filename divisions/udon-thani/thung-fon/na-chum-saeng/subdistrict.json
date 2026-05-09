@@ -1,0 +1,61 @@
+{
+  "id": "410703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาชุมแสง",
+    "en": "Na Chum Saeng",
+    "slug": "na-chum-saeng"
+  },
+  "code": {
+    "dopa": "410703"
+  },
+  "parent": {
+    "id": "4107",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งฝน",
+      "en": "Thung Fon",
+      "slug": "thung-fon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4107",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งฝน",
+        "en": "Thung Fon",
+        "slug": "thung-fon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "41310"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.561",
+    "lon": "103.193"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-chum-saeng-410703/"
+  }
+}

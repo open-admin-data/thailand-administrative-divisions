@@ -1,0 +1,61 @@
+{
+  "id": "301510",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงใหญ่",
+    "en": "Dong Yai",
+    "slug": "dong-yai"
+  },
+  "code": {
+    "dopa": "301510"
+  },
+  "parent": {
+    "id": "3015",
+    "level": 2,
+    "name": {
+      "th": "พิมาย",
+      "en": "Phimai",
+      "slug": "phimai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3015",
+      "level": 2,
+      "name": {
+        "th": "พิมาย",
+        "en": "Phimai",
+        "slug": "phimai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "30110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.338",
+    "lon": "102.591"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-yai-301510/"
+  }
+}

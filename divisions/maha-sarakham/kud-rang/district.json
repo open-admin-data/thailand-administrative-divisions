@@ -1,0 +1,50 @@
+{
+  "id": "4412",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "กุดรัง",
+    "en": "Kud Rang",
+    "slug": "kud-rang"
+  },
+  "code": {
+    "dopa": "4412"
+  },
+  "parent": {
+    "id": "44",
+    "level": 1,
+    "name": {
+      "th": "มหาสารคาม",
+      "en": "Maha Sarakham",
+      "slug": "maha-sarakham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 85
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.123",
+    "lon": "103.049"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kud-rang-4412/"
+  }
+}

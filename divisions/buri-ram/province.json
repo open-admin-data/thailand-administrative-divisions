@@ -1,0 +1,38 @@
+{
+  "id": "31",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "บุรีรัมย์",
+    "en": "Buri Ram",
+    "slug": "buri-ram"
+  },
+  "code": {
+    "dopa": "31",
+    "iso": "TH-31"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 23,
+    "subdistricts": 189,
+    "villages": 2587
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "Northeastern"
+    }
+  },
+  "geo": {
+    "lat": "14.999",
+    "lon": "103.104"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/buri-ram-31/"
+  }
+}

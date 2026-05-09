@@ -1,0 +1,50 @@
+{
+  "id": "6403",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "คีรีมาศ",
+    "en": "Khiri Mat",
+    "slug": "khiri-mat"
+  },
+  "code": {
+    "dopa": "6403"
+  },
+  "parent": {
+    "id": "64",
+    "level": 1,
+    "name": {
+      "th": "สุโขทัย",
+      "en": "Sukhothai",
+      "slug": "sukhothai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 100
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.748",
+    "lon": "99.834"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khiri-mat-6403/"
+  }
+}

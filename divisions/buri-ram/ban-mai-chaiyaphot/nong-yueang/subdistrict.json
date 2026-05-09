@@ -1,0 +1,61 @@
+{
+  "id": "311905",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองเยือง",
+    "en": "Nong Yueang",
+    "slug": "nong-yueang"
+  },
+  "code": {
+    "dopa": "311905"
+  },
+  "parent": {
+    "id": "3119",
+    "level": 2,
+    "name": {
+      "th": "บ้านใหม่ไชยพจน์",
+      "en": "Ban Mai Chaiyaphot",
+      "slug": "ban-mai-chaiyaphot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3119",
+      "level": 2,
+      "name": {
+        "th": "บ้านใหม่ไชยพจน์",
+        "en": "Ban Mai Chaiyaphot",
+        "slug": "ban-mai-chaiyaphot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "31120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.555",
+    "lon": "102.811"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-yueang-311905/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "2506",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านสร้าง",
+    "en": "Ban Sang",
+    "slug": "ban-sang"
+  },
+  "code": {
+    "dopa": "2506"
+  },
+  "parent": {
+    "id": "25",
+    "level": 1,
+    "name": {
+      "th": "ปราจีนบุรี",
+      "en": "Prachin Buri",
+      "slug": "prachin-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "th": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 88
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.984",
+    "lon": "101.202"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-sang-2506/"
+  }
+}

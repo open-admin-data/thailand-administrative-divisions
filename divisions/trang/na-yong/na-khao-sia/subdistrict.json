@@ -1,0 +1,61 @@
+{
+  "id": "920806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาข้าวเสีย",
+    "en": "Na Khao Sia",
+    "slug": "na-khao-sia"
+  },
+  "code": {
+    "dopa": "920806"
+  },
+  "parent": {
+    "id": "9208",
+    "level": 2,
+    "name": {
+      "th": "นาโยง",
+      "en": "Na Yong",
+      "slug": "na-yong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9208",
+      "level": 2,
+      "name": {
+        "th": "นาโยง",
+        "en": "Na Yong",
+        "slug": "na-yong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "92170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.532",
+    "lon": "99.710"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-khao-sia-920806/"
+  }
+}

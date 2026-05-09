@@ -1,0 +1,50 @@
+{
+  "id": "3109",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พุทไธสง",
+    "en": "Phutthaisong",
+    "slug": "phutthaisong"
+  },
+  "code": {
+    "dopa": "3109"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 97
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.627",
+    "lon": "102.892"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phutthaisong-3109/"
+  }
+}

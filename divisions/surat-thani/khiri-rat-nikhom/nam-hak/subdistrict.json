@@ -1,0 +1,61 @@
+{
+  "id": "840803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำหัก",
+    "en": "Nam Hak",
+    "slug": "nam-hak"
+  },
+  "code": {
+    "dopa": "840803"
+  },
+  "parent": {
+    "id": "8408",
+    "level": 2,
+    "name": {
+      "th": "คีรีรัฐนิคม",
+      "en": "Khiri Rat Nikhom",
+      "slug": "khiri-rat-nikhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8408",
+      "level": 2,
+      "name": {
+        "th": "คีรีรัฐนิคม",
+        "en": "Khiri Rat Nikhom",
+        "slug": "khiri-rat-nikhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "84180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.157",
+    "lon": "98.824"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-hak-840803/"
+  }
+}

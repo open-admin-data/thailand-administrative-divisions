@@ -1,0 +1,61 @@
+{
+  "id": "461301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สมเด็จ",
+    "en": "Somdet",
+    "slug": "somdet"
+  },
+  "code": {
+    "dopa": "461301"
+  },
+  "parent": {
+    "id": "4613",
+    "level": 2,
+    "name": {
+      "th": "สมเด็จ",
+      "en": "Somdet",
+      "slug": "somdet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4613",
+      "level": 2,
+      "name": {
+        "th": "สมเด็จ",
+        "en": "Somdet",
+        "slug": "somdet"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "46150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.705",
+    "lon": "103.754"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/somdet-461301/"
+  }
+}

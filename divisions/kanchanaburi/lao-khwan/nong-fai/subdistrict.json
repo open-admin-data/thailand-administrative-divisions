@@ -1,0 +1,61 @@
+{
+  "id": "711007",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองฝ้าย",
+    "en": "Nong Fai",
+    "slug": "nong-fai"
+  },
+  "code": {
+    "dopa": "711007"
+  },
+  "parent": {
+    "id": "7110",
+    "level": 2,
+    "name": {
+      "th": "เลาขวัญ",
+      "en": "Lao Khwan",
+      "slug": "lao-khwan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7110",
+      "level": 2,
+      "name": {
+        "th": "เลาขวัญ",
+        "en": "Lao Khwan",
+        "slug": "lao-khwan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "71210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.682",
+    "lon": "99.642"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-fai-711007/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "7605",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ท่ายาง",
+    "en": "Tha Yang",
+    "slug": "tha-yang"
+  },
+  "code": {
+    "dopa": "7605"
+  },
+  "parent": {
+    "id": "76",
+    "level": 1,
+    "name": {
+      "th": "เพชรบุรี",
+      "en": "Phetchaburi",
+      "slug": "phetchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 119
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.990",
+    "lon": "99.883"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tha-yang-7605/"
+  }
+}

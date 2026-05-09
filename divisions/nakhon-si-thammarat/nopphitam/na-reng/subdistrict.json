@@ -1,0 +1,61 @@
+{
+  "id": "802104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาเหรง",
+    "en": "Na Reng",
+    "slug": "na-reng"
+  },
+  "code": {
+    "dopa": "802104"
+  },
+  "parent": {
+    "id": "8021",
+    "level": 2,
+    "name": {
+      "th": "นบพิตำ",
+      "en": "Nopphitam",
+      "slug": "nopphitam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8021",
+      "level": 2,
+      "name": {
+        "th": "นบพิตำ",
+        "en": "Nopphitam",
+        "slug": "nopphitam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "80160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.660",
+    "lon": "99.745"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-reng-802104/"
+  }
+}

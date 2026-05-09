@@ -1,0 +1,61 @@
+{
+  "id": "441201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุดรัง",
+    "en": "Kud Rang",
+    "slug": "kud-rang"
+  },
+  "code": {
+    "dopa": "441201"
+  },
+  "parent": {
+    "id": "4412",
+    "level": 2,
+    "name": {
+      "th": "กุดรัง",
+      "en": "Kud Rang",
+      "slug": "kud-rang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4412",
+      "level": 2,
+      "name": {
+        "th": "กุดรัง",
+        "en": "Kud Rang",
+        "slug": "kud-rang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "44130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.072",
+    "lon": "103.000"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kud-rang-441201/"
+  }
+}

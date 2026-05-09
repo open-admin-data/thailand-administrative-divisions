@@ -1,0 +1,50 @@
+{
+  "id": "1205",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ไทรน้อย",
+    "en": "Sai Noi",
+    "slug": "sai-noi"
+  },
+  "code": {
+    "dopa": "1205"
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "th": "นนทบุรี",
+      "en": "Nonthaburi",
+      "slug": "nonthaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 68
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.976",
+    "lon": "100.344"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sai-noi-1205/"
+  }
+}

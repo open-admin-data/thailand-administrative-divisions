@@ -1,0 +1,50 @@
+{
+  "id": "1609",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โคกเจริญ",
+    "en": "Khok Charoen",
+    "slug": "khok-charoen"
+  },
+  "code": {
+    "dopa": "1609"
+  },
+  "parent": {
+    "id": "16",
+    "level": 1,
+    "name": {
+      "th": "ลพบุรี",
+      "en": "Loburi",
+      "slug": "loburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 53
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.469",
+    "lon": "100.811"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khok-charoen-1609/"
+  }
+}

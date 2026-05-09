@@ -1,0 +1,61 @@
+{
+  "id": "520105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พระบาท",
+    "en": "Phra Bat",
+    "slug": "phra-bat"
+  },
+  "code": {
+    "dopa": "520105"
+  },
+  "parent": {
+    "id": "5201",
+    "level": 2,
+    "name": {
+      "th": "เมืองลำปาง",
+      "en": "Mueang Lampang",
+      "slug": "mueang-lampang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5201",
+      "level": 2,
+      "name": {
+        "th": "เมืองลำปาง",
+        "en": "Mueang Lampang",
+        "slug": "mueang-lampang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 24
+  },
+  "zip_codes": [
+    "52000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.255",
+    "lon": "99.518"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phra-bat-520105/"
+  }
+}

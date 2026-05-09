@@ -1,0 +1,50 @@
+{
+  "id": "9502",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เบตง",
+    "en": "Betong",
+    "slug": "betong"
+  },
+  "code": {
+    "dopa": "9502"
+  },
+  "parent": {
+    "id": "95",
+    "level": 1,
+    "name": {
+      "th": "ยะลา",
+      "en": "Yala",
+      "slug": "yala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 60
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "5.803",
+    "lon": "101.009"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/betong-9502/"
+  }
+}

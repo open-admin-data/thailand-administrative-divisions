@@ -1,0 +1,61 @@
+{
+  "id": "601305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาชนกัน",
+    "en": "Khao Chon Kan",
+    "slug": "khao-chon-kan"
+  },
+  "code": {
+    "dopa": "601305"
+  },
+  "parent": {
+    "id": "6013",
+    "level": 2,
+    "name": {
+      "th": "แม่วงก์",
+      "en": "Mae Wong",
+      "slug": "mae-wong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6013",
+      "level": 2,
+      "name": {
+        "th": "แม่วงก์",
+        "en": "Mae Wong",
+        "slug": "mae-wong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "60150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.883",
+    "lon": "99.516"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-chon-kan-601305/"
+  }
+}

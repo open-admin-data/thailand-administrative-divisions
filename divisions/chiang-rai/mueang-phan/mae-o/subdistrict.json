@@ -1,0 +1,61 @@
+{
+  "id": "570502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่อ้อ",
+    "en": "Mae O",
+    "slug": "mae-o"
+  },
+  "code": {
+    "dopa": "570502"
+  },
+  "parent": {
+    "id": "5705",
+    "level": 2,
+    "name": {
+      "th": "พาน",
+      "en": "Mueang Phan",
+      "slug": "mueang-phan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5705",
+      "level": 2,
+      "name": {
+        "th": "พาน",
+        "en": "Mueang Phan",
+        "slug": "mueang-phan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "57120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.672",
+    "lon": "99.821"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-o-570502/"
+  }
+}

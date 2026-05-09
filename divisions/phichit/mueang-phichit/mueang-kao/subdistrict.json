@@ -1,0 +1,61 @@
+{
+  "id": "660108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองเก่า",
+    "en": "Mueang Kao",
+    "slug": "mueang-kao"
+  },
+  "code": {
+    "dopa": "660108"
+  },
+  "parent": {
+    "id": "6601",
+    "level": 2,
+    "name": {
+      "th": "เมืองพิจิตร",
+      "en": "Mueang Phichit",
+      "slug": "mueang-phichit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6601",
+      "level": 2,
+      "name": {
+        "th": "เมืองพิจิตร",
+        "en": "Mueang Phichit",
+        "slug": "mueang-phichit"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "66000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.393",
+    "lon": "100.303"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-kao-660108/"
+  }
+}

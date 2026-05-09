@@ -1,0 +1,61 @@
+{
+  "id": "920410",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลิพัง",
+    "en": "Liphang",
+    "slug": "liphang"
+  },
+  "code": {
+    "dopa": "920410"
+  },
+  "parent": {
+    "id": "9204",
+    "level": 2,
+    "name": {
+      "th": "ปะเหลียน",
+      "en": "Palian",
+      "slug": "palian"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9204",
+      "level": 2,
+      "name": {
+        "th": "ปะเหลียน",
+        "en": "Palian",
+        "slug": "palian"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "92180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.184",
+    "lon": "99.810"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/liphang-920410/"
+  }
+}

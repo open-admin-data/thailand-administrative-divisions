@@ -1,0 +1,61 @@
+{
+  "id": "331102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บึงบูรพ์",
+    "en": "Bueng Bun",
+    "slug": "bueng-bun"
+  },
+  "code": {
+    "dopa": "331102"
+  },
+  "parent": {
+    "id": "3311",
+    "level": 2,
+    "name": {
+      "th": "บึงบูรพ์",
+      "en": "Bueng Bun",
+      "slug": "bueng-bun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3311",
+      "level": 2,
+      "name": {
+        "th": "บึงบูรพ์",
+        "en": "Bueng Bun",
+        "slug": "bueng-bun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "33220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.328",
+    "lon": "104.067"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bueng-bun-331102/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "640706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ย่านยาว",
+    "en": "Yan Yao",
+    "slug": "yan-yao"
+  },
+  "code": {
+    "dopa": "640706"
+  },
+  "parent": {
+    "id": "6407",
+    "level": 2,
+    "name": {
+      "th": "สวรรคโลก",
+      "en": "Mueang Sawankhalok",
+      "slug": "mueang-sawankhalok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6407",
+      "level": 2,
+      "name": {
+        "th": "สวรรคโลก",
+        "en": "Mueang Sawankhalok",
+        "slug": "mueang-sawankhalok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "64110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.273",
+    "lon": "99.816"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yan-yao-640706/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "33",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ศรีสะเกษ",
+    "en": "Si Sa Ket",
+    "slug": "si-sa-ket"
+  },
+  "code": {
+    "dopa": "33",
+    "iso": "TH-33"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 22,
+    "subdistricts": 204,
+    "villages": 2668
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "Northeastern"
+    }
+  },
+  "geo": {
+    "lat": "14.669",
+    "lon": "104.271"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/si-sa-ket-33/"
+  }
+}

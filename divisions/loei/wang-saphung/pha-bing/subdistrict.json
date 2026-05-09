@@ -1,0 +1,61 @@
+{
+  "id": "420910",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ผาบิ้ง",
+    "en": "Pha Bing",
+    "slug": "pha-bing"
+  },
+  "code": {
+    "dopa": "420910"
+  },
+  "parent": {
+    "id": "4209",
+    "level": 2,
+    "name": {
+      "th": "วังสะพุง",
+      "en": "Wang Saphung",
+      "slug": "wang-saphung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4209",
+      "level": 2,
+      "name": {
+        "th": "วังสะพุง",
+        "en": "Wang Saphung",
+        "slug": "wang-saphung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "42130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.193",
+    "lon": "101.773"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pha-bing-420910/"
+  }
+}

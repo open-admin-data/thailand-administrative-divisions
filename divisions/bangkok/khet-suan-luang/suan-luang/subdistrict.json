@@ -1,0 +1,61 @@
+{
+  "id": "103401",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง สวนหลวง",
+    "en": "Suan Luang",
+    "slug": "suan-luang"
+  },
+  "code": {
+    "dopa": "103401"
+  },
+  "parent": {
+    "id": "1034",
+    "level": 2,
+    "name": {
+      "th": "เขต สวนหลวง",
+      "en": "Khet Suan Luang",
+      "slug": "khet-suan-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1034",
+      "level": 2,
+      "name": {
+        "th": "เขต สวนหลวง",
+        "en": "Khet Suan Luang",
+        "slug": "khet-suan-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10250"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.726",
+    "lon": "100.628"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/suan-luang-103401/"
+  }
+}

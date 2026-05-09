@@ -1,0 +1,61 @@
+{
+  "id": "390207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เก่ากลอย",
+    "en": "Kao Kloi",
+    "slug": "kao-kloi"
+  },
+  "code": {
+    "dopa": "390207"
+  },
+  "parent": {
+    "id": "3902",
+    "level": 2,
+    "name": {
+      "th": "นากลาง",
+      "en": "Na Klang",
+      "slug": "na-klang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3902",
+      "level": 2,
+      "name": {
+        "th": "นากลาง",
+        "en": "Na Klang",
+        "slug": "na-klang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "39350"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.397",
+    "lon": "102.339"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kao-kloi-390207/"
+  }
+}

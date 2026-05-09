@@ -1,0 +1,61 @@
+{
+  "id": "431604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พระบาทนาสิงห์",
+    "en": "Phra Bat Na Sing",
+    "slug": "phra-bat-na-sing"
+  },
+  "code": {
+    "dopa": "431604"
+  },
+  "parent": {
+    "id": "4316",
+    "level": 2,
+    "name": {
+      "th": "รัตนวาปี",
+      "en": "Rattanawapi",
+      "slug": "rattanawapi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4316",
+      "level": 2,
+      "name": {
+        "th": "รัตนวาปี",
+        "en": "Rattanawapi",
+        "slug": "rattanawapi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "43120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.163",
+    "lon": "103.209"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phra-bat-na-sing-431604/"
+  }
+}

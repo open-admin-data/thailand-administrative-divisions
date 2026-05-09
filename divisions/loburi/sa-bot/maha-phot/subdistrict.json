@@ -1,0 +1,61 @@
+{
+  "id": "160802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มหาโพธิ",
+    "en": "Maha Phot",
+    "slug": "maha-phot"
+  },
+  "code": {
+    "dopa": "160802"
+  },
+  "parent": {
+    "id": "1608",
+    "level": 2,
+    "name": {
+      "th": "สระโบสถ์",
+      "en": "Sa Bot",
+      "slug": "sa-bot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1608",
+      "level": 2,
+      "name": {
+        "th": "สระโบสถ์",
+        "en": "Sa Bot",
+        "slug": "sa-bot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "15240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.289",
+    "lon": "100.861"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/maha-phot-160802/"
+  }
+}

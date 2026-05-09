@@ -1,0 +1,61 @@
+{
+  "id": "180701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองมะโมง",
+    "en": "Nong Mamong",
+    "slug": "nong-mamong"
+  },
+  "code": {
+    "dopa": "180701"
+  },
+  "parent": {
+    "id": "1807",
+    "level": 2,
+    "name": {
+      "th": "หนองมะโมง",
+      "en": "Nong Mamong",
+      "slug": "nong-mamong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1807",
+      "level": 2,
+      "name": {
+        "th": "หนองมะโมง",
+        "en": "Nong Mamong",
+        "slug": "nong-mamong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "17120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.216",
+    "lon": "99.772"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-mamong-180701/"
+  }
+}

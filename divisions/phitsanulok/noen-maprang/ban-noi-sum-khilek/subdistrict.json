@@ -1,0 +1,61 @@
+{
+  "id": "650905",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านน้อยซุ้มขี้เหล็ก",
+    "en": "Ban Noi Sum Khilek",
+    "slug": "ban-noi-sum-khilek"
+  },
+  "code": {
+    "dopa": "650905"
+  },
+  "parent": {
+    "id": "6509",
+    "level": 2,
+    "name": {
+      "th": "เนินมะปราง",
+      "en": "Noen Maprang",
+      "slug": "noen-maprang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6509",
+      "level": 2,
+      "name": {
+        "th": "เนินมะปราง",
+        "en": "Noen Maprang",
+        "slug": "noen-maprang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "65190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.542",
+    "lon": "100.596"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-noi-sum-khilek-650905/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "900503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะสะบ้า",
+    "en": "Ko Saba",
+    "slug": "ko-saba"
+  },
+  "code": {
+    "dopa": "900503"
+  },
+  "parent": {
+    "id": "9005",
+    "level": 2,
+    "name": {
+      "th": "เทพา",
+      "en": "Thepha",
+      "slug": "thepha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9005",
+      "level": 2,
+      "name": {
+        "th": "เทพา",
+        "en": "Thepha",
+        "slug": "thepha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "90150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.863",
+    "lon": "100.891"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-saba-900503/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "201102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าบุญมี",
+    "en": "Tha Bun Mi",
+    "slug": "tha-bun-mi"
+  },
+  "code": {
+    "dopa": "201102"
+  },
+  "parent": {
+    "id": "2011",
+    "level": 2,
+    "name": {
+      "th": "เกาะจันทร์",
+      "en": "Ko Chan",
+      "slug": "ko-chan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2011",
+      "level": 2,
+      "name": {
+        "th": "เกาะจันทร์",
+        "en": "Ko Chan",
+        "slug": "ko-chan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "20240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.389",
+    "lon": "101.288"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-bun-mi-201102/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "760209",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยท่าช้าง",
+    "en": "Huai Tha Chang",
+    "slug": "huai-tha-chang"
+  },
+  "code": {
+    "dopa": "760209"
+  },
+  "parent": {
+    "id": "7602",
+    "level": 2,
+    "name": {
+      "th": "เขาย้อย",
+      "en": "Khao Yoi",
+      "slug": "khao-yoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7602",
+      "level": 2,
+      "name": {
+        "th": "เขาย้อย",
+        "en": "Khao Yoi",
+        "slug": "khao-yoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "76140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.136",
+    "lon": "99.800"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-tha-chang-760209/"
+  }
+}

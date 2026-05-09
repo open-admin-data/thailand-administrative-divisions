@@ -1,0 +1,61 @@
+{
+  "id": "500204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ข่วงเปา",
+    "en": "Khuang Pao",
+    "slug": "khuang-pao"
+  },
+  "code": {
+    "dopa": "500204"
+  },
+  "parent": {
+    "id": "5002",
+    "level": 2,
+    "name": {
+      "th": "จอมทอง",
+      "en": "Chom Thong",
+      "slug": "chom-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5002",
+      "level": 2,
+      "name": {
+        "th": "จอมทอง",
+        "en": "Chom Thong",
+        "slug": "chom-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "50160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.472",
+    "lon": "98.726"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khuang-pao-500204/"
+  }
+}

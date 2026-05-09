@@ -1,0 +1,50 @@
+{
+  "id": "3706",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หัวตะพาน",
+    "en": "Hua Taphan",
+    "slug": "hua-taphan"
+  },
+  "code": {
+    "dopa": "3706"
+  },
+  "parent": {
+    "id": "37",
+    "level": 1,
+    "name": {
+      "th": "อำนาจเจริญ",
+      "en": "Amnat Charoen",
+      "slug": "amnat-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 85
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.723",
+    "lon": "104.513"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/hua-taphan-3706/"
+  }
+}

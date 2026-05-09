@@ -1,0 +1,185 @@
+[
+  {
+    "id": "76010901",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเวียงคอยล่าง",
+      "en": "Ban Wiang Khoi Lang",
+      "slug": "76010901"
+    },
+    "code": {
+      "dopa": "76010901"
+    },
+    "parent": {
+      "id": "760109",
+      "level": 3,
+      "name": {
+        "th": "เวียงคอย",
+        "en": "Wiang Khoi",
+        "slug": "wiang-khoi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "th": "เพชรบุรี",
+          "en": "Phetchaburi",
+          "slug": "phetchaburi"
+        }
+      },
+      {
+        "id": "7601",
+        "level": 2,
+        "name": {
+          "th": "เมืองเพชรบุรี",
+          "en": "Mueang Phetchaburi",
+          "slug": "mueang-phetchaburi"
+        }
+      },
+      {
+        "id": "760109",
+        "level": 3,
+        "name": {
+          "th": "เวียงคอย",
+          "en": "Wiang Khoi",
+          "slug": "wiang-khoi"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.125147948058144",
+      "lon": "99.90473806858063"
+    },
+    "source": {}
+  },
+  {
+    "id": "76010902",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเวียงคอยบน",
+      "en": "Ban Wiang Khoi Bon",
+      "slug": "76010902"
+    },
+    "code": {
+      "dopa": "76010902"
+    },
+    "parent": {
+      "id": "760109",
+      "level": 3,
+      "name": {
+        "th": "เวียงคอย",
+        "en": "Wiang Khoi",
+        "slug": "wiang-khoi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "th": "เพชรบุรี",
+          "en": "Phetchaburi",
+          "slug": "phetchaburi"
+        }
+      },
+      {
+        "id": "7601",
+        "level": 2,
+        "name": {
+          "th": "เมืองเพชรบุรี",
+          "en": "Mueang Phetchaburi",
+          "slug": "mueang-phetchaburi"
+        }
+      },
+      {
+        "id": "760109",
+        "level": 3,
+        "name": {
+          "th": "เวียงคอย",
+          "en": "Wiang Khoi",
+          "slug": "wiang-khoi"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.118523471637646",
+      "lon": "99.90536972880363"
+    },
+    "source": {}
+  },
+  {
+    "id": "76010903",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านดอนโตนดพัฒนา",
+      "en": "Ban Don Tanot Phatthana",
+      "slug": "76010903"
+    },
+    "code": {
+      "dopa": "76010903"
+    },
+    "parent": {
+      "id": "760109",
+      "level": 3,
+      "name": {
+        "th": "เวียงคอย",
+        "en": "Wiang Khoi",
+        "slug": "wiang-khoi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "th": "เพชรบุรี",
+          "en": "Phetchaburi",
+          "slug": "phetchaburi"
+        }
+      },
+      {
+        "id": "7601",
+        "level": 2,
+        "name": {
+          "th": "เมืองเพชรบุรี",
+          "en": "Mueang Phetchaburi",
+          "slug": "mueang-phetchaburi"
+        }
+      },
+      {
+        "id": "760109",
+        "level": 3,
+        "name": {
+          "th": "เวียงคอย",
+          "en": "Wiang Khoi",
+          "slug": "wiang-khoi"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.118678898109891",
+      "lon": "99.9009159207344"
+    },
+    "source": {}
+  }
+]

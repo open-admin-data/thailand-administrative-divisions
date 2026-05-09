@@ -1,0 +1,61 @@
+{
+  "id": "610704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ระบำ",
+    "en": "Rabam",
+    "slug": "rabam"
+  },
+  "code": {
+    "dopa": "610704"
+  },
+  "parent": {
+    "id": "6107",
+    "level": 2,
+    "name": {
+      "th": "ลานสัก",
+      "en": "Lan Sak",
+      "slug": "lan-sak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6107",
+      "level": 2,
+      "name": {
+        "th": "ลานสัก",
+        "en": "Lan Sak",
+        "slug": "lan-sak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "61160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.538",
+    "lon": "99.336"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rabam-610704/"
+  }
+}

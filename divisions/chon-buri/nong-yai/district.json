@@ -1,0 +1,50 @@
+{
+  "id": "2003",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หนองใหญ่",
+    "en": "Nong Yai",
+    "slug": "nong-yai"
+  },
+  "code": {
+    "dopa": "2003"
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "th": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 24
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.243",
+    "lon": "101.347"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-yai-2003/"
+  }
+}

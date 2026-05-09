@@ -1,0 +1,50 @@
+{
+  "id": "3420",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ตาลสุม",
+    "en": "Tan Sum",
+    "slug": "tan-sum"
+  },
+  "code": {
+    "dopa": "3420"
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 59
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.385",
+    "lon": "105.166"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tan-sum-3420/"
+  }
+}

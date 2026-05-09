@@ -1,0 +1,50 @@
+{
+  "id": "8419",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "วิภาวดี",
+    "en": "Vibhavadi",
+    "slug": "vibhavadi"
+  },
+  "code": {
+    "dopa": "8419"
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "th": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 2,
+    "villages": 31
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.227",
+    "lon": "98.807"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/vibhavadi-8419/"
+  }
+}

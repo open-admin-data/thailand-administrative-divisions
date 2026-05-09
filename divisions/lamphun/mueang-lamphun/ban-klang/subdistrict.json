@@ -1,0 +1,61 @@
+{
+  "id": "510112",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านกลาง",
+    "en": "Ban Klang",
+    "slug": "ban-klang"
+  },
+  "code": {
+    "dopa": "510112"
+  },
+  "parent": {
+    "id": "5101",
+    "level": 2,
+    "name": {
+      "th": "เมืองลำพูน",
+      "en": "Mueang Lamphun",
+      "slug": "mueang-lamphun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5101",
+      "level": 2,
+      "name": {
+        "th": "เมืองลำพูน",
+        "en": "Mueang Lamphun",
+        "slug": "mueang-lamphun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "51000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.575",
+    "lon": "99.063"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-klang-510112/"
+  }
+}

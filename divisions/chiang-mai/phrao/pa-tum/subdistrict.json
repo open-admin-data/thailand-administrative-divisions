@@ -1,0 +1,61 @@
+{
+  "id": "501103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าตุ้ม",
+    "en": "Pa Tum",
+    "slug": "pa-tum"
+  },
+  "code": {
+    "dopa": "501103"
+  },
+  "parent": {
+    "id": "5011",
+    "level": 2,
+    "name": {
+      "th": "พร้าว",
+      "en": "Phrao",
+      "slug": "phrao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5011",
+      "level": 2,
+      "name": {
+        "th": "พร้าว",
+        "en": "Phrao",
+        "slug": "phrao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "50190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.370",
+    "lon": "99.266"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-tum-501103/"
+  }
+}

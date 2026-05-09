@@ -1,0 +1,61 @@
+{
+  "id": "311205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หูทำนบ",
+    "en": "Hu Thamnop",
+    "slug": "hu-thamnop"
+  },
+  "code": {
+    "dopa": "311205"
+  },
+  "parent": {
+    "id": "3112",
+    "level": 2,
+    "name": {
+      "th": "ปะคำ",
+      "en": "Pakham",
+      "slug": "pakham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3112",
+      "level": 2,
+      "name": {
+        "th": "ปะคำ",
+        "en": "Pakham",
+        "slug": "pakham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "31220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.364",
+    "lon": "102.696"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hu-thamnop-311205/"
+  }
+}

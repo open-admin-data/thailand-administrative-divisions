@@ -1,0 +1,61 @@
+{
+  "id": "560402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านมาง",
+    "en": "Ban Mang",
+    "slug": "ban-mang"
+  },
+  "code": {
+    "dopa": "560402"
+  },
+  "parent": {
+    "id": "5604",
+    "level": 2,
+    "name": {
+      "th": "เชียงม่วน",
+      "en": "Chiang Muan",
+      "slug": "chiang-muan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5604",
+      "level": 2,
+      "name": {
+        "th": "เชียงม่วน",
+        "en": "Chiang Muan",
+        "slug": "chiang-muan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "56160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.869",
+    "lon": "100.220"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-mang-560402/"
+  }
+}

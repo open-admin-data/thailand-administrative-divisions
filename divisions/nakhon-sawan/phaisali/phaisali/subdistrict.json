@@ -1,0 +1,61 @@
+{
+  "id": "600908",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไพศาลี",
+    "en": "Phaisali",
+    "slug": "phaisali"
+  },
+  "code": {
+    "dopa": "600908"
+  },
+  "parent": {
+    "id": "6009",
+    "level": 2,
+    "name": {
+      "th": "ไพศาลี",
+      "en": "Phaisali",
+      "slug": "phaisali"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6009",
+      "level": 2,
+      "name": {
+        "th": "ไพศาลี",
+        "en": "Phaisali",
+        "slug": "phaisali"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "60220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.637",
+    "lon": "100.700"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phaisali-600908/"
+  }
+}

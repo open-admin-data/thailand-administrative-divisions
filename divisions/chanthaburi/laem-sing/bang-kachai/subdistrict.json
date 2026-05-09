@@ -1,0 +1,61 @@
+{
+  "id": "220607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางกะไชย",
+    "en": "Bang Kachai",
+    "slug": "bang-kachai"
+  },
+  "code": {
+    "dopa": "220607"
+  },
+  "parent": {
+    "id": "2206",
+    "level": 2,
+    "name": {
+      "th": "แหลมสิงห์",
+      "en": "Laem Sing",
+      "slug": "laem-sing"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    },
+    {
+      "id": "2206",
+      "level": 2,
+      "name": {
+        "th": "แหลมสิงห์",
+        "en": "Laem Sing",
+        "slug": "laem-sing"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "22120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.530",
+    "lon": "102.024"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-kachai-220607/"
+  }
+}

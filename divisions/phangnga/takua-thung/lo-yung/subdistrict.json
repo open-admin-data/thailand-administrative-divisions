@@ -1,0 +1,61 @@
+{
+  "id": "820405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หล่อยูง",
+    "en": "Lo Yung",
+    "slug": "lo-yung"
+  },
+  "code": {
+    "dopa": "820405"
+  },
+  "parent": {
+    "id": "8204",
+    "level": 2,
+    "name": {
+      "th": "ตะกั่วทุ่ง",
+      "en": "Takua Thung",
+      "slug": "takua-thung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8204",
+      "level": 2,
+      "name": {
+        "th": "ตะกั่วทุ่ง",
+        "en": "Takua Thung",
+        "slug": "takua-thung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "82140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.198",
+    "lon": "98.358"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lo-yung-820405/"
+  }
+}

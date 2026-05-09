@@ -1,0 +1,61 @@
+{
+  "id": "130113",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สวนพริกไทย",
+    "en": "Suan Phrikthai",
+    "slug": "suan-phrikthai"
+  },
+  "code": {
+    "dopa": "130113"
+  },
+  "parent": {
+    "id": "1301",
+    "level": 2,
+    "name": {
+      "th": "เมืองปทุมธานี",
+      "en": "Mueang Pathum Thani",
+      "slug": "mueang-pathum-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1301",
+      "level": 2,
+      "name": {
+        "th": "เมืองปทุมธานี",
+        "en": "Mueang Pathum Thani",
+        "slug": "mueang-pathum-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "12000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.018",
+    "lon": "100.568"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/suan-phrikthai-130113/"
+  }
+}

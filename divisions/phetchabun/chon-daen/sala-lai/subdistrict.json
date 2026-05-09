@@ -1,0 +1,61 @@
+{
+  "id": "670210",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศาลาลาย",
+    "en": "Sala Lai",
+    "slug": "sala-lai"
+  },
+  "code": {
+    "dopa": "670210"
+  },
+  "parent": {
+    "id": "6702",
+    "level": 2,
+    "name": {
+      "th": "ชนแดน",
+      "en": "Chon Daen",
+      "slug": "chon-daen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6702",
+      "level": 2,
+      "name": {
+        "th": "ชนแดน",
+        "en": "Chon Daen",
+        "slug": "chon-daen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "67150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.092",
+    "lon": "100.832"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sala-lai-670210/"
+  }
+}

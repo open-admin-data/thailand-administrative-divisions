@@ -1,0 +1,61 @@
+{
+  "id": "640402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านกร่าง",
+    "en": "Ban Krang",
+    "slug": "ban-krang"
+  },
+  "code": {
+    "dopa": "640402"
+  },
+  "parent": {
+    "id": "6404",
+    "level": 2,
+    "name": {
+      "th": "กงไกรลาศ",
+      "en": "Kong Krailat",
+      "slug": "kong-krailat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6404",
+      "level": 2,
+      "name": {
+        "th": "กงไกรลาศ",
+        "en": "Kong Krailat",
+        "slug": "kong-krailat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "64170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.947",
+    "lon": "99.939"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-krang-640402/"
+  }
+}

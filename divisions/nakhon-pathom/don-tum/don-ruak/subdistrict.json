@@ -1,0 +1,61 @@
+{
+  "id": "730406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนรวก",
+    "en": "Don Ruak",
+    "slug": "don-ruak"
+  },
+  "code": {
+    "dopa": "730406"
+  },
+  "parent": {
+    "id": "7304",
+    "level": 2,
+    "name": {
+      "th": "ดอนตูม",
+      "en": "Don Tum",
+      "slug": "don-tum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7304",
+      "level": 2,
+      "name": {
+        "th": "ดอนตูม",
+        "en": "Don Tum",
+        "slug": "don-tum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "73150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.890",
+    "lon": "100.117"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-ruak-730406/"
+  }
+}

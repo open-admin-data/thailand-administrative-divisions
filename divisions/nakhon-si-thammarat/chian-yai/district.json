@@ -1,0 +1,50 @@
+{
+  "id": "8006",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เชียรใหญ่",
+    "en": "Chian Yai",
+    "slug": "chian-yai"
+  },
+  "code": {
+    "dopa": "8006"
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "th": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 97
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.156",
+    "lon": "100.197"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chian-yai-8006/"
+  }
+}

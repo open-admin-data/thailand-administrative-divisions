@@ -1,0 +1,50 @@
+{
+  "id": "3016",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ห้วยแถลง",
+    "en": "Huai Thalaeng",
+    "slug": "huai-thalaeng"
+  },
+  "code": {
+    "dopa": "3016"
+  },
+  "parent": {
+    "id": "30",
+    "level": 1,
+    "name": {
+      "th": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 120
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.985",
+    "lon": "102.687"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/huai-thalaeng-3016/"
+  }
+}

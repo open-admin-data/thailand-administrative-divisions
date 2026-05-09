@@ -1,0 +1,61 @@
+{
+  "id": "190902",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขุนโขลน",
+    "en": "Khun Khlon",
+    "slug": "khun-khlon"
+  },
+  "code": {
+    "dopa": "190902"
+  },
+  "parent": {
+    "id": "1909",
+    "level": 2,
+    "name": {
+      "th": "พระพุทธบาท",
+      "en": "Phra Phutthabat",
+      "slug": "phra-phutthabat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1909",
+      "level": 2,
+      "name": {
+        "th": "พระพุทธบาท",
+        "en": "Phra Phutthabat",
+        "slug": "phra-phutthabat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "18120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.713",
+    "lon": "100.831"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khun-khlon-190902/"
+  }
+}

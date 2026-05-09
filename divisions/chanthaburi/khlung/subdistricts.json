@@ -1,0 +1,734 @@
+[
+  {
+    "id": "220205",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บางชัน",
+      "en": "Bang Chan",
+      "slug": "bang-chan"
+    },
+    "code": {
+      "dopa": "220205"
+    },
+    "parent": {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "th": "ขลุง",
+        "en": "Khlung",
+        "slug": "khlung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2202",
+        "level": 2,
+        "name": {
+          "th": "ขลุง",
+          "en": "Khlung",
+          "slug": "khlung"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "22110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.346",
+      "lon": "102.310"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bang-chan-220205/"
+    }
+  },
+  {
+    "id": "220202",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บ่อ",
+      "en": "Bo",
+      "slug": "bo"
+    },
+    "code": {
+      "dopa": "220202"
+    },
+    "parent": {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "th": "ขลุง",
+        "en": "Khlung",
+        "slug": "khlung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2202",
+        "level": 2,
+        "name": {
+          "th": "ขลุง",
+          "en": "Khlung",
+          "slug": "khlung"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "22110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.412",
+      "lon": "102.279"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bo-220202/"
+    }
+  },
+  {
+    "id": "220212",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บ่อเวฬุ",
+      "en": "Bo Welu",
+      "slug": "bo-welu"
+    },
+    "code": {
+      "dopa": "220212"
+    },
+    "parent": {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "th": "ขลุง",
+        "en": "Khlung",
+        "slug": "khlung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2202",
+        "level": 2,
+        "name": {
+          "th": "ขลุง",
+          "en": "Khlung",
+          "slug": "khlung"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "22150"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.723",
+      "lon": "102.367"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bo-welu-220212/"
+    }
+  },
+  {
+    "id": "220201",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ขลุง",
+      "en": "Khlung",
+      "slug": "khlung"
+    },
+    "code": {
+      "dopa": "220201"
+    },
+    "parent": {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "th": "ขลุง",
+        "en": "Khlung",
+        "slug": "khlung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2202",
+        "level": 2,
+        "name": {
+          "th": "ขลุง",
+          "en": "Khlung",
+          "slug": "khlung"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "22110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.452",
+      "lon": "102.218"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khlung-220201/"
+    }
+  },
+  {
+    "id": "220203",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เกวียนหัก",
+      "en": "Kwian Hak",
+      "slug": "kwian-hak"
+    },
+    "code": {
+      "dopa": "220203"
+    },
+    "parent": {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "th": "ขลุง",
+        "en": "Khlung",
+        "slug": "khlung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2202",
+        "level": 2,
+        "name": {
+          "th": "ขลุง",
+          "en": "Khlung",
+          "slug": "khlung"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "22110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.468",
+      "lon": "102.200"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/kwian-hak-220203/"
+    }
+  },
+  {
+    "id": "220208",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "มาบไพ",
+      "en": "Map Phai",
+      "slug": "map-phai"
+    },
+    "code": {
+      "dopa": "220208"
+    },
+    "parent": {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "th": "ขลุง",
+        "en": "Khlung",
+        "slug": "khlung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2202",
+        "level": 2,
+        "name": {
+          "th": "ขลุง",
+          "en": "Khlung",
+          "slug": "khlung"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "22110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.598",
+      "lon": "102.258"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/map-phai-220208/"
+    }
+  },
+  {
+    "id": "220207",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ซึ้ง",
+      "en": "Sueng",
+      "slug": "sueng"
+    },
+    "code": {
+      "dopa": "220207"
+    },
+    "parent": {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "th": "ขลุง",
+        "en": "Khlung",
+        "slug": "khlung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2202",
+        "level": 2,
+        "name": {
+          "th": "ขลุง",
+          "en": "Khlung",
+          "slug": "khlung"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "22110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.487",
+      "lon": "102.288"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/sueng-220207/"
+    }
+  },
+  {
+    "id": "220204",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ตะปอน",
+      "en": "Tapon",
+      "slug": "tapon"
+    },
+    "code": {
+      "dopa": "220204"
+    },
+    "parent": {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "th": "ขลุง",
+        "en": "Khlung",
+        "slug": "khlung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2202",
+        "level": 2,
+        "name": {
+          "th": "ขลุง",
+          "en": "Khlung",
+          "slug": "khlung"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "22110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.493",
+      "lon": "102.175"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/tapon-220204/"
+    }
+  },
+  {
+    "id": "220211",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ตกพรม",
+      "en": "Tok Phrom",
+      "slug": "tok-phrom"
+    },
+    "code": {
+      "dopa": "220211"
+    },
+    "parent": {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "th": "ขลุง",
+        "en": "Khlung",
+        "slug": "khlung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2202",
+        "level": 2,
+        "name": {
+          "th": "ขลุง",
+          "en": "Khlung",
+          "slug": "khlung"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "22110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.625",
+      "lon": "102.339"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/tok-phrom-220211/"
+    }
+  },
+  {
+    "id": "220210",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ตรอกนอง",
+      "en": "Trok Nong",
+      "slug": "trok-nong"
+    },
+    "code": {
+      "dopa": "220210"
+    },
+    "parent": {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "th": "ขลุง",
+        "en": "Khlung",
+        "slug": "khlung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2202",
+        "level": 2,
+        "name": {
+          "th": "ขลุง",
+          "en": "Khlung",
+          "slug": "khlung"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "22110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.533",
+      "lon": "102.275"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/trok-nong-220210/"
+    }
+  },
+  {
+    "id": "220206",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "วันยาว",
+      "en": "Wan Yao",
+      "slug": "wan-yao"
+    },
+    "code": {
+      "dopa": "220206"
+    },
+    "parent": {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "th": "ขลุง",
+        "en": "Khlung",
+        "slug": "khlung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2202",
+        "level": 2,
+        "name": {
+          "th": "ขลุง",
+          "en": "Khlung",
+          "slug": "khlung"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "22110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.439",
+      "lon": "102.234"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/wan-yao-220206/"
+    }
+  },
+  {
+    "id": "220209",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "วังสรรพรส",
+      "en": "Wang Sappharot",
+      "slug": "wang-sappharot"
+    },
+    "code": {
+      "dopa": "220209"
+    },
+    "parent": {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "th": "ขลุง",
+        "en": "Khlung",
+        "slug": "khlung"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2202",
+        "level": 2,
+        "name": {
+          "th": "ขลุง",
+          "en": "Khlung",
+          "slug": "khlung"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "22110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.560",
+      "lon": "102.290"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/wang-sappharot-220209/"
+    }
+  }
+]

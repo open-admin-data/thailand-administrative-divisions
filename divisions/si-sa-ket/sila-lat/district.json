@@ -1,0 +1,50 @@
+{
+  "id": "3322",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ศิลาลาด",
+    "en": "Sila Lat",
+    "slug": "sila-lat"
+  },
+  "code": {
+    "dopa": "3322"
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "th": "ศรีสะเกษ",
+      "en": "Si Sa Ket",
+      "slug": "si-sa-ket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 44
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.473",
+    "lon": "104.139"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sila-lat-3322/"
+  }
+}

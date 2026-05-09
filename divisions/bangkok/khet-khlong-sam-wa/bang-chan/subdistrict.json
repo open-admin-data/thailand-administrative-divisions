@@ -1,0 +1,61 @@
+{
+  "id": "104603",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง บางชัน",
+    "en": "Bang Chan",
+    "slug": "bang-chan"
+  },
+  "code": {
+    "dopa": "104603"
+  },
+  "parent": {
+    "id": "1046",
+    "level": 2,
+    "name": {
+      "th": "เขต คลองสามวา",
+      "en": "Khet Khlong Sam Wa",
+      "slug": "khet-khlong-sam-wa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1046",
+      "level": 2,
+      "name": {
+        "th": "เขต คลองสามวา",
+        "en": "Khet Khlong Sam Wa",
+        "slug": "khet-khlong-sam-wa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10510"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.839",
+    "lon": "100.700"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-chan-104603/"
+  }
+}

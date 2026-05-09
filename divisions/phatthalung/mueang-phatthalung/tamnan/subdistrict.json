@@ -1,0 +1,61 @@
+{
+  "id": "930110",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตำนาน",
+    "en": "Tamnan",
+    "slug": "tamnan"
+  },
+  "code": {
+    "dopa": "930110"
+  },
+  "parent": {
+    "id": "9301",
+    "level": 2,
+    "name": {
+      "th": "เมืองพัทลุง",
+      "en": "Mueang Phatthalung",
+      "slug": "mueang-phatthalung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9301",
+      "level": 2,
+      "name": {
+        "th": "เมืองพัทลุง",
+        "en": "Mueang Phatthalung",
+        "slug": "mueang-phatthalung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "93000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.572",
+    "lon": "100.083"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tamnan-930110/"
+  }
+}

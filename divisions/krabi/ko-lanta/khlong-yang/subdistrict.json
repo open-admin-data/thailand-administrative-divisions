@@ -1,0 +1,61 @@
+{
+  "id": "810304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองยาง",
+    "en": "Khlong Yang",
+    "slug": "khlong-yang"
+  },
+  "code": {
+    "dopa": "810304"
+  },
+  "parent": {
+    "id": "8103",
+    "level": 2,
+    "name": {
+      "th": "เกาะลันตา",
+      "en": "Ko Lanta",
+      "slug": "ko-lanta"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "th": "เกาะลันตา",
+        "en": "Ko Lanta",
+        "slug": "ko-lanta"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "81120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.790",
+    "lon": "99.110"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-yang-810304/"
+  }
+}

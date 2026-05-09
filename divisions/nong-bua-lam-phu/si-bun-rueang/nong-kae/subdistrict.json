@@ -1,0 +1,61 @@
+{
+  "id": "390410",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองแก",
+    "en": "Nong Kae",
+    "slug": "nong-kae"
+  },
+  "code": {
+    "dopa": "390410"
+  },
+  "parent": {
+    "id": "3904",
+    "level": 2,
+    "name": {
+      "th": "ศรีบุญเรือง",
+      "en": "Si Bun Rueang",
+      "slug": "si-bun-rueang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3904",
+      "level": 2,
+      "name": {
+        "th": "ศรีบุญเรือง",
+        "en": "Si Bun Rueang",
+        "slug": "si-bun-rueang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "39180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.083",
+    "lon": "102.294"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-kae-390410/"
+  }
+}

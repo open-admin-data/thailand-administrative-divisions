@@ -1,0 +1,50 @@
+{
+  "id": "9506",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "รามัน",
+    "en": "Raman",
+    "slug": "raman"
+  },
+  "code": {
+    "dopa": "9506"
+  },
+  "parent": {
+    "id": "95",
+    "level": 1,
+    "name": {
+      "th": "ยะลา",
+      "en": "Yala",
+      "slug": "yala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 16,
+    "villages": 90
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.464",
+    "lon": "101.374"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/raman-9506/"
+  }
+}

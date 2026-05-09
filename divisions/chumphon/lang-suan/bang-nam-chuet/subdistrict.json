@@ -1,0 +1,61 @@
+{
+  "id": "860408",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางน้ำจืด",
+    "en": "Bang Nam Chuet",
+    "slug": "bang-nam-chuet"
+  },
+  "code": {
+    "dopa": "860408"
+  },
+  "parent": {
+    "id": "8604",
+    "level": 2,
+    "name": {
+      "th": "หลังสวน",
+      "en": "Lang Suan",
+      "slug": "lang-suan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8604",
+      "level": 2,
+      "name": {
+        "th": "หลังสวน",
+        "en": "Lang Suan",
+        "slug": "lang-suan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "86150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.022",
+    "lon": "99.142"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-nam-chuet-860408/"
+  }
+}

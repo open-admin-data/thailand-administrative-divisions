@@ -1,0 +1,61 @@
+{
+  "id": "420805",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกใหญ่",
+    "en": "Khok Yai",
+    "slug": "khok-yai"
+  },
+  "code": {
+    "dopa": "420805"
+  },
+  "parent": {
+    "id": "4208",
+    "level": 2,
+    "name": {
+      "th": "ท่าลี่",
+      "en": "Tha Li",
+      "slug": "tha-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4208",
+      "level": 2,
+      "name": {
+        "th": "ท่าลี่",
+        "en": "Tha Li",
+        "slug": "tha-li"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "42140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.556",
+    "lon": "101.491"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-yai-420805/"
+  }
+}

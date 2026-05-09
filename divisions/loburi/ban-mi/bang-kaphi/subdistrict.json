@@ -1,0 +1,61 @@
+{
+  "id": "160610",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางกะพี้",
+    "en": "Bang Kaphi",
+    "slug": "bang-kaphi"
+  },
+  "code": {
+    "dopa": "160610"
+  },
+  "parent": {
+    "id": "1606",
+    "level": 2,
+    "name": {
+      "th": "บ้านหมี่",
+      "en": "Ban Mi",
+      "slug": "ban-mi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1606",
+      "level": 2,
+      "name": {
+        "th": "บ้านหมี่",
+        "en": "Ban Mi",
+        "slug": "ban-mi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "15110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.073",
+    "lon": "100.613"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-kaphi-160610/"
+  }
+}

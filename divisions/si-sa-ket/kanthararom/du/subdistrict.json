@@ -1,0 +1,61 @@
+{
+  "id": "330313",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดู่",
+    "en": "Du",
+    "slug": "du"
+  },
+  "code": {
+    "dopa": "330313"
+  },
+  "parent": {
+    "id": "3303",
+    "level": 2,
+    "name": {
+      "th": "กันทรารมย์",
+      "en": "Kanthararom",
+      "slug": "kanthararom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3303",
+      "level": 2,
+      "name": {
+        "th": "กันทรารมย์",
+        "en": "Kanthararom",
+        "slug": "kanthararom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "33130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.080",
+    "lon": "104.476"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/du-330313/"
+  }
+}

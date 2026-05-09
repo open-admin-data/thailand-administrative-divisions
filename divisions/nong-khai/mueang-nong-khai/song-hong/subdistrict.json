@@ -1,0 +1,61 @@
+{
+  "id": "430111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สองห้อง",
+    "en": "Song Hong",
+    "slug": "song-hong"
+  },
+  "code": {
+    "dopa": "430111"
+  },
+  "parent": {
+    "id": "4301",
+    "level": 2,
+    "name": {
+      "th": "เมืองหนองคาย",
+      "en": "Mueang Nong Khai",
+      "slug": "mueang-nong-khai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4301",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองคาย",
+        "en": "Mueang Nong Khai",
+        "slug": "mueang-nong-khai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "43100"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.715",
+    "lon": "102.811"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/song-hong-430111/"
+  }
+}

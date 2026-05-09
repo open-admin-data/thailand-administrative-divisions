@@ -1,0 +1,50 @@
+{
+  "id": "2102",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านฉาง",
+    "en": "Ban Chang",
+    "slug": "ban-chang"
+  },
+  "code": {
+    "dopa": "2102"
+  },
+  "parent": {
+    "id": "21",
+    "level": 1,
+    "name": {
+      "th": "ระยอง",
+      "en": "Rayong",
+      "slug": "rayong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 46
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.688",
+    "lon": "101.025"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-chang-2102/"
+  }
+}

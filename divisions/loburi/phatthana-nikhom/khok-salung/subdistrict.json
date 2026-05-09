@@ -1,0 +1,61 @@
+{
+  "id": "160205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกสลุง",
+    "en": "Khok Salung",
+    "slug": "khok-salung"
+  },
+  "code": {
+    "dopa": "160205"
+  },
+  "parent": {
+    "id": "1602",
+    "level": 2,
+    "name": {
+      "th": "พัฒนานิคม",
+      "en": "Phatthana Nikhom",
+      "slug": "phatthana-nikhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1602",
+      "level": 2,
+      "name": {
+        "th": "พัฒนานิคม",
+        "en": "Phatthana Nikhom",
+        "slug": "phatthana-nikhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "15140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.010",
+    "lon": "100.969"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-salung-160205/"
+  }
+}

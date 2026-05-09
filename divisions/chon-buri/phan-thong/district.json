@@ -1,0 +1,50 @@
+{
+  "id": "2005",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พานทอง",
+    "en": "Phan Thong",
+    "slug": "phan-thong"
+  },
+  "code": {
+    "dopa": "2005"
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "th": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 76
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.544",
+    "lon": "101.075"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phan-thong-2005/"
+  }
+}

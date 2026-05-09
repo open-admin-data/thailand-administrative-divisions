@@ -1,0 +1,61 @@
+{
+  "id": "500308",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กองแขก",
+    "en": "Kong Khaek",
+    "slug": "kong-khaek"
+  },
+  "code": {
+    "dopa": "500308"
+  },
+  "parent": {
+    "id": "5003",
+    "level": 2,
+    "name": {
+      "th": "แม่แจ่ม",
+      "en": "Mae Chaem",
+      "slug": "mae-chaem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5003",
+      "level": 2,
+      "name": {
+        "th": "แม่แจ่ม",
+        "en": "Mae Chaem",
+        "slug": "mae-chaem"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "50270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.358",
+    "lon": "98.376"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kong-khaek-500308/"
+  }
+}

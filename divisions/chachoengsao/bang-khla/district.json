@@ -1,0 +1,50 @@
+{
+  "id": "2402",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บางคล้า",
+    "en": "Bang Khla",
+    "slug": "bang-khla"
+  },
+  "code": {
+    "dopa": "2402"
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "th": "ฉะเชิงเทรา",
+      "en": "Chachoengsao",
+      "slug": "chachoengsao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 66
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.722",
+    "lon": "101.210"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-khla-2402/"
+  }
+}

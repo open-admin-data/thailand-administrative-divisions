@@ -1,0 +1,50 @@
+{
+  "id": "5303",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ท่าปลา",
+    "en": "Tha Pla",
+    "slug": "tha-pla"
+  },
+  "code": {
+    "dopa": "5303"
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "th": "อุตรดิตถ์",
+      "en": "Uttaradit",
+      "slug": "uttaradit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 76
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.760",
+    "lon": "100.333"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tha-pla-5303/"
+  }
+}

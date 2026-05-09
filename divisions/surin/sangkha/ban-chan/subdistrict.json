@@ -1,0 +1,61 @@
+{
+  "id": "321008",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านจารย์",
+    "en": "Ban Chan",
+    "slug": "ban-chan"
+  },
+  "code": {
+    "dopa": "321008"
+  },
+  "parent": {
+    "id": "3210",
+    "level": 2,
+    "name": {
+      "th": "สังขะ",
+      "en": "Sangkha",
+      "slug": "sangkha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "th": "สังขะ",
+        "en": "Sangkha",
+        "slug": "sangkha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "32150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.561",
+    "lon": "103.749"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-chan-321008/"
+  }
+}

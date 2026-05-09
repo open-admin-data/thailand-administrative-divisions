@@ -1,0 +1,61 @@
+{
+  "id": "620702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ช่องลม",
+    "en": "Chong Lom",
+    "slug": "chong-lom"
+  },
+  "code": {
+    "dopa": "620702"
+  },
+  "parent": {
+    "id": "6207",
+    "level": 2,
+    "name": {
+      "th": "ลานกระบือ",
+      "en": "Lan Krabue",
+      "slug": "lan-krabue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6207",
+      "level": 2,
+      "name": {
+        "th": "ลานกระบือ",
+        "en": "Lan Krabue",
+        "slug": "lan-krabue"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "62170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.568",
+    "lon": "99.913"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chong-lom-620702/"
+  }
+}

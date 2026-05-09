@@ -1,0 +1,185 @@
+[
+  {
+    "id": "13071001",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านท้ายดง",
+      "en": "Ban Thai Dong",
+      "slug": "13071001"
+    },
+    "code": {
+      "dopa": "13071001"
+    },
+    "parent": {
+      "id": "130710",
+      "level": 3,
+      "name": {
+        "th": "บางกระบือ",
+        "en": "Bang Krabue",
+        "slug": "bang-krabue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      },
+      {
+        "id": "130710",
+        "level": 3,
+        "name": {
+          "th": "บางกระบือ",
+          "en": "Bang Krabue",
+          "slug": "bang-krabue"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.114563778605042",
+      "lon": "100.54029420018196"
+    },
+    "source": {}
+  },
+  {
+    "id": "13071002",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านบางกระบือ",
+      "en": "Ban Bang Krabue",
+      "slug": "13071002"
+    },
+    "code": {
+      "dopa": "13071002"
+    },
+    "parent": {
+      "id": "130710",
+      "level": 3,
+      "name": {
+        "th": "บางกระบือ",
+        "en": "Bang Krabue",
+        "slug": "bang-krabue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      },
+      {
+        "id": "130710",
+        "level": 3,
+        "name": {
+          "th": "บางกระบือ",
+          "en": "Bang Krabue",
+          "slug": "bang-krabue"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.109979058818144",
+      "lon": "100.54539173841476"
+    },
+    "source": {}
+  },
+  {
+    "id": "13071003",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคาง",
+      "en": "Ban Khang",
+      "slug": "13071003"
+    },
+    "code": {
+      "dopa": "13071003"
+    },
+    "parent": {
+      "id": "130710",
+      "level": 3,
+      "name": {
+        "th": "บางกระบือ",
+        "en": "Bang Krabue",
+        "slug": "bang-krabue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      },
+      {
+        "id": "130710",
+        "level": 3,
+        "name": {
+          "th": "บางกระบือ",
+          "en": "Bang Krabue",
+          "slug": "bang-krabue"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.097735779347968",
+      "lon": "100.5325211584568"
+    },
+    "source": {}
+  }
+]

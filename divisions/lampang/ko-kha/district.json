@@ -1,0 +1,50 @@
+{
+  "id": "5203",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เกาะคา",
+    "en": "Ko Kha",
+    "slug": "ko-kha"
+  },
+  "code": {
+    "dopa": "5203"
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "th": "ลำปาง",
+      "en": "Lampang",
+      "slug": "lampang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 78
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.196",
+    "lon": "99.413"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ko-kha-5203/"
+  }
+}

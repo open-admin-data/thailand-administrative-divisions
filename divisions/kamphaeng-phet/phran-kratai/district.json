@@ -1,0 +1,50 @@
+{
+  "id": "6206",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พรานกระต่าย",
+    "en": "Phran Kratai",
+    "slug": "phran-kratai"
+  },
+  "code": {
+    "dopa": "6206"
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "th": "กำแพงเพชร",
+      "en": "Kamphaeng Phet",
+      "slug": "kamphaeng-phet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 116
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.666",
+    "lon": "99.742"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phran-kratai-6206/"
+  }
+}

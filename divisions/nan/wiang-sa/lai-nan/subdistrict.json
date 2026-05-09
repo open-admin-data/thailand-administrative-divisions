@@ -1,0 +1,61 @@
+{
+  "id": "550703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไหล่น่าน",
+    "en": "Lai Nan",
+    "slug": "lai-nan"
+  },
+  "code": {
+    "dopa": "550703"
+  },
+  "parent": {
+    "id": "5507",
+    "level": 2,
+    "name": {
+      "th": "เวียงสา",
+      "en": "Wiang Sa",
+      "slug": "wiang-sa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "th": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "55110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.590",
+    "lon": "100.930"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lai-nan-550703/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "420601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาแห้ว",
+    "en": "Na Haeo",
+    "slug": "na-haeo"
+  },
+  "code": {
+    "dopa": "420601"
+  },
+  "parent": {
+    "id": "4206",
+    "level": 2,
+    "name": {
+      "th": "นาแห้ว",
+      "en": "Na Haeo",
+      "slug": "na-haeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4206",
+      "level": 2,
+      "name": {
+        "th": "นาแห้ว",
+        "en": "Na Haeo",
+        "slug": "na-haeo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "42170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.484",
+    "lon": "101.066"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-haeo-420601/"
+  }
+}

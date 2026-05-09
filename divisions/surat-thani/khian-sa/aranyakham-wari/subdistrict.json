@@ -1,0 +1,61 @@
+{
+  "id": "841404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อรัญคามวารี",
+    "en": "Aranyakham Wari",
+    "slug": "aranyakham-wari"
+  },
+  "code": {
+    "dopa": "841404"
+  },
+  "parent": {
+    "id": "8414",
+    "level": 2,
+    "name": {
+      "th": "เคียนซา",
+      "en": "Khian Sa",
+      "slug": "khian-sa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8414",
+      "level": 2,
+      "name": {
+        "th": "เคียนซา",
+        "en": "Khian Sa",
+        "slug": "khian-sa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "84260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.745",
+    "lon": "99.190"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/aranyakham-wari-841404/"
+  }
+}

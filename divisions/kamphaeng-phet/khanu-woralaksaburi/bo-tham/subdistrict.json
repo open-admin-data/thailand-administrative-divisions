@@ -1,0 +1,61 @@
+{
+  "id": "620407",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อถ้ำ",
+    "en": "Bo Tham",
+    "slug": "bo-tham"
+  },
+  "code": {
+    "dopa": "620407"
+  },
+  "parent": {
+    "id": "6204",
+    "level": 2,
+    "name": {
+      "th": "ขาณุวรลักษบุรี",
+      "en": "Khanu Woralaksaburi",
+      "slug": "khanu-woralaksaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6204",
+      "level": 2,
+      "name": {
+        "th": "ขาณุวรลักษบุรี",
+        "en": "Khanu Woralaksaburi",
+        "slug": "khanu-woralaksaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "62140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.912",
+    "lon": "99.738"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-tham-620407/"
+  }
+}

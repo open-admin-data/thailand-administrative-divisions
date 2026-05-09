@@ -1,0 +1,61 @@
+{
+  "id": "130404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บึงชำอ้อ",
+    "en": "Bueng Cham O",
+    "slug": "bueng-cham-o"
+  },
+  "code": {
+    "dopa": "130404"
+  },
+  "parent": {
+    "id": "1304",
+    "level": 2,
+    "name": {
+      "th": "หนองเสือ",
+      "en": "Nong Suea",
+      "slug": "nong-suea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1304",
+      "level": 2,
+      "name": {
+        "th": "หนองเสือ",
+        "en": "Nong Suea",
+        "slug": "nong-suea"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "12170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.172",
+    "lon": "100.778"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bueng-cham-o-130404/"
+  }
+}

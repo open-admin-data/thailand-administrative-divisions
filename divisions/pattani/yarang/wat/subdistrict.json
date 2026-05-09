@@ -1,0 +1,61 @@
+{
+  "id": "941007",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วัด",
+    "en": "Wat",
+    "slug": "wat"
+  },
+  "code": {
+    "dopa": "941007"
+  },
+  "parent": {
+    "id": "9410",
+    "level": 2,
+    "name": {
+      "th": "ยะรัง",
+      "en": "Yarang",
+      "slug": "yarang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9410",
+      "level": 2,
+      "name": {
+        "th": "ยะรัง",
+        "en": "Yarang",
+        "slug": "yarang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "94160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.735",
+    "lon": "101.308"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wat-941007/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "860601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พะโต๊ะ",
+    "en": "Phato",
+    "slug": "phato"
+  },
+  "code": {
+    "dopa": "860601"
+  },
+  "parent": {
+    "id": "8606",
+    "level": 2,
+    "name": {
+      "th": "พะโต๊ะ",
+      "en": "Phato",
+      "slug": "phato"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8606",
+      "level": 2,
+      "name": {
+        "th": "พะโต๊ะ",
+        "en": "Phato",
+        "slug": "phato"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "86180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.816",
+    "lon": "98.800"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phato-860601/"
+  }
+}

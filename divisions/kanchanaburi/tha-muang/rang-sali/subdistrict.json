@@ -1,0 +1,61 @@
+{
+  "id": "710612",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "รางสาลี่",
+    "en": "Rang Sali",
+    "slug": "rang-sali"
+  },
+  "code": {
+    "dopa": "710612"
+  },
+  "parent": {
+    "id": "7106",
+    "level": 2,
+    "name": {
+      "th": "ท่าม่วง",
+      "en": "Tha Muang",
+      "slug": "tha-muang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7106",
+      "level": 2,
+      "name": {
+        "th": "ท่าม่วง",
+        "en": "Tha Muang",
+        "slug": "tha-muang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "71110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.866",
+    "lon": "99.543"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rang-sali-710612/"
+  }
+}

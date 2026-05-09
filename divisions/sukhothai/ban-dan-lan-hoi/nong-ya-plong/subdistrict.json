@@ -1,0 +1,61 @@
+{
+  "id": "640206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองหญ้าปล้อง",
+    "en": "Nong Ya Plong",
+    "slug": "nong-ya-plong"
+  },
+  "code": {
+    "dopa": "640206"
+  },
+  "parent": {
+    "id": "6402",
+    "level": 2,
+    "name": {
+      "th": "บ้านด่านลานหอย",
+      "en": "Ban Dan Lan Hoi",
+      "slug": "ban-dan-lan-hoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6402",
+      "level": 2,
+      "name": {
+        "th": "บ้านด่านลานหอย",
+        "en": "Ban Dan Lan Hoi",
+        "slug": "ban-dan-lan-hoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "64140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.995",
+    "lon": "99.481"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-ya-plong-640206/"
+  }
+}

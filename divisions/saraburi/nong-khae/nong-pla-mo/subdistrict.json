@@ -1,0 +1,61 @@
+{
+  "id": "190316",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองปลาหมอ",
+    "en": "Nong Pla Mo",
+    "slug": "nong-pla-mo"
+  },
+  "code": {
+    "dopa": "190316"
+  },
+  "parent": {
+    "id": "1903",
+    "level": 2,
+    "name": {
+      "th": "หนองแค",
+      "en": "Nong Khae",
+      "slug": "nong-khae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1903",
+      "level": 2,
+      "name": {
+        "th": "หนองแค",
+        "en": "Nong Khae",
+        "slug": "nong-khae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "18140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.369",
+    "lon": "100.845"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-pla-mo-190316/"
+  }
+}

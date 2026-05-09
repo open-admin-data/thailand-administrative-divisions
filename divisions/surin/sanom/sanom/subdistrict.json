@@ -1,0 +1,61 @@
+{
+  "id": "320801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สนม",
+    "en": "Sanom",
+    "slug": "sanom"
+  },
+  "code": {
+    "dopa": "320801"
+  },
+  "parent": {
+    "id": "3208",
+    "level": 2,
+    "name": {
+      "th": "สนม",
+      "en": "Sanom",
+      "slug": "sanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3208",
+      "level": 2,
+      "name": {
+        "th": "สนม",
+        "en": "Sanom",
+        "slug": "sanom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "32160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.203",
+    "lon": "103.761"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sanom-320801/"
+  }
+}

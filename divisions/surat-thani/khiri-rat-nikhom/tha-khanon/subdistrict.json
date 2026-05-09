@@ -1,0 +1,61 @@
+{
+  "id": "840801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าขนอน",
+    "en": "Tha Khanon",
+    "slug": "tha-khanon"
+  },
+  "code": {
+    "dopa": "840801"
+  },
+  "parent": {
+    "id": "8408",
+    "level": 2,
+    "name": {
+      "th": "คีรีรัฐนิคม",
+      "en": "Khiri Rat Nikhom",
+      "slug": "khiri-rat-nikhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8408",
+      "level": 2,
+      "name": {
+        "th": "คีรีรัฐนิคม",
+        "en": "Khiri Rat Nikhom",
+        "slug": "khiri-rat-nikhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "84180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.075",
+    "lon": "98.874"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-khanon-840801/"
+  }
+}

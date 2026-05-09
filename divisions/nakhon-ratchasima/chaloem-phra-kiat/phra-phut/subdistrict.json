@@ -1,0 +1,61 @@
+{
+  "id": "303203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พระพุทธ",
+    "en": "Phra Phut",
+    "slug": "phra-phut"
+  },
+  "code": {
+    "dopa": "303203"
+  },
+  "parent": {
+    "id": "3032",
+    "level": 2,
+    "name": {
+      "th": "เฉลิมพระเกียรติ",
+      "en": "Chaloem Phra Kiat",
+      "slug": "chaloem-phra-kiat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3032",
+      "level": 2,
+      "name": {
+        "th": "เฉลิมพระเกียรติ",
+        "en": "Chaloem Phra Kiat",
+        "slug": "chaloem-phra-kiat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "30230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.975",
+    "lon": "102.232"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phra-phut-303203/"
+  }
+}

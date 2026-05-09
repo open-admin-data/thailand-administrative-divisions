@@ -1,0 +1,61 @@
+{
+  "id": "270204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไทรเดี่ยว",
+    "en": "Sai Diao",
+    "slug": "sai-diao"
+  },
+  "code": {
+    "dopa": "270204"
+  },
+  "parent": {
+    "id": "2702",
+    "level": 2,
+    "name": {
+      "th": "คลองหาด",
+      "en": "Khlong Hat",
+      "slug": "khlong-hat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    },
+    {
+      "id": "2702",
+      "level": 2,
+      "name": {
+        "th": "คลองหาด",
+        "en": "Khlong Hat",
+        "slug": "khlong-hat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "27260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.593",
+    "lon": "102.212"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sai-diao-270204/"
+  }
+}

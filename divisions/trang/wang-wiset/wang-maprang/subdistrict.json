@@ -1,0 +1,61 @@
+{
+  "id": "920702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังมะปราง",
+    "en": "Wang Maprang",
+    "slug": "wang-maprang"
+  },
+  "code": {
+    "dopa": "920702"
+  },
+  "parent": {
+    "id": "9207",
+    "level": 2,
+    "name": {
+      "th": "วังวิเศษ",
+      "en": "Wang Wiset",
+      "slug": "wang-wiset"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9207",
+      "level": 2,
+      "name": {
+        "th": "วังวิเศษ",
+        "en": "Wang Wiset",
+        "slug": "wang-wiset"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "92220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.656",
+    "lon": "99.382"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-maprang-920702/"
+  }
+}

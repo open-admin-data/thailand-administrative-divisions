@@ -1,0 +1,50 @@
+{
+  "id": "1103",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บางพลี",
+    "en": "Bang Phli",
+    "slug": "bang-phli"
+  },
+  "code": {
+    "dopa": "1103"
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 83
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.642",
+    "lon": "100.662"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-phli-1103/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "530307",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นางพญา",
+    "en": "Nang Phaya",
+    "slug": "nang-phaya"
+  },
+  "code": {
+    "dopa": "530307"
+  },
+  "parent": {
+    "id": "5303",
+    "level": 2,
+    "name": {
+      "th": "ท่าปลา",
+      "en": "Tha Pla",
+      "slug": "tha-pla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5303",
+      "level": 2,
+      "name": {
+        "th": "ท่าปลา",
+        "en": "Tha Pla",
+        "slug": "tha-pla"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "53150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.970",
+    "lon": "100.441"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nang-phaya-530307/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "441202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาโพธิ์",
+    "en": "Na Pho",
+    "slug": "na-pho"
+  },
+  "code": {
+    "dopa": "441202"
+  },
+  "parent": {
+    "id": "4412",
+    "level": 2,
+    "name": {
+      "th": "กุดรัง",
+      "en": "Kud Rang",
+      "slug": "kud-rang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4412",
+      "level": 2,
+      "name": {
+        "th": "กุดรัง",
+        "en": "Kud Rang",
+        "slug": "kud-rang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "44130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.077",
+    "lon": "102.907"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-pho-441202/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "920803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ละมอ",
+    "en": "Lamo",
+    "slug": "lamo"
+  },
+  "code": {
+    "dopa": "920803"
+  },
+  "parent": {
+    "id": "9208",
+    "level": 2,
+    "name": {
+      "th": "นาโยง",
+      "en": "Na Yong",
+      "slug": "na-yong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9208",
+      "level": 2,
+      "name": {
+        "th": "นาโยง",
+        "en": "Na Yong",
+        "slug": "na-yong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "92170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.597",
+    "lon": "99.753"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lamo-920803/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "630801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อุ้มผาง",
+    "en": "Umphang",
+    "slug": "umphang"
+  },
+  "code": {
+    "dopa": "630801"
+  },
+  "parent": {
+    "id": "6308",
+    "level": 2,
+    "name": {
+      "th": "อุ้มผาง",
+      "en": "Umphang",
+      "slug": "umphang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6308",
+      "level": 2,
+      "name": {
+        "th": "อุ้มผาง",
+        "en": "Umphang",
+        "slug": "umphang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "63170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.019",
+    "lon": "98.955"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/umphang-630801/"
+  }
+}

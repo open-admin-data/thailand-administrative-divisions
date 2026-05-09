@@ -1,0 +1,61 @@
+{
+  "id": "650108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนทอง",
+    "en": "Don Thong",
+    "slug": "don-thong"
+  },
+  "code": {
+    "dopa": "650108"
+  },
+  "parent": {
+    "id": "6501",
+    "level": 2,
+    "name": {
+      "th": "เมืองพิษณุโลก",
+      "en": "Mueang Phitsanulok",
+      "slug": "mueang-phitsanulok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "th": "เมืองพิษณุโลก",
+        "en": "Mueang Phitsanulok",
+        "slug": "mueang-phitsanulok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "65000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.884",
+    "lon": "100.392"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-thong-650108/"
+  }
+}

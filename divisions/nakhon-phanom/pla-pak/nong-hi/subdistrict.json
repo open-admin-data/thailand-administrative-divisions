@@ -1,0 +1,61 @@
+{
+  "id": "480202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองฮี",
+    "en": "Nong Hi",
+    "slug": "nong-hi"
+  },
+  "code": {
+    "dopa": "480202"
+  },
+  "parent": {
+    "id": "4802",
+    "level": 2,
+    "name": {
+      "th": "ปลาปาก",
+      "en": "Pla Pak",
+      "slug": "pla-pak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4802",
+      "level": 2,
+      "name": {
+        "th": "ปลาปาก",
+        "en": "Pla Pak",
+        "slug": "pla-pak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "48160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.128",
+    "lon": "104.587"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-hi-480202/"
+  }
+}

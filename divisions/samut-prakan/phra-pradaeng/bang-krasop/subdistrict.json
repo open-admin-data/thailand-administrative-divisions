@@ -1,0 +1,61 @@
+{
+  "id": "110411",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางกระสอบ",
+    "en": "Bang Krasop",
+    "slug": "bang-krasop"
+  },
+  "code": {
+    "dopa": "110411"
+  },
+  "parent": {
+    "id": "1104",
+    "level": 2,
+    "name": {
+      "th": "พระประแดง",
+      "en": "Phra Pradaeng",
+      "slug": "phra-pradaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1104",
+      "level": 2,
+      "name": {
+        "th": "พระประแดง",
+        "en": "Phra Pradaeng",
+        "slug": "phra-pradaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "10130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.666",
+    "lon": "100.566"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-krasop-110411/"
+  }
+}

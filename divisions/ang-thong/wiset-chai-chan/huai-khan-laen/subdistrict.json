@@ -1,0 +1,61 @@
+{
+  "id": "150608",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยคันแหลน",
+    "en": "Huai Khan Laen",
+    "slug": "huai-khan-laen"
+  },
+  "code": {
+    "dopa": "150608"
+  },
+  "parent": {
+    "id": "1506",
+    "level": 2,
+    "name": {
+      "th": "วิเศษชัยชาญ",
+      "en": "Wiset Chai Chan",
+      "slug": "wiset-chai-chan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1506",
+      "level": 2,
+      "name": {
+        "th": "วิเศษชัยชาญ",
+        "en": "Wiset Chai Chan",
+        "slug": "wiset-chai-chan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "14110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.555",
+    "lon": "100.294"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-khan-laen-150608/"
+  }
+}

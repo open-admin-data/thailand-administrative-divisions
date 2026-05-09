@@ -1,0 +1,61 @@
+{
+  "id": "410306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองบัวบาน",
+    "en": "Nong Bua Ban",
+    "slug": "nong-bua-ban"
+  },
+  "code": {
+    "dopa": "410306"
+  },
+  "parent": {
+    "id": "4103",
+    "level": 2,
+    "name": {
+      "th": "หนองวัวซอ",
+      "en": "Nong Wua So",
+      "slug": "nong-wua-so"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4103",
+      "level": 2,
+      "name": {
+        "th": "หนองวัวซอ",
+        "en": "Nong Wua So",
+        "slug": "nong-wua-so"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "41360"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.288",
+    "lon": "102.645"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-bua-ban-410306/"
+  }
+}

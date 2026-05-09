@@ -1,0 +1,50 @@
+{
+  "id": "1005",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต บางเขน",
+    "en": "Khet Bang Khen",
+    "slug": "khet-bang-khen"
+  },
+  "code": {
+    "dopa": "1005"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 2,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.868",
+    "lon": "100.606"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khet-bang-khen-1005/"
+  }
+}

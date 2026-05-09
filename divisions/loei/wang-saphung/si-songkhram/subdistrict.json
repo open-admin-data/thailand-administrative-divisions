@@ -1,0 +1,61 @@
+{
+  "id": "420913",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีสงคราม",
+    "en": "Si Songkhram",
+    "slug": "si-songkhram"
+  },
+  "code": {
+    "dopa": "420913"
+  },
+  "parent": {
+    "id": "4209",
+    "level": 2,
+    "name": {
+      "th": "วังสะพุง",
+      "en": "Wang Saphung",
+      "slug": "wang-saphung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4209",
+      "level": 2,
+      "name": {
+        "th": "วังสะพุง",
+        "en": "Wang Saphung",
+        "slug": "wang-saphung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "42130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.254",
+    "lon": "101.799"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-songkhram-420913/"
+  }
+}

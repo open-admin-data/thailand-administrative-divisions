@@ -1,0 +1,61 @@
+{
+  "id": "560311",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เชียงบาน",
+    "en": "Chiang Ban",
+    "slug": "chiang-ban"
+  },
+  "code": {
+    "dopa": "560311"
+  },
+  "parent": {
+    "id": "5603",
+    "level": 2,
+    "name": {
+      "th": "เชียงคำ",
+      "en": "Chiang Kham",
+      "slug": "chiang-kham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5603",
+      "level": 2,
+      "name": {
+        "th": "เชียงคำ",
+        "en": "Chiang Kham",
+        "slug": "chiang-kham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "56110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.586",
+    "lon": "100.234"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chiang-ban-560311/"
+  }
+}

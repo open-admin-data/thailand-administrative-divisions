@@ -1,0 +1,61 @@
+{
+  "id": "800505",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ควนกลาง",
+    "en": "Khuan Klang",
+    "slug": "khuan-klang"
+  },
+  "code": {
+    "dopa": "800505"
+  },
+  "parent": {
+    "id": "8005",
+    "level": 2,
+    "name": {
+      "th": "พิปูน",
+      "en": "Phipun",
+      "slug": "phipun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8005",
+      "level": 2,
+      "name": {
+        "th": "พิปูน",
+        "en": "Phipun",
+        "slug": "phipun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "80270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.534",
+    "lon": "99.553"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khuan-klang-800505/"
+  }
+}

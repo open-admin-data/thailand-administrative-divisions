@@ -1,0 +1,61 @@
+{
+  "id": "230601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะหมาก",
+    "en": "Ko Mak",
+    "slug": "ko-mak"
+  },
+  "code": {
+    "dopa": "230601"
+  },
+  "parent": {
+    "id": "2306",
+    "level": 2,
+    "name": {
+      "th": "เกาะกูด",
+      "en": "Ko Kut",
+      "slug": "ko-kut"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "th": "ตราด",
+        "en": "Trat",
+        "slug": "trat"
+      }
+    },
+    {
+      "id": "2306",
+      "level": 2,
+      "name": {
+        "th": "เกาะกูด",
+        "en": "Ko Kut",
+        "slug": "ko-kut"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 2
+  },
+  "zip_codes": [
+    "23000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "11.818",
+    "lon": "102.481"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-mak-230601/"
+  }
+}

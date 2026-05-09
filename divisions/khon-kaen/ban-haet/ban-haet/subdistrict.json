@@ -1,0 +1,61 @@
+{
+  "id": "402401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านแฮด",
+    "en": "Ban Haet",
+    "slug": "ban-haet"
+  },
+  "code": {
+    "dopa": "402401"
+  },
+  "parent": {
+    "id": "4024",
+    "level": 2,
+    "name": {
+      "th": "บ้านแฮด",
+      "en": "Ban Haet",
+      "slug": "ban-haet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4024",
+      "level": 2,
+      "name": {
+        "th": "บ้านแฮด",
+        "en": "Ban Haet",
+        "slug": "ban-haet"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "40110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.211",
+    "lon": "102.778"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-haet-402401/"
+  }
+}

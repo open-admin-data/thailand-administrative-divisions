@@ -1,0 +1,61 @@
+{
+  "id": "401703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองแปน",
+    "en": "Nong Paen",
+    "slug": "nong-paen"
+  },
+  "code": {
+    "dopa": "401703"
+  },
+  "parent": {
+    "id": "4017",
+    "level": 2,
+    "name": {
+      "th": "มัญจาคีรี",
+      "en": "Mancha Khiri",
+      "slug": "mancha-khiri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4017",
+      "level": 2,
+      "name": {
+        "th": "มัญจาคีรี",
+        "en": "Mancha Khiri",
+        "slug": "mancha-khiri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "40160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.178",
+    "lon": "102.629"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-paen-401703/"
+  }
+}

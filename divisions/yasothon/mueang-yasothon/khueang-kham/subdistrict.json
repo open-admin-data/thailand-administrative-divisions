@@ -1,0 +1,61 @@
+{
+  "id": "350112",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขื่องคำ",
+    "en": "Khueang Kham",
+    "slug": "khueang-kham"
+  },
+  "code": {
+    "dopa": "350112"
+  },
+  "parent": {
+    "id": "3501",
+    "level": 2,
+    "name": {
+      "th": "เมืองยโสธร",
+      "en": "Mueang Yasothon",
+      "slug": "mueang-yasothon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3501",
+      "level": 2,
+      "name": {
+        "th": "เมืองยโสธร",
+        "en": "Mueang Yasothon",
+        "slug": "mueang-yasothon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "35000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.740",
+    "lon": "104.160"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khueang-kham-350112/"
+  }
+}

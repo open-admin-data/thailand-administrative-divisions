@@ -1,0 +1,61 @@
+{
+  "id": "801105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปริก",
+    "en": "Prik",
+    "slug": "prik"
+  },
+  "code": {
+    "dopa": "801105"
+  },
+  "parent": {
+    "id": "8011",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งใหญ่",
+      "en": "Thung Yai",
+      "slug": "thung-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8011",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งใหญ่",
+        "en": "Thung Yai",
+        "slug": "thung-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "80240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.280",
+    "lon": "99.432"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/prik-801105/"
+  }
+}

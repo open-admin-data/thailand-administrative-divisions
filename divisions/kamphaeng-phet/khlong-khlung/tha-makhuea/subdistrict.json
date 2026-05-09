@@ -1,0 +1,61 @@
+{
+  "id": "620502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่ามะเขือ",
+    "en": "Tha Makhuea",
+    "slug": "tha-makhuea"
+  },
+  "code": {
+    "dopa": "620502"
+  },
+  "parent": {
+    "id": "6205",
+    "level": 2,
+    "name": {
+      "th": "คลองขลุง",
+      "en": "Khlong Khlung",
+      "slug": "khlong-khlung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6205",
+      "level": 2,
+      "name": {
+        "th": "คลองขลุง",
+        "en": "Khlong Khlung",
+        "slug": "khlong-khlung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "62120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.261",
+    "lon": "99.752"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-makhuea-620502/"
+  }
+}

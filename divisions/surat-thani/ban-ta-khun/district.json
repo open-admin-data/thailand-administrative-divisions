@@ -1,0 +1,50 @@
+{
+  "id": "8409",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านตาขุน",
+    "en": "Ban Ta Khun",
+    "slug": "ban-ta-khun"
+  },
+  "code": {
+    "dopa": "8409"
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "th": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 29
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.949",
+    "lon": "98.896"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-ta-khun-8409/"
+  }
+}

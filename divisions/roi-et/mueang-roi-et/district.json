@@ -1,0 +1,50 @@
+{
+  "id": "4501",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองร้อยเอ็ด",
+    "en": "Mueang Roi Et",
+    "slug": "mueang-roi-et"
+  },
+  "code": {
+    "dopa": "4501"
+  },
+  "parent": {
+    "id": "45",
+    "level": 1,
+    "name": {
+      "th": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 15,
+    "villages": 221
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.051",
+    "lon": "103.653"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-roi-et-4501/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "390106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านขาม",
+    "en": "Ban Kham",
+    "slug": "ban-kham"
+  },
+  "code": {
+    "dopa": "390106"
+  },
+  "parent": {
+    "id": "3901",
+    "level": 2,
+    "name": {
+      "th": "เมืองหนองบัวลำภู",
+      "en": "Mueang Nong Bua Lam Phu",
+      "slug": "mueang-nong-bua-lam-phu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3901",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": "Mueang Nong Bua Lam Phu",
+        "slug": "mueang-nong-bua-lam-phu"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "39000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.111",
+    "lon": "102.477"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-kham-390106/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "340202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แก้งกอก",
+    "en": "Kaeng Kok",
+    "slug": "kaeng-kok"
+  },
+  "code": {
+    "dopa": "340202"
+  },
+  "parent": {
+    "id": "3402",
+    "level": 2,
+    "name": {
+      "th": "ศรีเมืองใหม่",
+      "en": "Si Mueang Mai",
+      "slug": "si-mueang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "th": "ศรีเมืองใหม่",
+        "en": "Si Mueang Mai",
+        "slug": "si-mueang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "34250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.478",
+    "lon": "105.237"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kaeng-kok-340202/"
+  }
+}

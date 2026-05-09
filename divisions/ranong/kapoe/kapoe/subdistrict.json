@@ -1,0 +1,61 @@
+{
+  "id": "850302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กะเปอร์",
+    "en": "Kapoe",
+    "slug": "kapoe"
+  },
+  "code": {
+    "dopa": "850302"
+  },
+  "parent": {
+    "id": "8503",
+    "level": 2,
+    "name": {
+      "th": "กะเปอร์",
+      "en": "Kapoe",
+      "slug": "kapoe"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "85",
+      "level": 1,
+      "name": {
+        "th": "ระนอง",
+        "en": "Ranong",
+        "slug": "ranong"
+      }
+    },
+    {
+      "id": "8503",
+      "level": 2,
+      "name": {
+        "th": "กะเปอร์",
+        "en": "Kapoe",
+        "slug": "kapoe"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "85120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.623",
+    "lon": "98.621"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kapoe-850302/"
+  }
+}

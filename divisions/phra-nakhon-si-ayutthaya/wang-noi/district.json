@@ -1,0 +1,50 @@
+{
+  "id": "1411",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "วังน้อย",
+    "en": "Wang Noi",
+    "slug": "wang-noi"
+  },
+  "code": {
+    "dopa": "1411"
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "th": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 68
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.249",
+    "lon": "100.800"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wang-noi-1411/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "540410",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สบสาย",
+    "en": "Sop Sai",
+    "slug": "sop-sai"
+  },
+  "code": {
+    "dopa": "540410"
+  },
+  "parent": {
+    "id": "5404",
+    "level": 2,
+    "name": {
+      "th": "สูงเม่น",
+      "en": "Sung Men",
+      "slug": "sung-men"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    {
+      "id": "5404",
+      "level": 2,
+      "name": {
+        "th": "สูงเม่น",
+        "en": "Sung Men",
+        "slug": "sung-men"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "54130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.102",
+    "lon": "100.023"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sop-sai-540410/"
+  }
+}

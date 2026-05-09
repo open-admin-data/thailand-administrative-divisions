@@ -1,0 +1,50 @@
+{
+  "id": "5011",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พร้าว",
+    "en": "Phrao",
+    "slug": "phrao"
+  },
+  "code": {
+    "dopa": "5011"
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 109
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.359",
+    "lon": "99.202"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phrao-5011/"
+  }
+}

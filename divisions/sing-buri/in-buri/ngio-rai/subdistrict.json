@@ -1,0 +1,61 @@
+{
+  "id": "170604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "งิ้วราย",
+    "en": "Ngio Rai",
+    "slug": "ngio-rai"
+  },
+  "code": {
+    "dopa": "170604"
+  },
+  "parent": {
+    "id": "1706",
+    "level": 2,
+    "name": {
+      "th": "อินทร์บุรี",
+      "en": "In Buri",
+      "slug": "in-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "th": "อินทร์บุรี",
+        "en": "In Buri",
+        "slug": "in-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "16110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.988",
+    "lon": "100.389"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ngio-rai-170604/"
+  }
+}

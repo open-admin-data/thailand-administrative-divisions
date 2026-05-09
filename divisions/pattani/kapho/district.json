@@ -1,0 +1,50 @@
+{
+  "id": "9411",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "กะพ้อ",
+    "en": "Kapho",
+    "slug": "kapho"
+  },
+  "code": {
+    "dopa": "9411"
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "th": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 27
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.603",
+    "lon": "101.554"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kapho-9411/"
+  }
+}

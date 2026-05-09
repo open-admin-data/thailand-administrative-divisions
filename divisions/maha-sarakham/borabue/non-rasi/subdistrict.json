@@ -1,0 +1,61 @@
+{
+  "id": "440607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนราษี",
+    "en": "Non Rasi",
+    "slug": "non-rasi"
+  },
+  "code": {
+    "dopa": "440607"
+  },
+  "parent": {
+    "id": "4406",
+    "level": 2,
+    "name": {
+      "th": "บรบือ",
+      "en": "Borabue",
+      "slug": "borabue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4406",
+      "level": 2,
+      "name": {
+        "th": "บรบือ",
+        "en": "Borabue",
+        "slug": "borabue"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "44130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.888",
+    "lon": "103.142"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-rasi-440607/"
+  }
+}

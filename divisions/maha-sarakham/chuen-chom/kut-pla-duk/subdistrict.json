@@ -1,0 +1,61 @@
+{
+  "id": "441302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุดปลาดุก",
+    "en": "Kut Pla Duk",
+    "slug": "kut-pla-duk"
+  },
+  "code": {
+    "dopa": "441302"
+  },
+  "parent": {
+    "id": "4413",
+    "level": 2,
+    "name": {
+      "th": "ชื่นชม",
+      "en": "Chuen Chom",
+      "slug": "chuen-chom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4413",
+      "level": 2,
+      "name": {
+        "th": "ชื่นชม",
+        "en": "Chuen Chom",
+        "slug": "chuen-chom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "44160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.588",
+    "lon": "103.138"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kut-pla-duk-441302/"
+  }
+}

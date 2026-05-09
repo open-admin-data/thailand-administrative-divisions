@@ -1,0 +1,50 @@
+{
+  "id": "9612",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "จะแนะ",
+    "en": "Chanae",
+    "slug": "chanae"
+  },
+  "code": {
+    "dopa": "9612"
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "th": "นราธิวาส",
+      "en": "Narathiwat",
+      "slug": "narathiwat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 32
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.132",
+    "lon": "101.728"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chanae-9612/"
+  }
+}

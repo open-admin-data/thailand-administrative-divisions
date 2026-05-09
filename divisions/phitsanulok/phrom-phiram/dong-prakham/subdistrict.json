@@ -1,0 +1,61 @@
+{
+  "id": "650612",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงประคำ",
+    "en": "Dong Prakham",
+    "slug": "dong-prakham"
+  },
+  "code": {
+    "dopa": "650612"
+  },
+  "parent": {
+    "id": "6506",
+    "level": 2,
+    "name": {
+      "th": "พรหมพิราม",
+      "en": "Phrom Phiram",
+      "slug": "phrom-phiram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6506",
+      "level": 2,
+      "name": {
+        "th": "พรหมพิราม",
+        "en": "Phrom Phiram",
+        "slug": "phrom-phiram"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "65180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.189",
+    "lon": "100.260"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-prakham-650612/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "5201",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองลำปาง",
+    "en": "Mueang Lampang",
+    "slug": "mueang-lampang"
+  },
+  "code": {
+    "dopa": "5201"
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "th": "ลำปาง",
+      "en": "Lampang",
+      "slug": "lampang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 16,
+    "villages": 235
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.290",
+    "lon": "99.492"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-lampang-5201/"
+  }
+}

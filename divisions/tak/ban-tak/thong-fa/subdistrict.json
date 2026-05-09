@@ -1,0 +1,61 @@
+{
+  "id": "630207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท้องฟ้า",
+    "en": "Thong Fa",
+    "slug": "thong-fa"
+  },
+  "code": {
+    "dopa": "630207"
+  },
+  "parent": {
+    "id": "6302",
+    "level": 2,
+    "name": {
+      "th": "บ้านตาก",
+      "en": "Ban Tak",
+      "slug": "ban-tak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6302",
+      "level": 2,
+      "name": {
+        "th": "บ้านตาก",
+        "en": "Ban Tak",
+        "slug": "ban-tak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "63120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.086",
+    "lon": "98.918"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thong-fa-630207/"
+  }
+}

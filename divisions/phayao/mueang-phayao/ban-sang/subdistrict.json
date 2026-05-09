@@ -1,0 +1,61 @@
+{
+  "id": "560115",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านสาง",
+    "en": "Ban Sang",
+    "slug": "ban-sang"
+  },
+  "code": {
+    "dopa": "560115"
+  },
+  "parent": {
+    "id": "5601",
+    "level": 2,
+    "name": {
+      "th": "เมืองพะเยา",
+      "en": "Mueang Phayao",
+      "slug": "mueang-phayao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5601",
+      "level": 2,
+      "name": {
+        "th": "เมืองพะเยา",
+        "en": "Mueang Phayao",
+        "slug": "mueang-phayao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "56000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.156",
+    "lon": "99.811"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-sang-560115/"
+  }
+}

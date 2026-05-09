@@ -1,0 +1,502 @@
+[
+  {
+    "id": "9210",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "หาดสำราญ",
+      "en": "Hat Samran",
+      "slug": "hat-samran"
+    },
+    "code": {
+      "dopa": "9210"
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "th": "ตรัง",
+          "en": "Trang",
+          "slug": "trang"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 3,
+      "villages": 22
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.033",
+      "lon": "99.449"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/hat-samran-9210/"
+    }
+  },
+  {
+    "id": "9206",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ห้วยยอด",
+      "en": "Huai Yot",
+      "slug": "huai-yot"
+    },
+    "code": {
+      "dopa": "9206"
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "th": "ตรัง",
+          "en": "Trang",
+          "slug": "trang"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 16,
+      "villages": 141
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.811",
+      "lon": "99.618"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/huai-yot-9206/"
+    }
+  },
+  {
+    "id": "9202",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "กันตัง",
+      "en": "Kantang",
+      "slug": "kantang"
+    },
+    "code": {
+      "dopa": "9202"
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "th": "ตรัง",
+          "en": "Trang",
+          "slug": "trang"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 16,
+      "villages": 95
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.272",
+      "lon": "99.475"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/kantang-9202/"
+    }
+  },
+  {
+    "id": "9201",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เมืองตรัง",
+      "en": "Mueang Trang",
+      "slug": "mueang-trang"
+    },
+    "code": {
+      "dopa": "9201"
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "th": "ตรัง",
+          "en": "Trang",
+          "slug": "trang"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 15,
+      "villages": 187
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.599",
+      "lon": "99.664"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/mueang-trang-9201/"
+    }
+  },
+  {
+    "id": "9208",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "นาโยง",
+      "en": "Na Yong",
+      "slug": "na-yong"
+    },
+    "code": {
+      "dopa": "9208"
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "th": "ตรัง",
+          "en": "Trang",
+          "slug": "trang"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 6,
+      "villages": 53
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.566",
+      "lon": "99.699"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/na-yong-9208/"
+    }
+  },
+  {
+    "id": "9204",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ปะเหลียน",
+      "en": "Palian",
+      "slug": "palian"
+    },
+    "code": {
+      "dopa": "9204"
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "th": "ตรัง",
+          "en": "Trang",
+          "slug": "trang"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 11,
+      "villages": 86
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.152",
+      "lon": "99.651"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/palian-9204/"
+    }
+  },
+  {
+    "id": "9209",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "รัษฎา",
+      "en": "Ratsada",
+      "slug": "ratsada"
+    },
+    "code": {
+      "dopa": "9209"
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "th": "ตรัง",
+          "en": "Trang",
+          "slug": "trang"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 5,
+      "villages": 50
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.987",
+      "lon": "99.645"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/ratsada-9209/"
+    }
+  },
+  {
+    "id": "9205",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "สิเกา",
+      "en": "Sikao",
+      "slug": "sikao"
+    },
+    "code": {
+      "dopa": "9205"
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "th": "ตรัง",
+          "en": "Trang",
+          "slug": "trang"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 5,
+      "villages": 40
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.470",
+      "lon": "99.320"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/sikao-9205/"
+    }
+  },
+  {
+    "id": "9207",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "วังวิเศษ",
+      "en": "Wang Wiset",
+      "slug": "wang-wiset"
+    },
+    "code": {
+      "dopa": "9207"
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "th": "ตรัง",
+          "en": "Trang",
+          "slug": "trang"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 5,
+      "villages": 68
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.690",
+      "lon": "99.523"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/wang-wiset-9207/"
+    }
+  },
+  {
+    "id": "9203",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ย่านตาขาว",
+      "en": "Yan Ta Khao",
+      "slug": "yan-ta-khao"
+    },
+    "code": {
+      "dopa": "9203"
+    },
+    "parent": {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "th": "ตรัง",
+          "en": "Trang",
+          "slug": "trang"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 8,
+      "villages": 67
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.406",
+      "lon": "99.674"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/yan-ta-khao-9203/"
+    }
+  }
+]

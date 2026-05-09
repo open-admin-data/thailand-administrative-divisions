@@ -1,0 +1,61 @@
+{
+  "id": "191005",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศาลารีไทย",
+    "en": "Sala Ri Thai",
+    "slug": "sala-ri-thai"
+  },
+  "code": {
+    "dopa": "191005"
+  },
+  "parent": {
+    "id": "1910",
+    "level": 2,
+    "name": {
+      "th": "เสาไห้",
+      "en": "Sao Hai",
+      "slug": "sao-hai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1910",
+      "level": 2,
+      "name": {
+        "th": "เสาไห้",
+        "en": "Sao Hai",
+        "slug": "sao-hai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "18160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.565",
+    "lon": "100.848"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sala-ri-thai-191005/"
+  }
+}

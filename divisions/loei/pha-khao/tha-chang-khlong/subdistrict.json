@@ -1,0 +1,61 @@
+{
+  "id": "421202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าช้างคล้อง",
+    "en": "Tha Chang Khlong",
+    "slug": "tha-chang-khlong"
+  },
+  "code": {
+    "dopa": "421202"
+  },
+  "parent": {
+    "id": "4212",
+    "level": 2,
+    "name": {
+      "th": "ผาขาว",
+      "en": "Pha Khao",
+      "slug": "pha-khao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4212",
+      "level": 2,
+      "name": {
+        "th": "ผาขาว",
+        "en": "Pha Khao",
+        "slug": "pha-khao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "42240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.019",
+    "lon": "102.090"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-chang-khlong-421202/"
+  }
+}

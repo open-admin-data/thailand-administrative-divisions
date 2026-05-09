@@ -1,0 +1,61 @@
+{
+  "id": "700605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนใหญ่",
+    "en": "Don Yai",
+    "slug": "don-yai"
+  },
+  "code": {
+    "dopa": "700605"
+  },
+  "parent": {
+    "id": "7006",
+    "level": 2,
+    "name": {
+      "th": "บางแพ",
+      "en": "Bang Phae",
+      "slug": "bang-phae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7006",
+      "level": 2,
+      "name": {
+        "th": "บางแพ",
+        "en": "Bang Phae",
+        "slug": "bang-phae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "70160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.709",
+    "lon": "100.002"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-yai-700605/"
+  }
+}

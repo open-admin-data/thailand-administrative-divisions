@@ -1,0 +1,61 @@
+{
+  "id": "331204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ผักไหม",
+    "en": "Phak Mai",
+    "slug": "phak-mai"
+  },
+  "code": {
+    "dopa": "331204"
+  },
+  "parent": {
+    "id": "3312",
+    "level": 2,
+    "name": {
+      "th": "ห้วยทับทัน",
+      "en": "Huai Thap Than",
+      "slug": "huai-thap-than"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3312",
+      "level": 2,
+      "name": {
+        "th": "ห้วยทับทัน",
+        "en": "Huai Thap Than",
+        "slug": "huai-thap-than"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "33210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.947",
+    "lon": "104.013"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phak-mai-331204/"
+  }
+}

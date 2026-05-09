@@ -1,0 +1,61 @@
+{
+  "id": "343303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขี้เหล็ก",
+    "en": "Khilek",
+    "slug": "khilek"
+  },
+  "code": {
+    "dopa": "343303"
+  },
+  "parent": {
+    "id": "3433",
+    "level": 2,
+    "name": {
+      "th": "น้ำขุ่น",
+      "en": "Nam Khun",
+      "slug": "nam-khun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3433",
+      "level": 2,
+      "name": {
+        "th": "น้ำขุ่น",
+        "en": "Nam Khun",
+        "slug": "nam-khun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "34260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.624",
+    "lon": "104.899"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khilek-343303/"
+  }
+}

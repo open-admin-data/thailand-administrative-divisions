@@ -1,0 +1,61 @@
+{
+  "id": "810303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะกลาง",
+    "en": "Ko Klang",
+    "slug": "ko-klang"
+  },
+  "code": {
+    "dopa": "810303"
+  },
+  "parent": {
+    "id": "8103",
+    "level": 2,
+    "name": {
+      "th": "เกาะลันตา",
+      "en": "Ko Lanta",
+      "slug": "ko-lanta"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8103",
+      "level": 2,
+      "name": {
+        "th": "เกาะลันตา",
+        "en": "Ko Lanta",
+        "slug": "ko-lanta"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "81120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.751",
+    "lon": "99.063"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-klang-810303/"
+  }
+}

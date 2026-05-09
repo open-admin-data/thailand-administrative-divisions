@@ -1,0 +1,61 @@
+{
+  "id": "331707",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไพรพัฒนา",
+    "en": "Phrai Phatthana",
+    "slug": "phrai-phatthana"
+  },
+  "code": {
+    "dopa": "331707"
+  },
+  "parent": {
+    "id": "3317",
+    "level": 2,
+    "name": {
+      "th": "ภูสิงห์",
+      "en": "Phu Sing",
+      "slug": "phu-sing"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3317",
+      "level": 2,
+      "name": {
+        "th": "ภูสิงห์",
+        "en": "Phu Sing",
+        "slug": "phu-sing"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "33140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.426",
+    "lon": "104.085"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phrai-phatthana-331707/"
+  }
+}

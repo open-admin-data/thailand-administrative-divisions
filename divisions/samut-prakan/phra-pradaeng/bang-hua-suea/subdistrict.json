@@ -1,0 +1,61 @@
+{
+  "id": "110406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางหัวเสือ",
+    "en": "Bang Hua Suea",
+    "slug": "bang-hua-suea"
+  },
+  "code": {
+    "dopa": "110406"
+  },
+  "parent": {
+    "id": "1104",
+    "level": 2,
+    "name": {
+      "th": "พระประแดง",
+      "en": "Phra Pradaeng",
+      "slug": "phra-pradaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1104",
+      "level": 2,
+      "name": {
+        "th": "พระประแดง",
+        "en": "Phra Pradaeng",
+        "slug": "phra-pradaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "10130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.625",
+    "lon": "100.549"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-hua-suea-110406/"
+  }
+}

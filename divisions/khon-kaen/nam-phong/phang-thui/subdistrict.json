@@ -1,0 +1,61 @@
+{
+  "id": "400711",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พังทุย",
+    "en": "Phang Thui",
+    "slug": "phang-thui"
+  },
+  "code": {
+    "dopa": "400711"
+  },
+  "parent": {
+    "id": "4007",
+    "level": 2,
+    "name": {
+      "th": "น้ำพอง",
+      "en": "Nam Phong",
+      "slug": "nam-phong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4007",
+      "level": 2,
+      "name": {
+        "th": "น้ำพอง",
+        "en": "Nam Phong",
+        "slug": "nam-phong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "40140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.774",
+    "lon": "102.928"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phang-thui-400711/"
+  }
+}

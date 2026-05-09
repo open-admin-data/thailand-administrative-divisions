@@ -1,0 +1,61 @@
+{
+  "id": "730403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลำเหย",
+    "en": "Lam Hoei",
+    "slug": "lam-hoei"
+  },
+  "code": {
+    "dopa": "730403"
+  },
+  "parent": {
+    "id": "7304",
+    "level": 2,
+    "name": {
+      "th": "ดอนตูม",
+      "en": "Don Tum",
+      "slug": "don-tum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7304",
+      "level": 2,
+      "name": {
+        "th": "ดอนตูม",
+        "en": "Don Tum",
+        "slug": "don-tum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "73150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.957",
+    "lon": "100.044"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lam-hoei-730403/"
+  }
+}

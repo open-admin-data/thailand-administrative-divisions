@@ -1,0 +1,752 @@
+[
+  {
+    "id": "6005",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บรรพตพิสัย",
+      "en": "Banphot Phisai",
+      "slug": "banphot-phisai"
+    },
+    "code": {
+      "dopa": "6005"
+    },
+    "parent": {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 13,
+      "villages": 118
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.943",
+      "lon": "100.022"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/banphot-phisai-6005/"
+    }
+  },
+  {
+    "id": "6003",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ชุมแสง",
+      "en": "Chum Saeng",
+      "slug": "chum-saeng"
+    },
+    "code": {
+      "dopa": "6003"
+    },
+    "parent": {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 12,
+      "villages": 136
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.896",
+      "lon": "100.315"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/chum-saeng-6003/"
+    }
+  },
+  {
+    "id": "6015",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ชุมตาบง",
+      "en": "Chum Ta Bong",
+      "slug": "chum-ta-bong"
+    },
+    "code": {
+      "dopa": "6015"
+    },
+    "parent": {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 2,
+      "villages": 23
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.627",
+      "lon": "99.572"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/chum-ta-bong-6015/"
+    }
+  },
+  {
+    "id": "6006",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เก้าเลี้ยว",
+      "en": "Kao Liao",
+      "slug": "kao-liao"
+    },
+    "code": {
+      "dopa": "6006"
+    },
+    "parent": {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 5,
+      "villages": 43
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.849",
+      "lon": "100.085"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/kao-liao-6006/"
+    }
+  },
+  {
+    "id": "6002",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "โกรกพระ",
+      "en": "Krok Phra",
+      "slug": "krok-phra"
+    },
+    "code": {
+      "dopa": "6002"
+    },
+    "parent": {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 9,
+      "villages": 65
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.594",
+      "lon": "100.081"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/krok-phra-6002/"
+    }
+  },
+  {
+    "id": "6011",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ลาดยาว",
+      "en": "Lat Yao",
+      "slug": "lat-yao"
+    },
+    "code": {
+      "dopa": "6011"
+    },
+    "parent": {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 12,
+      "villages": 149
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.726",
+      "lon": "99.824"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/lat-yao-6011/"
+    }
+  },
+  {
+    "id": "6014",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "แม่เปิน",
+      "en": "Mae Poen",
+      "slug": "mae-poen"
+    },
+    "code": {
+      "dopa": "6014"
+    },
+    "parent": {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 1,
+      "villages": 24
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.738",
+      "lon": "99.294"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/mae-poen-6014/"
+    }
+  },
+  {
+    "id": "6013",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "แม่วงก์",
+      "en": "Mae Wong",
+      "slug": "mae-wong"
+    },
+    "code": {
+      "dopa": "6013"
+    },
+    "parent": {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 4,
+      "villages": 66
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.883",
+      "lon": "99.516"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/mae-wong-6013/"
+    }
+  },
+  {
+    "id": "6001",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เมืองนครสวรรค์",
+      "en": "Mueang Nakhon Sawan",
+      "slug": "mueang-nakhon-sawan"
+    },
+    "code": {
+      "dopa": "6001"
+    },
+    "parent": {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 17,
+      "villages": 243
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.734",
+      "lon": "100.140"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/mueang-nakhon-sawan-6001/"
+    }
+  },
+  {
+    "id": "6004",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "หนองบัว",
+      "en": "Nong Bua",
+      "slug": "nong-bua"
+    },
+    "code": {
+      "dopa": "6004"
+    },
+    "parent": {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 9,
+      "villages": 107
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.864",
+      "lon": "100.429"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/nong-bua-6004/"
+    }
+  },
+  {
+    "id": "6009",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ไพศาลี",
+      "en": "Phaisali",
+      "slug": "phaisali"
+    },
+    "code": {
+      "dopa": "6009"
+    },
+    "parent": {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 8,
+      "villages": 101
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.622",
+      "lon": "100.604"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/phaisali-6009/"
+    }
+  },
+  {
+    "id": "6010",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "พยุหะคีรี",
+      "en": "Phayuha Khiri",
+      "slug": "phayuha-khiri"
+    },
+    "code": {
+      "dopa": "6010"
+    },
+    "parent": {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 11,
+      "villages": 125
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.455",
+      "lon": "100.145"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/phayuha-khiri-6010/"
+    }
+  },
+  {
+    "id": "6012",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ตากฟ้า",
+      "en": "Tak Fa",
+      "slug": "tak-fa"
+    },
+    "code": {
+      "dopa": "6012"
+    },
+    "parent": {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 7,
+      "villages": 76
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.331",
+      "lon": "100.428"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/tak-fa-6012/"
+    }
+  },
+  {
+    "id": "6007",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ตาคลี",
+      "en": "Takhli",
+      "slug": "takhli"
+    },
+    "code": {
+      "dopa": "6007"
+    },
+    "parent": {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 10,
+      "villages": 147
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.175",
+      "lon": "100.393"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/takhli-6007/"
+    }
+  },
+  {
+    "id": "6008",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ท่าตะโก",
+      "en": "Tha Tako",
+      "slug": "tha-tako"
+    },
+    "code": {
+      "dopa": "6008"
+    },
+    "parent": {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 10,
+      "villages": 112
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.631",
+      "lon": "100.480"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/tha-tako-6008/"
+    }
+  }
+]

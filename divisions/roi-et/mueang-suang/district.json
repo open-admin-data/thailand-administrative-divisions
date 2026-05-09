@@ -1,0 +1,50 @@
+{
+  "id": "4512",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองสรวง",
+    "en": "Mueang Suang",
+    "slug": "mueang-suang"
+  },
+  "code": {
+    "dopa": "4512"
+  },
+  "parent": {
+    "id": "45",
+    "level": 1,
+    "name": {
+      "th": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 49
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.817",
+    "lon": "103.755"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-suang-4512/"
+  }
+}

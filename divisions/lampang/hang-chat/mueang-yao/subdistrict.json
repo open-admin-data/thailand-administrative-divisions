@@ -1,0 +1,61 @@
+{
+  "id": "521203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองยาว",
+    "en": "Mueang Yao",
+    "slug": "mueang-yao"
+  },
+  "code": {
+    "dopa": "521203"
+  },
+  "parent": {
+    "id": "5212",
+    "level": 2,
+    "name": {
+      "th": "ห้างฉัตร",
+      "en": "Hang Chat",
+      "slug": "hang-chat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5212",
+      "level": 2,
+      "name": {
+        "th": "ห้างฉัตร",
+        "en": "Hang Chat",
+        "slug": "hang-chat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "52190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.269",
+    "lon": "99.200"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-yao-521203/"
+  }
+}

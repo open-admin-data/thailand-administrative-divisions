@@ -1,0 +1,50 @@
+{
+  "id": "8204",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ตะกั่วทุ่ง",
+    "en": "Takua Thung",
+    "slug": "takua-thung"
+  },
+  "code": {
+    "dopa": "8204"
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "th": "พังงา",
+      "en": "Phangnga",
+      "slug": "phangnga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 68
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.409",
+    "lon": "98.412"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/takua-thung-8204/"
+  }
+}

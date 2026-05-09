@@ -1,0 +1,38 @@
+{
+  "id": "80",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "นครศรีธรรมราช",
+    "en": "Nakhon Si Thammarat",
+    "slug": "nakhon-si-thammarat"
+  },
+  "code": {
+    "dopa": "80",
+    "iso": "TH-80"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 23,
+    "subdistricts": 169,
+    "villages": 1636
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern"
+    }
+  },
+  "geo": {
+    "lat": "9.324",
+    "lon": "99.775"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/nakhon-si-thammarat-80/"
+  }
+}

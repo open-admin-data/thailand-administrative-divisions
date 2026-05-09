@@ -1,0 +1,61 @@
+{
+  "id": "190210",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชะอม",
+    "en": "Cha-om",
+    "slug": "cha-om"
+  },
+  "code": {
+    "dopa": "190210"
+  },
+  "parent": {
+    "id": "1902",
+    "level": 2,
+    "name": {
+      "th": "แก่งคอย",
+      "en": "Kaeng Khoi",
+      "slug": "kaeng-khoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1902",
+      "level": 2,
+      "name": {
+        "th": "แก่งคอย",
+        "en": "Kaeng Khoi",
+        "slug": "kaeng-khoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "18110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.418",
+    "lon": "101.134"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/cha-om-190210/"
+  }
+}

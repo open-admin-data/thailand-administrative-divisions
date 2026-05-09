@@ -1,0 +1,61 @@
+{
+  "id": "250705",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงบัง",
+    "en": "Dong Bang",
+    "slug": "dong-bang"
+  },
+  "code": {
+    "dopa": "250705"
+  },
+  "parent": {
+    "id": "2507",
+    "level": 2,
+    "name": {
+      "th": "ประจันตคาม",
+      "en": "Prachantakham",
+      "slug": "prachantakham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "th": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri"
+      }
+    },
+    {
+      "id": "2507",
+      "level": 2,
+      "name": {
+        "th": "ประจันตคาม",
+        "en": "Prachantakham",
+        "slug": "prachantakham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "25130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.020",
+    "lon": "101.579"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-bang-250705/"
+  }
+}

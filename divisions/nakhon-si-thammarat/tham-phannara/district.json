@@ -1,0 +1,50 @@
+{
+  "id": "8018",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ถ้ำพรรณรา",
+    "en": "Tham Phannara",
+    "slug": "tham-phannara"
+  },
+  "code": {
+    "dopa": "8018"
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "th": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 29
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.414",
+    "lon": "99.373"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tham-phannara-8018/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "530403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เด่นเหล็ก",
+    "en": "Den Lek",
+    "slug": "den-lek"
+  },
+  "code": {
+    "dopa": "530403"
+  },
+  "parent": {
+    "id": "5304",
+    "level": 2,
+    "name": {
+      "th": "น้ำปาด",
+      "en": "Nam Pat",
+      "slug": "nam-pat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5304",
+      "level": 2,
+      "name": {
+        "th": "น้ำปาด",
+        "en": "Nam Pat",
+        "slug": "nam-pat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "53110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.820",
+    "lon": "100.788"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/den-lek-530403/"
+  }
+}

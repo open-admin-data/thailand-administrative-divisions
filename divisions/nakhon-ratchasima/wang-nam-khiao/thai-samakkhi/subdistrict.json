@@ -1,0 +1,61 @@
+{
+  "id": "302505",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไทยสามัคคี",
+    "en": "Thai Samakkhi",
+    "slug": "thai-samakkhi"
+  },
+  "code": {
+    "dopa": "302505"
+  },
+  "parent": {
+    "id": "3025",
+    "level": 2,
+    "name": {
+      "th": "วังน้ำเขียว",
+      "en": "Wang Nam Khiao",
+      "slug": "wang-nam-khiao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3025",
+      "level": 2,
+      "name": {
+        "th": "วังน้ำเขียว",
+        "en": "Wang Nam Khiao",
+        "slug": "wang-nam-khiao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "30370"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.353",
+    "lon": "101.966"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thai-samakkhi-302505/"
+  }
+}

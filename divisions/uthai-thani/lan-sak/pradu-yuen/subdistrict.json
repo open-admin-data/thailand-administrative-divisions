@@ -1,0 +1,61 @@
+{
+  "id": "610702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ประดู่ยืน",
+    "en": "Pradu Yuen",
+    "slug": "pradu-yuen"
+  },
+  "code": {
+    "dopa": "610702"
+  },
+  "parent": {
+    "id": "6107",
+    "level": 2,
+    "name": {
+      "th": "ลานสัก",
+      "en": "Lan Sak",
+      "slug": "lan-sak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6107",
+      "level": 2,
+      "name": {
+        "th": "ลานสัก",
+        "en": "Lan Sak",
+        "slug": "lan-sak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "61160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.452",
+    "lon": "99.643"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pradu-yuen-610702/"
+  }
+}

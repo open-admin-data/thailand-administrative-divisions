@@ -1,0 +1,61 @@
+{
+  "id": "540305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากกาง",
+    "en": "Pak Kang",
+    "slug": "pak-kang"
+  },
+  "code": {
+    "dopa": "540305"
+  },
+  "parent": {
+    "id": "5403",
+    "level": 2,
+    "name": {
+      "th": "ลอง",
+      "en": "Long",
+      "slug": "long"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    {
+      "id": "5403",
+      "level": 2,
+      "name": {
+        "th": "ลอง",
+        "en": "Long",
+        "slug": "long"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "54150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.042",
+    "lon": "99.811"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-kang-540305/"
+  }
+}

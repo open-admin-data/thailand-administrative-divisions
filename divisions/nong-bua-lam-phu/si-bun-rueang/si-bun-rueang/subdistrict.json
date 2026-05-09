@@ -1,0 +1,61 @@
+{
+  "id": "390402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีบุญเรือง",
+    "en": "Si Bun Rueang",
+    "slug": "si-bun-rueang"
+  },
+  "code": {
+    "dopa": "390402"
+  },
+  "parent": {
+    "id": "3904",
+    "level": 2,
+    "name": {
+      "th": "ศรีบุญเรือง",
+      "en": "Si Bun Rueang",
+      "slug": "si-bun-rueang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3904",
+      "level": 2,
+      "name": {
+        "th": "ศรีบุญเรือง",
+        "en": "Si Bun Rueang",
+        "slug": "si-bun-rueang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "39180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.922",
+    "lon": "102.302"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-bun-rueang-390402/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "460108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บึงวิชัย",
+    "en": "Bueng Wichai",
+    "slug": "bueng-wichai"
+  },
+  "code": {
+    "dopa": "460108"
+  },
+  "parent": {
+    "id": "4601",
+    "level": 2,
+    "name": {
+      "th": "เมืองกาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4601",
+      "level": 2,
+      "name": {
+        "th": "เมืองกาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "46000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.500",
+    "lon": "103.499"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bueng-wichai-460108/"
+  }
+}

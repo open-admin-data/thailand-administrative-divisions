@@ -1,0 +1,61 @@
+{
+  "id": "820305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "รมณีย์",
+    "en": "Rommani",
+    "slug": "rommani"
+  },
+  "code": {
+    "dopa": "820305"
+  },
+  "parent": {
+    "id": "8203",
+    "level": 2,
+    "name": {
+      "th": "กะปง",
+      "en": "Kapong",
+      "slug": "kapong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8203",
+      "level": 2,
+      "name": {
+        "th": "กะปง",
+        "en": "Kapong",
+        "slug": "kapong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "82170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.829",
+    "lon": "98.501"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rommani-820305/"
+  }
+}

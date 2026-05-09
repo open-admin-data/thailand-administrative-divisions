@@ -1,0 +1,952 @@
+[
+  {
+    "id": "8413",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บ้านนาเดิม",
+      "en": "Ban Na Doem",
+      "slug": "ban-na-doem"
+    },
+    "code": {
+      "dopa": "8413"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 4,
+      "villages": 30
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.947",
+      "lon": "99.269"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/ban-na-doem-8413/"
+    }
+  },
+  {
+    "id": "8412",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บ้านนาสาร",
+      "en": "Ban Na San",
+      "slug": "ban-na-san"
+    },
+    "code": {
+      "dopa": "8412"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 11,
+      "villages": 90
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.749",
+      "lon": "99.348"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/ban-na-san-8412/"
+    }
+  },
+  {
+    "id": "8409",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บ้านตาขุน",
+      "en": "Ban Ta Khun",
+      "slug": "ban-ta-khun"
+    },
+    "code": {
+      "dopa": "8409"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 4,
+      "villages": 29
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.949",
+      "lon": "98.896"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/ban-ta-khun-8409/"
+    }
+  },
+  {
+    "id": "8418",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ชัยบุรี",
+      "en": "Chai Buri",
+      "slug": "chai-buri"
+    },
+    "code": {
+      "dopa": "8418"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 4,
+      "villages": 37
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.434",
+      "lon": "99.071"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/chai-buri-8418/"
+    }
+  },
+  {
+    "id": "8406",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ไชยา",
+      "en": "Chaiya",
+      "slug": "chaiya"
+    },
+    "code": {
+      "dopa": "8406"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 9,
+      "villages": 54
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "9.391",
+      "lon": "99.198"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/chaiya-8406/"
+    }
+  },
+  {
+    "id": "8403",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ดอนสัก",
+      "en": "Don Sak",
+      "slug": "don-sak"
+    },
+    "code": {
+      "dopa": "8403"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 4,
+      "villages": 49
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "9.310",
+      "lon": "99.660"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/don-sak-8403/"
+    }
+  },
+  {
+    "id": "8402",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "กาญจนดิษฐ์",
+      "en": "Kanchanadit",
+      "slug": "kanchanadit"
+    },
+    "code": {
+      "dopa": "8402"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 13,
+      "villages": 117
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "9.181",
+      "lon": "99.465"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/kanchanadit-8402/"
+    }
+  },
+  {
+    "id": "8414",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เคียนซา",
+      "en": "Khian Sa",
+      "slug": "khian-sa"
+    },
+    "code": {
+      "dopa": "8414"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 5,
+      "villages": 51
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.845",
+      "lon": "99.251"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/khian-sa-8414/"
+    }
+  },
+  {
+    "id": "8408",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "คีรีรัฐนิคม",
+      "en": "Khiri Rat Nikhom",
+      "slug": "khiri-rat-nikhom"
+    },
+    "code": {
+      "dopa": "8408"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 8,
+      "villages": 85
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "9.063",
+      "lon": "99.025"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/khiri-rat-nikhom-8408/"
+    }
+  },
+  {
+    "id": "8405",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เกาะพะงัน",
+      "en": "Ko Pha-ngan",
+      "slug": "ko-pha-ngan"
+    },
+    "code": {
+      "dopa": "8405"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 2,
+      "villages": 14
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "9.802",
+      "lon": "99.979"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/ko-pha-ngan-8405/"
+    }
+  },
+  {
+    "id": "8404",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เกาะสมุย",
+      "en": "Ko Samui",
+      "slug": "ko-samui"
+    },
+    "code": {
+      "dopa": "8404"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 7,
+      "villages": 156
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "9.708",
+      "lon": "99.675"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/ko-samui-8404/"
+    }
+  },
+  {
+    "id": "8401",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เมืองสุราษฎร์ธานี",
+      "en": "Mueang Surat Thani",
+      "slug": "mueang-surat-thani"
+    },
+    "code": {
+      "dopa": "8401"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 11,
+      "villages": 129
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "9.137",
+      "lon": "99.320"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/mueang-surat-thani-8401/"
+    }
+  },
+  {
+    "id": "8410",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "พนม",
+      "en": "Phanom",
+      "slug": "phanom"
+    },
+    "code": {
+      "dopa": "8410"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 6,
+      "villages": 56
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.878",
+      "lon": "98.806"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/phanom-8410/"
+    }
+  },
+  {
+    "id": "8416",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "พระแสง",
+      "en": "Phrasaeng",
+      "slug": "phrasaeng"
+    },
+    "code": {
+      "dopa": "8416"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 7,
+      "villages": 74
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.590",
+      "lon": "99.166"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/phrasaeng-8416/"
+    }
+  },
+  {
+    "id": "8417",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "พุนพิน",
+      "en": "Phunphin",
+      "slug": "phunphin"
+    },
+    "code": {
+      "dopa": "8417"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 16,
+      "villages": 121
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "9.125",
+      "lon": "99.199"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/phunphin-8417/"
+    }
+  },
+  {
+    "id": "8407",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ท่าชนะ",
+      "en": "Tha Chana",
+      "slug": "tha-chana"
+    },
+    "code": {
+      "dopa": "8407"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 6,
+      "villages": 82
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "9.593",
+      "lon": "99.183"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/tha-chana-8407/"
+    }
+  },
+  {
+    "id": "8411",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ท่าฉาง",
+      "en": "Tha Chang",
+      "slug": "tha-chang"
+    },
+    "code": {
+      "dopa": "8411"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 6,
+      "villages": 46
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "9.258",
+      "lon": "99.175"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/tha-chang-8411/"
+    }
+  },
+  {
+    "id": "8419",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "วิภาวดี",
+      "en": "Vibhavadi",
+      "slug": "vibhavadi"
+    },
+    "code": {
+      "dopa": "8419"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 2,
+      "villages": 31
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "9.227",
+      "lon": "98.807"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/vibhavadi-8419/"
+    }
+  },
+  {
+    "id": "8415",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เวียงสระ",
+      "en": "Wiang Sa",
+      "slug": "wiang-sa"
+    },
+    "code": {
+      "dopa": "8415"
+    },
+    "parent": {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 5,
+      "villages": 64
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.649",
+      "lon": "99.342"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/wiang-sa-8415/"
+    }
+  }
+]

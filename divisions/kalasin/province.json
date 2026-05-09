@@ -1,0 +1,38 @@
+{
+  "id": "46",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "กาฬสินธุ์",
+    "en": "Kalasin",
+    "slug": "kalasin"
+  },
+  "code": {
+    "dopa": "46",
+    "iso": "TH-46"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 18,
+    "subdistricts": 134,
+    "villages": 1625
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "Northeastern"
+    }
+  },
+  "geo": {
+    "lat": "16.266",
+    "lon": "103.737"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/kalasin-46/"
+  }
+}

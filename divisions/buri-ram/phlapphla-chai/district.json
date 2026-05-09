@@ -1,0 +1,50 @@
+{
+  "id": "3115",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พลับพลาชัย",
+    "en": "Phlapphla Chai",
+    "slug": "phlapphla-chai"
+  },
+  "code": {
+    "dopa": "3115"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 67
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.717",
+    "lon": "103.241"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phlapphla-chai-3115/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "9014",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บางกล่ำ",
+    "en": "Bang Klam",
+    "slug": "bang-klam"
+  },
+  "code": {
+    "dopa": "9014"
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "th": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 36
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.075",
+    "lon": "100.450"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-klam-9014/"
+  }
+}

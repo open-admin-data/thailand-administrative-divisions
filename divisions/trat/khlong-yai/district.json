@@ -1,0 +1,50 @@
+{
+  "id": "2302",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "คลองใหญ่",
+    "en": "Khlong Yai",
+    "slug": "khlong-yai"
+  },
+  "code": {
+    "dopa": "2302"
+  },
+  "parent": {
+    "id": "23",
+    "level": 1,
+    "name": {
+      "th": "ตราด",
+      "en": "Trat",
+      "slug": "trat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "th": "ตราด",
+        "en": "Trat",
+        "slug": "trat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 20
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "11.699",
+    "lon": "102.909"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khlong-yai-2302/"
+  }
+}

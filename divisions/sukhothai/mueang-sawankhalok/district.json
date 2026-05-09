@@ -1,0 +1,50 @@
+{
+  "id": "6407",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สวรรคโลก",
+    "en": "Mueang Sawankhalok",
+    "slug": "mueang-sawankhalok"
+  },
+  "code": {
+    "dopa": "6407"
+  },
+  "parent": {
+    "id": "64",
+    "level": 1,
+    "name": {
+      "th": "สุโขทัย",
+      "en": "Sukhothai",
+      "slug": "sukhothai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 14,
+    "villages": 128
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.315",
+    "lon": "99.834"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-sawankhalok-6407/"
+  }
+}

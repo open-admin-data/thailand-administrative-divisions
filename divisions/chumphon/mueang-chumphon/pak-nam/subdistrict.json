@@ -1,0 +1,61 @@
+{
+  "id": "860102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากน้ำ",
+    "en": "Pak Nam",
+    "slug": "pak-nam"
+  },
+  "code": {
+    "dopa": "860102"
+  },
+  "parent": {
+    "id": "8601",
+    "level": 2,
+    "name": {
+      "th": "เมืองชุมพร",
+      "en": "Mueang Chumphon",
+      "slug": "mueang-chumphon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8601",
+      "level": 2,
+      "name": {
+        "th": "เมืองชุมพร",
+        "en": "Mueang Chumphon",
+        "slug": "mueang-chumphon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "86120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.414",
+    "lon": "99.245"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-nam-860102/"
+  }
+}

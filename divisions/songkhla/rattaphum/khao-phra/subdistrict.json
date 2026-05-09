@@ -1,0 +1,61 @@
+{
+  "id": "900909",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาพระ",
+    "en": "Khao Phra",
+    "slug": "khao-phra"
+  },
+  "code": {
+    "dopa": "900909"
+  },
+  "parent": {
+    "id": "9009",
+    "level": 2,
+    "name": {
+      "th": "รัตภูมิ",
+      "en": "Rattaphum",
+      "slug": "rattaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9009",
+      "level": 2,
+      "name": {
+        "th": "รัตภูมิ",
+        "en": "Rattaphum",
+        "slug": "rattaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "90180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.011",
+    "lon": "100.141"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-phra-900909/"
+  }
+}

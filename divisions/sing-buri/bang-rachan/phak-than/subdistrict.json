@@ -1,0 +1,61 @@
+{
+  "id": "170207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พักทัน",
+    "en": "Phak Than",
+    "slug": "phak-than"
+  },
+  "code": {
+    "dopa": "170207"
+  },
+  "parent": {
+    "id": "1702",
+    "level": 2,
+    "name": {
+      "th": "บางระจัน",
+      "en": "Bang Rachan",
+      "slug": "bang-rachan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1702",
+      "level": 2,
+      "name": {
+        "th": "บางระจัน",
+        "en": "Bang Rachan",
+        "slug": "bang-rachan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "16130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.924",
+    "lon": "100.220"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phak-than-170207/"
+  }
+}

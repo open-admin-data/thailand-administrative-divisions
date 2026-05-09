@@ -1,0 +1,61 @@
+{
+  "id": "550106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เรือง",
+    "en": "Rueang",
+    "slug": "rueang"
+  },
+  "code": {
+    "dopa": "550106"
+  },
+  "parent": {
+    "id": "5501",
+    "level": 2,
+    "name": {
+      "th": "เมืองน่าน",
+      "en": "Mueang Nan",
+      "slug": "mueang-nan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5501",
+      "level": 2,
+      "name": {
+        "th": "เมืองน่าน",
+        "en": "Mueang Nan",
+        "slug": "mueang-nan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "55000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.783",
+    "lon": "100.615"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rueang-550106/"
+  }
+}

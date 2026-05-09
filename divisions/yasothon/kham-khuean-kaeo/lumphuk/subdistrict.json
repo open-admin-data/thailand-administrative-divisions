@@ -1,0 +1,61 @@
+{
+  "id": "350401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลุมพุก",
+    "en": "Lumphuk",
+    "slug": "lumphuk"
+  },
+  "code": {
+    "dopa": "350401"
+  },
+  "parent": {
+    "id": "3504",
+    "level": 2,
+    "name": {
+      "th": "คำเขื่อนแก้ว",
+      "en": "Kham Khuean Kaeo",
+      "slug": "kham-khuean-kaeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3504",
+      "level": 2,
+      "name": {
+        "th": "คำเขื่อนแก้ว",
+        "en": "Kham Khuean Kaeo",
+        "slug": "kham-khuean-kaeo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "35110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.643",
+    "lon": "104.323"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lumphuk-350401/"
+  }
+}

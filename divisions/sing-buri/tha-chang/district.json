@@ -1,0 +1,50 @@
+{
+  "id": "1705",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ท่าช้าง",
+    "en": "Tha Chang",
+    "slug": "tha-chang"
+  },
+  "code": {
+    "dopa": "1705"
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "th": "สิงห์บุรี",
+      "en": "Sing Buri",
+      "slug": "sing-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 23
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.801",
+    "lon": "100.409"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tha-chang-1705/"
+  }
+}

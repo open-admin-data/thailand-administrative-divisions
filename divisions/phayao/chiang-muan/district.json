@@ -1,0 +1,50 @@
+{
+  "id": "5604",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เชียงม่วน",
+    "en": "Chiang Muan",
+    "slug": "chiang-muan"
+  },
+  "code": {
+    "dopa": "5604"
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "th": "พะเยา",
+      "en": "Phayao",
+      "slug": "phayao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 34
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.888",
+    "lon": "100.334"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chiang-muan-5604/"
+  }
+}

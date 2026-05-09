@@ -1,0 +1,61 @@
+{
+  "id": "270612",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ฟากห้วย",
+    "en": "Fak Huai",
+    "slug": "fak-huai"
+  },
+  "code": {
+    "dopa": "270612"
+  },
+  "parent": {
+    "id": "2706",
+    "level": 2,
+    "name": {
+      "th": "อรัญประเทศ",
+      "en": "Aranprathet",
+      "slug": "aranprathet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    },
+    {
+      "id": "2706",
+      "level": 2,
+      "name": {
+        "th": "อรัญประเทศ",
+        "en": "Aranprathet",
+        "slug": "aranprathet"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "27120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.646",
+    "lon": "102.480"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/fak-huai-270612/"
+  }
+}

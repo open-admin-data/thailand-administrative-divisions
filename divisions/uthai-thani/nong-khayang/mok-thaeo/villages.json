@@ -1,0 +1,185 @@
+[
+  {
+    "id": "61050701",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหมกแถว",
+      "en": "Ban Mok Thaeo",
+      "slug": "61050701"
+    },
+    "code": {
+      "dopa": "61050701"
+    },
+    "parent": {
+      "id": "610507",
+      "level": 3,
+      "name": {
+        "th": "หมกแถว",
+        "en": "Mok Thaeo",
+        "slug": "mok-thaeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "th": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani"
+        }
+      },
+      {
+        "id": "6105",
+        "level": 2,
+        "name": {
+          "th": "หนองขาหย่าง",
+          "en": "Nong Khayang",
+          "slug": "nong-khayang"
+        }
+      },
+      {
+        "id": "610507",
+        "level": 3,
+        "name": {
+          "th": "หมกแถว",
+          "en": "Mok Thaeo",
+          "slug": "mok-thaeo"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.34705320742701",
+      "lon": "99.98875826597214"
+    },
+    "source": {}
+  },
+  {
+    "id": "61050702",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองเขาขัน",
+      "en": "Ban Nong Khao Khan",
+      "slug": "61050702"
+    },
+    "code": {
+      "dopa": "61050702"
+    },
+    "parent": {
+      "id": "610507",
+      "level": 3,
+      "name": {
+        "th": "หมกแถว",
+        "en": "Mok Thaeo",
+        "slug": "mok-thaeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "th": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani"
+        }
+      },
+      {
+        "id": "6105",
+        "level": 2,
+        "name": {
+          "th": "หนองขาหย่าง",
+          "en": "Nong Khayang",
+          "slug": "nong-khayang"
+        }
+      },
+      {
+        "id": "610507",
+        "level": 3,
+        "name": {
+          "th": "หมกแถว",
+          "en": "Mok Thaeo",
+          "slug": "mok-thaeo"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.338591096765528",
+      "lon": "99.98644888401031"
+    },
+    "source": {}
+  },
+  {
+    "id": "61050703",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านทุ่งใหญ่",
+      "en": "Ban Thung Yai",
+      "slug": "61050703"
+    },
+    "code": {
+      "dopa": "61050703"
+    },
+    "parent": {
+      "id": "610507",
+      "level": 3,
+      "name": {
+        "th": "หมกแถว",
+        "en": "Mok Thaeo",
+        "slug": "mok-thaeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "th": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani"
+        }
+      },
+      {
+        "id": "6105",
+        "level": 2,
+        "name": {
+          "th": "หนองขาหย่าง",
+          "en": "Nong Khayang",
+          "slug": "nong-khayang"
+        }
+      },
+      {
+        "id": "610507",
+        "level": 3,
+        "name": {
+          "th": "หมกแถว",
+          "en": "Mok Thaeo",
+          "slug": "mok-thaeo"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.347311863516031",
+      "lon": "99.9740181863308"
+    },
+    "source": {}
+  }
+]

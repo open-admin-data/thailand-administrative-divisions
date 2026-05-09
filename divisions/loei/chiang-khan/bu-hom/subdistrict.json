@@ -1,0 +1,61 @@
+{
+  "id": "420306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บุฮม",
+    "en": "Bu Hom",
+    "slug": "bu-hom"
+  },
+  "code": {
+    "dopa": "420306"
+  },
+  "parent": {
+    "id": "4203",
+    "level": 2,
+    "name": {
+      "th": "เชียงคาน",
+      "en": "Chiang Khan",
+      "slug": "chiang-khan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4203",
+      "level": 2,
+      "name": {
+        "th": "เชียงคาน",
+        "en": "Chiang Khan",
+        "slug": "chiang-khan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "42110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.958",
+    "lon": "101.780"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bu-hom-420306/"
+  }
+}

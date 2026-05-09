@@ -1,0 +1,61 @@
+{
+  "id": "331606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งสว่าง",
+    "en": "Thung Sawang",
+    "slug": "thung-sawang"
+  },
+  "code": {
+    "dopa": "331606"
+  },
+  "parent": {
+    "id": "3316",
+    "level": 2,
+    "name": {
+      "th": "วังหิน",
+      "en": "Wang Hin",
+      "slug": "wang-hin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "th": "วังหิน",
+        "en": "Wang Hin",
+        "slug": "wang-hin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "33270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.018",
+    "lon": "104.224"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-sawang-331606/"
+  }
+}

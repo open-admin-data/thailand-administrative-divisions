@@ -1,0 +1,61 @@
+{
+  "id": "570803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านแซว",
+    "en": "Ban Saeo",
+    "slug": "ban-saeo"
+  },
+  "code": {
+    "dopa": "570803"
+  },
+  "parent": {
+    "id": "5708",
+    "level": 2,
+    "name": {
+      "th": "เชียงแสน",
+      "en": "Chiang Saen",
+      "slug": "chiang-saen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5708",
+      "level": 2,
+      "name": {
+        "th": "เชียงแสน",
+        "en": "Chiang Saen",
+        "slug": "chiang-saen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "57150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.212",
+    "lon": "100.265"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-saeo-570803/"
+  }
+}

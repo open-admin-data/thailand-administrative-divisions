@@ -1,0 +1,61 @@
+{
+  "id": "420507",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กกสะทอน",
+    "en": "Kok Sathon",
+    "slug": "kok-sathon"
+  },
+  "code": {
+    "dopa": "420507"
+  },
+  "parent": {
+    "id": "4205",
+    "level": 2,
+    "name": {
+      "th": "ด่านซ้าย",
+      "en": "Dan Sai",
+      "slug": "dan-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4205",
+      "level": 2,
+      "name": {
+        "th": "ด่านซ้าย",
+        "en": "Dan Sai",
+        "slug": "dan-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "42120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.041",
+    "lon": "101.090"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kok-sathon-420507/"
+  }
+}

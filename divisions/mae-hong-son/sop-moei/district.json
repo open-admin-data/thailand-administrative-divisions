@@ -1,0 +1,50 @@
+{
+  "id": "5806",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สบเมย",
+    "en": "Sop Moei",
+    "slug": "sop-moei"
+  },
+  "code": {
+    "dopa": "5806"
+  },
+  "parent": {
+    "id": "58",
+    "level": 1,
+    "name": {
+      "th": "แม่ฮ่องสอน",
+      "en": "Mae Hong Son",
+      "slug": "mae-hong-son"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 58
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.113",
+    "lon": "98.166"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sop-moei-5806/"
+  }
+}

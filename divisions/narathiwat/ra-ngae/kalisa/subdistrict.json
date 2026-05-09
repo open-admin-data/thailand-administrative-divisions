@@ -1,0 +1,61 @@
+{
+  "id": "960507",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กาลิชา",
+    "en": "Kalisa",
+    "slug": "kalisa"
+  },
+  "code": {
+    "dopa": "960507"
+  },
+  "parent": {
+    "id": "9605",
+    "level": 2,
+    "name": {
+      "th": "ระแงะ",
+      "en": "Ra-ngae",
+      "slug": "ra-ngae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9605",
+      "level": 2,
+      "name": {
+        "th": "ระแงะ",
+        "en": "Ra-ngae",
+        "slug": "ra-ngae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "96130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.225",
+    "lon": "101.661"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kalisa-960507/"
+  }
+}

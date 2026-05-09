@@ -1,0 +1,50 @@
+{
+  "id": "6502",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "นครไทย",
+    "en": "Nakhon Thai",
+    "slug": "nakhon-thai"
+  },
+  "code": {
+    "dopa": "6502"
+  },
+  "parent": {
+    "id": "65",
+    "level": 1,
+    "name": {
+      "th": "พิษณุโลก",
+      "en": "Phitsanulok",
+      "slug": "phitsanulok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 145
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.126",
+    "lon": "100.839"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nakhon-thai-6502/"
+  }
+}

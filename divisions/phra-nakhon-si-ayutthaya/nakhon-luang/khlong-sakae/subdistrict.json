@@ -1,0 +1,61 @@
+{
+  "id": "140310",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองสะแก",
+    "en": "Khlong Sakae",
+    "slug": "khlong-sakae"
+  },
+  "code": {
+    "dopa": "140310"
+  },
+  "parent": {
+    "id": "1403",
+    "level": 2,
+    "name": {
+      "th": "นครหลวง",
+      "en": "Nakhon Luang",
+      "slug": "nakhon-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "th": "นครหลวง",
+        "en": "Nakhon Luang",
+        "slug": "nakhon-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "13260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.424",
+    "lon": "100.604"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-sakae-140310/"
+  }
+}

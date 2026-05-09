@@ -1,0 +1,61 @@
+{
+  "id": "102105",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง ท่าข้าม",
+    "en": "Tha Kham",
+    "slug": "tha-kham"
+  },
+  "code": {
+    "dopa": "102105"
+  },
+  "parent": {
+    "id": "1021",
+    "level": 2,
+    "name": {
+      "th": "เขต บางขุนเทียน",
+      "en": "Bang Khun Thian",
+      "slug": "bang-khun-thian"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1021",
+      "level": 2,
+      "name": {
+        "th": "เขต บางขุนเทียน",
+        "en": "Bang Khun Thian",
+        "slug": "bang-khun-thian"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10150"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.555",
+    "lon": "100.434"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-kham-102105/"
+  }
+}

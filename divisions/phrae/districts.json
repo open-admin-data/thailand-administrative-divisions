@@ -1,0 +1,402 @@
+[
+  {
+    "id": "5405",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เด่นชัย",
+      "en": "Den Chai",
+      "slug": "den-chai"
+    },
+    "code": {
+      "dopa": "5405"
+    },
+    "parent": {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "54",
+        "level": 1,
+        "name": {
+          "th": "แพร่",
+          "en": "Phrae",
+          "slug": "phrae"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 5,
+      "villages": 52
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.973",
+      "lon": "100.040"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/den-chai-5405/"
+    }
+  },
+  {
+    "id": "5403",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ลอง",
+      "en": "Long",
+      "slug": "long"
+    },
+    "code": {
+      "dopa": "5403"
+    },
+    "parent": {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "54",
+        "level": 1,
+        "name": {
+          "th": "แพร่",
+          "en": "Phrae",
+          "slug": "phrae"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 9,
+      "villages": 90
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.042",
+      "lon": "99.811"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/long-5403/"
+    }
+  },
+  {
+    "id": "5401",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เมืองแพร่",
+      "en": "Mueang Phrae",
+      "slug": "mueang-phrae"
+    },
+    "code": {
+      "dopa": "5401"
+    },
+    "parent": {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "54",
+        "level": 1,
+        "name": {
+          "th": "แพร่",
+          "en": "Phrae",
+          "slug": "phrae"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 20,
+      "villages": 184
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.140",
+      "lon": "100.142"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/mueang-phrae-5401/"
+    }
+  },
+  {
+    "id": "5408",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "หนองม่วงไข่",
+      "en": "Nong Muang Khai",
+      "slug": "nong-muang-khai"
+    },
+    "code": {
+      "dopa": "5408"
+    },
+    "parent": {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "54",
+        "level": 1,
+        "name": {
+          "th": "แพร่",
+          "en": "Phrae",
+          "slug": "phrae"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 6,
+      "villages": 35
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.271",
+      "lon": "100.218"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/nong-muang-khai-5408/"
+    }
+  },
+  {
+    "id": "5402",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ร้องกวาง",
+      "en": "Rong Kwang",
+      "slug": "rong-kwang"
+    },
+    "code": {
+      "dopa": "5402"
+    },
+    "parent": {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "54",
+        "level": 1,
+        "name": {
+          "th": "แพร่",
+          "en": "Phrae",
+          "slug": "phrae"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 11,
+      "villages": 93
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.304",
+      "lon": "100.257"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/rong-kwang-5402/"
+    }
+  },
+  {
+    "id": "5406",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "สอง",
+      "en": "Song",
+      "slug": "song"
+    },
+    "code": {
+      "dopa": "5406"
+    },
+    "parent": {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "54",
+        "level": 1,
+        "name": {
+          "th": "แพร่",
+          "en": "Phrae",
+          "slug": "phrae"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 8,
+      "villages": 85
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.365",
+      "lon": "100.198"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/song-5406/"
+    }
+  },
+  {
+    "id": "5404",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "สูงเม่น",
+      "en": "Sung Men",
+      "slug": "sung-men"
+    },
+    "code": {
+      "dopa": "5404"
+    },
+    "parent": {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "54",
+        "level": 1,
+        "name": {
+          "th": "แพร่",
+          "en": "Phrae",
+          "slug": "phrae"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 12,
+      "villages": 110
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.090",
+      "lon": "100.168"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/sung-men-5404/"
+    }
+  },
+  {
+    "id": "5407",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "วังชิ้น",
+      "en": "Wang Chin",
+      "slug": "wang-chin"
+    },
+    "code": {
+      "dopa": "5407"
+    },
+    "parent": {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "54",
+        "level": 1,
+        "name": {
+          "th": "แพร่",
+          "en": "Phrae",
+          "slug": "phrae"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 7,
+      "villages": 77
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.945",
+      "lon": "99.556"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/wang-chin-5407/"
+    }
+  }
+]

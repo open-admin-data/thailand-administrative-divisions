@@ -1,0 +1,61 @@
+{
+  "id": "452001",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งเขาหลวง",
+    "en": "Thung Khao Luang",
+    "slug": "thung-khao-luang"
+  },
+  "code": {
+    "dopa": "452001"
+  },
+  "parent": {
+    "id": "4520",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งเขาหลวง",
+      "en": "Thung Khao Luang",
+      "slug": "thung-khao-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4520",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งเขาหลวง",
+        "en": "Thung Khao Luang",
+        "slug": "thung-khao-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "45170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.032",
+    "lon": "103.853"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-khao-luang-452001/"
+  }
+}

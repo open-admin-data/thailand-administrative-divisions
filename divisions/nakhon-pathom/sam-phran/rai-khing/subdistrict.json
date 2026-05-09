@@ -1,0 +1,61 @@
+{
+  "id": "730608",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไร่ขิง",
+    "en": "Rai Khing",
+    "slug": "rai-khing"
+  },
+  "code": {
+    "dopa": "730608"
+  },
+  "parent": {
+    "id": "7306",
+    "level": 2,
+    "name": {
+      "th": "สามพราน",
+      "en": "Sam Phran",
+      "slug": "sam-phran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "th": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 42
+  },
+  "zip_codes": [
+    "73210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.737",
+    "lon": "100.283"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rai-khing-730608/"
+  }
+}

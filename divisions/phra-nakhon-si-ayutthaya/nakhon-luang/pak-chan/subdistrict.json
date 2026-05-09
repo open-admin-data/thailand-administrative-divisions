@@ -1,0 +1,61 @@
+{
+  "id": "140305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากจั่น",
+    "en": "Pak Chan",
+    "slug": "pak-chan"
+  },
+  "code": {
+    "dopa": "140305"
+  },
+  "parent": {
+    "id": "1403",
+    "level": 2,
+    "name": {
+      "th": "นครหลวง",
+      "en": "Nakhon Luang",
+      "slug": "nakhon-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "th": "นครหลวง",
+        "en": "Nakhon Luang",
+        "slug": "nakhon-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "13260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.440",
+    "lon": "100.620"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-chan-140305/"
+  }
+}

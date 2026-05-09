@@ -1,0 +1,61 @@
+{
+  "id": "600901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกเดื่อ",
+    "en": "Khok Duea",
+    "slug": "khok-duea"
+  },
+  "code": {
+    "dopa": "600901"
+  },
+  "parent": {
+    "id": "6009",
+    "level": 2,
+    "name": {
+      "th": "ไพศาลี",
+      "en": "Phaisali",
+      "slug": "phaisali"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6009",
+      "level": 2,
+      "name": {
+        "th": "ไพศาลี",
+        "en": "Phaisali",
+        "slug": "phaisali"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "60220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.622",
+    "lon": "100.604"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-duea-600901/"
+  }
+}

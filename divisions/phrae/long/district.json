@@ -1,0 +1,50 @@
+{
+  "id": "5403",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ลอง",
+    "en": "Long",
+    "slug": "long"
+  },
+  "code": {
+    "dopa": "5403"
+  },
+  "parent": {
+    "id": "54",
+    "level": 1,
+    "name": {
+      "th": "แพร่",
+      "en": "Phrae",
+      "slug": "phrae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 90
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.042",
+    "lon": "99.811"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/long-5403/"
+  }
+}

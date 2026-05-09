@@ -1,0 +1,61 @@
+{
+  "id": "441107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองบัวสันตุ",
+    "en": "Nong Bua Santu",
+    "slug": "nong-bua-santu"
+  },
+  "code": {
+    "dopa": "441107"
+  },
+  "parent": {
+    "id": "4411",
+    "level": 2,
+    "name": {
+      "th": "ยางสีสุราช",
+      "en": "Yang Sisurat",
+      "slug": "yang-sisurat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4411",
+      "level": 2,
+      "name": {
+        "th": "ยางสีสุราช",
+        "en": "Yang Sisurat",
+        "slug": "yang-sisurat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "44210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.637",
+    "lon": "103.177"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-bua-santu-441107/"
+  }
+}

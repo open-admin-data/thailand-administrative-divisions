@@ -1,0 +1,61 @@
+{
+  "id": "551401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ม่วงตึ๊ด",
+    "en": "Muang Tuet",
+    "slug": "muang-tuet"
+  },
+  "code": {
+    "dopa": "551401"
+  },
+  "parent": {
+    "id": "5514",
+    "level": 2,
+    "name": {
+      "th": "ภูเพียง",
+      "en": "Phu Phiang",
+      "slug": "phu-phiang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5514",
+      "level": 2,
+      "name": {
+        "th": "ภูเพียง",
+        "en": "Phu Phiang",
+        "slug": "phu-phiang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "55000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.756",
+    "lon": "100.816"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/muang-tuet-551401/"
+  }
+}

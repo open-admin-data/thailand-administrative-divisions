@@ -1,0 +1,61 @@
+{
+  "id": "841502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านส้อง",
+    "en": "Ban Song",
+    "slug": "ban-song"
+  },
+  "code": {
+    "dopa": "841502"
+  },
+  "parent": {
+    "id": "8415",
+    "level": 2,
+    "name": {
+      "th": "เวียงสระ",
+      "en": "Wiang Sa",
+      "slug": "wiang-sa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8415",
+      "level": 2,
+      "name": {
+        "th": "เวียงสระ",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "84190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.645",
+    "lon": "99.420"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-song-841502/"
+  }
+}

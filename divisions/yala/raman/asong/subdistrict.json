@@ -1,0 +1,61 @@
+{
+  "id": "950615",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อาซ่อง",
+    "en": "Asong",
+    "slug": "asong"
+  },
+  "code": {
+    "dopa": "950615"
+  },
+  "parent": {
+    "id": "9506",
+    "level": 2,
+    "name": {
+      "th": "รามัน",
+      "en": "Raman",
+      "slug": "raman"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9506",
+      "level": 2,
+      "name": {
+        "th": "รามัน",
+        "en": "Raman",
+        "slug": "raman"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "95140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.520",
+    "lon": "101.451"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/asong-950615/"
+  }
+}

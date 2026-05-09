@@ -1,0 +1,61 @@
+{
+  "id": "100111",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง บางขุนพรหม",
+    "en": "Bang Khun Phrom",
+    "slug": "bang-khun-phrom"
+  },
+  "code": {
+    "dopa": "100111"
+  },
+  "parent": {
+    "id": "1001",
+    "level": 2,
+    "name": {
+      "th": "เขต พระนคร",
+      "en": "Khet Phra Nakhon",
+      "slug": "khet-phra-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1001",
+      "level": 2,
+      "name": {
+        "th": "เขต พระนคร",
+        "en": "Khet Phra Nakhon",
+        "slug": "khet-phra-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10200"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.765",
+    "lon": "100.505"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-khun-phrom-100111/"
+  }
+}

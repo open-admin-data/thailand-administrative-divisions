@@ -1,0 +1,61 @@
+{
+  "id": "461504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองช้าง",
+    "en": "Nong Chang",
+    "slug": "nong-chang"
+  },
+  "code": {
+    "dopa": "461504"
+  },
+  "parent": {
+    "id": "4615",
+    "level": 2,
+    "name": {
+      "th": "สามชัย",
+      "en": "Sam Chai",
+      "slug": "sam-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4615",
+      "level": 2,
+      "name": {
+        "th": "สามชัย",
+        "en": "Sam Chai",
+        "slug": "sam-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "46180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.913",
+    "lon": "103.571"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-chang-461504/"
+  }
+}

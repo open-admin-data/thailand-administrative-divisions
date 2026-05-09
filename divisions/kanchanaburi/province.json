@@ -1,0 +1,38 @@
+{
+  "id": "71",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "กาญจนบุรี",
+    "en": "Kanchanaburi",
+    "slug": "kanchanaburi"
+  },
+  "code": {
+    "dopa": "71",
+    "iso": "TH-71"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 13,
+    "subdistricts": 95,
+    "villages": 980
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันตก",
+      "en": "Western"
+    }
+  },
+  "geo": {
+    "lat": "13.954",
+    "lon": "99.752"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/kanchanaburi-71/"
+  }
+}

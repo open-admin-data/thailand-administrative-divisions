@@ -1,0 +1,50 @@
+{
+  "id": "8418",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ชัยบุรี",
+    "en": "Chai Buri",
+    "slug": "chai-buri"
+  },
+  "code": {
+    "dopa": "8418"
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "th": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 37
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.434",
+    "lon": "99.071"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chai-buri-8418/"
+  }
+}

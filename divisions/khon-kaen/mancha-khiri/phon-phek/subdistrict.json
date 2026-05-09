@@ -1,0 +1,61 @@
+{
+  "id": "401704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพนเพ็ก",
+    "en": "Phon Phek",
+    "slug": "phon-phek"
+  },
+  "code": {
+    "dopa": "401704"
+  },
+  "parent": {
+    "id": "4017",
+    "level": 2,
+    "name": {
+      "th": "มัญจาคีรี",
+      "en": "Mancha Khiri",
+      "slug": "mancha-khiri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4017",
+      "level": 2,
+      "name": {
+        "th": "มัญจาคีรี",
+        "en": "Mancha Khiri",
+        "slug": "mancha-khiri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "40160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.237",
+    "lon": "102.534"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phon-phek-401704/"
+  }
+}

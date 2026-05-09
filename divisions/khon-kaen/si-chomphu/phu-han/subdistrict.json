@@ -1,0 +1,61 @@
+{
+  "id": "400610",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ภูห่าน",
+    "en": "Phu Han",
+    "slug": "phu-han"
+  },
+  "code": {
+    "dopa": "400610"
+  },
+  "parent": {
+    "id": "4006",
+    "level": 2,
+    "name": {
+      "th": "สีชมพู",
+      "en": "Si Chomphu",
+      "slug": "si-chomphu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4006",
+      "level": 2,
+      "name": {
+        "th": "สีชมพู",
+        "en": "Si Chomphu",
+        "slug": "si-chomphu"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "40220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.720",
+    "lon": "102.046"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phu-han-400610/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "5108",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เวียงหนองล่อง",
+    "en": "Wiang Nong Long",
+    "slug": "wiang-nong-long"
+  },
+  "code": {
+    "dopa": "5108"
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "th": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 25
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.415",
+    "lon": "98.780"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wiang-nong-long-5108/"
+  }
+}

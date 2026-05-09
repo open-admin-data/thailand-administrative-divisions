@@ -1,0 +1,61 @@
+{
+  "id": "820104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางเตย",
+    "en": "Bang Toei",
+    "slug": "bang-toei"
+  },
+  "code": {
+    "dopa": "820104"
+  },
+  "parent": {
+    "id": "8201",
+    "level": 2,
+    "name": {
+      "th": "เมืองพังงา",
+      "en": "Mueang Phang-nga",
+      "slug": "mueang-phang-nga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8201",
+      "level": 2,
+      "name": {
+        "th": "เมืองพังงา",
+        "en": "Mueang Phang-nga",
+        "slug": "mueang-phang-nga"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "82000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.407",
+    "lon": "98.575"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-toei-820104/"
+  }
+}

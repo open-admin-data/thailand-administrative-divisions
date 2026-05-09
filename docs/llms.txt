@@ -1,0 +1,213 @@
+# Thailand Administrative Divisions
+
+> Open dataset of Thailand's complete 4-level administrative hierarchy:
+> 77 provinces, 928 districts, 7,364 subdistricts, 79,818 villages.
+> Bilingual (Thai + English). CC-BY-4.0 licensed.
+
+## Quick Reference
+
+- Total provinces: 77
+- Total districts: 928
+- Total subdistricts: 7,364
+- Total villages: 79,818
+- Zip codes: included (subdistrict level)
+- Coordinates: included (all levels, WGS84)
+- Last updated: 2026-05-09
+- License: CC-BY-4.0
+- Source: ThaiAddress.org
+
+## Aggregate Data Files
+
+- [All provinces (JSON)](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/data/all-provinces.json)
+- [All districts (JSON)](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/data/all-districts.json)
+- [All subdistricts (JSON)](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/data/all-subdistricts.json)
+- [All villages (JSON)](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/data/all-villages.json)
+- [Flat array (NDJSON streaming)](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/data/all-flat.ndjson)
+- [Hierarchy tree (JSON)](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/data/hierarchy.json)
+- [JSON Schema](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/data/schema.json)
+
+## Browse by Province
+
+- [กรุงเทพมหานคร (Bangkok)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/bangkok/) — 50 districts, 154 subdistricts
+- [สมุทรปราการ (Samut Prakan)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/samut-prakan/) — 6 districts, 50 subdistricts
+- [นนทบุรี (Nonthaburi)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/nonthaburi/) — 6 districts, 52 subdistricts
+- [ปทุมธานี (Pathum Thani)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/pathum-thani/) — 7 districts, 60 subdistricts
+- [พระนครศรีอยุธยา (Phra Nakhon Si Ayutthaya)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/phra-nakhon-si-ayutthaya/) — 16 districts, 207 subdistricts
+- [อ่างทอง (Ang Thong)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/ang-thong/) — 7 districts, 73 subdistricts
+- [ลพบุรี (Loburi)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/loburi/) — 11 districts, 121 subdistricts
+- [สิงห์บุรี (Sing Buri)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/sing-buri/) — 6 districts, 43 subdistricts
+- [ชัยนาท (Chai Nat)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/chai-nat/) — 8 districts, 53 subdistricts
+- [สระบุรี (Saraburi)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/saraburi/) — 13 districts, 109 subdistricts
+- [ชลบุรี (Chon Buri)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/chon-buri/) — 11 districts, 92 subdistricts
+- [ระยอง (Rayong)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/rayong/) — 8 districts, 56 subdistricts
+- [จันทบุรี (Chanthaburi)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/chanthaburi/) — 10 districts, 76 subdistricts
+- [ตราด (Trat)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/trat/) — 7 districts, 37 subdistricts
+- [ฉะเชิงเทรา (Chachoengsao)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/chachoengsao/) — 11 districts, 93 subdistricts
+- [ปราจีนบุรี (Prachin Buri)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/prachin-buri/) — 7 districts, 64 subdistricts
+- [นครนายก (Nakhon Nayok)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/nakhon-nayok/) — 4 districts, 41 subdistricts
+- [สระแก้ว (Sa Kaeo)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/sa-kaeo/) — 9 districts, 59 subdistricts
+- [นครราชสีมา (Nakhon Ratchasima)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/nakhon-ratchasima/) — 32 districts, 285 subdistricts
+- [บุรีรัมย์ (Buri Ram)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/buri-ram/) — 23 districts, 189 subdistricts
+- [สุรินทร์ (Surin)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/surin/) — 17 districts, 159 subdistricts
+- [ศรีสะเกษ (Si Sa Ket)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/si-sa-ket/) — 22 districts, 204 subdistricts
+- [อุบลราชธานี (Ubon Ratchathani)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/ubon-ratchathani/) — 25 districts, 219 subdistricts
+- [ยโสธร (Yasothon)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/yasothon/) — 9 districts, 79 subdistricts
+- [ชัยภูมิ (Chaiyaphum)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/chaiyaphum/) — 16 districts, 124 subdistricts
+- [อำนาจเจริญ (Amnat Charoen)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/amnat-charoen/) — 7 districts, 56 subdistricts
+- [บึงกาฬ (Buogkan)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/buogkan/) — 8 districts, 53 subdistricts
+- [หนองบัวลำภู (Nong Bua Lam Phu)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/nong-bua-lam-phu/) — 6 districts, 59 subdistricts
+- [ขอนแก่น (Khon Kaen)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/khon-kaen/) — 26 districts, 199 subdistricts
+- [อุดรธานี (Udon Thani)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/udon-thani/) — 20 districts, 155 subdistricts
+- [เลย (Loei)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/loei/) — 14 districts, 90 subdistricts
+- [หนองคาย (Nong Khai)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/nong-khai/) — 9 districts, 62 subdistricts
+- [มหาสารคาม (Maha Sarakham)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/maha-sarakham/) — 13 districts, 133 subdistricts
+- [ร้อยเอ็ด (Roi Et)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/roi-et/) — 20 districts, 192 subdistricts
+- [กาฬสินธุ์ (Kalasin)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/kalasin/) — 18 districts, 134 subdistricts
+- [สกลนคร (Sakon Nakhon)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/sakon-nakhon/) — 18 districts, 125 subdistricts
+- [นครพนม (Nakhon Phanom)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/nakhon-phanom/) — 12 districts, 95 subdistricts
+- [มุกดาหาร (Mukdahan)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/mukdahan/) — 7 districts, 53 subdistricts
+- [เชียงใหม่ (Chiang Mai)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/chiang-mai/) — 25 districts, 199 subdistricts
+- [ลำพูน (Lamphun)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/lamphun/) — 8 districts, 51 subdistricts
+- [ลำปาง (Lampang)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/lampang/) — 13 districts, 97 subdistricts
+- [อุตรดิตถ์ (Uttaradit)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/uttaradit/) — 9 districts, 67 subdistricts
+- [แพร่ (Phrae)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/phrae/) — 8 districts, 78 subdistricts
+- [น่าน (Nan)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/nan/) — 15 districts, 99 subdistricts
+- [พะเยา (Phayao)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/phayao/) — 9 districts, 68 subdistricts
+- [เชียงราย (Chiang Rai)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/chiang-rai/) — 18 districts, 123 subdistricts
+- [แม่ฮ่องสอน (Mae Hong Son)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/mae-hong-son/) — 7 districts, 44 subdistricts
+- [นครสวรรค์ (Nakhon Sawan)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/nakhon-sawan/) — 15 districts, 130 subdistricts
+- [อุทัยธานี (Uthai Thani)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/uthai-thani/) — 8 districts, 69 subdistricts
+- [กำแพงเพชร (Kamphaeng Phet)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/kamphaeng-phet/) — 11 districts, 78 subdistricts
+- [ตาก (Tak)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/tak/) — 9 districts, 60 subdistricts
+- [สุโขทัย (Sukhothai)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/sukhothai/) — 9 districts, 86 subdistricts
+- [พิษณุโลก (Phitsanulok)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/phitsanulok/) — 9 districts, 93 subdistricts
+- [พิจิตร (Phichit)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/phichit/) — 12 districts, 88 subdistricts
+- [เพชรบูรณ์ (Phetchabun)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/phetchabun/) — 11 districts, 116 subdistricts
+- [ราชบุรี (Ratchaburi)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/ratchaburi/) — 10 districts, 104 subdistricts
+- [กาญจนบุรี (Kanchanaburi)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/kanchanaburi/) — 13 districts, 95 subdistricts
+- [สุพรรณบุรี (Suphan Buri)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/suphan-buri/) — 10 districts, 109 subdistricts
+- [นครปฐม (Nakhon Pathom)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/nakhon-pathom/) — 7 districts, 106 subdistricts
+- [สมุทรสาคร (Samut Sakhon)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/samut-sakhon/) — 3 districts, 40 subdistricts
+- [สมุทรสงคราม (Samut Songkhram)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/samut-songkhram/) — 3 districts, 36 subdistricts
+- [เพชรบุรี (Phetchaburi)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/phetchaburi/) — 8 districts, 92 subdistricts
+- [ประจวบคีรีขันธ์ (Prachuap Khiri Khan)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/prachuap-khiri-khan/) — 8 districts, 48 subdistricts
+- [นครศรีธรรมราช (Nakhon Si Thammarat)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/nakhon-si-thammarat/) — 23 districts, 169 subdistricts
+- [กระบี่ (Krabi)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/krabi/) — 8 districts, 52 subdistricts
+- [พังงา (Phangnga)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/phangnga/) — 8 districts, 48 subdistricts
+- [ภูเก็ต (Phuket)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/phuket/) — 3 districts, 16 subdistricts
+- [สุราษฎร์ธานี (Surat Thani)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/surat-thani/) — 19 districts, 130 subdistricts
+- [ระนอง (Ranong)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/ranong/) — 5 districts, 30 subdistricts
+- [ชุมพร (Chumphon)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/chumphon/) — 8 districts, 70 subdistricts
+- [สงขลา (Songkhla)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/songkhla/) — 16 districts, 127 subdistricts
+- [สตูล (Satun)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/satun/) — 7 districts, 36 subdistricts
+- [ตรัง (Trang)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/trang/) — 10 districts, 90 subdistricts
+- [พัทลุง (Phatthalung)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/phatthalung/) — 11 districts, 65 subdistricts
+- [ปัตตานี (Pattani)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/pattani/) — 12 districts, 115 subdistricts
+- [ยะลา (Yala)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/yala/) — 8 districts, 58 subdistricts
+- [นราธิวาส (Narathiwat)](https://github.com/open-admin-data/thailand-administrative-divisions/tree/main/divisions/narathiwat/) — 13 districts, 77 subdistricts
+
+## Per-Province Full Data
+
+- [Bangkok](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/bangkok.txt) — 50 districts
+- [Samut Prakan](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/samut-prakan.txt) — 6 districts
+- [Nonthaburi](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/nonthaburi.txt) — 6 districts
+- [Pathum Thani](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/pathum-thani.txt) — 7 districts
+- [Phra Nakhon Si Ayutthaya](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/phra-nakhon-si-ayutthaya.txt) — 16 districts
+- [Ang Thong](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/ang-thong.txt) — 7 districts
+- [Loburi](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/loburi.txt) — 11 districts
+- [Sing Buri](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/sing-buri.txt) — 6 districts
+- [Chai Nat](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/chai-nat.txt) — 8 districts
+- [Saraburi](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/saraburi.txt) — 13 districts
+- [Chon Buri](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/chon-buri.txt) — 11 districts
+- [Rayong](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/rayong.txt) — 8 districts
+- [Chanthaburi](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/chanthaburi.txt) — 10 districts
+- [Trat](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/trat.txt) — 7 districts
+- [Chachoengsao](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/chachoengsao.txt) — 11 districts
+- [Prachin Buri](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/prachin-buri.txt) — 7 districts
+- [Nakhon Nayok](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/nakhon-nayok.txt) — 4 districts
+- [Sa Kaeo](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/sa-kaeo.txt) — 9 districts
+- [Nakhon Ratchasima](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/nakhon-ratchasima.txt) — 32 districts
+- [Buri Ram](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/buri-ram.txt) — 23 districts
+- [Surin](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/surin.txt) — 17 districts
+- [Si Sa Ket](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/si-sa-ket.txt) — 22 districts
+- [Ubon Ratchathani](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/ubon-ratchathani.txt) — 25 districts
+- [Yasothon](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/yasothon.txt) — 9 districts
+- [Chaiyaphum](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/chaiyaphum.txt) — 16 districts
+- [Amnat Charoen](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/amnat-charoen.txt) — 7 districts
+- [Buogkan](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/buogkan.txt) — 8 districts
+- [Nong Bua Lam Phu](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/nong-bua-lam-phu.txt) — 6 districts
+- [Khon Kaen](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/khon-kaen.txt) — 26 districts
+- [Udon Thani](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/udon-thani.txt) — 20 districts
+- [Loei](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/loei.txt) — 14 districts
+- [Nong Khai](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/nong-khai.txt) — 9 districts
+- [Maha Sarakham](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/maha-sarakham.txt) — 13 districts
+- [Roi Et](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/roi-et.txt) — 20 districts
+- [Kalasin](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/kalasin.txt) — 18 districts
+- [Sakon Nakhon](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/sakon-nakhon.txt) — 18 districts
+- [Nakhon Phanom](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/nakhon-phanom.txt) — 12 districts
+- [Mukdahan](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/mukdahan.txt) — 7 districts
+- [Chiang Mai](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/chiang-mai.txt) — 25 districts
+- [Lamphun](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/lamphun.txt) — 8 districts
+- [Lampang](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/lampang.txt) — 13 districts
+- [Uttaradit](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/uttaradit.txt) — 9 districts
+- [Phrae](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/phrae.txt) — 8 districts
+- [Nan](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/nan.txt) — 15 districts
+- [Phayao](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/phayao.txt) — 9 districts
+- [Chiang Rai](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/chiang-rai.txt) — 18 districts
+- [Mae Hong Son](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/mae-hong-son.txt) — 7 districts
+- [Nakhon Sawan](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/nakhon-sawan.txt) — 15 districts
+- [Uthai Thani](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/uthai-thani.txt) — 8 districts
+- [Kamphaeng Phet](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/kamphaeng-phet.txt) — 11 districts
+- [Tak](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/tak.txt) — 9 districts
+- [Sukhothai](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/sukhothai.txt) — 9 districts
+- [Phitsanulok](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/phitsanulok.txt) — 9 districts
+- [Phichit](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/phichit.txt) — 12 districts
+- [Phetchabun](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/phetchabun.txt) — 11 districts
+- [Ratchaburi](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/ratchaburi.txt) — 10 districts
+- [Kanchanaburi](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/kanchanaburi.txt) — 13 districts
+- [Suphan Buri](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/suphan-buri.txt) — 10 districts
+- [Nakhon Pathom](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/nakhon-pathom.txt) — 7 districts
+- [Samut Sakhon](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/samut-sakhon.txt) — 3 districts
+- [Samut Songkhram](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/samut-songkhram.txt) — 3 districts
+- [Phetchaburi](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/phetchaburi.txt) — 8 districts
+- [Prachuap Khiri Khan](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/prachuap-khiri-khan.txt) — 8 districts
+- [Nakhon Si Thammarat](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/nakhon-si-thammarat.txt) — 23 districts
+- [Krabi](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/krabi.txt) — 8 districts
+- [Phangnga](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/phangnga.txt) — 8 districts
+- [Phuket](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/phuket.txt) — 3 districts
+- [Surat Thani](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/surat-thani.txt) — 19 districts
+- [Ranong](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/ranong.txt) — 5 districts
+- [Chumphon](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/chumphon.txt) — 8 districts
+- [Songkhla](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/songkhla.txt) — 16 districts
+- [Satun](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/satun.txt) — 7 districts
+- [Trang](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/trang.txt) — 10 districts
+- [Phatthalung](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/phatthalung.txt) — 11 districts
+- [Pattani](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/pattani.txt) — 12 districts
+- [Yala](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/yala.txt) — 8 districts
+- [Narathiwat](https://raw.githubusercontent.com/open-admin-data/thailand-administrative-divisions/main/docs/llms-full/narathiwat.txt) — 13 districts
+
+## Schema Fields
+
+- id: Unique DOPA identifier
+- level: 1 (province), 2 (district), 3 (subdistrict), 4 (village)
+- name: Thai and English names with URL slug
+- code: Government codes (DOPA, ISO if applicable)
+- parent: Reference to parent division
+- ancestors: Full chain to root
+- children_count: Count of immediate children
+- zip_codes: Postal/zip codes (subdistrict level, array — may have multiple)
+- geo: Geographic coordinates (lat/lon, WGS84, all levels)
+- metadata: Special flags (Bangkok, region)
+- source: Original ThaiAddress.org URL
+
+## Citation
+
+Thailand Administrative Divisions Dataset (CC-BY-4.0)
+Author: jakkrapongt
+URL: https://github.com/open-admin-data/thailand-administrative-divisions
+Source: ThaiAddress.org
+
+## Related Repos
+
+- [thai-temples-knowledge](https://github.com/jakkrapongt/thai-temples-knowledge) — Thai temple addresses
+- [open-admin-data](https://github.com/open-admin-data) — Open admin data for ASEAN

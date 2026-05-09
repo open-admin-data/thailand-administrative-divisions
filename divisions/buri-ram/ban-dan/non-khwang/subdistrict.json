@@ -1,0 +1,61 @@
+{
+  "id": "312104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนขวาง",
+    "en": "Non Khwang",
+    "slug": "non-khwang"
+  },
+  "code": {
+    "dopa": "312104"
+  },
+  "parent": {
+    "id": "3121",
+    "level": 2,
+    "name": {
+      "th": "บ้านด่าน",
+      "en": "Ban Dan",
+      "slug": "ban-dan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3121",
+      "level": 2,
+      "name": {
+        "th": "บ้านด่าน",
+        "en": "Ban Dan",
+        "slug": "ban-dan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "31000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.191",
+    "lon": "103.157"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-khwang-312104/"
+  }
+}

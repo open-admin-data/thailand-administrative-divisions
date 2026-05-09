@@ -1,0 +1,61 @@
+{
+  "id": "460203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สงเปลือย",
+    "en": "Song Plueai",
+    "slug": "song-plueai"
+  },
+  "code": {
+    "dopa": "460203"
+  },
+  "parent": {
+    "id": "4602",
+    "level": 2,
+    "name": {
+      "th": "นามน",
+      "en": "Na Mon",
+      "slug": "na-mon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4602",
+      "level": 2,
+      "name": {
+        "th": "นามน",
+        "en": "Na Mon",
+        "slug": "na-mon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "46230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.624",
+    "lon": "103.793"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/song-plueai-460203/"
+  }
+}

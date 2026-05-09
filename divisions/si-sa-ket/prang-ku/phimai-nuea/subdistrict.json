@@ -1,0 +1,61 @@
+{
+  "id": "330710",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พิมายเหนือ",
+    "en": "Phimai Nuea",
+    "slug": "phimai-nuea"
+  },
+  "code": {
+    "dopa": "330710"
+  },
+  "parent": {
+    "id": "3307",
+    "level": 2,
+    "name": {
+      "th": "ปรางค์กู่",
+      "en": "Prang Ku",
+      "slug": "prang-ku"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3307",
+      "level": 2,
+      "name": {
+        "th": "ปรางค์กู่",
+        "en": "Prang Ku",
+        "slug": "prang-ku"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "33170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.881",
+    "lon": "104.042"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phimai-nuea-330710/"
+  }
+}

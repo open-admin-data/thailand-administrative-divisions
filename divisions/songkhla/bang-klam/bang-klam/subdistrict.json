@@ -1,0 +1,61 @@
+{
+  "id": "901401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางกล่ำ",
+    "en": "Bang Klam",
+    "slug": "bang-klam"
+  },
+  "code": {
+    "dopa": "901401"
+  },
+  "parent": {
+    "id": "9014",
+    "level": 2,
+    "name": {
+      "th": "บางกล่ำ",
+      "en": "Bang Klam",
+      "slug": "bang-klam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9014",
+      "level": 2,
+      "name": {
+        "th": "บางกล่ำ",
+        "en": "Bang Klam",
+        "slug": "bang-klam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "90110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.135",
+    "lon": "100.446"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-klam-901401/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "900210",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อแดง",
+    "en": "Bo Daeng",
+    "slug": "bo-daeng"
+  },
+  "code": {
+    "dopa": "900210"
+  },
+  "parent": {
+    "id": "9002",
+    "level": 2,
+    "name": {
+      "th": "สทิงพระ",
+      "en": "Sathing Phra",
+      "slug": "sathing-phra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9002",
+      "level": 2,
+      "name": {
+        "th": "สทิงพระ",
+        "en": "Sathing Phra",
+        "slug": "sathing-phra"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "90190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.406",
+    "lon": "100.454"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-daeng-900210/"
+  }
+}

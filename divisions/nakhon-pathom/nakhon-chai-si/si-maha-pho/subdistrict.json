@@ -1,0 +1,61 @@
+{
+  "id": "730314",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีมหาโพธิ์",
+    "en": "Si Maha Pho",
+    "slug": "si-maha-pho"
+  },
+  "code": {
+    "dopa": "730314"
+  },
+  "parent": {
+    "id": "7303",
+    "level": 2,
+    "name": {
+      "th": "นครชัยศรี",
+      "en": "Nakhon Chai Si",
+      "slug": "nakhon-chai-si"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7303",
+      "level": 2,
+      "name": {
+        "th": "นครชัยศรี",
+        "en": "Nakhon Chai Si",
+        "slug": "nakhon-chai-si"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "73120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.889",
+    "lon": "100.155"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-maha-pho-730314/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "420501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ด่านซ้าย",
+    "en": "Dan Sai",
+    "slug": "dan-sai"
+  },
+  "code": {
+    "dopa": "420501"
+  },
+  "parent": {
+    "id": "4205",
+    "level": 2,
+    "name": {
+      "th": "ด่านซ้าย",
+      "en": "Dan Sai",
+      "slug": "dan-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4205",
+      "level": 2,
+      "name": {
+        "th": "ด่านซ้าย",
+        "en": "Dan Sai",
+        "slug": "dan-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "42120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.267",
+    "lon": "101.155"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dan-sai-420501/"
+  }
+}

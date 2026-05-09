@@ -1,0 +1,50 @@
+{
+  "id": "5210",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แม่ทะ",
+    "en": "Mae Tha",
+    "slug": "mae-tha"
+  },
+  "code": {
+    "dopa": "5210"
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "th": "ลำปาง",
+      "en": "Lampang",
+      "slug": "lampang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 95
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.122",
+    "lon": "99.477"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mae-tha-5210/"
+  }
+}

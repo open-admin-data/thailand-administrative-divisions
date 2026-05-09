@@ -1,0 +1,61 @@
+{
+  "id": "210310",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กองดิน",
+    "en": "Kong Din",
+    "slug": "kong-din"
+  },
+  "code": {
+    "dopa": "210310"
+  },
+  "parent": {
+    "id": "2103",
+    "level": 2,
+    "name": {
+      "th": "แกลง",
+      "en": "Klaeng",
+      "slug": "klaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "th": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "22160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.815",
+    "lon": "101.792"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kong-din-210310/"
+  }
+}

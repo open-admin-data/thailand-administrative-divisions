@@ -1,0 +1,61 @@
+{
+  "id": "520116",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อแฮ้ว",
+    "en": "Bo Haeo",
+    "slug": "bo-haeo"
+  },
+  "code": {
+    "dopa": "520116"
+  },
+  "parent": {
+    "id": "5201",
+    "level": 2,
+    "name": {
+      "th": "เมืองลำปาง",
+      "en": "Mueang Lampang",
+      "slug": "mueang-lampang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5201",
+      "level": 2,
+      "name": {
+        "th": "เมืองลำปาง",
+        "en": "Mueang Lampang",
+        "slug": "mueang-lampang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "52100"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.310",
+    "lon": "99.433"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-haeo-520116/"
+  }
+}

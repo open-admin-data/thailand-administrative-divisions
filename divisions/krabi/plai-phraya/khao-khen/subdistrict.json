@@ -1,0 +1,61 @@
+{
+  "id": "810602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาเขน",
+    "en": "Khao Khen",
+    "slug": "khao-khen"
+  },
+  "code": {
+    "dopa": "810602"
+  },
+  "parent": {
+    "id": "8106",
+    "level": 2,
+    "name": {
+      "th": "ปลายพระยา",
+      "en": "Plai Phraya",
+      "slug": "plai-phraya"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8106",
+      "level": 2,
+      "name": {
+        "th": "ปลายพระยา",
+        "en": "Plai Phraya",
+        "slug": "plai-phraya"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "81160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.560",
+    "lon": "98.798"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-khen-810602/"
+  }
+}

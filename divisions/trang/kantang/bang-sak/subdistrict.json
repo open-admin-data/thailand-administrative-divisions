@@ -1,0 +1,61 @@
+{
+  "id": "920211",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางสัก",
+    "en": "Bang Sak",
+    "slug": "bang-sak"
+  },
+  "code": {
+    "dopa": "920211"
+  },
+  "parent": {
+    "id": "9202",
+    "level": 2,
+    "name": {
+      "th": "กันตัง",
+      "en": "Kantang",
+      "slug": "kantang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "th": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "92110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.397",
+    "lon": "99.383"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-sak-920211/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "4408",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พยัคฆภูมิพิสัย",
+    "en": "Phayakkhaphum Phisai",
+    "slug": "phayakkhaphum-phisai"
+  },
+  "code": {
+    "dopa": "4408"
+  },
+  "parent": {
+    "id": "44",
+    "level": 1,
+    "name": {
+      "th": "มหาสารคาม",
+      "en": "Maha Sarakham",
+      "slug": "maha-sarakham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 14,
+    "villages": 214
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.506",
+    "lon": "103.310"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phayakkhaphum-phisai-4408/"
+  }
+}

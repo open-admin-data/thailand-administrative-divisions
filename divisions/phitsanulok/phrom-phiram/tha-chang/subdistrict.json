@@ -1,0 +1,61 @@
+{
+  "id": "650602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าช้าง",
+    "en": "Tha Chang",
+    "slug": "tha-chang"
+  },
+  "code": {
+    "dopa": "650602"
+  },
+  "parent": {
+    "id": "6506",
+    "level": 2,
+    "name": {
+      "th": "พรหมพิราม",
+      "en": "Phrom Phiram",
+      "slug": "phrom-phiram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6506",
+      "level": 2,
+      "name": {
+        "th": "พรหมพิราม",
+        "en": "Phrom Phiram",
+        "slug": "phrom-phiram"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "65150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.976",
+    "lon": "100.168"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-chang-650602/"
+  }
+}

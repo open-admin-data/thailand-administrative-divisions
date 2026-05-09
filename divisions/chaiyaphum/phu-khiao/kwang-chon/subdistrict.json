@@ -1,0 +1,61 @@
+{
+  "id": "361002",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กวางโจน",
+    "en": "Kwang Chon",
+    "slug": "kwang-chon"
+  },
+  "code": {
+    "dopa": "361002"
+  },
+  "parent": {
+    "id": "3610",
+    "level": 2,
+    "name": {
+      "th": "ภูเขียว",
+      "en": "Phu Khiao",
+      "slug": "phu-khiao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3610",
+      "level": 2,
+      "name": {
+        "th": "ภูเขียว",
+        "en": "Phu Khiao",
+        "slug": "phu-khiao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "36110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.282",
+    "lon": "102.232"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kwang-chon-361002/"
+  }
+}

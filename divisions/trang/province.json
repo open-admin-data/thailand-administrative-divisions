@@ -1,0 +1,38 @@
+{
+  "id": "92",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ตรัง",
+    "en": "Trang",
+    "slug": "trang"
+  },
+  "code": {
+    "dopa": "92",
+    "iso": "TH-92"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 10,
+    "subdistricts": 90,
+    "villages": 809
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern"
+    }
+  },
+  "geo": {
+    "lat": "7.033",
+    "lon": "99.449"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/trang-92/"
+  }
+}

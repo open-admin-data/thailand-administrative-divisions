@@ -1,0 +1,61 @@
+{
+  "id": "521102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สมัย",
+    "en": "Samai",
+    "slug": "samai"
+  },
+  "code": {
+    "dopa": "521102"
+  },
+  "parent": {
+    "id": "5211",
+    "level": 2,
+    "name": {
+      "th": "สบปราบ",
+      "en": "Sop Prap",
+      "slug": "sop-prap"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5211",
+      "level": 2,
+      "name": {
+        "th": "สบปราบ",
+        "en": "Sop Prap",
+        "slug": "sop-prap"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "52170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.900",
+    "lon": "99.421"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samai-521102/"
+  }
+}

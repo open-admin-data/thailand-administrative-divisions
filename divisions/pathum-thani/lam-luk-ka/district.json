@@ -1,0 +1,50 @@
+{
+  "id": "1306",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ลำลูกกา",
+    "en": "Lam Luk Ka",
+    "slug": "lam-luk-ka"
+  },
+  "code": {
+    "dopa": "1306"
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 209
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.955",
+    "lon": "100.641"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/lam-luk-ka-1306/"
+  }
+}

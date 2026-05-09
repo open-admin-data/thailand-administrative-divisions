@@ -1,0 +1,61 @@
+{
+  "id": "901301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "รัตภูมิ",
+    "en": "Rattaphum",
+    "slug": "rattaphum"
+  },
+  "code": {
+    "dopa": "901301"
+  },
+  "parent": {
+    "id": "9013",
+    "level": 2,
+    "name": {
+      "th": "ควนเนียง",
+      "en": "Khuan Niang",
+      "slug": "khuan-niang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9013",
+      "level": 2,
+      "name": {
+        "th": "ควนเนียง",
+        "en": "Khuan Niang",
+        "slug": "khuan-niang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "90220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.182",
+    "lon": "100.370"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rattaphum-901301/"
+  }
+}

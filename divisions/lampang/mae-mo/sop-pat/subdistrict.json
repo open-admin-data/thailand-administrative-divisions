@@ -1,0 +1,61 @@
+{
+  "id": "520205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สบป้าน",
+    "en": "Sop Pat",
+    "slug": "sop-pat"
+  },
+  "code": {
+    "dopa": "520205"
+  },
+  "parent": {
+    "id": "5202",
+    "level": 2,
+    "name": {
+      "th": "แม่เมาะ",
+      "en": "Mae Mo",
+      "slug": "mae-mo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5202",
+      "level": 2,
+      "name": {
+        "th": "แม่เมาะ",
+        "en": "Mae Mo",
+        "slug": "mae-mo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "52220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.250",
+    "lon": "99.807"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sop-pat-520205/"
+  }
+}

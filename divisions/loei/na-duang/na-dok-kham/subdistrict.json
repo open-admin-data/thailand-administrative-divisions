@@ -1,0 +1,61 @@
+{
+  "id": "420202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาดอกคำ",
+    "en": "Na Dok Kham",
+    "slug": "na-dok-kham"
+  },
+  "code": {
+    "dopa": "420202"
+  },
+  "parent": {
+    "id": "4202",
+    "level": 2,
+    "name": {
+      "th": "นาด้วง",
+      "en": "Na Duang",
+      "slug": "na-duang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4202",
+      "level": 2,
+      "name": {
+        "th": "นาด้วง",
+        "en": "Na Duang",
+        "slug": "na-duang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "42210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.591",
+    "lon": "101.990"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-dok-kham-420202/"
+  }
+}

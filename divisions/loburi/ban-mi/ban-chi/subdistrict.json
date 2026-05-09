@@ -1,0 +1,61 @@
+{
+  "id": "160605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านชี",
+    "en": "Ban Chi",
+    "slug": "ban-chi"
+  },
+  "code": {
+    "dopa": "160605"
+  },
+  "parent": {
+    "id": "1606",
+    "level": 2,
+    "name": {
+      "th": "บ้านหมี่",
+      "en": "Ban Mi",
+      "slug": "ban-mi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1606",
+      "level": 2,
+      "name": {
+        "th": "บ้านหมี่",
+        "en": "Ban Mi",
+        "slug": "ban-mi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "15180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.947",
+    "lon": "100.500"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-chi-160605/"
+  }
+}

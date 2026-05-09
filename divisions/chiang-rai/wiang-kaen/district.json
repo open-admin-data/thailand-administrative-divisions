@@ -1,0 +1,50 @@
+{
+  "id": "5713",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เวียงแก่น",
+    "en": "Wiang Kaen",
+    "slug": "wiang-kaen"
+  },
+  "code": {
+    "dopa": "5713"
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 41
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.042",
+    "lon": "100.520"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wiang-kaen-5713/"
+  }
+}

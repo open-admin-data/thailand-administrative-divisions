@@ -1,0 +1,61 @@
+{
+  "id": "610506",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าโพ",
+    "en": "Tha Pho",
+    "slug": "tha-pho"
+  },
+  "code": {
+    "dopa": "610506"
+  },
+  "parent": {
+    "id": "6105",
+    "level": 2,
+    "name": {
+      "th": "หนองขาหย่าง",
+      "en": "Nong Khayang",
+      "slug": "nong-khayang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6105",
+      "level": 2,
+      "name": {
+        "th": "หนองขาหย่าง",
+        "en": "Nong Khayang",
+        "slug": "nong-khayang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "61130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.369",
+    "lon": "99.984"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-pho-610506/"
+  }
+}

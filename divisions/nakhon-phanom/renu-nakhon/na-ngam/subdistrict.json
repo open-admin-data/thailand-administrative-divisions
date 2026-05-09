@@ -1,0 +1,61 @@
+{
+  "id": "480604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นางาม",
+    "en": "Na Ngam",
+    "slug": "na-ngam"
+  },
+  "code": {
+    "dopa": "480604"
+  },
+  "parent": {
+    "id": "4806",
+    "level": 2,
+    "name": {
+      "th": "เรณูนคร",
+      "en": "Renu Nakhon",
+      "slug": "renu-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4806",
+      "level": 2,
+      "name": {
+        "th": "เรณูนคร",
+        "en": "Renu Nakhon",
+        "slug": "renu-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "48170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.106",
+    "lon": "104.672"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-ngam-480604/"
+  }
+}

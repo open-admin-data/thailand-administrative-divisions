@@ -1,0 +1,50 @@
+{
+  "id": "6605",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บางมูลนาก",
+    "en": "Bang Mun Nak",
+    "slug": "bang-mun-nak"
+  },
+  "code": {
+    "dopa": "6605"
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "th": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 78
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.033",
+    "lon": "100.479"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-mun-nak-6605/"
+  }
+}

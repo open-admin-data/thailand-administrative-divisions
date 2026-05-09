@@ -1,0 +1,50 @@
+{
+  "id": "3209",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ศีขรภูมิ",
+    "en": "Sikhoraphum",
+    "slug": "sikhoraphum"
+  },
+  "code": {
+    "dopa": "3209"
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "th": "สุรินทร์",
+      "en": "Surin",
+      "slug": "surin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 15,
+    "villages": 228
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.984",
+    "lon": "103.829"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sikhoraphum-3209/"
+  }
+}

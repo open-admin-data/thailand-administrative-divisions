@@ -1,0 +1,61 @@
+{
+  "id": "130306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บึงน้ำรักษ์",
+    "en": "Bueng Nam Rak",
+    "slug": "bueng-nam-rak"
+  },
+  "code": {
+    "dopa": "130306"
+  },
+  "parent": {
+    "id": "1303",
+    "level": 2,
+    "name": {
+      "th": "ธัญบุรี",
+      "en": "Thanyaburi",
+      "slug": "thanyaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "th": "ธัญบุรี",
+        "en": "Thanyaburi",
+        "slug": "thanyaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 26
+  },
+  "zip_codes": [
+    "12110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.071",
+    "lon": "100.880"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bueng-nam-rak-130306/"
+  }
+}

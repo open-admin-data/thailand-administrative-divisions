@@ -1,0 +1,61 @@
+{
+  "id": "460501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บัวขาว",
+    "en": "Bua Khao",
+    "slug": "bua-khao"
+  },
+  "code": {
+    "dopa": "460501"
+  },
+  "parent": {
+    "id": "4605",
+    "level": 2,
+    "name": {
+      "th": "กุฉินารายณ์",
+      "en": "Kuchinarai",
+      "slug": "kuchinarai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4605",
+      "level": 2,
+      "name": {
+        "th": "กุฉินารายณ์",
+        "en": "Kuchinarai",
+        "slug": "kuchinarai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 28
+  },
+  "zip_codes": [
+    "46110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.521",
+    "lon": "104.055"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bua-khao-460501/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "120604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางพูด",
+    "en": "Bang Phut",
+    "slug": "bang-phut"
+  },
+  "code": {
+    "dopa": "120604"
+  },
+  "parent": {
+    "id": "1206",
+    "level": 2,
+    "name": {
+      "th": "ปากเกร็ด",
+      "en": "Pak Kret",
+      "slug": "pak-kret"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "th": "ปากเกร็ด",
+        "en": "Pak Kret",
+        "slug": "pak-kret"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "11120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.927",
+    "lon": "100.516"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-phut-120604/"
+  }
+}

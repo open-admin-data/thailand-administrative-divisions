@@ -1,0 +1,61 @@
+{
+  "id": "770301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทับสะแก",
+    "en": "Thap Sakae",
+    "slug": "thap-sakae"
+  },
+  "code": {
+    "dopa": "770301"
+  },
+  "parent": {
+    "id": "7703",
+    "level": 2,
+    "name": {
+      "th": "ทับสะแก",
+      "en": "Thap Sakae",
+      "slug": "thap-sakae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    },
+    {
+      "id": "7703",
+      "level": 2,
+      "name": {
+        "th": "ทับสะแก",
+        "en": "Thap Sakae",
+        "slug": "thap-sakae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "77130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "11.516",
+    "lon": "99.627"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thap-sakae-770301/"
+  }
+}

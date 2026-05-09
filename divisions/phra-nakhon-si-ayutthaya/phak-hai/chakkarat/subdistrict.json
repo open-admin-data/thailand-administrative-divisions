@@ -1,0 +1,61 @@
+{
+  "id": "140812",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "จักราช",
+    "en": "Chakkarat",
+    "slug": "chakkarat"
+  },
+  "code": {
+    "dopa": "140812"
+  },
+  "parent": {
+    "id": "1408",
+    "level": 2,
+    "name": {
+      "th": "ผักไห่",
+      "en": "Phak Hai",
+      "slug": "phak-hai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "th": "ผักไห่",
+        "en": "Phak Hai",
+        "slug": "phak-hai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "13280"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.447",
+    "lon": "100.340"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chakkarat-140812/"
+  }
+}

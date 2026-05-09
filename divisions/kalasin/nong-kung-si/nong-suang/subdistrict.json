@@ -1,0 +1,61 @@
+{
+  "id": "461204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองสรวง",
+    "en": "Nong Suang",
+    "slug": "nong-suang"
+  },
+  "code": {
+    "dopa": "461204"
+  },
+  "parent": {
+    "id": "4612",
+    "level": 2,
+    "name": {
+      "th": "หนองกุงศรี",
+      "en": "Nong Kung Si",
+      "slug": "nong-kung-si"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4612",
+      "level": 2,
+      "name": {
+        "th": "หนองกุงศรี",
+        "en": "Nong Kung Si",
+        "slug": "nong-kung-si"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "46220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.770",
+    "lon": "103.422"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-suang-461204/"
+  }
+}

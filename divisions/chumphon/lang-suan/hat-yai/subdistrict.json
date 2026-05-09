@@ -1,0 +1,61 @@
+{
+  "id": "860413",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หาดยาย",
+    "en": "Hat Yai",
+    "slug": "hat-yai"
+  },
+  "code": {
+    "dopa": "860413"
+  },
+  "parent": {
+    "id": "8604",
+    "level": 2,
+    "name": {
+      "th": "หลังสวน",
+      "en": "Lang Suan",
+      "slug": "lang-suan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8604",
+      "level": 2,
+      "name": {
+        "th": "หลังสวน",
+        "en": "Lang Suan",
+        "slug": "lang-suan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "86110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.960",
+    "lon": "98.956"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hat-yai-860413/"
+  }
+}

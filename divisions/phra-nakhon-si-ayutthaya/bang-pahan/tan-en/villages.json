@@ -1,0 +1,185 @@
+[
+  {
+    "id": "14071601",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านโรง",
+      "en": "Ban Rong",
+      "slug": "14071601"
+    },
+    "code": {
+      "dopa": "14071601"
+    },
+    "parent": {
+      "id": "140716",
+      "level": 3,
+      "name": {
+        "th": "ตาลเอน",
+        "en": "Tan En",
+        "slug": "tan-en"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      },
+      {
+        "id": "1407",
+        "level": 2,
+        "name": {
+          "th": "บางปะหัน",
+          "en": "Bang Pahan",
+          "slug": "bang-pahan"
+        }
+      },
+      {
+        "id": "140716",
+        "level": 3,
+        "name": {
+          "th": "ตาลเอน",
+          "en": "Tan En",
+          "slug": "tan-en"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.519078978786334",
+      "lon": "100.56133881211281"
+    },
+    "source": {}
+  },
+  {
+    "id": "14071602",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านใหม่",
+      "en": "Ban Mai",
+      "slug": "14071602"
+    },
+    "code": {
+      "dopa": "14071602"
+    },
+    "parent": {
+      "id": "140716",
+      "level": 3,
+      "name": {
+        "th": "ตาลเอน",
+        "en": "Tan En",
+        "slug": "tan-en"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      },
+      {
+        "id": "1407",
+        "level": 2,
+        "name": {
+          "th": "บางปะหัน",
+          "en": "Bang Pahan",
+          "slug": "bang-pahan"
+        }
+      },
+      {
+        "id": "140716",
+        "level": 3,
+        "name": {
+          "th": "ตาลเอน",
+          "en": "Tan En",
+          "slug": "tan-en"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.521646952383456",
+      "lon": "100.55875986814499"
+    },
+    "source": {}
+  },
+  {
+    "id": "14071603",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านตาลเอน",
+      "en": "Ban Tan En",
+      "slug": "14071603"
+    },
+    "code": {
+      "dopa": "14071603"
+    },
+    "parent": {
+      "id": "140716",
+      "level": 3,
+      "name": {
+        "th": "ตาลเอน",
+        "en": "Tan En",
+        "slug": "tan-en"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      },
+      {
+        "id": "1407",
+        "level": 2,
+        "name": {
+          "th": "บางปะหัน",
+          "en": "Bang Pahan",
+          "slug": "bang-pahan"
+        }
+      },
+      {
+        "id": "140716",
+        "level": 3,
+        "name": {
+          "th": "ตาลเอน",
+          "en": "Tan En",
+          "slug": "tan-en"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.520430479223444",
+      "lon": "100.55467620491982"
+    },
+    "source": {}
+  }
+]

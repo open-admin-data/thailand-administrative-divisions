@@ -1,0 +1,61 @@
+{
+  "id": "800905",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาไม้ไผ่",
+    "en": "Na Mai Phai",
+    "slug": "na-mai-phai"
+  },
+  "code": {
+    "dopa": "800905"
+  },
+  "parent": {
+    "id": "8009",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งสง",
+      "en": "Thung Song",
+      "slug": "thung-song"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8009",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งสง",
+        "en": "Thung Song",
+        "slug": "thung-song"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "80110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.119",
+    "lon": "99.590"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-mai-phai-800905/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "412302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาทราย",
+    "en": "Na Sai",
+    "slug": "na-sai"
+  },
+  "code": {
+    "dopa": "412302"
+  },
+  "parent": {
+    "id": "4123",
+    "level": 2,
+    "name": {
+      "th": "พิบูลย์รักษ์",
+      "en": "Phibun Rak",
+      "slug": "phibun-rak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4123",
+      "level": 2,
+      "name": {
+        "th": "พิบูลย์รักษ์",
+        "en": "Phibun Rak",
+        "slug": "phibun-rak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "41130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.563",
+    "lon": "103.123"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-sai-412302/"
+  }
+}

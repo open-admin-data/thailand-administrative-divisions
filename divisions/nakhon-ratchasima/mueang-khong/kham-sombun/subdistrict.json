@@ -1,0 +1,61 @@
+{
+  "id": "300410",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขามสมบูรณ์",
+    "en": "Kham Sombun",
+    "slug": "kham-sombun"
+  },
+  "code": {
+    "dopa": "300410"
+  },
+  "parent": {
+    "id": "3004",
+    "level": 2,
+    "name": {
+      "th": "คง",
+      "en": "Mueang Khong",
+      "slug": "mueang-khong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3004",
+      "level": 2,
+      "name": {
+        "th": "คง",
+        "en": "Mueang Khong",
+        "slug": "mueang-khong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "30260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.371",
+    "lon": "102.403"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kham-sombun-300410/"
+  }
+}

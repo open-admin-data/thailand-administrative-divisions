@@ -1,0 +1,61 @@
+{
+  "id": "160803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งท่าช้าง",
+    "en": "Thung Tha Chang",
+    "slug": "thung-tha-chang"
+  },
+  "code": {
+    "dopa": "160803"
+  },
+  "parent": {
+    "id": "1608",
+    "level": 2,
+    "name": {
+      "th": "สระโบสถ์",
+      "en": "Sa Bot",
+      "slug": "sa-bot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1608",
+      "level": 2,
+      "name": {
+        "th": "สระโบสถ์",
+        "en": "Sa Bot",
+        "slug": "sa-bot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "15240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.169",
+    "lon": "100.817"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-tha-chang-160803/"
+  }
+}

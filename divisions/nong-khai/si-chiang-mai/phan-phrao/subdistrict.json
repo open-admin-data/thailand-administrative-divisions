@@ -1,0 +1,61 @@
+{
+  "id": "430701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พานพร้าว",
+    "en": "Phan Phrao",
+    "slug": "phan-phrao"
+  },
+  "code": {
+    "dopa": "430701"
+  },
+  "parent": {
+    "id": "4307",
+    "level": 2,
+    "name": {
+      "th": "ศรีเชียงใหม่",
+      "en": "Si Chiang Mai",
+      "slug": "si-chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4307",
+      "level": 2,
+      "name": {
+        "th": "ศรีเชียงใหม่",
+        "en": "Si Chiang Mai",
+        "slug": "si-chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "43130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.942",
+    "lon": "102.594"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phan-phrao-430701/"
+  }
+}

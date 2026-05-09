@@ -1,0 +1,50 @@
+{
+  "id": "3803",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โซ่พิสัย",
+    "en": "So Phisai",
+    "slug": "so-phisai"
+  },
+  "code": {
+    "dopa": "3803"
+  },
+  "parent": {
+    "id": "38",
+    "level": 1,
+    "name": {
+      "th": "บึงกาฬ",
+      "en": "Buogkan",
+      "slug": "buogkan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 95
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.129",
+    "lon": "103.384"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/so-phisai-3803/"
+  }
+}

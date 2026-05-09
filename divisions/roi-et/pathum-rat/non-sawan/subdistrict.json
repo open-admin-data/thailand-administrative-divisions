@@ -1,0 +1,61 @@
+{
+  "id": "450305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนสวรรค์",
+    "en": "Non Sawan",
+    "slug": "non-sawan"
+  },
+  "code": {
+    "dopa": "450305"
+  },
+  "parent": {
+    "id": "4503",
+    "level": 2,
+    "name": {
+      "th": "ปทุมรัตต์",
+      "en": "Pathum Rat",
+      "slug": "pathum-rat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4503",
+      "level": 2,
+      "name": {
+        "th": "ปทุมรัตต์",
+        "en": "Pathum Rat",
+        "slug": "pathum-rat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "45190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.584",
+    "lon": "103.435"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-sawan-450305/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "6704",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หล่มเก่า",
+    "en": "Lom Kao",
+    "slug": "lom-kao"
+  },
+  "code": {
+    "dopa": "6704"
+  },
+  "parent": {
+    "id": "67",
+    "level": 1,
+    "name": {
+      "th": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 99
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.857",
+    "lon": "101.229"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/lom-kao-6704/"
+  }
+}

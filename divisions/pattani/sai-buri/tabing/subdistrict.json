@@ -1,0 +1,61 @@
+{
+  "id": "940702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตะบิ้ง",
+    "en": "Tabing",
+    "slug": "tabing"
+  },
+  "code": {
+    "dopa": "940702"
+  },
+  "parent": {
+    "id": "9407",
+    "level": 2,
+    "name": {
+      "th": "สายบุรี",
+      "en": "Sai Buri",
+      "slug": "sai-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9407",
+      "level": 2,
+      "name": {
+        "th": "สายบุรี",
+        "en": "Sai Buri",
+        "slug": "sai-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "94110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.681",
+    "lon": "101.589"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tabing-940702/"
+  }
+}

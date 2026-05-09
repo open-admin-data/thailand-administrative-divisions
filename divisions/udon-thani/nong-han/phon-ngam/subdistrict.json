@@ -1,0 +1,61 @@
+{
+  "id": "410611",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพนงาม",
+    "en": "Phon Ngam",
+    "slug": "phon-ngam"
+  },
+  "code": {
+    "dopa": "410611"
+  },
+  "parent": {
+    "id": "4106",
+    "level": 2,
+    "name": {
+      "th": "หนองหาน",
+      "en": "Nong Han",
+      "slug": "nong-han"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4106",
+      "level": 2,
+      "name": {
+        "th": "หนองหาน",
+        "en": "Nong Han",
+        "slug": "nong-han"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "41130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.360",
+    "lon": "102.968"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phon-ngam-410611/"
+  }
+}

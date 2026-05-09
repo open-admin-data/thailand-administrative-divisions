@@ -1,0 +1,61 @@
+{
+  "id": "140805",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตาลาน",
+    "en": "Ta Lan",
+    "slug": "ta-lan"
+  },
+  "code": {
+    "dopa": "140805"
+  },
+  "parent": {
+    "id": "1408",
+    "level": 2,
+    "name": {
+      "th": "ผักไห่",
+      "en": "Phak Hai",
+      "slug": "phak-hai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "th": "ผักไห่",
+        "en": "Phak Hai",
+        "slug": "phak-hai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "13120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.446",
+    "lon": "100.387"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ta-lan-140805/"
+  }
+}

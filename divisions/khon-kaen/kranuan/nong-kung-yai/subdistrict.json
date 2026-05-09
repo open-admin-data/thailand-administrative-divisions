@@ -1,0 +1,61 @@
+{
+  "id": "400902",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองกุงใหญ่",
+    "en": "Nong Kung Yai",
+    "slug": "nong-kung-yai"
+  },
+  "code": {
+    "dopa": "400902"
+  },
+  "parent": {
+    "id": "4009",
+    "level": 2,
+    "name": {
+      "th": "กระนวน",
+      "en": "Kranuan",
+      "slug": "kranuan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4009",
+      "level": 2,
+      "name": {
+        "th": "กระนวน",
+        "en": "Kranuan",
+        "slug": "kranuan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "40170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.646",
+    "lon": "103.086"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-kung-yai-400902/"
+  }
+}

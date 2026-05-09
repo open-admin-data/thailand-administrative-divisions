@@ -1,0 +1,61 @@
+{
+  "id": "910601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งหว้า",
+    "en": "Thung Wa",
+    "slug": "thung-wa"
+  },
+  "code": {
+    "dopa": "910601"
+  },
+  "parent": {
+    "id": "9106",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งหว้า",
+      "en": "Thung Wa",
+      "slug": "thung-wa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    },
+    {
+      "id": "9106",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งหว้า",
+        "en": "Thung Wa",
+        "slug": "thung-wa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "91120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.108",
+    "lon": "99.807"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-wa-910601/"
+  }
+}

@@ -1,0 +1,402 @@
+[
+  {
+    "id": "8203",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "กะปง",
+      "en": "Kapong",
+      "slug": "kapong"
+    },
+    "code": {
+      "dopa": "8203"
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "th": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 5,
+      "villages": 22
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.713",
+      "lon": "98.419"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/kapong-8203/"
+    }
+  },
+  {
+    "id": "8206",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "คุระบุรี",
+      "en": "Khura Buri",
+      "slug": "khura-buri"
+    },
+    "code": {
+      "dopa": "8206"
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "th": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 4,
+      "villages": 33
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "9.406",
+      "lon": "97.901"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/khura-buri-8206/"
+    }
+  },
+  {
+    "id": "8202",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เกาะยาว",
+      "en": "Ko Yao",
+      "slug": "ko-yao"
+    },
+    "code": {
+      "dopa": "8202"
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "th": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 3,
+      "villages": 18
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.892",
+      "lon": "98.581"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/ko-yao-8202/"
+    }
+  },
+  {
+    "id": "8201",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เมืองพังงา",
+      "en": "Mueang Phang-nga",
+      "slug": "mueang-phang-nga"
+    },
+    "code": {
+      "dopa": "8201"
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "th": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 9,
+      "villages": 51
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.446",
+      "lon": "98.524"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/mueang-phang-nga-8201/"
+    }
+  },
+  {
+    "id": "8205",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ตะกั่วป่า",
+      "en": "Takua Pa",
+      "slug": "takua-pa"
+    },
+    "code": {
+      "dopa": "8205"
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "th": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 8,
+      "villages": 58
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.829",
+      "lon": "98.362"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/takua-pa-8205/"
+    }
+  },
+  {
+    "id": "8204",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ตะกั่วทุ่ง",
+      "en": "Takua Thung",
+      "slug": "takua-thung"
+    },
+    "code": {
+      "dopa": "8204"
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "th": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 7,
+      "villages": 68
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.409",
+      "lon": "98.412"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/takua-thung-8204/"
+    }
+  },
+  {
+    "id": "8208",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ท้ายเหมือง",
+      "en": "Thai Mueang",
+      "slug": "thai-mueang"
+    },
+    "code": {
+      "dopa": "8208"
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "th": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 6,
+      "villages": 49
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.344",
+      "lon": "98.303"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/thai-mueang-8208/"
+    }
+  },
+  {
+    "id": "8207",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ทับปุด",
+      "en": "Thap Put",
+      "slug": "thap-put"
+    },
+    "code": {
+      "dopa": "8207"
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "th": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 6,
+      "villages": 38
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.543",
+      "lon": "98.664"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/thap-put-8207/"
+    }
+  }
+]

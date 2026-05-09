@@ -1,0 +1,61 @@
+{
+  "id": "530902",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อทอง",
+    "en": "Bo Thong",
+    "slug": "bo-thong"
+  },
+  "code": {
+    "dopa": "530902"
+  },
+  "parent": {
+    "id": "5309",
+    "level": 2,
+    "name": {
+      "th": "ทองแสนขัน",
+      "en": "Thong Saen Khan",
+      "slug": "thong-saen-khan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5309",
+      "level": 2,
+      "name": {
+        "th": "ทองแสนขัน",
+        "en": "Thong Saen Khan",
+        "slug": "thong-saen-khan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "53230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.444",
+    "lon": "100.356"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-thong-530902/"
+  }
+}

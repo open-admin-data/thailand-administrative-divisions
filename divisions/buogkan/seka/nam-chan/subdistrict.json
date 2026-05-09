@@ -1,0 +1,61 @@
+{
+  "id": "380406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำจั้น",
+    "en": "Nam Chan",
+    "slug": "nam-chan"
+  },
+  "code": {
+    "dopa": "380406"
+  },
+  "parent": {
+    "id": "3804",
+    "level": 2,
+    "name": {
+      "th": "เซกา",
+      "en": "Seka",
+      "slug": "seka"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3804",
+      "level": 2,
+      "name": {
+        "th": "เซกา",
+        "en": "Seka",
+        "slug": "seka"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "38150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.063",
+    "lon": "103.894"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-chan-380406/"
+  }
+}

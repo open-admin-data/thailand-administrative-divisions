@@ -1,0 +1,61 @@
+{
+  "id": "960204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศาลาใหม่",
+    "en": "Sala Mai",
+    "slug": "sala-mai"
+  },
+  "code": {
+    "dopa": "960204"
+  },
+  "parent": {
+    "id": "9602",
+    "level": 2,
+    "name": {
+      "th": "ตากใบ",
+      "en": "Tak Bai",
+      "slug": "tak-bai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9602",
+      "level": 2,
+      "name": {
+        "th": "ตากใบ",
+        "en": "Tak Bai",
+        "slug": "tak-bai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "96110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.282",
+    "lon": "102.008"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sala-mai-960204/"
+  }
+}

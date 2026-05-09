@@ -1,0 +1,124 @@
+[
+  {
+    "id": "104901",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง บางมด",
+      "en": "Bang Mot",
+      "slug": "bang-mot"
+    },
+    "code": {
+      "dopa": "104901"
+    },
+    "parent": {
+      "id": "1049",
+      "level": 2,
+      "name": {
+        "th": "เขต ทุ่งครุ",
+        "en": "Thung Khru",
+        "slug": "thung-khru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1049",
+        "level": 2,
+        "name": {
+          "th": "เขต ทุ่งครุ",
+          "en": "Thung Khru",
+          "slug": "thung-khru"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10140"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.651",
+      "lon": "100.510"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bang-mot-104901/"
+    }
+  },
+  {
+    "id": "104902",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง ทุ่งครุ",
+      "en": "Thung Khru",
+      "slug": "thung-khru"
+    },
+    "code": {
+      "dopa": "104902"
+    },
+    "parent": {
+      "id": "1049",
+      "level": 2,
+      "name": {
+        "th": "เขต ทุ่งครุ",
+        "en": "Thung Khru",
+        "slug": "thung-khru"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1049",
+        "level": 2,
+        "name": {
+          "th": "เขต ทุ่งครุ",
+          "en": "Thung Khru",
+          "slug": "thung-khru"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10140"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.614",
+      "lon": "100.497"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/thung-khru-104902/"
+    }
+  }
+]

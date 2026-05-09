@@ -1,0 +1,61 @@
+{
+  "id": "620509",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังไทร",
+    "en": "Wang Sai",
+    "slug": "wang-sai"
+  },
+  "code": {
+    "dopa": "620509"
+  },
+  "parent": {
+    "id": "6205",
+    "level": 2,
+    "name": {
+      "th": "คลองขลุง",
+      "en": "Khlong Khlung",
+      "slug": "khlong-khlung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6205",
+      "level": 2,
+      "name": {
+        "th": "คลองขลุง",
+        "en": "Khlong Khlung",
+        "slug": "khlong-khlung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "62120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.200",
+    "lon": "99.631"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-sai-620509/"
+  }
+}

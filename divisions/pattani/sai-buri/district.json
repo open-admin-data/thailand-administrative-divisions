@@ -1,0 +1,50 @@
+{
+  "id": "9407",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สายบุรี",
+    "en": "Sai Buri",
+    "slug": "sai-buri"
+  },
+  "code": {
+    "dopa": "9407"
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "th": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 84
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.764",
+    "lon": "101.591"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sai-buri-9407/"
+  }
+}

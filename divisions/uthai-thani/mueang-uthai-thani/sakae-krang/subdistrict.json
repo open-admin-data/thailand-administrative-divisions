@@ -1,0 +1,61 @@
+{
+  "id": "610103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สะแกกรัง",
+    "en": "Sakae Krang",
+    "slug": "sakae-krang"
+  },
+  "code": {
+    "dopa": "610103"
+  },
+  "parent": {
+    "id": "6101",
+    "level": 2,
+    "name": {
+      "th": "เมืองอุทัยธานี",
+      "en": "Mueang Uthai Thani",
+      "slug": "mueang-uthai-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "th": "เมืองอุทัยธานี",
+        "en": "Mueang Uthai Thani",
+        "slug": "mueang-uthai-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "61000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.354",
+    "lon": "100.068"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sakae-krang-610103/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "440403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มะค่า",
+    "en": "Makha",
+    "slug": "makha"
+  },
+  "code": {
+    "dopa": "440403"
+  },
+  "parent": {
+    "id": "4404",
+    "level": 2,
+    "name": {
+      "th": "กันทรวิชัย",
+      "en": "Kantharawichai",
+      "slug": "kantharawichai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4404",
+      "level": 2,
+      "name": {
+        "th": "กันทรวิชัย",
+        "en": "Kantharawichai",
+        "slug": "kantharawichai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "44150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.254",
+    "lon": "103.351"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/makha-440403/"
+  }
+}

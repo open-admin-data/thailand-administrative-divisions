@@ -1,0 +1,61 @@
+{
+  "id": "500207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอยแก้ว",
+    "en": "Doi Kaeo",
+    "slug": "doi-kaeo"
+  },
+  "code": {
+    "dopa": "500207"
+  },
+  "parent": {
+    "id": "5002",
+    "level": 2,
+    "name": {
+      "th": "จอมทอง",
+      "en": "Chom Thong",
+      "slug": "chom-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5002",
+      "level": 2,
+      "name": {
+        "th": "จอมทอง",
+        "en": "Chom Thong",
+        "slug": "chom-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "50160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.390",
+    "lon": "98.576"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/doi-kaeo-500207/"
+  }
+}

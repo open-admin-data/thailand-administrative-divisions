@@ -1,0 +1,61 @@
+{
+  "id": "311005",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตลาดโพธิ์",
+    "en": "Talat Pho",
+    "slug": "talat-pho"
+  },
+  "code": {
+    "dopa": "311005"
+  },
+  "parent": {
+    "id": "3110",
+    "level": 2,
+    "name": {
+      "th": "ลำปลายมาศ",
+      "en": "Lam Plai Mat",
+      "slug": "lam-plai-mat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3110",
+      "level": 2,
+      "name": {
+        "th": "ลำปลายมาศ",
+        "en": "Lam Plai Mat",
+        "slug": "lam-plai-mat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "31130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.083",
+    "lon": "102.893"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/talat-pho-311005/"
+  }
+}

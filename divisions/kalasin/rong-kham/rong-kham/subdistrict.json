@@ -1,0 +1,61 @@
+{
+  "id": "460401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ร่องคำ",
+    "en": "Rong Kham",
+    "slug": "rong-kham"
+  },
+  "code": {
+    "dopa": "460401"
+  },
+  "parent": {
+    "id": "4604",
+    "level": 2,
+    "name": {
+      "th": "ร่องคำ",
+      "en": "Rong Kham",
+      "slug": "rong-kham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4604",
+      "level": 2,
+      "name": {
+        "th": "ร่องคำ",
+        "en": "Rong Kham",
+        "slug": "rong-kham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "46210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.266",
+    "lon": "103.737"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rong-kham-460401/"
+  }
+}

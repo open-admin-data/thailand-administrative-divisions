@@ -1,0 +1,61 @@
+{
+  "id": "940711",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งคล้า",
+    "en": "Thung Khla",
+    "slug": "thung-khla"
+  },
+  "code": {
+    "dopa": "940711"
+  },
+  "parent": {
+    "id": "9407",
+    "level": 2,
+    "name": {
+      "th": "สายบุรี",
+      "en": "Sai Buri",
+      "slug": "sai-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9407",
+      "level": 2,
+      "name": {
+        "th": "สายบุรี",
+        "en": "Sai Buri",
+        "slug": "sai-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "94190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.718",
+    "lon": "101.528"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-khla-940711/"
+  }
+}

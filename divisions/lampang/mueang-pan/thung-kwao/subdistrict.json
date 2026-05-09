@@ -1,0 +1,61 @@
+{
+  "id": "521303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งกว๋าว",
+    "en": "Thung Kwao",
+    "slug": "thung-kwao"
+  },
+  "code": {
+    "dopa": "521303"
+  },
+  "parent": {
+    "id": "5213",
+    "level": 2,
+    "name": {
+      "th": "เมืองปาน",
+      "en": "Mueang Pan",
+      "slug": "mueang-pan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5213",
+      "level": 2,
+      "name": {
+        "th": "เมืองปาน",
+        "en": "Mueang Pan",
+        "slug": "mueang-pan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "52240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.570",
+    "lon": "99.470"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-kwao-521303/"
+  }
+}

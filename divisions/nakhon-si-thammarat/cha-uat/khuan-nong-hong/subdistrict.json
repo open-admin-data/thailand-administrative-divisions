@@ -1,0 +1,61 @@
+{
+  "id": "800708",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะขันธ์",
+    "en": "Khuan Nong Hong",
+    "slug": "khuan-nong-hong"
+  },
+  "code": {
+    "dopa": "800708"
+  },
+  "parent": {
+    "id": "8007",
+    "level": 2,
+    "name": {
+      "th": "ชะอวด",
+      "en": "Cha-uat",
+      "slug": "cha-uat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8007",
+      "level": 2,
+      "name": {
+        "th": "ชะอวด",
+        "en": "Cha-uat",
+        "slug": "cha-uat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "80180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.910",
+    "lon": "99.935"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khuan-nong-hong-800708/"
+  }
+}

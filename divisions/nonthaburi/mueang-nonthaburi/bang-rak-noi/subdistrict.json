@@ -1,0 +1,61 @@
+{
+  "id": "120110",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางรักน้อย",
+    "en": "Bang Rak Noi",
+    "slug": "bang-rak-noi"
+  },
+  "code": {
+    "dopa": "120110"
+  },
+  "parent": {
+    "id": "1201",
+    "level": 2,
+    "name": {
+      "th": "เมืองนนทบุรี",
+      "en": "Mueang Nonthaburi",
+      "slug": "mueang-nonthaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "th": "เมืองนนทบุรี",
+        "en": "Mueang Nonthaburi",
+        "slug": "mueang-nonthaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "11000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.859",
+    "lon": "100.464"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-rak-noi-120110/"
+  }
+}

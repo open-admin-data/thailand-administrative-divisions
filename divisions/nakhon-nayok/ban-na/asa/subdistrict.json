@@ -1,0 +1,61 @@
+{
+  "id": "260304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อาษา",
+    "en": "Asa",
+    "slug": "asa"
+  },
+  "code": {
+    "dopa": "260304"
+  },
+  "parent": {
+    "id": "2603",
+    "level": 2,
+    "name": {
+      "th": "บ้านนา",
+      "en": "Ban Na",
+      "slug": "ban-na"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    {
+      "id": "2603",
+      "level": 2,
+      "name": {
+        "th": "บ้านนา",
+        "en": "Ban Na",
+        "slug": "ban-na"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "26110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.226",
+    "lon": "101.009"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/asa-260304/"
+  }
+}

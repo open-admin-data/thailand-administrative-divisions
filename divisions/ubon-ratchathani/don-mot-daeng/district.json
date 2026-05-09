@@ -1,0 +1,50 @@
+{
+  "id": "3424",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ดอนมดแดง",
+    "en": "Don Mot Daeng",
+    "slug": "don-mot-daeng"
+  },
+  "code": {
+    "dopa": "3424"
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 47
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.372",
+    "lon": "104.968"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/don-mot-daeng-3424/"
+  }
+}

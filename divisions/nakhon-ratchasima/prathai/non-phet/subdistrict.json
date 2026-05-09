@@ -1,0 +1,61 @@
+{
+  "id": "301314",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนเพ็ด",
+    "en": "Non Phet",
+    "slug": "non-phet"
+  },
+  "code": {
+    "dopa": "301314"
+  },
+  "parent": {
+    "id": "3013",
+    "level": 2,
+    "name": {
+      "th": "ประทาย",
+      "en": "Prathai",
+      "slug": "prathai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3013",
+      "level": 2,
+      "name": {
+        "th": "ประทาย",
+        "en": "Prathai",
+        "slug": "prathai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "30180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.677",
+    "lon": "102.684"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-phet-301314/"
+  }
+}

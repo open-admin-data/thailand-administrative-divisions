@@ -1,0 +1,50 @@
+{
+  "id": "2407",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ราชสาส์น",
+    "en": "Ratchasan",
+    "slug": "ratchasan"
+  },
+  "code": {
+    "dopa": "2407"
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "th": "ฉะเชิงเทรา",
+      "en": "Chachoengsao",
+      "slug": "chachoengsao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 31
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.788",
+    "lon": "101.278"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ratchasan-2407/"
+  }
+}

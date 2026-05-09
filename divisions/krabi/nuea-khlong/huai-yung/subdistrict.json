@@ -1,0 +1,61 @@
+{
+  "id": "810808",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยยูง",
+    "en": "Huai Yung",
+    "slug": "huai-yung"
+  },
+  "code": {
+    "dopa": "810808"
+  },
+  "parent": {
+    "id": "8108",
+    "level": 2,
+    "name": {
+      "th": "เหนือคลอง",
+      "en": "Nuea Khlong",
+      "slug": "nuea-khlong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8108",
+      "level": 2,
+      "name": {
+        "th": "เหนือคลอง",
+        "en": "Nuea Khlong",
+        "slug": "nuea-khlong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "81130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.120",
+    "lon": "99.026"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-yung-810808/"
+  }
+}

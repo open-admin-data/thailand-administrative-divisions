@@ -1,0 +1,61 @@
+{
+  "id": "301306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตลาดไทร",
+    "en": "Talat Sai",
+    "slug": "talat-sai"
+  },
+  "code": {
+    "dopa": "301306"
+  },
+  "parent": {
+    "id": "3013",
+    "level": 2,
+    "name": {
+      "th": "ประทาย",
+      "en": "Prathai",
+      "slug": "prathai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3013",
+      "level": 2,
+      "name": {
+        "th": "ประทาย",
+        "en": "Prathai",
+        "slug": "prathai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "30180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.528",
+    "lon": "102.780"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/talat-sai-301306/"
+  }
+}

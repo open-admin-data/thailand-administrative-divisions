@@ -1,0 +1,38 @@
+{
+  "id": "19",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "สระบุรี",
+    "en": "Saraburi",
+    "slug": "saraburi"
+  },
+  "code": {
+    "dopa": "19",
+    "iso": "TH-19"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 13,
+    "subdistricts": 109,
+    "villages": 1049
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central"
+    }
+  },
+  "geo": {
+    "lat": "14.586",
+    "lon": "101.002"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/saraburi-19/"
+  }
+}

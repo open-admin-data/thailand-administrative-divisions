@@ -1,0 +1,61 @@
+{
+  "id": "501704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านแอ่น",
+    "en": "Ban Aen",
+    "slug": "ban-aen"
+  },
+  "code": {
+    "dopa": "501704"
+  },
+  "parent": {
+    "id": "5017",
+    "level": 2,
+    "name": {
+      "th": "ดอยเต่า",
+      "en": "Doi Tao",
+      "slug": "doi-tao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5017",
+      "level": 2,
+      "name": {
+        "th": "ดอยเต่า",
+        "en": "Doi Tao",
+        "slug": "doi-tao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "50260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.053",
+    "lon": "98.626"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-aen-501704/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "860407",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางมะพร้าว",
+    "en": "Bang Maphrao",
+    "slug": "bang-maphrao"
+  },
+  "code": {
+    "dopa": "860407"
+  },
+  "parent": {
+    "id": "8604",
+    "level": 2,
+    "name": {
+      "th": "หลังสวน",
+      "en": "Lang Suan",
+      "slug": "lang-suan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8604",
+      "level": 2,
+      "name": {
+        "th": "หลังสวน",
+        "en": "Lang Suan",
+        "slug": "lang-suan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "86110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.918",
+    "lon": "99.147"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-maphrao-860407/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "5505",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปัว",
+    "en": "Pua",
+    "slug": "pua"
+  },
+  "code": {
+    "dopa": "5505"
+  },
+  "parent": {
+    "id": "55",
+    "level": 1,
+    "name": {
+      "th": "น่าน",
+      "en": "Nan",
+      "slug": "nan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 107
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.130",
+    "lon": "100.900"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pua-5505/"
+  }
+}

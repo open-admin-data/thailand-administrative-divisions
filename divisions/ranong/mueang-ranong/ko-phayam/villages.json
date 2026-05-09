@@ -1,0 +1,124 @@
+[
+  {
+    "id": "85010901",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเกาะพยาม",
+      "en": "Ban Ko Phayam",
+      "slug": "85010901"
+    },
+    "code": {
+      "dopa": "85010901"
+    },
+    "parent": {
+      "id": "850109",
+      "level": 3,
+      "name": {
+        "th": "เกาะพยาม",
+        "en": "Ko Phayam",
+        "slug": "ko-phayam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "85",
+        "level": 1,
+        "name": {
+          "th": "ระนอง",
+          "en": "Ranong",
+          "slug": "ranong"
+        }
+      },
+      {
+        "id": "8501",
+        "level": 2,
+        "name": {
+          "th": "เมืองระนอง",
+          "en": "Mueang Ranong",
+          "slug": "mueang-ranong"
+        }
+      },
+      {
+        "id": "850109",
+        "level": 3,
+        "name": {
+          "th": "เกาะพยาม",
+          "en": "Ko Phayam",
+          "slug": "ko-phayam"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "9.73496786340218",
+      "lon": "98.40231075882912"
+    },
+    "source": {}
+  },
+  {
+    "id": "85010902",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเกาะช้าง",
+      "en": "Ban Ko Chang",
+      "slug": "85010902"
+    },
+    "code": {
+      "dopa": "85010902"
+    },
+    "parent": {
+      "id": "850109",
+      "level": 3,
+      "name": {
+        "th": "เกาะพยาม",
+        "en": "Ko Phayam",
+        "slug": "ko-phayam"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "85",
+        "level": 1,
+        "name": {
+          "th": "ระนอง",
+          "en": "Ranong",
+          "slug": "ranong"
+        }
+      },
+      {
+        "id": "8501",
+        "level": 2,
+        "name": {
+          "th": "เมืองระนอง",
+          "en": "Mueang Ranong",
+          "slug": "mueang-ranong"
+        }
+      },
+      {
+        "id": "850109",
+        "level": 3,
+        "name": {
+          "th": "เกาะพยาม",
+          "en": "Ko Phayam",
+          "slug": "ko-phayam"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "9.845768553021243",
+      "lon": "98.45698490738869"
+    },
+    "source": {}
+  }
+]

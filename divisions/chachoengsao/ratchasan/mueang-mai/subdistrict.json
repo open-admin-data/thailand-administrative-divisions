@@ -1,0 +1,61 @@
+{
+  "id": "240702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองใหม่",
+    "en": "Mueang Mai",
+    "slug": "mueang-mai"
+  },
+  "code": {
+    "dopa": "240702"
+  },
+  "parent": {
+    "id": "2407",
+    "level": 2,
+    "name": {
+      "th": "ราชสาส์น",
+      "en": "Ratchasan",
+      "slug": "ratchasan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2407",
+      "level": 2,
+      "name": {
+        "th": "ราชสาส์น",
+        "en": "Ratchasan",
+        "slug": "ratchasan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "24120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.715",
+    "lon": "101.278"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-mai-240702/"
+  }
+}

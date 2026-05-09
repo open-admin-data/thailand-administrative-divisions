@@ -1,0 +1,61 @@
+{
+  "id": "630203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่สลิด",
+    "en": "Mae Salit",
+    "slug": "mae-salit"
+  },
+  "code": {
+    "dopa": "630203"
+  },
+  "parent": {
+    "id": "6302",
+    "level": 2,
+    "name": {
+      "th": "บ้านตาก",
+      "en": "Ban Tak",
+      "slug": "ban-tak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6302",
+      "level": 2,
+      "name": {
+        "th": "บ้านตาก",
+        "en": "Ban Tak",
+        "slug": "ban-tak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "63120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.295",
+    "lon": "99.255"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-salit-630203/"
+  }
+}

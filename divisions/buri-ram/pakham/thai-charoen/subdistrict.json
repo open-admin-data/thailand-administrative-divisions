@@ -1,0 +1,61 @@
+{
+  "id": "311202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไทยเจริญ",
+    "en": "Thai Charoen",
+    "slug": "thai-charoen"
+  },
+  "code": {
+    "dopa": "311202"
+  },
+  "parent": {
+    "id": "3112",
+    "level": 2,
+    "name": {
+      "th": "ปะคำ",
+      "en": "Pakham",
+      "slug": "pakham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3112",
+      "level": 2,
+      "name": {
+        "th": "ปะคำ",
+        "en": "Pakham",
+        "slug": "pakham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "31220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.461",
+    "lon": "102.683"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thai-charoen-311202/"
+  }
+}

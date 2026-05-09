@@ -1,0 +1,61 @@
+{
+  "id": "460808",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนสะอาด",
+    "en": "Non Sa-at",
+    "slug": "non-sa-at"
+  },
+  "code": {
+    "dopa": "460808"
+  },
+  "parent": {
+    "id": "4608",
+    "level": 2,
+    "name": {
+      "th": "ห้วยเม็ก",
+      "en": "Huai Mek",
+      "slug": "huai-mek"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4608",
+      "level": 2,
+      "name": {
+        "th": "ห้วยเม็ก",
+        "en": "Huai Mek",
+        "slug": "huai-mek"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "46170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.538",
+    "lon": "103.314"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-sa-at-460808/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "101401",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง สามเสนใน",
+    "en": "Samsen Nai",
+    "slug": "samsen-nai"
+  },
+  "code": {
+    "dopa": "101401"
+  },
+  "parent": {
+    "id": "1014",
+    "level": 2,
+    "name": {
+      "th": "เขต พญาไท",
+      "en": "Khet Phaya Thai",
+      "slug": "khet-phaya-thai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1014",
+      "level": 2,
+      "name": {
+        "th": "เขต พญาไท",
+        "en": "Khet Phaya Thai",
+        "slug": "khet-phaya-thai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10400"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.782",
+    "lon": "100.545"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samsen-nai-101401/"
+  }
+}

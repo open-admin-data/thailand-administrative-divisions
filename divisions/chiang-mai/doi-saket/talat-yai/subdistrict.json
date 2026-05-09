@@ -1,0 +1,61 @@
+{
+  "id": "500510",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตลาดใหญ่",
+    "en": "Talat Yai",
+    "slug": "talat-yai"
+  },
+  "code": {
+    "dopa": "500510"
+  },
+  "parent": {
+    "id": "5005",
+    "level": 2,
+    "name": {
+      "th": "ดอยสะเก็ด",
+      "en": "Doi Saket",
+      "slug": "doi-saket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5005",
+      "level": 2,
+      "name": {
+        "th": "ดอยสะเก็ด",
+        "en": "Doi Saket",
+        "slug": "doi-saket"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "50220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.810",
+    "lon": "99.127"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/talat-yai-500510/"
+  }
+}

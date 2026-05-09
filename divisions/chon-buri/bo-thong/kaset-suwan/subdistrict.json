@@ -1,0 +1,61 @@
+{
+  "id": "201005",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกษตรสุวรรณ",
+    "en": "Kaset Suwan",
+    "slug": "kaset-suwan"
+  },
+  "code": {
+    "dopa": "201005"
+  },
+  "parent": {
+    "id": "2010",
+    "level": 2,
+    "name": {
+      "th": "บ่อทอง",
+      "en": "Bo Thong",
+      "slug": "bo-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2010",
+      "level": 2,
+      "name": {
+        "th": "บ่อทอง",
+        "en": "Bo Thong",
+        "slug": "bo-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "20270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.326",
+    "lon": "101.526"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kaset-suwan-201005/"
+  }
+}

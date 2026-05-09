@@ -1,0 +1,61 @@
+{
+  "id": "570302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สถาน",
+    "en": "Sathan",
+    "slug": "sathan"
+  },
+  "code": {
+    "dopa": "570302"
+  },
+  "parent": {
+    "id": "5703",
+    "level": 2,
+    "name": {
+      "th": "เชียงของ",
+      "en": "Chiang Khong",
+      "slug": "chiang-khong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5703",
+      "level": 2,
+      "name": {
+        "th": "เชียงของ",
+        "en": "Chiang Khong",
+        "slug": "chiang-khong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "57140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.202",
+    "lon": "100.364"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sathan-570302/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "640802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นครเดิฐ",
+    "en": "Nakhon Doet",
+    "slug": "nakhon-doet"
+  },
+  "code": {
+    "dopa": "640802"
+  },
+  "parent": {
+    "id": "6408",
+    "level": 2,
+    "name": {
+      "th": "ศรีนคร",
+      "en": "Si Nakhon",
+      "slug": "si-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6408",
+      "level": 2,
+      "name": {
+        "th": "ศรีนคร",
+        "en": "Si Nakhon",
+        "slug": "si-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "64180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.471",
+    "lon": "99.955"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nakhon-doet-640802/"
+  }
+}

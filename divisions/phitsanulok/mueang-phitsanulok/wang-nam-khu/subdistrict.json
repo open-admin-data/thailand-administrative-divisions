@@ -1,0 +1,61 @@
+{
+  "id": "650102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังน้ำคู้",
+    "en": "Wang Nam Khu",
+    "slug": "wang-nam-khu"
+  },
+  "code": {
+    "dopa": "650102"
+  },
+  "parent": {
+    "id": "6501",
+    "level": 2,
+    "name": {
+      "th": "เมืองพิษณุโลก",
+      "en": "Mueang Phitsanulok",
+      "slug": "mueang-phitsanulok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "th": "เมืองพิษณุโลก",
+        "en": "Mueang Phitsanulok",
+        "slug": "mueang-phitsanulok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "65230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.652",
+    "lon": "100.269"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-nam-khu-650102/"
+  }
+}

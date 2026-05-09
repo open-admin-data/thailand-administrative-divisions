@@ -1,0 +1,185 @@
+[
+  {
+    "id": "73030201",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคุ้งตาแก้ว",
+      "en": "Ban Khung Ta Kaeo",
+      "slug": "73030201"
+    },
+    "code": {
+      "dopa": "73030201"
+    },
+    "parent": {
+      "id": "730302",
+      "level": 3,
+      "name": {
+        "th": "บางกระเบา",
+        "en": "Bang Krabao",
+        "slug": "bang-krabao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "th": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom"
+        }
+      },
+      {
+        "id": "7303",
+        "level": 2,
+        "name": {
+          "th": "นครชัยศรี",
+          "en": "Nakhon Chai Si",
+          "slug": "nakhon-chai-si"
+        }
+      },
+      {
+        "id": "730302",
+        "level": 3,
+        "name": {
+          "th": "บางกระเบา",
+          "en": "Bang Krabao",
+          "slug": "bang-krabao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.788198509494535",
+      "lon": "100.1854057610035"
+    },
+    "source": {}
+  },
+  {
+    "id": "73030202",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านสวนน้อย",
+      "en": "Ban Suan Noi",
+      "slug": "73030202"
+    },
+    "code": {
+      "dopa": "73030202"
+    },
+    "parent": {
+      "id": "730302",
+      "level": 3,
+      "name": {
+        "th": "บางกระเบา",
+        "en": "Bang Krabao",
+        "slug": "bang-krabao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "th": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom"
+        }
+      },
+      {
+        "id": "7303",
+        "level": 2,
+        "name": {
+          "th": "นครชัยศรี",
+          "en": "Nakhon Chai Si",
+          "slug": "nakhon-chai-si"
+        }
+      },
+      {
+        "id": "730302",
+        "level": 3,
+        "name": {
+          "th": "บางกระเบา",
+          "en": "Bang Krabao",
+          "slug": "bang-krabao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.793016253489597",
+      "lon": "100.18482774496078"
+    },
+    "source": {}
+  },
+  {
+    "id": "73030203",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านบางกระเบา",
+      "en": "Ban Bang Krabao",
+      "slug": "73030203"
+    },
+    "code": {
+      "dopa": "73030203"
+    },
+    "parent": {
+      "id": "730302",
+      "level": 3,
+      "name": {
+        "th": "บางกระเบา",
+        "en": "Bang Krabao",
+        "slug": "bang-krabao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "th": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom"
+        }
+      },
+      {
+        "id": "7303",
+        "level": 2,
+        "name": {
+          "th": "นครชัยศรี",
+          "en": "Nakhon Chai Si",
+          "slug": "nakhon-chai-si"
+        }
+      },
+      {
+        "id": "730302",
+        "level": 3,
+        "name": {
+          "th": "บางกระเบา",
+          "en": "Bang Krabao",
+          "slug": "bang-krabao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.79962599995587",
+      "lon": "100.18698424100876"
+    },
+    "source": {}
+  }
+]

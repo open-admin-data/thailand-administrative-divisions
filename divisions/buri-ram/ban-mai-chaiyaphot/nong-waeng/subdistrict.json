@@ -1,0 +1,61 @@
+{
+  "id": "311901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองแวง",
+    "en": "Nong Waeng",
+    "slug": "nong-waeng"
+  },
+  "code": {
+    "dopa": "311901"
+  },
+  "parent": {
+    "id": "3119",
+    "level": 2,
+    "name": {
+      "th": "บ้านใหม่ไชยพจน์",
+      "en": "Ban Mai Chaiyaphot",
+      "slug": "ban-mai-chaiyaphot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3119",
+      "level": 2,
+      "name": {
+        "th": "บ้านใหม่ไชยพจน์",
+        "en": "Ban Mai Chaiyaphot",
+        "slug": "ban-mai-chaiyaphot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "31120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.553",
+    "lon": "102.907"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-waeng-311901/"
+  }
+}

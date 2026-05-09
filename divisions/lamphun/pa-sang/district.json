@@ -1,0 +1,50 @@
+{
+  "id": "5106",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ป่าซาง",
+    "en": "Pa Sang",
+    "slug": "pa-sang"
+  },
+  "code": {
+    "dopa": "5106"
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "th": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 90
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.537",
+    "lon": "98.933"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pa-sang-5106/"
+  }
+}

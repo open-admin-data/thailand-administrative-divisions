@@ -1,0 +1,61 @@
+{
+  "id": "300103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองจะบก",
+    "en": "Nong Chabok",
+    "slug": "nong-chabok"
+  },
+  "code": {
+    "dopa": "300103"
+  },
+  "parent": {
+    "id": "3001",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครราชสีมา",
+      "en": "Mueang Nakhon Ratchasima",
+      "slug": "mueang-nakhon-ratchasima"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3001",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครราชสีมา",
+        "en": "Mueang Nakhon Ratchasima",
+        "slug": "mueang-nakhon-ratchasima"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "30000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.916",
+    "lon": "102.064"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-chabok-300103/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "502501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านจันทร์",
+    "en": "Ban Chan",
+    "slug": "ban-chan"
+  },
+  "code": {
+    "dopa": "502501"
+  },
+  "parent": {
+    "id": "5025",
+    "level": 2,
+    "name": {
+      "th": "กัลยาณิวัฒนา",
+      "en": "Galyani Vadhana",
+      "slug": "galyani-vadhana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5025",
+      "level": 2,
+      "name": {
+        "th": "กัลยาณิวัฒนา",
+        "en": "Galyani Vadhana",
+        "slug": "galyani-vadhana"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "58130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.110",
+    "lon": "98.281"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-chan-502501/"
+  }
+}

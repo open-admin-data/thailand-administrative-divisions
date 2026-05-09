@@ -1,0 +1,50 @@
+{
+  "id": "4905",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "คำชะอี",
+    "en": "Khamcha-i",
+    "slug": "khamcha-i"
+  },
+  "code": {
+    "dopa": "4905"
+  },
+  "parent": {
+    "id": "49",
+    "level": 1,
+    "name": {
+      "th": "มุกดาหาร",
+      "en": "Mukdahan",
+      "slug": "mukdahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 81
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.616",
+    "lon": "104.453"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khamcha-i-4905/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "600312",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทับกฤชใต้",
+    "en": "Thap Krit Tai",
+    "slug": "thap-krit-tai"
+  },
+  "code": {
+    "dopa": "600312"
+  },
+  "parent": {
+    "id": "6003",
+    "level": 2,
+    "name": {
+      "th": "ชุมแสง",
+      "en": "Chum Saeng",
+      "slug": "chum-saeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6003",
+      "level": 2,
+      "name": {
+        "th": "ชุมแสง",
+        "en": "Chum Saeng",
+        "slug": "chum-saeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "60250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.757",
+    "lon": "100.286"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thap-krit-tai-600312/"
+  }
+}

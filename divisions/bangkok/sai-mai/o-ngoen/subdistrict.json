@@ -1,0 +1,61 @@
+{
+  "id": "104202",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง ออเงิน",
+    "en": "O Ngoen",
+    "slug": "o-ngoen"
+  },
+  "code": {
+    "dopa": "104202"
+  },
+  "parent": {
+    "id": "1042",
+    "level": 2,
+    "name": {
+      "th": "เขต สายไหม",
+      "en": "Sai Mai",
+      "slug": "sai-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1042",
+      "level": 2,
+      "name": {
+        "th": "เขต สายไหม",
+        "en": "Sai Mai",
+        "slug": "sai-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10220"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.896",
+    "lon": "100.672"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/o-ngoen-104202/"
+  }
+}

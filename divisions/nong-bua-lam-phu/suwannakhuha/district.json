@@ -1,0 +1,50 @@
+{
+  "id": "3905",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สุวรรณคูหา",
+    "en": "Suwannakhuha",
+    "slug": "suwannakhuha"
+  },
+  "code": {
+    "dopa": "3905"
+  },
+  "parent": {
+    "id": "39",
+    "level": 1,
+    "name": {
+      "th": "หนองบัวลำภู",
+      "en": "Nong Bua Lam Phu",
+      "slug": "nong-bua-lam-phu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 91
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.551",
+    "lon": "102.277"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/suwannakhuha-3905/"
+  }
+}

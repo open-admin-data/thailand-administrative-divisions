@@ -1,0 +1,50 @@
+{
+  "id": "3301",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองศรีสะเกษ",
+    "en": "Mueang Si Sa Ket",
+    "slug": "mueang-si-sa-ket"
+  },
+  "code": {
+    "dopa": "3301"
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "th": "ศรีสะเกษ",
+      "en": "Si Sa Ket",
+      "slug": "si-sa-ket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 16,
+    "villages": 189
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.015",
+    "lon": "104.369"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-si-sa-ket-3301/"
+  }
+}

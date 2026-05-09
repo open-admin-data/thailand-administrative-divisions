@@ -1,0 +1,61 @@
+{
+  "id": "920208",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองลุ",
+    "en": "Khlong Lu",
+    "slug": "khlong-lu"
+  },
+  "code": {
+    "dopa": "920208"
+  },
+  "parent": {
+    "id": "9202",
+    "level": 2,
+    "name": {
+      "th": "กันตัง",
+      "en": "Kantang",
+      "slug": "kantang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "th": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "92110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.482",
+    "lon": "99.495"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-lu-920208/"
+  }
+}

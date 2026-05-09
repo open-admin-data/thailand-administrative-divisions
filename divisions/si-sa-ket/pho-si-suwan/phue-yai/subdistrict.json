@@ -1,0 +1,61 @@
+{
+  "id": "332104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ผือใหญ่",
+    "en": "Phue Yai",
+    "slug": "phue-yai"
+  },
+  "code": {
+    "dopa": "332104"
+  },
+  "parent": {
+    "id": "3321",
+    "level": 2,
+    "name": {
+      "th": "โพธิ์ศรีสุวรรณ",
+      "en": "Pho Si Suwan",
+      "slug": "pho-si-suwan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3321",
+      "level": 2,
+      "name": {
+        "th": "โพธิ์ศรีสุวรรณ",
+        "en": "Pho Si Suwan",
+        "slug": "pho-si-suwan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "33120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.233",
+    "lon": "104.111"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phue-yai-332104/"
+  }
+}

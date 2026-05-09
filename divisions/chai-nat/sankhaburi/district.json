@@ -1,0 +1,50 @@
+{
+  "id": "1805",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สรรคบุรี",
+    "en": "Sankhaburi",
+    "slug": "sankhaburi"
+  },
+  "code": {
+    "dopa": "1805"
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "th": "ชัยนาท",
+      "en": "Chai Nat",
+      "slug": "chai-nat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 92
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.096",
+    "lon": "100.203"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sankhaburi-1805/"
+  }
+}

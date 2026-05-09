@@ -1,0 +1,61 @@
+{
+  "id": "510104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองช้างคืน",
+    "en": "Nong Chang Khuen",
+    "slug": "nong-chang-khuen"
+  },
+  "code": {
+    "dopa": "510104"
+  },
+  "parent": {
+    "id": "5101",
+    "level": 2,
+    "name": {
+      "th": "เมืองลำพูน",
+      "en": "Mueang Lamphun",
+      "slug": "mueang-lamphun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5101",
+      "level": 2,
+      "name": {
+        "th": "เมืองลำพูน",
+        "en": "Mueang Lamphun",
+        "slug": "mueang-lamphun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "51150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.656",
+    "lon": "99.013"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-chang-khuen-510104/"
+  }
+}

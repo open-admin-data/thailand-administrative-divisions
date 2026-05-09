@@ -1,0 +1,50 @@
+{
+  "id": "8411",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ท่าฉาง",
+    "en": "Tha Chang",
+    "slug": "tha-chang"
+  },
+  "code": {
+    "dopa": "8411"
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "th": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 46
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.258",
+    "lon": "99.175"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tha-chang-8411/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "2509",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ศรีมโหสถ",
+    "en": "Si Mahosot",
+    "slug": "si-mahosot"
+  },
+  "code": {
+    "dopa": "2509"
+  },
+  "parent": {
+    "id": "25",
+    "level": 1,
+    "name": {
+      "th": "ปราจีนบุรี",
+      "en": "Prachin Buri",
+      "slug": "prachin-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "th": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 24
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.926",
+    "lon": "101.410"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/si-mahosot-2509/"
+  }
+}

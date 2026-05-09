@@ -1,0 +1,50 @@
+{
+  "id": "5212",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ห้างฉัตร",
+    "en": "Hang Chat",
+    "slug": "hang-chat"
+  },
+  "code": {
+    "dopa": "5212"
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "th": "ลำปาง",
+      "en": "Lampang",
+      "slug": "lampang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 73
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.337",
+    "lon": "99.353"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/hang-chat-5212/"
+  }
+}

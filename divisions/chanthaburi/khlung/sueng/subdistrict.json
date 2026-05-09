@@ -1,0 +1,61 @@
+{
+  "id": "220207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ซึ้ง",
+    "en": "Sueng",
+    "slug": "sueng"
+  },
+  "code": {
+    "dopa": "220207"
+  },
+  "parent": {
+    "id": "2202",
+    "level": 2,
+    "name": {
+      "th": "ขลุง",
+      "en": "Khlung",
+      "slug": "khlung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    },
+    {
+      "id": "2202",
+      "level": 2,
+      "name": {
+        "th": "ขลุง",
+        "en": "Khlung",
+        "slug": "khlung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "22110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.487",
+    "lon": "102.288"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sueng-220207/"
+  }
+}

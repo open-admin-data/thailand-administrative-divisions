@@ -1,0 +1,61 @@
+{
+  "id": "191003",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวปลวก",
+    "en": "Hua Pluak",
+    "slug": "hua-pluak"
+  },
+  "code": {
+    "dopa": "191003"
+  },
+  "parent": {
+    "id": "1910",
+    "level": 2,
+    "name": {
+      "th": "เสาไห้",
+      "en": "Sao Hai",
+      "slug": "sao-hai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1910",
+      "level": 2,
+      "name": {
+        "th": "เสาไห้",
+        "en": "Sao Hai",
+        "slug": "sao-hai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "18160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.615",
+    "lon": "100.844"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-pluak-191003/"
+  }
+}

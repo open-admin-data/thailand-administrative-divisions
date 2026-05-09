@@ -1,0 +1,61 @@
+{
+  "id": "800114",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มะม่วงสองต้น",
+    "en": "Mamuang Song Ton",
+    "slug": "mamuang-song-ton"
+  },
+  "code": {
+    "dopa": "800114"
+  },
+  "parent": {
+    "id": "8001",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครศรีธรรมราช",
+      "en": "Mueang Nakhon Si Thammarat",
+      "slug": "mueang-nakhon-si-thammarat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8001",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครศรีธรรมราช",
+        "en": "Mueang Nakhon Si Thammarat",
+        "slug": "mueang-nakhon-si-thammarat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "80000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.397",
+    "lon": "99.952"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mamuang-song-ton-800114/"
+  }
+}

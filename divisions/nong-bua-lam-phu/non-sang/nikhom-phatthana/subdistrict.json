@@ -1,0 +1,61 @@
+{
+  "id": "390309",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นิคมพัฒนา",
+    "en": "Nikhom Phatthana",
+    "slug": "nikhom-phatthana"
+  },
+  "code": {
+    "dopa": "390309"
+  },
+  "parent": {
+    "id": "3903",
+    "level": 2,
+    "name": {
+      "th": "โนนสัง",
+      "en": "Non Sang",
+      "slug": "non-sang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3903",
+      "level": 2,
+      "name": {
+        "th": "โนนสัง",
+        "en": "Non Sang",
+        "slug": "non-sang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "39140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.930",
+    "lon": "102.524"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nikhom-phatthana-390309/"
+  }
+}

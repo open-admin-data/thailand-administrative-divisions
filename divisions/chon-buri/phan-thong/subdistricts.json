@@ -1,0 +1,673 @@
+[
+  {
+    "id": "200507",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บ้านเก่า",
+      "en": "Ban Kao",
+      "slug": "ban-kao"
+    },
+    "code": {
+      "dopa": "200507"
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "th": "พานทอง",
+        "en": "Phan Thong",
+        "slug": "phan-thong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "th": "พานทอง",
+          "en": "Phan Thong",
+          "slug": "phan-thong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "20160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.454",
+      "lon": "101.059"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ban-kao-200507/"
+    }
+  },
+  {
+    "id": "200511",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บางหัก",
+      "en": "Bang Hak",
+      "slug": "bang-hak"
+    },
+    "code": {
+      "dopa": "200511"
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "th": "พานทอง",
+        "en": "Phan Thong",
+        "slug": "phan-thong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "th": "พานทอง",
+          "en": "Phan Thong",
+          "slug": "phan-thong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 4
+    },
+    "zip_codes": [
+      "20160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.544",
+      "lon": "101.075"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bang-hak-200511/"
+    }
+  },
+  {
+    "id": "200509",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บางนาง",
+      "en": "Bang Nang",
+      "slug": "bang-nang"
+    },
+    "code": {
+      "dopa": "200509"
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "th": "พานทอง",
+        "en": "Phan Thong",
+        "slug": "phan-thong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "th": "พานทอง",
+          "en": "Phan Thong",
+          "slug": "phan-thong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "20160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.487",
+      "lon": "101.067"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bang-nang-200509/"
+    }
+  },
+  {
+    "id": "200506",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "โคกขี้หนอน",
+      "en": "Khok Khi Non",
+      "slug": "khok-khi-non"
+    },
+    "code": {
+      "dopa": "200506"
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "th": "พานทอง",
+        "en": "Phan Thong",
+        "slug": "phan-thong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "th": "พานทอง",
+          "en": "Phan Thong",
+          "slug": "phan-thong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 5
+    },
+    "zip_codes": [
+      "20160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.552",
+      "lon": "101.114"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khok-khi-non-200506/"
+    }
+  },
+  {
+    "id": "200510",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เกาะลอย",
+      "en": "Ko Loi",
+      "slug": "ko-loi"
+    },
+    "code": {
+      "dopa": "200510"
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "th": "พานทอง",
+        "en": "Phan Thong",
+        "slug": "phan-thong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "th": "พานทอง",
+          "en": "Phan Thong",
+          "slug": "phan-thong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "20160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.519",
+      "lon": "101.074"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ko-loi-200510/"
+    }
+  },
+  {
+    "id": "200503",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "มาบโป่ง",
+      "en": "Map Pong",
+      "slug": "map-pong"
+    },
+    "code": {
+      "dopa": "200503"
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "th": "พานทอง",
+        "en": "Phan Thong",
+        "slug": "phan-thong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "th": "พานทอง",
+          "en": "Phan Thong",
+          "slug": "phan-thong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "20160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.431",
+      "lon": "101.121"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/map-pong-200503/"
+    }
+  },
+  {
+    "id": "200508",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หน้าประดู่",
+      "en": "Na Pradu",
+      "slug": "na-pradu"
+    },
+    "code": {
+      "dopa": "200508"
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "th": "พานทอง",
+        "en": "Phan Thong",
+        "slug": "phan-thong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "th": "พานทอง",
+          "en": "Phan Thong",
+          "slug": "phan-thong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 5
+    },
+    "zip_codes": [
+      "20160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.497",
+      "lon": "101.099"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/na-pradu-200508/"
+    }
+  },
+  {
+    "id": "200505",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองหงษ์",
+      "en": "Nong Hong",
+      "slug": "nong-hong"
+    },
+    "code": {
+      "dopa": "200505"
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "th": "พานทอง",
+        "en": "Phan Thong",
+        "slug": "phan-thong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "th": "พานทอง",
+          "en": "Phan Thong",
+          "slug": "phan-thong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "20160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.389",
+      "lon": "101.113"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-hong-200505/"
+    }
+  },
+  {
+    "id": "200504",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองกะขะ",
+      "en": "Nong Kakha",
+      "slug": "nong-kakha"
+    },
+    "code": {
+      "dopa": "200504"
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "th": "พานทอง",
+        "en": "Phan Thong",
+        "slug": "phan-thong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "th": "พานทอง",
+          "en": "Phan Thong",
+          "slug": "phan-thong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 5
+    },
+    "zip_codes": [
+      "20160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.431",
+      "lon": "101.095"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-kakha-200504/"
+    }
+  },
+  {
+    "id": "200502",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองตำลึง",
+      "en": "Nong Tamlueng",
+      "slug": "nong-tamlueng"
+    },
+    "code": {
+      "dopa": "200502"
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "th": "พานทอง",
+        "en": "Phan Thong",
+        "slug": "phan-thong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "th": "พานทอง",
+          "en": "Phan Thong",
+          "slug": "phan-thong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "20160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.408",
+      "lon": "101.078"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-tamlueng-200502/"
+    }
+  },
+  {
+    "id": "200501",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "พานทอง",
+      "en": "Phan Thong",
+      "slug": "phan-thong"
+    },
+    "code": {
+      "dopa": "200501"
+    },
+    "parent": {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "th": "พานทอง",
+        "en": "Phan Thong",
+        "slug": "phan-thong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2005",
+        "level": 2,
+        "name": {
+          "th": "พานทอง",
+          "en": "Phan Thong",
+          "slug": "phan-thong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "20160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.461",
+      "lon": "101.084"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/phan-thong-200501/"
+    }
+  }
+]

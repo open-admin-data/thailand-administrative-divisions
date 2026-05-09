@@ -1,0 +1,61 @@
+{
+  "id": "941012",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาตูม",
+    "en": "Khao Tum",
+    "slug": "khao-tum"
+  },
+  "code": {
+    "dopa": "941012"
+  },
+  "parent": {
+    "id": "9410",
+    "level": 2,
+    "name": {
+      "th": "ยะรัง",
+      "en": "Yarang",
+      "slug": "yarang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9410",
+      "level": 2,
+      "name": {
+        "th": "ยะรัง",
+        "en": "Yarang",
+        "slug": "yarang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "94160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.603",
+    "lon": "101.314"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-tum-941012/"
+  }
+}

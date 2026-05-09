@@ -1,0 +1,61 @@
+{
+  "id": "640105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยางซ้าย",
+    "en": "Yang Sai",
+    "slug": "yang-sai"
+  },
+  "code": {
+    "dopa": "640105"
+  },
+  "parent": {
+    "id": "6401",
+    "level": 2,
+    "name": {
+      "th": "เมืองสุโขทัย",
+      "en": "Mueang Sukhothai",
+      "slug": "mueang-sukhothai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6401",
+      "level": 2,
+      "name": {
+        "th": "เมืองสุโขทัย",
+        "en": "Mueang Sukhothai",
+        "slug": "mueang-sukhothai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "64000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.974",
+    "lon": "99.821"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yang-sai-640105/"
+  }
+}

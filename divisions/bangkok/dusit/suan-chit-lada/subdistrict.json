@@ -1,0 +1,61 @@
+{
+  "id": "100203",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง สวนจิตรลดา",
+    "en": "Suan Chit Lada",
+    "slug": "suan-chit-lada"
+  },
+  "code": {
+    "dopa": "100203"
+  },
+  "parent": {
+    "id": "1002",
+    "level": 2,
+    "name": {
+      "th": "เขต ดุสิต",
+      "en": "Dusit",
+      "slug": "dusit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1002",
+      "level": 2,
+      "name": {
+        "th": "เขต ดุสิต",
+        "en": "Dusit",
+        "slug": "dusit"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10300"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.767",
+    "lon": "100.520"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/suan-chit-lada-100203/"
+  }
+}

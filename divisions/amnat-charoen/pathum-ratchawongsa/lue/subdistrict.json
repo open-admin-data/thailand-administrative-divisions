@@ -1,0 +1,61 @@
+{
+  "id": "370304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลือ",
+    "en": "Lue",
+    "slug": "lue"
+  },
+  "code": {
+    "dopa": "370304"
+  },
+  "parent": {
+    "id": "3703",
+    "level": 2,
+    "name": {
+      "th": "ปทุมราชวงศา",
+      "en": "Pathum Ratchawongsa",
+      "slug": "pathum-ratchawongsa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    {
+      "id": "3703",
+      "level": 2,
+      "name": {
+        "th": "ปทุมราชวงศา",
+        "en": "Pathum Ratchawongsa",
+        "slug": "pathum-ratchawongsa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "37110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.796",
+    "lon": "104.868"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lue-370304/"
+  }
+}

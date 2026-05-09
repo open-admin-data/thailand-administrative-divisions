@@ -1,0 +1,61 @@
+{
+  "id": "630604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่ตาว",
+    "en": "Mae Tao",
+    "slug": "mae-tao"
+  },
+  "code": {
+    "dopa": "630604"
+  },
+  "parent": {
+    "id": "6306",
+    "level": 2,
+    "name": {
+      "th": "แม่สอด",
+      "en": "Mae Sot",
+      "slug": "mae-sot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6306",
+      "level": 2,
+      "name": {
+        "th": "แม่สอด",
+        "en": "Mae Sot",
+        "slug": "mae-sot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "63110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.681",
+    "lon": "98.577"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-tao-630604/"
+  }
+}

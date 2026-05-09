@@ -1,0 +1,61 @@
+{
+  "id": "670808",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สระแก้ว",
+    "en": "Sa Kaeo",
+    "slug": "sa-kaeo"
+  },
+  "code": {
+    "dopa": "670808"
+  },
+  "parent": {
+    "id": "6708",
+    "level": 2,
+    "name": {
+      "th": "บึงสามพัน",
+      "en": "Bueng Sam Phan",
+      "slug": "bueng-sam-phan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6708",
+      "level": 2,
+      "name": {
+        "th": "บึงสามพัน",
+        "en": "Bueng Sam Phan",
+        "slug": "bueng-sam-phan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "67160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.894",
+    "lon": "101.324"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sa-kaeo-670808/"
+  }
+}

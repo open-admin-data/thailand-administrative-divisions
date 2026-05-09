@@ -1,0 +1,734 @@
+[
+  {
+    "id": "380101",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บึงกาฬ",
+      "en": "Bueng Kan",
+      "slug": "bueng-kan"
+    },
+    "code": {
+      "dopa": "380101"
+    },
+    "parent": {
+      "id": "3801",
+      "level": 2,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Bueng Kan",
+        "slug": "bueng-kan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Buogkan",
+          "slug": "buogkan"
+        }
+      },
+      {
+        "id": "3801",
+        "level": 2,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Bueng Kan",
+          "slug": "bueng-kan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "38000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.331",
+      "lon": "103.679"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bueng-kan-380101/"
+    }
+  },
+  {
+    "id": "380109",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ชัยพร",
+      "en": "Chaiyaphon",
+      "slug": "chaiyaphon"
+    },
+    "code": {
+      "dopa": "380109"
+    },
+    "parent": {
+      "id": "3801",
+      "level": 2,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Bueng Kan",
+        "slug": "bueng-kan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Buogkan",
+          "slug": "buogkan"
+        }
+      },
+      {
+        "id": "3801",
+        "level": 2,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Bueng Kan",
+          "slug": "bueng-kan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 13
+    },
+    "zip_codes": [
+      "38000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.240",
+      "lon": "103.839"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/chaiyaphon-380109/"
+    }
+  },
+  {
+    "id": "380104",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หอคำ",
+      "en": "Ho Kham",
+      "slug": "ho-kham"
+    },
+    "code": {
+      "dopa": "380104"
+    },
+    "parent": {
+      "id": "3801",
+      "level": 2,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Bueng Kan",
+        "slug": "bueng-kan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Buogkan",
+          "slug": "buogkan"
+        }
+      },
+      {
+        "id": "3801",
+        "level": 2,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Bueng Kan",
+          "slug": "bueng-kan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 14
+    },
+    "zip_codes": [
+      "38000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.406",
+      "lon": "103.380"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ho-kham-380104/"
+    }
+  },
+  {
+    "id": "380108",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ไคสี",
+      "en": "Khai Si",
+      "slug": "khai-si"
+    },
+    "code": {
+      "dopa": "380108"
+    },
+    "parent": {
+      "id": "3801",
+      "level": 2,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Bueng Kan",
+        "slug": "bueng-kan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Buogkan",
+          "slug": "buogkan"
+        }
+      },
+      {
+        "id": "3801",
+        "level": 2,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Bueng Kan",
+          "slug": "bueng-kan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "38000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.403",
+      "lon": "103.508"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khai-si-380108/"
+    }
+  },
+  {
+    "id": "380111",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "คำนาดี",
+      "en": "Kham Na Di",
+      "slug": "kham-na-di"
+    },
+    "code": {
+      "dopa": "380111"
+    },
+    "parent": {
+      "id": "3801",
+      "level": 2,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Bueng Kan",
+        "slug": "bueng-kan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Buogkan",
+          "slug": "buogkan"
+        }
+      },
+      {
+        "id": "3801",
+        "level": 2,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Bueng Kan",
+          "slug": "bueng-kan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "38000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.219",
+      "lon": "103.593"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/kham-na-di-380111/"
+    }
+  },
+  {
+    "id": "380106",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "โคกก่อง",
+      "en": "Khok Kong",
+      "slug": "khok-kong"
+    },
+    "code": {
+      "dopa": "380106"
+    },
+    "parent": {
+      "id": "3801",
+      "level": 2,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Bueng Kan",
+        "slug": "bueng-kan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Buogkan",
+          "slug": "buogkan"
+        }
+      },
+      {
+        "id": "3801",
+        "level": 2,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Bueng Kan",
+          "slug": "bueng-kan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "38000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.298",
+      "lon": "103.772"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khok-kong-380106/"
+    }
+  },
+  {
+    "id": "380107",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "นาสวรรค์",
+      "en": "Na Sawan",
+      "slug": "na-sawan"
+    },
+    "code": {
+      "dopa": "380107"
+    },
+    "parent": {
+      "id": "3801",
+      "level": 2,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Bueng Kan",
+        "slug": "bueng-kan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Buogkan",
+          "slug": "buogkan"
+        }
+      },
+      {
+        "id": "3801",
+        "level": 2,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Bueng Kan",
+          "slug": "bueng-kan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "38000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.265",
+      "lon": "103.581"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/na-sawan-380107/"
+    }
+  },
+  {
+    "id": "380102",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "โนนสมบูรณ์",
+      "en": "Non Sombun",
+      "slug": "non-sombun"
+    },
+    "code": {
+      "dopa": "380102"
+    },
+    "parent": {
+      "id": "3801",
+      "level": 2,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Bueng Kan",
+        "slug": "bueng-kan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Buogkan",
+          "slug": "buogkan"
+        }
+      },
+      {
+        "id": "3801",
+        "level": 2,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Bueng Kan",
+          "slug": "bueng-kan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 13
+    },
+    "zip_codes": [
+      "38000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.284",
+      "lon": "103.638"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/non-sombun-380102/"
+    }
+  },
+  {
+    "id": "380103",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองเข็ง",
+      "en": "Nong Keng",
+      "slug": "nong-keng"
+    },
+    "code": {
+      "dopa": "380103"
+    },
+    "parent": {
+      "id": "3801",
+      "level": 2,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Bueng Kan",
+        "slug": "bueng-kan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Buogkan",
+          "slug": "buogkan"
+        }
+      },
+      {
+        "id": "3801",
+        "level": 2,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Bueng Kan",
+          "slug": "bueng-kan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "38000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.356",
+      "lon": "103.468"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-keng-380103/"
+    }
+  },
+  {
+    "id": "380105",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองเลิง",
+      "en": "Nong Loeng",
+      "slug": "nong-loeng"
+    },
+    "code": {
+      "dopa": "380105"
+    },
+    "parent": {
+      "id": "3801",
+      "level": 2,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Bueng Kan",
+        "slug": "bueng-kan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Buogkan",
+          "slug": "buogkan"
+        }
+      },
+      {
+        "id": "3801",
+        "level": 2,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Bueng Kan",
+          "slug": "bueng-kan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 13
+    },
+    "zip_codes": [
+      "38000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.328",
+      "lon": "103.393"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-loeng-380105/"
+    }
+  },
+  {
+    "id": "380112",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "โป่งเปือย",
+      "en": "Pong Pueai",
+      "slug": "pong-pueai"
+    },
+    "code": {
+      "dopa": "380112"
+    },
+    "parent": {
+      "id": "3801",
+      "level": 2,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Bueng Kan",
+        "slug": "bueng-kan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Buogkan",
+          "slug": "buogkan"
+        }
+      },
+      {
+        "id": "3801",
+        "level": 2,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Bueng Kan",
+          "slug": "bueng-kan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "38000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.332",
+      "lon": "103.531"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/pong-pueai-380112/"
+    }
+  },
+  {
+    "id": "380110",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "วิศิษฐ์",
+      "en": "Wisit",
+      "slug": "wisit"
+    },
+    "code": {
+      "dopa": "380110"
+    },
+    "parent": {
+      "id": "3801",
+      "level": 2,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Bueng Kan",
+        "slug": "bueng-kan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Buogkan",
+          "slug": "buogkan"
+        }
+      },
+      {
+        "id": "3801",
+        "level": 2,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Bueng Kan",
+          "slug": "bueng-kan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 13
+    },
+    "zip_codes": [
+      "38000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.359",
+      "lon": "103.592"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/wisit-380110/"
+    }
+  }
+]

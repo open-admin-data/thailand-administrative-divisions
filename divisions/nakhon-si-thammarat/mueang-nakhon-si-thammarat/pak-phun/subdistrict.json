@@ -1,0 +1,61 @@
+{
+  "id": "800120",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากพูน",
+    "en": "Pak Phun",
+    "slug": "pak-phun"
+  },
+  "code": {
+    "dopa": "800120"
+  },
+  "parent": {
+    "id": "8001",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครศรีธรรมราช",
+      "en": "Mueang Nakhon Si Thammarat",
+      "slug": "mueang-nakhon-si-thammarat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8001",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครศรีธรรมราช",
+        "en": "Mueang Nakhon Si Thammarat",
+        "slug": "mueang-nakhon-si-thammarat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "80000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.529",
+    "lon": "99.997"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-phun-800120/"
+  }
+}

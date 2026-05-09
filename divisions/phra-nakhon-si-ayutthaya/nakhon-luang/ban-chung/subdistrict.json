@@ -1,0 +1,61 @@
+{
+  "id": "140304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านชุ้ง",
+    "en": "Ban Chung",
+    "slug": "ban-chung"
+  },
+  "code": {
+    "dopa": "140304"
+  },
+  "parent": {
+    "id": "1403",
+    "level": 2,
+    "name": {
+      "th": "นครหลวง",
+      "en": "Nakhon Luang",
+      "slug": "nakhon-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "th": "นครหลวง",
+        "en": "Nakhon Luang",
+        "slug": "nakhon-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "13260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.458",
+    "lon": "100.655"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-chung-140304/"
+  }
+}

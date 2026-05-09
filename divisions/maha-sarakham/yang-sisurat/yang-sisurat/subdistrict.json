@@ -1,0 +1,61 @@
+{
+  "id": "441101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยางสีสุราช",
+    "en": "Yang Sisurat",
+    "slug": "yang-sisurat"
+  },
+  "code": {
+    "dopa": "441101"
+  },
+  "parent": {
+    "id": "4411",
+    "level": 2,
+    "name": {
+      "th": "ยางสีสุราช",
+      "en": "Yang Sisurat",
+      "slug": "yang-sisurat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4411",
+      "level": 2,
+      "name": {
+        "th": "ยางสีสุราช",
+        "en": "Yang Sisurat",
+        "slug": "yang-sisurat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "44210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.677",
+    "lon": "103.093"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yang-sisurat-441101/"
+  }
+}

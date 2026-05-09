@@ -1,0 +1,50 @@
+{
+  "id": "1807",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หนองมะโมง",
+    "en": "Nong Mamong",
+    "slug": "nong-mamong"
+  },
+  "code": {
+    "dopa": "1807"
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "th": "ชัยนาท",
+      "en": "Chai Nat",
+      "slug": "chai-nat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 41
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.241",
+    "lon": "99.894"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-mamong-1807/"
+  }
+}

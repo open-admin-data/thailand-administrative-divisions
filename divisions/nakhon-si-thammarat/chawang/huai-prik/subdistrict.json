@@ -1,0 +1,61 @@
+{
+  "id": "800409",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยปริก",
+    "en": "Huai Prik",
+    "slug": "huai-prik"
+  },
+  "code": {
+    "dopa": "800409"
+  },
+  "parent": {
+    "id": "8004",
+    "level": 2,
+    "name": {
+      "th": "ฉวาง",
+      "en": "Chawang",
+      "slug": "chawang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8004",
+      "level": 2,
+      "name": {
+        "th": "ฉวาง",
+        "en": "Chawang",
+        "slug": "chawang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "80260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.569",
+    "lon": "99.440"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-prik-800409/"
+  }
+}

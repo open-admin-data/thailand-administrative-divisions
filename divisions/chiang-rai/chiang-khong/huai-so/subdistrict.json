@@ -1,0 +1,61 @@
+{
+  "id": "570305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยซ้อ",
+    "en": "Huai So",
+    "slug": "huai-so"
+  },
+  "code": {
+    "dopa": "570305"
+  },
+  "parent": {
+    "id": "5703",
+    "level": 2,
+    "name": {
+      "th": "เชียงของ",
+      "en": "Chiang Khong",
+      "slug": "chiang-khong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5703",
+      "level": 2,
+      "name": {
+        "th": "เชียงของ",
+        "en": "Chiang Khong",
+        "slug": "chiang-khong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 23
+  },
+  "zip_codes": [
+    "57140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.061",
+    "lon": "100.284"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-so-570305/"
+  }
+}

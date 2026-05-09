@@ -1,0 +1,61 @@
+{
+  "id": "500603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขี้เหล็ก",
+    "en": "Khilek",
+    "slug": "khilek"
+  },
+  "code": {
+    "dopa": "500603"
+  },
+  "parent": {
+    "id": "5006",
+    "level": 2,
+    "name": {
+      "th": "แม่แตง",
+      "en": "Mae Taeng",
+      "slug": "mae-taeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5006",
+      "level": 2,
+      "name": {
+        "th": "แม่แตง",
+        "en": "Mae Taeng",
+        "slug": "mae-taeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "50150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.071",
+    "lon": "98.916"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khilek-500603/"
+  }
+}

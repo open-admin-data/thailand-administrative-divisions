@@ -1,0 +1,61 @@
+{
+  "id": "501110",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่ปั๋ง",
+    "en": "Mae Pang",
+    "slug": "mae-pang"
+  },
+  "code": {
+    "dopa": "501110"
+  },
+  "parent": {
+    "id": "5011",
+    "level": 2,
+    "name": {
+      "th": "พร้าว",
+      "en": "Phrao",
+      "slug": "phrao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5011",
+      "level": 2,
+      "name": {
+        "th": "พร้าว",
+        "en": "Phrao",
+        "slug": "phrao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "50190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.213",
+    "lon": "99.212"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-pang-501110/"
+  }
+}

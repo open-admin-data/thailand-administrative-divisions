@@ -1,0 +1,61 @@
+{
+  "id": "710802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปรังเผล",
+    "en": "Prangphle",
+    "slug": "prangphle"
+  },
+  "code": {
+    "dopa": "710802"
+  },
+  "parent": {
+    "id": "7108",
+    "level": 2,
+    "name": {
+      "th": "สังขละบุรี",
+      "en": "Sangkhla Buri",
+      "slug": "sangkhla-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7108",
+      "level": 2,
+      "name": {
+        "th": "สังขละบุรี",
+        "en": "Sangkhla Buri",
+        "slug": "sangkhla-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "71240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.999",
+    "lon": "98.545"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/prangphle-710802/"
+  }
+}

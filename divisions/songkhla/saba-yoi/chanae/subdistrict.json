@@ -1,0 +1,61 @@
+{
+  "id": "900605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "จะแหน",
+    "en": "Chanae",
+    "slug": "chanae"
+  },
+  "code": {
+    "dopa": "900605"
+  },
+  "parent": {
+    "id": "9006",
+    "level": 2,
+    "name": {
+      "th": "สะบ้าย้อย",
+      "en": "Saba Yoi",
+      "slug": "saba-yoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9006",
+      "level": 2,
+      "name": {
+        "th": "สะบ้าย้อย",
+        "en": "Saba Yoi",
+        "slug": "saba-yoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "90210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.517",
+    "lon": "100.962"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chanae-900605/"
+  }
+}

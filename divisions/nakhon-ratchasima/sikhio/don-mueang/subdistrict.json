@@ -1,0 +1,61 @@
+{
+  "id": "302011",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนเมือง",
+    "en": "Don Mueang",
+    "slug": "don-mueang"
+  },
+  "code": {
+    "dopa": "302011"
+  },
+  "parent": {
+    "id": "3020",
+    "level": 2,
+    "name": {
+      "th": "สีคิ้ว",
+      "en": "Sikhio",
+      "slug": "sikhio"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3020",
+      "level": 2,
+      "name": {
+        "th": "สีคิ้ว",
+        "en": "Sikhio",
+        "slug": "sikhio"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "30140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.020",
+    "lon": "101.456"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-mueang-302011/"
+  }
+}

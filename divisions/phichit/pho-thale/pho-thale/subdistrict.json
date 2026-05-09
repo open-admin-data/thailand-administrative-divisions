@@ -1,0 +1,61 @@
+{
+  "id": "660601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพทะเล",
+    "en": "Pho Thale",
+    "slug": "pho-thale"
+  },
+  "code": {
+    "dopa": "660601"
+  },
+  "parent": {
+    "id": "6606",
+    "level": 2,
+    "name": {
+      "th": "โพทะเล",
+      "en": "Pho Thale",
+      "slug": "pho-thale"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6606",
+      "level": 2,
+      "name": {
+        "th": "โพทะเล",
+        "en": "Pho Thale",
+        "slug": "pho-thale"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "66130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.103",
+    "lon": "100.236"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pho-thale-660601/"
+  }
+}

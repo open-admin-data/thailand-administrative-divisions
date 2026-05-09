@@ -1,0 +1,50 @@
+{
+  "id": "3211",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ลำดวน",
+    "en": "Lamduan",
+    "slug": "lamduan"
+  },
+  "code": {
+    "dopa": "3211"
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "th": "สุรินทร์",
+      "en": "Surin",
+      "slug": "surin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 51
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.751",
+    "lon": "103.770"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/lamduan-3211/"
+  }
+}

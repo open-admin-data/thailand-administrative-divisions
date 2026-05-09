@@ -1,0 +1,61 @@
+{
+  "id": "910109",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตำมะลัง",
+    "en": "Tam Malang",
+    "slug": "tam-malang"
+  },
+  "code": {
+    "dopa": "910109"
+  },
+  "parent": {
+    "id": "9101",
+    "level": 2,
+    "name": {
+      "th": "เมืองสตูล",
+      "en": "Mueang Satun",
+      "slug": "mueang-satun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    },
+    {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสตูล",
+        "en": "Mueang Satun",
+        "slug": "mueang-satun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 3
+  },
+  "zip_codes": [
+    "91000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.556",
+    "lon": "100.044"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tam-malang-910109/"
+  }
+}

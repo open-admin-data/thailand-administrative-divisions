@@ -1,0 +1,61 @@
+{
+  "id": "490203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองแวง",
+    "en": "Nong Waeng",
+    "slug": "nong-waeng"
+  },
+  "code": {
+    "dopa": "490203"
+  },
+  "parent": {
+    "id": "4902",
+    "level": 2,
+    "name": {
+      "th": "นิคมคำสร้อย",
+      "en": "Nikhom Kham Soi",
+      "slug": "nikhom-kham-soi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4902",
+      "level": 2,
+      "name": {
+        "th": "นิคมคำสร้อย",
+        "en": "Nikhom Kham Soi",
+        "slug": "nikhom-kham-soi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "49130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.412",
+    "lon": "104.605"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-waeng-490203/"
+  }
+}

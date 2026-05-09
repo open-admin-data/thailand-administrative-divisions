@@ -1,0 +1,61 @@
+{
+  "id": "342204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ค้อน้อย",
+    "en": "Kho Noi",
+    "slug": "kho-noi"
+  },
+  "code": {
+    "dopa": "342204"
+  },
+  "parent": {
+    "id": "3422",
+    "level": 2,
+    "name": {
+      "th": "สำโรง",
+      "en": "Samrong",
+      "slug": "samrong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3422",
+      "level": 2,
+      "name": {
+        "th": "สำโรง",
+        "en": "Samrong",
+        "slug": "samrong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "34360"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.922",
+    "lon": "104.812"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kho-noi-342204/"
+  }
+}

@@ -1,0 +1,368 @@
+[
+  {
+    "id": "810202",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เขาดิน",
+      "en": "Khao Din",
+      "slug": "khao-din"
+    },
+    "code": {
+      "dopa": "810202"
+    },
+    "parent": {
+      "id": "8102",
+      "level": 2,
+      "name": {
+        "th": "เขาพนม",
+        "en": "Khao Phanom",
+        "slug": "khao-phanom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "th": "กระบี่",
+          "en": "Krabi",
+          "slug": "krabi"
+        }
+      },
+      {
+        "id": "8102",
+        "level": 2,
+        "name": {
+          "th": "เขาพนม",
+          "en": "Khao Phanom",
+          "slug": "khao-phanom"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "81140"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.342",
+      "lon": "99.167"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khao-din-810202/"
+    }
+  },
+  {
+    "id": "810201",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เขาพนม",
+      "en": "Khao Phanom",
+      "slug": "khao-phanom"
+    },
+    "code": {
+      "dopa": "810201"
+    },
+    "parent": {
+      "id": "8102",
+      "level": 2,
+      "name": {
+        "th": "เขาพนม",
+        "en": "Khao Phanom",
+        "slug": "khao-phanom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "th": "กระบี่",
+          "en": "Krabi",
+          "slug": "krabi"
+        }
+      },
+      {
+        "id": "8102",
+        "level": 2,
+        "name": {
+          "th": "เขาพนม",
+          "en": "Khao Phanom",
+          "slug": "khao-phanom"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "81140"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.227",
+      "lon": "99.045"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khao-phanom-810201/"
+    }
+  },
+  {
+    "id": "810206",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "โคกหาร",
+      "en": "Khok Han",
+      "slug": "khok-han"
+    },
+    "code": {
+      "dopa": "810206"
+    },
+    "parent": {
+      "id": "8102",
+      "level": 2,
+      "name": {
+        "th": "เขาพนม",
+        "en": "Khao Phanom",
+        "slug": "khao-phanom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "th": "กระบี่",
+          "en": "Krabi",
+          "slug": "krabi"
+        }
+      },
+      {
+        "id": "8102",
+        "level": 2,
+        "name": {
+          "th": "เขาพนม",
+          "en": "Khao Phanom",
+          "slug": "khao-phanom"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "80240"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.188",
+      "lon": "99.252"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khok-han-810206/"
+    }
+  },
+  {
+    "id": "810205",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หน้าเขา",
+      "en": "Na Khao",
+      "slug": "na-khao"
+    },
+    "code": {
+      "dopa": "810205"
+    },
+    "parent": {
+      "id": "8102",
+      "level": 2,
+      "name": {
+        "th": "เขาพนม",
+        "en": "Khao Phanom",
+        "slug": "khao-phanom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "th": "กระบี่",
+          "en": "Krabi",
+          "slug": "krabi"
+        }
+      },
+      {
+        "id": "8102",
+        "level": 2,
+        "name": {
+          "th": "เขาพนม",
+          "en": "Khao Phanom",
+          "slug": "khao-phanom"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "81140"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.343",
+      "lon": "98.966"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/na-khao-810205/"
+    }
+  },
+  {
+    "id": "810204",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "พรุเตียว",
+      "en": "Phru Tiao",
+      "slug": "phru-tiao"
+    },
+    "code": {
+      "dopa": "810204"
+    },
+    "parent": {
+      "id": "8102",
+      "level": 2,
+      "name": {
+        "th": "เขาพนม",
+        "en": "Khao Phanom",
+        "slug": "khao-phanom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "th": "กระบี่",
+          "en": "Krabi",
+          "slug": "krabi"
+        }
+      },
+      {
+        "id": "8102",
+        "level": 2,
+        "name": {
+          "th": "เขาพนม",
+          "en": "Khao Phanom",
+          "slug": "khao-phanom"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "81140"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.258",
+      "lon": "99.128"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/phru-tiao-810204/"
+    }
+  },
+  {
+    "id": "810203",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "สินปุน",
+      "en": "Sin Pun",
+      "slug": "sin-pun"
+    },
+    "code": {
+      "dopa": "810203"
+    },
+    "parent": {
+      "id": "8102",
+      "level": 2,
+      "name": {
+        "th": "เขาพนม",
+        "en": "Khao Phanom",
+        "slug": "khao-phanom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "th": "กระบี่",
+          "en": "Krabi",
+          "slug": "krabi"
+        }
+      },
+      {
+        "id": "8102",
+        "level": 2,
+        "name": {
+          "th": "เขาพนม",
+          "en": "Khao Phanom",
+          "slug": "khao-phanom"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "80240"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.277",
+      "lon": "99.295"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/sin-pun-810203/"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "310425",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวถนน",
+    "en": "Hua Thanon",
+    "slug": "hua-thanon"
+  },
+  "code": {
+    "dopa": "310425"
+  },
+  "parent": {
+    "id": "3104",
+    "level": 2,
+    "name": {
+      "th": "นางรอง",
+      "en": "Nang Rong",
+      "slug": "nang-rong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3104",
+      "level": 2,
+      "name": {
+        "th": "นางรอง",
+        "en": "Nang Rong",
+        "slug": "nang-rong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "31110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.661",
+    "lon": "102.648"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-thanon-310425/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "960201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เจ๊ะเห",
+    "en": "Chehe",
+    "slug": "chehe"
+  },
+  "code": {
+    "dopa": "960201"
+  },
+  "parent": {
+    "id": "9602",
+    "level": 2,
+    "name": {
+      "th": "ตากใบ",
+      "en": "Tak Bai",
+      "slug": "tak-bai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9602",
+      "level": 2,
+      "name": {
+        "th": "ตากใบ",
+        "en": "Tak Bai",
+        "slug": "tak-bai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "96110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.257",
+    "lon": "102.051"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chehe-960201/"
+  }
+}

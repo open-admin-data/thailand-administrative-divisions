@@ -1,0 +1,61 @@
+{
+  "id": "360405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุดเลาะ",
+    "en": "Kut Lo",
+    "slug": "kut-lo"
+  },
+  "code": {
+    "dopa": "360405"
+  },
+  "parent": {
+    "id": "3604",
+    "level": 2,
+    "name": {
+      "th": "เกษตรสมบูรณ์",
+      "en": "Kaset Sombun",
+      "slug": "kaset-sombun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3604",
+      "level": 2,
+      "name": {
+        "th": "เกษตรสมบูรณ์",
+        "en": "Kaset Sombun",
+        "slug": "kaset-sombun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "36120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.309",
+    "lon": "101.943"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kut-lo-360405/"
+  }
+}

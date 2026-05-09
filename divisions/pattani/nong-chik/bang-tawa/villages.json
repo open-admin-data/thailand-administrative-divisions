@@ -1,0 +1,124 @@
+[
+  {
+    "id": "94030901",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านปากบางตาวา",
+      "en": "Ban Pak Bang Tawa",
+      "slug": "94030901"
+    },
+    "code": {
+      "dopa": "94030901"
+    },
+    "parent": {
+      "id": "940309",
+      "level": 3,
+      "name": {
+        "th": "บางตาวา",
+        "en": "Bang Tawa",
+        "slug": "bang-tawa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "th": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani"
+        }
+      },
+      {
+        "id": "9403",
+        "level": 2,
+        "name": {
+          "th": "หนองจิก",
+          "en": "Nong Chik",
+          "slug": "nong-chik"
+        }
+      },
+      {
+        "id": "940309",
+        "level": 3,
+        "name": {
+          "th": "บางตาวา",
+          "en": "Bang Tawa",
+          "slug": "bang-tawa"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.863246316663508",
+      "lon": "101.16902813315392"
+    },
+    "source": {}
+  },
+  {
+    "id": "94030902",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านบางตาวา",
+      "en": "Ban Bang Tawa",
+      "slug": "94030902"
+    },
+    "code": {
+      "dopa": "94030902"
+    },
+    "parent": {
+      "id": "940309",
+      "level": 3,
+      "name": {
+        "th": "บางตาวา",
+        "en": "Bang Tawa",
+        "slug": "bang-tawa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "th": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani"
+        }
+      },
+      {
+        "id": "9403",
+        "level": 2,
+        "name": {
+          "th": "หนองจิก",
+          "en": "Nong Chik",
+          "slug": "nong-chik"
+        }
+      },
+      {
+        "id": "940309",
+        "level": 3,
+        "name": {
+          "th": "บางตาวา",
+          "en": "Bang Tawa",
+          "slug": "bang-tawa"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.860077349388682",
+      "lon": "101.1795061826706"
+    },
+    "source": {}
+  }
+]

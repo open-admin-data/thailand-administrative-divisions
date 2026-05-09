@@ -1,0 +1,61 @@
+{
+  "id": "301303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กระทุ่มราย",
+    "en": "Krathum Rai",
+    "slug": "krathum-rai"
+  },
+  "code": {
+    "dopa": "301303"
+  },
+  "parent": {
+    "id": "3013",
+    "level": 2,
+    "name": {
+      "th": "ประทาย",
+      "en": "Prathai",
+      "slug": "prathai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3013",
+      "level": 2,
+      "name": {
+        "th": "ประทาย",
+        "en": "Prathai",
+        "slug": "prathai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "30180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.530",
+    "lon": "102.659"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/krathum-rai-301303/"
+  }
+}

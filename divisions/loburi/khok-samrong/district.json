@@ -1,0 +1,50 @@
+{
+  "id": "1603",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โคกสำโรง",
+    "en": "Khok Samrong",
+    "slug": "khok-samrong"
+  },
+  "code": {
+    "dopa": "1603"
+  },
+  "parent": {
+    "id": "16",
+    "level": 1,
+    "name": {
+      "th": "ลพบุรี",
+      "en": "Loburi",
+      "slug": "loburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 144
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.064",
+    "lon": "100.680"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khok-samrong-1603/"
+  }
+}

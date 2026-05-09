@@ -1,0 +1,50 @@
+{
+  "id": "6014",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แม่เปิน",
+    "en": "Mae Poen",
+    "slug": "mae-poen"
+  },
+  "code": {
+    "dopa": "6014"
+  },
+  "parent": {
+    "id": "60",
+    "level": 1,
+    "name": {
+      "th": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 1,
+    "villages": 24
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.738",
+    "lon": "99.294"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mae-poen-6014/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "331607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังหิน",
+    "en": "Wang Hin",
+    "slug": "wang-hin"
+  },
+  "code": {
+    "dopa": "331607"
+  },
+  "parent": {
+    "id": "3316",
+    "level": 2,
+    "name": {
+      "th": "วังหิน",
+      "en": "Wang Hin",
+      "slug": "wang-hin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "th": "วังหิน",
+        "en": "Wang Hin",
+        "slug": "wang-hin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "33270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.920",
+    "lon": "104.240"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-hin-331607/"
+  }
+}

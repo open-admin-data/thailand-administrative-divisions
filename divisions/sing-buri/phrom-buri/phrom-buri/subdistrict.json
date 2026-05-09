@@ -1,0 +1,61 @@
+{
+  "id": "170402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พรหมบุรี",
+    "en": "Phrom Buri",
+    "slug": "phrom-buri"
+  },
+  "code": {
+    "dopa": "170402"
+  },
+  "parent": {
+    "id": "1704",
+    "level": 2,
+    "name": {
+      "th": "พรหมบุรี",
+      "en": "Phrom Buri",
+      "slug": "phrom-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1704",
+      "level": 2,
+      "name": {
+        "th": "พรหมบุรี",
+        "en": "Phrom Buri",
+        "slug": "phrom-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "16160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.837",
+    "lon": "100.451"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phrom-buri-170402/"
+  }
+}

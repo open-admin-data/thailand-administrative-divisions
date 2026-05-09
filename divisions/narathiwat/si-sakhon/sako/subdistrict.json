@@ -1,0 +1,61 @@
+{
+  "id": "960701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ซากอ",
+    "en": "Sako",
+    "slug": "sako"
+  },
+  "code": {
+    "dopa": "960701"
+  },
+  "parent": {
+    "id": "9607",
+    "level": 2,
+    "name": {
+      "th": "ศรีสาคร",
+      "en": "Si Sakhon",
+      "slug": "si-sakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9607",
+      "level": 2,
+      "name": {
+        "th": "ศรีสาคร",
+        "en": "Si Sakhon",
+        "slug": "si-sakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "96210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.230",
+    "lon": "101.522"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sako-960701/"
+  }
+}

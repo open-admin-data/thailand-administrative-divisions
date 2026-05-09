@@ -1,0 +1,50 @@
+{
+  "id": "9610",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สุไหงโก-ลก",
+    "en": "Su-ngai Kolok",
+    "slug": "su-ngai-kolok"
+  },
+  "code": {
+    "dopa": "9610"
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "th": "นราธิวาส",
+      "en": "Narathiwat",
+      "slug": "narathiwat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 47
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.008",
+    "lon": "101.949"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/su-ngai-kolok-9610/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "161002",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ซับสมบูรณ์",
+    "en": "Sap Sombun",
+    "slug": "sap-sombun"
+  },
+  "code": {
+    "dopa": "161002"
+  },
+  "parent": {
+    "id": "1610",
+    "level": 2,
+    "name": {
+      "th": "ลำสนธิ",
+      "en": "Lam Sonthi",
+      "slug": "lam-sonthi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1610",
+      "level": 2,
+      "name": {
+        "th": "ลำสนธิ",
+        "en": "Lam Sonthi",
+        "slug": "lam-sonthi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "15190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.193",
+    "lon": "101.354"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sap-sombun-161002/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "140516",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านกุ่ม",
+    "en": "Ban Kum",
+    "slug": "ban-kum"
+  },
+  "code": {
+    "dopa": "140516"
+  },
+  "parent": {
+    "id": "1405",
+    "level": 2,
+    "name": {
+      "th": "บางบาล",
+      "en": "Bang Ban",
+      "slug": "bang-ban"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1405",
+      "level": 2,
+      "name": {
+        "th": "บางบาล",
+        "en": "Bang Ban",
+        "slug": "bang-ban"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "13250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.436",
+    "lon": "100.492"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-kum-140516/"
+  }
+}

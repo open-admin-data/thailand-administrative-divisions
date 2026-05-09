@@ -1,0 +1,50 @@
+{
+  "id": "1102",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บางบ่อ",
+    "en": "Bang Bo",
+    "slug": "bang-bo"
+  },
+  "code": {
+    "dopa": "1102"
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 74
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.659",
+    "lon": "100.925"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-bo-1102/"
+  }
+}

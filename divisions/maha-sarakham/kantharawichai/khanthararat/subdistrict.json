@@ -1,0 +1,61 @@
+{
+  "id": "440402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คันธารราษฎร์",
+    "en": "Khanthararat",
+    "slug": "khanthararat"
+  },
+  "code": {
+    "dopa": "440402"
+  },
+  "parent": {
+    "id": "4404",
+    "level": 2,
+    "name": {
+      "th": "กันทรวิชัย",
+      "en": "Kantharawichai",
+      "slug": "kantharawichai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4404",
+      "level": 2,
+      "name": {
+        "th": "กันทรวิชัย",
+        "en": "Kantharawichai",
+        "slug": "kantharawichai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "44150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.299",
+    "lon": "103.283"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khanthararat-440402/"
+  }
+}

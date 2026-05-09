@@ -1,0 +1,61 @@
+{
+  "id": "502205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนเปา",
+    "en": "Don Pao",
+    "slug": "don-pao"
+  },
+  "code": {
+    "dopa": "502205"
+  },
+  "parent": {
+    "id": "5022",
+    "level": 2,
+    "name": {
+      "th": "แม่วาง",
+      "en": "Mae Wang",
+      "slug": "mae-wang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5022",
+      "level": 2,
+      "name": {
+        "th": "แม่วาง",
+        "en": "Mae Wang",
+        "slug": "mae-wang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "50360"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.679",
+    "lon": "98.783"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-pao-502205/"
+  }
+}

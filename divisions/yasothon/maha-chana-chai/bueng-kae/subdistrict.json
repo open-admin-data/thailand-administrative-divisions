@@ -1,0 +1,61 @@
+{
+  "id": "350608",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บึงแก",
+    "en": "Bueng Kae",
+    "slug": "bueng-kae"
+  },
+  "code": {
+    "dopa": "350608"
+  },
+  "parent": {
+    "id": "3506",
+    "level": 2,
+    "name": {
+      "th": "มหาชนะชัย",
+      "en": "Maha Chana Chai",
+      "slug": "maha-chana-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "th": "มหาชนะชัย",
+        "en": "Maha Chana Chai",
+        "slug": "maha-chana-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "35130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.511",
+    "lon": "104.358"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bueng-kae-350608/"
+  }
+}

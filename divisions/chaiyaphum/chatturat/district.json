@@ -1,0 +1,50 @@
+{
+  "id": "3606",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "จัตุรัส",
+    "en": "Chatturat",
+    "slug": "chatturat"
+  },
+  "code": {
+    "dopa": "3606"
+  },
+  "parent": {
+    "id": "36",
+    "level": 1,
+    "name": {
+      "th": "ชัยภูมิ",
+      "en": "Chaiyaphum",
+      "slug": "chaiyaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 119
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.474",
+    "lon": "101.805"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chatturat-3606/"
+  }
+}

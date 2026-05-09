@@ -1,0 +1,61 @@
+{
+  "id": "180404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพนางดำตก",
+    "en": "Pho Nang Dam Tok",
+    "slug": "pho-nang-dam-tok"
+  },
+  "code": {
+    "dopa": "180404"
+  },
+  "parent": {
+    "id": "1804",
+    "level": 2,
+    "name": {
+      "th": "สรรพยา",
+      "en": "Sapphaya",
+      "slug": "sapphaya"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1804",
+      "level": 2,
+      "name": {
+        "th": "สรรพยา",
+        "en": "Sapphaya",
+        "slug": "sapphaya"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "17150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.084",
+    "lon": "100.272"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pho-nang-dam-tok-180404/"
+  }
+}

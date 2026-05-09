@@ -1,0 +1,61 @@
+{
+  "id": "461001",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งคลอง",
+    "en": "Thung Khlong",
+    "slug": "thung-khlong"
+  },
+  "code": {
+    "dopa": "461001"
+  },
+  "parent": {
+    "id": "4610",
+    "level": 2,
+    "name": {
+      "th": "คำม่วง",
+      "en": "Kham Muang",
+      "slug": "kham-muang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4610",
+      "level": 2,
+      "name": {
+        "th": "คำม่วง",
+        "en": "Kham Muang",
+        "slug": "kham-muang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "46180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.938",
+    "lon": "103.679"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-khlong-461001/"
+  }
+}

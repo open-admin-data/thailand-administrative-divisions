@@ -1,0 +1,50 @@
+{
+  "id": "3006",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "จักราช",
+    "en": "Chakkarat",
+    "slug": "chakkarat"
+  },
+  "code": {
+    "dopa": "3006"
+  },
+  "parent": {
+    "id": "30",
+    "level": 1,
+    "name": {
+      "th": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 109
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.052",
+    "lon": "102.353"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chakkarat-3006/"
+  }
+}

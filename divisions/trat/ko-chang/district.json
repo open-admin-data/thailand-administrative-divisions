@@ -1,0 +1,50 @@
+{
+  "id": "2307",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เกาะช้าง",
+    "en": "Ko Chang",
+    "slug": "ko-chang"
+  },
+  "code": {
+    "dopa": "2307"
+  },
+  "parent": {
+    "id": "23",
+    "level": 1,
+    "name": {
+      "th": "ตราด",
+      "en": "Trat",
+      "slug": "trat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "th": "ตราด",
+        "en": "Trat",
+        "slug": "trat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 2,
+    "villages": 9
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.161",
+    "lon": "102.247"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ko-chang-2307/"
+  }
+}

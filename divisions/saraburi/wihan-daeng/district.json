@@ -1,0 +1,50 @@
+{
+  "id": "1904",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "วิหารแดง",
+    "en": "Wihan Daeng",
+    "slug": "wihan-daeng"
+  },
+  "code": {
+    "dopa": "1904"
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "th": "สระบุรี",
+      "en": "Saraburi",
+      "slug": "saraburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 54
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.313",
+    "lon": "100.990"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wihan-daeng-1904/"
+  }
+}

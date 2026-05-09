@@ -1,0 +1,50 @@
+{
+  "id": "7005",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านโป่ง",
+    "en": "Ban Pong",
+    "slug": "ban-pong"
+  },
+  "code": {
+    "dopa": "7005"
+  },
+  "parent": {
+    "id": "70",
+    "level": 1,
+    "name": {
+      "th": "ราชบุรี",
+      "en": "Ratchaburi",
+      "slug": "ratchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 15,
+    "villages": 207
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.816",
+    "lon": "99.873"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-pong-7005/"
+  }
+}

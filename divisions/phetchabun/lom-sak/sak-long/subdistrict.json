@@ -1,0 +1,61 @@
+{
+  "id": "670307",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สักหลง",
+    "en": "Sak Long",
+    "slug": "sak-long"
+  },
+  "code": {
+    "dopa": "670307"
+  },
+  "parent": {
+    "id": "6703",
+    "level": 2,
+    "name": {
+      "th": "หล่มสัก",
+      "en": "Lom Sak",
+      "slug": "lom-sak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6703",
+      "level": 2,
+      "name": {
+        "th": "หล่มสัก",
+        "en": "Lom Sak",
+        "slug": "lom-sak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "67110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.844",
+    "lon": "101.275"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sak-long-670307/"
+  }
+}

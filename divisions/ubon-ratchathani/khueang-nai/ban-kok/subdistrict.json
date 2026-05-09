@@ -1,0 +1,61 @@
+{
+  "id": "340412",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านกอก",
+    "en": "Ban Kok",
+    "slug": "ban-kok"
+  },
+  "code": {
+    "dopa": "340412"
+  },
+  "parent": {
+    "id": "3404",
+    "level": 2,
+    "name": {
+      "th": "เขื่องใน",
+      "en": "Khueang Nai",
+      "slug": "khueang-nai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "th": "เขื่องใน",
+        "en": "Khueang Nai",
+        "slug": "khueang-nai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "34320"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.489",
+    "lon": "104.464"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-kok-340412/"
+  }
+}

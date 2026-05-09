@@ -1,0 +1,61 @@
+{
+  "id": "200405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาไม้แก้ว",
+    "en": "Khao Mai Kaeo",
+    "slug": "khao-mai-kaeo"
+  },
+  "code": {
+    "dopa": "200405"
+  },
+  "parent": {
+    "id": "2004",
+    "level": 2,
+    "name": {
+      "th": "บางละมุง",
+      "en": "Bang Lamung",
+      "slug": "bang-lamung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "th": "บางละมุง",
+        "en": "Bang Lamung",
+        "slug": "bang-lamung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "20150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.951",
+    "lon": "101.057"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-mai-kaeo-200405/"
+  }
+}

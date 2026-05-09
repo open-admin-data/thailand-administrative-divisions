@@ -1,0 +1,61 @@
+{
+  "id": "480402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไผ่ล้อม",
+    "en": "Phai Lom",
+    "slug": "phai-lom"
+  },
+  "code": {
+    "dopa": "480402"
+  },
+  "parent": {
+    "id": "4804",
+    "level": 2,
+    "name": {
+      "th": "บ้านแพง",
+      "en": "Ban Phaeng",
+      "slug": "ban-phaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4804",
+      "level": 2,
+      "name": {
+        "th": "บ้านแพง",
+        "en": "Ban Phaeng",
+        "slug": "ban-phaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "48140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.989",
+    "lon": "104.154"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phai-lom-480402/"
+  }
+}

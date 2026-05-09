@@ -1,0 +1,61 @@
+{
+  "id": "720602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองสาหร่าย",
+    "en": "Nong Sarai",
+    "slug": "nong-sarai"
+  },
+  "code": {
+    "dopa": "720602"
+  },
+  "parent": {
+    "id": "7206",
+    "level": 2,
+    "name": {
+      "th": "ดอนเจดีย์",
+      "en": "Don Chedi",
+      "slug": "don-chedi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7206",
+      "level": 2,
+      "name": {
+        "th": "ดอนเจดีย์",
+        "en": "Don Chedi",
+        "slug": "don-chedi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "72170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.671",
+    "lon": "100.011"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-sarai-720602/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "301512",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองระเวียง",
+    "en": "Nong Rawiang",
+    "slug": "nong-rawiang"
+  },
+  "code": {
+    "dopa": "301512"
+  },
+  "parent": {
+    "id": "3015",
+    "level": 2,
+    "name": {
+      "th": "พิมาย",
+      "en": "Phimai",
+      "slug": "phimai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3015",
+      "level": 2,
+      "name": {
+        "th": "พิมาย",
+        "en": "Phimai",
+        "slug": "phimai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "30110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.113",
+    "lon": "102.440"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-rawiang-301512/"
+  }
+}

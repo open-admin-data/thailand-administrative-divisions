@@ -1,0 +1,38 @@
+{
+  "id": "77",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ประจวบคีรีขันธ์",
+    "en": "Prachuap Khiri Khan",
+    "slug": "prachuap-khiri-khan"
+  },
+  "code": {
+    "dopa": "77",
+    "iso": "TH-77"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 8,
+    "subdistricts": 48,
+    "villages": 489
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันตก",
+      "en": "Western"
+    }
+  },
+  "geo": {
+    "lat": "11.805",
+    "lon": "99.784"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/prachuap-khiri-khan-77/"
+  }
+}

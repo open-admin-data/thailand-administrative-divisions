@@ -1,0 +1,61 @@
+{
+  "id": "930801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าบอน",
+    "en": "Pa Bon",
+    "slug": "pa-bon"
+  },
+  "code": {
+    "dopa": "930801"
+  },
+  "parent": {
+    "id": "9308",
+    "level": 2,
+    "name": {
+      "th": "ป่าบอน",
+      "en": "Pa Bon",
+      "slug": "pa-bon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9308",
+      "level": 2,
+      "name": {
+        "th": "ป่าบอน",
+        "en": "Pa Bon",
+        "slug": "pa-bon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "93170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.337",
+    "lon": "100.171"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-bon-930801/"
+  }
+}

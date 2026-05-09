@@ -1,0 +1,61 @@
+{
+  "id": "480205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกสูง",
+    "en": "Khok Sung",
+    "slug": "khok-sung"
+  },
+  "code": {
+    "dopa": "480205"
+  },
+  "parent": {
+    "id": "4802",
+    "level": 2,
+    "name": {
+      "th": "ปลาปาก",
+      "en": "Pla Pak",
+      "slug": "pla-pak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4802",
+      "level": 2,
+      "name": {
+        "th": "ปลาปาก",
+        "en": "Pla Pak",
+        "slug": "pla-pak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "48160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.178",
+    "lon": "104.413"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-sung-480205/"
+  }
+}

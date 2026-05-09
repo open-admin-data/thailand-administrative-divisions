@@ -1,0 +1,38 @@
+{
+  "id": "73",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "นครปฐม",
+    "en": "Nakhon Pathom",
+    "slug": "nakhon-pathom"
+  },
+  "code": {
+    "dopa": "73",
+    "iso": "TH-73"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 7,
+    "subdistricts": 106,
+    "villages": 1079
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central"
+    }
+  },
+  "geo": {
+    "lat": "13.787",
+    "lon": "100.192"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/nakhon-pathom-73/"
+  }
+}

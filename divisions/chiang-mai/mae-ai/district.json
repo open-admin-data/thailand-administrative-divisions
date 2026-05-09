@@ -1,0 +1,50 @@
+{
+  "id": "5010",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แม่อาย",
+    "en": "Mae Ai",
+    "slug": "mae-ai"
+  },
+  "code": {
+    "dopa": "5010"
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 83
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.948",
+    "lon": "99.280"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mae-ai-5010/"
+  }
+}

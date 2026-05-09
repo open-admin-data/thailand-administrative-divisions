@@ -1,0 +1,61 @@
+{
+  "id": "820806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลำแก่น",
+    "en": "Lam Kaen",
+    "slug": "lam-kaen"
+  },
+  "code": {
+    "dopa": "820806"
+  },
+  "parent": {
+    "id": "8208",
+    "level": 2,
+    "name": {
+      "th": "ท้ายเหมือง",
+      "en": "Thai Mueang",
+      "slug": "thai-mueang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8208",
+      "level": 2,
+      "name": {
+        "th": "ท้ายเหมือง",
+        "en": "Thai Mueang",
+        "slug": "thai-mueang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "82120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.578",
+    "lon": "98.258"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lam-kaen-820806/"
+  }
+}

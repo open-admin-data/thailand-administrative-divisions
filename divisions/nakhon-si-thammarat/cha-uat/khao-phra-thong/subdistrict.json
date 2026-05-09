@@ -1,0 +1,61 @@
+{
+  "id": "800709",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ควนหนองหงษ์",
+    "en": "Khao Phra Thong",
+    "slug": "khao-phra-thong"
+  },
+  "code": {
+    "dopa": "800709"
+  },
+  "parent": {
+    "id": "8007",
+    "level": 2,
+    "name": {
+      "th": "ชะอวด",
+      "en": "Cha-uat",
+      "slug": "cha-uat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8007",
+      "level": 2,
+      "name": {
+        "th": "ชะอวด",
+        "en": "Cha-uat",
+        "slug": "cha-uat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "80180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.009",
+    "lon": "99.885"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-phra-thong-800709/"
+  }
+}

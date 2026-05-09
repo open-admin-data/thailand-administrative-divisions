@@ -1,0 +1,50 @@
+{
+  "id": "4605",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "กุฉินารายณ์",
+    "en": "Kuchinarai",
+    "slug": "kuchinarai"
+  },
+  "code": {
+    "dopa": "4605"
+  },
+  "parent": {
+    "id": "46",
+    "level": 1,
+    "name": {
+      "th": "กาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 157
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.506",
+    "lon": "104.001"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kuchinarai-4605/"
+  }
+}

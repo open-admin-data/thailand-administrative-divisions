@@ -1,0 +1,50 @@
+{
+  "id": "9408",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ไม้แก่น",
+    "en": "Mai Kaen",
+    "slug": "mai-kaen"
+  },
+  "code": {
+    "dopa": "9408"
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "th": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 17
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.627",
+    "lon": "101.640"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mai-kaen-9408/"
+  }
+}

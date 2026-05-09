@@ -1,0 +1,50 @@
+{
+  "id": "1018",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต คลองสาน",
+    "en": "Khlong San",
+    "slug": "khlong-san"
+  },
+  "code": {
+    "dopa": "1018"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.731",
+    "lon": "100.497"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khlong-san-1018/"
+  }
+}

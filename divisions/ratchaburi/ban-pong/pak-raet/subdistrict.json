@@ -1,0 +1,61 @@
+{
+  "id": "700504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากแรต",
+    "en": "Pak Raet",
+    "slug": "pak-raet"
+  },
+  "code": {
+    "dopa": "700504"
+  },
+  "parent": {
+    "id": "7005",
+    "level": 2,
+    "name": {
+      "th": "บ้านโป่ง",
+      "en": "Ban Pong",
+      "slug": "ban-pong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7005",
+      "level": 2,
+      "name": {
+        "th": "บ้านโป่ง",
+        "en": "Ban Pong",
+        "slug": "ban-pong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "70110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.833",
+    "lon": "99.890"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-raet-700504/"
+  }
+}

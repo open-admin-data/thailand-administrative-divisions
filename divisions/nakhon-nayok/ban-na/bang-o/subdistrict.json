@@ -1,0 +1,61 @@
+{
+  "id": "260306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางอ้อ",
+    "en": "Bang O",
+    "slug": "bang-o"
+  },
+  "code": {
+    "dopa": "260306"
+  },
+  "parent": {
+    "id": "2603",
+    "level": 2,
+    "name": {
+      "th": "บ้านนา",
+      "en": "Ban Na",
+      "slug": "ban-na"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    {
+      "id": "2603",
+      "level": 2,
+      "name": {
+        "th": "บ้านนา",
+        "en": "Ban Na",
+        "slug": "ban-na"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "26110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.176",
+    "lon": "101.069"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-o-260306/"
+  }
+}

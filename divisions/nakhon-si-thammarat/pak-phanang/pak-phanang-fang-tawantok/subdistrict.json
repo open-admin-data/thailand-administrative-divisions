@@ -1,0 +1,61 @@
+{
+  "id": "801210",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากพนังฝั่งตะวันตก",
+    "en": "Pak Phanang Fang Tawantok",
+    "slug": "pak-phanang-fang-tawantok"
+  },
+  "code": {
+    "dopa": "801210"
+  },
+  "parent": {
+    "id": "8012",
+    "level": 2,
+    "name": {
+      "th": "ปากพนัง",
+      "en": "Pak Phanang",
+      "slug": "pak-phanang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8012",
+      "level": 2,
+      "name": {
+        "th": "ปากพนัง",
+        "en": "Pak Phanang",
+        "slug": "pak-phanang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "80140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.360",
+    "lon": "100.165"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-phanang-fang-tawantok-801210/"
+  }
+}

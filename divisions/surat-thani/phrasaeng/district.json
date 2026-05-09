@@ -1,0 +1,50 @@
+{
+  "id": "8416",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พระแสง",
+    "en": "Phrasaeng",
+    "slug": "phrasaeng"
+  },
+  "code": {
+    "dopa": "8416"
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "th": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 74
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.590",
+    "lon": "99.166"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phrasaeng-8416/"
+  }
+}

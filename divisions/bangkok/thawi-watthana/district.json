@@ -1,0 +1,50 @@
+{
+  "id": "1048",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต ทวีวัฒนา",
+    "en": "Thawi Watthana",
+    "slug": "thawi-watthana"
+  },
+  "code": {
+    "dopa": "1048"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 2,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.758",
+    "lon": "100.348"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thawi-watthana-1048/"
+  }
+}

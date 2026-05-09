@@ -1,0 +1,50 @@
+{
+  "id": "2108",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "นิคมพัฒนา",
+    "en": "Nikhom Phatthana",
+    "slug": "nikhom-phatthana"
+  },
+  "code": {
+    "dopa": "2108"
+  },
+  "parent": {
+    "id": "21",
+    "level": 1,
+    "name": {
+      "th": "ระยอง",
+      "en": "Rayong",
+      "slug": "rayong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 30
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.856",
+    "lon": "101.177"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nikhom-phatthana-2108/"
+  }
+}

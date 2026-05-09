@@ -1,0 +1,61 @@
+{
+  "id": "670513",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยางสาว",
+    "en": "Yang Sao",
+    "slug": "yang-sao"
+  },
+  "code": {
+    "dopa": "670513"
+  },
+  "parent": {
+    "id": "6705",
+    "level": 2,
+    "name": {
+      "th": "วิเชียรบุรี",
+      "en": "Wichian Buri",
+      "slug": "wichian-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6705",
+      "level": 2,
+      "name": {
+        "th": "วิเชียรบุรี",
+        "en": "Wichian Buri",
+        "slug": "wichian-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "67130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.755",
+    "lon": "101.216"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yang-sao-670513/"
+  }
+}

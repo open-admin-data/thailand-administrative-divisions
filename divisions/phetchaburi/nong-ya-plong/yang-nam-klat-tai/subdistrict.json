@@ -1,0 +1,61 @@
+{
+  "id": "760303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยางน้ำกลัดใต้",
+    "en": "Yang Nam Klat Tai",
+    "slug": "yang-nam-klat-tai"
+  },
+  "code": {
+    "dopa": "760303"
+  },
+  "parent": {
+    "id": "7603",
+    "level": 2,
+    "name": {
+      "th": "หนองหญ้าปล้อง",
+      "en": "Nong Ya Plong",
+      "slug": "nong-ya-plong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "th": "หนองหญ้าปล้อง",
+        "en": "Nong Ya Plong",
+        "slug": "nong-ya-plong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "76160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.070",
+    "lon": "99.505"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yang-nam-klat-tai-760303/"
+  }
+}

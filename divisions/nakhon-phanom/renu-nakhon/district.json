@@ -1,0 +1,50 @@
+{
+  "id": "4806",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เรณูนคร",
+    "en": "Renu Nakhon",
+    "slug": "renu-nakhon"
+  },
+  "code": {
+    "dopa": "4806"
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "th": "นครพนม",
+      "en": "Nakhon Phanom",
+      "slug": "nakhon-phanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 91
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.019",
+    "lon": "104.698"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/renu-nakhon-4806/"
+  }
+}

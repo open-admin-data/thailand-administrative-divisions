@@ -1,0 +1,61 @@
+{
+  "id": "270702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองหว้า",
+    "en": "Nong Wa",
+    "slug": "nong-wa"
+  },
+  "code": {
+    "dopa": "270702"
+  },
+  "parent": {
+    "id": "2707",
+    "level": 2,
+    "name": {
+      "th": "เขาฉกรรจ์",
+      "en": "Khao Chakan",
+      "slug": "khao-chakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    },
+    {
+      "id": "2707",
+      "level": 2,
+      "name": {
+        "th": "เขาฉกรรจ์",
+        "en": "Khao Chakan",
+        "slug": "khao-chakan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 28
+  },
+  "zip_codes": [
+    "27000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.672",
+    "lon": "102.037"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-wa-270702/"
+  }
+}

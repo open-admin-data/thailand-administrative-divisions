@@ -1,0 +1,61 @@
+{
+  "id": "341401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ม่วงสามสิบ",
+    "en": "Muang Sam Sip",
+    "slug": "muang-sam-sip"
+  },
+  "code": {
+    "dopa": "341401"
+  },
+  "parent": {
+    "id": "3414",
+    "level": 2,
+    "name": {
+      "th": "ม่วงสามสิบ",
+      "en": "Muang Sam Sip",
+      "slug": "muang-sam-sip"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3414",
+      "level": 2,
+      "name": {
+        "th": "ม่วงสามสิบ",
+        "en": "Muang Sam Sip",
+        "slug": "muang-sam-sip"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "34140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.515",
+    "lon": "104.730"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/muang-sam-sip-341401/"
+  }
+}

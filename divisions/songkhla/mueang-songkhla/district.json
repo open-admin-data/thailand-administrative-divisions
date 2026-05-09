@@ -1,0 +1,50 @@
+{
+  "id": "9001",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองสงขลา",
+    "en": "Mueang Songkhla",
+    "slug": "mueang-songkhla"
+  },
+  "code": {
+    "dopa": "9001"
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "th": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 102
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.163",
+    "lon": "100.542"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-songkhla-9001/"
+  }
+}

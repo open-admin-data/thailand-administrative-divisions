@@ -1,0 +1,61 @@
+{
+  "id": "450905",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกสว่าง",
+    "en": "Khok Sawang",
+    "slug": "khok-sawang"
+  },
+  "code": {
+    "dopa": "450905"
+  },
+  "parent": {
+    "id": "4509",
+    "level": 2,
+    "name": {
+      "th": "หนองพอก",
+      "en": "Nong Phok",
+      "slug": "nong-phok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4509",
+      "level": 2,
+      "name": {
+        "th": "หนองพอก",
+        "en": "Nong Phok",
+        "slug": "nong-phok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "45210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.268",
+    "lon": "104.275"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-sawang-450905/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "410609",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านเชียง",
+    "en": "Ban Chiang",
+    "slug": "ban-chiang"
+  },
+  "code": {
+    "dopa": "410609"
+  },
+  "parent": {
+    "id": "4106",
+    "level": 2,
+    "name": {
+      "th": "หนองหาน",
+      "en": "Nong Han",
+      "slug": "nong-han"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4106",
+      "level": 2,
+      "name": {
+        "th": "หนองหาน",
+        "en": "Nong Han",
+        "slug": "nong-han"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "41320"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.398",
+    "lon": "103.228"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-chiang-410609/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "140410",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กระแชง",
+    "en": "Krachaeng",
+    "slug": "krachaeng"
+  },
+  "code": {
+    "dopa": "140410"
+  },
+  "parent": {
+    "id": "1404",
+    "level": 2,
+    "name": {
+      "th": "บางไทร",
+      "en": "Bang Sai",
+      "slug": "bang-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "th": "บางไทร",
+        "en": "Bang Sai",
+        "slug": "bang-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "13190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.279",
+    "lon": "100.505"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/krachaeng-140410/"
+  }
+}

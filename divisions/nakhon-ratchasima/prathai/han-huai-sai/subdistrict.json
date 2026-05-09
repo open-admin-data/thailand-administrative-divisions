@@ -1,0 +1,61 @@
+{
+  "id": "301309",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หันห้วยทราย",
+    "en": "Han Huai Sai",
+    "slug": "han-huai-sai"
+  },
+  "code": {
+    "dopa": "301309"
+  },
+  "parent": {
+    "id": "3013",
+    "level": 2,
+    "name": {
+      "th": "ประทาย",
+      "en": "Prathai",
+      "slug": "prathai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3013",
+      "level": 2,
+      "name": {
+        "th": "ประทาย",
+        "en": "Prathai",
+        "slug": "prathai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "30180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.611",
+    "lon": "102.656"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/han-huai-sai-301309/"
+  }
+}

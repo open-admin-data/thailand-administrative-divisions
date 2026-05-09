@@ -1,0 +1,61 @@
+{
+  "id": "241104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางโรง",
+    "en": "Bang Rong",
+    "slug": "bang-rong"
+  },
+  "code": {
+    "dopa": "241104"
+  },
+  "parent": {
+    "id": "2411",
+    "level": 2,
+    "name": {
+      "th": "คลองเขื่อน",
+      "en": "Khlong Khuean",
+      "slug": "khlong-khuean"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2411",
+      "level": 2,
+      "name": {
+        "th": "คลองเขื่อน",
+        "en": "Khlong Khuean",
+        "slug": "khlong-khuean"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "24000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.824",
+    "lon": "101.137"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-rong-241104/"
+  }
+}

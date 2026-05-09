@@ -1,0 +1,61 @@
+{
+  "id": "230104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองคันทรง",
+    "en": "Nong Khan Song",
+    "slug": "nong-khan-song"
+  },
+  "code": {
+    "dopa": "230104"
+  },
+  "parent": {
+    "id": "2301",
+    "level": 2,
+    "name": {
+      "th": "เมืองตราด",
+      "en": "Mueang Trat",
+      "slug": "mueang-trat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "th": "ตราด",
+        "en": "Trat",
+        "slug": "trat"
+      }
+    },
+    {
+      "id": "2301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตราด",
+        "en": "Mueang Trat",
+        "slug": "mueang-trat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "23000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.194",
+    "lon": "102.542"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-khan-song-230104/"
+  }
+}

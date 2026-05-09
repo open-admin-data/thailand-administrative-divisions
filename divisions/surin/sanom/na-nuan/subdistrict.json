@@ -1,0 +1,61 @@
+{
+  "id": "320804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นานวน",
+    "en": "Na Nuan",
+    "slug": "na-nuan"
+  },
+  "code": {
+    "dopa": "320804"
+  },
+  "parent": {
+    "id": "3208",
+    "level": 2,
+    "name": {
+      "th": "สนม",
+      "en": "Sanom",
+      "slug": "sanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3208",
+      "level": 2,
+      "name": {
+        "th": "สนม",
+        "en": "Sanom",
+        "slug": "sanom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "32160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.139",
+    "lon": "103.793"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-nuan-320804/"
+  }
+}

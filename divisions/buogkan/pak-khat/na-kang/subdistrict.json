@@ -1,0 +1,61 @@
+{
+  "id": "380503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นากั้ง",
+    "en": "Na Kang",
+    "slug": "na-kang"
+  },
+  "code": {
+    "dopa": "380503"
+  },
+  "parent": {
+    "id": "3805",
+    "level": 2,
+    "name": {
+      "th": "ปากคาด",
+      "en": "Pak Khat",
+      "slug": "pak-khat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3805",
+      "level": 2,
+      "name": {
+        "th": "ปากคาด",
+        "en": "Pak Khat",
+        "slug": "pak-khat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "38190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.382",
+    "lon": "103.285"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-kang-380503/"
+  }
+}

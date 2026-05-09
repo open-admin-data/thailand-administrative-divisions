@@ -1,0 +1,61 @@
+{
+  "id": "710512",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พระแท่น",
+    "en": "Phra Thaen",
+    "slug": "phra-thaen"
+  },
+  "code": {
+    "dopa": "710512"
+  },
+  "parent": {
+    "id": "7105",
+    "level": 2,
+    "name": {
+      "th": "ท่ามะกา",
+      "en": "Tha Maka",
+      "slug": "tha-maka"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7105",
+      "level": 2,
+      "name": {
+        "th": "ท่ามะกา",
+        "en": "Tha Maka",
+        "slug": "tha-maka"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "71130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.018",
+    "lon": "99.792"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phra-thaen-710512/"
+  }
+}

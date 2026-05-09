@@ -1,0 +1,44 @@
+# ศรีภูมิ (Si Phum)
+
+[Home](../../../../) > [Chiang Mai](../../) > [Mueang Chiang Mai](../) > **Si Phum**
+
+ศรีภูมิ (Si Phum) is a subdistrict in เมืองเชียงใหม่ (Mueang Chiang Mai), เชียงใหม่ (Chiang Mai), Thailand.
+
+## Overview / ภาพรวม
+
+| รายการ / Item | ข้อมูล / Details |
+|---------------|-----------------|
+| หมู่บ้าน / Villages | 13 |
+| รหัสไปรษณีย์ / Zip Code | 50200 |
+| DOPA Code | 500101 |
+| พิกัด / Coordinates | 18.796, 98.985 |
+| อำเภอ / District | เมืองเชียงใหม่ (Mueang Chiang Mai) |
+| จังหวัด / Province | เชียงใหม่ (Chiang Mai) |
+
+## หมู่บ้าน / Villages
+
+| หมู่ที่ | ชื่อหมู่บ้าน (Thai) | Village Name (English) | DOPA Code |
+|---------|---------------------|------------------------|-----------|
+| 1 | วัดโลกโมฬี |  | 50010150 |
+| 2 | สามัคคีพัฒนา |  | 50010151 |
+| 3 | เอราวัณซอย๔ |  | 50010152 |
+| 4 | ป่าเป้า |  | 50010153 |
+| 5 | ศรีวิชัย |  | 50010154 |
+| 6 | หมู่บ้านอุ่นอารี |  | 50010155 |
+| 7 | วัดพระเจ้าเม็งรายสามัคคี |  | 50010156 |
+| 8 | เชียงยืน |  | 50010157 |
+| 9 | ควรค่าม้าสามัคคีพัฒนา |  | 50010158 |
+| 10 | บ้านปิง |  | 50010159 |
+| 11 | เชียงมั่น |  | 50010160 |
+| 12 | พัฒนาบ้านกู่เต้า |  | 50010161 |
+| 13 | ล่ามช้าง |  | 50010162 |
+
+## Data Files / ไฟล์ข้อมูล
+
+- [subdistrict.json](subdistrict.json) — Subdistrict metadata
+- [villages.json](villages.json) — All villages in Si Phum (JSON)
+- [villages.csv](villages.csv) — CSV format
+
+---
+
+← Back to [เมืองเชียงใหม่ (Mueang Chiang Mai)](../)

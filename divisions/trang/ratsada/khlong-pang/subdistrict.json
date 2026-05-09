@@ -1,0 +1,61 @@
+{
+  "id": "920902",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองปาง",
+    "en": "Khlong Pang",
+    "slug": "khlong-pang"
+  },
+  "code": {
+    "dopa": "920902"
+  },
+  "parent": {
+    "id": "9209",
+    "level": 2,
+    "name": {
+      "th": "รัษฎา",
+      "en": "Ratsada",
+      "slug": "ratsada"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9209",
+      "level": 2,
+      "name": {
+        "th": "รัษฎา",
+        "en": "Ratsada",
+        "slug": "ratsada"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "92160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.987",
+    "lon": "99.645"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-pang-920902/"
+  }
+}

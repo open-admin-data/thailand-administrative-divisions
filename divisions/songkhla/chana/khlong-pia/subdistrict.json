@@ -1,0 +1,61 @@
+{
+  "id": "900313",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองเปียะ",
+    "en": "Khlong Pia",
+    "slug": "khlong-pia"
+  },
+  "code": {
+    "dopa": "900313"
+  },
+  "parent": {
+    "id": "9003",
+    "level": 2,
+    "name": {
+      "th": "จะนะ",
+      "en": "Chana",
+      "slug": "chana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "th": "จะนะ",
+        "en": "Chana",
+        "slug": "chana"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "90130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.952",
+    "lon": "100.632"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-pia-900313/"
+  }
+}

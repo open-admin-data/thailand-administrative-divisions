@@ -1,0 +1,61 @@
+{
+  "id": "910401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าแพ",
+    "en": "Tha Phae",
+    "slug": "tha-phae"
+  },
+  "code": {
+    "dopa": "910401"
+  },
+  "parent": {
+    "id": "9104",
+    "level": 2,
+    "name": {
+      "th": "ท่าแพ",
+      "en": "Tha Phae",
+      "slug": "tha-phae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    },
+    {
+      "id": "9104",
+      "level": 2,
+      "name": {
+        "th": "ท่าแพ",
+        "en": "Tha Phae",
+        "slug": "tha-phae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "91150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.791",
+    "lon": "99.964"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-phae-910401/"
+  }
+}

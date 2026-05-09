@@ -1,0 +1,50 @@
+{
+  "id": "7106",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ท่าม่วง",
+    "en": "Tha Muang",
+    "slug": "tha-muang"
+  },
+  "code": {
+    "dopa": "7106"
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "th": "กาญจนบุรี",
+      "en": "Kanchanaburi",
+      "slug": "kanchanaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 120
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.974",
+    "lon": "99.625"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tha-muang-7106/"
+  }
+}

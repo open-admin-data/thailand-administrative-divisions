@@ -1,0 +1,61 @@
+{
+  "id": "311303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านดู่",
+    "en": "Ban Du",
+    "slug": "ban-du"
+  },
+  "code": {
+    "dopa": "311303"
+  },
+  "parent": {
+    "id": "3113",
+    "level": 2,
+    "name": {
+      "th": "นาโพธิ์",
+      "en": "Na Pho",
+      "slug": "na-pho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3113",
+      "level": 2,
+      "name": {
+        "th": "นาโพธิ์",
+        "en": "Na Pho",
+        "slug": "na-pho"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "31230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.713",
+    "lon": "102.977"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-du-311303/"
+  }
+}

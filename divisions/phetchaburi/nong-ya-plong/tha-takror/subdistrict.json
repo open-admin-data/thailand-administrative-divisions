@@ -1,0 +1,61 @@
+{
+  "id": "760304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าตะคร้อ",
+    "en": "Tha Takror",
+    "slug": "tha-takror"
+  },
+  "code": {
+    "dopa": "760304"
+  },
+  "parent": {
+    "id": "7603",
+    "level": 2,
+    "name": {
+      "th": "หนองหญ้าปล้อง",
+      "en": "Nong Ya Plong",
+      "slug": "nong-ya-plong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "th": "หนองหญ้าปล้อง",
+        "en": "Nong Ya Plong",
+        "slug": "nong-ya-plong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "76160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.099",
+    "lon": "99.749"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-takror-760304/"
+  }
+}

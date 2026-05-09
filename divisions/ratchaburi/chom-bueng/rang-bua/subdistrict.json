@@ -1,0 +1,61 @@
+{
+  "id": "700206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "รางบัว",
+    "en": "Rang Bua",
+    "slug": "rang-bua"
+  },
+  "code": {
+    "dopa": "700206"
+  },
+  "parent": {
+    "id": "7002",
+    "level": 2,
+    "name": {
+      "th": "จอมบึง",
+      "en": "Chom Bueng",
+      "slug": "chom-bueng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7002",
+      "level": 2,
+      "name": {
+        "th": "จอมบึง",
+        "en": "Chom Bueng",
+        "slug": "chom-bueng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "70150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.533",
+    "lon": "99.533"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rang-bua-700206/"
+  }
+}

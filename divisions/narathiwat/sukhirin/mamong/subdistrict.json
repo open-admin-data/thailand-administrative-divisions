@@ -1,0 +1,61 @@
+{
+  "id": "960901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มาโมง",
+    "en": "Mamong",
+    "slug": "mamong"
+  },
+  "code": {
+    "dopa": "960901"
+  },
+  "parent": {
+    "id": "9609",
+    "level": 2,
+    "name": {
+      "th": "สุคิริน",
+      "en": "Sukhirin",
+      "slug": "sukhirin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9609",
+      "level": 2,
+      "name": {
+        "th": "สุคิริน",
+        "en": "Sukhirin",
+        "slug": "sukhirin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "96190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "5.876",
+    "lon": "101.764"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mamong-960901/"
+  }
+}

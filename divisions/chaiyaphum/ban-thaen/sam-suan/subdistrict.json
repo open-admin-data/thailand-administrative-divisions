@@ -1,0 +1,61 @@
+{
+  "id": "361102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สามสวน",
+    "en": "Sam Suan",
+    "slug": "sam-suan"
+  },
+  "code": {
+    "dopa": "361102"
+  },
+  "parent": {
+    "id": "3611",
+    "level": 2,
+    "name": {
+      "th": "บ้านแท่น",
+      "en": "Ban Thaen",
+      "slug": "ban-thaen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3611",
+      "level": 2,
+      "name": {
+        "th": "บ้านแท่น",
+        "en": "Ban Thaen",
+        "slug": "ban-thaen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "36190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.419",
+    "lon": "102.270"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sam-suan-361102/"
+  }
+}

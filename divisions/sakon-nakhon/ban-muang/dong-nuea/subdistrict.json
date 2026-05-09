@@ -1,0 +1,61 @@
+{
+  "id": "471004",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงเหนือ",
+    "en": "Dong Nuea",
+    "slug": "dong-nuea"
+  },
+  "code": {
+    "dopa": "471004"
+  },
+  "parent": {
+    "id": "4710",
+    "level": 2,
+    "name": {
+      "th": "บ้านม่วง",
+      "en": "Ban Muang",
+      "slug": "ban-muang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4710",
+      "level": 2,
+      "name": {
+        "th": "บ้านม่วง",
+        "en": "Ban Muang",
+        "slug": "ban-muang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "47140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.985",
+    "lon": "103.584"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-nuea-471004/"
+  }
+}

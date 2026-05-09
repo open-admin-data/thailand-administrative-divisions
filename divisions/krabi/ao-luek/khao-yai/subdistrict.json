@@ -1,0 +1,61 @@
+{
+  "id": "810507",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาใหญ่",
+    "en": "Khao Yai",
+    "slug": "khao-yai"
+  },
+  "code": {
+    "dopa": "810507"
+  },
+  "parent": {
+    "id": "8105",
+    "level": 2,
+    "name": {
+      "th": "อ่าวลึก",
+      "en": "Ao Luek",
+      "slug": "ao-luek"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8105",
+      "level": 2,
+      "name": {
+        "th": "อ่าวลึก",
+        "en": "Ao Luek",
+        "slug": "ao-luek"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "81110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.465",
+    "lon": "98.719"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-yai-810507/"
+  }
+}

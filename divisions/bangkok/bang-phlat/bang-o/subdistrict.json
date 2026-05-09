@@ -1,0 +1,61 @@
+{
+  "id": "102502",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง บางอ้อ",
+    "en": "Bang O",
+    "slug": "bang-o"
+  },
+  "code": {
+    "dopa": "102502"
+  },
+  "parent": {
+    "id": "1025",
+    "level": 2,
+    "name": {
+      "th": "เขต บางพลัด",
+      "en": "Bang Phlat",
+      "slug": "bang-phlat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1025",
+      "level": 2,
+      "name": {
+        "th": "เขต บางพลัด",
+        "en": "Bang Phlat",
+        "slug": "bang-phlat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10700"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.802",
+    "lon": "100.512"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-o-102502/"
+  }
+}

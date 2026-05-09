@@ -1,0 +1,61 @@
+{
+  "id": "720401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกคราม",
+    "en": "Khok Khram",
+    "slug": "khok-khram"
+  },
+  "code": {
+    "dopa": "720401"
+  },
+  "parent": {
+    "id": "7204",
+    "level": 2,
+    "name": {
+      "th": "บางปลาม้า",
+      "en": "Bang Pla Ma",
+      "slug": "bang-pla-ma"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7204",
+      "level": 2,
+      "name": {
+        "th": "บางปลาม้า",
+        "en": "Bang Pla Ma",
+        "slug": "bang-pla-ma"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "72150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.414",
+    "lon": "100.151"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-khram-720401/"
+  }
+}

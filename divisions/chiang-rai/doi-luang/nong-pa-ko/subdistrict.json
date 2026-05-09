@@ -1,0 +1,61 @@
+{
+  "id": "571803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองป่าก่อ",
+    "en": "Nong Pa Ko",
+    "slug": "nong-pa-ko"
+  },
+  "code": {
+    "dopa": "571803"
+  },
+  "parent": {
+    "id": "5718",
+    "level": 2,
+    "name": {
+      "th": "ดอยหลวง",
+      "en": "Doi Luang",
+      "slug": "doi-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5718",
+      "level": 2,
+      "name": {
+        "th": "ดอยหลวง",
+        "en": "Doi Luang",
+        "slug": "doi-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "57110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.181",
+    "lon": "100.124"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-pa-ko-571803/"
+  }
+}

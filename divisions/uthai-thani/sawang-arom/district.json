@@ -1,0 +1,50 @@
+{
+  "id": "6103",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สว่างอารมณ์",
+    "en": "Sawang Arom",
+    "slug": "sawang-arom"
+  },
+  "code": {
+    "dopa": "6103"
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "th": "อุทัยธานี",
+      "en": "Uthai Thani",
+      "slug": "uthai-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 65
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.548",
+    "lon": "99.844"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sawang-arom-6103/"
+  }
+}

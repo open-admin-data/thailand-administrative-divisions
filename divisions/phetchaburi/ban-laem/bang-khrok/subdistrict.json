@@ -1,0 +1,61 @@
+{
+  "id": "760708",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางครก",
+    "en": "Bang Khrok",
+    "slug": "bang-khrok"
+  },
+  "code": {
+    "dopa": "760708"
+  },
+  "parent": {
+    "id": "7607",
+    "level": 2,
+    "name": {
+      "th": "บ้านแหลม",
+      "en": "Ban Laem",
+      "slug": "ban-laem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7607",
+      "level": 2,
+      "name": {
+        "th": "บ้านแหลม",
+        "en": "Ban Laem",
+        "slug": "ban-laem"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "76110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.204",
+    "lon": "99.933"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-khrok-760708/"
+  }
+}

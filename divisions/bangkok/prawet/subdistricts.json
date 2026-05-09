@@ -1,0 +1,185 @@
+[
+  {
+    "id": "103203",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง ดอกไม้",
+      "en": "Dokmai",
+      "slug": "dokmai"
+    },
+    "code": {
+      "dopa": "103203"
+    },
+    "parent": {
+      "id": "1032",
+      "level": 2,
+      "name": {
+        "th": "เขต ประเวศ",
+        "en": "Prawet",
+        "slug": "prawet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1032",
+        "level": 2,
+        "name": {
+          "th": "เขต ประเวศ",
+          "en": "Prawet",
+          "slug": "prawet"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10250"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.680",
+      "lon": "100.689"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/dokmai-103203/"
+    }
+  },
+  {
+    "id": "103202",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง หนองบอน",
+      "en": "Nong Bon",
+      "slug": "nong-bon"
+    },
+    "code": {
+      "dopa": "103202"
+    },
+    "parent": {
+      "id": "1032",
+      "level": 2,
+      "name": {
+        "th": "เขต ประเวศ",
+        "en": "Prawet",
+        "slug": "prawet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1032",
+        "level": 2,
+        "name": {
+          "th": "เขต ประเวศ",
+          "en": "Prawet",
+          "slug": "prawet"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10250"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.687",
+      "lon": "100.656"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-bon-103202/"
+    }
+  },
+  {
+    "id": "103201",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง ประเวศ",
+      "en": "Prawet",
+      "slug": "prawet"
+    },
+    "code": {
+      "dopa": "103201"
+    },
+    "parent": {
+      "id": "1032",
+      "level": 2,
+      "name": {
+        "th": "เขต ประเวศ",
+        "en": "Prawet",
+        "slug": "prawet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1032",
+        "level": 2,
+        "name": {
+          "th": "เขต ประเวศ",
+          "en": "Prawet",
+          "slug": "prawet"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10250"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.719",
+      "lon": "100.664"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/prawet-103201/"
+    }
+  }
+]

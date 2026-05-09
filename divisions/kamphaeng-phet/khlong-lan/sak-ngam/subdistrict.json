@@ -1,0 +1,61 @@
+{
+  "id": "620304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สักงาม",
+    "en": "Sak Ngam",
+    "slug": "sak-ngam"
+  },
+  "code": {
+    "dopa": "620304"
+  },
+  "parent": {
+    "id": "6203",
+    "level": 2,
+    "name": {
+      "th": "คลองลาน",
+      "en": "Khlong Lan",
+      "slug": "khlong-lan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6203",
+      "level": 2,
+      "name": {
+        "th": "คลองลาน",
+        "en": "Khlong Lan",
+        "slug": "khlong-lan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "62180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.324",
+    "lon": "99.348"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sak-ngam-620304/"
+  }
+}

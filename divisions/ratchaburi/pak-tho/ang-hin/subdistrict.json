@@ -1,0 +1,61 @@
+{
+  "id": "700808",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อ่างหิน",
+    "en": "Ang Hin",
+    "slug": "ang-hin"
+  },
+  "code": {
+    "dopa": "700808"
+  },
+  "parent": {
+    "id": "7008",
+    "level": 2,
+    "name": {
+      "th": "ปากท่อ",
+      "en": "Pak Tho",
+      "slug": "pak-tho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7008",
+      "level": 2,
+      "name": {
+        "th": "ปากท่อ",
+        "en": "Pak Tho",
+        "slug": "pak-tho"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "70140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.460",
+    "lon": "99.626"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ang-hin-700808/"
+  }
+}

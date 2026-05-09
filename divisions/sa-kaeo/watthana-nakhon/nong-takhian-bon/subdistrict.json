@@ -1,0 +1,61 @@
+{
+  "id": "270510",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองตะเคียนบอน",
+    "en": "Nong Takhian Bon",
+    "slug": "nong-takhian-bon"
+  },
+  "code": {
+    "dopa": "270510"
+  },
+  "parent": {
+    "id": "2705",
+    "level": 2,
+    "name": {
+      "th": "วัฒนานคร",
+      "en": "Watthana Nakhon",
+      "slug": "watthana-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    },
+    {
+      "id": "2705",
+      "level": 2,
+      "name": {
+        "th": "วัฒนานคร",
+        "en": "Watthana Nakhon",
+        "slug": "watthana-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "27160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.916",
+    "lon": "102.265"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-takhian-bon-270510/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "160320",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังจั่น",
+    "en": "Wang Chan",
+    "slug": "wang-chan"
+  },
+  "code": {
+    "dopa": "160320"
+  },
+  "parent": {
+    "id": "1603",
+    "level": 2,
+    "name": {
+      "th": "โคกสำโรง",
+      "en": "Khok Samrong",
+      "slug": "khok-samrong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1603",
+      "level": 2,
+      "name": {
+        "th": "โคกสำโรง",
+        "en": "Khok Samrong",
+        "slug": "khok-samrong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "15120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.102",
+    "lon": "100.673"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-chan-160320/"
+  }
+}

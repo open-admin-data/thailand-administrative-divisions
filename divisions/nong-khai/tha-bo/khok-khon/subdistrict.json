@@ -1,0 +1,61 @@
+{
+  "id": "430204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกคอน",
+    "en": "Khok Khon",
+    "slug": "khok-khon"
+  },
+  "code": {
+    "dopa": "430204"
+  },
+  "parent": {
+    "id": "4302",
+    "level": 2,
+    "name": {
+      "th": "ท่าบ่อ",
+      "en": "Tha Bo",
+      "slug": "tha-bo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4302",
+      "level": 2,
+      "name": {
+        "th": "ท่าบ่อ",
+        "en": "Tha Bo",
+        "slug": "tha-bo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "43110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.781",
+    "lon": "102.496"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-khon-430204/"
+  }
+}

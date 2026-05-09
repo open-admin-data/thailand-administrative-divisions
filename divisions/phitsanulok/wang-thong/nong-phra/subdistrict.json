@@ -1,0 +1,61 @@
+{
+  "id": "650809",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองพระ",
+    "en": "Nong Phra",
+    "slug": "nong-phra"
+  },
+  "code": {
+    "dopa": "650809"
+  },
+  "parent": {
+    "id": "6508",
+    "level": 2,
+    "name": {
+      "th": "วังทอง",
+      "en": "Wang Thong",
+      "slug": "wang-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6508",
+      "level": 2,
+      "name": {
+        "th": "วังทอง",
+        "en": "Wang Thong",
+        "slug": "wang-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "65130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.681",
+    "lon": "100.441"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-phra-650809/"
+  }
+}

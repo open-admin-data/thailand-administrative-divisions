@@ -1,0 +1,50 @@
+{
+  "id": "5012",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สันป่าตอง",
+    "en": "San Pa Tong",
+    "slug": "san-pa-tong"
+  },
+  "code": {
+    "dopa": "5012"
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 120
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.531",
+    "lon": "98.864"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/san-pa-tong-5012/"
+  }
+}

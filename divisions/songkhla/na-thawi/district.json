@@ -1,0 +1,50 @@
+{
+  "id": "9004",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "นาทวี",
+    "en": "Na Thawi",
+    "slug": "na-thawi"
+  },
+  "code": {
+    "dopa": "9004"
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "th": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 92
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.781",
+    "lon": "100.670"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/na-thawi-9004/"
+  }
+}

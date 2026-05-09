@@ -1,0 +1,61 @@
+{
+  "id": "420405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยพิชัย",
+    "en": "Huai Phichai",
+    "slug": "huai-phichai"
+  },
+  "code": {
+    "dopa": "420405"
+  },
+  "parent": {
+    "id": "4204",
+    "level": 2,
+    "name": {
+      "th": "ปากชม",
+      "en": "Pak Chom",
+      "slug": "pak-chom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4204",
+      "level": 2,
+      "name": {
+        "th": "ปากชม",
+        "en": "Pak Chom",
+        "slug": "pak-chom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "42150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.017",
+    "lon": "101.971"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-phichai-420405/"
+  }
+}

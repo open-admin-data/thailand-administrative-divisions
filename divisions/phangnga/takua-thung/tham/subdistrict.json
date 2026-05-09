@@ -1,0 +1,61 @@
+{
+  "id": "820401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ถ้ำ",
+    "en": "Tham",
+    "slug": "tham"
+  },
+  "code": {
+    "dopa": "820401"
+  },
+  "parent": {
+    "id": "8204",
+    "level": 2,
+    "name": {
+      "th": "ตะกั่วทุ่ง",
+      "en": "Takua Thung",
+      "slug": "takua-thung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8204",
+      "level": 2,
+      "name": {
+        "th": "ตะกั่วทุ่ง",
+        "en": "Takua Thung",
+        "slug": "takua-thung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "82130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.409",
+    "lon": "98.412"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tham-820401/"
+  }
+}

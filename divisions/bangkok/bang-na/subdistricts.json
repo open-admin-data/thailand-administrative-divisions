@@ -1,0 +1,63 @@
+[
+  {
+    "id": "104701",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง บางนา",
+      "en": "Bang Na",
+      "slug": "bang-na"
+    },
+    "code": {
+      "dopa": "104701"
+    },
+    "parent": {
+      "id": "1047",
+      "level": 2,
+      "name": {
+        "th": "เขต บางนา",
+        "en": "Bang Na",
+        "slug": "bang-na"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1047",
+        "level": 2,
+        "name": {
+          "th": "เขต บางนา",
+          "en": "Bang Na",
+          "slug": "bang-na"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10260"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.672",
+      "lon": "100.616"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bang-na-104701/"
+    }
+  }
+]

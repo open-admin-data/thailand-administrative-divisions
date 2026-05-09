@@ -1,0 +1,61 @@
+{
+  "id": "570510",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทรายขาว",
+    "en": "Sai Khao",
+    "slug": "sai-khao"
+  },
+  "code": {
+    "dopa": "570510"
+  },
+  "parent": {
+    "id": "5705",
+    "level": 2,
+    "name": {
+      "th": "พาน",
+      "en": "Mueang Phan",
+      "slug": "mueang-phan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5705",
+      "level": 2,
+      "name": {
+        "th": "พาน",
+        "en": "Mueang Phan",
+        "slug": "mueang-phan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "57120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.663",
+    "lon": "99.733"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sai-khao-570510/"
+  }
+}

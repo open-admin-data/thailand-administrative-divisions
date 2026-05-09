@@ -1,0 +1,61 @@
+{
+  "id": "700105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยไผ่",
+    "en": "Huai Phai",
+    "slug": "huai-phai"
+  },
+  "code": {
+    "dopa": "700105"
+  },
+  "parent": {
+    "id": "7001",
+    "level": 2,
+    "name": {
+      "th": "เมืองราชบุรี",
+      "en": "Mueang Ratchaburi",
+      "slug": "mueang-ratchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7001",
+      "level": 2,
+      "name": {
+        "th": "เมืองราชบุรี",
+        "en": "Mueang Ratchaburi",
+        "slug": "mueang-ratchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "70000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.510",
+    "lon": "99.745"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-phai-700105/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "6102",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ทัพทัน",
+    "en": "Thap Than",
+    "slug": "thap-than"
+  },
+  "code": {
+    "dopa": "6102"
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "th": "อุทัยธานี",
+      "en": "Uthai Thani",
+      "slug": "uthai-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 90
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.450",
+    "lon": "99.926"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thap-than-6102/"
+  }
+}

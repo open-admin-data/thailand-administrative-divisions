@@ -1,0 +1,61 @@
+{
+  "id": "341403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดุมใหญ่",
+    "en": "Dum Yai",
+    "slug": "dum-yai"
+  },
+  "code": {
+    "dopa": "341403"
+  },
+  "parent": {
+    "id": "3414",
+    "level": 2,
+    "name": {
+      "th": "ม่วงสามสิบ",
+      "en": "Muang Sam Sip",
+      "slug": "muang-sam-sip"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3414",
+      "level": 2,
+      "name": {
+        "th": "ม่วงสามสิบ",
+        "en": "Muang Sam Sip",
+        "slug": "muang-sam-sip"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "34140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.615",
+    "lon": "104.739"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dum-yai-341403/"
+  }
+}

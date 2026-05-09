@@ -1,0 +1,61 @@
+{
+  "id": "660802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาทราย",
+    "en": "Khao Sai",
+    "slug": "khao-sai"
+  },
+  "code": {
+    "dopa": "660802"
+  },
+  "parent": {
+    "id": "6608",
+    "level": 2,
+    "name": {
+      "th": "ทับคล้อ",
+      "en": "Thap Khlo",
+      "slug": "thap-khlo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6608",
+      "level": 2,
+      "name": {
+        "th": "ทับคล้อ",
+        "en": "Thap Khlo",
+        "slug": "thap-khlo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "66230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.193",
+    "lon": "100.637"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-sai-660802/"
+  }
+}

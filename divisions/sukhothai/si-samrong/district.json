@@ -1,0 +1,50 @@
+{
+  "id": "6406",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ศรีสำโรง",
+    "en": "Si Samrong",
+    "slug": "si-samrong"
+  },
+  "code": {
+    "dopa": "6406"
+  },
+  "parent": {
+    "id": "64",
+    "level": 1,
+    "name": {
+      "th": "สุโขทัย",
+      "en": "Sukhothai",
+      "slug": "sukhothai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 118
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.158",
+    "lon": "99.858"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/si-samrong-6406/"
+  }
+}

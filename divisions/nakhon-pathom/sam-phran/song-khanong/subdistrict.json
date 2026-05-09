@@ -1,0 +1,61 @@
+{
+  "id": "730602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทรงคนอง",
+    "en": "Song Khanong",
+    "slug": "song-khanong"
+  },
+  "code": {
+    "dopa": "730602"
+  },
+  "parent": {
+    "id": "7306",
+    "level": 2,
+    "name": {
+      "th": "สามพราน",
+      "en": "Sam Phran",
+      "slug": "sam-phran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "th": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "73210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.780",
+    "lon": "100.262"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/song-khanong-730602/"
+  }
+}

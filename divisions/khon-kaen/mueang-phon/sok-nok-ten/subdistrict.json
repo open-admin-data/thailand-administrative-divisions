@@ -1,0 +1,61 @@
+{
+  "id": "401212",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โสกนกเต็น",
+    "en": "Sok Nok Ten",
+    "slug": "sok-nok-ten"
+  },
+  "code": {
+    "dopa": "401212"
+  },
+  "parent": {
+    "id": "4012",
+    "level": 2,
+    "name": {
+      "th": "พล",
+      "en": "Mueang Phon",
+      "slug": "mueang-phon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4012",
+      "level": 2,
+      "name": {
+        "th": "พล",
+        "en": "Mueang Phon",
+        "slug": "mueang-phon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "40120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.816",
+    "lon": "102.660"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sok-nok-ten-401212/"
+  }
+}

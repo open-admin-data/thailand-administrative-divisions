@@ -1,0 +1,50 @@
+{
+  "id": "5502",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แม่จริม",
+    "en": "Mae Charim",
+    "slug": "mae-charim"
+  },
+  "code": {
+    "dopa": "5502"
+  },
+  "parent": {
+    "id": "55",
+    "level": 1,
+    "name": {
+      "th": "น่าน",
+      "en": "Nan",
+      "slug": "nan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 38
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.687",
+    "lon": "100.975"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mae-charim-5502/"
+  }
+}

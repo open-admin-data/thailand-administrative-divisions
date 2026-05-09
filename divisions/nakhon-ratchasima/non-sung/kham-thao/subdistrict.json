@@ -1,0 +1,61 @@
+{
+  "id": "301011",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขามเฒ่า",
+    "en": "Kham Thao",
+    "slug": "kham-thao"
+  },
+  "code": {
+    "dopa": "301011"
+  },
+  "parent": {
+    "id": "3010",
+    "level": 2,
+    "name": {
+      "th": "โนนสูง",
+      "en": "Non Sung",
+      "slug": "non-sung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3010",
+      "level": 2,
+      "name": {
+        "th": "โนนสูง",
+        "en": "Non Sung",
+        "slug": "non-sung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "30160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.305",
+    "lon": "102.219"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kham-thao-301011/"
+  }
+}

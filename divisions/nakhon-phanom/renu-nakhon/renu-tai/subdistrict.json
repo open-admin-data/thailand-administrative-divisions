@@ -1,0 +1,61 @@
+{
+  "id": "480608",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เรณูใต้",
+    "en": "Renu Tai",
+    "slug": "renu-tai"
+  },
+  "code": {
+    "dopa": "480608"
+  },
+  "parent": {
+    "id": "4806",
+    "level": 2,
+    "name": {
+      "th": "เรณูนคร",
+      "en": "Renu Nakhon",
+      "slug": "renu-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4806",
+      "level": 2,
+      "name": {
+        "th": "เรณูนคร",
+        "en": "Renu Nakhon",
+        "slug": "renu-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "48170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.019",
+    "lon": "104.660"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/renu-tai-480608/"
+  }
+}

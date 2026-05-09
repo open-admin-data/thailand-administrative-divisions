@@ -1,0 +1,61 @@
+{
+  "id": "481001",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพนสวรรค์",
+    "en": "Phon Sawan",
+    "slug": "phon-sawan"
+  },
+  "code": {
+    "dopa": "481001"
+  },
+  "parent": {
+    "id": "4810",
+    "level": 2,
+    "name": {
+      "th": "โพนสวรรค์",
+      "en": "Phon Sawan",
+      "slug": "phon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4810",
+      "level": 2,
+      "name": {
+        "th": "โพนสวรรค์",
+        "en": "Phon Sawan",
+        "slug": "phon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "48190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.444",
+    "lon": "104.504"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phon-sawan-481001/"
+  }
+}

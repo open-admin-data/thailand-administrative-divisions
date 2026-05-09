@@ -1,0 +1,50 @@
+{
+  "id": "4516",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ศรีสมเด็จ",
+    "en": "Si Somdet",
+    "slug": "si-somdet"
+  },
+  "code": {
+    "dopa": "4516"
+  },
+  "parent": {
+    "id": "45",
+    "level": 1,
+    "name": {
+      "th": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 82
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.973",
+    "lon": "103.535"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/si-somdet-4516/"
+  }
+}

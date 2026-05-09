@@ -1,0 +1,50 @@
+{
+  "id": "1413",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บางซ้าย",
+    "en": "Bang Sai",
+    "slug": "bang-sai"
+  },
+  "code": {
+    "dopa": "1413"
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "th": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 53
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.313",
+    "lon": "100.326"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-sai-1413/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "310910",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หายโศก",
+    "en": "Hai Sok",
+    "slug": "hai-sok"
+  },
+  "code": {
+    "dopa": "310910"
+  },
+  "parent": {
+    "id": "3109",
+    "level": 2,
+    "name": {
+      "th": "พุทไธสง",
+      "en": "Phutthaisong",
+      "slug": "phutthaisong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3109",
+      "level": 2,
+      "name": {
+        "th": "พุทไธสง",
+        "en": "Phutthaisong",
+        "slug": "phutthaisong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "31120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.526",
+    "lon": "102.937"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hai-sok-310910/"
+  }
+}

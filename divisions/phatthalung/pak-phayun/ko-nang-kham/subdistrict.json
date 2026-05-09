@@ -1,0 +1,61 @@
+{
+  "id": "930603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะนางคำ",
+    "en": "Ko Nang Kham",
+    "slug": "ko-nang-kham"
+  },
+  "code": {
+    "dopa": "930603"
+  },
+  "parent": {
+    "id": "9306",
+    "level": 2,
+    "name": {
+      "th": "ปากพะยูน",
+      "en": "Pak Phayun",
+      "slug": "pak-phayun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9306",
+      "level": 2,
+      "name": {
+        "th": "ปากพะยูน",
+        "en": "Pak Phayun",
+        "slug": "pak-phayun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "93120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.343",
+    "lon": "100.389"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-nang-kham-930603/"
+  }
+}

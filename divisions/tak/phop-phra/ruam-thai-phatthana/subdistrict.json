@@ -1,0 +1,61 @@
+{
+  "id": "630705",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "รวมไทยพัฒนา",
+    "en": "Ruam Thai Phatthana",
+    "slug": "ruam-thai-phatthana"
+  },
+  "code": {
+    "dopa": "630705"
+  },
+  "parent": {
+    "id": "6307",
+    "level": 2,
+    "name": {
+      "th": "พบพระ",
+      "en": "Phop Phra",
+      "slug": "phop-phra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6307",
+      "level": 2,
+      "name": {
+        "th": "พบพระ",
+        "en": "Phop Phra",
+        "slug": "phop-phra"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "63160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.440",
+    "lon": "98.786"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ruam-thai-phatthana-630705/"
+  }
+}

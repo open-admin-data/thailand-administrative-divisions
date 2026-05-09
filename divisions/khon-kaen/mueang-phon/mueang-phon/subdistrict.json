@@ -1,0 +1,61 @@
+{
+  "id": "401201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองพล",
+    "en": "Mueang Phon",
+    "slug": "mueang-phon"
+  },
+  "code": {
+    "dopa": "401201"
+  },
+  "parent": {
+    "id": "4012",
+    "level": 2,
+    "name": {
+      "th": "พล",
+      "en": "Mueang Phon",
+      "slug": "mueang-phon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4012",
+      "level": 2,
+      "name": {
+        "th": "พล",
+        "en": "Mueang Phon",
+        "slug": "mueang-phon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 25
+  },
+  "zip_codes": [
+    "40120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.793",
+    "lon": "102.640"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-phon-401201/"
+  }
+}

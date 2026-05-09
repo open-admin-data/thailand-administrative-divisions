@@ -1,0 +1,50 @@
+{
+  "id": "4518",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เชียงขวัญ",
+    "en": "Chiang Khwan",
+    "slug": "chiang-khwan"
+  },
+  "code": {
+    "dopa": "4518"
+  },
+  "parent": {
+    "id": "45",
+    "level": 1,
+    "name": {
+      "th": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 66
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.128",
+    "lon": "103.741"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chiang-khwan-4518/"
+  }
+}

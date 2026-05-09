@@ -1,0 +1,50 @@
+{
+  "id": "4907",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หนองสูง",
+    "en": "Nong Sung",
+    "slug": "nong-sung"
+  },
+  "code": {
+    "dopa": "4907"
+  },
+  "parent": {
+    "id": "49",
+    "level": 1,
+    "name": {
+      "th": "มุกดาหาร",
+      "en": "Mukdahan",
+      "slug": "mukdahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 44
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.491",
+    "lon": "104.360"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-sung-4907/"
+  }
+}

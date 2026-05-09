@@ -1,0 +1,61 @@
+{
+  "id": "800811",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตลิ่งชัน",
+    "en": "Taling Chan",
+    "slug": "taling-chan"
+  },
+  "code": {
+    "dopa": "800811"
+  },
+  "parent": {
+    "id": "8008",
+    "level": 2,
+    "name": {
+      "th": "ท่าศาลา",
+      "en": "Tha Sala",
+      "slug": "tha-sala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8008",
+      "level": 2,
+      "name": {
+        "th": "ท่าศาลา",
+        "en": "Tha Sala",
+        "slug": "tha-sala"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "80160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.783",
+    "lon": "99.821"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/taling-chan-800811/"
+  }
+}

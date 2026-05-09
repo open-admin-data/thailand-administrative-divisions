@@ -1,0 +1,61 @@
+{
+  "id": "670114",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำร้อน",
+    "en": "Nam Ron",
+    "slug": "nam-ron"
+  },
+  "code": {
+    "dopa": "670114"
+  },
+  "parent": {
+    "id": "6701",
+    "level": 2,
+    "name": {
+      "th": "เมืองเพชรบูรณ์",
+      "en": "Mueang Phetchabun",
+      "slug": "mueang-phetchabun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "th": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "67000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.322",
+    "lon": "101.187"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-ron-670114/"
+  }
+}

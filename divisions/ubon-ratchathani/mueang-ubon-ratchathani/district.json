@@ -1,0 +1,50 @@
+{
+  "id": "3401",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองอุบลราชธานี",
+    "en": "Mueang Ubon Ratchathani",
+    "slug": "mueang-ubon-ratchathani"
+  },
+  "code": {
+    "dopa": "3401"
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 261
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.244",
+    "lon": "104.894"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-ubon-ratchathani-3401/"
+  }
+}

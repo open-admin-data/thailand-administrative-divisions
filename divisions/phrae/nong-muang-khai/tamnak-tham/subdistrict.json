@@ -1,0 +1,61 @@
+{
+  "id": "540805",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตำหนักธรรม",
+    "en": "Tamnak Tham",
+    "slug": "tamnak-tham"
+  },
+  "code": {
+    "dopa": "540805"
+  },
+  "parent": {
+    "id": "5408",
+    "level": 2,
+    "name": {
+      "th": "หนองม่วงไข่",
+      "en": "Nong Muang Khai",
+      "slug": "nong-muang-khai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    {
+      "id": "5408",
+      "level": 2,
+      "name": {
+        "th": "หนองม่วงไข่",
+        "en": "Nong Muang Khai",
+        "slug": "nong-muang-khai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "54170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.271",
+    "lon": "100.266"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tamnak-tham-540805/"
+  }
+}

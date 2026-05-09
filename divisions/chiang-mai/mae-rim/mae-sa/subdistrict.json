@@ -1,0 +1,61 @@
+{
+  "id": "500709",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่สา",
+    "en": "Mae Sa",
+    "slug": "mae-sa"
+  },
+  "code": {
+    "dopa": "500709"
+  },
+  "parent": {
+    "id": "5007",
+    "level": 2,
+    "name": {
+      "th": "แม่ริม",
+      "en": "Mae Rim",
+      "slug": "mae-rim"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5007",
+      "level": 2,
+      "name": {
+        "th": "แม่ริม",
+        "en": "Mae Rim",
+        "slug": "mae-rim"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "50180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.894",
+    "lon": "98.945"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-sa-500709/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "120602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางตลาด",
+    "en": "Bang Talat",
+    "slug": "bang-talat"
+  },
+  "code": {
+    "dopa": "120602"
+  },
+  "parent": {
+    "id": "1206",
+    "level": 2,
+    "name": {
+      "th": "ปากเกร็ด",
+      "en": "Pak Kret",
+      "slug": "pak-kret"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "th": "ปากเกร็ด",
+        "en": "Pak Kret",
+        "slug": "pak-kret"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "11120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.896",
+    "lon": "100.521"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-talat-120602/"
+  }
+}

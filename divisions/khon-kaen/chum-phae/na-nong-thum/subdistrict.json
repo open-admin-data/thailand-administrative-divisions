@@ -1,0 +1,61 @@
+{
+  "id": "400503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาหนองทุ่ม",
+    "en": "Na Nong Thum",
+    "slug": "na-nong-thum"
+  },
+  "code": {
+    "dopa": "400503"
+  },
+  "parent": {
+    "id": "4005",
+    "level": 2,
+    "name": {
+      "th": "ชุมแพ",
+      "en": "Chum Phae",
+      "slug": "chum-phae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4005",
+      "level": 2,
+      "name": {
+        "th": "ชุมแพ",
+        "en": "Chum Phae",
+        "slug": "chum-phae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "40290"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.767",
+    "lon": "101.980"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-nong-thum-400503/"
+  }
+}

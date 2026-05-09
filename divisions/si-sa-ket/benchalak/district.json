@@ -1,0 +1,50 @@
+{
+  "id": "3319",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เบญจลักษ์",
+    "en": "Benchalak",
+    "slug": "benchalak"
+  },
+  "code": {
+    "dopa": "3319"
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "th": "ศรีสะเกษ",
+      "en": "Si Sa Ket",
+      "slug": "si-sa-ket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 67
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.778",
+    "lon": "104.594"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/benchalak-3319/"
+  }
+}

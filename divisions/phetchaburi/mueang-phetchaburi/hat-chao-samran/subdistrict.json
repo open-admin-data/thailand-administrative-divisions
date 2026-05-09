@@ -1,0 +1,61 @@
+{
+  "id": "760117",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หาดเจ้าสำราญ",
+    "en": "Hat Chao Samran",
+    "slug": "hat-chao-samran"
+  },
+  "code": {
+    "dopa": "760117"
+  },
+  "parent": {
+    "id": "7601",
+    "level": 2,
+    "name": {
+      "th": "เมืองเพชรบุรี",
+      "en": "Mueang Phetchaburi",
+      "slug": "mueang-phetchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7601",
+      "level": 2,
+      "name": {
+        "th": "เมืองเพชรบุรี",
+        "en": "Mueang Phetchaburi",
+        "slug": "mueang-phetchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "76100"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.007",
+    "lon": "100.044"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hat-chao-samran-760117/"
+  }
+}

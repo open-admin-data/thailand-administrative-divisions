@@ -1,0 +1,61 @@
+{
+  "id": "310310",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กันทรารมย์",
+    "en": "Kanthararom",
+    "slug": "kanthararom"
+  },
+  "code": {
+    "dopa": "310310"
+  },
+  "parent": {
+    "id": "3103",
+    "level": 2,
+    "name": {
+      "th": "กระสัง",
+      "en": "Krasang",
+      "slug": "krasang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3103",
+      "level": 2,
+      "name": {
+        "th": "กระสัง",
+        "en": "Krasang",
+        "slug": "krasang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "31160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.966",
+    "lon": "103.340"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kanthararom-310310/"
+  }
+}

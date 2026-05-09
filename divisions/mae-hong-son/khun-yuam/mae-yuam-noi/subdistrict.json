@@ -1,0 +1,61 @@
+{
+  "id": "580204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่ยวมน้อย",
+    "en": "Mae Yuam Noi",
+    "slug": "mae-yuam-noi"
+  },
+  "code": {
+    "dopa": "580204"
+  },
+  "parent": {
+    "id": "5802",
+    "level": 2,
+    "name": {
+      "th": "ขุนยวม",
+      "en": "Khun Yuam",
+      "slug": "khun-yuam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    },
+    {
+      "id": "5802",
+      "level": 2,
+      "name": {
+        "th": "ขุนยวม",
+        "en": "Khun Yuam",
+        "slug": "khun-yuam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "58140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.742",
+    "lon": "98.051"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-yuam-noi-580204/"
+  }
+}

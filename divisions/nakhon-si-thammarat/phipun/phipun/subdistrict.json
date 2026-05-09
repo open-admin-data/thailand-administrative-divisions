@@ -1,0 +1,61 @@
+{
+  "id": "800501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พิปูน",
+    "en": "Phipun",
+    "slug": "phipun"
+  },
+  "code": {
+    "dopa": "800501"
+  },
+  "parent": {
+    "id": "8005",
+    "level": 2,
+    "name": {
+      "th": "พิปูน",
+      "en": "Phipun",
+      "slug": "phipun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8005",
+      "level": 2,
+      "name": {
+        "th": "พิปูน",
+        "en": "Phipun",
+        "slug": "phipun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "80270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.555",
+    "lon": "99.653"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phipun-800501/"
+  }
+}

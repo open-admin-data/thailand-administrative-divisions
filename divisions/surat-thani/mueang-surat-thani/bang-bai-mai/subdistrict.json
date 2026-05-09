@@ -1,0 +1,61 @@
+{
+  "id": "840105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางใบไม้",
+    "en": "Bang Bai Mai",
+    "slug": "bang-bai-mai"
+  },
+  "code": {
+    "dopa": "840105"
+  },
+  "parent": {
+    "id": "8401",
+    "level": 2,
+    "name": {
+      "th": "เมืองสุราษฎร์ธานี",
+      "en": "Mueang Surat Thani",
+      "slug": "mueang-surat-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8401",
+      "level": 2,
+      "name": {
+        "th": "เมืองสุราษฎร์ธานี",
+        "en": "Mueang Surat Thani",
+        "slug": "mueang-surat-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "84000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.152",
+    "lon": "99.295"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-bai-mai-840105/"
+  }
+}

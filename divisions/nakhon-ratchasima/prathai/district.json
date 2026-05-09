@@ -1,0 +1,50 @@
+{
+  "id": "3013",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ประทาย",
+    "en": "Prathai",
+    "slug": "prathai"
+  },
+  "code": {
+    "dopa": "3013"
+  },
+  "parent": {
+    "id": "30",
+    "level": 1,
+    "name": {
+      "th": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 151
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.536",
+    "lon": "102.724"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/prathai-3013/"
+  }
+}

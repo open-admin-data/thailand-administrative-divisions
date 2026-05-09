@@ -1,0 +1,50 @@
+{
+  "id": "3503",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "กุดชุม",
+    "en": "Kut Chum",
+    "slug": "kut-chum"
+  },
+  "code": {
+    "dopa": "3503"
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "th": "ยโสธร",
+      "en": "Yasothon",
+      "slug": "yasothon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 128
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.972",
+    "lon": "104.317"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kut-chum-3503/"
+  }
+}

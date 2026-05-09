@@ -1,0 +1,61 @@
+{
+  "id": "550709",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยาบหัวนา",
+    "en": "Yap Hua Na",
+    "slug": "yap-hua-na"
+  },
+  "code": {
+    "dopa": "550709"
+  },
+  "parent": {
+    "id": "5507",
+    "level": 2,
+    "name": {
+      "th": "เวียงสา",
+      "en": "Wiang Sa",
+      "slug": "wiang-sa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "th": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "55110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.611",
+    "lon": "100.471"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yap-hua-na-550709/"
+  }
+}

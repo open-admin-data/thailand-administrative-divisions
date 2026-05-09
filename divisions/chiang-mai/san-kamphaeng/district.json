@@ -1,0 +1,50 @@
+{
+  "id": "5013",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สันกำแพง",
+    "en": "San Kamphaeng",
+    "slug": "san-kamphaeng"
+  },
+  "code": {
+    "dopa": "5013"
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 100
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.735",
+    "lon": "99.136"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/san-kamphaeng-5013/"
+  }
+}

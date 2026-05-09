@@ -1,0 +1,50 @@
+{
+  "id": "9105",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ละงู",
+    "en": "La-ngu",
+    "slug": "la-ngu"
+  },
+  "code": {
+    "dopa": "9105"
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "th": "สตูล",
+      "en": "Satun",
+      "slug": "satun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 61
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.834",
+    "lon": "99.691"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/la-ngu-9105/"
+  }
+}

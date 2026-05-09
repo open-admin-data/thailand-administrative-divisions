@@ -1,0 +1,61 @@
+{
+  "id": "770604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากน้ำปราณ",
+    "en": "Pak Nam Pran",
+    "slug": "pak-nam-pran"
+  },
+  "code": {
+    "dopa": "770604"
+  },
+  "parent": {
+    "id": "7706",
+    "level": 2,
+    "name": {
+      "th": "ปราณบุรี",
+      "en": "Pran Buri",
+      "slug": "pran-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    },
+    {
+      "id": "7706",
+      "level": 2,
+      "name": {
+        "th": "ปราณบุรี",
+        "en": "Pran Buri",
+        "slug": "pran-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "77220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.381",
+    "lon": "99.981"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-nam-pran-770604/"
+  }
+}

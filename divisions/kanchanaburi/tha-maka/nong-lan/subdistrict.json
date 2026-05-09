@@ -1,0 +1,61 @@
+{
+  "id": "710517",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองลาน",
+    "en": "Nong Lan",
+    "slug": "nong-lan"
+  },
+  "code": {
+    "dopa": "710517"
+  },
+  "parent": {
+    "id": "7105",
+    "level": 2,
+    "name": {
+      "th": "ท่ามะกา",
+      "en": "Tha Maka",
+      "slug": "tha-maka"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7105",
+      "level": 2,
+      "name": {
+        "th": "ท่ามะกา",
+        "en": "Tha Maka",
+        "slug": "tha-maka"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "71130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.037",
+    "lon": "99.827"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-lan-710517/"
+  }
+}

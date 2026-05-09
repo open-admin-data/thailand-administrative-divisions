@@ -1,0 +1,61 @@
+{
+  "id": "130601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คูคต",
+    "en": "Khu Khot",
+    "slug": "khu-khot"
+  },
+  "code": {
+    "dopa": "130601"
+  },
+  "parent": {
+    "id": "1306",
+    "level": 2,
+    "name": {
+      "th": "ลำลูกกา",
+      "en": "Lam Luk Ka",
+      "slug": "lam-luk-ka"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1306",
+      "level": 2,
+      "name": {
+        "th": "ลำลูกกา",
+        "en": "Lam Luk Ka",
+        "slug": "lam-luk-ka"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 101
+  },
+  "zip_codes": [
+    "12130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.955",
+    "lon": "100.641"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khu-khot-130601/"
+  }
+}

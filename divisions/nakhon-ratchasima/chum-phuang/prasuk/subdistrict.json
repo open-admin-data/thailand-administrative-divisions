@@ -1,0 +1,61 @@
+{
+  "id": "301702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ประสุข",
+    "en": "Prasuk",
+    "slug": "prasuk"
+  },
+  "code": {
+    "dopa": "301702"
+  },
+  "parent": {
+    "id": "3017",
+    "level": 2,
+    "name": {
+      "th": "ชุมพวง",
+      "en": "Chum Phuang",
+      "slug": "chum-phuang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3017",
+      "level": 2,
+      "name": {
+        "th": "ชุมพวง",
+        "en": "Chum Phuang",
+        "slug": "chum-phuang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "30270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.342",
+    "lon": "102.685"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/prasuk-301702/"
+  }
+}

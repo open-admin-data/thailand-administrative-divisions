@@ -1,0 +1,61 @@
+{
+  "id": "130504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คูขวาง",
+    "en": "Khu Khwang",
+    "slug": "khu-khwang"
+  },
+  "code": {
+    "dopa": "130504"
+  },
+  "parent": {
+    "id": "1305",
+    "level": 2,
+    "name": {
+      "th": "ลาดหลุมแก้ว",
+      "en": "Lat Lum Kaeo",
+      "slug": "lat-lum-kaeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1305",
+      "level": 2,
+      "name": {
+        "th": "ลาดหลุมแก้ว",
+        "en": "Lat Lum Kaeo",
+        "slug": "lat-lum-kaeo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "12140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.068",
+    "lon": "100.437"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khu-khwang-130504/"
+  }
+}

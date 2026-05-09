@@ -1,0 +1,50 @@
+{
+  "id": "1201",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองนนทบุรี",
+    "en": "Mueang Nonthaburi",
+    "slug": "mueang-nonthaburi"
+  },
+  "code": {
+    "dopa": "1201"
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "th": "นนทบุรี",
+      "en": "Nonthaburi",
+      "slug": "nonthaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 161
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.823",
+    "lon": "100.492"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-nonthaburi-1201/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "451012",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาเลิง",
+    "en": "Na Loeng",
+    "slug": "na-loeng"
+  },
+  "code": {
+    "dopa": "451012"
+  },
+  "parent": {
+    "id": "4510",
+    "level": 2,
+    "name": {
+      "th": "เสลภูมิ",
+      "en": "Selaphum",
+      "slug": "selaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4510",
+      "level": 2,
+      "name": {
+        "th": "เสลภูมิ",
+        "en": "Selaphum",
+        "slug": "selaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "45120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.933",
+    "lon": "103.915"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-loeng-451012/"
+  }
+}

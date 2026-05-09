@@ -1,0 +1,61 @@
+{
+  "id": "900609",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ธารคีรี",
+    "en": "Than Khiri",
+    "slug": "than-khiri"
+  },
+  "code": {
+    "dopa": "900609"
+  },
+  "parent": {
+    "id": "9006",
+    "level": 2,
+    "name": {
+      "th": "สะบ้าย้อย",
+      "en": "Saba Yoi",
+      "slug": "saba-yoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9006",
+      "level": 2,
+      "name": {
+        "th": "สะบ้าย้อย",
+        "en": "Saba Yoi",
+        "slug": "saba-yoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "90210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.559",
+    "lon": "101.059"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/than-khiri-900609/"
+  }
+}

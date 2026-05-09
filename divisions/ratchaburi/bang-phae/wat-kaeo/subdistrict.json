@@ -1,0 +1,61 @@
+{
+  "id": "700604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วัดแก้ว",
+    "en": "Wat Kaeo",
+    "slug": "wat-kaeo"
+  },
+  "code": {
+    "dopa": "700604"
+  },
+  "parent": {
+    "id": "7006",
+    "level": 2,
+    "name": {
+      "th": "บางแพ",
+      "en": "Bang Phae",
+      "slug": "bang-phae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7006",
+      "level": 2,
+      "name": {
+        "th": "บางแพ",
+        "en": "Bang Phae",
+        "slug": "bang-phae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "70160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.657",
+    "lon": "99.918"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wat-kaeo-700604/"
+  }
+}

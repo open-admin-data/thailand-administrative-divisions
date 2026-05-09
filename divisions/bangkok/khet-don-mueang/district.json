@@ -1,0 +1,50 @@
+{
+  "id": "1036",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต ดอนเมือง",
+    "en": "Khet Don Mueang",
+    "slug": "khet-don-mueang"
+  },
+  "code": {
+    "dopa": "1036"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 1,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.925",
+    "lon": "100.593"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khet-don-mueang-1036/"
+  }
+}

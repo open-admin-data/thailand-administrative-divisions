@@ -1,0 +1,61 @@
+{
+  "id": "401805",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านแท่น",
+    "en": "Ban Thaen",
+    "slug": "ban-thaen"
+  },
+  "code": {
+    "dopa": "401805"
+  },
+  "parent": {
+    "id": "4018",
+    "level": 2,
+    "name": {
+      "th": "ชนบท",
+      "en": "Chonnabot",
+      "slug": "chonnabot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4018",
+      "level": 2,
+      "name": {
+        "th": "ชนบท",
+        "en": "Chonnabot",
+        "slug": "chonnabot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "40180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.966",
+    "lon": "102.603"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-thaen-401805/"
+  }
+}

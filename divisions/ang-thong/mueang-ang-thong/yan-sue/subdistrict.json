@@ -1,0 +1,61 @@
+{
+  "id": "150114",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ย่านซื่อ",
+    "en": "Yan Sue",
+    "slug": "yan-sue"
+  },
+  "code": {
+    "dopa": "150114"
+  },
+  "parent": {
+    "id": "1501",
+    "level": 2,
+    "name": {
+      "th": "เมืองอ่างทอง",
+      "en": "Mueang Ang Thong",
+      "slug": "mueang-ang-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1501",
+      "level": 2,
+      "name": {
+        "th": "เมืองอ่างทอง",
+        "en": "Mueang Ang Thong",
+        "slug": "mueang-ang-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "14000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.619",
+    "lon": "100.447"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yan-sue-150114/"
+  }
+}

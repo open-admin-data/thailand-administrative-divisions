@@ -1,0 +1,61 @@
+{
+  "id": "800113",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไชยมนตรี",
+    "en": "Chai Montri",
+    "slug": "chai-montri"
+  },
+  "code": {
+    "dopa": "800113"
+  },
+  "parent": {
+    "id": "8001",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครศรีธรรมราช",
+      "en": "Mueang Nakhon Si Thammarat",
+      "slug": "mueang-nakhon-si-thammarat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8001",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครศรีธรรมราช",
+        "en": "Mueang Nakhon Si Thammarat",
+        "slug": "mueang-nakhon-si-thammarat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "80000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.401",
+    "lon": "99.914"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chai-montri-800113/"
+  }
+}

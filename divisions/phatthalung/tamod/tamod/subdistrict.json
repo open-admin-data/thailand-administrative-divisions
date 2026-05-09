@@ -1,0 +1,61 @@
+{
+  "id": "930402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตะโหมด",
+    "en": "Tamod",
+    "slug": "tamod"
+  },
+  "code": {
+    "dopa": "930402"
+  },
+  "parent": {
+    "id": "9304",
+    "level": 2,
+    "name": {
+      "th": "ตะโหมด",
+      "en": "Tamod",
+      "slug": "tamod"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9304",
+      "level": 2,
+      "name": {
+        "th": "ตะโหมด",
+        "en": "Tamod",
+        "slug": "tamod"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "93160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.278",
+    "lon": "100.007"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tamod-930402/"
+  }
+}

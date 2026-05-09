@@ -1,0 +1,61 @@
+{
+  "id": "820508",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะคอเขา",
+    "en": "Ko Kho Khao",
+    "slug": "ko-kho-khao"
+  },
+  "code": {
+    "dopa": "820508"
+  },
+  "parent": {
+    "id": "8205",
+    "level": 2,
+    "name": {
+      "th": "ตะกั่วป่า",
+      "en": "Takua Pa",
+      "slug": "takua-pa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "th": "ตะกั่วป่า",
+        "en": "Takua Pa",
+        "slug": "takua-pa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "82190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.962",
+    "lon": "98.284"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-kho-khao-820508/"
+  }
+}

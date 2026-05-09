@@ -1,0 +1,61 @@
+{
+  "id": "802304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทางพูน",
+    "en": "Thang Phun",
+    "slug": "thang-phun"
+  },
+  "code": {
+    "dopa": "802304"
+  },
+  "parent": {
+    "id": "8023",
+    "level": 2,
+    "name": {
+      "th": "เฉลิมพระเกียรติ",
+      "en": "Chaloem Phra Kiat",
+      "slug": "chaloem-phra-kiat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8023",
+      "level": 2,
+      "name": {
+        "th": "เฉลิมพระเกียรติ",
+        "en": "Chaloem Phra Kiat",
+        "slug": "chaloem-phra-kiat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "80190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.239",
+    "lon": "99.981"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thang-phun-802304/"
+  }
+}

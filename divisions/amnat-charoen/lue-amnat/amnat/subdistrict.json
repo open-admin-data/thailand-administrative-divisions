@@ -1,0 +1,61 @@
+{
+  "id": "370701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อำนาจ",
+    "en": "Amnat",
+    "slug": "amnat"
+  },
+  "code": {
+    "dopa": "370701"
+  },
+  "parent": {
+    "id": "3707",
+    "level": 2,
+    "name": {
+      "th": "ลืออำนาจ",
+      "en": "Lue Amnat",
+      "slug": "lue-amnat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    {
+      "id": "3707",
+      "level": 2,
+      "name": {
+        "th": "ลืออำนาจ",
+        "en": "Lue Amnat",
+        "slug": "lue-amnat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "37000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.710",
+    "lon": "104.668"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/amnat-370701/"
+  }
+}

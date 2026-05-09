@@ -1,0 +1,61 @@
+{
+  "id": "960106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กะลุวอเหนือ",
+    "en": "Kaluwo Nuea",
+    "slug": "kaluwo-nuea"
+  },
+  "code": {
+    "dopa": "960106"
+  },
+  "parent": {
+    "id": "9601",
+    "level": 2,
+    "name": {
+      "th": "เมืองนราธิวาส",
+      "en": "Mueang Narathiwat",
+      "slug": "mueang-narathiwat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9601",
+      "level": 2,
+      "name": {
+        "th": "เมืองนราธิวาส",
+        "en": "Mueang Narathiwat",
+        "slug": "mueang-narathiwat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "96000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.404",
+    "lon": "101.862"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kaluwo-nuea-960106/"
+  }
+}

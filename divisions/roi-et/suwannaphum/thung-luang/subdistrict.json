@@ -1,0 +1,61 @@
+{
+  "id": "451108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งหลวง",
+    "en": "Thung Luang",
+    "slug": "thung-luang"
+  },
+  "code": {
+    "dopa": "451108"
+  },
+  "parent": {
+    "id": "4511",
+    "level": 2,
+    "name": {
+      "th": "สุวรรณภูมิ",
+      "en": "Suwannaphum",
+      "slug": "suwannaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4511",
+      "level": 2,
+      "name": {
+        "th": "สุวรรณภูมิ",
+        "en": "Suwannaphum",
+        "slug": "suwannaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "45130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.482",
+    "lon": "103.713"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-luang-451108/"
+  }
+}

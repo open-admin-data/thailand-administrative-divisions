@@ -1,0 +1,61 @@
+{
+  "id": "380404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านต้อง",
+    "en": "Ban Tong",
+    "slug": "ban-tong"
+  },
+  "code": {
+    "dopa": "380404"
+  },
+  "parent": {
+    "id": "3804",
+    "level": 2,
+    "name": {
+      "th": "เซกา",
+      "en": "Seka",
+      "slug": "seka"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3804",
+      "level": 2,
+      "name": {
+        "th": "เซกา",
+        "en": "Seka",
+        "slug": "seka"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "38150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.099",
+    "lon": "103.946"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-tong-380404/"
+  }
+}

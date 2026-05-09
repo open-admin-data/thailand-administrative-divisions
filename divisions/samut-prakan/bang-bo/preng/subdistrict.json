@@ -1,0 +1,61 @@
+{
+  "id": "110207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เปร็ง",
+    "en": "Preng",
+    "slug": "preng"
+  },
+  "code": {
+    "dopa": "110207"
+  },
+  "parent": {
+    "id": "1102",
+    "level": 2,
+    "name": {
+      "th": "บางบ่อ",
+      "en": "Bang Bo",
+      "slug": "bang-bo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "th": "บางบ่อ",
+        "en": "Bang Bo",
+        "slug": "bang-bo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "10560"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.672",
+    "lon": "100.881"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/preng-110207/"
+  }
+}

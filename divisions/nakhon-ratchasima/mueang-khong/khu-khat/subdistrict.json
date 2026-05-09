@@ -1,0 +1,61 @@
+{
+  "id": "300402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คูขาด",
+    "en": "Khu Khat",
+    "slug": "khu-khat"
+  },
+  "code": {
+    "dopa": "300402"
+  },
+  "parent": {
+    "id": "3004",
+    "level": 2,
+    "name": {
+      "th": "คง",
+      "en": "Mueang Khong",
+      "slug": "mueang-khong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3004",
+      "level": 2,
+      "name": {
+        "th": "คง",
+        "en": "Mueang Khong",
+        "slug": "mueang-khong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "30260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.445",
+    "lon": "102.407"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khu-khat-300402/"
+  }
+}

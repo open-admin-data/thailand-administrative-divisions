@@ -1,0 +1,61 @@
+{
+  "id": "700204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ด่านทับตะโก",
+    "en": "Dan Thap Tako",
+    "slug": "dan-thap-tako"
+  },
+  "code": {
+    "dopa": "700204"
+  },
+  "parent": {
+    "id": "7002",
+    "level": 2,
+    "name": {
+      "th": "จอมบึง",
+      "en": "Chom Bueng",
+      "slug": "chom-bueng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7002",
+      "level": 2,
+      "name": {
+        "th": "จอมบึง",
+        "en": "Chom Bueng",
+        "slug": "chom-bueng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "70150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.663",
+    "lon": "99.426"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dan-thap-tako-700204/"
+  }
+}

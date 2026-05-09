@@ -1,0 +1,61 @@
+{
+  "id": "820504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางม่วง",
+    "en": "Bang Muang",
+    "slug": "bang-muang"
+  },
+  "code": {
+    "dopa": "820504"
+  },
+  "parent": {
+    "id": "8205",
+    "level": 2,
+    "name": {
+      "th": "ตะกั่วป่า",
+      "en": "Takua Pa",
+      "slug": "takua-pa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "th": "ตะกั่วป่า",
+        "en": "Takua Pa",
+        "slug": "takua-pa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "82110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.819",
+    "lon": "98.289"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-muang-820504/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "360601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านกอก",
+    "en": "Ban Kok",
+    "slug": "ban-kok"
+  },
+  "code": {
+    "dopa": "360601"
+  },
+  "parent": {
+    "id": "3606",
+    "level": 2,
+    "name": {
+      "th": "จัตุรัส",
+      "en": "Chatturat",
+      "slug": "chatturat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3606",
+      "level": 2,
+      "name": {
+        "th": "จัตุรัส",
+        "en": "Chatturat",
+        "slug": "chatturat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "36130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.467",
+    "lon": "101.902"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-kok-360601/"
+  }
+}

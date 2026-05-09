@@ -1,0 +1,61 @@
+{
+  "id": "960305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บาเระเหนือ",
+    "en": "Bare Nuea",
+    "slug": "bare-nuea"
+  },
+  "code": {
+    "dopa": "960305"
+  },
+  "parent": {
+    "id": "9603",
+    "level": 2,
+    "name": {
+      "th": "บาเจาะ",
+      "en": "Bacho",
+      "slug": "bacho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9603",
+      "level": 2,
+      "name": {
+        "th": "บาเจาะ",
+        "en": "Bacho",
+        "slug": "bacho"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "96170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.571",
+    "lon": "101.613"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bare-nuea-960305/"
+  }
+}

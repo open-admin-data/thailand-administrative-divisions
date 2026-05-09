@@ -1,0 +1,50 @@
+{
+  "id": "1011",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต ลาดกระบัง",
+    "en": "Lat Krabang",
+    "slug": "lat-krabang"
+  },
+  "code": {
+    "dopa": "1011"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.723",
+    "lon": "100.771"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/lat-krabang-1011/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "910404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าเรือ",
+    "en": "Tha Rua",
+    "slug": "tha-rua"
+  },
+  "code": {
+    "dopa": "910404"
+  },
+  "parent": {
+    "id": "9104",
+    "level": 2,
+    "name": {
+      "th": "ท่าแพ",
+      "en": "Tha Phae",
+      "slug": "tha-phae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    },
+    {
+      "id": "9104",
+      "level": 2,
+      "name": {
+        "th": "ท่าแพ",
+        "en": "Tha Phae",
+        "slug": "tha-phae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "91150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.803",
+    "lon": "99.917"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-rua-910404/"
+  }
+}

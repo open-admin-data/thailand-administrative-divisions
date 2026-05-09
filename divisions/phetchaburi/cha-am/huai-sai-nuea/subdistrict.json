@@ -1,0 +1,61 @@
+{
+  "id": "760406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยทรายเหนือ",
+    "en": "Huai Sai Nuea",
+    "slug": "huai-sai-nuea"
+  },
+  "code": {
+    "dopa": "760406"
+  },
+  "parent": {
+    "id": "7604",
+    "level": 2,
+    "name": {
+      "th": "ชะอำ",
+      "en": "Cha-am",
+      "slug": "cha-am"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "th": "ชะอำ",
+        "en": "Cha-am",
+        "slug": "cha-am"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "76120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.715",
+    "lon": "99.832"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-sai-nuea-760406/"
+  }
+}

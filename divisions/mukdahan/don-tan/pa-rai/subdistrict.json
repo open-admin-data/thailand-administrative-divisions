@@ -1,0 +1,61 @@
+{
+  "id": "490303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าไร่",
+    "en": "Pa Rai",
+    "slug": "pa-rai"
+  },
+  "code": {
+    "dopa": "490303"
+  },
+  "parent": {
+    "id": "4903",
+    "level": 2,
+    "name": {
+      "th": "ดอนตาล",
+      "en": "Don Tan",
+      "slug": "don-tan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4903",
+      "level": 2,
+      "name": {
+        "th": "ดอนตาล",
+        "en": "Don Tan",
+        "slug": "don-tan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "49120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.254",
+    "lon": "104.701"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-rai-490303/"
+  }
+}

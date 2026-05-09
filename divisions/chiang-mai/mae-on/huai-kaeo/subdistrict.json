@@ -1,0 +1,61 @@
+{
+  "id": "502304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยแก้ว",
+    "en": "Huai Kaeo",
+    "slug": "huai-kaeo"
+  },
+  "code": {
+    "dopa": "502304"
+  },
+  "parent": {
+    "id": "5023",
+    "level": 2,
+    "name": {
+      "th": "แม่ออน",
+      "en": "Mae On",
+      "slug": "mae-on"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5023",
+      "level": 2,
+      "name": {
+        "th": "แม่ออน",
+        "en": "Mae On",
+        "slug": "mae-on"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "50130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.884",
+    "lon": "99.327"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-kaeo-502304/"
+  }
+}

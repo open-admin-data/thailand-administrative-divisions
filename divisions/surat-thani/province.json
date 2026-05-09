@@ -1,0 +1,38 @@
+{
+  "id": "84",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "สุราษฎร์ธานี",
+    "en": "Surat Thani",
+    "slug": "surat-thani"
+  },
+  "code": {
+    "dopa": "84",
+    "iso": "TH-84"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 19,
+    "subdistricts": 130,
+    "villages": 1315
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern"
+    }
+  },
+  "geo": {
+    "lat": "9.708",
+    "lon": "99.675"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/surat-thani-84/"
+  }
+}

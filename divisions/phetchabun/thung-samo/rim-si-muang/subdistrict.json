@@ -1,0 +1,61 @@
+{
+  "id": "671104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ริมสีม่วง",
+    "en": "Rim Si Muang",
+    "slug": "rim-si-muang"
+  },
+  "code": {
+    "dopa": "671104"
+  },
+  "parent": {
+    "id": "6711",
+    "level": 2,
+    "name": {
+      "th": "เขาค้อ",
+      "en": "Thung Samo",
+      "slug": "thung-samo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6711",
+      "level": 2,
+      "name": {
+        "th": "เขาค้อ",
+        "en": "Thung Samo",
+        "slug": "thung-samo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "67270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.520",
+    "lon": "101.042"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rim-si-muang-671104/"
+  }
+}

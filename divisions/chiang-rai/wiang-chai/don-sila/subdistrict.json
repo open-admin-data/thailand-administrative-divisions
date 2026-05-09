@@ -1,0 +1,61 @@
+{
+  "id": "570206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนศิลา",
+    "en": "Don Sila",
+    "slug": "don-sila"
+  },
+  "code": {
+    "dopa": "570206"
+  },
+  "parent": {
+    "id": "5702",
+    "level": 2,
+    "name": {
+      "th": "เวียงชัย",
+      "en": "Wiang Chai",
+      "slug": "wiang-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5702",
+      "level": 2,
+      "name": {
+        "th": "เวียงชัย",
+        "en": "Wiang Chai",
+        "slug": "wiang-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "57210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.805",
+    "lon": "100.005"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-sila-570206/"
+  }
+}

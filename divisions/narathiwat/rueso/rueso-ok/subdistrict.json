@@ -1,0 +1,61 @@
+{
+  "id": "960607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "รือเสาะออก",
+    "en": "Rueso Ok",
+    "slug": "rueso-ok"
+  },
+  "code": {
+    "dopa": "960607"
+  },
+  "parent": {
+    "id": "9606",
+    "level": 2,
+    "name": {
+      "th": "รือเสาะ",
+      "en": "Rueso",
+      "slug": "rueso"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9606",
+      "level": 2,
+      "name": {
+        "th": "รือเสาะ",
+        "en": "Rueso",
+        "slug": "rueso"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "96150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.394",
+    "lon": "101.554"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rueso-ok-960607/"
+  }
+}

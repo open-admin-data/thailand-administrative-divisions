@@ -1,0 +1,61 @@
+{
+  "id": "343002",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พะลาน",
+    "en": "Phalan",
+    "slug": "phalan"
+  },
+  "code": {
+    "dopa": "343002"
+  },
+  "parent": {
+    "id": "3430",
+    "level": 2,
+    "name": {
+      "th": "นาตาล",
+      "en": "Na Tan",
+      "slug": "na-tan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3430",
+      "level": 2,
+      "name": {
+        "th": "นาตาล",
+        "en": "Na Tan",
+        "slug": "na-tan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "34170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.960",
+    "lon": "105.332"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phalan-343002/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "160204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดีลัง",
+    "en": "Di Lang",
+    "slug": "di-lang"
+  },
+  "code": {
+    "dopa": "160204"
+  },
+  "parent": {
+    "id": "1602",
+    "level": 2,
+    "name": {
+      "th": "พัฒนานิคม",
+      "en": "Phatthana Nikhom",
+      "slug": "phatthana-nikhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1602",
+      "level": 2,
+      "name": {
+        "th": "พัฒนานิคม",
+        "en": "Phatthana Nikhom",
+        "slug": "phatthana-nikhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "15220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.940",
+    "lon": "100.852"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/di-lang-160204/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "170107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "จักรสีห์",
+    "en": "Chaksi",
+    "slug": "chaksi"
+  },
+  "code": {
+    "dopa": "170107"
+  },
+  "parent": {
+    "id": "1701",
+    "level": 2,
+    "name": {
+      "th": "เมืองสิงห์บุรี",
+      "en": "Mueang Sing Buri",
+      "slug": "mueang-sing-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1701",
+      "level": 2,
+      "name": {
+        "th": "เมืองสิงห์บุรี",
+        "en": "Mueang Sing Buri",
+        "slug": "mueang-sing-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "16000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.836",
+    "lon": "100.398"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chaksi-170107/"
+  }
+}

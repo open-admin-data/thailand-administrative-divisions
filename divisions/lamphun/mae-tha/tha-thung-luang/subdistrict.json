@@ -1,0 +1,61 @@
+{
+  "id": "510205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทาทุ่งหลวง",
+    "en": "Tha Thung Luang",
+    "slug": "tha-thung-luang"
+  },
+  "code": {
+    "dopa": "510205"
+  },
+  "parent": {
+    "id": "5102",
+    "level": 2,
+    "name": {
+      "th": "แม่ทา",
+      "en": "Mae Tha",
+      "slug": "mae-tha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5102",
+      "level": 2,
+      "name": {
+        "th": "แม่ทา",
+        "en": "Mae Tha",
+        "slug": "mae-tha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "51170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.438",
+    "lon": "99.030"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-thung-luang-510205/"
+  }
+}

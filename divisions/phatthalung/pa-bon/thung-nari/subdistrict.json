@@ -1,0 +1,61 @@
+{
+  "id": "930804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งนารี",
+    "en": "Thung Nari",
+    "slug": "thung-nari"
+  },
+  "code": {
+    "dopa": "930804"
+  },
+  "parent": {
+    "id": "9308",
+    "level": 2,
+    "name": {
+      "th": "ป่าบอน",
+      "en": "Pa Bon",
+      "slug": "pa-bon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9308",
+      "level": 2,
+      "name": {
+        "th": "ป่าบอน",
+        "en": "Pa Bon",
+        "slug": "pa-bon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "93170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.191",
+    "lon": "100.130"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-nari-930804/"
+  }
+}

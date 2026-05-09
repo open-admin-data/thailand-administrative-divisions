@@ -1,0 +1,61 @@
+{
+  "id": "801702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านลำนาว",
+    "en": "Ban Lamnao",
+    "slug": "ban-lamnao"
+  },
+  "code": {
+    "dopa": "801702"
+  },
+  "parent": {
+    "id": "8017",
+    "level": 2,
+    "name": {
+      "th": "บางขัน",
+      "en": "Bang Khan",
+      "slug": "bang-khan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8017",
+      "level": 2,
+      "name": {
+        "th": "บางขัน",
+        "en": "Bang Khan",
+        "slug": "bang-khan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "80360"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.968",
+    "lon": "99.417"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-lamnao-801702/"
+  }
+}

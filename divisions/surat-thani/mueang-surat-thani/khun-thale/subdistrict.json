@@ -1,0 +1,61 @@
+{
+  "id": "840104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขุนทะเล",
+    "en": "Khun Thale",
+    "slug": "khun-thale"
+  },
+  "code": {
+    "dopa": "840104"
+  },
+  "parent": {
+    "id": "8401",
+    "level": 2,
+    "name": {
+      "th": "เมืองสุราษฎร์ธานี",
+      "en": "Mueang Surat Thani",
+      "slug": "mueang-surat-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8401",
+      "level": 2,
+      "name": {
+        "th": "เมืองสุราษฎร์ธานี",
+        "en": "Mueang Surat Thani",
+        "slug": "mueang-surat-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "84100"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.023",
+    "lon": "99.353"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khun-thale-840104/"
+  }
+}

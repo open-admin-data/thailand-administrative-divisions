@@ -1,0 +1,61 @@
+{
+  "id": "411001",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองกุงทับม้า",
+    "en": "Nong Kung Thap Ma",
+    "slug": "nong-kung-thap-ma"
+  },
+  "code": {
+    "dopa": "411001"
+  },
+  "parent": {
+    "id": "4110",
+    "level": 2,
+    "name": {
+      "th": "วังสามหมอ",
+      "en": "Wang Sam Mo",
+      "slug": "wang-sam-mo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4110",
+      "level": 2,
+      "name": {
+        "th": "วังสามหมอ",
+        "en": "Wang Sam Mo",
+        "slug": "wang-sam-mo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "41280"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.019",
+    "lon": "103.472"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-kung-thap-ma-411001/"
+  }
+}

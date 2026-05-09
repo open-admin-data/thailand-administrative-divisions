@@ -1,0 +1,61 @@
+{
+  "id": "311401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สระแก้ว",
+    "en": "Sa Kaeo",
+    "slug": "sa-kaeo"
+  },
+  "code": {
+    "dopa": "311401"
+  },
+  "parent": {
+    "id": "3114",
+    "level": 2,
+    "name": {
+      "th": "หนองหงส์",
+      "en": "Nong Hong",
+      "slug": "nong-hong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3114",
+      "level": 2,
+      "name": {
+        "th": "หนองหงส์",
+        "en": "Nong Hong",
+        "slug": "nong-hong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "31240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.828",
+    "lon": "102.681"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sa-kaeo-311401/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "610410",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขากวางทอง",
+    "en": "Khao Kwang Thong",
+    "slug": "khao-kwang-thong"
+  },
+  "code": {
+    "dopa": "610410"
+  },
+  "parent": {
+    "id": "6104",
+    "level": 2,
+    "name": {
+      "th": "หนองฉาง",
+      "en": "Nong Chang",
+      "slug": "nong-chang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6104",
+      "level": 2,
+      "name": {
+        "th": "หนองฉาง",
+        "en": "Nong Chang",
+        "slug": "nong-chang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "61110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.394",
+    "lon": "99.694"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-kwang-thong-610410/"
+  }
+}

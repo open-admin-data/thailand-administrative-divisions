@@ -1,0 +1,61 @@
+{
+  "id": "160706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวลำ",
+    "en": "Hua Lam",
+    "slug": "hua-lam"
+  },
+  "code": {
+    "dopa": "160706"
+  },
+  "parent": {
+    "id": "1607",
+    "level": 2,
+    "name": {
+      "th": "ท่าหลวง",
+      "en": "Tha Luang",
+      "slug": "tha-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1607",
+      "level": 2,
+      "name": {
+        "th": "ท่าหลวง",
+        "en": "Tha Luang",
+        "slug": "tha-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "15230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.029",
+    "lon": "101.292"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-lam-160706/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "501805",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สบโขง",
+    "en": "Sop Khong",
+    "slug": "sop-khong"
+  },
+  "code": {
+    "dopa": "501805"
+  },
+  "parent": {
+    "id": "5018",
+    "level": 2,
+    "name": {
+      "th": "อมก๋อย",
+      "en": "Omkoi",
+      "slug": "omkoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5018",
+      "level": 2,
+      "name": {
+        "th": "อมก๋อย",
+        "en": "Omkoi",
+        "slug": "omkoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "50310"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.654",
+    "lon": "98.217"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sop-khong-501805/"
+  }
+}

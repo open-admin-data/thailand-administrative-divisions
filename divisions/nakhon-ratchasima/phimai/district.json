@@ -1,0 +1,50 @@
+{
+  "id": "3015",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พิมาย",
+    "en": "Phimai",
+    "slug": "phimai"
+  },
+  "code": {
+    "dopa": "3015"
+  },
+  "parent": {
+    "id": "30",
+    "level": 1,
+    "name": {
+      "th": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 213
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.162",
+    "lon": "102.403"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phimai-3015/"
+  }
+}

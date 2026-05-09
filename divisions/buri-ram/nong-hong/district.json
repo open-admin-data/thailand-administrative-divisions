@@ -1,0 +1,50 @@
+{
+  "id": "3114",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หนองหงส์",
+    "en": "Nong Hong",
+    "slug": "nong-hong"
+  },
+  "code": {
+    "dopa": "3114"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 100
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.889",
+    "lon": "102.670"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-hong-3114/"
+  }
+}

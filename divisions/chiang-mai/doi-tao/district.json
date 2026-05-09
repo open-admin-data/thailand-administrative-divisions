@@ -1,0 +1,50 @@
+{
+  "id": "5017",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ดอยเต่า",
+    "en": "Doi Tao",
+    "slug": "doi-tao"
+  },
+  "code": {
+    "dopa": "5017"
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 43
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.053",
+    "lon": "98.626"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/doi-tao-5017/"
+  }
+}

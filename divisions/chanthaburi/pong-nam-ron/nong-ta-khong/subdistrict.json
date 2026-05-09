@@ -1,0 +1,61 @@
+{
+  "id": "220404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองตาคง",
+    "en": "Nong Ta Khong",
+    "slug": "nong-ta-khong"
+  },
+  "code": {
+    "dopa": "220404"
+  },
+  "parent": {
+    "id": "2204",
+    "level": 2,
+    "name": {
+      "th": "โป่งน้ำร้อน",
+      "en": "Pong Nam Ron",
+      "slug": "pong-nam-ron"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    },
+    {
+      "id": "2204",
+      "level": 2,
+      "name": {
+        "th": "โป่งน้ำร้อน",
+        "en": "Pong Nam Ron",
+        "slug": "pong-nam-ron"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "22140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.067",
+    "lon": "102.381"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-ta-khong-220404/"
+  }
+}

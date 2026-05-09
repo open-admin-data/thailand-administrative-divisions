@@ -1,0 +1,61 @@
+{
+  "id": "201006",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พลวงทอง",
+    "en": "Phluang Thong",
+    "slug": "phluang-thong"
+  },
+  "code": {
+    "dopa": "201006"
+  },
+  "parent": {
+    "id": "2010",
+    "level": 2,
+    "name": {
+      "th": "บ่อทอง",
+      "en": "Bo Thong",
+      "slug": "bo-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2010",
+      "level": 2,
+      "name": {
+        "th": "บ่อทอง",
+        "en": "Bo Thong",
+        "slug": "bo-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "20270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.217",
+    "lon": "101.626"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phluang-thong-201006/"
+  }
+}

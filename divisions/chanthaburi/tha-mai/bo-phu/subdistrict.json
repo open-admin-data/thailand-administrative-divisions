@@ -1,0 +1,61 @@
+{
+  "id": "220304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อพุ",
+    "en": "Bo Phu",
+    "slug": "bo-phu"
+  },
+  "code": {
+    "dopa": "220304"
+  },
+  "parent": {
+    "id": "2203",
+    "level": 2,
+    "name": {
+      "th": "ท่าใหม่",
+      "en": "Tha Mai",
+      "slug": "tha-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    },
+    {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "th": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "22120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.595",
+    "lon": "102.028"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-phu-220304/"
+  }
+}

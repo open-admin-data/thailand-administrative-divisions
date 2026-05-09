@@ -1,0 +1,61 @@
+{
+  "id": "860710",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาทะลุ",
+    "en": "Khao Thalu",
+    "slug": "khao-thalu"
+  },
+  "code": {
+    "dopa": "860710"
+  },
+  "parent": {
+    "id": "8607",
+    "level": 2,
+    "name": {
+      "th": "สวี",
+      "en": "Sawi",
+      "slug": "sawi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8607",
+      "level": 2,
+      "name": {
+        "th": "สวี",
+        "en": "Sawi",
+        "slug": "sawi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "86130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.197",
+    "lon": "98.915"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-thalu-860710/"
+  }
+}

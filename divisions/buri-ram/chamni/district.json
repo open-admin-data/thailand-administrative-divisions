@@ -1,0 +1,50 @@
+{
+  "id": "3118",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ชำนิ",
+    "en": "Chamni",
+    "slug": "chamni"
+  },
+  "code": {
+    "dopa": "3118"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 63
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.755",
+    "lon": "102.888"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chamni-3118/"
+  }
+}

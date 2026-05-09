@@ -1,0 +1,61 @@
+{
+  "id": "380409",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โสกก่าม",
+    "en": "Sok Kam",
+    "slug": "sok-kam"
+  },
+  "code": {
+    "dopa": "380409"
+  },
+  "parent": {
+    "id": "3804",
+    "level": 2,
+    "name": {
+      "th": "เซกา",
+      "en": "Seka",
+      "slug": "seka"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3804",
+      "level": 2,
+      "name": {
+        "th": "เซกา",
+        "en": "Seka",
+        "slug": "seka"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "38150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.075",
+    "lon": "104.015"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sok-kam-380409/"
+  }
+}

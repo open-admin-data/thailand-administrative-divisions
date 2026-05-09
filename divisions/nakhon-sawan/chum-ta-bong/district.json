@@ -1,0 +1,50 @@
+{
+  "id": "6015",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ชุมตาบง",
+    "en": "Chum Ta Bong",
+    "slug": "chum-ta-bong"
+  },
+  "code": {
+    "dopa": "6015"
+  },
+  "parent": {
+    "id": "60",
+    "level": 1,
+    "name": {
+      "th": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 2,
+    "villages": 23
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.627",
+    "lon": "99.572"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chum-ta-bong-6015/"
+  }
+}

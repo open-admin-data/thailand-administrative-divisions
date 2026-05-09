@@ -1,0 +1,185 @@
+[
+  {
+    "id": "551101",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ดู่พงษ์",
+      "en": "Du Phong",
+      "slug": "du-phong"
+    },
+    "code": {
+      "dopa": "551101"
+    },
+    "parent": {
+      "id": "5511",
+      "level": 2,
+      "name": {
+        "th": "สันติสุข",
+        "en": "Santi Suk",
+        "slug": "santi-suk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "th": "น่าน",
+          "en": "Nan",
+          "slug": "nan"
+        }
+      },
+      {
+        "id": "5511",
+        "level": 2,
+        "name": {
+          "th": "สันติสุข",
+          "en": "Santi Suk",
+          "slug": "santi-suk"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "55210"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.898",
+      "lon": "100.902"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/du-phong-551101/"
+    }
+  },
+  {
+    "id": "551102",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ป่าแลวหลวง",
+      "en": "Pa Laeo Luang",
+      "slug": "pa-laeo-luang"
+    },
+    "code": {
+      "dopa": "551102"
+    },
+    "parent": {
+      "id": "5511",
+      "level": 2,
+      "name": {
+        "th": "สันติสุข",
+        "en": "Santi Suk",
+        "slug": "santi-suk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "th": "น่าน",
+          "en": "Nan",
+          "slug": "nan"
+        }
+      },
+      {
+        "id": "5511",
+        "level": 2,
+        "name": {
+          "th": "สันติสุข",
+          "en": "Santi Suk",
+          "slug": "santi-suk"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "55210"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.957",
+      "lon": "100.950"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/pa-laeo-luang-551102/"
+    }
+  },
+  {
+    "id": "551103",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "พงษ์",
+      "en": "Phong",
+      "slug": "phong"
+    },
+    "code": {
+      "dopa": "551103"
+    },
+    "parent": {
+      "id": "5511",
+      "level": 2,
+      "name": {
+        "th": "สันติสุข",
+        "en": "Santi Suk",
+        "slug": "santi-suk"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "th": "น่าน",
+          "en": "Nan",
+          "slug": "nan"
+        }
+      },
+      {
+        "id": "5511",
+        "level": 2,
+        "name": {
+          "th": "สันติสุข",
+          "en": "Santi Suk",
+          "slug": "santi-suk"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 13
+    },
+    "zip_codes": [
+      "55210"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.899",
+      "lon": "100.983"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/phong-551103/"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "331601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บุสูง",
+    "en": "Bu Sung",
+    "slug": "bu-sung"
+  },
+  "code": {
+    "dopa": "331601"
+  },
+  "parent": {
+    "id": "3316",
+    "level": 2,
+    "name": {
+      "th": "วังหิน",
+      "en": "Wang Hin",
+      "slug": "wang-hin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3316",
+      "level": 2,
+      "name": {
+        "th": "วังหิน",
+        "en": "Wang Hin",
+        "slug": "wang-hin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 22
+  },
+  "zip_codes": [
+    "33270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.957",
+    "lon": "104.209"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bu-sung-331601/"
+  }
+}

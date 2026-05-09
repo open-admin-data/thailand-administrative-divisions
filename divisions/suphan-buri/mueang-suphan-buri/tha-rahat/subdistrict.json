@@ -1,0 +1,61 @@
+{
+  "id": "720104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าระหัด",
+    "en": "Tha Rahat",
+    "slug": "tha-rahat"
+  },
+  "code": {
+    "dopa": "720104"
+  },
+  "parent": {
+    "id": "7201",
+    "level": 2,
+    "name": {
+      "th": "เมืองสุพรรณบุรี",
+      "en": "Mueang Suphan Buri",
+      "slug": "mueang-suphan-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7201",
+      "level": 2,
+      "name": {
+        "th": "เมืองสุพรรณบุรี",
+        "en": "Mueang Suphan Buri",
+        "slug": "mueang-suphan-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "72000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.445",
+    "lon": "100.164"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-rahat-720104/"
+  }
+}

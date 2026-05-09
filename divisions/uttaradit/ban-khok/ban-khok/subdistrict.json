@@ -1,0 +1,61 @@
+{
+  "id": "530602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านโคก",
+    "en": "Ban Khok",
+    "slug": "ban-khok"
+  },
+  "code": {
+    "dopa": "530602"
+  },
+  "parent": {
+    "id": "5306",
+    "level": 2,
+    "name": {
+      "th": "บ้านโคก",
+      "en": "Ban Khok",
+      "slug": "ban-khok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5306",
+      "level": 2,
+      "name": {
+        "th": "บ้านโคก",
+        "en": "Ban Khok",
+        "slug": "ban-khok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "53180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.008",
+    "lon": "101.084"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-khok-530602/"
+  }
+}

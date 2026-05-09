@@ -1,0 +1,50 @@
+{
+  "id": "5607",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แม่ใจ",
+    "en": "Mae Chai",
+    "slug": "mae-chai"
+  },
+  "code": {
+    "dopa": "5607"
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "th": "พะเยา",
+      "en": "Phayao",
+      "slug": "phayao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 66
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.330",
+    "lon": "99.846"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mae-chai-5607/"
+  }
+}

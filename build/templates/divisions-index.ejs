@@ -1,0 +1,17 @@
+# Thailand Provinces / จังหวัดในประเทศไทย
+
+[Home](../)
+
+<% if (aiIntro) { -%>
+<%- aiIntro %>
+
+<% } -%>
+Complete index of **<%= provinces.length %> provinces** in Thailand's administrative hierarchy, with **<%= stats.districts.toLocaleString() %> districts**, **<%= stats.subdistricts.toLocaleString() %> subdistricts**, and **<%= stats.villages.toLocaleString() %> villages**. Each subdistrict includes zip codes (รหัสไปรษณีย์) and all levels include geographic coordinates (พิกัด).
+
+## All Provinces / ทุกจังหวัด
+
+| # | จังหวัด / Province | ภาค / Region | อำเภอ / Districts | ตำบล / Subdistricts | พิกัด / Coordinates | Link |
+|---|--------------------|--------------|--------------------|---------------------|---------------------|------|
+<% provinces.forEach((p, i) => { -%>
+| <%= i + 1 %> | <%= p.name.th %> (<%= p.name.en %>) | <%= p.metadata.region.th %> | <%= p.children_count.districts %> | <%= p.children_count.subdistricts.toLocaleString() %> | <%= p.geo.lat %>, <%= p.geo.lon %> | [Browse](<%= p.name.slug %>/) |
+<% }) -%>

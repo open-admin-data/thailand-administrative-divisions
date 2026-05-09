@@ -1,0 +1,61 @@
+{
+  "id": "421010",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยส้ม",
+    "en": "Huai Som",
+    "slug": "huai-som"
+  },
+  "code": {
+    "dopa": "421010"
+  },
+  "parent": {
+    "id": "4210",
+    "level": 2,
+    "name": {
+      "th": "ภูกระดึง",
+      "en": "Phu Kradueng",
+      "slug": "phu-kradueng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4210",
+      "level": 2,
+      "name": {
+        "th": "ภูกระดึง",
+        "en": "Phu Kradueng",
+        "slug": "phu-kradueng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "42180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.937",
+    "lon": "101.939"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-som-421010/"
+  }
+}

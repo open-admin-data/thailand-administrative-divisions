@@ -1,0 +1,61 @@
+{
+  "id": "650607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตลุกเทียม",
+    "en": "Taluk Thiam",
+    "slug": "taluk-thiam"
+  },
+  "code": {
+    "dopa": "650607"
+  },
+  "parent": {
+    "id": "6506",
+    "level": 2,
+    "name": {
+      "th": "พรหมพิราม",
+      "en": "Phrom Phiram",
+      "slug": "phrom-phiram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6506",
+      "level": 2,
+      "name": {
+        "th": "พรหมพิราม",
+        "en": "Phrom Phiram",
+        "slug": "phrom-phiram"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "65180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.149",
+    "lon": "100.039"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/taluk-thiam-650607/"
+  }
+}

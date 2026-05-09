@@ -1,0 +1,61 @@
+{
+  "id": "401203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โจดหนองแก",
+    "en": "Chot Nong Kae",
+    "slug": "chot-nong-kae"
+  },
+  "code": {
+    "dopa": "401203"
+  },
+  "parent": {
+    "id": "4012",
+    "level": 2,
+    "name": {
+      "th": "พล",
+      "en": "Mueang Phon",
+      "slug": "mueang-phon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4012",
+      "level": 2,
+      "name": {
+        "th": "พล",
+        "en": "Mueang Phon",
+        "slug": "mueang-phon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "40120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.856",
+    "lon": "102.650"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chot-nong-kae-401203/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "300111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวทะเล",
+    "en": "Hua Thale",
+    "slug": "hua-thale"
+  },
+  "code": {
+    "dopa": "300111"
+  },
+  "parent": {
+    "id": "3001",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครราชสีมา",
+      "en": "Mueang Nakhon Ratchasima",
+      "slug": "mueang-nakhon-ratchasima"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3001",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครราชสีมา",
+        "en": "Mueang Nakhon Ratchasima",
+        "slug": "mueang-nakhon-ratchasima"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "30000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.965",
+    "lon": "102.140"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-thale-300111/"
+  }
+}

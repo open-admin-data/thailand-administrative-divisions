@@ -1,0 +1,61 @@
+{
+  "id": "450714",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกสูง",
+    "en": "Khok Sung",
+    "slug": "khok-sung"
+  },
+  "code": {
+    "dopa": "450714"
+  },
+  "parent": {
+    "id": "4507",
+    "level": 2,
+    "name": {
+      "th": "โพนทอง",
+      "en": "Phon Thong",
+      "slug": "phon-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4507",
+      "level": 2,
+      "name": {
+        "th": "โพนทอง",
+        "en": "Phon Thong",
+        "slug": "phon-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "45110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.206",
+    "lon": "103.873"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-sung-450714/"
+  }
+}

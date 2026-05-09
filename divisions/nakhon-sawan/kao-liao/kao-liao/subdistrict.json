@@ -1,0 +1,61 @@
+{
+  "id": "600602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เก้าเลี้ยว",
+    "en": "Kao Liao",
+    "slug": "kao-liao"
+  },
+  "code": {
+    "dopa": "600602"
+  },
+  "parent": {
+    "id": "6006",
+    "level": 2,
+    "name": {
+      "th": "เก้าเลี้ยว",
+      "en": "Kao Liao",
+      "slug": "kao-liao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6006",
+      "level": 2,
+      "name": {
+        "th": "เก้าเลี้ยว",
+        "en": "Kao Liao",
+        "slug": "kao-liao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "60230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.849",
+    "lon": "100.085"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kao-liao-600602/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "400405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "จระเข้",
+    "en": "Chorakhe",
+    "slug": "chorakhe"
+  },
+  "code": {
+    "dopa": "400405"
+  },
+  "parent": {
+    "id": "4004",
+    "level": 2,
+    "name": {
+      "th": "หนองเรือ",
+      "en": "Nong Ruea",
+      "slug": "nong-ruea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4004",
+      "level": 2,
+      "name": {
+        "th": "หนองเรือ",
+        "en": "Nong Ruea",
+        "slug": "nong-ruea"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "40240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.458",
+    "lon": "102.536"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chorakhe-400405/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "830103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะแก้ว",
+    "en": "Ko Kaeo",
+    "slug": "ko-kaeo"
+  },
+  "code": {
+    "dopa": "830103"
+  },
+  "parent": {
+    "id": "8301",
+    "level": 2,
+    "name": {
+      "th": "เมืองภูเก็ต",
+      "en": "Mueang Phuket",
+      "slug": "mueang-phuket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "th": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket"
+      }
+    },
+    {
+      "id": "8301",
+      "level": 2,
+      "name": {
+        "th": "เมืองภูเก็ต",
+        "en": "Mueang Phuket",
+        "slug": "mueang-phuket"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "83000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.948",
+    "lon": "98.378"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-kaeo-830103/"
+  }
+}

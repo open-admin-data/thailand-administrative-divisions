@@ -1,0 +1,61 @@
+{
+  "id": "770105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อ่าวน้อย",
+    "en": "Ao Noi",
+    "slug": "ao-noi"
+  },
+  "code": {
+    "dopa": "770105"
+  },
+  "parent": {
+    "id": "7701",
+    "level": 2,
+    "name": {
+      "th": "เมืองประจวบคีรีขันธ์",
+      "en": "Prachuap Khiri Khan",
+      "slug": "prachuap-khiri-khan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    },
+    {
+      "id": "7701",
+      "level": 2,
+      "name": {
+        "th": "เมืองประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "77000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "11.904",
+    "lon": "99.701"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ao-noi-770105/"
+  }
+}

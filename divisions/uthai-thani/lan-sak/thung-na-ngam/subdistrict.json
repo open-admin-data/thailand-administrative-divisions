@@ -1,0 +1,61 @@
+{
+  "id": "610706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งนางาม",
+    "en": "Thung Na Ngam",
+    "slug": "thung-na-ngam"
+  },
+  "code": {
+    "dopa": "610706"
+  },
+  "parent": {
+    "id": "6107",
+    "level": 2,
+    "name": {
+      "th": "ลานสัก",
+      "en": "Lan Sak",
+      "slug": "lan-sak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6107",
+      "level": 2,
+      "name": {
+        "th": "ลานสัก",
+        "en": "Lan Sak",
+        "slug": "lan-sak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "61160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.385",
+    "lon": "99.610"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-na-ngam-610706/"
+  }
+}

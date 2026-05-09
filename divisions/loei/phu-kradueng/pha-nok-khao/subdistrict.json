@@ -1,0 +1,61 @@
+{
+  "id": "421005",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ผานกเค้า",
+    "en": "Pha Nok Khao",
+    "slug": "pha-nok-khao"
+  },
+  "code": {
+    "dopa": "421005"
+  },
+  "parent": {
+    "id": "4210",
+    "level": 2,
+    "name": {
+      "th": "ภูกระดึง",
+      "en": "Phu Kradueng",
+      "slug": "phu-kradueng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4210",
+      "level": 2,
+      "name": {
+        "th": "ภูกระดึง",
+        "en": "Phu Kradueng",
+        "slug": "phu-kradueng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "42180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.896",
+    "lon": "101.986"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pha-nok-khao-421005/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "8207",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ทับปุด",
+    "en": "Thap Put",
+    "slug": "thap-put"
+  },
+  "code": {
+    "dopa": "8207"
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "th": "พังงา",
+      "en": "Phangnga",
+      "slug": "phangnga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 38
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.543",
+    "lon": "98.664"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thap-put-8207/"
+  }
+}

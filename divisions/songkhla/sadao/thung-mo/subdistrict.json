@@ -1,0 +1,61 @@
+{
+  "id": "901005",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งหมอ",
+    "en": "Thung Mo",
+    "slug": "thung-mo"
+  },
+  "code": {
+    "dopa": "901005"
+  },
+  "parent": {
+    "id": "9010",
+    "level": 2,
+    "name": {
+      "th": "สะเดา",
+      "en": "Sadao",
+      "slug": "sadao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9010",
+      "level": 2,
+      "name": {
+        "th": "สะเดา",
+        "en": "Sadao",
+        "slug": "sadao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "90240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.745",
+    "lon": "100.378"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-mo-901005/"
+  }
+}

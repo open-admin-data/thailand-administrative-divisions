@@ -1,0 +1,50 @@
+{
+  "id": "2303",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขาสมิง",
+    "en": "Khao Saming",
+    "slug": "khao-saming"
+  },
+  "code": {
+    "dopa": "2303"
+  },
+  "parent": {
+    "id": "23",
+    "level": 1,
+    "name": {
+      "th": "ตราด",
+      "en": "Trat",
+      "slug": "trat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "th": "ตราด",
+        "en": "Trat",
+        "slug": "trat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 66
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.469",
+    "lon": "102.435"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khao-saming-2303/"
+  }
+}

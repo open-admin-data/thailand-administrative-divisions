@@ -1,0 +1,61 @@
+{
+  "id": "580703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ถ้ำลอด",
+    "en": "Tham Lot",
+    "slug": "tham-lot"
+  },
+  "code": {
+    "dopa": "580703"
+  },
+  "parent": {
+    "id": "5807",
+    "level": 2,
+    "name": {
+      "th": "ปางมะผ้า",
+      "en": "Pang Mapha",
+      "slug": "pang-mapha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    },
+    {
+      "id": "5807",
+      "level": 2,
+      "name": {
+        "th": "ปางมะผ้า",
+        "en": "Pang Mapha",
+        "slug": "pang-mapha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "58150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.582",
+    "lon": "98.309"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tham-lot-580703/"
+  }
+}

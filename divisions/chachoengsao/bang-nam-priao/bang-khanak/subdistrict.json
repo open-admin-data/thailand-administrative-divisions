@@ -1,0 +1,61 @@
+{
+  "id": "240302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางขนาก",
+    "en": "Bang Khanak",
+    "slug": "bang-khanak"
+  },
+  "code": {
+    "dopa": "240302"
+  },
+  "parent": {
+    "id": "2403",
+    "level": 2,
+    "name": {
+      "th": "บางน้ำเปรี้ยว",
+      "en": "Bang Nam Priao",
+      "slug": "bang-nam-priao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2403",
+      "level": 2,
+      "name": {
+        "th": "บางน้ำเปรี้ยว",
+        "en": "Bang Nam Priao",
+        "slug": "bang-nam-priao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "24150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.858",
+    "lon": "101.115"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-khanak-240302/"
+  }
+}

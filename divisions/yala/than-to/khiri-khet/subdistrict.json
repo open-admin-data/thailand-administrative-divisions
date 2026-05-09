@@ -1,0 +1,61 @@
+{
+  "id": "950404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คีรีเขต",
+    "en": "Khiri Khet",
+    "slug": "khiri-khet"
+  },
+  "code": {
+    "dopa": "950404"
+  },
+  "parent": {
+    "id": "9504",
+    "level": 2,
+    "name": {
+      "th": "ธารโต",
+      "en": "Than To",
+      "slug": "than-to"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9504",
+      "level": 2,
+      "name": {
+        "th": "ธารโต",
+        "en": "Than To",
+        "slug": "than-to"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "95150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.153",
+    "lon": "101.116"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khiri-khet-950404/"
+  }
+}

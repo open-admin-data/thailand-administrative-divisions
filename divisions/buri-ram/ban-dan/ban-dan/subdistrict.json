@@ -1,0 +1,61 @@
+{
+  "id": "312101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านด่าน",
+    "en": "Ban Dan",
+    "slug": "ban-dan"
+  },
+  "code": {
+    "dopa": "312101"
+  },
+  "parent": {
+    "id": "3121",
+    "level": 2,
+    "name": {
+      "th": "บ้านด่าน",
+      "en": "Ban Dan",
+      "slug": "ban-dan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3121",
+      "level": 2,
+      "name": {
+        "th": "บ้านด่าน",
+        "en": "Ban Dan",
+        "slug": "ban-dan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "31000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.112",
+    "lon": "103.162"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-dan-312101/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "2306",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เกาะกูด",
+    "en": "Ko Kut",
+    "slug": "ko-kut"
+  },
+  "code": {
+    "dopa": "2306"
+  },
+  "parent": {
+    "id": "23",
+    "level": 1,
+    "name": {
+      "th": "ตราด",
+      "en": "Trat",
+      "slug": "trat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "th": "ตราด",
+        "en": "Trat",
+        "slug": "trat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 2,
+    "villages": 8
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "11.817",
+    "lon": "102.397"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ko-kut-2306/"
+  }
+}

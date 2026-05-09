@@ -1,0 +1,612 @@
+[
+  {
+    "id": "76070101",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านนอก",
+      "en": "Ban Nok",
+      "slug": "76070101"
+    },
+    "code": {
+      "dopa": "76070101"
+    },
+    "parent": {
+      "id": "760701",
+      "level": 3,
+      "name": {
+        "th": "บ้านแหลม",
+        "en": "Ban Laem",
+        "slug": "ban-laem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "th": "เพชรบุรี",
+          "en": "Phetchaburi",
+          "slug": "phetchaburi"
+        }
+      },
+      {
+        "id": "7607",
+        "level": 2,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      },
+      {
+        "id": "760701",
+        "level": 3,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.219991",
+      "lon": "99.988878"
+    },
+    "source": {}
+  },
+  {
+    "id": "76070102",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านตลาด",
+      "en": "Ban Talat",
+      "slug": "76070102"
+    },
+    "code": {
+      "dopa": "76070102"
+    },
+    "parent": {
+      "id": "760701",
+      "level": 3,
+      "name": {
+        "th": "บ้านแหลม",
+        "en": "Ban Laem",
+        "slug": "ban-laem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "th": "เพชรบุรี",
+          "en": "Phetchaburi",
+          "slug": "phetchaburi"
+        }
+      },
+      {
+        "id": "7607",
+        "level": 2,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      },
+      {
+        "id": "760701",
+        "level": 3,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.211934",
+      "lon": "99.983107"
+    },
+    "source": {}
+  },
+  {
+    "id": "76070103",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกลาง",
+      "en": "Ban Klang",
+      "slug": "76070103"
+    },
+    "code": {
+      "dopa": "76070103"
+    },
+    "parent": {
+      "id": "760701",
+      "level": 3,
+      "name": {
+        "th": "บ้านแหลม",
+        "en": "Ban Laem",
+        "slug": "ban-laem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "th": "เพชรบุรี",
+          "en": "Phetchaburi",
+          "slug": "phetchaburi"
+        }
+      },
+      {
+        "id": "7607",
+        "level": 2,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      },
+      {
+        "id": "760701",
+        "level": 3,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.203296",
+      "lon": "99.977859"
+    },
+    "source": {}
+  },
+  {
+    "id": "76070104",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านใน",
+      "en": "Ban Nai",
+      "slug": "76070104"
+    },
+    "code": {
+      "dopa": "76070104"
+    },
+    "parent": {
+      "id": "760701",
+      "level": 3,
+      "name": {
+        "th": "บ้านแหลม",
+        "en": "Ban Laem",
+        "slug": "ban-laem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "th": "เพชรบุรี",
+          "en": "Phetchaburi",
+          "slug": "phetchaburi"
+        }
+      },
+      {
+        "id": "7607",
+        "level": 2,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      },
+      {
+        "id": "760701",
+        "level": 3,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.201691",
+      "lon": "99.982433"
+    },
+    "source": {}
+  },
+  {
+    "id": "76070105",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านย่านซื่อ",
+      "en": "Ban Yan Sue",
+      "slug": "76070105"
+    },
+    "code": {
+      "dopa": "76070105"
+    },
+    "parent": {
+      "id": "760701",
+      "level": 3,
+      "name": {
+        "th": "บ้านแหลม",
+        "en": "Ban Laem",
+        "slug": "ban-laem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "th": "เพชรบุรี",
+          "en": "Phetchaburi",
+          "slug": "phetchaburi"
+        }
+      },
+      {
+        "id": "7607",
+        "level": 2,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      },
+      {
+        "id": "760701",
+        "level": 3,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.201702",
+      "lon": "99.976320"
+    },
+    "source": {}
+  },
+  {
+    "id": "76070106",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านย่านซื่อ",
+      "en": "Ban Yan Sue",
+      "slug": "76070106"
+    },
+    "code": {
+      "dopa": "76070106"
+    },
+    "parent": {
+      "id": "760701",
+      "level": 3,
+      "name": {
+        "th": "บ้านแหลม",
+        "en": "Ban Laem",
+        "slug": "ban-laem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "th": "เพชรบุรี",
+          "en": "Phetchaburi",
+          "slug": "phetchaburi"
+        }
+      },
+      {
+        "id": "7607",
+        "level": 2,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      },
+      {
+        "id": "760701",
+        "level": 3,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.205640891086913",
+      "lon": "99.97404634952545"
+    },
+    "source": {}
+  },
+  {
+    "id": "76070107",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านศาลเจ้าตึก",
+      "en": "Ban San Chao Tuek",
+      "slug": "76070107"
+    },
+    "code": {
+      "dopa": "76070107"
+    },
+    "parent": {
+      "id": "760701",
+      "level": 3,
+      "name": {
+        "th": "บ้านแหลม",
+        "en": "Ban Laem",
+        "slug": "ban-laem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "th": "เพชรบุรี",
+          "en": "Phetchaburi",
+          "slug": "phetchaburi"
+        }
+      },
+      {
+        "id": "7607",
+        "level": 2,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      },
+      {
+        "id": "760701",
+        "level": 3,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.210446907929981",
+      "lon": "99.97676610946655"
+    },
+    "source": {}
+  },
+  {
+    "id": "76070108",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านท้องคุ้ง",
+      "en": "Ban Thong Khung",
+      "slug": "76070108"
+    },
+    "code": {
+      "dopa": "76070108"
+    },
+    "parent": {
+      "id": "760701",
+      "level": 3,
+      "name": {
+        "th": "บ้านแหลม",
+        "en": "Ban Laem",
+        "slug": "ban-laem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "th": "เพชรบุรี",
+          "en": "Phetchaburi",
+          "slug": "phetchaburi"
+        }
+      },
+      {
+        "id": "7607",
+        "level": 2,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      },
+      {
+        "id": "760701",
+        "level": 3,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.22390481821101",
+      "lon": "99.99294385313988"
+    },
+    "source": {}
+  },
+  {
+    "id": "76070109",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านทุ่งนา",
+      "en": "Ban Thung Na",
+      "slug": "76070109"
+    },
+    "code": {
+      "dopa": "76070109"
+    },
+    "parent": {
+      "id": "760701",
+      "level": 3,
+      "name": {
+        "th": "บ้านแหลม",
+        "en": "Ban Laem",
+        "slug": "ban-laem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "th": "เพชรบุรี",
+          "en": "Phetchaburi",
+          "slug": "phetchaburi"
+        }
+      },
+      {
+        "id": "7607",
+        "level": 2,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      },
+      {
+        "id": "760701",
+        "level": 3,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.175298524207804",
+      "lon": "99.96897295117378"
+    },
+    "source": {}
+  },
+  {
+    "id": "76070110",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านศาลเจ้าฮุดโจว",
+      "en": "Ban San Chao Hut Chao",
+      "slug": "76070110"
+    },
+    "code": {
+      "dopa": "76070110"
+    },
+    "parent": {
+      "id": "760701",
+      "level": 3,
+      "name": {
+        "th": "บ้านแหลม",
+        "en": "Ban Laem",
+        "slug": "ban-laem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "76",
+        "level": 1,
+        "name": {
+          "th": "เพชรบุรี",
+          "en": "Phetchaburi",
+          "slug": "phetchaburi"
+        }
+      },
+      {
+        "id": "7607",
+        "level": 2,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      },
+      {
+        "id": "760701",
+        "level": 3,
+        "name": {
+          "th": "บ้านแหลม",
+          "en": "Ban Laem",
+          "slug": "ban-laem"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.215183633891051",
+      "lon": "99.9837264418602"
+    },
+    "source": {}
+  }
+]

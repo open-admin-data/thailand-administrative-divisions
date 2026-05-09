@@ -1,0 +1,38 @@
+{
+  "id": "60",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "นครสวรรค์",
+    "en": "Nakhon Sawan",
+    "slug": "nakhon-sawan"
+  },
+  "code": {
+    "dopa": "60",
+    "iso": "TH-60"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 15,
+    "subdistricts": 130,
+    "villages": 1535
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central"
+    }
+  },
+  "geo": {
+    "lat": "15.896",
+    "lon": "100.315"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/nakhon-sawan-60/"
+  }
+}

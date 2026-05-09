@@ -1,0 +1,61 @@
+{
+  "id": "480802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาเดื่อ",
+    "en": "Na Duea",
+    "slug": "na-duea"
+  },
+  "code": {
+    "dopa": "480802"
+  },
+  "parent": {
+    "id": "4808",
+    "level": 2,
+    "name": {
+      "th": "ศรีสงคราม",
+      "en": "Si Songkhram",
+      "slug": "si-songkhram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4808",
+      "level": 2,
+      "name": {
+        "th": "ศรีสงคราม",
+        "en": "Si Songkhram",
+        "slug": "si-songkhram"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "48150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.555",
+    "lon": "104.333"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-duea-480802/"
+  }
+}

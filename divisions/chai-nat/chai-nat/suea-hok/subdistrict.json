@@ -1,0 +1,61 @@
+{
+  "id": "180108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เสือโฮก",
+    "en": "Suea Hok",
+    "slug": "suea-hok"
+  },
+  "code": {
+    "dopa": "180108"
+  },
+  "parent": {
+    "id": "1801",
+    "level": 2,
+    "name": {
+      "th": "เมืองชัยนาท",
+      "en": "Chai Nat",
+      "slug": "chai-nat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "th": "เมืองชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "17000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.238",
+    "lon": "100.224"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/suea-hok-180108/"
+  }
+}

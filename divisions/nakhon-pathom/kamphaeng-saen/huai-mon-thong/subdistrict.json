@@ -1,0 +1,61 @@
+{
+  "id": "730210",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยหมอนทอง",
+    "en": "Huai Mon Thong",
+    "slug": "huai-mon-thong"
+  },
+  "code": {
+    "dopa": "730210"
+  },
+  "parent": {
+    "id": "7302",
+    "level": 2,
+    "name": {
+      "th": "กำแพงแสน",
+      "en": "Kamphaeng Saen",
+      "slug": "kamphaeng-saen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7302",
+      "level": 2,
+      "name": {
+        "th": "กำแพงแสน",
+        "en": "Kamphaeng Saen",
+        "slug": "kamphaeng-saen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "73140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.969",
+    "lon": "99.921"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-mon-thong-730210/"
+  }
+}

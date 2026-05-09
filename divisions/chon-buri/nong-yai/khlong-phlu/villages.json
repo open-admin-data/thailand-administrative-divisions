@@ -1,0 +1,246 @@
+[
+  {
+    "id": "20030201",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองพลู",
+      "en": "Ban Khlong Phlu",
+      "slug": "20030201"
+    },
+    "code": {
+      "dopa": "20030201"
+    },
+    "parent": {
+      "id": "200302",
+      "level": 3,
+      "name": {
+        "th": "คลองพลู",
+        "en": "Khlong Phlu",
+        "slug": "khlong-phlu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2003",
+        "level": 2,
+        "name": {
+          "th": "หนองใหญ่",
+          "en": "Nong Yai",
+          "slug": "nong-yai"
+        }
+      },
+      {
+        "id": "200302",
+        "level": 3,
+        "name": {
+          "th": "คลองพลู",
+          "en": "Khlong Phlu",
+          "slug": "khlong-phlu"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.109883433814167",
+      "lon": "101.41405999660492"
+    },
+    "source": {}
+  },
+  {
+    "id": "20030202",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเนินดินแดง",
+      "en": "Ban Noen Din Daeng",
+      "slug": "20030202"
+    },
+    "code": {
+      "dopa": "20030202"
+    },
+    "parent": {
+      "id": "200302",
+      "level": 3,
+      "name": {
+        "th": "คลองพลู",
+        "en": "Khlong Phlu",
+        "slug": "khlong-phlu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2003",
+        "level": 2,
+        "name": {
+          "th": "หนองใหญ่",
+          "en": "Nong Yai",
+          "slug": "nong-yai"
+        }
+      },
+      {
+        "id": "200302",
+        "level": 3,
+        "name": {
+          "th": "คลองพลู",
+          "en": "Khlong Phlu",
+          "slug": "khlong-phlu"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.122533181966748",
+      "lon": "101.44829168915749"
+    },
+    "source": {}
+  },
+  {
+    "id": "20030203",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองตะเคียน",
+      "en": "Ban Khlong Takhian",
+      "slug": "20030203"
+    },
+    "code": {
+      "dopa": "20030203"
+    },
+    "parent": {
+      "id": "200302",
+      "level": 3,
+      "name": {
+        "th": "คลองพลู",
+        "en": "Khlong Phlu",
+        "slug": "khlong-phlu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2003",
+        "level": 2,
+        "name": {
+          "th": "หนองใหญ่",
+          "en": "Nong Yai",
+          "slug": "nong-yai"
+        }
+      },
+      {
+        "id": "200302",
+        "level": 3,
+        "name": {
+          "th": "คลองพลู",
+          "en": "Khlong Phlu",
+          "slug": "khlong-phlu"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.14013595032475",
+      "lon": "101.49942934513092"
+    },
+    "source": {}
+  },
+  {
+    "id": "20030204",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเขามดง่าม",
+      "en": "Ban Khao Mot Ngam",
+      "slug": "20030204"
+    },
+    "code": {
+      "dopa": "20030204"
+    },
+    "parent": {
+      "id": "200302",
+      "level": 3,
+      "name": {
+        "th": "คลองพลู",
+        "en": "Khlong Phlu",
+        "slug": "khlong-phlu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2003",
+        "level": 2,
+        "name": {
+          "th": "หนองใหญ่",
+          "en": "Nong Yai",
+          "slug": "nong-yai"
+        }
+      },
+      {
+        "id": "200302",
+        "level": 3,
+        "name": {
+          "th": "คลองพลู",
+          "en": "Khlong Phlu",
+          "slug": "khlong-phlu"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.11108117146388",
+      "lon": "101.49142161011696"
+    },
+    "source": {}
+  }
+]

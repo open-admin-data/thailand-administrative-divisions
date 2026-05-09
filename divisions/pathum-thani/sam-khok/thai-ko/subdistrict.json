@@ -1,0 +1,61 @@
+{
+  "id": "130711",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท้ายเกาะ",
+    "en": "Thai Ko",
+    "slug": "thai-ko"
+  },
+  "code": {
+    "dopa": "130711"
+  },
+  "parent": {
+    "id": "1307",
+    "level": 2,
+    "name": {
+      "th": "สามโคก",
+      "en": "Sam Khok",
+      "slug": "sam-khok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "th": "สามโคก",
+        "en": "Sam Khok",
+        "slug": "sam-khok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "12160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.105",
+    "lon": "100.496"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thai-ko-130711/"
+  }
+}

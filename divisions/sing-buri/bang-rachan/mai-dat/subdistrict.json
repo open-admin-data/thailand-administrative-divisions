@@ -1,0 +1,61 @@
+{
+  "id": "170202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไม้ดัด",
+    "en": "Mai Dat",
+    "slug": "mai-dat"
+  },
+  "code": {
+    "dopa": "170202"
+  },
+  "parent": {
+    "id": "1702",
+    "level": 2,
+    "name": {
+      "th": "บางระจัน",
+      "en": "Bang Rachan",
+      "slug": "bang-rachan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1702",
+      "level": 2,
+      "name": {
+        "th": "บางระจัน",
+        "en": "Bang Rachan",
+        "slug": "bang-rachan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "16130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.858",
+    "lon": "100.345"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mai-dat-170202/"
+  }
+}

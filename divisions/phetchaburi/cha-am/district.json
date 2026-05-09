@@ -1,0 +1,50 @@
+{
+  "id": "7604",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ชะอำ",
+    "en": "Cha-am",
+    "slug": "cha-am"
+  },
+  "code": {
+    "dopa": "7604"
+  },
+  "parent": {
+    "id": "76",
+    "level": 1,
+    "name": {
+      "th": "เพชรบุรี",
+      "en": "Phetchaburi",
+      "slug": "phetchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 94
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.891",
+    "lon": "99.971"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/cha-am-7604/"
+  }
+}

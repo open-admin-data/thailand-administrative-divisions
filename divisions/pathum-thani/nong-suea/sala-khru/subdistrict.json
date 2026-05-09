@@ -1,0 +1,61 @@
+{
+  "id": "130406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศาลาครุ",
+    "en": "Sala Khru",
+    "slug": "sala-khru"
+  },
+  "code": {
+    "dopa": "130406"
+  },
+  "parent": {
+    "id": "1304",
+    "level": 2,
+    "name": {
+      "th": "หนองเสือ",
+      "en": "Nong Suea",
+      "slug": "nong-suea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1304",
+      "level": 2,
+      "name": {
+        "th": "หนองเสือ",
+        "en": "Nong Suea",
+        "slug": "nong-suea"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "12170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.244",
+    "lon": "100.928"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sala-khru-130406/"
+  }
+}

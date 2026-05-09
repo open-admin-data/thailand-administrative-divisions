@@ -1,0 +1,50 @@
+{
+  "id": "9103",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ควนกาหลง",
+    "en": "Khuan Kalong",
+    "slug": "khuan-kalong"
+  },
+  "code": {
+    "dopa": "9103"
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "th": "สตูล",
+      "en": "Satun",
+      "slug": "satun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 32
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.903",
+    "lon": "99.932"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khuan-kalong-9103/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "801503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท้องเนียน",
+    "en": "Thong Nian",
+    "slug": "thong-nian"
+  },
+  "code": {
+    "dopa": "801503"
+  },
+  "parent": {
+    "id": "8015",
+    "level": 2,
+    "name": {
+      "th": "ขนอม",
+      "en": "Khanom",
+      "slug": "khanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8015",
+      "level": 2,
+      "name": {
+        "th": "ขนอม",
+        "en": "Khanom",
+        "slug": "khanom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "80210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.280",
+    "lon": "99.814"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thong-nian-801503/"
+  }
+}

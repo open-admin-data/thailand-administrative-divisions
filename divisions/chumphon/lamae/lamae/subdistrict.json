@@ -1,0 +1,61 @@
+{
+  "id": "860501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ละแม",
+    "en": "Lamae",
+    "slug": "lamae"
+  },
+  "code": {
+    "dopa": "860501"
+  },
+  "parent": {
+    "id": "8605",
+    "level": 2,
+    "name": {
+      "th": "ละแม",
+      "en": "Lamae",
+      "slug": "lamae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8605",
+      "level": 2,
+      "name": {
+        "th": "ละแม",
+        "en": "Lamae",
+        "slug": "lamae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "86170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.752",
+    "lon": "98.945"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lamae-860501/"
+  }
+}

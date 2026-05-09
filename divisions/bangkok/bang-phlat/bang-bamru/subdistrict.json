@@ -1,0 +1,61 @@
+{
+  "id": "102503",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง บางบำหรุ",
+    "en": "Bang Bamru",
+    "slug": "bang-bamru"
+  },
+  "code": {
+    "dopa": "102503"
+  },
+  "parent": {
+    "id": "1025",
+    "level": 2,
+    "name": {
+      "th": "เขต บางพลัด",
+      "en": "Bang Phlat",
+      "slug": "bang-phlat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1025",
+      "level": 2,
+      "name": {
+        "th": "เขต บางพลัด",
+        "en": "Bang Phlat",
+        "slug": "bang-phlat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10700"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.781",
+    "lon": "100.482"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-bamru-102503/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "620103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อ่างทอง",
+    "en": "Ang Thong",
+    "slug": "ang-thong"
+  },
+  "code": {
+    "dopa": "620103"
+  },
+  "parent": {
+    "id": "6201",
+    "level": 2,
+    "name": {
+      "th": "เมืองกำแพงเพชร",
+      "en": "Mueang Kamphaeng Phet",
+      "slug": "mueang-kamphaeng-phet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6201",
+      "level": 2,
+      "name": {
+        "th": "เมืองกำแพงเพชร",
+        "en": "Mueang Kamphaeng Phet",
+        "slug": "mueang-kamphaeng-phet"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "62000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.267",
+    "lon": "99.465"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ang-thong-620103/"
+  }
+}

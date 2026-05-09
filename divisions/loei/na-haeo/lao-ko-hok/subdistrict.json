@@ -1,0 +1,61 @@
+{
+  "id": "420605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เหล่ากอหก",
+    "en": "Lao Ko Hok",
+    "slug": "lao-ko-hok"
+  },
+  "code": {
+    "dopa": "420605"
+  },
+  "parent": {
+    "id": "4206",
+    "level": 2,
+    "name": {
+      "th": "นาแห้ว",
+      "en": "Na Haeo",
+      "slug": "na-haeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4206",
+      "level": 2,
+      "name": {
+        "th": "นาแห้ว",
+        "en": "Na Haeo",
+        "slug": "na-haeo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "42170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.485",
+    "lon": "100.864"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lao-ko-hok-420605/"
+  }
+}

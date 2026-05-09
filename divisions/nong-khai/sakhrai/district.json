@@ -1,0 +1,50 @@
+{
+  "id": "4314",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สระใคร",
+    "en": "Sakhrai",
+    "slug": "sakhrai"
+  },
+  "code": {
+    "dopa": "4314"
+  },
+  "parent": {
+    "id": "43",
+    "level": 1,
+    "name": {
+      "th": "หนองคาย",
+      "en": "Nong Khai",
+      "slug": "nong-khai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 41
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.638",
+    "lon": "102.736"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sakhrai-4314/"
+  }
+}

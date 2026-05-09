@@ -1,0 +1,61 @@
+{
+  "id": "820805",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลำภี",
+    "en": "Lam Phi",
+    "slug": "lam-phi"
+  },
+  "code": {
+    "dopa": "820805"
+  },
+  "parent": {
+    "id": "8208",
+    "level": 2,
+    "name": {
+      "th": "ท้ายเหมือง",
+      "en": "Thai Mueang",
+      "slug": "thai-mueang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8208",
+      "level": 2,
+      "name": {
+        "th": "ท้ายเหมือง",
+        "en": "Thai Mueang",
+        "slug": "thai-mueang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "82120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.590",
+    "lon": "98.360"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lam-phi-820805/"
+  }
+}

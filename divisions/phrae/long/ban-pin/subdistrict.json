@@ -1,0 +1,61 @@
+{
+  "id": "540302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านปิน",
+    "en": "Ban Pin",
+    "slug": "ban-pin"
+  },
+  "code": {
+    "dopa": "540302"
+  },
+  "parent": {
+    "id": "5403",
+    "level": 2,
+    "name": {
+      "th": "ลอง",
+      "en": "Long",
+      "slug": "long"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    {
+      "id": "5403",
+      "level": 2,
+      "name": {
+        "th": "ลอง",
+        "en": "Long",
+        "slug": "long"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "54150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.065",
+    "lon": "99.937"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-pin-540302/"
+  }
+}

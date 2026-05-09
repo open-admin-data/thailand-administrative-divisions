@@ -1,0 +1,61 @@
+{
+  "id": "650104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วัดพริก",
+    "en": "Wat Phrik",
+    "slug": "wat-phrik"
+  },
+  "code": {
+    "dopa": "650104"
+  },
+  "parent": {
+    "id": "6501",
+    "level": 2,
+    "name": {
+      "th": "เมืองพิษณุโลก",
+      "en": "Mueang Phitsanulok",
+      "slug": "mueang-phitsanulok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "th": "เมืองพิษณุโลก",
+        "en": "Mueang Phitsanulok",
+        "slug": "mueang-phitsanulok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "65230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.715",
+    "lon": "100.243"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wat-phrik-650104/"
+  }
+}

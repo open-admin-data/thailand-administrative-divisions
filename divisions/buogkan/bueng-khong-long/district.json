@@ -1,0 +1,50 @@
+{
+  "id": "3806",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บึงโขงหลง",
+    "en": "Bueng Khong Long",
+    "slug": "bueng-khong-long"
+  },
+  "code": {
+    "dopa": "3806"
+  },
+  "parent": {
+    "id": "38",
+    "level": 1,
+    "name": {
+      "th": "บึงกาฬ",
+      "en": "Buogkan",
+      "slug": "buogkan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 57
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.033",
+    "lon": "104.133"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bueng-khong-long-3806/"
+  }
+}

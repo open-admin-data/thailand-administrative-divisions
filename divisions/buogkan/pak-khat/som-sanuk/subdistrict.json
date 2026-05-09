@@ -1,0 +1,61 @@
+{
+  "id": "380505",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สมสนุก",
+    "en": "Som Sanuk",
+    "slug": "som-sanuk"
+  },
+  "code": {
+    "dopa": "380505"
+  },
+  "parent": {
+    "id": "3805",
+    "level": 2,
+    "name": {
+      "th": "ปากคาด",
+      "en": "Pak Khat",
+      "slug": "pak-khat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3805",
+      "level": 2,
+      "name": {
+        "th": "ปากคาด",
+        "en": "Pak Khat",
+        "slug": "pak-khat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "38190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.222",
+    "lon": "103.398"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/som-sanuk-380505/"
+  }
+}

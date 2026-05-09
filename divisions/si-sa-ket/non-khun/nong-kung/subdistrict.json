@@ -1,0 +1,61 @@
+{
+  "id": "331304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองกุง",
+    "en": "Nong Kung",
+    "slug": "nong-kung"
+  },
+  "code": {
+    "dopa": "331304"
+  },
+  "parent": {
+    "id": "3313",
+    "level": 2,
+    "name": {
+      "th": "โนนคูณ",
+      "en": "Non Khun",
+      "slug": "non-khun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3313",
+      "level": 2,
+      "name": {
+        "th": "โนนคูณ",
+        "en": "Non Khun",
+        "slug": "non-khun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "33250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.861",
+    "lon": "104.774"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-kung-331304/"
+  }
+}

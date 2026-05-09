@@ -1,0 +1,61 @@
+{
+  "id": "640404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไกรกลาง",
+    "en": "Krai Klang",
+    "slug": "krai-klang"
+  },
+  "code": {
+    "dopa": "640404"
+  },
+  "parent": {
+    "id": "6404",
+    "level": 2,
+    "name": {
+      "th": "กงไกรลาศ",
+      "en": "Kong Krailat",
+      "slug": "kong-krailat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6404",
+      "level": 2,
+      "name": {
+        "th": "กงไกรลาศ",
+        "en": "Kong Krailat",
+        "slug": "kong-krailat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "64170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.996",
+    "lon": "99.997"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/krai-klang-640404/"
+  }
+}

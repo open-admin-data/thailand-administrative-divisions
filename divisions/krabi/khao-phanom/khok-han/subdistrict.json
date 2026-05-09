@@ -1,0 +1,61 @@
+{
+  "id": "810206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกหาร",
+    "en": "Khok Han",
+    "slug": "khok-han"
+  },
+  "code": {
+    "dopa": "810206"
+  },
+  "parent": {
+    "id": "8102",
+    "level": 2,
+    "name": {
+      "th": "เขาพนม",
+      "en": "Khao Phanom",
+      "slug": "khao-phanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8102",
+      "level": 2,
+      "name": {
+        "th": "เขาพนม",
+        "en": "Khao Phanom",
+        "slug": "khao-phanom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "80240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.188",
+    "lon": "99.252"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-han-810206/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "660504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เนินมะกอก",
+    "en": "Noen Makok",
+    "slug": "noen-makok"
+  },
+  "code": {
+    "dopa": "660504"
+  },
+  "parent": {
+    "id": "6605",
+    "level": 2,
+    "name": {
+      "th": "บางมูลนาก",
+      "en": "Bang Mun Nak",
+      "slug": "bang-mun-nak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6605",
+      "level": 2,
+      "name": {
+        "th": "บางมูลนาก",
+        "en": "Bang Mun Nak",
+        "slug": "bang-mun-nak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "66120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.991",
+    "lon": "100.362"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/noen-makok-660504/"
+  }
+}

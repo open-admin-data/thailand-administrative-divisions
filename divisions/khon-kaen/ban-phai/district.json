@@ -1,0 +1,50 @@
+{
+  "id": "4010",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านไผ่",
+    "en": "Ban Phai",
+    "slug": "ban-phai"
+  },
+  "code": {
+    "dopa": "4010"
+  },
+  "parent": {
+    "id": "40",
+    "level": 1,
+    "name": {
+      "th": "ขอนแก่น",
+      "en": "Khon Kaen",
+      "slug": "khon-kaen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 150
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.035",
+    "lon": "102.723"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-phai-4010/"
+  }
+}

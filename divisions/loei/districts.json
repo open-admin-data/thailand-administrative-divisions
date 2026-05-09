@@ -1,0 +1,702 @@
+[
+  {
+    "id": "4203",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เชียงคาน",
+      "en": "Chiang Khan",
+      "slug": "chiang-khan"
+    },
+    "code": {
+      "dopa": "4203"
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 8,
+      "villages": 82
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.763",
+      "lon": "101.735"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/chiang-khan-4203/"
+    }
+  },
+  {
+    "id": "4205",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ด่านซ้าย",
+      "en": "Dan Sai",
+      "slug": "dan-sai"
+    },
+    "code": {
+      "dopa": "4205"
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 10,
+      "villages": 99
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.331",
+      "lon": "101.142"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/dan-sai-4205/"
+    }
+  },
+  {
+    "id": "4213",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เอราวัณ",
+      "en": "Erawan",
+      "slug": "erawan"
+    },
+    "code": {
+      "dopa": "4213"
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 4,
+      "villages": 47
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.193",
+      "lon": "101.994"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/erawan-4213/"
+    }
+  },
+  {
+    "id": "4201",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เมืองเลย",
+      "en": "Mueang Loei",
+      "slug": "mueang-loei"
+    },
+    "code": {
+      "dopa": "4201"
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 14,
+      "villages": 184
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.493",
+      "lon": "101.732"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/mueang-loei-4201/"
+    }
+  },
+  {
+    "id": "4202",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "นาด้วง",
+      "en": "Na Duang",
+      "slug": "na-duang"
+    },
+    "code": {
+      "dopa": "4202"
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 4,
+      "villages": 41
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.432",
+      "lon": "101.940"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/na-duang-4202/"
+    }
+  },
+  {
+    "id": "4206",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "นาแห้ว",
+      "en": "Na Haeo",
+      "slug": "na-haeo"
+    },
+    "code": {
+      "dopa": "4206"
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 5,
+      "villages": 34
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.485",
+      "lon": "100.864"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/na-haeo-4206/"
+    }
+  },
+  {
+    "id": "4214",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "หนองหิน",
+      "en": "Nong Hin",
+      "slug": "nong-hin"
+    },
+    "code": {
+      "dopa": "4214"
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 3,
+      "villages": 34
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.033",
+      "lon": "101.879"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/nong-hin-4214/"
+    }
+  },
+  {
+    "id": "4204",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ปากชม",
+      "en": "Pak Chom",
+      "slug": "pak-chom"
+    },
+    "code": {
+      "dopa": "4204"
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 6,
+      "villages": 50
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.700",
+      "lon": "101.922"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/pak-chom-4204/"
+    }
+  },
+  {
+    "id": "4212",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ผาขาว",
+      "en": "Pha Khao",
+      "slug": "pha-khao"
+    },
+    "code": {
+      "dopa": "4212"
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 5,
+      "villages": 64
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.102",
+      "lon": "102.052"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/pha-khao-4212/"
+    }
+  },
+  {
+    "id": "4210",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ภูกระดึง",
+      "en": "Phu Kradueng",
+      "slug": "phu-kradueng"
+    },
+    "code": {
+      "dopa": "4210"
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 4,
+      "villages": 54
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.937",
+      "lon": "101.939"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/phu-kradueng-4210/"
+    }
+  },
+  {
+    "id": "4211",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ภูหลวง",
+      "en": "Phu Luang",
+      "slug": "phu-luang"
+    },
+    "code": {
+      "dopa": "4211"
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 5,
+      "villages": 46
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.141",
+      "lon": "101.701"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/phu-luang-4211/"
+    }
+  },
+  {
+    "id": "4207",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ภูเรือ",
+      "en": "Phu Ruea",
+      "slug": "phu-ruea"
+    },
+    "code": {
+      "dopa": "4207"
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 6,
+      "villages": 47
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.460",
+      "lon": "101.482"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/phu-ruea-4207/"
+    }
+  },
+  {
+    "id": "4208",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ท่าลี่",
+      "en": "Tha Li",
+      "slug": "tha-li"
+    },
+    "code": {
+      "dopa": "4208"
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 6,
+      "villages": 41
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.636",
+      "lon": "101.347"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/tha-li-4208/"
+    }
+  },
+  {
+    "id": "4209",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "วังสะพุง",
+      "en": "Wang Saphung",
+      "slug": "wang-saphung"
+    },
+    "code": {
+      "dopa": "4209"
+    },
+    "parent": {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 10,
+      "villages": 144
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.296",
+      "lon": "101.746"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/wang-saphung-4209/"
+    }
+  }
+]

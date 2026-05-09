@@ -1,0 +1,61 @@
+{
+  "id": "310122",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หลักเขต",
+    "en": "Lak Khet",
+    "slug": "lak-khet"
+  },
+  "code": {
+    "dopa": "310122"
+  },
+  "parent": {
+    "id": "3101",
+    "level": 2,
+    "name": {
+      "th": "เมืองบุรีรัมย์",
+      "en": "Mueang Buri Ram",
+      "slug": "mueang-buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3101",
+      "level": 2,
+      "name": {
+        "th": "เมืองบุรีรัมย์",
+        "en": "Mueang Buri Ram",
+        "slug": "mueang-buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "31000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.824",
+    "lon": "103.159"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lak-khet-310122/"
+  }
+}

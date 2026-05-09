@@ -1,0 +1,61 @@
+{
+  "id": "900404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองทราย",
+    "en": "Khlong Sai",
+    "slug": "khlong-sai"
+  },
+  "code": {
+    "dopa": "900404"
+  },
+  "parent": {
+    "id": "9004",
+    "level": 2,
+    "name": {
+      "th": "นาทวี",
+      "en": "Na Thawi",
+      "slug": "na-thawi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9004",
+      "level": 2,
+      "name": {
+        "th": "นาทวี",
+        "en": "Na Thawi",
+        "slug": "na-thawi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "90160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.741",
+    "lon": "100.603"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-sai-900404/"
+  }
+}

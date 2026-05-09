@@ -1,0 +1,50 @@
+{
+  "id": "3703",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปทุมราชวงศา",
+    "en": "Pathum Ratchawongsa",
+    "slug": "pathum-ratchawongsa"
+  },
+  "code": {
+    "dopa": "3703"
+  },
+  "parent": {
+    "id": "37",
+    "level": 1,
+    "name": {
+      "th": "อำนาจเจริญ",
+      "en": "Amnat Charoen",
+      "slug": "amnat-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 73
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.862",
+    "lon": "104.828"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pathum-ratchawongsa-3703/"
+  }
+}

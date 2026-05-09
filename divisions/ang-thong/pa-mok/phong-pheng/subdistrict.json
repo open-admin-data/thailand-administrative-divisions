@@ -1,0 +1,61 @@
+{
+  "id": "150308",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โผงเผง",
+    "en": "Phong Pheng",
+    "slug": "phong-pheng"
+  },
+  "code": {
+    "dopa": "150308"
+  },
+  "parent": {
+    "id": "1503",
+    "level": 2,
+    "name": {
+      "th": "ป่าโมก",
+      "en": "Pa Mok",
+      "slug": "pa-mok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1503",
+      "level": 2,
+      "name": {
+        "th": "ป่าโมก",
+        "en": "Pa Mok",
+        "slug": "pa-mok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "14130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.455",
+    "lon": "100.442"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phong-pheng-150308/"
+  }
+}

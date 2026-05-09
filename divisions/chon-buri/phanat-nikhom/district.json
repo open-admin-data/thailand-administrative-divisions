@@ -1,0 +1,50 @@
+{
+  "id": "2006",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พนัสนิคม",
+    "en": "Phanat Nikhom",
+    "slug": "phanat-nikhom"
+  },
+  "code": {
+    "dopa": "2006"
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "th": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 19,
+    "villages": 190
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.450",
+    "lon": "101.180"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phanat-nikhom-2006/"
+  }
+}

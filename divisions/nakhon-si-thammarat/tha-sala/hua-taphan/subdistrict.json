@@ -1,0 +1,61 @@
+{
+  "id": "800804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวตะพาน",
+    "en": "Hua Taphan",
+    "slug": "hua-taphan"
+  },
+  "code": {
+    "dopa": "800804"
+  },
+  "parent": {
+    "id": "8008",
+    "level": 2,
+    "name": {
+      "th": "ท่าศาลา",
+      "en": "Tha Sala",
+      "slug": "tha-sala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8008",
+      "level": 2,
+      "name": {
+        "th": "ท่าศาลา",
+        "en": "Tha Sala",
+        "slug": "tha-sala"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "80160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.628",
+    "lon": "99.889"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-taphan-800804/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "940406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าน้ำ",
+    "en": "Tha Nam",
+    "slug": "tha-nam"
+  },
+  "code": {
+    "dopa": "940406"
+  },
+  "parent": {
+    "id": "9404",
+    "level": 2,
+    "name": {
+      "th": "ปะนาเระ",
+      "en": "Panare",
+      "slug": "panare"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9404",
+      "level": 2,
+      "name": {
+        "th": "ปะนาเระ",
+        "en": "Panare",
+        "slug": "panare"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "94130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.771",
+    "lon": "101.515"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-nam-940406/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "370603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เค็งใหญ่",
+    "en": "Kheng Yai",
+    "slug": "kheng-yai"
+  },
+  "code": {
+    "dopa": "370603"
+  },
+  "parent": {
+    "id": "3706",
+    "level": 2,
+    "name": {
+      "th": "หัวตะพาน",
+      "en": "Hua Taphan",
+      "slug": "hua-taphan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    {
+      "id": "3706",
+      "level": 2,
+      "name": {
+        "th": "หัวตะพาน",
+        "en": "Hua Taphan",
+        "slug": "hua-taphan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "37240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.738",
+    "lon": "104.564"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kheng-yai-370603/"
+  }
+}

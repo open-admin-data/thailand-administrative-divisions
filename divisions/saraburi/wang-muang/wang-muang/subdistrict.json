@@ -1,0 +1,61 @@
+{
+  "id": "191203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังม่วง",
+    "en": "Wang Muang",
+    "slug": "wang-muang"
+  },
+  "code": {
+    "dopa": "191203"
+  },
+  "parent": {
+    "id": "1912",
+    "level": 2,
+    "name": {
+      "th": "วังม่วง",
+      "en": "Wang Muang",
+      "slug": "wang-muang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1912",
+      "level": 2,
+      "name": {
+        "th": "วังม่วง",
+        "en": "Wang Muang",
+        "slug": "wang-muang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "18220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.861",
+    "lon": "101.151"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-muang-191203/"
+  }
+}

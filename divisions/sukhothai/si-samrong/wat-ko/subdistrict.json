@@ -1,0 +1,61 @@
+{
+  "id": "640608",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วัดเกาะ",
+    "en": "Wat Ko",
+    "slug": "wat-ko"
+  },
+  "code": {
+    "dopa": "640608"
+  },
+  "parent": {
+    "id": "6406",
+    "level": 2,
+    "name": {
+      "th": "ศรีสำโรง",
+      "en": "Si Samrong",
+      "slug": "si-samrong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6406",
+      "level": 2,
+      "name": {
+        "th": "ศรีสำโรง",
+        "en": "Si Samrong",
+        "slug": "si-samrong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "64120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.188",
+    "lon": "99.827"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wat-ko-640608/"
+  }
+}

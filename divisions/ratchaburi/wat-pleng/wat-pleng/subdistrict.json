@@ -1,0 +1,61 @@
+{
+  "id": "700903",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วัดเพลง",
+    "en": "Wat Pleng",
+    "slug": "wat-pleng"
+  },
+  "code": {
+    "dopa": "700903"
+  },
+  "parent": {
+    "id": "7009",
+    "level": 2,
+    "name": {
+      "th": "วัดเพลง",
+      "en": "Wat Pleng",
+      "slug": "wat-pleng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7009",
+      "level": 2,
+      "name": {
+        "th": "วัดเพลง",
+        "en": "Wat Pleng",
+        "slug": "wat-pleng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "70170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.449",
+    "lon": "99.872"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wat-pleng-700903/"
+  }
+}

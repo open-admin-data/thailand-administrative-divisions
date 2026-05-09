@@ -1,0 +1,61 @@
+{
+  "id": "380111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คำนาดี",
+    "en": "Kham Na Di",
+    "slug": "kham-na-di"
+  },
+  "code": {
+    "dopa": "380111"
+  },
+  "parent": {
+    "id": "3801",
+    "level": 2,
+    "name": {
+      "th": "บึงกาฬ",
+      "en": "Bueng Kan",
+      "slug": "bueng-kan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3801",
+      "level": 2,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Bueng Kan",
+        "slug": "bueng-kan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "38000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.219",
+    "lon": "103.593"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kham-na-di-380111/"
+  }
+}

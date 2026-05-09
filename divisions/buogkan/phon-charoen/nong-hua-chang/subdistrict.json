@@ -1,0 +1,61 @@
+{
+  "id": "380204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองหัวช้าง",
+    "en": "Nong Hua Chang",
+    "slug": "nong-hua-chang"
+  },
+  "code": {
+    "dopa": "380204"
+  },
+  "parent": {
+    "id": "3802",
+    "level": 2,
+    "name": {
+      "th": "พรเจริญ",
+      "en": "Phon Charoen",
+      "slug": "phon-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3802",
+      "level": 2,
+      "name": {
+        "th": "พรเจริญ",
+        "en": "Phon Charoen",
+        "slug": "phon-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "38180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.125",
+    "lon": "103.583"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-hua-chang-380204/"
+  }
+}

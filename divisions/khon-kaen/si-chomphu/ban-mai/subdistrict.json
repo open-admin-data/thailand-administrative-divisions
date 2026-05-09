@@ -1,0 +1,61 @@
+{
+  "id": "400609",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านใหม่",
+    "en": "Ban Mai",
+    "slug": "ban-mai"
+  },
+  "code": {
+    "dopa": "400609"
+  },
+  "parent": {
+    "id": "4006",
+    "level": 2,
+    "name": {
+      "th": "สีชมพู",
+      "en": "Si Chomphu",
+      "slug": "si-chomphu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4006",
+      "level": 2,
+      "name": {
+        "th": "สีชมพู",
+        "en": "Si Chomphu",
+        "slug": "si-chomphu"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "40220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.761",
+    "lon": "102.068"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-mai-400609/"
+  }
+}

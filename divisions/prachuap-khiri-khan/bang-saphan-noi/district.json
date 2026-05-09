@@ -1,0 +1,50 @@
+{
+  "id": "7705",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บางสะพานน้อย",
+    "en": "Bang Saphan Noi",
+    "slug": "bang-saphan-noi"
+  },
+  "code": {
+    "dopa": "7705"
+  },
+  "parent": {
+    "id": "77",
+    "level": 1,
+    "name": {
+      "th": "ประจวบคีรีขันธ์",
+      "en": "Prachuap Khiri Khan",
+      "slug": "prachuap-khiri-khan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 41
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "11.063",
+    "lon": "99.436"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-saphan-noi-7705/"
+  }
+}

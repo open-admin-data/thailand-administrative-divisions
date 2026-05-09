@@ -1,0 +1,61 @@
+{
+  "id": "311002",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองคู",
+    "en": "Nong Khu",
+    "slug": "nong-khu"
+  },
+  "code": {
+    "dopa": "311002"
+  },
+  "parent": {
+    "id": "3110",
+    "level": 2,
+    "name": {
+      "th": "ลำปลายมาศ",
+      "en": "Lam Plai Mat",
+      "slug": "lam-plai-mat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3110",
+      "level": 2,
+      "name": {
+        "th": "ลำปลายมาศ",
+        "en": "Lam Plai Mat",
+        "slug": "lam-plai-mat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "31130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.999",
+    "lon": "102.803"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-khu-311002/"
+  }
+}

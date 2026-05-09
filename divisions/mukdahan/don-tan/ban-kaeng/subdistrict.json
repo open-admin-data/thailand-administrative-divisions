@@ -1,0 +1,61 @@
+{
+  "id": "490307",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านแก้ง",
+    "en": "Ban Kaeng",
+    "slug": "ban-kaeng"
+  },
+  "code": {
+    "dopa": "490307"
+  },
+  "parent": {
+    "id": "4903",
+    "level": 2,
+    "name": {
+      "th": "ดอนตาล",
+      "en": "Don Tan",
+      "slug": "don-tan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4903",
+      "level": 2,
+      "name": {
+        "th": "ดอนตาล",
+        "en": "Don Tan",
+        "slug": "don-tan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "49120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.410",
+    "lon": "104.814"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-kaeng-490307/"
+  }
+}

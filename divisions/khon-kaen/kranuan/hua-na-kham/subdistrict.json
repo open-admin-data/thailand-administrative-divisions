@@ -1,0 +1,61 @@
+{
+  "id": "400912",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวนาคำ",
+    "en": "Hua Na Kham",
+    "slug": "hua-na-kham"
+  },
+  "code": {
+    "dopa": "400912"
+  },
+  "parent": {
+    "id": "4009",
+    "level": 2,
+    "name": {
+      "th": "กระนวน",
+      "en": "Kranuan",
+      "slug": "kranuan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4009",
+      "level": 2,
+      "name": {
+        "th": "กระนวน",
+        "en": "Kranuan",
+        "slug": "kranuan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "40170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.813",
+    "lon": "103.080"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-na-kham-400912/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "660608",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางคลาน",
+    "en": "Bang Khlan",
+    "slug": "bang-khlan"
+  },
+  "code": {
+    "dopa": "660608"
+  },
+  "parent": {
+    "id": "6606",
+    "level": 2,
+    "name": {
+      "th": "โพทะเล",
+      "en": "Pho Thale",
+      "slug": "pho-thale"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6606",
+      "level": 2,
+      "name": {
+        "th": "โพทะเล",
+        "en": "Pho Thale",
+        "slug": "pho-thale"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "66130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.001",
+    "lon": "100.286"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-khlan-660608/"
+  }
+}

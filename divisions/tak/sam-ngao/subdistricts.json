@@ -1,0 +1,368 @@
+[
+  {
+    "id": "630305",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บ้านนา",
+      "en": "Ban Na",
+      "slug": "ban-na"
+    },
+    "code": {
+      "dopa": "630305"
+    },
+    "parent": {
+      "id": "6303",
+      "level": 2,
+      "name": {
+        "th": "สามเงา",
+        "en": "Sam Ngao",
+        "slug": "sam-ngao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "th": "ตาก",
+          "en": "Tak",
+          "slug": "tak"
+        }
+      },
+      {
+        "id": "6303",
+        "level": 2,
+        "name": {
+          "th": "สามเงา",
+          "en": "Sam Ngao",
+          "slug": "sam-ngao"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 5
+    },
+    "zip_codes": [
+      "63130"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.333",
+      "lon": "98.864"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ban-na-630305/"
+    }
+  },
+  {
+    "id": "630301",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "สามเงา",
+      "en": "Sam Ngao",
+      "slug": "sam-ngao"
+    },
+    "code": {
+      "dopa": "630301"
+    },
+    "parent": {
+      "id": "6303",
+      "level": 2,
+      "name": {
+        "th": "สามเงา",
+        "en": "Sam Ngao",
+        "slug": "sam-ngao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "th": "ตาก",
+          "en": "Tak",
+          "slug": "tak"
+        }
+      },
+      {
+        "id": "6303",
+        "level": 2,
+        "name": {
+          "th": "สามเงา",
+          "en": "Sam Ngao",
+          "slug": "sam-ngao"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "63130"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.250",
+      "lon": "99.034"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/sam-ngao-630301/"
+    }
+  },
+  {
+    "id": "630306",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "วังจันทร์",
+      "en": "Wang Chan",
+      "slug": "wang-chan"
+    },
+    "code": {
+      "dopa": "630306"
+    },
+    "parent": {
+      "id": "6303",
+      "level": 2,
+      "name": {
+        "th": "สามเงา",
+        "en": "Sam Ngao",
+        "slug": "sam-ngao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "th": "ตาก",
+          "en": "Tak",
+          "slug": "tak"
+        }
+      },
+      {
+        "id": "6303",
+        "level": 2,
+        "name": {
+          "th": "สามเงา",
+          "en": "Sam Ngao",
+          "slug": "sam-ngao"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "63130"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.275",
+      "lon": "99.147"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/wang-chan-630306/"
+    }
+  },
+  {
+    "id": "630302",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "วังหมัน",
+      "en": "Wang Man",
+      "slug": "wang-man"
+    },
+    "code": {
+      "dopa": "630302"
+    },
+    "parent": {
+      "id": "6303",
+      "level": 2,
+      "name": {
+        "th": "สามเงา",
+        "en": "Sam Ngao",
+        "slug": "sam-ngao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "th": "ตาก",
+          "en": "Tak",
+          "slug": "tak"
+        }
+      },
+      {
+        "id": "6303",
+        "level": 2,
+        "name": {
+          "th": "สามเงา",
+          "en": "Sam Ngao",
+          "slug": "sam-ngao"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "63130"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.201",
+      "lon": "99.117"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/wang-man-630302/"
+    }
+  },
+  {
+    "id": "630304",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ย่านรี",
+      "en": "Yan Ri",
+      "slug": "yan-ri"
+    },
+    "code": {
+      "dopa": "630304"
+    },
+    "parent": {
+      "id": "6303",
+      "level": 2,
+      "name": {
+        "th": "สามเงา",
+        "en": "Sam Ngao",
+        "slug": "sam-ngao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "th": "ตาก",
+          "en": "Tak",
+          "slug": "tak"
+        }
+      },
+      {
+        "id": "6303",
+        "level": 2,
+        "name": {
+          "th": "สามเงา",
+          "en": "Sam Ngao",
+          "slug": "sam-ngao"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 5
+    },
+    "zip_codes": [
+      "63130"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.188",
+      "lon": "99.022"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/yan-ri-630304/"
+    }
+  },
+  {
+    "id": "630303",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ยกกระบัตร",
+      "en": "Yokkrabat",
+      "slug": "yokkrabat"
+    },
+    "code": {
+      "dopa": "630303"
+    },
+    "parent": {
+      "id": "6303",
+      "level": 2,
+      "name": {
+        "th": "สามเงา",
+        "en": "Sam Ngao",
+        "slug": "sam-ngao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "th": "ตาก",
+          "en": "Tak",
+          "slug": "tak"
+        }
+      },
+      {
+        "id": "6303",
+        "level": 2,
+        "name": {
+          "th": "สามเงา",
+          "en": "Sam Ngao",
+          "slug": "sam-ngao"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 12
+    },
+    "zip_codes": [
+      "63130"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.335",
+      "lon": "99.034"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/yokkrabat-630303/"
+    }
+  }
+]

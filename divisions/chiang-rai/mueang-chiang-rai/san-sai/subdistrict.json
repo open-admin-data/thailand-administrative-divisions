@@ -1,0 +1,61 @@
+{
+  "id": "570107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สันทราย",
+    "en": "San Sai",
+    "slug": "san-sai"
+  },
+  "code": {
+    "dopa": "570107"
+  },
+  "parent": {
+    "id": "5701",
+    "level": 2,
+    "name": {
+      "th": "เมืองเชียงราย",
+      "en": "Mueang Chiang Rai",
+      "slug": "mueang-chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5701",
+      "level": 2,
+      "name": {
+        "th": "เมืองเชียงราย",
+        "en": "Mueang Chiang Rai",
+        "slug": "mueang-chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "57000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.855",
+    "lon": "99.805"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/san-sai-570107/"
+  }
+}

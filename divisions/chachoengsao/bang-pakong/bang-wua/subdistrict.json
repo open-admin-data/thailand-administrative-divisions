@@ -1,0 +1,61 @@
+{
+  "id": "240403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางวัว",
+    "en": "Bang Wua",
+    "slug": "bang-wua"
+  },
+  "code": {
+    "dopa": "240403"
+  },
+  "parent": {
+    "id": "2404",
+    "level": 2,
+    "name": {
+      "th": "บางปะกง",
+      "en": "Bang Pakong",
+      "slug": "bang-pakong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2404",
+      "level": 2,
+      "name": {
+        "th": "บางปะกง",
+        "en": "Bang Pakong",
+        "slug": "bang-pakong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "24180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.569",
+    "lon": "100.964"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-wua-240403/"
+  }
+}

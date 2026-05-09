@@ -1,0 +1,61 @@
+{
+  "id": "230308",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งนนทรี",
+    "en": "Thung Nonsi",
+    "slug": "thung-nonsi"
+  },
+  "code": {
+    "dopa": "230308"
+  },
+  "parent": {
+    "id": "2303",
+    "level": 2,
+    "name": {
+      "th": "เขาสมิง",
+      "en": "Khao Saming",
+      "slug": "khao-saming"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "th": "ตราด",
+        "en": "Trat",
+        "slug": "trat"
+      }
+    },
+    {
+      "id": "2303",
+      "level": 2,
+      "name": {
+        "th": "เขาสมิง",
+        "en": "Khao Saming",
+        "slug": "khao-saming"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "23130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.405",
+    "lon": "102.501"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-nonsi-230308/"
+  }
+}

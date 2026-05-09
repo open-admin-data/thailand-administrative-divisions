@@ -1,0 +1,61 @@
+{
+  "id": "301206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนตะหนิน",
+    "en": "Don Tanin",
+    "slug": "don-tanin"
+  },
+  "code": {
+    "dopa": "301206"
+  },
+  "parent": {
+    "id": "3012",
+    "level": 2,
+    "name": {
+      "th": "บัวใหญ่",
+      "en": "Bua Yai",
+      "slug": "bua-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3012",
+      "level": 2,
+      "name": {
+        "th": "บัวใหญ่",
+        "en": "Bua Yai",
+        "slug": "bua-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "30120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.486",
+    "lon": "102.466"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-tanin-301206/"
+  }
+}

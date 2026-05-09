@@ -1,0 +1,61 @@
+{
+  "id": "501504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองตอง",
+    "en": "Nong Tong",
+    "slug": "nong-tong"
+  },
+  "code": {
+    "dopa": "501504"
+  },
+  "parent": {
+    "id": "5015",
+    "level": 2,
+    "name": {
+      "th": "หางดง",
+      "en": "Hang Dong",
+      "slug": "hang-dong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5015",
+      "level": 2,
+      "name": {
+        "th": "หางดง",
+        "en": "Hang Dong",
+        "slug": "hang-dong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "50340"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.613",
+    "lon": "98.945"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-tong-501504/"
+  }
+}

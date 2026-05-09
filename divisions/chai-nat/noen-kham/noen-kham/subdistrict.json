@@ -1,0 +1,61 @@
+{
+  "id": "180801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เนินขาม",
+    "en": "Noen Kham",
+    "slug": "noen-kham"
+  },
+  "code": {
+    "dopa": "180801"
+  },
+  "parent": {
+    "id": "1808",
+    "level": 2,
+    "name": {
+      "th": "เนินขาม",
+      "en": "Noen Kham",
+      "slug": "noen-kham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1808",
+      "level": 2,
+      "name": {
+        "th": "เนินขาม",
+        "en": "Noen Kham",
+        "slug": "noen-kham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "17130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.957",
+    "lon": "99.901"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/noen-kham-180801/"
+  }
+}

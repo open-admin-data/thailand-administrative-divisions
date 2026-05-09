@@ -1,0 +1,61 @@
+{
+  "id": "560113",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าวังทอง",
+    "en": "Tha Wang Thong",
+    "slug": "tha-wang-thong"
+  },
+  "code": {
+    "dopa": "560113"
+  },
+  "parent": {
+    "id": "5601",
+    "level": 2,
+    "name": {
+      "th": "เมืองพะเยา",
+      "en": "Mueang Phayao",
+      "slug": "mueang-phayao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5601",
+      "level": 2,
+      "name": {
+        "th": "เมืองพะเยา",
+        "en": "Mueang Phayao",
+        "slug": "mueang-phayao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "56000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.202",
+    "lon": "99.927"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-wang-thong-560113/"
+  }
+}

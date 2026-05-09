@@ -1,0 +1,61 @@
+{
+  "id": "900901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กำแพงเพชร",
+    "en": "Kamphaeng Phet",
+    "slug": "kamphaeng-phet"
+  },
+  "code": {
+    "dopa": "900901"
+  },
+  "parent": {
+    "id": "9009",
+    "level": 2,
+    "name": {
+      "th": "รัตภูมิ",
+      "en": "Rattaphum",
+      "slug": "rattaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9009",
+      "level": 2,
+      "name": {
+        "th": "รัตภูมิ",
+        "en": "Rattaphum",
+        "slug": "rattaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "90180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.087",
+    "lon": "100.287"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kamphaeng-phet-900901/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "3411",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ตระการพืชผล",
+    "en": "Trakan Phuet Phon",
+    "slug": "trakan-phuet-phon"
+  },
+  "code": {
+    "dopa": "3411"
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 23,
+    "villages": 234
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.601",
+    "lon": "105.021"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/trakan-phuet-phon-3411/"
+  }
+}

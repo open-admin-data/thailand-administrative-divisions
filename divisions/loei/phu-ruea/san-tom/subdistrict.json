@@ -1,0 +1,61 @@
+{
+  "id": "420706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สานตม",
+    "en": "San Tom",
+    "slug": "san-tom"
+  },
+  "code": {
+    "dopa": "420706"
+  },
+  "parent": {
+    "id": "4207",
+    "level": 2,
+    "name": {
+      "th": "ภูเรือ",
+      "en": "Phu Ruea",
+      "slug": "phu-ruea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4207",
+      "level": 2,
+      "name": {
+        "th": "ภูเรือ",
+        "en": "Phu Ruea",
+        "slug": "phu-ruea"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "42160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.460",
+    "lon": "101.482"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/san-tom-420706/"
+  }
+}

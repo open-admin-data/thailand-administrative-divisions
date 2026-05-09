@@ -1,0 +1,61 @@
+{
+  "id": "481002",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาหัวบ่อ",
+    "en": "Na Hua Bo",
+    "slug": "na-hua-bo"
+  },
+  "code": {
+    "dopa": "481002"
+  },
+  "parent": {
+    "id": "4810",
+    "level": 2,
+    "name": {
+      "th": "โพนสวรรค์",
+      "en": "Phon Sawan",
+      "slug": "phon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4810",
+      "level": 2,
+      "name": {
+        "th": "โพนสวรรค์",
+        "en": "Phon Sawan",
+        "slug": "phon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "48190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.482",
+    "lon": "104.368"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-hua-bo-481002/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "120404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางคูรัด",
+    "en": "Bang Khu Rat",
+    "slug": "bang-khu-rat"
+  },
+  "code": {
+    "dopa": "120404"
+  },
+  "parent": {
+    "id": "1204",
+    "level": 2,
+    "name": {
+      "th": "บางบัวทอง",
+      "en": "Bang Bua Thong",
+      "slug": "bang-bua-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1204",
+      "level": 2,
+      "name": {
+        "th": "บางบัวทอง",
+        "en": "Bang Bua Thong",
+        "slug": "bang-bua-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "11110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.907",
+    "lon": "100.351"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-khu-rat-120404/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "421105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เลยวังไสย์",
+    "en": "Loei Wang Sai",
+    "slug": "loei-wang-sai"
+  },
+  "code": {
+    "dopa": "421105"
+  },
+  "parent": {
+    "id": "4211",
+    "level": 2,
+    "name": {
+      "th": "ภูหลวง",
+      "en": "Phu Luang",
+      "slug": "phu-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4211",
+      "level": 2,
+      "name": {
+        "th": "ภูหลวง",
+        "en": "Phu Luang",
+        "slug": "phu-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "42230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.086",
+    "lon": "101.549"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/loei-wang-sai-421105/"
+  }
+}

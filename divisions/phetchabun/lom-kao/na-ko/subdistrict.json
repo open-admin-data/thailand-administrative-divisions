@@ -1,0 +1,61 @@
+{
+  "id": "670408",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาเกาะ",
+    "en": "Na Ko",
+    "slug": "na-ko"
+  },
+  "code": {
+    "dopa": "670408"
+  },
+  "parent": {
+    "id": "6704",
+    "level": 2,
+    "name": {
+      "th": "หล่มเก่า",
+      "en": "Lom Kao",
+      "slug": "lom-kao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6704",
+      "level": 2,
+      "name": {
+        "th": "หล่มเก่า",
+        "en": "Lom Kao",
+        "slug": "lom-kao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "67120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.832",
+    "lon": "101.176"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-ko-670408/"
+  }
+}

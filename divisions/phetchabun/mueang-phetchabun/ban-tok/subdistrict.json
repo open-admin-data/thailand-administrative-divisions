@@ -1,0 +1,61 @@
+{
+  "id": "670103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านโตก",
+    "en": "Ban Tok",
+    "slug": "ban-tok"
+  },
+  "code": {
+    "dopa": "670103"
+  },
+  "parent": {
+    "id": "6701",
+    "level": 2,
+    "name": {
+      "th": "เมืองเพชรบูรณ์",
+      "en": "Mueang Phetchabun",
+      "slug": "mueang-phetchabun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "th": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "67000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.347",
+    "lon": "101.056"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-tok-670103/"
+  }
+}

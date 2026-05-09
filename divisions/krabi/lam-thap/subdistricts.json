@@ -1,0 +1,246 @@
+[
+  {
+    "id": "810704",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ดินแดง",
+      "en": "Din Daeng",
+      "slug": "din-daeng"
+    },
+    "code": {
+      "dopa": "810704"
+    },
+    "parent": {
+      "id": "8107",
+      "level": 2,
+      "name": {
+        "th": "ลำทับ",
+        "en": "Lam Thap",
+        "slug": "lam-thap"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "th": "กระบี่",
+          "en": "Krabi",
+          "slug": "krabi"
+        }
+      },
+      {
+        "id": "8107",
+        "level": 2,
+        "name": {
+          "th": "ลำทับ",
+          "en": "Lam Thap",
+          "slug": "lam-thap"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "81120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.011",
+      "lon": "99.373"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/din-daeng-810704/"
+    }
+  },
+  {
+    "id": "810702",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ดินอุดม",
+      "en": "Din Udom",
+      "slug": "din-udom"
+    },
+    "code": {
+      "dopa": "810702"
+    },
+    "parent": {
+      "id": "8107",
+      "level": 2,
+      "name": {
+        "th": "ลำทับ",
+        "en": "Lam Thap",
+        "slug": "lam-thap"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "th": "กระบี่",
+          "en": "Krabi",
+          "slug": "krabi"
+        }
+      },
+      {
+        "id": "8107",
+        "level": 2,
+        "name": {
+          "th": "ลำทับ",
+          "en": "Lam Thap",
+          "slug": "lam-thap"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "81120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.100",
+      "lon": "99.358"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/din-udom-810702/"
+    }
+  },
+  {
+    "id": "810701",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ลำทับ",
+      "en": "Lam Thap",
+      "slug": "lam-thap"
+    },
+    "code": {
+      "dopa": "810701"
+    },
+    "parent": {
+      "id": "8107",
+      "level": 2,
+      "name": {
+        "th": "ลำทับ",
+        "en": "Lam Thap",
+        "slug": "lam-thap"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "th": "กระบี่",
+          "en": "Krabi",
+          "slug": "krabi"
+        }
+      },
+      {
+        "id": "8107",
+        "level": 2,
+        "name": {
+          "th": "ลำทับ",
+          "en": "Lam Thap",
+          "slug": "lam-thap"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "81120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.960",
+      "lon": "99.348"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/lam-thap-810701/"
+    }
+  },
+  {
+    "id": "810703",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ทุ่งไทรทอง",
+      "en": "Thung Sai Thong",
+      "slug": "thung-sai-thong"
+    },
+    "code": {
+      "dopa": "810703"
+    },
+    "parent": {
+      "id": "8107",
+      "level": 2,
+      "name": {
+        "th": "ลำทับ",
+        "en": "Lam Thap",
+        "slug": "lam-thap"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "th": "กระบี่",
+          "en": "Krabi",
+          "slug": "krabi"
+        }
+      },
+      {
+        "id": "8107",
+        "level": 2,
+        "name": {
+          "th": "ลำทับ",
+          "en": "Lam Thap",
+          "slug": "lam-thap"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 5
+    },
+    "zip_codes": [
+      "81120"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "8.004",
+      "lon": "99.311"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/thung-sai-thong-810703/"
+    }
+  }
+]

@@ -1,0 +1,50 @@
+{
+  "id": "5402",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ร้องกวาง",
+    "en": "Rong Kwang",
+    "slug": "rong-kwang"
+  },
+  "code": {
+    "dopa": "5402"
+  },
+  "parent": {
+    "id": "54",
+    "level": 1,
+    "name": {
+      "th": "แพร่",
+      "en": "Phrae",
+      "slug": "phrae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 93
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.304",
+    "lon": "100.257"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/rong-kwang-5402/"
+  }
+}

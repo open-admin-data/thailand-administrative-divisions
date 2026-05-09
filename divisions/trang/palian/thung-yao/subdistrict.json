@@ -1,0 +1,61 @@
+{
+  "id": "920402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งยาว",
+    "en": "Thung Yao",
+    "slug": "thung-yao"
+  },
+  "code": {
+    "dopa": "920402"
+  },
+  "parent": {
+    "id": "9204",
+    "level": 2,
+    "name": {
+      "th": "ปะเหลียน",
+      "en": "Palian",
+      "slug": "palian"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9204",
+      "level": 2,
+      "name": {
+        "th": "ปะเหลียน",
+        "en": "Palian",
+        "slug": "palian"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "92180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.241",
+    "lon": "99.753"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-yao-920402/"
+  }
+}

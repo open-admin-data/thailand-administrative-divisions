@@ -1,0 +1,38 @@
+{
+  "id": "12",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "นนทบุรี",
+    "en": "Nonthaburi",
+    "slug": "nonthaburi"
+  },
+  "code": {
+    "dopa": "12",
+    "iso": "TH-12"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 6,
+    "subdistricts": 52,
+    "villages": 641
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central"
+    }
+  },
+  "geo": {
+    "lat": "13.914",
+    "lon": "100.422"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/nonthaburi-12/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "3405",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขมราฐ",
+    "en": "Khemarat",
+    "slug": "khemarat"
+  },
+  "code": {
+    "dopa": "3405"
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 123
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.872",
+    "lon": "105.222"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khemarat-3405/"
+  }
+}

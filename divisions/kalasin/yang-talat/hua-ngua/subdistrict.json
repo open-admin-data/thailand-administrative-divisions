@@ -1,0 +1,61 @@
+{
+  "id": "460702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวงัว",
+    "en": "Hua Ngua",
+    "slug": "hua-ngua"
+  },
+  "code": {
+    "dopa": "460702"
+  },
+  "parent": {
+    "id": "4607",
+    "level": 2,
+    "name": {
+      "th": "ยางตลาด",
+      "en": "Yang Talat",
+      "slug": "yang-talat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4607",
+      "level": 2,
+      "name": {
+        "th": "ยางตลาด",
+        "en": "Yang Talat",
+        "slug": "yang-talat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "46120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.337",
+    "lon": "103.446"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-ngua-460702/"
+  }
+}

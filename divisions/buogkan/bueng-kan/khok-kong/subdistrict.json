@@ -1,0 +1,61 @@
+{
+  "id": "380106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกก่อง",
+    "en": "Khok Kong",
+    "slug": "khok-kong"
+  },
+  "code": {
+    "dopa": "380106"
+  },
+  "parent": {
+    "id": "3801",
+    "level": 2,
+    "name": {
+      "th": "บึงกาฬ",
+      "en": "Bueng Kan",
+      "slug": "bueng-kan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3801",
+      "level": 2,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Bueng Kan",
+        "slug": "bueng-kan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "38000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.298",
+    "lon": "103.772"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-kong-380106/"
+  }
+}

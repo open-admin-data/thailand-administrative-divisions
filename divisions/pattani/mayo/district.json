@@ -1,0 +1,50 @@
+{
+  "id": "9405",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "มายอ",
+    "en": "Mayo",
+    "slug": "mayo"
+  },
+  "code": {
+    "dopa": "9405"
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "th": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 59
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.749",
+    "lon": "101.357"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mayo-9405/"
+  }
+}

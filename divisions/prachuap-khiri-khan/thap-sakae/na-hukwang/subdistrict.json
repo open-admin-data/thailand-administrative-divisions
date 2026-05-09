@@ -1,0 +1,61 @@
+{
+  "id": "770303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาหูกวาง",
+    "en": "Na Hukwang",
+    "slug": "na-hukwang"
+  },
+  "code": {
+    "dopa": "770303"
+  },
+  "parent": {
+    "id": "7703",
+    "level": 2,
+    "name": {
+      "th": "ทับสะแก",
+      "en": "Thap Sakae",
+      "slug": "thap-sakae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    },
+    {
+      "id": "7703",
+      "level": 2,
+      "name": {
+        "th": "ทับสะแก",
+        "en": "Thap Sakae",
+        "slug": "thap-sakae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "77130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "11.537",
+    "lon": "99.499"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-hukwang-770303/"
+  }
+}

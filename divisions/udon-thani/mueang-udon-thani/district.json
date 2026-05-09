@@ -1,0 +1,50 @@
+{
+  "id": "4101",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองอุดรธานี",
+    "en": "Mueang Udon Thani",
+    "slug": "mueang-udon-thani"
+  },
+  "code": {
+    "dopa": "4101"
+  },
+  "parent": {
+    "id": "41",
+    "level": 1,
+    "name": {
+      "th": "อุดรธานี",
+      "en": "Udon Thani",
+      "slug": "udon-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 20,
+    "villages": 373
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.411",
+    "lon": "102.792"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-udon-thani-4101/"
+  }
+}

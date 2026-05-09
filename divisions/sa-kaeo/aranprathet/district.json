@@ -1,0 +1,50 @@
+{
+  "id": "2706",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "อรัญประเทศ",
+    "en": "Aranprathet",
+    "slug": "aranprathet"
+  },
+  "code": {
+    "dopa": "2706"
+  },
+  "parent": {
+    "id": "27",
+    "level": 1,
+    "name": {
+      "th": "สระแก้ว",
+      "en": "Sa Kaeo",
+      "slug": "sa-kaeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 133
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.680",
+    "lon": "102.517"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/aranprathet-2706/"
+  }
+}

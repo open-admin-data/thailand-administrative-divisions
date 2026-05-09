@@ -1,0 +1,61 @@
+{
+  "id": "800202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านเกาะ",
+    "en": "Ban Ko",
+    "slug": "ban-ko"
+  },
+  "code": {
+    "dopa": "800202"
+  },
+  "parent": {
+    "id": "8002",
+    "level": 2,
+    "name": {
+      "th": "พรหมคีรี",
+      "en": "Phrom Khiri",
+      "slug": "phrom-khiri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8002",
+      "level": 2,
+      "name": {
+        "th": "พรหมคีรี",
+        "en": "Phrom Khiri",
+        "slug": "phrom-khiri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "80320"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.539",
+    "lon": "99.814"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-ko-800202/"
+  }
+}

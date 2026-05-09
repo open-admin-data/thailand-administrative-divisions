@@ -1,0 +1,38 @@
+{
+  "id": "62",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "กำแพงเพชร",
+    "en": "Kamphaeng Phet",
+    "slug": "kamphaeng-phet"
+  },
+  "code": {
+    "dopa": "62",
+    "iso": "TH-62"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 11,
+    "subdistricts": 78,
+    "villages": 990
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central"
+    }
+  },
+  "geo": {
+    "lat": "16.473",
+    "lon": "99.528"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/kamphaeng-phet-62/"
+  }
+}

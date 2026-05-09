@@ -1,0 +1,61 @@
+{
+  "id": "200204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองซ้ำซาก",
+    "en": "Nong Samsak",
+    "slug": "nong-samsak"
+  },
+  "code": {
+    "dopa": "200204"
+  },
+  "parent": {
+    "id": "2002",
+    "level": 2,
+    "name": {
+      "th": "บ้านบึง",
+      "en": "Ban Bueng",
+      "slug": "ban-bueng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2002",
+      "level": 2,
+      "name": {
+        "th": "บ้านบึง",
+        "en": "Ban Bueng",
+        "slug": "ban-bueng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "20170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.330",
+    "lon": "101.072"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-samsak-200204/"
+  }
+}

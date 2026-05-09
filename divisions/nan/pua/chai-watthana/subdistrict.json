@@ -1,0 +1,61 @@
+{
+  "id": "550509",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไชยวัฒนา",
+    "en": "Chai Watthana",
+    "slug": "chai-watthana"
+  },
+  "code": {
+    "dopa": "550509"
+  },
+  "parent": {
+    "id": "5505",
+    "level": 2,
+    "name": {
+      "th": "ปัว",
+      "en": "Pua",
+      "slug": "pua"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5505",
+      "level": 2,
+      "name": {
+        "th": "ปัว",
+        "en": "Pua",
+        "slug": "pua"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "55120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.222",
+    "lon": "100.895"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chai-watthana-550509/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "640805",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองบัว",
+    "en": "Nong Bua",
+    "slug": "nong-bua"
+  },
+  "code": {
+    "dopa": "640805"
+  },
+  "parent": {
+    "id": "6408",
+    "level": 2,
+    "name": {
+      "th": "ศรีนคร",
+      "en": "Si Nakhon",
+      "slug": "si-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6408",
+      "level": 2,
+      "name": {
+        "th": "ศรีนคร",
+        "en": "Si Nakhon",
+        "slug": "si-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "64180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.285",
+    "lon": "99.958"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-bua-640805/"
+  }
+}

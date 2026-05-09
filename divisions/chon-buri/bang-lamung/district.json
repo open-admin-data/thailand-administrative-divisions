@@ -1,0 +1,50 @@
+{
+  "id": "2004",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บางละมุง",
+    "en": "Bang Lamung",
+    "slug": "bang-lamung"
+  },
+  "code": {
+    "dopa": "2004"
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "th": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 139
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.928",
+    "lon": "100.805"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-lamung-2004/"
+  }
+}

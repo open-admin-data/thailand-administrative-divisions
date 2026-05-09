@@ -1,0 +1,61 @@
+{
+  "id": "180109",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นางลือ",
+    "en": "Nang Lue",
+    "slug": "nang-lue"
+  },
+  "code": {
+    "dopa": "180109"
+  },
+  "parent": {
+    "id": "1801",
+    "level": 2,
+    "name": {
+      "th": "เมืองชัยนาท",
+      "en": "Chai Nat",
+      "slug": "chai-nat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "th": "เมืองชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "17000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.122",
+    "lon": "100.082"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nang-lue-180109/"
+  }
+}

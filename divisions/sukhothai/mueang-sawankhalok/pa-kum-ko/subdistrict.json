@@ -1,0 +1,61 @@
+{
+  "id": "640712",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่ากุมเกาะ",
+    "en": "Pa Kum Ko",
+    "slug": "pa-kum-ko"
+  },
+  "code": {
+    "dopa": "640712"
+  },
+  "parent": {
+    "id": "6407",
+    "level": 2,
+    "name": {
+      "th": "สวรรคโลก",
+      "en": "Mueang Sawankhalok",
+      "slug": "mueang-sawankhalok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6407",
+      "level": 2,
+      "name": {
+        "th": "สวรรคโลก",
+        "en": "Mueang Sawankhalok",
+        "slug": "mueang-sawankhalok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "64110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.365",
+    "lon": "99.794"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-kum-ko-640712/"
+  }
+}

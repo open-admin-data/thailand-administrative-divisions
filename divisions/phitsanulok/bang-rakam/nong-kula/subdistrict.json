@@ -1,0 +1,61 @@
+{
+  "id": "650406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองกุลา",
+    "en": "Nong Kula",
+    "slug": "nong-kula"
+  },
+  "code": {
+    "dopa": "650406"
+  },
+  "parent": {
+    "id": "6504",
+    "level": 2,
+    "name": {
+      "th": "บางระกำ",
+      "en": "Bang Rakam",
+      "slug": "bang-rakam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6504",
+      "level": 2,
+      "name": {
+        "th": "บางระกำ",
+        "en": "Bang Rakam",
+        "slug": "bang-rakam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 22
+  },
+  "zip_codes": [
+    "65140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.636",
+    "lon": "99.960"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-kula-650406/"
+  }
+}

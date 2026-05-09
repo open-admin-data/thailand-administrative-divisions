@@ -1,0 +1,61 @@
+{
+  "id": "471801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สร้างค้อ",
+    "en": "Sang Kho",
+    "slug": "sang-kho"
+  },
+  "code": {
+    "dopa": "471801"
+  },
+  "parent": {
+    "id": "4718",
+    "level": 2,
+    "name": {
+      "th": "ภูพาน",
+      "en": "Phu Phan",
+      "slug": "phu-phan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4718",
+      "level": 2,
+      "name": {
+        "th": "ภูพาน",
+        "en": "Phu Phan",
+        "slug": "phu-phan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 23
+  },
+  "zip_codes": [
+    "47180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.883",
+    "lon": "103.918"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sang-kho-471801/"
+  }
+}

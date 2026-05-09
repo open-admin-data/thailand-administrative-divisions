@@ -1,0 +1,50 @@
+{
+  "id": "6107",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ลานสัก",
+    "en": "Lan Sak",
+    "slug": "lan-sak"
+  },
+  "code": {
+    "dopa": "6107"
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "th": "อุทัยธานี",
+      "en": "Uthai Thani",
+      "slug": "uthai-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 84
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.452",
+    "lon": "99.643"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/lan-sak-6107/"
+  }
+}

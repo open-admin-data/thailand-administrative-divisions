@@ -1,0 +1,551 @@
+[
+  {
+    "id": "180102",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บ้านกล้วย",
+      "en": "Ban Kluai",
+      "slug": "ban-kluai"
+    },
+    "code": {
+      "dopa": "180102"
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "th": "เมืองชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "th": "ชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "th": "เมืองชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "17000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.182",
+      "lon": "100.153"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ban-kluai-180102/"
+    }
+  },
+  {
+    "id": "180104",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ชัยนาท",
+      "en": "Chai Nat",
+      "slug": "chai-nat"
+    },
+    "code": {
+      "dopa": "180104"
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "th": "เมืองชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "th": "ชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "th": "เมืองชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "17000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.129",
+      "lon": "100.151"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/chai-nat-180104/"
+    }
+  },
+  {
+    "id": "180106",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หาดท่าเสา",
+      "en": "Hat Tha Sao",
+      "slug": "hat-tha-sao"
+    },
+    "code": {
+      "dopa": "180106"
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "th": "เมืองชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "th": "ชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "th": "เมืองชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "17000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.200",
+      "lon": "100.079"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/hat-tha-sao-180106/"
+    }
+  },
+  {
+    "id": "180105",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เขาท่าพระ",
+      "en": "Khao Tha Phra",
+      "slug": "khao-tha-phra"
+    },
+    "code": {
+      "dopa": "180105"
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "th": "เมืองชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "th": "ชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "th": "เมืองชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "17000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.218",
+      "lon": "100.134"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khao-tha-phra-180105/"
+    }
+  },
+  {
+    "id": "180101",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang"
+    },
+    "code": {
+      "dopa": "180101"
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "th": "เมืองชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "th": "ชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "th": "เมืองชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 18
+    },
+    "zip_codes": [
+      "17000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.181",
+      "lon": "100.127"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nai-mueang-180101/"
+    }
+  },
+  {
+    "id": "180109",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "นางลือ",
+      "en": "Nang Lue",
+      "slug": "nang-lue"
+    },
+    "code": {
+      "dopa": "180109"
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "th": "เมืองชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "th": "ชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "th": "เมืองชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 15
+    },
+    "zip_codes": [
+      "17000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.122",
+      "lon": "100.082"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nang-lue-180109/"
+    }
+  },
+  {
+    "id": "180108",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เสือโฮก",
+      "en": "Suea Hok",
+      "slug": "suea-hok"
+    },
+    "code": {
+      "dopa": "180108"
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "th": "เมืองชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "th": "ชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "th": "เมืองชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 14
+    },
+    "zip_codes": [
+      "17000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.238",
+      "lon": "100.224"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/suea-hok-180108/"
+    }
+  },
+  {
+    "id": "180103",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ท่าชัย",
+      "en": "Tha Chai",
+      "slug": "tha-chai"
+    },
+    "code": {
+      "dopa": "180103"
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "th": "เมืองชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "th": "ชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "th": "เมืองชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "17000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.163",
+      "lon": "100.113"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/tha-chai-180103/"
+    }
+  },
+  {
+    "id": "180107",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ธรรมามูล",
+      "en": "Thammamun",
+      "slug": "thammamun"
+    },
+    "code": {
+      "dopa": "180107"
+    },
+    "parent": {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "th": "เมืองชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "th": "ชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat"
+        }
+      },
+      {
+        "id": "1801",
+        "level": 2,
+        "name": {
+          "th": "เมืองชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "17000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.264",
+      "lon": "100.133"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/thammamun-180107/"
+    }
+  }
+]

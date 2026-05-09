@@ -1,0 +1,61 @@
+{
+  "id": "310804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปราสาท",
+    "en": "Prasat",
+    "slug": "prasat"
+  },
+  "code": {
+    "dopa": "310804"
+  },
+  "parent": {
+    "id": "3108",
+    "level": 2,
+    "name": {
+      "th": "บ้านกรวด",
+      "en": "Ban Kruat",
+      "slug": "ban-kruat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3108",
+      "level": 2,
+      "name": {
+        "th": "บ้านกรวด",
+        "en": "Ban Kruat",
+        "slug": "ban-kruat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "31180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.362",
+    "lon": "103.109"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/prasat-310804/"
+  }
+}

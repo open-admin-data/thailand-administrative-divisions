@@ -1,0 +1,38 @@
+{
+  "id": "30",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "นครราชสีมา",
+    "en": "Nakhon Ratchasima",
+    "slug": "nakhon-ratchasima"
+  },
+  "code": {
+    "dopa": "30",
+    "iso": "TH-30"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 32,
+    "subdistricts": 285,
+    "villages": 3786
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "Northeastern"
+    }
+  },
+  "geo": {
+    "lat": "14.909",
+    "lon": "101.851"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/nakhon-ratchasima-30/"
+  }
+}

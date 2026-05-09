@@ -1,0 +1,61 @@
+{
+  "id": "270502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าเกวียน",
+    "en": "Tha Kwian",
+    "slug": "tha-kwian"
+  },
+  "code": {
+    "dopa": "270502"
+  },
+  "parent": {
+    "id": "2705",
+    "level": 2,
+    "name": {
+      "th": "วัฒนานคร",
+      "en": "Watthana Nakhon",
+      "slug": "watthana-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    },
+    {
+      "id": "2705",
+      "level": 2,
+      "name": {
+        "th": "วัฒนานคร",
+        "en": "Watthana Nakhon",
+        "slug": "watthana-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "27160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.666",
+    "lon": "102.251"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-kwian-270502/"
+  }
+}

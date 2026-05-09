@@ -1,0 +1,61 @@
+{
+  "id": "670606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองย่างทอย",
+    "en": "Nong Yang Thoi",
+    "slug": "nong-yang-thoi"
+  },
+  "code": {
+    "dopa": "670606"
+  },
+  "parent": {
+    "id": "6706",
+    "level": 2,
+    "name": {
+      "th": "ศรีเทพ",
+      "en": "Si Thep",
+      "slug": "si-thep"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6706",
+      "level": 2,
+      "name": {
+        "th": "ศรีเทพ",
+        "en": "Si Thep",
+        "slug": "si-thep"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "67170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.402",
+    "lon": "101.252"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-yang-thoi-670606/"
+  }
+}

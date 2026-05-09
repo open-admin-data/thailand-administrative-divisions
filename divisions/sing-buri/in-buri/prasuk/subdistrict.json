@@ -1,0 +1,61 @@
+{
+  "id": "170602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ประศุก",
+    "en": "Prasuk",
+    "slug": "prasuk"
+  },
+  "code": {
+    "dopa": "170602"
+  },
+  "parent": {
+    "id": "1706",
+    "level": 2,
+    "name": {
+      "th": "อินทร์บุรี",
+      "en": "In Buri",
+      "slug": "in-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "th": "อินทร์บุรี",
+        "en": "In Buri",
+        "slug": "in-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "16110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.042",
+    "lon": "100.291"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/prasuk-170602/"
+  }
+}

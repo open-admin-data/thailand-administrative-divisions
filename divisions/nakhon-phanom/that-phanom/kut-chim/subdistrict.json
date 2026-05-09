@@ -1,0 +1,61 @@
+{
+  "id": "480511",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุดฉิม",
+    "en": "Kut Chim",
+    "slug": "kut-chim"
+  },
+  "code": {
+    "dopa": "480511"
+  },
+  "parent": {
+    "id": "4805",
+    "level": 2,
+    "name": {
+      "th": "ธาตุพนม",
+      "en": "That Phanom",
+      "slug": "that-phanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4805",
+      "level": 2,
+      "name": {
+        "th": "ธาตุพนม",
+        "en": "That Phanom",
+        "slug": "that-phanom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "48110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.059",
+    "lon": "104.726"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kut-chim-480511/"
+  }
+}

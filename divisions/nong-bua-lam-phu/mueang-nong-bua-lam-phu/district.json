@@ -1,0 +1,50 @@
+{
+  "id": "3901",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองหนองบัวลำภู",
+    "en": "Mueang Nong Bua Lam Phu",
+    "slug": "mueang-nong-bua-lam-phu"
+  },
+  "code": {
+    "dopa": "3901"
+  },
+  "parent": {
+    "id": "39",
+    "level": 1,
+    "name": {
+      "th": "หนองบัวลำภู",
+      "en": "Nong Bua Lam Phu",
+      "slug": "nong-bua-lam-phu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 15,
+    "villages": 187
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.243",
+    "lon": "102.440"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-nong-bua-lam-phu-3901/"
+  }
+}

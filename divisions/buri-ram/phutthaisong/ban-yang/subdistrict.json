@@ -1,0 +1,61 @@
+{
+  "id": "310909",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านยาง",
+    "en": "Ban Yang",
+    "slug": "ban-yang"
+  },
+  "code": {
+    "dopa": "310909"
+  },
+  "parent": {
+    "id": "3109",
+    "level": 2,
+    "name": {
+      "th": "พุทไธสง",
+      "en": "Phutthaisong",
+      "slug": "phutthaisong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3109",
+      "level": 2,
+      "name": {
+        "th": "พุทไธสง",
+        "en": "Phutthaisong",
+        "slug": "phutthaisong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "31120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.463",
+    "lon": "103.097"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-yang-310909/"
+  }
+}

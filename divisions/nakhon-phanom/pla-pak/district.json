@@ -1,0 +1,50 @@
+{
+  "id": "4802",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปลาปาก",
+    "en": "Pla Pak",
+    "slug": "pla-pak"
+  },
+  "code": {
+    "dopa": "4802"
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "th": "นครพนม",
+      "en": "Nakhon Phanom",
+      "slug": "nakhon-phanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 85
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.121",
+    "lon": "104.523"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pla-pak-4802/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "860111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังใหม่",
+    "en": "Wang Mai",
+    "slug": "wang-mai"
+  },
+  "code": {
+    "dopa": "860111"
+  },
+  "parent": {
+    "id": "8601",
+    "level": 2,
+    "name": {
+      "th": "เมืองชุมพร",
+      "en": "Mueang Chumphon",
+      "slug": "mueang-chumphon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8601",
+      "level": 2,
+      "name": {
+        "th": "เมืองชุมพร",
+        "en": "Mueang Chumphon",
+        "slug": "mueang-chumphon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "86190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.523",
+    "lon": "99.054"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-mai-860111/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "510611",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นครเจดีย์",
+    "en": "Nakhon Chedi",
+    "slug": "nakhon-chedi"
+  },
+  "code": {
+    "dopa": "510611"
+  },
+  "parent": {
+    "id": "5106",
+    "level": 2,
+    "name": {
+      "th": "ป่าซาง",
+      "en": "Pa Sang",
+      "slug": "pa-sang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5106",
+      "level": 2,
+      "name": {
+        "th": "ป่าซาง",
+        "en": "Pa Sang",
+        "slug": "pa-sang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "51120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.371",
+    "lon": "98.898"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nakhon-chedi-510611/"
+  }
+}

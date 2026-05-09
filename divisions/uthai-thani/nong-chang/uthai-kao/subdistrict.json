@@ -1,0 +1,61 @@
+{
+  "id": "610406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อุทัยเก่า",
+    "en": "Uthai Kao",
+    "slug": "uthai-kao"
+  },
+  "code": {
+    "dopa": "610406"
+  },
+  "parent": {
+    "id": "6104",
+    "level": 2,
+    "name": {
+      "th": "หนองฉาง",
+      "en": "Nong Chang",
+      "slug": "nong-chang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6104",
+      "level": 2,
+      "name": {
+        "th": "หนองฉาง",
+        "en": "Nong Chang",
+        "slug": "nong-chang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "61110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.408",
+    "lon": "99.800"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/uthai-kao-610406/"
+  }
+}

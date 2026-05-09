@@ -1,0 +1,50 @@
+{
+  "id": "9602",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ตากใบ",
+    "en": "Tak Bai",
+    "slug": "tak-bai"
+  },
+  "code": {
+    "dopa": "9602"
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "th": "นราธิวาส",
+      "en": "Narathiwat",
+      "slug": "narathiwat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 61
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.220",
+    "lon": "102.059"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tak-bai-9602/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "4409",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "วาปีปทุม",
+    "en": "Wapi Pathum",
+    "slug": "wapi-pathum"
+  },
+  "code": {
+    "dopa": "4409"
+  },
+  "parent": {
+    "id": "44",
+    "level": 1,
+    "name": {
+      "th": "มหาสารคาม",
+      "en": "Maha Sarakham",
+      "slug": "maha-sarakham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 15,
+    "villages": 241
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.852",
+    "lon": "103.312"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wapi-pathum-4409/"
+  }
+}

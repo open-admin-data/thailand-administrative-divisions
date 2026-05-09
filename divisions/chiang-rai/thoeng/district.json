@@ -1,0 +1,50 @@
+{
+  "id": "5704",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เทิง",
+    "en": "Thoeng",
+    "slug": "thoeng"
+  },
+  "code": {
+    "dopa": "5704"
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 156
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.717",
+    "lon": "100.180"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thoeng-5704/"
+  }
+}

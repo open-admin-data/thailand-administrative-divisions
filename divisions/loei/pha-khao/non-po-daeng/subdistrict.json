@@ -1,0 +1,61 @@
+{
+  "id": "421203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนปอแดง",
+    "en": "Non Po Daeng",
+    "slug": "non-po-daeng"
+  },
+  "code": {
+    "dopa": "421203"
+  },
+  "parent": {
+    "id": "4212",
+    "level": 2,
+    "name": {
+      "th": "ผาขาว",
+      "en": "Pha Khao",
+      "slug": "pha-khao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4212",
+      "level": 2,
+      "name": {
+        "th": "ผาขาว",
+        "en": "Pha Khao",
+        "slug": "pha-khao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "42240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.983",
+    "lon": "101.985"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-po-daeng-421203/"
+  }
+}

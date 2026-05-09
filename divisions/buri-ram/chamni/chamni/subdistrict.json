@@ -1,0 +1,61 @@
+{
+  "id": "311801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชำนิ",
+    "en": "Chamni",
+    "slug": "chamni"
+  },
+  "code": {
+    "dopa": "311801"
+  },
+  "parent": {
+    "id": "3118",
+    "level": 2,
+    "name": {
+      "th": "ชำนิ",
+      "en": "Chamni",
+      "slug": "chamni"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3118",
+      "level": 2,
+      "name": {
+        "th": "ชำนิ",
+        "en": "Chamni",
+        "slug": "chamni"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "31110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.785",
+    "lon": "102.810"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chamni-311801/"
+  }
+}

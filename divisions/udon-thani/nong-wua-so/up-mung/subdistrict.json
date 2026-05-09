@@ -1,0 +1,61 @@
+{
+  "id": "410303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อูบมุง",
+    "en": "Up Mung",
+    "slug": "up-mung"
+  },
+  "code": {
+    "dopa": "410303"
+  },
+  "parent": {
+    "id": "4103",
+    "level": 2,
+    "name": {
+      "th": "หนองวัวซอ",
+      "en": "Nong Wua So",
+      "slug": "nong-wua-so"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4103",
+      "level": 2,
+      "name": {
+        "th": "หนองวัวซอ",
+        "en": "Nong Wua So",
+        "slug": "nong-wua-so"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "41220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.087",
+    "lon": "102.564"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/up-mung-410303/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "940105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตันหยงลุโละ",
+    "en": "Tanyong Lulo",
+    "slug": "tanyong-lulo"
+  },
+  "code": {
+    "dopa": "940105"
+  },
+  "parent": {
+    "id": "9401",
+    "level": 2,
+    "name": {
+      "th": "เมืองปัตตานี",
+      "en": "Mueang Pattani",
+      "slug": "mueang-pattani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9401",
+      "level": 2,
+      "name": {
+        "th": "เมืองปัตตานี",
+        "en": "Mueang Pattani",
+        "slug": "mueang-pattani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 3
+  },
+  "zip_codes": [
+    "94000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.877",
+    "lon": "101.305"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tanyong-lulo-940105/"
+  }
+}

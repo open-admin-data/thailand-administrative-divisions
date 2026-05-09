@@ -1,0 +1,185 @@
+[
+  {
+    "id": "24051101",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านชวดลำภู",
+      "en": "Ban Chuat Lam Phu",
+      "slug": "24051101"
+    },
+    "code": {
+      "dopa": "24051101"
+    },
+    "parent": {
+      "id": "240511",
+      "level": 3,
+      "name": {
+        "th": "บางซ่อน",
+        "en": "Bang Son",
+        "slug": "bang-son"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2405",
+        "level": 2,
+        "name": {
+          "th": "บ้านโพธิ์",
+          "en": "Ban Pho",
+          "slug": "ban-pho"
+        }
+      },
+      {
+        "id": "240511",
+        "level": 3,
+        "name": {
+          "th": "บางซ่อน",
+          "en": "Bang Son",
+          "slug": "bang-son"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.5638777",
+      "lon": "101.0760326"
+    },
+    "source": {}
+  },
+  {
+    "id": "24051102",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองยายคำ",
+      "en": "Ban Khlong Yai Kham",
+      "slug": "24051102"
+    },
+    "code": {
+      "dopa": "24051102"
+    },
+    "parent": {
+      "id": "240511",
+      "level": 3,
+      "name": {
+        "th": "บางซ่อน",
+        "en": "Bang Son",
+        "slug": "bang-son"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2405",
+        "level": 2,
+        "name": {
+          "th": "บ้านโพธิ์",
+          "en": "Ban Pho",
+          "slug": "ban-pho"
+        }
+      },
+      {
+        "id": "240511",
+        "level": 3,
+        "name": {
+          "th": "บางซ่อน",
+          "en": "Bang Son",
+          "slug": "bang-son"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.558862994408997",
+      "lon": "101.06172233819962"
+    },
+    "source": {}
+  },
+  {
+    "id": "24051103",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านจากแดง",
+      "en": "Ban Chak Daeng",
+      "slug": "24051103"
+    },
+    "code": {
+      "dopa": "24051103"
+    },
+    "parent": {
+      "id": "240511",
+      "level": 3,
+      "name": {
+        "th": "บางซ่อน",
+        "en": "Bang Son",
+        "slug": "bang-son"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2405",
+        "level": 2,
+        "name": {
+          "th": "บ้านโพธิ์",
+          "en": "Ban Pho",
+          "slug": "ban-pho"
+        }
+      },
+      {
+        "id": "240511",
+        "level": 3,
+        "name": {
+          "th": "บางซ่อน",
+          "en": "Bang Son",
+          "slug": "bang-son"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.558310213366612",
+      "lon": "101.05365291237831"
+    },
+    "source": {}
+  }
+]

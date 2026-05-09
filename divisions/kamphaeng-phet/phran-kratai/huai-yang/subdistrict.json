@@ -1,0 +1,61 @@
+{
+  "id": "620610",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยยั้ง",
+    "en": "Huai Yang",
+    "slug": "huai-yang"
+  },
+  "code": {
+    "dopa": "620610"
+  },
+  "parent": {
+    "id": "6206",
+    "level": 2,
+    "name": {
+      "th": "พรานกระต่าย",
+      "en": "Phran Kratai",
+      "slug": "phran-kratai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6206",
+      "level": 2,
+      "name": {
+        "th": "พรานกระต่าย",
+        "en": "Phran Kratai",
+        "slug": "phran-kratai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "62110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.824",
+    "lon": "99.559"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-yang-620610/"
+  }
+}

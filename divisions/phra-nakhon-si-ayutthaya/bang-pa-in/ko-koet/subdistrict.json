@@ -1,0 +1,61 @@
+{
+  "id": "140611",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะเกิด",
+    "en": "Ko Koet",
+    "slug": "ko-koet"
+  },
+  "code": {
+    "dopa": "140611"
+  },
+  "parent": {
+    "id": "1406",
+    "level": 2,
+    "name": {
+      "th": "บางปะอิน",
+      "en": "Bang Pa-in",
+      "slug": "bang-pa-in"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1406",
+      "level": 2,
+      "name": {
+        "th": "บางปะอิน",
+        "en": "Bang Pa-in",
+        "slug": "bang-pa-in"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "13160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.206",
+    "lon": "100.539"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-koet-140611/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "630112",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่ามะม่วง",
+    "en": "Pa Mamuang",
+    "slug": "pa-mamuang"
+  },
+  "code": {
+    "dopa": "630112"
+  },
+  "parent": {
+    "id": "6301",
+    "level": 2,
+    "name": {
+      "th": "เมืองตาก",
+      "en": "Mueang Tak",
+      "slug": "mueang-tak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตาก",
+        "en": "Mueang Tak",
+        "slug": "mueang-tak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "63000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.866",
+    "lon": "99.075"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-mamuang-630112/"
+  }
+}

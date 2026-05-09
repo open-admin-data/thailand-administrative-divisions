@@ -1,0 +1,61 @@
+{
+  "id": "401806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีบุญเรือง",
+    "en": "Si Bun Rueang",
+    "slug": "si-bun-rueang"
+  },
+  "code": {
+    "dopa": "401806"
+  },
+  "parent": {
+    "id": "4018",
+    "level": 2,
+    "name": {
+      "th": "ชนบท",
+      "en": "Chonnabot",
+      "slug": "chonnabot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4018",
+      "level": 2,
+      "name": {
+        "th": "ชนบท",
+        "en": "Chonnabot",
+        "slug": "chonnabot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "40180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.115",
+    "lon": "102.623"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-bun-rueang-401806/"
+  }
+}

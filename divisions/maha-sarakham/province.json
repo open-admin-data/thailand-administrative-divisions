@@ -1,0 +1,38 @@
+{
+  "id": "44",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "มหาสารคาม",
+    "en": "Maha Sarakham",
+    "slug": "maha-sarakham"
+  },
+  "code": {
+    "dopa": "44",
+    "iso": "TH-44"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 13,
+    "subdistricts": 133,
+    "villages": 1961
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "Northeastern"
+    }
+  },
+  "geo": {
+    "lat": "16.162",
+    "lon": "103.484"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/maha-sarakham-44/"
+  }
+}

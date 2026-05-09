@@ -1,0 +1,61 @@
+{
+  "id": "471302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าศิลา",
+    "en": "Tha Sila",
+    "slug": "tha-sila"
+  },
+  "code": {
+    "dopa": "471302"
+  },
+  "parent": {
+    "id": "4713",
+    "level": 2,
+    "name": {
+      "th": "ส่องดาว",
+      "en": "Song Dao",
+      "slug": "song-dao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4713",
+      "level": 2,
+      "name": {
+        "th": "ส่องดาว",
+        "en": "Song Dao",
+        "slug": "song-dao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "47190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.284",
+    "lon": "103.387"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-sila-471302/"
+  }
+}

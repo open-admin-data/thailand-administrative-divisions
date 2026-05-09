@@ -1,0 +1,61 @@
+{
+  "id": "380602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพธิ์หมากแข้ง",
+    "en": "Pho Mak Khaeng",
+    "slug": "pho-mak-khaeng"
+  },
+  "code": {
+    "dopa": "380602"
+  },
+  "parent": {
+    "id": "3806",
+    "level": 2,
+    "name": {
+      "th": "บึงโขงหลง",
+      "en": "Bueng Khong Long",
+      "slug": "bueng-khong-long"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3806",
+      "level": 2,
+      "name": {
+        "th": "บึงโขงหลง",
+        "en": "Bueng Khong Long",
+        "slug": "bueng-khong-long"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "38220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.941",
+    "lon": "104.075"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pho-mak-khaeng-380602/"
+  }
+}

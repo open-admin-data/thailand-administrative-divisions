@@ -1,0 +1,61 @@
+{
+  "id": "370306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนงาม",
+    "en": "Non Ngam",
+    "slug": "non-ngam"
+  },
+  "code": {
+    "dopa": "370306"
+  },
+  "parent": {
+    "id": "3703",
+    "level": 2,
+    "name": {
+      "th": "ปทุมราชวงศา",
+      "en": "Pathum Ratchawongsa",
+      "slug": "pathum-ratchawongsa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    {
+      "id": "3703",
+      "level": 2,
+      "name": {
+        "th": "ปทุมราชวงศา",
+        "en": "Pathum Ratchawongsa",
+        "slug": "pathum-ratchawongsa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "37110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.862",
+    "lon": "104.828"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-ngam-370306/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "160414",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่ามะนาว",
+    "en": "Tha Manao",
+    "slug": "tha-manao"
+  },
+  "code": {
+    "dopa": "160414"
+  },
+  "parent": {
+    "id": "1604",
+    "level": 2,
+    "name": {
+      "th": "ชัยบาดาล",
+      "en": "Chai Badan",
+      "slug": "chai-badan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1604",
+      "level": 2,
+      "name": {
+        "th": "ชัยบาดาล",
+        "en": "Chai Badan",
+        "slug": "chai-badan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "15130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.187",
+    "lon": "101.162"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-manao-160414/"
+  }
+}

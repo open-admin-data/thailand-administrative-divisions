@@ -1,0 +1,50 @@
+{
+  "id": "1303",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ธัญบุรี",
+    "en": "Thanyaburi",
+    "slug": "thanyaburi"
+  },
+  "code": {
+    "dopa": "1303"
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 177
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.999",
+    "lon": "100.687"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thanyaburi-1303/"
+  }
+}

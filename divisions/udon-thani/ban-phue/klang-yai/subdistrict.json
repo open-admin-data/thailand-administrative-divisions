@@ -1,0 +1,61 @@
+{
+  "id": "411708",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กลางใหญ่",
+    "en": "Klang Yai",
+    "slug": "klang-yai"
+  },
+  "code": {
+    "dopa": "411708"
+  },
+  "parent": {
+    "id": "4117",
+    "level": 2,
+    "name": {
+      "th": "บ้านผือ",
+      "en": "Ban Phue",
+      "slug": "ban-phue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4117",
+      "level": 2,
+      "name": {
+        "th": "บ้านผือ",
+        "en": "Ban Phue",
+        "slug": "ban-phue"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "41160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.785",
+    "lon": "102.375"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/klang-yai-411708/"
+  }
+}

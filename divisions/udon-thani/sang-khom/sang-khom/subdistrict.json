@@ -1,0 +1,61 @@
+{
+  "id": "412001",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สร้างคอม",
+    "en": "Sang Khom",
+    "slug": "sang-khom"
+  },
+  "code": {
+    "dopa": "412001"
+  },
+  "parent": {
+    "id": "4120",
+    "level": 2,
+    "name": {
+      "th": "สร้างคอม",
+      "en": "Sang Khom",
+      "slug": "sang-khom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4120",
+      "level": 2,
+      "name": {
+        "th": "สร้างคอม",
+        "en": "Sang Khom",
+        "slug": "sang-khom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "41260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.814",
+    "lon": "103.090"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sang-khom-412001/"
+  }
+}

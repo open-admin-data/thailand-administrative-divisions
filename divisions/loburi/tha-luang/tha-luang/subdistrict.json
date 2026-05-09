@@ -1,0 +1,61 @@
+{
+  "id": "160701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าหลวง",
+    "en": "Tha Luang",
+    "slug": "tha-luang"
+  },
+  "code": {
+    "dopa": "160701"
+  },
+  "parent": {
+    "id": "1607",
+    "level": 2,
+    "name": {
+      "th": "ท่าหลวง",
+      "en": "Tha Luang",
+      "slug": "tha-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1607",
+      "level": 2,
+      "name": {
+        "th": "ท่าหลวง",
+        "en": "Tha Luang",
+        "slug": "tha-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "15230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.071",
+    "lon": "101.117"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-luang-160701/"
+  }
+}

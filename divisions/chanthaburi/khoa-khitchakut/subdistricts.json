@@ -1,0 +1,307 @@
+[
+  {
+    "id": "221001",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ซากไทย",
+      "en": "Chak Thai",
+      "slug": "chak-thai"
+    },
+    "code": {
+      "dopa": "221001"
+    },
+    "parent": {
+      "id": "2210",
+      "level": 2,
+      "name": {
+        "th": "เขาคิชฌกูฏ",
+        "en": "Khoa Khitchakut",
+        "slug": "khoa-khitchakut"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2210",
+        "level": 2,
+        "name": {
+          "th": "เขาคิชฌกูฏ",
+          "en": "Khoa Khitchakut",
+          "slug": "khoa-khitchakut"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "22210"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.765",
+      "lon": "102.101"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/chak-thai-221001/"
+    }
+  },
+  {
+    "id": "221005",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "จันทเขลม",
+      "en": "Chanthakhlem",
+      "slug": "chanthakhlem"
+    },
+    "code": {
+      "dopa": "221005"
+    },
+    "parent": {
+      "id": "2210",
+      "level": 2,
+      "name": {
+        "th": "เขาคิชฌกูฏ",
+        "en": "Khoa Khitchakut",
+        "slug": "khoa-khitchakut"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2210",
+        "level": 2,
+        "name": {
+          "th": "เขาคิชฌกูฏ",
+          "en": "Khoa Khitchakut",
+          "slug": "khoa-khitchakut"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "22210"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.071",
+      "lon": "102.090"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/chanthakhlem-221005/"
+    }
+  },
+  {
+    "id": "221004",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "คลองพลู",
+      "en": "Khlong Phlu",
+      "slug": "khlong-phlu"
+    },
+    "code": {
+      "dopa": "221004"
+    },
+    "parent": {
+      "id": "2210",
+      "level": 2,
+      "name": {
+        "th": "เขาคิชฌกูฏ",
+        "en": "Khoa Khitchakut",
+        "slug": "khoa-khitchakut"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2210",
+        "level": 2,
+        "name": {
+          "th": "เขาคิชฌกูฏ",
+          "en": "Khoa Khitchakut",
+          "slug": "khoa-khitchakut"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "22210"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.931",
+      "lon": "102.014"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khlong-phlu-221004/"
+    }
+  },
+  {
+    "id": "221002",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "พลวง",
+      "en": "Phluang",
+      "slug": "phluang"
+    },
+    "code": {
+      "dopa": "221002"
+    },
+    "parent": {
+      "id": "2210",
+      "level": 2,
+      "name": {
+        "th": "เขาคิชฌกูฏ",
+        "en": "Khoa Khitchakut",
+        "slug": "khoa-khitchakut"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2210",
+        "level": 2,
+        "name": {
+          "th": "เขาคิชฌกูฏ",
+          "en": "Khoa Khitchakut",
+          "slug": "khoa-khitchakut"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "22210"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.822",
+      "lon": "102.106"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/phluang-221002/"
+    }
+  },
+  {
+    "id": "221003",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ตะเคียนทอง",
+      "en": "Takhian Thong",
+      "slug": "takhian-thong"
+    },
+    "code": {
+      "dopa": "221003"
+    },
+    "parent": {
+      "id": "2210",
+      "level": 2,
+      "name": {
+        "th": "เขาคิชฌกูฏ",
+        "en": "Khoa Khitchakut",
+        "slug": "khoa-khitchakut"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2210",
+        "level": 2,
+        "name": {
+          "th": "เขาคิชฌกูฏ",
+          "en": "Khoa Khitchakut",
+          "slug": "khoa-khitchakut"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "22210"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.903",
+      "lon": "102.132"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/takhian-thong-221003/"
+    }
+  }
+]

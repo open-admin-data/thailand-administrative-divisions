@@ -1,0 +1,61 @@
+{
+  "id": "830305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไม้ขาว",
+    "en": "Mai Khao",
+    "slug": "mai-khao"
+  },
+  "code": {
+    "dopa": "830305"
+  },
+  "parent": {
+    "id": "8303",
+    "level": 2,
+    "name": {
+      "th": "ถลาง",
+      "en": "Thalang",
+      "slug": "thalang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "th": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket"
+      }
+    },
+    {
+      "id": "8303",
+      "level": 2,
+      "name": {
+        "th": "ถลาง",
+        "en": "Thalang",
+        "slug": "thalang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "83110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.147",
+    "lon": "98.318"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mai-khao-830305/"
+  }
+}

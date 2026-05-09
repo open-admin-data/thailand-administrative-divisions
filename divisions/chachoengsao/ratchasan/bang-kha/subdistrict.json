@@ -1,0 +1,61 @@
+{
+  "id": "240701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางคา",
+    "en": "Bang Kha",
+    "slug": "bang-kha"
+  },
+  "code": {
+    "dopa": "240701"
+  },
+  "parent": {
+    "id": "2407",
+    "level": 2,
+    "name": {
+      "th": "ราชสาส์น",
+      "en": "Ratchasan",
+      "slug": "ratchasan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2407",
+      "level": 2,
+      "name": {
+        "th": "ราชสาส์น",
+        "en": "Ratchasan",
+        "slug": "ratchasan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "24120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.788",
+    "lon": "101.278"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-kha-240701/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "802002",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาสาร",
+    "en": "Na San",
+    "slug": "na-san"
+  },
+  "code": {
+    "dopa": "802002"
+  },
+  "parent": {
+    "id": "8020",
+    "level": 2,
+    "name": {
+      "th": "พระพรหม",
+      "en": "Phra Phrom",
+      "slug": "phra-phrom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8020",
+      "level": 2,
+      "name": {
+        "th": "พระพรหม",
+        "en": "Phra Phrom",
+        "slug": "phra-phrom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "80000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.370",
+    "lon": "99.920"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-san-802002/"
+  }
+}

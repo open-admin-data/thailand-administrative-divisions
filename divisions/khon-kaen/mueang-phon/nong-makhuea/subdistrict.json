@@ -1,0 +1,61 @@
+{
+  "id": "401205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองมะเขือ",
+    "en": "Nong Makhuea",
+    "slug": "nong-makhuea"
+  },
+  "code": {
+    "dopa": "401205"
+  },
+  "parent": {
+    "id": "4012",
+    "level": 2,
+    "name": {
+      "th": "พล",
+      "en": "Mueang Phon",
+      "slug": "mueang-phon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4012",
+      "level": 2,
+      "name": {
+        "th": "พล",
+        "en": "Mueang Phon",
+        "slug": "mueang-phon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "40120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.753",
+    "lon": "102.546"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-makhuea-401205/"
+  }
+}

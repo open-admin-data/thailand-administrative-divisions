@@ -1,0 +1,61 @@
+{
+  "id": "311608",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยราชา",
+    "en": "Huai Racha",
+    "slug": "huai-racha"
+  },
+  "code": {
+    "dopa": "311608"
+  },
+  "parent": {
+    "id": "3116",
+    "level": 2,
+    "name": {
+      "th": "ห้วยราช",
+      "en": "Huai Rat",
+      "slug": "huai-rat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3116",
+      "level": 2,
+      "name": {
+        "th": "ห้วยราช",
+        "en": "Huai Rat",
+        "slug": "huai-rat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "31000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.982",
+    "lon": "103.203"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-racha-311608/"
+  }
+}

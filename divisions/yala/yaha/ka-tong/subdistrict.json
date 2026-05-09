@@ -1,0 +1,61 @@
+{
+  "id": "950508",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กาตอง",
+    "en": "Ka Tong",
+    "slug": "ka-tong"
+  },
+  "code": {
+    "dopa": "950508"
+  },
+  "parent": {
+    "id": "9505",
+    "level": 2,
+    "name": {
+      "th": "ยะหา",
+      "en": "Yaha",
+      "slug": "yaha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9505",
+      "level": 2,
+      "name": {
+        "th": "ยะหา",
+        "en": "Yaha",
+        "slug": "yaha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "95120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.502",
+    "lon": "101.063"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ka-tong-950508/"
+  }
+}

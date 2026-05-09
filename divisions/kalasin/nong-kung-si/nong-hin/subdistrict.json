@@ -1,0 +1,61 @@
+{
+  "id": "461209",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองหิน",
+    "en": "Nong Hin",
+    "slug": "nong-hin"
+  },
+  "code": {
+    "dopa": "461209"
+  },
+  "parent": {
+    "id": "4612",
+    "level": 2,
+    "name": {
+      "th": "หนองกุงศรี",
+      "en": "Nong Kung Si",
+      "slug": "nong-kung-si"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4612",
+      "level": 2,
+      "name": {
+        "th": "หนองกุงศรี",
+        "en": "Nong Kung Si",
+        "slug": "nong-kung-si"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "46220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.823",
+    "lon": "103.397"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-hin-461209/"
+  }
+}

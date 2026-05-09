@@ -1,0 +1,61 @@
+{
+  "id": "160508",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวสำโรง",
+    "en": "Hua Samrong",
+    "slug": "hua-samrong"
+  },
+  "code": {
+    "dopa": "160508"
+  },
+  "parent": {
+    "id": "1605",
+    "level": 2,
+    "name": {
+      "th": "ท่าวุ้ง",
+      "en": "Tha Wung",
+      "slug": "tha-wung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1605",
+      "level": 2,
+      "name": {
+        "th": "ท่าวุ้ง",
+        "en": "Tha Wung",
+        "slug": "tha-wung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "15150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.776",
+    "lon": "100.494"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-samrong-160508/"
+  }
+}

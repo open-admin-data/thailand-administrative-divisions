@@ -1,0 +1,61 @@
+{
+  "id": "661101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังงิ้วใต้",
+    "en": "Wang Ngio Tai",
+    "slug": "wang-ngio-tai"
+  },
+  "code": {
+    "dopa": "661101"
+  },
+  "parent": {
+    "id": "6611",
+    "level": 2,
+    "name": {
+      "th": "ดงเจริญ",
+      "en": "Dong Charoen",
+      "slug": "dong-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6611",
+      "level": 2,
+      "name": {
+        "th": "ดงเจริญ",
+        "en": "Dong Charoen",
+        "slug": "dong-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "66210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.028",
+    "lon": "100.648"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-ngio-tai-661101/"
+  }
+}

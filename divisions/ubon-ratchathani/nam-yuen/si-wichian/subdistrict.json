@@ -1,0 +1,61 @@
+{
+  "id": "340907",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สีวิเชียร",
+    "en": "Si Wichian",
+    "slug": "si-wichian"
+  },
+  "code": {
+    "dopa": "340907"
+  },
+  "parent": {
+    "id": "3409",
+    "level": 2,
+    "name": {
+      "th": "น้ำยืน",
+      "en": "Nam Yuen",
+      "slug": "nam-yuen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3409",
+      "level": 2,
+      "name": {
+        "th": "น้ำยืน",
+        "en": "Nam Yuen",
+        "slug": "nam-yuen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "34260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.483",
+    "lon": "105.040"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-wichian-340907/"
+  }
+}

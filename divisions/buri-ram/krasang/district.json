@@ -1,0 +1,50 @@
+{
+  "id": "3103",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "กระสัง",
+    "en": "Krasang",
+    "slug": "krasang"
+  },
+  "code": {
+    "dopa": "3103"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 168
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.027",
+    "lon": "103.338"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/krasang-3103/"
+  }
+}

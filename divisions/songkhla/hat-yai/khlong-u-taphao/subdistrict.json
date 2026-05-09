@@ -1,0 +1,61 @@
+{
+  "id": "901107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองอู่ตะเภา",
+    "en": "Khlong U Taphao",
+    "slug": "khlong-u-taphao"
+  },
+  "code": {
+    "dopa": "901107"
+  },
+  "parent": {
+    "id": "9011",
+    "level": 2,
+    "name": {
+      "th": "หาดใหญ่",
+      "en": "Hat Yai",
+      "slug": "hat-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9011",
+      "level": 2,
+      "name": {
+        "th": "หาดใหญ่",
+        "en": "Hat Yai",
+        "slug": "hat-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "90110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.045",
+    "lon": "100.446"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-u-taphao-901107/"
+  }
+}

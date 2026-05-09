@@ -1,0 +1,61 @@
+{
+  "id": "650211",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยเฮี้ย",
+    "en": "Huai Hia",
+    "slug": "huai-hia"
+  },
+  "code": {
+    "dopa": "650211"
+  },
+  "parent": {
+    "id": "6502",
+    "level": 2,
+    "name": {
+      "th": "นครไทย",
+      "en": "Nakhon Thai",
+      "slug": "nakhon-thai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6502",
+      "level": 2,
+      "name": {
+        "th": "นครไทย",
+        "en": "Nakhon Thai",
+        "slug": "nakhon-thai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "65120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.899",
+    "lon": "100.923"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-hia-650211/"
+  }
+}

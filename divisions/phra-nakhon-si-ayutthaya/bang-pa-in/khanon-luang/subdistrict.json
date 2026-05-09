@@ -1,0 +1,61 @@
+{
+  "id": "140618",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขนอนหลวง",
+    "en": "Khanon Luang",
+    "slug": "khanon-luang"
+  },
+  "code": {
+    "dopa": "140618"
+  },
+  "parent": {
+    "id": "1406",
+    "level": 2,
+    "name": {
+      "th": "บางปะอิน",
+      "en": "Bang Pa-in",
+      "slug": "bang-pa-in"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1406",
+      "level": 2,
+      "name": {
+        "th": "บางปะอิน",
+        "en": "Bang Pa-in",
+        "slug": "bang-pa-in"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "13160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.266",
+    "lon": "100.542"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khanon-luang-140618/"
+  }
+}

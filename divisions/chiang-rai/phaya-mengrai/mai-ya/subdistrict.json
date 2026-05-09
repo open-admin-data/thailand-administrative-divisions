@@ -1,0 +1,61 @@
+{
+  "id": "571203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไม้ยา",
+    "en": "Mai Ya",
+    "slug": "mai-ya"
+  },
+  "code": {
+    "dopa": "571203"
+  },
+  "parent": {
+    "id": "5712",
+    "level": 2,
+    "name": {
+      "th": "พญาเม็งราย",
+      "en": "Phaya Mengrai",
+      "slug": "phaya-mengrai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5712",
+      "level": 2,
+      "name": {
+        "th": "พญาเม็งราย",
+        "en": "Phaya Mengrai",
+        "slug": "phaya-mengrai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "57290"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.769",
+    "lon": "100.107"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mai-ya-571203/"
+  }
+}

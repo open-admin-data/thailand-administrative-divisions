@@ -1,0 +1,61 @@
+{
+  "id": "170106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ต้นโพธิ์",
+    "en": "Ton Pho",
+    "slug": "ton-pho"
+  },
+  "code": {
+    "dopa": "170106"
+  },
+  "parent": {
+    "id": "1701",
+    "level": 2,
+    "name": {
+      "th": "เมืองสิงห์บุรี",
+      "en": "Mueang Sing Buri",
+      "slug": "mueang-sing-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1701",
+      "level": 2,
+      "name": {
+        "th": "เมืองสิงห์บุรี",
+        "en": "Mueang Sing Buri",
+        "slug": "mueang-sing-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "16000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.869",
+    "lon": "100.398"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ton-pho-170106/"
+  }
+}

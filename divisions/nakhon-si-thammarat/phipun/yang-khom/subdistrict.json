@@ -1,0 +1,61 @@
+{
+  "id": "800504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยางค้อม",
+    "en": "Yang Khom",
+    "slug": "yang-khom"
+  },
+  "code": {
+    "dopa": "800504"
+  },
+  "parent": {
+    "id": "8005",
+    "level": 2,
+    "name": {
+      "th": "พิปูน",
+      "en": "Phipun",
+      "slug": "phipun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8005",
+      "level": 2,
+      "name": {
+        "th": "พิปูน",
+        "en": "Phipun",
+        "slug": "phipun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "80270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.520",
+    "lon": "99.701"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yang-khom-800504/"
+  }
+}

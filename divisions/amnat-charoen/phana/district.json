@@ -1,0 +1,50 @@
+{
+  "id": "3704",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พนา",
+    "en": "Phana",
+    "slug": "phana"
+  },
+  "code": {
+    "dopa": "3704"
+  },
+  "parent": {
+    "id": "37",
+    "level": 1,
+    "name": {
+      "th": "อำนาจเจริญ",
+      "en": "Amnat Charoen",
+      "slug": "amnat-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 56
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.678",
+    "lon": "104.882"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phana-3704/"
+  }
+}

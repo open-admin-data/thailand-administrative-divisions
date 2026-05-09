@@ -1,0 +1,61 @@
+{
+  "id": "380603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงบัง",
+    "en": "Dong Bang",
+    "slug": "dong-bang"
+  },
+  "code": {
+    "dopa": "380603"
+  },
+  "parent": {
+    "id": "3806",
+    "level": 2,
+    "name": {
+      "th": "บึงโขงหลง",
+      "en": "Bueng Khong Long",
+      "slug": "bueng-khong-long"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3806",
+      "level": 2,
+      "name": {
+        "th": "บึงโขงหลง",
+        "en": "Bueng Khong Long",
+        "slug": "bueng-khong-long"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "38220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.033",
+    "lon": "104.133"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-bang-380603/"
+  }
+}

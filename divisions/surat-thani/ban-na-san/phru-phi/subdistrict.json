@@ -1,0 +1,61 @@
+{
+  "id": "841202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พรุพี",
+    "en": "Phru Phi",
+    "slug": "phru-phi"
+  },
+  "code": {
+    "dopa": "841202"
+  },
+  "parent": {
+    "id": "8412",
+    "level": 2,
+    "name": {
+      "th": "บ้านนาสาร",
+      "en": "Ban Na San",
+      "slug": "ban-na-san"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8412",
+      "level": 2,
+      "name": {
+        "th": "บ้านนาสาร",
+        "en": "Ban Na San",
+        "slug": "ban-na-san"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "84270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.707",
+    "lon": "99.391"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phru-phi-841202/"
+  }
+}

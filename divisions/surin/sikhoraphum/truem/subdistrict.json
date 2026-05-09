@@ -1,0 +1,61 @@
+{
+  "id": "320902",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตรึม",
+    "en": "Truem",
+    "slug": "truem"
+  },
+  "code": {
+    "dopa": "320902"
+  },
+  "parent": {
+    "id": "3209",
+    "level": 2,
+    "name": {
+      "th": "ศีขรภูมิ",
+      "en": "Sikhoraphum",
+      "slug": "sikhoraphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3209",
+      "level": 2,
+      "name": {
+        "th": "ศีขรภูมิ",
+        "en": "Sikhoraphum",
+        "slug": "sikhoraphum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "32110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.035",
+    "lon": "103.845"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/truem-320902/"
+  }
+}

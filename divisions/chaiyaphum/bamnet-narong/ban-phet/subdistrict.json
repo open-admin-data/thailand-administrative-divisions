@@ -1,0 +1,61 @@
+{
+  "id": "360702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านเพชร",
+    "en": "Ban Phet",
+    "slug": "ban-phet"
+  },
+  "code": {
+    "dopa": "360702"
+  },
+  "parent": {
+    "id": "3607",
+    "level": 2,
+    "name": {
+      "th": "บำเหน็จณรงค์",
+      "en": "Bamnet Narong",
+      "slug": "bamnet-narong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3607",
+      "level": 2,
+      "name": {
+        "th": "บำเหน็จณรงค์",
+        "en": "Bamnet Narong",
+        "slug": "bamnet-narong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 23
+  },
+  "zip_codes": [
+    "36160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.434",
+    "lon": "101.697"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-phet-360702/"
+  }
+}

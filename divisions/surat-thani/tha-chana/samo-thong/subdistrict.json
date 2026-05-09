@@ -1,0 +1,61 @@
+{
+  "id": "840702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สมอทอง",
+    "en": "Samo Thong",
+    "slug": "samo-thong"
+  },
+  "code": {
+    "dopa": "840702"
+  },
+  "parent": {
+    "id": "8407",
+    "level": 2,
+    "name": {
+      "th": "ท่าชนะ",
+      "en": "Tha Chana",
+      "slug": "tha-chana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8407",
+      "level": 2,
+      "name": {
+        "th": "ท่าชนะ",
+        "en": "Tha Chana",
+        "slug": "tha-chana"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "84170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.581",
+    "lon": "99.053"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samo-thong-840702/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "620413",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะตาล",
+    "en": "Ko Tan",
+    "slug": "ko-tan"
+  },
+  "code": {
+    "dopa": "620413"
+  },
+  "parent": {
+    "id": "6204",
+    "level": 2,
+    "name": {
+      "th": "ขาณุวรลักษบุรี",
+      "en": "Khanu Woralaksaburi",
+      "slug": "khanu-woralaksaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6204",
+      "level": 2,
+      "name": {
+        "th": "ขาณุวรลักษบุรี",
+        "en": "Khanu Woralaksaburi",
+        "slug": "khanu-woralaksaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "62130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.103",
+    "lon": "99.788"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-tan-620413/"
+  }
+}

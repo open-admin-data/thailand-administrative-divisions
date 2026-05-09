@@ -1,0 +1,61 @@
+{
+  "id": "550401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาน้อย",
+    "en": "Na Noi",
+    "slug": "na-noi"
+  },
+  "code": {
+    "dopa": "550401"
+  },
+  "parent": {
+    "id": "5504",
+    "level": 2,
+    "name": {
+      "th": "นาน้อย",
+      "en": "Na Noi",
+      "slug": "na-noi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5504",
+      "level": 2,
+      "name": {
+        "th": "นาน้อย",
+        "en": "Na Noi",
+        "slug": "na-noi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "55150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.313",
+    "lon": "100.681"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-noi-550401/"
+  }
+}

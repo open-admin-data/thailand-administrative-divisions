@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1302",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "คลองหลวง",
+      "en": "Khlong Luang",
+      "slug": "khlong-luang"
+    },
+    "code": {
+      "dopa": "1302"
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 7,
+      "villages": 183
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.125",
+      "lon": "100.750"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/khlong-luang-1302/"
+    }
+  },
+  {
+    "id": "1306",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ลำลูกกา",
+      "en": "Lam Luk Ka",
+      "slug": "lam-luk-ka"
+    },
+    "code": {
+      "dopa": "1306"
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 8,
+      "villages": 209
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.955",
+      "lon": "100.641"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/lam-luk-ka-1306/"
+    }
+  },
+  {
+    "id": "1305",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ลาดหลุมแก้ว",
+      "en": "Lat Lum Kaeo",
+      "slug": "lat-lum-kaeo"
+    },
+    "code": {
+      "dopa": "1305"
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 7,
+      "villages": 61
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.990",
+      "lon": "100.449"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/lat-lum-kaeo-1305/"
+    }
+  },
+  {
+    "id": "1301",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เมืองปทุมธานี",
+      "en": "Mueang Pathum Thani",
+      "slug": "mueang-pathum-thani"
+    },
+    "code": {
+      "dopa": "1301"
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 14,
+      "villages": 110
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.031",
+      "lon": "100.552"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/mueang-pathum-thani-1301/"
+    }
+  },
+  {
+    "id": "1304",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "หนองเสือ",
+      "en": "Nong Suea",
+      "slug": "nong-suea"
+    },
+    "code": {
+      "dopa": "1304"
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 7,
+      "villages": 69
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.087",
+      "lon": "100.778"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/nong-suea-1304/"
+    }
+  },
+  {
+    "id": "1307",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "สามโคก",
+      "en": "Sam Khok",
+      "slug": "sam-khok"
+    },
+    "code": {
+      "dopa": "1307"
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 11,
+      "villages": 58
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.043",
+      "lon": "100.544"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/sam-khok-1307/"
+    }
+  },
+  {
+    "id": "1303",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ธัญบุรี",
+      "en": "Thanyaburi",
+      "slug": "thanyaburi"
+    },
+    "code": {
+      "dopa": "1303"
+    },
+    "parent": {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 6,
+      "villages": 177
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.999",
+      "lon": "100.687"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/thanyaburi-1303/"
+    }
+  }
+]

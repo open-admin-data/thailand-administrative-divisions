@@ -1,0 +1,50 @@
+{
+  "id": "6202",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ไทรงาม",
+    "en": "Sai Ngam",
+    "slug": "sai-ngam"
+  },
+  "code": {
+    "dopa": "6202"
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "th": "กำแพงเพชร",
+      "en": "Kamphaeng Phet",
+      "slug": "kamphaeng-phet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 71
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.452",
+    "lon": "99.827"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sai-ngam-6202/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "390412",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หันนางาม",
+    "en": "Han Na Ngam",
+    "slug": "han-na-ngam"
+  },
+  "code": {
+    "dopa": "390412"
+  },
+  "parent": {
+    "id": "3904",
+    "level": 2,
+    "name": {
+      "th": "ศรีบุญเรือง",
+      "en": "Si Bun Rueang",
+      "slug": "si-bun-rueang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3904",
+      "level": 2,
+      "name": {
+        "th": "ศรีบุญเรือง",
+        "en": "Si Bun Rueang",
+        "slug": "si-bun-rueang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "39180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.985",
+    "lon": "102.246"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/han-na-ngam-390412/"
+  }
+}

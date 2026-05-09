@@ -1,0 +1,50 @@
+{
+  "id": "5208",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เถิน",
+    "en": "Thoen",
+    "slug": "thoen"
+  },
+  "code": {
+    "dopa": "5208"
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "th": "ลำปาง",
+      "en": "Lampang",
+      "slug": "lampang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 95
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.634",
+    "lon": "99.212"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thoen-5208/"
+  }
+}

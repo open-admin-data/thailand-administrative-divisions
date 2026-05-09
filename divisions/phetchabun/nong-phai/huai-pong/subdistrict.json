@@ -1,0 +1,61 @@
+{
+  "id": "670707",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยโป่ง",
+    "en": "Huai Pong",
+    "slug": "huai-pong"
+  },
+  "code": {
+    "dopa": "670707"
+  },
+  "parent": {
+    "id": "6707",
+    "level": 2,
+    "name": {
+      "th": "หนองไผ่",
+      "en": "Nong Phai",
+      "slug": "nong-phai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6707",
+      "level": 2,
+      "name": {
+        "th": "หนองไผ่",
+        "en": "Nong Phai",
+        "slug": "nong-phai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "67220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.141",
+    "lon": "101.034"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-pong-670707/"
+  }
+}

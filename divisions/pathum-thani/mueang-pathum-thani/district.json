@@ -1,0 +1,50 @@
+{
+  "id": "1301",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองปทุมธานี",
+    "en": "Mueang Pathum Thani",
+    "slug": "mueang-pathum-thani"
+  },
+  "code": {
+    "dopa": "1301"
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 14,
+    "villages": 110
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.031",
+    "lon": "100.552"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-pathum-thani-1301/"
+  }
+}

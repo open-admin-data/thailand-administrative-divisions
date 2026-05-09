@@ -1,0 +1,50 @@
+{
+  "id": "6008",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ท่าตะโก",
+    "en": "Tha Tako",
+    "slug": "tha-tako"
+  },
+  "code": {
+    "dopa": "6008"
+  },
+  "parent": {
+    "id": "60",
+    "level": 1,
+    "name": {
+      "th": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 112
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.631",
+    "lon": "100.480"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tha-tako-6008/"
+  }
+}

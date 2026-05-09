@@ -1,0 +1,38 @@
+{
+  "id": "24",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ฉะเชิงเทรา",
+    "en": "Chachoengsao",
+    "slug": "chachoengsao"
+  },
+  "code": {
+    "dopa": "24",
+    "iso": "TH-24"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 11,
+    "subdistricts": 93,
+    "villages": 924
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern"
+    }
+  },
+  "geo": {
+    "lat": "13.707",
+    "lon": "101.100"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/chachoengsao-24/"
+  }
+}

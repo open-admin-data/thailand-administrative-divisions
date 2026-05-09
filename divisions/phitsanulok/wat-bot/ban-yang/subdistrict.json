@@ -1,0 +1,61 @@
+{
+  "id": "650704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านยาง",
+    "en": "Ban Yang",
+    "slug": "ban-yang"
+  },
+  "code": {
+    "dopa": "650704"
+  },
+  "parent": {
+    "id": "6507",
+    "level": 2,
+    "name": {
+      "th": "วัดโบสถ์",
+      "en": "Wat Bot",
+      "slug": "wat-bot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6507",
+      "level": 2,
+      "name": {
+        "th": "วัดโบสถ์",
+        "en": "Wat Bot",
+        "slug": "wat-bot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "65160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.089",
+    "lon": "100.413"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-yang-650704/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "940101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สะบารัง",
+    "en": "Sabarang",
+    "slug": "sabarang"
+  },
+  "code": {
+    "dopa": "940101"
+  },
+  "parent": {
+    "id": "9401",
+    "level": 2,
+    "name": {
+      "th": "เมืองปัตตานี",
+      "en": "Mueang Pattani",
+      "slug": "mueang-pattani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9401",
+      "level": 2,
+      "name": {
+        "th": "เมืองปัตตานี",
+        "en": "Mueang Pattani",
+        "slug": "mueang-pattani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "94000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.876",
+    "lon": "101.251"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sabarang-940101/"
+  }
+}

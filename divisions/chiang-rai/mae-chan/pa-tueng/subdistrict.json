@@ -1,0 +1,61 @@
+{
+  "id": "570708",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าตึง",
+    "en": "Pa Tueng",
+    "slug": "pa-tueng"
+  },
+  "code": {
+    "dopa": "570708"
+  },
+  "parent": {
+    "id": "5707",
+    "level": 2,
+    "name": {
+      "th": "แม่จัน",
+      "en": "Mae Chan",
+      "slug": "mae-chan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5707",
+      "level": 2,
+      "name": {
+        "th": "แม่จัน",
+        "en": "Mae Chan",
+        "slug": "mae-chan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "57110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.134",
+    "lon": "99.770"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-tueng-570708/"
+  }
+}

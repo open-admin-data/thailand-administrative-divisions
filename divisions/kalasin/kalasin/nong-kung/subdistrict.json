@@ -1,0 +1,61 @@
+{
+  "id": "460115",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองกุง",
+    "en": "Nong Kung",
+    "slug": "nong-kung"
+  },
+  "code": {
+    "dopa": "460115"
+  },
+  "parent": {
+    "id": "4601",
+    "level": 2,
+    "name": {
+      "th": "เมืองกาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4601",
+      "level": 2,
+      "name": {
+        "th": "เมืองกาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "46000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.534",
+    "lon": "103.526"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-kung-460115/"
+  }
+}

@@ -1,0 +1,124 @@
+[
+  {
+    "id": "94090401",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านโต๊ะตีเต",
+      "en": "Ban To Ti Te",
+      "slug": "94090401"
+    },
+    "code": {
+      "dopa": "94090401"
+    },
+    "parent": {
+      "id": "940904",
+      "level": 3,
+      "name": {
+        "th": "ตันหยงจึงงา",
+        "en": "Tanyong Chueng-nga",
+        "slug": "tanyong-chueng-nga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "th": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani"
+        }
+      },
+      {
+        "id": "9409",
+        "level": 2,
+        "name": {
+          "th": "ยะหริ่ง",
+          "en": "Yaring",
+          "slug": "yaring"
+        }
+      },
+      {
+        "id": "940904",
+        "level": 3,
+        "name": {
+          "th": "ตันหยงจึงงา",
+          "en": "Tanyong Chueng-nga",
+          "slug": "tanyong-chueng-nga"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.774568553662913",
+      "lon": "101.45934104919434"
+    },
+    "source": {}
+  },
+  {
+    "id": "94090402",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านตันหยงจึงงา",
+      "en": "Ban Tanyong Chueng-nga",
+      "slug": "94090402"
+    },
+    "code": {
+      "dopa": "94090402"
+    },
+    "parent": {
+      "id": "940904",
+      "level": 3,
+      "name": {
+        "th": "ตันหยงจึงงา",
+        "en": "Tanyong Chueng-nga",
+        "slug": "tanyong-chueng-nga"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "th": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani"
+        }
+      },
+      {
+        "id": "9409",
+        "level": 2,
+        "name": {
+          "th": "ยะหริ่ง",
+          "en": "Yaring",
+          "slug": "yaring"
+        }
+      },
+      {
+        "id": "940904",
+        "level": 3,
+        "name": {
+          "th": "ตันหยงจึงงา",
+          "en": "Tanyong Chueng-nga",
+          "slug": "tanyong-chueng-nga"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.783805419843822",
+      "lon": "101.46427094936371"
+    },
+    "source": {}
+  }
+]

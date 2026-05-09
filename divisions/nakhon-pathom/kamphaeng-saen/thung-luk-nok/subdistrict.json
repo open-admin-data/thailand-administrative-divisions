@@ -1,0 +1,61 @@
+{
+  "id": "730203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งลูกนก",
+    "en": "Thung Luk Nok",
+    "slug": "thung-luk-nok"
+  },
+  "code": {
+    "dopa": "730203"
+  },
+  "parent": {
+    "id": "7302",
+    "level": 2,
+    "name": {
+      "th": "กำแพงแสน",
+      "en": "Kamphaeng Saen",
+      "slug": "kamphaeng-saen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7302",
+      "level": 2,
+      "name": {
+        "th": "กำแพงแสน",
+        "en": "Kamphaeng Saen",
+        "slug": "kamphaeng-saen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 23
+  },
+  "zip_codes": [
+    "73140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.055",
+    "lon": "99.905"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-luk-nok-730203/"
+  }
+}

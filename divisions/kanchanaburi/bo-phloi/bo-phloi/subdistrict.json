@@ -1,0 +1,61 @@
+{
+  "id": "710301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อพลอย",
+    "en": "Bo Phloi",
+    "slug": "bo-phloi"
+  },
+  "code": {
+    "dopa": "710301"
+  },
+  "parent": {
+    "id": "7103",
+    "level": 2,
+    "name": {
+      "th": "บ่อพลอย",
+      "en": "Bo Phloi",
+      "slug": "bo-phloi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7103",
+      "level": 2,
+      "name": {
+        "th": "บ่อพลอย",
+        "en": "Bo Phloi",
+        "slug": "bo-phloi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "71160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.305",
+    "lon": "99.466"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-phloi-710301/"
+  }
+}

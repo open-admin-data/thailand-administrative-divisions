@@ -1,0 +1,61 @@
+{
+  "id": "471001",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ม่วง",
+    "en": "Muang",
+    "slug": "muang"
+  },
+  "code": {
+    "dopa": "471001"
+  },
+  "parent": {
+    "id": "4710",
+    "level": 2,
+    "name": {
+      "th": "บ้านม่วง",
+      "en": "Ban Muang",
+      "slug": "ban-muang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4710",
+      "level": 2,
+      "name": {
+        "th": "บ้านม่วง",
+        "en": "Ban Muang",
+        "slug": "ban-muang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "47140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.858",
+    "lon": "103.561"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/muang-471001/"
+  }
+}

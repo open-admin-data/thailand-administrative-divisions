@@ -1,0 +1,50 @@
+{
+  "id": "9307",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ศรีบรรพต",
+    "en": "Si Banphot",
+    "slug": "si-banphot"
+  },
+  "code": {
+    "dopa": "9307"
+  },
+  "parent": {
+    "id": "93",
+    "level": 1,
+    "name": {
+      "th": "พัทลุง",
+      "en": "Phatthalung",
+      "slug": "phatthalung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 30
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.746",
+    "lon": "99.864"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/si-banphot-9307/"
+  }
+}

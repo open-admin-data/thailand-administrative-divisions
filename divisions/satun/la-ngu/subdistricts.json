@@ -1,0 +1,368 @@
+[
+  {
+    "id": "910501",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "กำแพง",
+      "en": "Kamphaeng",
+      "slug": "kamphaeng"
+    },
+    "code": {
+      "dopa": "910501"
+    },
+    "parent": {
+      "id": "9105",
+      "level": 2,
+      "name": {
+        "th": "ละงู",
+        "en": "La-ngu",
+        "slug": "la-ngu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9105",
+        "level": 2,
+        "name": {
+          "th": "ละงู",
+          "en": "La-ngu",
+          "slug": "la-ngu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 12
+    },
+    "zip_codes": [
+      "91110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.933",
+      "lon": "99.777"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/kamphaeng-910501/"
+    }
+  },
+  {
+    "id": "910503",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เขาขาว",
+      "en": "Khao Khao",
+      "slug": "khao-khao"
+    },
+    "code": {
+      "dopa": "910503"
+    },
+    "parent": {
+      "id": "9105",
+      "level": 2,
+      "name": {
+        "th": "ละงู",
+        "en": "La-ngu",
+        "slug": "la-ngu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9105",
+        "level": 2,
+        "name": {
+          "th": "ละงู",
+          "en": "La-ngu",
+          "slug": "la-ngu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "91110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.923",
+      "lon": "99.848"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khao-khao-910503/"
+    }
+  },
+  {
+    "id": "910502",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ละงู",
+      "en": "La-ngu",
+      "slug": "la-ngu"
+    },
+    "code": {
+      "dopa": "910502"
+    },
+    "parent": {
+      "id": "9105",
+      "level": 2,
+      "name": {
+        "th": "ละงู",
+        "en": "La-ngu",
+        "slug": "la-ngu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9105",
+        "level": 2,
+        "name": {
+          "th": "ละงู",
+          "en": "La-ngu",
+          "slug": "la-ngu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 18
+    },
+    "zip_codes": [
+      "91110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.842",
+      "lon": "99.826"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/la-ngu-910502/"
+    }
+  },
+  {
+    "id": "910506",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แหลมสน",
+      "en": "Laem Son",
+      "slug": "laem-son"
+    },
+    "code": {
+      "dopa": "910506"
+    },
+    "parent": {
+      "id": "9105",
+      "level": 2,
+      "name": {
+        "th": "ละงู",
+        "en": "La-ngu",
+        "slug": "la-ngu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9105",
+        "level": 2,
+        "name": {
+          "th": "ละงู",
+          "en": "La-ngu",
+          "slug": "la-ngu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "91110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.946",
+      "lon": "99.713"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/laem-son-910506/"
+    }
+  },
+  {
+    "id": "910505",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "น้ำผุด",
+      "en": "Nam Phut",
+      "slug": "nam-phut"
+    },
+    "code": {
+      "dopa": "910505"
+    },
+    "parent": {
+      "id": "9105",
+      "level": 2,
+      "name": {
+        "th": "ละงู",
+        "en": "La-ngu",
+        "slug": "la-ngu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9105",
+        "level": 2,
+        "name": {
+          "th": "ละงู",
+          "en": "La-ngu",
+          "slug": "la-ngu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "91110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.973",
+      "lon": "99.850"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nam-phut-910505/"
+    }
+  },
+  {
+    "id": "910504",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ปากน้ำ",
+      "en": "Pak Nam",
+      "slug": "pak-nam"
+    },
+    "code": {
+      "dopa": "910504"
+    },
+    "parent": {
+      "id": "9105",
+      "level": 2,
+      "name": {
+        "th": "ละงู",
+        "en": "La-ngu",
+        "slug": "la-ngu"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9105",
+        "level": 2,
+        "name": {
+          "th": "ละงู",
+          "en": "La-ngu",
+          "slug": "la-ngu"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "91110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.872",
+      "lon": "99.731"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/pak-nam-910504/"
+    }
+  }
+]

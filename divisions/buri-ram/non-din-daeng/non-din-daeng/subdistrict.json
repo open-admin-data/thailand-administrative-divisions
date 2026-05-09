@@ -1,0 +1,61 @@
+{
+  "id": "312001",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนดินแดง",
+    "en": "Non Din Daeng",
+    "slug": "non-din-daeng"
+  },
+  "code": {
+    "dopa": "312001"
+  },
+  "parent": {
+    "id": "3120",
+    "level": 2,
+    "name": {
+      "th": "โนนดินแดง",
+      "en": "Non Din Daeng",
+      "slug": "non-din-daeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3120",
+      "level": 2,
+      "name": {
+        "th": "โนนดินแดง",
+        "en": "Non Din Daeng",
+        "slug": "non-din-daeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "31260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.316",
+    "lon": "102.721"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-din-daeng-312001/"
+  }
+}

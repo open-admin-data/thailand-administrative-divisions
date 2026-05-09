@@ -1,0 +1,61 @@
+{
+  "id": "190804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านโปร่ง",
+    "en": "Ban Prong",
+    "slug": "ban-prong"
+  },
+  "code": {
+    "dopa": "190804"
+  },
+  "parent": {
+    "id": "1908",
+    "level": 2,
+    "name": {
+      "th": "หนองโดน",
+      "en": "Nong Don",
+      "slug": "nong-don"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1908",
+      "level": 2,
+      "name": {
+        "th": "หนองโดน",
+        "en": "Nong Don",
+        "slug": "nong-don"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "18190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.716",
+    "lon": "100.734"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-prong-190804/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "720501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีประจันต์",
+    "en": "Si Prachan",
+    "slug": "si-prachan"
+  },
+  "code": {
+    "dopa": "720501"
+  },
+  "parent": {
+    "id": "7205",
+    "level": 2,
+    "name": {
+      "th": "ศรีประจันต์",
+      "en": "Si Prachan",
+      "slug": "si-prachan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "th": "ศรีประจันต์",
+        "en": "Si Prachan",
+        "slug": "si-prachan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "72140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.609",
+    "lon": "100.179"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-prachan-720501/"
+  }
+}

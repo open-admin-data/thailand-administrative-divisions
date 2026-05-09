@@ -1,0 +1,50 @@
+{
+  "id": "6705",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "วิเชียรบุรี",
+    "en": "Wichian Buri",
+    "slug": "wichian-buri"
+  },
+  "code": {
+    "dopa": "6705"
+  },
+  "parent": {
+    "id": "67",
+    "level": 1,
+    "name": {
+      "th": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 14,
+    "villages": 192
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.628",
+    "lon": "101.061"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wichian-buri-6705/"
+  }
+}

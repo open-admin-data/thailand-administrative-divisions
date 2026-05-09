@@ -1,0 +1,61 @@
+{
+  "id": "250701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ประจันตคาม",
+    "en": "Prachantakham",
+    "slug": "prachantakham"
+  },
+  "code": {
+    "dopa": "250701"
+  },
+  "parent": {
+    "id": "2507",
+    "level": 2,
+    "name": {
+      "th": "ประจันตคาม",
+      "en": "Prachantakham",
+      "slug": "prachantakham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "th": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri"
+      }
+    },
+    {
+      "id": "2507",
+      "level": 2,
+      "name": {
+        "th": "ประจันตคาม",
+        "en": "Prachantakham",
+        "slug": "prachantakham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "25130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.055",
+    "lon": "101.497"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/prachantakham-250701/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "900707",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากแตระ",
+    "en": "Pak Trae",
+    "slug": "pak-trae"
+  },
+  "code": {
+    "dopa": "900707"
+  },
+  "parent": {
+    "id": "9007",
+    "level": 2,
+    "name": {
+      "th": "ระโนด",
+      "en": "Ranot",
+      "slug": "ranot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9007",
+      "level": 2,
+      "name": {
+        "th": "ระโนด",
+        "en": "Ranot",
+        "slug": "ranot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "90140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.766",
+    "lon": "100.358"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-trae-900707/"
+  }
+}

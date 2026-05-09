@@ -1,0 +1,61 @@
+{
+  "id": "961003",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มูโนะ",
+    "en": "Muno",
+    "slug": "muno"
+  },
+  "code": {
+    "dopa": "961003"
+  },
+  "parent": {
+    "id": "9610",
+    "level": 2,
+    "name": {
+      "th": "สุไหงโก-ลก",
+      "en": "Su-ngai Kolok",
+      "slug": "su-ngai-kolok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9610",
+      "level": 2,
+      "name": {
+        "th": "สุไหงโก-ลก",
+        "en": "Su-ngai Kolok",
+        "slug": "su-ngai-kolok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "96120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.108",
+    "lon": "102.052"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/muno-961003/"
+  }
+}

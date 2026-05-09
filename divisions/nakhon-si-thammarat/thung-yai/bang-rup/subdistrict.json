@@ -1,0 +1,61 @@
+{
+  "id": "801106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางรูป",
+    "en": "Bang Rup",
+    "slug": "bang-rup"
+  },
+  "code": {
+    "dopa": "801106"
+  },
+  "parent": {
+    "id": "8011",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งใหญ่",
+      "en": "Thung Yai",
+      "slug": "thung-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8011",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งใหญ่",
+        "en": "Thung Yai",
+        "slug": "thung-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "80240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.400",
+    "lon": "99.279"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-rup-801106/"
+  }
+}

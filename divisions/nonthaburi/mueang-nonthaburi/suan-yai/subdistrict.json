@@ -1,0 +1,61 @@
+{
+  "id": "120101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สวนใหญ่",
+    "en": "Suan Yai",
+    "slug": "suan-yai"
+  },
+  "code": {
+    "dopa": "120101"
+  },
+  "parent": {
+    "id": "1201",
+    "level": 2,
+    "name": {
+      "th": "เมืองนนทบุรี",
+      "en": "Mueang Nonthaburi",
+      "slug": "mueang-nonthaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "th": "เมืองนนทบุรี",
+        "en": "Mueang Nonthaburi",
+        "slug": "mueang-nonthaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "11000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.842",
+    "lon": "100.494"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/suan-yai-120101/"
+  }
+}

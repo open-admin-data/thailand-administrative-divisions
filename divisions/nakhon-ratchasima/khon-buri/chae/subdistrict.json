@@ -1,0 +1,61 @@
+{
+  "id": "300201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แชะ",
+    "en": "Chae",
+    "slug": "chae"
+  },
+  "code": {
+    "dopa": "300201"
+  },
+  "parent": {
+    "id": "3002",
+    "level": 2,
+    "name": {
+      "th": "ครบุรี",
+      "en": "Khon Buri",
+      "slug": "khon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3002",
+      "level": 2,
+      "name": {
+        "th": "ครบุรี",
+        "en": "Khon Buri",
+        "slug": "khon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "30250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.569",
+    "lon": "102.278"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chae-300201/"
+  }
+}

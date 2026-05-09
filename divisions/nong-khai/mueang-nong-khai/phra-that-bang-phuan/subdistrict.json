@@ -1,0 +1,61 @@
+{
+  "id": "430113",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พระธาตุบังพวน",
+    "en": "Phra That Bang Phuan",
+    "slug": "phra-that-bang-phuan"
+  },
+  "code": {
+    "dopa": "430113"
+  },
+  "parent": {
+    "id": "4301",
+    "level": 2,
+    "name": {
+      "th": "เมืองหนองคาย",
+      "en": "Mueang Nong Khai",
+      "slug": "mueang-nong-khai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4301",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองคาย",
+        "en": "Mueang Nong Khai",
+        "slug": "mueang-nong-khai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "43100"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.736",
+    "lon": "102.693"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phra-that-bang-phuan-430113/"
+  }
+}

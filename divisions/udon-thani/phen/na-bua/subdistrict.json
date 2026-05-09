@@ -1,0 +1,61 @@
+{
+  "id": "411906",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาบัว",
+    "en": "Na Bua",
+    "slug": "na-bua"
+  },
+  "code": {
+    "dopa": "411906"
+  },
+  "parent": {
+    "id": "4119",
+    "level": 2,
+    "name": {
+      "th": "เพ็ญ",
+      "en": "Phen",
+      "slug": "phen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4119",
+      "level": 2,
+      "name": {
+        "th": "เพ็ญ",
+        "en": "Phen",
+        "slug": "phen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "41150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.551",
+    "lon": "102.976"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-bua-411906/"
+  }
+}

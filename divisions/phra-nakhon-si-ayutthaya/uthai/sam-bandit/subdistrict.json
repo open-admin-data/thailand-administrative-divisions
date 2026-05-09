@@ -1,0 +1,61 @@
+{
+  "id": "141403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สามบัณฑิต",
+    "en": "Sam Bandit",
+    "slug": "sam-bandit"
+  },
+  "code": {
+    "dopa": "141403"
+  },
+  "parent": {
+    "id": "1414",
+    "level": 2,
+    "name": {
+      "th": "อุทัย",
+      "en": "Uthai",
+      "slug": "uthai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1414",
+      "level": 2,
+      "name": {
+        "th": "อุทัย",
+        "en": "Uthai",
+        "slug": "uthai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "13210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.349",
+    "lon": "100.742"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sam-bandit-141403/"
+  }
+}

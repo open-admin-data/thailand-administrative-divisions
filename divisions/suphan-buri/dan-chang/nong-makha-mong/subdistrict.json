@@ -1,0 +1,61 @@
+{
+  "id": "720301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองมะค่าโมง",
+    "en": "Nong Makha Mong",
+    "slug": "nong-makha-mong"
+  },
+  "code": {
+    "dopa": "720301"
+  },
+  "parent": {
+    "id": "7203",
+    "level": 2,
+    "name": {
+      "th": "ด่านช้าง",
+      "en": "Dan Chang",
+      "slug": "dan-chang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7203",
+      "level": 2,
+      "name": {
+        "th": "ด่านช้าง",
+        "en": "Dan Chang",
+        "slug": "dan-chang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "72180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.882",
+    "lon": "99.737"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-makha-mong-720301/"
+  }
+}

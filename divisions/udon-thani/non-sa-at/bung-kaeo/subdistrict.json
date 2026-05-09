@@ -1,0 +1,61 @@
+{
+  "id": "410502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บุ่งแก้ว",
+    "en": "Bung Kaeo",
+    "slug": "bung-kaeo"
+  },
+  "code": {
+    "dopa": "410502"
+  },
+  "parent": {
+    "id": "4105",
+    "level": 2,
+    "name": {
+      "th": "โนนสะอาด",
+      "en": "Non Sa-at",
+      "slug": "non-sa-at"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4105",
+      "level": 2,
+      "name": {
+        "th": "โนนสะอาด",
+        "en": "Non Sa-at",
+        "slug": "non-sa-at"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "41240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.969",
+    "lon": "102.981"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bung-kaeo-410502/"
+  }
+}

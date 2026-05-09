@@ -1,0 +1,50 @@
+{
+  "id": "6305",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ท่าสองยาง",
+    "en": "Tha Song Yang",
+    "slug": "tha-song-yang"
+  },
+  "code": {
+    "dopa": "6305"
+  },
+  "parent": {
+    "id": "63",
+    "level": 1,
+    "name": {
+      "th": "ตาก",
+      "en": "Tak",
+      "slug": "tak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 67
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.268",
+    "lon": "98.275"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tha-song-yang-6305/"
+  }
+}

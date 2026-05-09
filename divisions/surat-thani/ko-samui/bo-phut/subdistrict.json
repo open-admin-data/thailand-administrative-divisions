@@ -1,0 +1,61 @@
+{
+  "id": "840406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อผุด",
+    "en": "Bo Phut",
+    "slug": "bo-phut"
+  },
+  "code": {
+    "dopa": "840406"
+  },
+  "parent": {
+    "id": "8404",
+    "level": 2,
+    "name": {
+      "th": "เกาะสมุย",
+      "en": "Ko Samui",
+      "slug": "ko-samui"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8404",
+      "level": 2,
+      "name": {
+        "th": "เกาะสมุย",
+        "en": "Ko Samui",
+        "slug": "ko-samui"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 28
+  },
+  "zip_codes": [
+    "84320"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.527",
+    "lon": "100.039"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-phut-840406/"
+  }
+}

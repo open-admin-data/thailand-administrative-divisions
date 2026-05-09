@@ -1,0 +1,50 @@
+{
+  "id": "2208",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แก่งหางแมว",
+    "en": "Kaeng Hang Maeo",
+    "slug": "kaeng-hang-maeo"
+  },
+  "code": {
+    "dopa": "2208"
+  },
+  "parent": {
+    "id": "22",
+    "level": 1,
+    "name": {
+      "th": "จันทบุรี",
+      "en": "Chanthaburi",
+      "slug": "chanthaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 66
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.881",
+    "lon": "101.848"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kaeng-hang-maeo-2208/"
+  }
+}

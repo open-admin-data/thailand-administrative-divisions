@@ -1,0 +1,61 @@
+{
+  "id": "801409",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งใส",
+    "en": "Thung Sai",
+    "slug": "thung-sai"
+  },
+  "code": {
+    "dopa": "801409"
+  },
+  "parent": {
+    "id": "8014",
+    "level": 2,
+    "name": {
+      "th": "สิชล",
+      "en": "Sichon",
+      "slug": "sichon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8014",
+      "level": 2,
+      "name": {
+        "th": "สิชล",
+        "en": "Sichon",
+        "slug": "sichon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "80120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.060",
+    "lon": "99.890"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-sai-801409/"
+  }
+}

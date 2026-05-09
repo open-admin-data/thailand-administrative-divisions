@@ -1,0 +1,61 @@
+{
+  "id": "101203",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง ช่องนนทรี",
+    "en": "Chong Nonsi",
+    "slug": "chong-nonsi"
+  },
+  "code": {
+    "dopa": "101203"
+  },
+  "parent": {
+    "id": "1012",
+    "level": 2,
+    "name": {
+      "th": "เขต ยานนาวา",
+      "en": "Yan Nawa",
+      "slug": "yan-nawa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1012",
+      "level": 2,
+      "name": {
+        "th": "เขต ยานนาวา",
+        "en": "Yan Nawa",
+        "slug": "yan-nawa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10120"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.682",
+    "lon": "100.533"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chong-nonsi-101203/"
+  }
+}

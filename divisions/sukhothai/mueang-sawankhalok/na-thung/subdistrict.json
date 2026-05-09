@@ -1,0 +1,61 @@
+{
+  "id": "640707",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาทุ่ง",
+    "en": "Na Thung",
+    "slug": "na-thung"
+  },
+  "code": {
+    "dopa": "640707"
+  },
+  "parent": {
+    "id": "6407",
+    "level": 2,
+    "name": {
+      "th": "สวรรคโลก",
+      "en": "Mueang Sawankhalok",
+      "slug": "mueang-sawankhalok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6407",
+      "level": 2,
+      "name": {
+        "th": "สวรรคโลก",
+        "en": "Mueang Sawankhalok",
+        "slug": "mueang-sawankhalok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "64110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.311",
+    "lon": "99.740"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-thung-640707/"
+  }
+}

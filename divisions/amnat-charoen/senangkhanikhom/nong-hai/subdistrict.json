@@ -1,0 +1,61 @@
+{
+  "id": "370505",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองไฮ",
+    "en": "Nong Hai",
+    "slug": "nong-hai"
+  },
+  "code": {
+    "dopa": "370505"
+  },
+  "parent": {
+    "id": "3705",
+    "level": 2,
+    "name": {
+      "th": "เสนางคนิคม",
+      "en": "Senangkhanikhom",
+      "slug": "senangkhanikhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    {
+      "id": "3705",
+      "level": 2,
+      "name": {
+        "th": "เสนางคนิคม",
+        "en": "Senangkhanikhom",
+        "slug": "senangkhanikhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "37290"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.022",
+    "lon": "104.787"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-hai-370505/"
+  }
+}

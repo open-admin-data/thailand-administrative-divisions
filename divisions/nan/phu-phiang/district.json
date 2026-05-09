@@ -1,0 +1,50 @@
+{
+  "id": "5514",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ภูเพียง",
+    "en": "Phu Phiang",
+    "slug": "phu-phiang"
+  },
+  "code": {
+    "dopa": "5514"
+  },
+  "parent": {
+    "id": "55",
+    "level": 1,
+    "name": {
+      "th": "น่าน",
+      "en": "Nan",
+      "slug": "nan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 61
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.756",
+    "lon": "100.816"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phu-phiang-5514/"
+  }
+}

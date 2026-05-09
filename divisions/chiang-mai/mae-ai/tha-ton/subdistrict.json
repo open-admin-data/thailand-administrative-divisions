@@ -1,0 +1,61 @@
+{
+  "id": "501005",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าตอน",
+    "en": "Tha Ton",
+    "slug": "tha-ton"
+  },
+  "code": {
+    "dopa": "501005"
+  },
+  "parent": {
+    "id": "5010",
+    "level": 2,
+    "name": {
+      "th": "แม่อาย",
+      "en": "Mae Ai",
+      "slug": "mae-ai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5010",
+      "level": 2,
+      "name": {
+        "th": "แม่อาย",
+        "en": "Mae Ai",
+        "slug": "mae-ai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "50280"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.066",
+    "lon": "99.387"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-ton-501005/"
+  }
+}

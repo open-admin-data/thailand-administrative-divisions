@@ -1,0 +1,61 @@
+{
+  "id": "570906",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เวียงพางคำ",
+    "en": "Wiang Phang Kham",
+    "slug": "wiang-phang-kham"
+  },
+  "code": {
+    "dopa": "570906"
+  },
+  "parent": {
+    "id": "5709",
+    "level": 2,
+    "name": {
+      "th": "แม่สาย",
+      "en": "Mae Sai",
+      "slug": "mae-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5709",
+      "level": 2,
+      "name": {
+        "th": "แม่สาย",
+        "en": "Mae Sai",
+        "slug": "mae-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "57130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.409",
+    "lon": "99.900"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wiang-phang-kham-570906/"
+  }
+}

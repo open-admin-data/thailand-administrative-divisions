@@ -1,0 +1,61 @@
+{
+  "id": "901505",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วัดขนุน",
+    "en": "Wat Khanun",
+    "slug": "wat-khanun"
+  },
+  "code": {
+    "dopa": "901505"
+  },
+  "parent": {
+    "id": "9015",
+    "level": 2,
+    "name": {
+      "th": "สิงหนคร",
+      "en": "Singhanakhon",
+      "slug": "singhanakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9015",
+      "level": 2,
+      "name": {
+        "th": "สิงหนคร",
+        "en": "Singhanakhon",
+        "slug": "singhanakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "90330"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.304",
+    "lon": "100.497"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wat-khanun-901505/"
+  }
+}

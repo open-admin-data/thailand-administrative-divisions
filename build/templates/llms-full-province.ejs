@@ -1,0 +1,30 @@
+# <%= province.name.th %> (<%= province.name.en %>) — Administrative Divisions
+
+> <%= province.children_count.districts %> districts, <%= province.children_count.subdistricts.toLocaleString() %> subdistricts, <%= province.children_count.villages.toLocaleString() %> villages.
+> Region: <%= province.metadata.region.th %> (<%= province.metadata.region.en %>)
+> DOPA Code: <%= province.code.dopa %>
+> Coordinates: <%= province.geo.lat %>, <%= province.geo.lon %>
+> Last updated: <%= lastUpdated %>. License: CC-BY-4.0.
+
+## Districts
+<% for (const dist of districts) { %>
+### <%= dist.name.th %> (<%= dist.name.en %>)
+
+<%= province.metadata.is_special_province ? 'แขวง / Khwaeng' : 'ตำบล / Subdistricts' %>: <%= dist.children_count.subdistricts %>, หมู่บ้าน / Villages: <%= dist.children_count.villages.toLocaleString() %>
+DOPA Code: <%= dist.code.dopa %>, Coordinates: <%= dist.geo.lat %>, <%= dist.geo.lon %>
+<%   const distSubdistricts = subdistricts.filter(s => s.parent.id === dist.id);
+     for (const sub of distSubdistricts) { %>
+#### <%= sub.name.th %> (<%= sub.name.en %>)
+
+DOPA Code: <%= sub.code.dopa %><%= sub.zip_codes && sub.zip_codes.length ? ', Zip Code: ' + sub.zip_codes.join(', ') : '' %>, Coordinates: <%= sub.geo.lat %>, <%= sub.geo.lon %>
+<%     const subVillages = villagesBySubdistrict.get(sub.id) || [];
+       if (subVillages.length > 0) { %>
+Villages:
+<%       for (const v of subVillages) { -%>
+- <%= v.name.th %> (<%= v.name.en %>) [<%= v.code.dopa %>]
+<%       }
+       } else { -%>
+No village data available.
+<%     }
+     }
+   } %>

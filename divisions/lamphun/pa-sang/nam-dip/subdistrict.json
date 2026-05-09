@@ -1,0 +1,61 @@
+{
+  "id": "510608",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำดิบ",
+    "en": "Nam Dip",
+    "slug": "nam-dip"
+  },
+  "code": {
+    "dopa": "510608"
+  },
+  "parent": {
+    "id": "5106",
+    "level": 2,
+    "name": {
+      "th": "ป่าซาง",
+      "en": "Pa Sang",
+      "slug": "pa-sang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5106",
+      "level": 2,
+      "name": {
+        "th": "ป่าซาง",
+        "en": "Pa Sang",
+        "slug": "pa-sang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "51120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.424",
+    "lon": "98.833"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-dip-510608/"
+  }
+}

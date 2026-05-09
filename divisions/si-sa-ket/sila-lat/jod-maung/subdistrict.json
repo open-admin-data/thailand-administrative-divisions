@@ -1,0 +1,61 @@
+{
+  "id": "332204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โจดม่วง",
+    "en": "Jod Maung",
+    "slug": "jod-maung"
+  },
+  "code": {
+    "dopa": "332204"
+  },
+  "parent": {
+    "id": "3322",
+    "level": 2,
+    "name": {
+      "th": "ศิลาลาด",
+      "en": "Sila Lat",
+      "slug": "sila-lat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3322",
+      "level": 2,
+      "name": {
+        "th": "ศิลาลาด",
+        "en": "Sila Lat",
+        "slug": "sila-lat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "33160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.473",
+    "lon": "104.139"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/jod-maung-332204/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "580302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เวียงเหนือ",
+    "en": "Wiang Nuea",
+    "slug": "wiang-nuea"
+  },
+  "code": {
+    "dopa": "580302"
+  },
+  "parent": {
+    "id": "5803",
+    "level": 2,
+    "name": {
+      "th": "ปาย",
+      "en": "Pai",
+      "slug": "pai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    },
+    {
+      "id": "5803",
+      "level": 2,
+      "name": {
+        "th": "ปาย",
+        "en": "Pai",
+        "slug": "pai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "58130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.512",
+    "lon": "98.497"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wiang-nuea-580302/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "471211",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บงใต้",
+    "en": "Bong Tai",
+    "slug": "bong-tai"
+  },
+  "code": {
+    "dopa": "471211"
+  },
+  "parent": {
+    "id": "4712",
+    "level": 2,
+    "name": {
+      "th": "สว่างแดนดิน",
+      "en": "Sawang Daen Din",
+      "slug": "sawang-daen-din"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4712",
+      "level": 2,
+      "name": {
+        "th": "สว่างแดนดิน",
+        "en": "Sawang Daen Din",
+        "slug": "sawang-daen-din"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "47110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.422",
+    "lon": "103.327"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bong-tai-471211/"
+  }
+}

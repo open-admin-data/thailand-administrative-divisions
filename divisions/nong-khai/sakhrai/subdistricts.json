@@ -1,0 +1,185 @@
+[
+  {
+    "id": "431403",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บ้านฝาง",
+      "en": "Ban Fang",
+      "slug": "ban-fang"
+    },
+    "code": {
+      "dopa": "431403"
+    },
+    "parent": {
+      "id": "4314",
+      "level": 2,
+      "name": {
+        "th": "สระใคร",
+        "en": "Sakhrai",
+        "slug": "sakhrai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "43",
+        "level": 1,
+        "name": {
+          "th": "หนองคาย",
+          "en": "Nong Khai",
+          "slug": "nong-khai"
+        }
+      },
+      {
+        "id": "4314",
+        "level": 2,
+        "name": {
+          "th": "สระใคร",
+          "en": "Sakhrai",
+          "slug": "sakhrai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 13
+    },
+    "zip_codes": [
+      "43100"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.651",
+      "lon": "102.665"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ban-fang-431403/"
+    }
+  },
+  {
+    "id": "431402",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "คอกช้าง",
+      "en": "Khok Chang",
+      "slug": "khok-chang"
+    },
+    "code": {
+      "dopa": "431402"
+    },
+    "parent": {
+      "id": "4314",
+      "level": 2,
+      "name": {
+        "th": "สระใคร",
+        "en": "Sakhrai",
+        "slug": "sakhrai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "43",
+        "level": 1,
+        "name": {
+          "th": "หนองคาย",
+          "en": "Nong Khai",
+          "slug": "nong-khai"
+        }
+      },
+      {
+        "id": "4314",
+        "level": 2,
+        "name": {
+          "th": "สระใคร",
+          "en": "Sakhrai",
+          "slug": "sakhrai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 13
+    },
+    "zip_codes": [
+      "43100"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.638",
+      "lon": "102.736"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khok-chang-431402/"
+    }
+  },
+  {
+    "id": "431401",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "สระใคร",
+      "en": "Sakhrai",
+      "slug": "sakhrai"
+    },
+    "code": {
+      "dopa": "431401"
+    },
+    "parent": {
+      "id": "4314",
+      "level": 2,
+      "name": {
+        "th": "สระใคร",
+        "en": "Sakhrai",
+        "slug": "sakhrai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "43",
+        "level": 1,
+        "name": {
+          "th": "หนองคาย",
+          "en": "Nong Khai",
+          "slug": "nong-khai"
+        }
+      },
+      {
+        "id": "4314",
+        "level": 2,
+        "name": {
+          "th": "สระใคร",
+          "en": "Sakhrai",
+          "slug": "sakhrai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 15
+    },
+    "zip_codes": [
+      "43100"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.703",
+      "lon": "102.750"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/sakhrai-431401/"
+    }
+  }
+]

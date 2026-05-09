@@ -1,0 +1,50 @@
+{
+  "id": "9016",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "คลองหอยโข่ง",
+    "en": "Khlong Hoi Khong",
+    "slug": "khlong-hoi-khong"
+  },
+  "code": {
+    "dopa": "9016"
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "th": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 32
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.886",
+    "lon": "100.442"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khlong-hoi-khong-9016/"
+  }
+}

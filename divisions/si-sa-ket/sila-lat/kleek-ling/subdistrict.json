@@ -1,0 +1,61 @@
+{
+  "id": "332202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลีกลิ้ง",
+    "en": "Kleek Ling",
+    "slug": "kleek-ling"
+  },
+  "code": {
+    "dopa": "332202"
+  },
+  "parent": {
+    "id": "3322",
+    "level": 2,
+    "name": {
+      "th": "ศิลาลาด",
+      "en": "Sila Lat",
+      "slug": "sila-lat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3322",
+      "level": 2,
+      "name": {
+        "th": "ศิลาลาด",
+        "en": "Sila Lat",
+        "slug": "sila-lat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "33160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.529",
+    "lon": "104.109"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kleek-ling-332202/"
+  }
+}

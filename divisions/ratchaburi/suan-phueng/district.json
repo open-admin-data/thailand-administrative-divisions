@@ -1,0 +1,50 @@
+{
+  "id": "7003",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สวนผึ้ง",
+    "en": "Suan Phueng",
+    "slug": "suan-phueng"
+  },
+  "code": {
+    "dopa": "7003"
+  },
+  "parent": {
+    "id": "70",
+    "level": 1,
+    "name": {
+      "th": "ราชบุรี",
+      "en": "Ratchaburi",
+      "slug": "ratchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 37
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.522",
+    "lon": "99.420"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/suan-phueng-7003/"
+  }
+}

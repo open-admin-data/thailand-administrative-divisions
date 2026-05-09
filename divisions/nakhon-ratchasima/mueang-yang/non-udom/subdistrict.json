@@ -1,0 +1,61 @@
+{
+  "id": "302704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนอุดม",
+    "en": "Non Udom",
+    "slug": "non-udom"
+  },
+  "code": {
+    "dopa": "302704"
+  },
+  "parent": {
+    "id": "3027",
+    "level": 2,
+    "name": {
+      "th": "เมืองยาง",
+      "en": "Mueang Yang",
+      "slug": "mueang-yang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3027",
+      "level": 2,
+      "name": {
+        "th": "เมืองยาง",
+        "en": "Mueang Yang",
+        "slug": "mueang-yang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "30270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.426",
+    "lon": "102.812"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-udom-302704/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "921003",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตะเสะ",
+    "en": "Ta Se",
+    "slug": "ta-se"
+  },
+  "code": {
+    "dopa": "921003"
+  },
+  "parent": {
+    "id": "9210",
+    "level": 2,
+    "name": {
+      "th": "หาดสำราญ",
+      "en": "Hat Samran",
+      "slug": "hat-samran"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9210",
+      "level": 2,
+      "name": {
+        "th": "หาดสำราญ",
+        "en": "Hat Samran",
+        "slug": "hat-samran"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "92120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.183",
+    "lon": "99.599"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ta-se-921003/"
+  }
+}

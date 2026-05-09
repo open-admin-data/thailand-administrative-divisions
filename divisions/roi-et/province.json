@@ -1,0 +1,38 @@
+{
+  "id": "45",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ร้อยเอ็ด",
+    "en": "Roi Et",
+    "slug": "roi-et"
+  },
+  "code": {
+    "dopa": "45",
+    "iso": "TH-45"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 20,
+    "subdistricts": 192,
+    "villages": 2456
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "Northeastern"
+    }
+  },
+  "geo": {
+    "lat": "15.600",
+    "lon": "104.139"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/roi-et-45/"
+  }
+}

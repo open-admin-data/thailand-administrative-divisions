@@ -1,0 +1,673 @@
+[
+  {
+    "id": "130708",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บ้านงิ้ว",
+      "en": "Ban Ngio",
+      "slug": "ban-ngio"
+    },
+    "code": {
+      "dopa": "130708"
+    },
+    "parent": {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "th": "สามโคก",
+        "en": "Sam Khok",
+        "slug": "sam-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 5
+    },
+    "zip_codes": [
+      "12160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.084",
+      "lon": "100.539"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ban-ngio-130708/"
+    }
+  },
+  {
+    "id": "130707",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บ้านปทุม",
+      "en": "Ban Pathum",
+      "slug": "ban-pathum"
+    },
+    "code": {
+      "dopa": "130707"
+    },
+    "parent": {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "th": "สามโคก",
+        "en": "Sam Khok",
+        "slug": "sam-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "12160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.067",
+      "lon": "100.546"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ban-pathum-130707/"
+    }
+  },
+  {
+    "id": "130710",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บางกระบือ",
+      "en": "Bang Krabue",
+      "slug": "bang-krabue"
+    },
+    "code": {
+      "dopa": "130710"
+    },
+    "parent": {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "th": "สามโคก",
+        "en": "Sam Khok",
+        "slug": "sam-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 3
+    },
+    "zip_codes": [
+      "12160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.103",
+      "lon": "100.538"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bang-krabue-130710/"
+    }
+  },
+  {
+    "id": "130705",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บางโพธิ์เหนือ",
+      "en": "Bang Pho Nuea",
+      "slug": "bang-pho-nuea"
+    },
+    "code": {
+      "dopa": "130705"
+    },
+    "parent": {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "th": "สามโคก",
+        "en": "Sam Khok",
+        "slug": "sam-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 3
+    },
+    "zip_codes": [
+      "12160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.042",
+      "lon": "100.515"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bang-pho-nuea-130705/"
+    }
+  },
+  {
+    "id": "130701",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บางเตย",
+      "en": "Bang Toei",
+      "slug": "bang-toei"
+    },
+    "code": {
+      "dopa": "130701"
+    },
+    "parent": {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "th": "สามโคก",
+        "en": "Sam Khok",
+        "slug": "sam-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "12160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.062",
+      "lon": "100.504"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bang-toei-130701/"
+    }
+  },
+  {
+    "id": "130709",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เชียงรากน้อย",
+      "en": "Chiang Rak Noi",
+      "slug": "chiang-rak-noi"
+    },
+    "code": {
+      "dopa": "130709"
+    },
+    "parent": {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "th": "สามโคก",
+        "en": "Sam Khok",
+        "slug": "sam-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 5
+    },
+    "zip_codes": [
+      "12160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.105",
+      "lon": "100.567"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/chiang-rak-noi-130709/"
+    }
+  },
+  {
+    "id": "130706",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เชียงรากใหญ่",
+      "en": "Chiang Rak Yai",
+      "slug": "chiang-rak-yai"
+    },
+    "code": {
+      "dopa": "130706"
+    },
+    "parent": {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "th": "สามโคก",
+        "en": "Sam Khok",
+        "slug": "sam-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "12160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.057",
+      "lon": "100.574"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/chiang-rak-yai-130706/"
+    }
+  },
+  {
+    "id": "130702",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "คลองควาย",
+      "en": "Khlong Khwai",
+      "slug": "khlong-khwai"
+    },
+    "code": {
+      "dopa": "130702"
+    },
+    "parent": {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "th": "สามโคก",
+        "en": "Sam Khok",
+        "slug": "sam-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "12160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.097",
+      "lon": "100.478"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khlong-khwai-130702/"
+    }
+  },
+  {
+    "id": "130704",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "กระแชง",
+      "en": "Krachaeng",
+      "slug": "krachaeng"
+    },
+    "code": {
+      "dopa": "130704"
+    },
+    "parent": {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "th": "สามโคก",
+        "en": "Sam Khok",
+        "slug": "sam-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 3
+    },
+    "zip_codes": [
+      "12160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.043",
+      "lon": "100.544"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/krachaeng-130704/"
+    }
+  },
+  {
+    "id": "130703",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "สามโคก",
+      "en": "Sam Khok",
+      "slug": "sam-khok"
+    },
+    "code": {
+      "dopa": "130703"
+    },
+    "parent": {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "th": "สามโคก",
+        "en": "Sam Khok",
+        "slug": "sam-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 4
+    },
+    "zip_codes": [
+      "12160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.052",
+      "lon": "100.529"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/sam-khok-130703/"
+    }
+  },
+  {
+    "id": "130711",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ท้ายเกาะ",
+      "en": "Thai Ko",
+      "slug": "thai-ko"
+    },
+    "code": {
+      "dopa": "130711"
+    },
+    "parent": {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "th": "สามโคก",
+        "en": "Sam Khok",
+        "slug": "sam-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 4
+    },
+    "zip_codes": [
+      "12160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.105",
+      "lon": "100.496"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/thai-ko-130711/"
+    }
+  }
+]

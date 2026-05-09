@@ -1,0 +1,61 @@
+{
+  "id": "820109",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่ากอ",
+    "en": "Pa Ko",
+    "slug": "pa-ko"
+  },
+  "code": {
+    "dopa": "820109"
+  },
+  "parent": {
+    "id": "8201",
+    "level": 2,
+    "name": {
+      "th": "เมืองพังงา",
+      "en": "Mueang Phang-nga",
+      "slug": "mueang-phang-nga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8201",
+      "level": 2,
+      "name": {
+        "th": "เมืองพังงา",
+        "en": "Mueang Phang-nga",
+        "slug": "mueang-phang-nga"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "82000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.500",
+    "lon": "98.466"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-ko-820109/"
+  }
+}

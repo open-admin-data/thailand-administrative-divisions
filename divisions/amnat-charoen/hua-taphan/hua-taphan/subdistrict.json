@@ -1,0 +1,61 @@
+{
+  "id": "370601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวตะพาน",
+    "en": "Hua Taphan",
+    "slug": "hua-taphan"
+  },
+  "code": {
+    "dopa": "370601"
+  },
+  "parent": {
+    "id": "3706",
+    "level": 2,
+    "name": {
+      "th": "หัวตะพาน",
+      "en": "Hua Taphan",
+      "slug": "hua-taphan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    {
+      "id": "3706",
+      "level": 2,
+      "name": {
+        "th": "หัวตะพาน",
+        "en": "Hua Taphan",
+        "slug": "hua-taphan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "37240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.718",
+    "lon": "104.457"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-taphan-370601/"
+  }
+}

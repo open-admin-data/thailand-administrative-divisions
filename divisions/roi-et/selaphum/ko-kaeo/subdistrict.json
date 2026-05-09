@@ -1,0 +1,61 @@
+{
+  "id": "451011",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะแก้ว",
+    "en": "Ko Kaeo",
+    "slug": "ko-kaeo"
+  },
+  "code": {
+    "dopa": "451011"
+  },
+  "parent": {
+    "id": "4510",
+    "level": 2,
+    "name": {
+      "th": "เสลภูมิ",
+      "en": "Selaphum",
+      "slug": "selaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4510",
+      "level": 2,
+      "name": {
+        "th": "เสลภูมิ",
+        "en": "Selaphum",
+        "slug": "selaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "45120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.161",
+    "lon": "103.868"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-kaeo-451011/"
+  }
+}

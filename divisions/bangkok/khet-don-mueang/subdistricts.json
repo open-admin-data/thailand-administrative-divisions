@@ -1,0 +1,63 @@
+[
+  {
+    "id": "103602",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง สีกัน",
+      "en": "Si Kan",
+      "slug": "si-kan"
+    },
+    "code": {
+      "dopa": "103602"
+    },
+    "parent": {
+      "id": "1036",
+      "level": 2,
+      "name": {
+        "th": "เขต ดอนเมือง",
+        "en": "Khet Don Mueang",
+        "slug": "khet-don-mueang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1036",
+        "level": 2,
+        "name": {
+          "th": "เขต ดอนเมือง",
+          "en": "Khet Don Mueang",
+          "slug": "khet-don-mueang"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10210"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.925",
+      "lon": "100.593"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/si-kan-103602/"
+    }
+  }
+]

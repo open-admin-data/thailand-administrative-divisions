@@ -1,0 +1,61 @@
+{
+  "id": "210302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังหว้า",
+    "en": "Wang Wa",
+    "slug": "wang-wa"
+  },
+  "code": {
+    "dopa": "210302"
+  },
+  "parent": {
+    "id": "2103",
+    "level": 2,
+    "name": {
+      "th": "แกลง",
+      "en": "Klaeng",
+      "slug": "klaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "th": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "21110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.763",
+    "lon": "101.624"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-wa-210302/"
+  }
+}

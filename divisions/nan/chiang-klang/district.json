@@ -1,0 +1,50 @@
+{
+  "id": "5509",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เชียงกลาง",
+    "en": "Chiang Klang",
+    "slug": "chiang-klang"
+  },
+  "code": {
+    "dopa": "5509"
+  },
+  "parent": {
+    "id": "55",
+    "level": 1,
+    "name": {
+      "th": "น่าน",
+      "en": "Nan",
+      "slug": "nan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 60
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.246",
+    "lon": "100.855"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chiang-klang-5509/"
+  }
+}

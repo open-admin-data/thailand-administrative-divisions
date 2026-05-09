@@ -1,0 +1,61 @@
+{
+  "id": "191101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มวกเหล็ก",
+    "en": "Muak Lek",
+    "slug": "muak-lek"
+  },
+  "code": {
+    "dopa": "191101"
+  },
+  "parent": {
+    "id": "1911",
+    "level": 2,
+    "name": {
+      "th": "มวกเหล็ก",
+      "en": "Muak Lek",
+      "slug": "muak-lek"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1911",
+      "level": 2,
+      "name": {
+        "th": "มวกเหล็ก",
+        "en": "Muak Lek",
+        "slug": "muak-lek"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "18180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.705",
+    "lon": "101.151"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/muak-lek-191101/"
+  }
+}

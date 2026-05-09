@@ -1,0 +1,61 @@
+{
+  "id": "330515",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นิคมพัฒนา",
+    "en": "Nikhom Phatthana",
+    "slug": "nikhom-phatthana"
+  },
+  "code": {
+    "dopa": "330515"
+  },
+  "parent": {
+    "id": "3305",
+    "level": 2,
+    "name": {
+      "th": "ขุขันธ์",
+      "en": "Khukhan",
+      "slug": "khukhan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3305",
+      "level": 2,
+      "name": {
+        "th": "ขุขันธ์",
+        "en": "Khukhan",
+        "slug": "khukhan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "33140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.644",
+    "lon": "104.234"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nikhom-phatthana-330515/"
+  }
+}

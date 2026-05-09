@@ -1,0 +1,61 @@
+{
+  "id": "950110",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หน้าถ้ำ",
+    "en": "Na Tham",
+    "slug": "na-tham"
+  },
+  "code": {
+    "dopa": "950110"
+  },
+  "parent": {
+    "id": "9501",
+    "level": 2,
+    "name": {
+      "th": "เมืองยะลา",
+      "en": "Yala",
+      "slug": "yala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "th": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "95000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.525",
+    "lon": "101.225"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-tham-950110/"
+  }
+}

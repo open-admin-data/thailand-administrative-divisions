@@ -1,0 +1,61 @@
+{
+  "id": "441003",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองคู",
+    "en": "Nong Khu",
+    "slug": "nong-khu"
+  },
+  "code": {
+    "dopa": "441003"
+  },
+  "parent": {
+    "id": "4410",
+    "level": 2,
+    "name": {
+      "th": "นาดูน",
+      "en": "Na Dun",
+      "slug": "na-dun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4410",
+      "level": 2,
+      "name": {
+        "th": "นาดูน",
+        "en": "Na Dun",
+        "slug": "na-dun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "44180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.782",
+    "lon": "103.226"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-khu-441003/"
+  }
+}

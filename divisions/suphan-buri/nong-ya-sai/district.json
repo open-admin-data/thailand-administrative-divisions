@@ -1,0 +1,50 @@
+{
+  "id": "7210",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หนองหญ้าไซ",
+    "en": "Nong Ya Sai",
+    "slug": "nong-ya-sai"
+  },
+  "code": {
+    "dopa": "7210"
+  },
+  "parent": {
+    "id": "72",
+    "level": 1,
+    "name": {
+      "th": "สุพรรณบุรี",
+      "en": "Suphan Buri",
+      "slug": "suphan-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 66
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.749",
+    "lon": "99.806"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-ya-sai-7210/"
+  }
+}

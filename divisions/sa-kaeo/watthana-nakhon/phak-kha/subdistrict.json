@@ -1,0 +1,61 @@
+{
+  "id": "270503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ผักขะ",
+    "en": "Phak Kha",
+    "slug": "phak-kha"
+  },
+  "code": {
+    "dopa": "270503"
+  },
+  "parent": {
+    "id": "2705",
+    "level": 2,
+    "name": {
+      "th": "วัฒนานคร",
+      "en": "Watthana Nakhon",
+      "slug": "watthana-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    },
+    {
+      "id": "2705",
+      "level": 2,
+      "name": {
+        "th": "วัฒนานคร",
+        "en": "Watthana Nakhon",
+        "slug": "watthana-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "27160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.710",
+    "lon": "102.382"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phak-kha-270503/"
+  }
+}

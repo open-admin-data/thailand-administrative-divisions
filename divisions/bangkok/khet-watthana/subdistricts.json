@@ -1,0 +1,185 @@
+[
+  {
+    "id": "103902",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง คลองตันเหนือ",
+      "en": "Khlong Tan Nuea",
+      "slug": "khlong-tan-nuea"
+    },
+    "code": {
+      "dopa": "103902"
+    },
+    "parent": {
+      "id": "1039",
+      "level": 2,
+      "name": {
+        "th": "เขต วัฒนา",
+        "en": "Khet Watthana",
+        "slug": "khet-watthana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1039",
+        "level": 2,
+        "name": {
+          "th": "เขต วัฒนา",
+          "en": "Khet Watthana",
+          "slug": "khet-watthana"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10110"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.736",
+      "lon": "100.576"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khlong-tan-nuea-103902/"
+    }
+  },
+  {
+    "id": "103901",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง คลองเตยเหนือ",
+      "en": "Khlong Toei Nuea",
+      "slug": "khlong-toei-nuea"
+    },
+    "code": {
+      "dopa": "103901"
+    },
+    "parent": {
+      "id": "1039",
+      "level": 2,
+      "name": {
+        "th": "เขต วัฒนา",
+        "en": "Khet Watthana",
+        "slug": "khet-watthana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1039",
+        "level": 2,
+        "name": {
+          "th": "เขต วัฒนา",
+          "en": "Khet Watthana",
+          "slug": "khet-watthana"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10110"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.743",
+      "lon": "100.560"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khlong-toei-nuea-103901/"
+    }
+  },
+  {
+    "id": "103903",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง พระโขนงเหนือ",
+      "en": "Phra Khanong Nuea",
+      "slug": "phra-khanong-nuea"
+    },
+    "code": {
+      "dopa": "103903"
+    },
+    "parent": {
+      "id": "1039",
+      "level": 2,
+      "name": {
+        "th": "เขต วัฒนา",
+        "en": "Khet Watthana",
+        "slug": "khet-watthana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1039",
+        "level": 2,
+        "name": {
+          "th": "เขต วัฒนา",
+          "en": "Khet Watthana",
+          "slug": "khet-watthana"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10110"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.719",
+      "lon": "100.596"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/phra-khanong-nuea-103903/"
+    }
+  }
+]

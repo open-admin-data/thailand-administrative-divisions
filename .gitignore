@@ -1,0 +1,17 @@
+node_modules/
+.env
+.DS_Store
+Thumbs.db
+*.log
+desktop.ini
+.vscode/
+*.swp
+*.swo
+*~
+.idea/
+/.claude
+CLAUDE-CODE-REQUIREMENTS-TH-ADMIN.md
+build/source-data.json
+build/source-data-sample.json
+build/village-names-tambon.json
+build/village-english-names.json

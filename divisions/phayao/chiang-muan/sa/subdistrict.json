@@ -1,0 +1,61 @@
+{
+  "id": "560403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สระ",
+    "en": "Sa",
+    "slug": "sa"
+  },
+  "code": {
+    "dopa": "560403"
+  },
+  "parent": {
+    "id": "5604",
+    "level": 2,
+    "name": {
+      "th": "เชียงม่วน",
+      "en": "Chiang Muan",
+      "slug": "chiang-muan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5604",
+      "level": 2,
+      "name": {
+        "th": "เชียงม่วน",
+        "en": "Chiang Muan",
+        "slug": "chiang-muan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "56160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.992",
+    "lon": "100.404"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sa-560403/"
+  }
+}

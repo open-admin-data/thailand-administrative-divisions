@@ -1,0 +1,61 @@
+{
+  "id": "241101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ก้อนแก้ว",
+    "en": "Kon Kaeo",
+    "slug": "kon-kaeo"
+  },
+  "code": {
+    "dopa": "241101"
+  },
+  "parent": {
+    "id": "2411",
+    "level": 2,
+    "name": {
+      "th": "คลองเขื่อน",
+      "en": "Khlong Khuean",
+      "slug": "khlong-khuean"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2411",
+      "level": 2,
+      "name": {
+        "th": "คลองเขื่อน",
+        "en": "Khlong Khuean",
+        "slug": "khlong-khuean"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "24000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.765",
+    "lon": "101.136"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kon-kaeo-241101/"
+  }
+}

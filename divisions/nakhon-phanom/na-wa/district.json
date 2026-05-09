@@ -1,0 +1,50 @@
+{
+  "id": "4809",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "นาหว้า",
+    "en": "Na Wa",
+    "slug": "na-wa"
+  },
+  "code": {
+    "dopa": "4809"
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "th": "นครพนม",
+      "en": "Nakhon Phanom",
+      "slug": "nakhon-phanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 68
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.507",
+    "lon": "104.145"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/na-wa-4809/"
+  }
+}

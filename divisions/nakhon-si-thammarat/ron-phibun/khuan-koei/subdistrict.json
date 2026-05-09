@@ -1,0 +1,61 @@
+{
+  "id": "801304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ควนเกย",
+    "en": "Khuan Koei",
+    "slug": "khuan-koei"
+  },
+  "code": {
+    "dopa": "801304"
+  },
+  "parent": {
+    "id": "8013",
+    "level": 2,
+    "name": {
+      "th": "ร่อนพิบูลย์",
+      "en": "Ron Phibun",
+      "slug": "ron-phibun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8013",
+      "level": 2,
+      "name": {
+        "th": "ร่อนพิบูลย์",
+        "en": "Ron Phibun",
+        "slug": "ron-phibun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "80130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.140",
+    "lon": "99.900"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khuan-koei-801304/"
+  }
+}

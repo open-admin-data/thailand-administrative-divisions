@@ -1,0 +1,61 @@
+{
+  "id": "660103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ย่านยาว",
+    "en": "Yan Yao",
+    "slug": "yan-yao"
+  },
+  "code": {
+    "dopa": "660103"
+  },
+  "parent": {
+    "id": "6601",
+    "level": 2,
+    "name": {
+      "th": "เมืองพิจิตร",
+      "en": "Mueang Phichit",
+      "slug": "mueang-phichit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6601",
+      "level": 2,
+      "name": {
+        "th": "เมืองพิจิตร",
+        "en": "Mueang Phichit",
+        "slug": "mueang-phichit"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "66000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.507",
+    "lon": "100.268"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yan-yao-660103/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "920901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ควนเมา",
+    "en": "Khuan Mao",
+    "slug": "khuan-mao"
+  },
+  "code": {
+    "dopa": "920901"
+  },
+  "parent": {
+    "id": "9209",
+    "level": 2,
+    "name": {
+      "th": "รัษฎา",
+      "en": "Ratsada",
+      "slug": "ratsada"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9209",
+      "level": 2,
+      "name": {
+        "th": "รัษฎา",
+        "en": "Ratsada",
+        "slug": "ratsada"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "92160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.938",
+    "lon": "99.596"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khuan-mao-920901/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "411901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เพ็ญ",
+    "en": "Phen",
+    "slug": "phen"
+  },
+  "code": {
+    "dopa": "411901"
+  },
+  "parent": {
+    "id": "4119",
+    "level": 2,
+    "name": {
+      "th": "เพ็ญ",
+      "en": "Phen",
+      "slug": "phen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4119",
+      "level": 2,
+      "name": {
+        "th": "เพ็ญ",
+        "en": "Phen",
+        "slug": "phen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "41150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.673",
+    "lon": "102.936"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phen-411901/"
+  }
+}

@@ -1,0 +1,795 @@
+[
+  {
+    "id": "411712",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บ้านค้อ",
+      "en": "Ban Kho",
+      "slug": "ban-kho"
+    },
+    "code": {
+      "dopa": "411712"
+    },
+    "parent": {
+      "id": "4117",
+      "level": 2,
+      "name": {
+        "th": "บ้านผือ",
+        "en": "Ban Phue",
+        "slug": "ban-phue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "41",
+        "level": 1,
+        "name": {
+          "th": "อุดรธานี",
+          "en": "Udon Thani",
+          "slug": "udon-thani"
+        }
+      },
+      {
+        "id": "4117",
+        "level": 2,
+        "name": {
+          "th": "บ้านผือ",
+          "en": "Ban Phue",
+          "slug": "ban-phue"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "41160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.750",
+      "lon": "102.446"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ban-kho-411712/"
+    }
+  },
+  {
+    "id": "411701",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บ้านผือ",
+      "en": "Ban Phue",
+      "slug": "ban-phue"
+    },
+    "code": {
+      "dopa": "411701"
+    },
+    "parent": {
+      "id": "4117",
+      "level": 2,
+      "name": {
+        "th": "บ้านผือ",
+        "en": "Ban Phue",
+        "slug": "ban-phue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "41",
+        "level": 1,
+        "name": {
+          "th": "อุดรธานี",
+          "en": "Udon Thani",
+          "slug": "udon-thani"
+        }
+      },
+      {
+        "id": "4117",
+        "level": 2,
+        "name": {
+          "th": "บ้านผือ",
+          "en": "Ban Phue",
+          "slug": "ban-phue"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 14
+    },
+    "zip_codes": [
+      "41160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.697",
+      "lon": "102.448"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ban-phue-411701/"
+    }
+  },
+  {
+    "id": "411707",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "จำปาโมง",
+      "en": "Champa Mong",
+      "slug": "champa-mong"
+    },
+    "code": {
+      "dopa": "411707"
+    },
+    "parent": {
+      "id": "4117",
+      "level": 2,
+      "name": {
+        "th": "บ้านผือ",
+        "en": "Ban Phue",
+        "slug": "ban-phue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "41",
+        "level": 1,
+        "name": {
+          "th": "อุดรธานี",
+          "en": "Udon Thani",
+          "slug": "udon-thani"
+        }
+      },
+      {
+        "id": "4117",
+        "level": 2,
+        "name": {
+          "th": "บ้านผือ",
+          "en": "Ban Phue",
+          "slug": "ban-phue"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 17
+    },
+    "zip_codes": [
+      "41160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.613",
+      "lon": "102.376"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/champa-mong-411707/"
+    }
+  },
+  {
+    "id": "411702",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หายโศก",
+      "en": "Hai Sok",
+      "slug": "hai-sok"
+    },
+    "code": {
+      "dopa": "411702"
+    },
+    "parent": {
+      "id": "4117",
+      "level": 2,
+      "name": {
+        "th": "บ้านผือ",
+        "en": "Ban Phue",
+        "slug": "ban-phue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "41",
+        "level": 1,
+        "name": {
+          "th": "อุดรธานี",
+          "en": "Udon Thani",
+          "slug": "udon-thani"
+        }
+      },
+      {
+        "id": "4117",
+        "level": 2,
+        "name": {
+          "th": "บ้านผือ",
+          "en": "Ban Phue",
+          "slug": "ban-phue"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 17
+    },
+    "zip_codes": [
+      "41160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.692",
+      "lon": "102.531"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/hai-sok-411702/"
+    }
+  },
+  {
+    "id": "411704",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "คำบง",
+      "en": "Kham Bong",
+      "slug": "kham-bong"
+    },
+    "code": {
+      "dopa": "411704"
+    },
+    "parent": {
+      "id": "4117",
+      "level": 2,
+      "name": {
+        "th": "บ้านผือ",
+        "en": "Ban Phue",
+        "slug": "ban-phue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "41",
+        "level": 1,
+        "name": {
+          "th": "อุดรธานี",
+          "en": "Udon Thani",
+          "slug": "udon-thani"
+        }
+      },
+      {
+        "id": "4117",
+        "level": 2,
+        "name": {
+          "th": "บ้านผือ",
+          "en": "Ban Phue",
+          "slug": "ban-phue"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "41160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.540",
+      "lon": "102.556"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/kham-bong-411704/"
+    }
+  },
+  {
+    "id": "411710",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "คำด้วง",
+      "en": "Kham Duang",
+      "slug": "kham-duang"
+    },
+    "code": {
+      "dopa": "411710"
+    },
+    "parent": {
+      "id": "4117",
+      "level": 2,
+      "name": {
+        "th": "บ้านผือ",
+        "en": "Ban Phue",
+        "slug": "ban-phue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "41",
+        "level": 1,
+        "name": {
+          "th": "อุดรธานี",
+          "en": "Udon Thani",
+          "slug": "udon-thani"
+        }
+      },
+      {
+        "id": "4117",
+        "level": 2,
+        "name": {
+          "th": "บ้านผือ",
+          "en": "Ban Phue",
+          "slug": "ban-phue"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "41160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.872",
+      "lon": "102.346"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/kham-duang-411710/"
+    }
+  },
+  {
+    "id": "411706",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ข้าวสาร",
+      "en": "Khao San",
+      "slug": "khao-san"
+    },
+    "code": {
+      "dopa": "411706"
+    },
+    "parent": {
+      "id": "4117",
+      "level": 2,
+      "name": {
+        "th": "บ้านผือ",
+        "en": "Ban Phue",
+        "slug": "ban-phue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "41",
+        "level": 1,
+        "name": {
+          "th": "อุดรธานี",
+          "en": "Udon Thani",
+          "slug": "udon-thani"
+        }
+      },
+      {
+        "id": "4117",
+        "level": 2,
+        "name": {
+          "th": "บ้านผือ",
+          "en": "Ban Phue",
+          "slug": "ban-phue"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "41160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.634",
+      "lon": "102.439"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khao-san-411706/"
+    }
+  },
+  {
+    "id": "411703",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เขือน้ำ",
+      "en": "Khuea Nam",
+      "slug": "khuea-nam"
+    },
+    "code": {
+      "dopa": "411703"
+    },
+    "parent": {
+      "id": "4117",
+      "level": 2,
+      "name": {
+        "th": "บ้านผือ",
+        "en": "Ban Phue",
+        "slug": "ban-phue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "41",
+        "level": 1,
+        "name": {
+          "th": "อุดรธานี",
+          "en": "Udon Thani",
+          "slug": "udon-thani"
+        }
+      },
+      {
+        "id": "4117",
+        "level": 2,
+        "name": {
+          "th": "บ้านผือ",
+          "en": "Ban Phue",
+          "slug": "ban-phue"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 15
+    },
+    "zip_codes": [
+      "41160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.565",
+      "lon": "102.646"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khuea-nam-411703/"
+    }
+  },
+  {
+    "id": "411708",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "กลางใหญ่",
+      "en": "Klang Yai",
+      "slug": "klang-yai"
+    },
+    "code": {
+      "dopa": "411708"
+    },
+    "parent": {
+      "id": "4117",
+      "level": 2,
+      "name": {
+        "th": "บ้านผือ",
+        "en": "Ban Phue",
+        "slug": "ban-phue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "41",
+        "level": 1,
+        "name": {
+          "th": "อุดรธานี",
+          "en": "Udon Thani",
+          "slug": "udon-thani"
+        }
+      },
+      {
+        "id": "4117",
+        "level": 2,
+        "name": {
+          "th": "บ้านผือ",
+          "en": "Ban Phue",
+          "slug": "ban-phue"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 13
+    },
+    "zip_codes": [
+      "41160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.785",
+      "lon": "102.375"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/klang-yai-411708/"
+    }
+  },
+  {
+    "id": "411709",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เมืองพาน",
+      "en": "Mueang Phan",
+      "slug": "mueang-phan"
+    },
+    "code": {
+      "dopa": "411709"
+    },
+    "parent": {
+      "id": "4117",
+      "level": 2,
+      "name": {
+        "th": "บ้านผือ",
+        "en": "Ban Phue",
+        "slug": "ban-phue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "41",
+        "level": 1,
+        "name": {
+          "th": "อุดรธานี",
+          "en": "Udon Thani",
+          "slug": "udon-thani"
+        }
+      },
+      {
+        "id": "4117",
+        "level": 2,
+        "name": {
+          "th": "บ้านผือ",
+          "en": "Ban Phue",
+          "slug": "ban-phue"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 16
+    },
+    "zip_codes": [
+      "41160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.684",
+      "lon": "102.365"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/mueang-phan-411709/"
+    }
+  },
+  {
+    "id": "411705",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "โนนทอง",
+      "en": "Non Thong",
+      "slug": "non-thong"
+    },
+    "code": {
+      "dopa": "411705"
+    },
+    "parent": {
+      "id": "4117",
+      "level": 2,
+      "name": {
+        "th": "บ้านผือ",
+        "en": "Ban Phue",
+        "slug": "ban-phue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "41",
+        "level": 1,
+        "name": {
+          "th": "อุดรธานี",
+          "en": "Udon Thani",
+          "slug": "udon-thani"
+        }
+      },
+      {
+        "id": "4117",
+        "level": 2,
+        "name": {
+          "th": "บ้านผือ",
+          "en": "Ban Phue",
+          "slug": "ban-phue"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 15
+    },
+    "zip_codes": [
+      "41160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.560",
+      "lon": "102.424"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/non-thong-411705/"
+    }
+  },
+  {
+    "id": "411711",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองหัวคู",
+      "en": "Nong Hua Khu",
+      "slug": "nong-hua-khu"
+    },
+    "code": {
+      "dopa": "411711"
+    },
+    "parent": {
+      "id": "4117",
+      "level": 2,
+      "name": {
+        "th": "บ้านผือ",
+        "en": "Ban Phue",
+        "slug": "ban-phue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "41",
+        "level": 1,
+        "name": {
+          "th": "อุดรธานี",
+          "en": "Udon Thani",
+          "slug": "udon-thani"
+        }
+      },
+      {
+        "id": "4117",
+        "level": 2,
+        "name": {
+          "th": "บ้านผือ",
+          "en": "Ban Phue",
+          "slug": "ban-phue"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "41160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.574",
+      "lon": "102.560"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-hua-khu-411711/"
+    }
+  },
+  {
+    "id": "411713",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองแวง",
+      "en": "Nong Waeng",
+      "slug": "nong-waeng"
+    },
+    "code": {
+      "dopa": "411713"
+    },
+    "parent": {
+      "id": "4117",
+      "level": 2,
+      "name": {
+        "th": "บ้านผือ",
+        "en": "Ban Phue",
+        "slug": "ban-phue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "41",
+        "level": 1,
+        "name": {
+          "th": "อุดรธานี",
+          "en": "Udon Thani",
+          "slug": "udon-thani"
+        }
+      },
+      {
+        "id": "4117",
+        "level": 2,
+        "name": {
+          "th": "บ้านผือ",
+          "en": "Ban Phue",
+          "slug": "ban-phue"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "41160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.509",
+      "lon": "102.391"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-waeng-411713/"
+    }
+  }
+]

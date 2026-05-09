@@ -1,0 +1,61 @@
+{
+  "id": "740202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อ้อมน้อย",
+    "en": "Om Noi",
+    "slug": "om-noi"
+  },
+  "code": {
+    "dopa": "740202"
+  },
+  "parent": {
+    "id": "7402",
+    "level": 2,
+    "name": {
+      "th": "กระทุ่มแบน",
+      "en": "Krathum Baen",
+      "slug": "krathum-baen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสาคร",
+        "en": "Samut Sakhon",
+        "slug": "samut-sakhon"
+      }
+    },
+    {
+      "id": "7402",
+      "level": 2,
+      "name": {
+        "th": "กระทุ่มแบน",
+        "en": "Krathum Baen",
+        "slug": "krathum-baen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 28
+  },
+  "zip_codes": [
+    "74130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.702",
+    "lon": "100.308"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/om-noi-740202/"
+  }
+}

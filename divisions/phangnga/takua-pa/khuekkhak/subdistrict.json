@@ -1,0 +1,61 @@
+{
+  "id": "820507",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คึกคัก",
+    "en": "Khuekkhak",
+    "slug": "khuekkhak"
+  },
+  "code": {
+    "dopa": "820507"
+  },
+  "parent": {
+    "id": "8205",
+    "level": 2,
+    "name": {
+      "th": "ตะกั่วป่า",
+      "en": "Takua Pa",
+      "slug": "takua-pa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8205",
+      "level": 2,
+      "name": {
+        "th": "ตะกั่วป่า",
+        "en": "Takua Pa",
+        "slug": "takua-pa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "82190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.698",
+    "lon": "98.280"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khuekkhak-820507/"
+  }
+}

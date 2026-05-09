@@ -1,0 +1,612 @@
+[
+  {
+    "id": "75030501",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองกระทิง",
+      "en": "Ban Khlong Krathing",
+      "slug": "75030501"
+    },
+    "code": {
+      "dopa": "75030501"
+    },
+    "parent": {
+      "id": "750305",
+      "level": 3,
+      "name": {
+        "th": "เหมืองใหม่",
+        "en": "Mueang Mai",
+        "slug": "mueang-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "th": "สมุทรสงคราม",
+          "en": "Samut Songkhram",
+          "slug": "samut-songkhram"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "th": "อัมพวา",
+          "en": "Amphawa",
+          "slug": "amphawa"
+        }
+      },
+      {
+        "id": "750305",
+        "level": 3,
+        "name": {
+          "th": "เหมืองใหม่",
+          "en": "Mueang Mai",
+          "slug": "mueang-mai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.439985562303894",
+      "lon": "99.92064625024796"
+    },
+    "source": {}
+  },
+  {
+    "id": "75030502",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองเหมืองใหม่",
+      "en": "Ban Khlong Mueang Mai",
+      "slug": "75030502"
+    },
+    "code": {
+      "dopa": "75030502"
+    },
+    "parent": {
+      "id": "750305",
+      "level": 3,
+      "name": {
+        "th": "เหมืองใหม่",
+        "en": "Mueang Mai",
+        "slug": "mueang-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "th": "สมุทรสงคราม",
+          "en": "Samut Songkhram",
+          "slug": "samut-songkhram"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "th": "อัมพวา",
+          "en": "Amphawa",
+          "slug": "amphawa"
+        }
+      },
+      {
+        "id": "750305",
+        "level": 3,
+        "name": {
+          "th": "เหมืองใหม่",
+          "en": "Mueang Mai",
+          "slug": "mueang-mai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.435461940554058",
+      "lon": "99.92399230599403"
+    },
+    "source": {}
+  },
+  {
+    "id": "75030503",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านปลายคลองเหมืองใหม่",
+      "en": "Ban Plai Khlong Mueang Mai",
+      "slug": "75030503"
+    },
+    "code": {
+      "dopa": "75030503"
+    },
+    "parent": {
+      "id": "750305",
+      "level": 3,
+      "name": {
+        "th": "เหมืองใหม่",
+        "en": "Mueang Mai",
+        "slug": "mueang-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "th": "สมุทรสงคราม",
+          "en": "Samut Songkhram",
+          "slug": "samut-songkhram"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "th": "อัมพวา",
+          "en": "Amphawa",
+          "slug": "amphawa"
+        }
+      },
+      {
+        "id": "750305",
+        "level": 3,
+        "name": {
+          "th": "เหมืองใหม่",
+          "en": "Mueang Mai",
+          "slug": "mueang-mai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.430086441727472",
+      "lon": "99.9173042178154"
+    },
+    "source": {}
+  },
+  {
+    "id": "75030504",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านปลายคลองอ้อม",
+      "en": "Ban Plai Khlong Om",
+      "slug": "75030504"
+    },
+    "code": {
+      "dopa": "75030504"
+    },
+    "parent": {
+      "id": "750305",
+      "level": 3,
+      "name": {
+        "th": "เหมืองใหม่",
+        "en": "Mueang Mai",
+        "slug": "mueang-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "th": "สมุทรสงคราม",
+          "en": "Samut Songkhram",
+          "slug": "samut-songkhram"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "th": "อัมพวา",
+          "en": "Amphawa",
+          "slug": "amphawa"
+        }
+      },
+      {
+        "id": "750305",
+        "level": 3,
+        "name": {
+          "th": "เหมืองใหม่",
+          "en": "Mueang Mai",
+          "slug": "mueang-mai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.424869966531189",
+      "lon": "99.91559162735939"
+    },
+    "source": {}
+  },
+  {
+    "id": "75030505",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองวัว",
+      "en": "Ban Khlong Wua",
+      "slug": "75030505"
+    },
+    "code": {
+      "dopa": "75030505"
+    },
+    "parent": {
+      "id": "750305",
+      "level": 3,
+      "name": {
+        "th": "เหมืองใหม่",
+        "en": "Mueang Mai",
+        "slug": "mueang-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "th": "สมุทรสงคราม",
+          "en": "Samut Songkhram",
+          "slug": "samut-songkhram"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "th": "อัมพวา",
+          "en": "Amphawa",
+          "slug": "amphawa"
+        }
+      },
+      {
+        "id": "750305",
+        "level": 3,
+        "name": {
+          "th": "เหมืองใหม่",
+          "en": "Mueang Mai",
+          "slug": "mueang-mai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.422846741962415",
+      "lon": "99.90183994174004"
+    },
+    "source": {}
+  },
+  {
+    "id": "75030506",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านปลายคลองชนาง",
+      "en": "Ban Plai Khlong Chanang",
+      "slug": "75030506"
+    },
+    "code": {
+      "dopa": "75030506"
+    },
+    "parent": {
+      "id": "750305",
+      "level": 3,
+      "name": {
+        "th": "เหมืองใหม่",
+        "en": "Mueang Mai",
+        "slug": "mueang-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "th": "สมุทรสงคราม",
+          "en": "Samut Songkhram",
+          "slug": "samut-songkhram"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "th": "อัมพวา",
+          "en": "Amphawa",
+          "slug": "amphawa"
+        }
+      },
+      {
+        "id": "750305",
+        "level": 3,
+        "name": {
+          "th": "เหมืองใหม่",
+          "en": "Mueang Mai",
+          "slug": "mueang-mai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.437618106547069",
+      "lon": "99.91485804319382"
+    },
+    "source": {}
+  },
+  {
+    "id": "75030507",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองดอน",
+      "en": "Ban Khlong Don",
+      "slug": "75030507"
+    },
+    "code": {
+      "dopa": "75030507"
+    },
+    "parent": {
+      "id": "750305",
+      "level": 3,
+      "name": {
+        "th": "เหมืองใหม่",
+        "en": "Mueang Mai",
+        "slug": "mueang-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "th": "สมุทรสงคราม",
+          "en": "Samut Songkhram",
+          "slug": "samut-songkhram"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "th": "อัมพวา",
+          "en": "Amphawa",
+          "slug": "amphawa"
+        }
+      },
+      {
+        "id": "750305",
+        "level": 3,
+        "name": {
+          "th": "เหมืองใหม่",
+          "en": "Mueang Mai",
+          "slug": "mueang-mai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.44170211615605",
+      "lon": "99.91450801491737"
+    },
+    "source": {}
+  },
+  {
+    "id": "75030508",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านบางวันทองใน",
+      "en": "Ban Bang Wan Thong Nai",
+      "slug": "75030508"
+    },
+    "code": {
+      "dopa": "75030508"
+    },
+    "parent": {
+      "id": "750305",
+      "level": 3,
+      "name": {
+        "th": "เหมืองใหม่",
+        "en": "Mueang Mai",
+        "slug": "mueang-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "th": "สมุทรสงคราม",
+          "en": "Samut Songkhram",
+          "slug": "samut-songkhram"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "th": "อัมพวา",
+          "en": "Amphawa",
+          "slug": "amphawa"
+        }
+      },
+      {
+        "id": "750305",
+        "level": 3,
+        "name": {
+          "th": "เหมืองใหม่",
+          "en": "Mueang Mai",
+          "slug": "mueang-mai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.441866466412074",
+      "lon": "99.90361958742142"
+    },
+    "source": {}
+  },
+  {
+    "id": "75030509",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหัวหาด",
+      "en": "Ban Hua Hat",
+      "slug": "75030509"
+    },
+    "code": {
+      "dopa": "75030509"
+    },
+    "parent": {
+      "id": "750305",
+      "level": 3,
+      "name": {
+        "th": "เหมืองใหม่",
+        "en": "Mueang Mai",
+        "slug": "mueang-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "th": "สมุทรสงคราม",
+          "en": "Samut Songkhram",
+          "slug": "samut-songkhram"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "th": "อัมพวา",
+          "en": "Amphawa",
+          "slug": "amphawa"
+        }
+      },
+      {
+        "id": "750305",
+        "level": 3,
+        "name": {
+          "th": "เหมืองใหม่",
+          "en": "Mueang Mai",
+          "slug": "mueang-mai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.449215155539736",
+      "lon": "99.91171583533287"
+    },
+    "source": {}
+  },
+  {
+    "id": "75030510",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านวัดแก้วเจริญ - บางวันทอง",
+      "en": "Ban Wat Kaeo Charoen - Bang Wan Thong",
+      "slug": "75030510"
+    },
+    "code": {
+      "dopa": "75030510"
+    },
+    "parent": {
+      "id": "750305",
+      "level": 3,
+      "name": {
+        "th": "เหมืองใหม่",
+        "en": "Mueang Mai",
+        "slug": "mueang-mai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "75",
+        "level": 1,
+        "name": {
+          "th": "สมุทรสงคราม",
+          "en": "Samut Songkhram",
+          "slug": "samut-songkhram"
+        }
+      },
+      {
+        "id": "7503",
+        "level": 2,
+        "name": {
+          "th": "อัมพวา",
+          "en": "Amphawa",
+          "slug": "amphawa"
+        }
+      },
+      {
+        "id": "750305",
+        "level": 3,
+        "name": {
+          "th": "เหมืองใหม่",
+          "en": "Mueang Mai",
+          "slug": "mueang-mai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.445663447698317",
+      "lon": "99.90233615040779"
+    },
+    "source": {}
+  }
+]

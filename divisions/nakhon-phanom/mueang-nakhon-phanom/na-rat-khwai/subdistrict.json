@@ -1,0 +1,61 @@
+{
+  "id": "480104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาราชควาย",
+    "en": "Na Rat Khwai",
+    "slug": "na-rat-khwai"
+  },
+  "code": {
+    "dopa": "480104"
+  },
+  "parent": {
+    "id": "4801",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครพนม",
+      "en": "Mueang Nakhon Phanom",
+      "slug": "mueang-nakhon-phanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4801",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครพนม",
+        "en": "Mueang Nakhon Phanom",
+        "slug": "mueang-nakhon-phanom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "48000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.416",
+    "lon": "104.707"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-rat-khwai-480104/"
+  }
+}

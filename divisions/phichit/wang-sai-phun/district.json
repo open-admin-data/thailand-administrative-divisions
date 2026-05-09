@@ -1,0 +1,50 @@
+{
+  "id": "6602",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "วังทรายพูน",
+    "en": "Wang Sai Phun",
+    "slug": "wang-sai-phun"
+  },
+  "code": {
+    "dopa": "6602"
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "th": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 57
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.339",
+    "lon": "100.504"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wang-sai-phun-6602/"
+  }
+}

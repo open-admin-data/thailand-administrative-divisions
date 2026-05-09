@@ -1,0 +1,61 @@
+{
+  "id": "390303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองเรือ",
+    "en": "Nong Ruea",
+    "slug": "nong-ruea"
+  },
+  "code": {
+    "dopa": "390303"
+  },
+  "parent": {
+    "id": "3903",
+    "level": 2,
+    "name": {
+      "th": "โนนสัง",
+      "en": "Non Sang",
+      "slug": "non-sang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3903",
+      "level": 2,
+      "name": {
+        "th": "โนนสัง",
+        "en": "Non Sang",
+        "slug": "non-sang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "39140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.844",
+    "lon": "102.504"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-ruea-390303/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "461703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พยุง",
+    "en": "Dong Phayung",
+    "slug": "dong-phayung"
+  },
+  "code": {
+    "dopa": "461703"
+  },
+  "parent": {
+    "id": "4617",
+    "level": 2,
+    "name": {
+      "th": "ดอนจาน",
+      "en": "Don Chan",
+      "slug": "don-chan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4617",
+      "level": 2,
+      "name": {
+        "th": "ดอนจาน",
+        "en": "Don Chan",
+        "slug": "don-chan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "46000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.531",
+    "lon": "103.708"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-phayung-461703/"
+  }
+}

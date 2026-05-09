@@ -1,0 +1,61 @@
+{
+  "id": "660702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กำแพงดิน",
+    "en": "Kamphaeng Din",
+    "slug": "kamphaeng-din"
+  },
+  "code": {
+    "dopa": "660702"
+  },
+  "parent": {
+    "id": "6607",
+    "level": 2,
+    "name": {
+      "th": "สามง่าม",
+      "en": "Sam Ngam",
+      "slug": "sam-ngam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6607",
+      "level": 2,
+      "name": {
+        "th": "สามง่าม",
+        "en": "Sam Ngam",
+        "slug": "sam-ngam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "66140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.585",
+    "lon": "100.219"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kamphaeng-din-660702/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "620901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพธิ์ทอง",
+    "en": "Pho Thong",
+    "slug": "pho-thong"
+  },
+  "code": {
+    "dopa": "620901"
+  },
+  "parent": {
+    "id": "6209",
+    "level": 2,
+    "name": {
+      "th": "ปางศิลาทอง",
+      "en": "Pang Sila Thong",
+      "slug": "pang-sila-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6209",
+      "level": 2,
+      "name": {
+        "th": "ปางศิลาทอง",
+        "en": "Pang Sila Thong",
+        "slug": "pang-sila-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "62120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.110",
+    "lon": "99.527"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pho-thong-620901/"
+  }
+}

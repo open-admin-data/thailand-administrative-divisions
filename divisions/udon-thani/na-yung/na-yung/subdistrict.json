@@ -1,0 +1,61 @@
+{
+  "id": "412201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นายูง",
+    "en": "Na Yung",
+    "slug": "na-yung"
+  },
+  "code": {
+    "dopa": "412201"
+  },
+  "parent": {
+    "id": "4122",
+    "level": 2,
+    "name": {
+      "th": "นายูง",
+      "en": "Na Yung",
+      "slug": "na-yung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4122",
+      "level": 2,
+      "name": {
+        "th": "นายูง",
+        "en": "Na Yung",
+        "slug": "na-yung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "41380"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.916",
+    "lon": "102.213"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-yung-412201/"
+  }
+}

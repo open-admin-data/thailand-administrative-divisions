@@ -1,0 +1,61 @@
+{
+  "id": "480206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มหาชัย",
+    "en": "Maha Chai",
+    "slug": "maha-chai"
+  },
+  "code": {
+    "dopa": "480206"
+  },
+  "parent": {
+    "id": "4802",
+    "level": 2,
+    "name": {
+      "th": "ปลาปาก",
+      "en": "Pla Pak",
+      "slug": "pla-pak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4802",
+      "level": 2,
+      "name": {
+        "th": "ปลาปาก",
+        "en": "Pla Pak",
+        "slug": "pla-pak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "48160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.247",
+    "lon": "104.492"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/maha-chai-480206/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "340408",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาคำใหญ่",
+    "en": "Na Kham Yai",
+    "slug": "na-kham-yai"
+  },
+  "code": {
+    "dopa": "340408"
+  },
+  "parent": {
+    "id": "3404",
+    "level": 2,
+    "name": {
+      "th": "เขื่องใน",
+      "en": "Khueang Nai",
+      "slug": "khueang-nai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3404",
+      "level": 2,
+      "name": {
+        "th": "เขื่องใน",
+        "en": "Khueang Nai",
+        "slug": "khueang-nai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "34150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.283",
+    "lon": "104.566"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-kham-yai-340408/"
+  }
+}

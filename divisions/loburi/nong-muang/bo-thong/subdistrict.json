@@ -1,0 +1,61 @@
+{
+  "id": "161102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อทอง",
+    "en": "Bo Thong",
+    "slug": "bo-thong"
+  },
+  "code": {
+    "dopa": "161102"
+  },
+  "parent": {
+    "id": "1611",
+    "level": 2,
+    "name": {
+      "th": "หนองม่วง",
+      "en": "Nong Muang",
+      "slug": "nong-muang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1611",
+      "level": 2,
+      "name": {
+        "th": "หนองม่วง",
+        "en": "Nong Muang",
+        "slug": "nong-muang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "15170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.293",
+    "lon": "100.652"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-thong-161102/"
+  }
+}

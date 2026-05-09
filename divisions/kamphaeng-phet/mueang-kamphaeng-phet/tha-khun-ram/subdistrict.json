@@ -1,0 +1,61 @@
+{
+  "id": "620115",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าขุนราม",
+    "en": "Tha Khun Ram",
+    "slug": "tha-khun-ram"
+  },
+  "code": {
+    "dopa": "620115"
+  },
+  "parent": {
+    "id": "6201",
+    "level": 2,
+    "name": {
+      "th": "เมืองกำแพงเพชร",
+      "en": "Mueang Kamphaeng Phet",
+      "slug": "mueang-kamphaeng-phet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6201",
+      "level": 2,
+      "name": {
+        "th": "เมืองกำแพงเพชร",
+        "en": "Mueang Kamphaeng Phet",
+        "slug": "mueang-kamphaeng-phet"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "62000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.451",
+    "lon": "99.452"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-khun-ram-620115/"
+  }
+}

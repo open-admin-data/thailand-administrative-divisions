@@ -1,0 +1,61 @@
+{
+  "id": "830304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าคลอก",
+    "en": "Pa Khlok",
+    "slug": "pa-khlok"
+  },
+  "code": {
+    "dopa": "830304"
+  },
+  "parent": {
+    "id": "8303",
+    "level": 2,
+    "name": {
+      "th": "ถลาง",
+      "en": "Thalang",
+      "slug": "thalang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "th": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket"
+      }
+    },
+    {
+      "id": "8303",
+      "level": 2,
+      "name": {
+        "th": "ถลาง",
+        "en": "Thalang",
+        "slug": "thalang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "83110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.042",
+    "lon": "98.399"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-khlok-830304/"
+  }
+}

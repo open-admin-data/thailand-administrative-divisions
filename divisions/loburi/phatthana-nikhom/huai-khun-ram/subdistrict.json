@@ -1,0 +1,61 @@
+{
+  "id": "160208",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยขุนราม",
+    "en": "Huai Khun Ram",
+    "slug": "huai-khun-ram"
+  },
+  "code": {
+    "dopa": "160208"
+  },
+  "parent": {
+    "id": "1602",
+    "level": 2,
+    "name": {
+      "th": "พัฒนานิคม",
+      "en": "Phatthana Nikhom",
+      "slug": "phatthana-nikhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1602",
+      "level": 2,
+      "name": {
+        "th": "พัฒนานิคม",
+        "en": "Phatthana Nikhom",
+        "slug": "phatthana-nikhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "18220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.951",
+    "lon": "101.205"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-khun-ram-160208/"
+  }
+}

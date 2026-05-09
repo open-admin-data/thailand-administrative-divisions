@@ -1,0 +1,185 @@
+[
+  {
+    "id": "82010601",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหินเพิง",
+      "en": "Ban Hin Phoeng",
+      "slug": "82010601"
+    },
+    "code": {
+      "dopa": "82010601"
+    },
+    "parent": {
+      "id": "820106",
+      "level": 3,
+      "name": {
+        "th": "สองแพรก",
+        "en": "Song Phraek",
+        "slug": "song-phraek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "th": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga"
+        }
+      },
+      {
+        "id": "8201",
+        "level": 2,
+        "name": {
+          "th": "เมืองพังงา",
+          "en": "Mueang Phang-nga",
+          "slug": "mueang-phang-nga"
+        }
+      },
+      {
+        "id": "820106",
+        "level": 3,
+        "name": {
+          "th": "สองแพรก",
+          "en": "Song Phraek",
+          "slug": "song-phraek"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.625800697040141",
+      "lon": "98.54254335165024"
+    },
+    "source": {}
+  },
+  {
+    "id": "82010602",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านสองแพรก",
+      "en": "Ban Song Phraek",
+      "slug": "82010602"
+    },
+    "code": {
+      "dopa": "82010602"
+    },
+    "parent": {
+      "id": "820106",
+      "level": 3,
+      "name": {
+        "th": "สองแพรก",
+        "en": "Song Phraek",
+        "slug": "song-phraek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "th": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga"
+        }
+      },
+      {
+        "id": "8201",
+        "level": 2,
+        "name": {
+          "th": "เมืองพังงา",
+          "en": "Mueang Phang-nga",
+          "slug": "mueang-phang-nga"
+        }
+      },
+      {
+        "id": "820106",
+        "level": 3,
+        "name": {
+          "th": "สองแพรก",
+          "en": "Song Phraek",
+          "slug": "song-phraek"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.603995063791134",
+      "lon": "98.5643282532692"
+    },
+    "source": {}
+  },
+  {
+    "id": "82010603",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านทับเหวน",
+      "en": "Ban Thap Wen",
+      "slug": "82010603"
+    },
+    "code": {
+      "dopa": "82010603"
+    },
+    "parent": {
+      "id": "820106",
+      "level": 3,
+      "name": {
+        "th": "สองแพรก",
+        "en": "Song Phraek",
+        "slug": "song-phraek"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "th": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga"
+        }
+      },
+      {
+        "id": "8201",
+        "level": 2,
+        "name": {
+          "th": "เมืองพังงา",
+          "en": "Mueang Phang-nga",
+          "slug": "mueang-phang-nga"
+        }
+      },
+      {
+        "id": "820106",
+        "level": 3,
+        "name": {
+          "th": "สองแพรก",
+          "en": "Song Phraek",
+          "slug": "song-phraek"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.563241884311518",
+      "lon": "98.53963047266006"
+    },
+    "source": {}
+  }
+]

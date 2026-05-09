@@ -1,0 +1,61 @@
+{
+  "id": "302003",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กฤษณา",
+    "en": "Kritsana",
+    "slug": "kritsana"
+  },
+  "code": {
+    "dopa": "302003"
+  },
+  "parent": {
+    "id": "3020",
+    "level": 2,
+    "name": {
+      "th": "สีคิ้ว",
+      "en": "Sikhio",
+      "slug": "sikhio"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3020",
+      "level": 2,
+      "name": {
+        "th": "สีคิ้ว",
+        "en": "Sikhio",
+        "slug": "sikhio"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "30140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.046",
+    "lon": "101.556"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kritsana-302003/"
+  }
+}

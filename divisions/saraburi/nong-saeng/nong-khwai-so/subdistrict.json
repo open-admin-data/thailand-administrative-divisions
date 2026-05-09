@@ -1,0 +1,61 @@
+{
+  "id": "190502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองควายโซ",
+    "en": "Nong Khwai So",
+    "slug": "nong-khwai-so"
+  },
+  "code": {
+    "dopa": "190502"
+  },
+  "parent": {
+    "id": "1905",
+    "level": 2,
+    "name": {
+      "th": "หนองแซง",
+      "en": "Nong Saeng",
+      "slug": "nong-saeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1905",
+      "level": 2,
+      "name": {
+        "th": "หนองแซง",
+        "en": "Nong Saeng",
+        "slug": "nong-saeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "18170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.487",
+    "lon": "100.795"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-khwai-so-190502/"
+  }
+}

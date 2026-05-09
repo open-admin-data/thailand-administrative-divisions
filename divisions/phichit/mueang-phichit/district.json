@@ -1,0 +1,50 @@
+{
+  "id": "6601",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองพิจิตร",
+    "en": "Mueang Phichit",
+    "slug": "mueang-phichit"
+  },
+  "code": {
+    "dopa": "6601"
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "th": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 16,
+    "villages": 160
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.443",
+    "lon": "100.343"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-phichit-6601/"
+  }
+}

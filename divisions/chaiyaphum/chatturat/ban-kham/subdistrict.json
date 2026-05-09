@@ -1,0 +1,61 @@
+{
+  "id": "360603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านขาม",
+    "en": "Ban Kham",
+    "slug": "ban-kham"
+  },
+  "code": {
+    "dopa": "360603"
+  },
+  "parent": {
+    "id": "3606",
+    "level": 2,
+    "name": {
+      "th": "จัตุรัส",
+      "en": "Chatturat",
+      "slug": "chatturat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3606",
+      "level": 2,
+      "name": {
+        "th": "จัตุรัส",
+        "en": "Chatturat",
+        "slug": "chatturat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "36130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.474",
+    "lon": "101.805"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-kham-360603/"
+  }
+}

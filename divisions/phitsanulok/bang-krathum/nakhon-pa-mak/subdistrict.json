@@ -1,0 +1,61 @@
+{
+  "id": "650507",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นครป่าหมาก",
+    "en": "Nakhon Pa Mak",
+    "slug": "nakhon-pa-mak"
+  },
+  "code": {
+    "dopa": "650507"
+  },
+  "parent": {
+    "id": "6505",
+    "level": 2,
+    "name": {
+      "th": "บางกระทุ่ม",
+      "en": "Bang Krathum",
+      "slug": "bang-krathum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6505",
+      "level": 2,
+      "name": {
+        "th": "บางกระทุ่ม",
+        "en": "Bang Krathum",
+        "slug": "bang-krathum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "65110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.609",
+    "lon": "100.351"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nakhon-pa-mak-650507/"
+  }
+}

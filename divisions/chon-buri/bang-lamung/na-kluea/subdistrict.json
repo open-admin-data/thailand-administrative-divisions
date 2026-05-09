@@ -1,0 +1,61 @@
+{
+  "id": "200408",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาเกลือ",
+    "en": "Na Kluea",
+    "slug": "na-kluea"
+  },
+  "code": {
+    "dopa": "200408"
+  },
+  "parent": {
+    "id": "2004",
+    "level": 2,
+    "name": {
+      "th": "บางละมุง",
+      "en": "Bang Lamung",
+      "slug": "bang-lamung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2004",
+      "level": 2,
+      "name": {
+        "th": "บางละมุง",
+        "en": "Bang Lamung",
+        "slug": "bang-lamung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 23
+  },
+  "zip_codes": [
+    "20150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.955",
+    "lon": "100.909"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-kluea-200408/"
+  }
+}

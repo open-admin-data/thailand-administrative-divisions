@@ -1,0 +1,61 @@
+{
+  "id": "471304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปทุมวาปี",
+    "en": "Pathum Wapi",
+    "slug": "pathum-wapi"
+  },
+  "code": {
+    "dopa": "471304"
+  },
+  "parent": {
+    "id": "4713",
+    "level": 2,
+    "name": {
+      "th": "ส่องดาว",
+      "en": "Song Dao",
+      "slug": "song-dao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4713",
+      "level": 2,
+      "name": {
+        "th": "ส่องดาว",
+        "en": "Song Dao",
+        "slug": "song-dao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "47190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.298",
+    "lon": "103.482"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pathum-wapi-471304/"
+  }
+}

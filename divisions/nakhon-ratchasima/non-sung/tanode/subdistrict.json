@@ -1,0 +1,61 @@
+{
+  "id": "301003",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โตนด",
+    "en": "Tanode",
+    "slug": "tanode"
+  },
+  "code": {
+    "dopa": "301003"
+  },
+  "parent": {
+    "id": "3010",
+    "level": 2,
+    "name": {
+      "th": "โนนสูง",
+      "en": "Non Sung",
+      "slug": "non-sung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3010",
+      "level": 2,
+      "name": {
+        "th": "โนนสูง",
+        "en": "Non Sung",
+        "slug": "non-sung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "30160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.097",
+    "lon": "102.293"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tanode-301003/"
+  }
+}

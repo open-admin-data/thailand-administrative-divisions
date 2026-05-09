@@ -1,0 +1,61 @@
+{
+  "id": "141109",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังจุฬา",
+    "en": "Wang Chula",
+    "slug": "wang-chula"
+  },
+  "code": {
+    "dopa": "141109"
+  },
+  "parent": {
+    "id": "1411",
+    "level": 2,
+    "name": {
+      "th": "วังน้อย",
+      "en": "Wang Noi",
+      "slug": "wang-noi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1411",
+      "level": 2,
+      "name": {
+        "th": "วังน้อย",
+        "en": "Wang Noi",
+        "slug": "wang-noi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "13170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.249",
+    "lon": "100.800"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-chula-141109/"
+  }
+}

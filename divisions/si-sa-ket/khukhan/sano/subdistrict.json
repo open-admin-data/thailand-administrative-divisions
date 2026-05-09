@@ -1,0 +1,61 @@
+{
+  "id": "330505",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โสน",
+    "en": "Sano",
+    "slug": "sano"
+  },
+  "code": {
+    "dopa": "330505"
+  },
+  "parent": {
+    "id": "3305",
+    "level": 2,
+    "name": {
+      "th": "ขุขันธ์",
+      "en": "Khukhan",
+      "slug": "khukhan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3305",
+      "level": 2,
+      "name": {
+        "th": "ขุขันธ์",
+        "en": "Khukhan",
+        "slug": "khukhan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 23
+  },
+  "zip_codes": [
+    "33140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.657",
+    "lon": "104.104"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sano-330505/"
+  }
+}

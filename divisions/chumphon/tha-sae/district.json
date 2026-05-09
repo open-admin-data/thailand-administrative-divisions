@@ -1,0 +1,50 @@
+{
+  "id": "8602",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ท่าแซะ",
+    "en": "Tha Sae",
+    "slug": "tha-sae"
+  },
+  "code": {
+    "dopa": "8602"
+  },
+  "parent": {
+    "id": "86",
+    "level": 1,
+    "name": {
+      "th": "ชุมพร",
+      "en": "Chumphon",
+      "slug": "chumphon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 116
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.713",
+    "lon": "99.202"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tha-sae-8602/"
+  }
+}

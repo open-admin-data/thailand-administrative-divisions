@@ -1,0 +1,61 @@
+{
+  "id": "180102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านกล้วย",
+    "en": "Ban Kluai",
+    "slug": "ban-kluai"
+  },
+  "code": {
+    "dopa": "180102"
+  },
+  "parent": {
+    "id": "1801",
+    "level": 2,
+    "name": {
+      "th": "เมืองชัยนาท",
+      "en": "Chai Nat",
+      "slug": "chai-nat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "th": "เมืองชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "17000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.182",
+    "lon": "100.153"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-kluai-180102/"
+  }
+}

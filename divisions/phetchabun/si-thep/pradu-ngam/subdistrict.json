@@ -1,0 +1,61 @@
+{
+  "id": "670607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ประดู่งาม",
+    "en": "Pradu Ngam",
+    "slug": "pradu-ngam"
+  },
+  "code": {
+    "dopa": "670607"
+  },
+  "parent": {
+    "id": "6706",
+    "level": 2,
+    "name": {
+      "th": "ศรีเทพ",
+      "en": "Si Thep",
+      "slug": "si-thep"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6706",
+      "level": 2,
+      "name": {
+        "th": "ศรีเทพ",
+        "en": "Si Thep",
+        "slug": "si-thep"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "67170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.436",
+    "lon": "100.971"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pradu-ngam-670607/"
+  }
+}

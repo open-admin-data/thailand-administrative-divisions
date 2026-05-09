@@ -1,0 +1,61 @@
+{
+  "id": "330412",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ภูเงิน",
+    "en": "Phu Ngoen",
+    "slug": "phu-ngoen"
+  },
+  "code": {
+    "dopa": "330412"
+  },
+  "parent": {
+    "id": "3304",
+    "level": 2,
+    "name": {
+      "th": "กันทรลักษ์",
+      "en": "Kantharalak",
+      "slug": "kantharalak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3304",
+      "level": 2,
+      "name": {
+        "th": "กันทรลักษ์",
+        "en": "Kantharalak",
+        "slug": "kantharalak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "33110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.745",
+    "lon": "104.571"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phu-ngoen-330412/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "13",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ปทุมธานี",
+    "en": "Pathum Thani",
+    "slug": "pathum-thani"
+  },
+  "code": {
+    "dopa": "13",
+    "iso": "TH-13"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 7,
+    "subdistricts": 60,
+    "villages": 867
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central"
+    }
+  },
+  "geo": {
+    "lat": "14.031",
+    "lon": "100.552"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/pathum-thani-13/"
+  }
+}

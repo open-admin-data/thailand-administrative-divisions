@@ -1,0 +1,61 @@
+{
+  "id": "800706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านตูล",
+    "en": "Ban Tun",
+    "slug": "ban-tun"
+  },
+  "code": {
+    "dopa": "800706"
+  },
+  "parent": {
+    "id": "8007",
+    "level": 2,
+    "name": {
+      "th": "ชะอวด",
+      "en": "Cha-uat",
+      "slug": "cha-uat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8007",
+      "level": 2,
+      "name": {
+        "th": "ชะอวด",
+        "en": "Cha-uat",
+        "slug": "cha-uat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "80180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.070",
+    "lon": "100.000"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-tun-800706/"
+  }
+}

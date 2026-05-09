@@ -1,0 +1,61 @@
+{
+  "id": "930701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาย่า",
+    "en": "Khao Ya",
+    "slug": "khao-ya"
+  },
+  "code": {
+    "dopa": "930701"
+  },
+  "parent": {
+    "id": "9307",
+    "level": 2,
+    "name": {
+      "th": "ศรีบรรพต",
+      "en": "Si Banphot",
+      "slug": "si-banphot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9307",
+      "level": 2,
+      "name": {
+        "th": "ศรีบรรพต",
+        "en": "Si Banphot",
+        "slug": "si-banphot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "93190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.746",
+    "lon": "99.864"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-ya-930701/"
+  }
+}

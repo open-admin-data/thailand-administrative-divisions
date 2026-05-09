@@ -1,0 +1,61 @@
+{
+  "id": "640305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีคีรีมาศ",
+    "en": "Si Khiri Mat",
+    "slug": "si-khiri-mat"
+  },
+  "code": {
+    "dopa": "640305"
+  },
+  "parent": {
+    "id": "6403",
+    "level": 2,
+    "name": {
+      "th": "คีรีมาศ",
+      "en": "Khiri Mat",
+      "slug": "khiri-mat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6403",
+      "level": 2,
+      "name": {
+        "th": "คีรีมาศ",
+        "en": "Khiri Mat",
+        "slug": "khiri-mat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "64160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.827",
+    "lon": "99.706"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-khiri-mat-640305/"
+  }
+}

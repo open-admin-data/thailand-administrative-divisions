@@ -1,0 +1,61 @@
+{
+  "id": "501511",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำแพร่",
+    "en": "Nam Phrae",
+    "slug": "nam-phrae"
+  },
+  "code": {
+    "dopa": "501511"
+  },
+  "parent": {
+    "id": "5015",
+    "level": 2,
+    "name": {
+      "th": "หางดง",
+      "en": "Hang Dong",
+      "slug": "hang-dong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5015",
+      "level": 2,
+      "name": {
+        "th": "หางดง",
+        "en": "Hang Dong",
+        "slug": "hang-dong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "50230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.709",
+    "lon": "98.881"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-phrae-501511/"
+  }
+}

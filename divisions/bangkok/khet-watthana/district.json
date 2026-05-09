@@ -1,0 +1,50 @@
+{
+  "id": "1039",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต วัฒนา",
+    "en": "Khet Watthana",
+    "slug": "khet-watthana"
+  },
+  "code": {
+    "dopa": "1039"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.743",
+    "lon": "100.560"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khet-watthana-1039/"
+  }
+}

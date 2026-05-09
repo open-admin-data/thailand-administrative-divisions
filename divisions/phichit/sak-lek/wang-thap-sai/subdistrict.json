@@ -1,0 +1,61 @@
+{
+  "id": "660905",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังทับไทร",
+    "en": "Wang Thap Sai",
+    "slug": "wang-thap-sai"
+  },
+  "code": {
+    "dopa": "660905"
+  },
+  "parent": {
+    "id": "6609",
+    "level": 2,
+    "name": {
+      "th": "สากเหล็ก",
+      "en": "Sak Lek",
+      "slug": "sak-lek"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6609",
+      "level": 2,
+      "name": {
+        "th": "สากเหล็ก",
+        "en": "Sak Lek",
+        "slug": "sak-lek"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "66160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.489",
+    "lon": "100.555"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-thap-sai-660905/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "720202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เดิมบาง",
+    "en": "Doem Bang",
+    "slug": "doem-bang"
+  },
+  "code": {
+    "dopa": "720202"
+  },
+  "parent": {
+    "id": "7202",
+    "level": 2,
+    "name": {
+      "th": "เดิมบางนางบวช",
+      "en": "Doem Bang Nang Buat",
+      "slug": "doem-bang-nang-buat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7202",
+      "level": 2,
+      "name": {
+        "th": "เดิมบางนางบวช",
+        "en": "Doem Bang Nang Buat",
+        "slug": "doem-bang-nang-buat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "72120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.893",
+    "lon": "100.109"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/doem-bang-720202/"
+  }
+}

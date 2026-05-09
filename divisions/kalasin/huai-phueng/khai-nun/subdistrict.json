@@ -1,0 +1,61 @@
+{
+  "id": "461402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไค้นุ่น",
+    "en": "Khai Nun",
+    "slug": "khai-nun"
+  },
+  "code": {
+    "dopa": "461402"
+  },
+  "parent": {
+    "id": "4614",
+    "level": 2,
+    "name": {
+      "th": "ห้วยผึ้ง",
+      "en": "Huai Phueng",
+      "slug": "huai-phueng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4614",
+      "level": 2,
+      "name": {
+        "th": "ห้วยผึ้ง",
+        "en": "Huai Phueng",
+        "slug": "huai-phueng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "46240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.612",
+    "lon": "103.933"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khai-nun-461402/"
+  }
+}

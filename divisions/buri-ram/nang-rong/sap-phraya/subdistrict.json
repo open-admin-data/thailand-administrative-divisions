@@ -1,0 +1,61 @@
+{
+  "id": "310418",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทรัพย์พระยา",
+    "en": "Sap Phraya",
+    "slug": "sap-phraya"
+  },
+  "code": {
+    "dopa": "310418"
+  },
+  "parent": {
+    "id": "3104",
+    "level": 2,
+    "name": {
+      "th": "นางรอง",
+      "en": "Nang Rong",
+      "slug": "nang-rong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3104",
+      "level": 2,
+      "name": {
+        "th": "นางรอง",
+        "en": "Nang Rong",
+        "slug": "nang-rong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "31110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.516",
+    "lon": "102.662"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sap-phraya-310418/"
+  }
+}

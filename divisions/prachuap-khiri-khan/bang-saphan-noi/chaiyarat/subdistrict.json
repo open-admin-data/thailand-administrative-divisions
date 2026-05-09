@@ -1,0 +1,61 @@
+{
+  "id": "770505",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไชยราช",
+    "en": "Chaiyarat",
+    "slug": "chaiyarat"
+  },
+  "code": {
+    "dopa": "770505"
+  },
+  "parent": {
+    "id": "7705",
+    "level": 2,
+    "name": {
+      "th": "บางสะพานน้อย",
+      "en": "Bang Saphan Noi",
+      "slug": "bang-saphan-noi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    },
+    {
+      "id": "7705",
+      "level": 2,
+      "name": {
+        "th": "บางสะพานน้อย",
+        "en": "Bang Saphan Noi",
+        "slug": "bang-saphan-noi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "77170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "11.012",
+    "lon": "99.256"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chaiyarat-770505/"
+  }
+}

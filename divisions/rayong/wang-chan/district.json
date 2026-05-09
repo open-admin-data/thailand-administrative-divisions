@@ -1,0 +1,50 @@
+{
+  "id": "2104",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "วังจันทร์",
+    "en": "Wang Chan",
+    "slug": "wang-chan"
+  },
+  "code": {
+    "dopa": "2104"
+  },
+  "parent": {
+    "id": "21",
+    "level": 1,
+    "name": {
+      "th": "ระยอง",
+      "en": "Rayong",
+      "slug": "rayong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 29
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.858",
+    "lon": "101.528"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wang-chan-2104/"
+  }
+}

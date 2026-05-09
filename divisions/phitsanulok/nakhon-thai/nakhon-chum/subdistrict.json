@@ -1,0 +1,61 @@
+{
+  "id": "650206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นครชุม",
+    "en": "Nakhon Chum",
+    "slug": "nakhon-chum"
+  },
+  "code": {
+    "dopa": "650206"
+  },
+  "parent": {
+    "id": "6502",
+    "level": 2,
+    "name": {
+      "th": "นครไทย",
+      "en": "Nakhon Thai",
+      "slug": "nakhon-thai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6502",
+      "level": 2,
+      "name": {
+        "th": "นครไทย",
+        "en": "Nakhon Thai",
+        "slug": "nakhon-thai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "65120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.260",
+    "lon": "100.806"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nakhon-chum-650206/"
+  }
+}

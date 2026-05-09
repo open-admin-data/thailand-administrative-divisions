@@ -1,0 +1,50 @@
+{
+  "id": "8402",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "กาญจนดิษฐ์",
+    "en": "Kanchanadit",
+    "slug": "kanchanadit"
+  },
+  "code": {
+    "dopa": "8402"
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "th": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 117
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.181",
+    "lon": "99.465"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kanchanadit-8402/"
+  }
+}

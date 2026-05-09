@@ -1,0 +1,50 @@
+{
+  "id": "7607",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านแหลม",
+    "en": "Ban Laem",
+    "slug": "ban-laem"
+  },
+  "code": {
+    "dopa": "7607"
+  },
+  "parent": {
+    "id": "76",
+    "level": 1,
+    "name": {
+      "th": "เพชรบุรี",
+      "en": "Phetchaburi",
+      "slug": "phetchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 73
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.155",
+    "lon": "99.976"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-laem-7607/"
+  }
+}

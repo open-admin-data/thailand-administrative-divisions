@@ -1,0 +1,61 @@
+{
+  "id": "630402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่จะเรา",
+    "en": "Mae Charao",
+    "slug": "mae-charao"
+  },
+  "code": {
+    "dopa": "630402"
+  },
+  "parent": {
+    "id": "6304",
+    "level": 2,
+    "name": {
+      "th": "แม่ระมาด",
+      "en": "Mae Ramat",
+      "slug": "mae-ramat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6304",
+      "level": 2,
+      "name": {
+        "th": "แม่ระมาด",
+        "en": "Mae Ramat",
+        "slug": "mae-ramat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "63140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.947",
+    "lon": "98.591"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-charao-630402/"
+  }
+}

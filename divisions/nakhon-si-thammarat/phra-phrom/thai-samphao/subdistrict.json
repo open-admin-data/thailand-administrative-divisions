@@ -1,0 +1,61 @@
+{
+  "id": "802003",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท้ายสำเภา",
+    "en": "Thai Samphao",
+    "slug": "thai-samphao"
+  },
+  "code": {
+    "dopa": "802003"
+  },
+  "parent": {
+    "id": "8020",
+    "level": 2,
+    "name": {
+      "th": "พระพรหม",
+      "en": "Phra Phrom",
+      "slug": "phra-phrom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8020",
+      "level": 2,
+      "name": {
+        "th": "พระพรหม",
+        "en": "Phra Phrom",
+        "slug": "phra-phrom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "80000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.302",
+    "lon": "99.909"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thai-samphao-802003/"
+  }
+}

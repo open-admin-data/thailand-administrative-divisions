@@ -1,0 +1,61 @@
+{
+  "id": "110203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางพลีน้อย",
+    "en": "Bang Phli Noi",
+    "slug": "bang-phli-noi"
+  },
+  "code": {
+    "dopa": "110203"
+  },
+  "parent": {
+    "id": "1102",
+    "level": 2,
+    "name": {
+      "th": "บางบ่อ",
+      "en": "Bang Bo",
+      "slug": "bang-bo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "th": "บางบ่อ",
+        "en": "Bang Bo",
+        "slug": "bang-bo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "10560"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.574",
+    "lon": "100.900"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-phli-noi-110203/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "341910",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพธิ์ศรี",
+    "en": "Pho Si",
+    "slug": "pho-si"
+  },
+  "code": {
+    "dopa": "341910"
+  },
+  "parent": {
+    "id": "3419",
+    "level": 2,
+    "name": {
+      "th": "พิบูลมังสาหาร",
+      "en": "Phibun Mangsahan",
+      "slug": "phibun-mangsahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3419",
+      "level": 2,
+      "name": {
+        "th": "พิบูลมังสาหาร",
+        "en": "Phibun Mangsahan",
+        "slug": "phibun-mangsahan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "34110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.293",
+    "lon": "105.237"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pho-si-341910/"
+  }
+}

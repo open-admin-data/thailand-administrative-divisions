@@ -1,0 +1,61 @@
+{
+  "id": "940803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตะโละไกรทอง",
+    "en": "Talo Krai Thong",
+    "slug": "talo-krai-thong"
+  },
+  "code": {
+    "dopa": "940803"
+  },
+  "parent": {
+    "id": "9408",
+    "level": 2,
+    "name": {
+      "th": "ไม้แก่น",
+      "en": "Mai Kaen",
+      "slug": "mai-kaen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9408",
+      "level": 2,
+      "name": {
+        "th": "ไม้แก่น",
+        "en": "Mai Kaen",
+        "slug": "mai-kaen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "94220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.627",
+    "lon": "101.640"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/talo-krai-thong-940803/"
+  }
+}

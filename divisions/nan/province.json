@@ -1,0 +1,38 @@
+{
+  "id": "55",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "น่าน",
+    "en": "Nan",
+    "slug": "nan"
+  },
+  "code": {
+    "dopa": "55",
+    "iso": "TH-55"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 15,
+    "subdistricts": 99,
+    "villages": 921
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern"
+    }
+  },
+  "geo": {
+    "lat": "18.793",
+    "lon": "100.786"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/nan-55/"
+  }
+}

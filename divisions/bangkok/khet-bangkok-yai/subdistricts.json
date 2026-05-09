@@ -1,0 +1,124 @@
+[
+  {
+    "id": "101601",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง วัดอรุณ",
+      "en": "Wat Arun",
+      "slug": "wat-arun"
+    },
+    "code": {
+      "dopa": "101601"
+    },
+    "parent": {
+      "id": "1016",
+      "level": 2,
+      "name": {
+        "th": "เขต บางกอกใหญ่",
+        "en": "Khet Bangkok Yai",
+        "slug": "khet-bangkok-yai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1016",
+        "level": 2,
+        "name": {
+          "th": "เขต บางกอกใหญ่",
+          "en": "Khet Bangkok Yai",
+          "slug": "khet-bangkok-yai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10600"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.743",
+      "lon": "100.486"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/wat-arun-101601/"
+    }
+  },
+  {
+    "id": "101602",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง วัดท่าพระ",
+      "en": "Wat Tha Phra",
+      "slug": "wat-tha-phra"
+    },
+    "code": {
+      "dopa": "101602"
+    },
+    "parent": {
+      "id": "1016",
+      "level": 2,
+      "name": {
+        "th": "เขต บางกอกใหญ่",
+        "en": "Khet Bangkok Yai",
+        "slug": "khet-bangkok-yai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1016",
+        "level": 2,
+        "name": {
+          "th": "เขต บางกอกใหญ่",
+          "en": "Khet Bangkok Yai",
+          "slug": "khet-bangkok-yai"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10600"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.733",
+      "lon": "100.475"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/wat-tha-phra-101602/"
+    }
+  }
+]

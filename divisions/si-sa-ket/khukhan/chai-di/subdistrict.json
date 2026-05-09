@@ -1,0 +1,61 @@
+{
+  "id": "330503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ใจดี",
+    "en": "Chai Di",
+    "slug": "chai-di"
+  },
+  "code": {
+    "dopa": "330503"
+  },
+  "parent": {
+    "id": "3305",
+    "level": 2,
+    "name": {
+      "th": "ขุขันธ์",
+      "en": "Khukhan",
+      "slug": "khukhan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3305",
+      "level": 2,
+      "name": {
+        "th": "ขุขันธ์",
+        "en": "Khukhan",
+        "slug": "khukhan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "33140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.753",
+    "lon": "104.150"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chai-di-330503/"
+  }
+}

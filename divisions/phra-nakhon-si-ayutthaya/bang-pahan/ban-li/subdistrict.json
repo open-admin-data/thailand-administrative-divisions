@@ -1,0 +1,61 @@
+{
+  "id": "140713",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านลี่",
+    "en": "Ban Li",
+    "slug": "ban-li"
+  },
+  "code": {
+    "dopa": "140713"
+  },
+  "parent": {
+    "id": "1407",
+    "level": 2,
+    "name": {
+      "th": "บางปะหัน",
+      "en": "Bang Pahan",
+      "slug": "bang-pahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1407",
+      "level": 2,
+      "name": {
+        "th": "บางปะหัน",
+        "en": "Bang Pahan",
+        "slug": "bang-pahan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "13220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.449",
+    "lon": "100.521"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-li-140713/"
+  }
+}

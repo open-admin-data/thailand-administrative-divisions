@@ -1,0 +1,61 @@
+{
+  "id": "700710",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองข่อย",
+    "en": "Khlong Khoi",
+    "slug": "khlong-khoi"
+  },
+  "code": {
+    "dopa": "700710"
+  },
+  "parent": {
+    "id": "7007",
+    "level": 2,
+    "name": {
+      "th": "โพธาราม",
+      "en": "Photharam",
+      "slug": "photharam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7007",
+      "level": 2,
+      "name": {
+        "th": "โพธาราม",
+        "en": "Photharam",
+        "slug": "photharam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "70120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.675",
+    "lon": "99.827"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-khoi-700710/"
+  }
+}

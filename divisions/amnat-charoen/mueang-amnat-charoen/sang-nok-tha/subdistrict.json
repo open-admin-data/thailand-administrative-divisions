@@ -1,0 +1,61 @@
+{
+  "id": "370106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สร้างนกทา",
+    "en": "Sang Nok Tha",
+    "slug": "sang-nok-tha"
+  },
+  "code": {
+    "dopa": "370106"
+  },
+  "parent": {
+    "id": "3701",
+    "level": 2,
+    "name": {
+      "th": "เมืองอำนาจเจริญ",
+      "en": "Mueang Amnat Charoen",
+      "slug": "mueang-amnat-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    {
+      "id": "3701",
+      "level": 2,
+      "name": {
+        "th": "เมืองอำนาจเจริญ",
+        "en": "Mueang Amnat Charoen",
+        "slug": "mueang-amnat-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "37000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.841",
+    "lon": "104.750"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sang-nok-tha-370106/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "601502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปางสวรรค์",
+    "en": "Pang Sawan",
+    "slug": "pang-sawan"
+  },
+  "code": {
+    "dopa": "601502"
+  },
+  "parent": {
+    "id": "6015",
+    "level": 2,
+    "name": {
+      "th": "ชุมตาบง",
+      "en": "Chum Ta Bong",
+      "slug": "chum-ta-bong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6015",
+      "level": 2,
+      "name": {
+        "th": "ชุมตาบง",
+        "en": "Chum Ta Bong",
+        "slug": "chum-ta-bong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "60150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.688",
+    "lon": "99.560"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pang-sawan-601502/"
+  }
+}

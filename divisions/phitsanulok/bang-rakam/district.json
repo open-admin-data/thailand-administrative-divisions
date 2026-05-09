@@ -1,0 +1,50 @@
+{
+  "id": "6504",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บางระกำ",
+    "en": "Bang Rakam",
+    "slug": "bang-rakam"
+  },
+  "code": {
+    "dopa": "6504"
+  },
+  "parent": {
+    "id": "65",
+    "level": 1,
+    "name": {
+      "th": "พิษณุโลก",
+      "en": "Phitsanulok",
+      "slug": "phitsanulok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 142
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.665",
+    "lon": "100.164"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-rakam-6504/"
+  }
+}

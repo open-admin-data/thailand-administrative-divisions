@@ -1,0 +1,61 @@
+{
+  "id": "610209",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองสระ",
+    "en": "Nong Sa",
+    "slug": "nong-sa"
+  },
+  "code": {
+    "dopa": "610209"
+  },
+  "parent": {
+    "id": "6102",
+    "level": 2,
+    "name": {
+      "th": "ทัพทัน",
+      "en": "Thap Than",
+      "slug": "thap-than"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6102",
+      "level": 2,
+      "name": {
+        "th": "ทัพทัน",
+        "en": "Thap Than",
+        "slug": "thap-than"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "61120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.445",
+    "lon": "99.820"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-sa-610209/"
+  }
+}

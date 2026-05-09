@@ -1,0 +1,50 @@
+{
+  "id": "5504",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "นาน้อย",
+    "en": "Na Noi",
+    "slug": "na-noi"
+  },
+  "code": {
+    "dopa": "5504"
+  },
+  "parent": {
+    "id": "55",
+    "level": 1,
+    "name": {
+      "th": "น่าน",
+      "en": "Nan",
+      "slug": "nan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 68
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.313",
+    "lon": "100.681"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/na-noi-5504/"
+  }
+}

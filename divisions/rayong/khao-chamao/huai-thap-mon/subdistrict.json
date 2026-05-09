@@ -1,0 +1,61 @@
+{
+  "id": "210702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยทับมอญ",
+    "en": "Huai Thap Mon",
+    "slug": "huai-thap-mon"
+  },
+  "code": {
+    "dopa": "210702"
+  },
+  "parent": {
+    "id": "2107",
+    "level": 2,
+    "name": {
+      "th": "เขาชะเมา",
+      "en": "Khao Chamao",
+      "slug": "khao-chamao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2107",
+      "level": 2,
+      "name": {
+        "th": "เขาชะเมา",
+        "en": "Khao Chamao",
+        "slug": "khao-chamao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "21110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.027",
+    "lon": "101.686"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-thap-mon-210702/"
+  }
+}

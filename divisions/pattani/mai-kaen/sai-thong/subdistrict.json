@@ -1,0 +1,61 @@
+{
+  "id": "940801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไทรทอง",
+    "en": "Sai Thong",
+    "slug": "sai-thong"
+  },
+  "code": {
+    "dopa": "940801"
+  },
+  "parent": {
+    "id": "9408",
+    "level": 2,
+    "name": {
+      "th": "ไม้แก่น",
+      "en": "Mai Kaen",
+      "slug": "mai-kaen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9408",
+      "level": 2,
+      "name": {
+        "th": "ไม้แก่น",
+        "en": "Mai Kaen",
+        "slug": "mai-kaen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "94220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.604",
+    "lon": "101.673"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sai-thong-940801/"
+  }
+}

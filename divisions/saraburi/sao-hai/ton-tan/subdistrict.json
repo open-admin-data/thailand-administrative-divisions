@@ -1,0 +1,61 @@
+{
+  "id": "191006",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ต้นตาล",
+    "en": "Ton Tan",
+    "slug": "ton-tan"
+  },
+  "code": {
+    "dopa": "191006"
+  },
+  "parent": {
+    "id": "1910",
+    "level": 2,
+    "name": {
+      "th": "เสาไห้",
+      "en": "Sao Hai",
+      "slug": "sao-hai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1910",
+      "level": 2,
+      "name": {
+        "th": "เสาไห้",
+        "en": "Sao Hai",
+        "slug": "sao-hai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "18160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.574",
+    "lon": "100.885"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ton-tan-191006/"
+  }
+}

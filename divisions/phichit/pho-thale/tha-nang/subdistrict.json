@@ -1,0 +1,61 @@
+{
+  "id": "660611",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่านั่ง",
+    "en": "Tha Nang",
+    "slug": "tha-nang"
+  },
+  "code": {
+    "dopa": "660611"
+  },
+  "parent": {
+    "id": "6606",
+    "level": 2,
+    "name": {
+      "th": "โพทะเล",
+      "en": "Pho Thale",
+      "slug": "pho-thale"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6606",
+      "level": 2,
+      "name": {
+        "th": "โพทะเล",
+        "en": "Pho Thale",
+        "slug": "pho-thale"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "66130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.963",
+    "lon": "100.276"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-nang-660611/"
+  }
+}

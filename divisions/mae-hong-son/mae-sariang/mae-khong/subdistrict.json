@@ -1,0 +1,61 @@
+{
+  "id": "580403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่คง",
+    "en": "Mae Khong",
+    "slug": "mae-khong"
+  },
+  "code": {
+    "dopa": "580403"
+  },
+  "parent": {
+    "id": "5804",
+    "level": 2,
+    "name": {
+      "th": "แม่สะเรียง",
+      "en": "Mae Sariang",
+      "slug": "mae-sariang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    },
+    {
+      "id": "5804",
+      "level": 2,
+      "name": {
+        "th": "แม่สะเรียง",
+        "en": "Mae Sariang",
+        "slug": "mae-sariang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "58110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.237",
+    "lon": "97.638"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-khong-580403/"
+  }
+}

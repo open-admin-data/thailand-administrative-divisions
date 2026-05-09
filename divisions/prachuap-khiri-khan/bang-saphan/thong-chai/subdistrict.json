@@ -1,0 +1,61 @@
+{
+  "id": "770404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ธงชัย",
+    "en": "Thong Chai",
+    "slug": "thong-chai"
+  },
+  "code": {
+    "dopa": "770404"
+  },
+  "parent": {
+    "id": "7704",
+    "level": 2,
+    "name": {
+      "th": "บางสะพาน",
+      "en": "Bang Saphan",
+      "slug": "bang-saphan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    },
+    {
+      "id": "7704",
+      "level": 2,
+      "name": {
+        "th": "บางสะพาน",
+        "en": "Bang Saphan",
+        "slug": "bang-saphan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "77190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "11.318",
+    "lon": "99.525"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thong-chai-770404/"
+  }
+}

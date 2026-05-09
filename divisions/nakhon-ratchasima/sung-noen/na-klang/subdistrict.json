@@ -1,0 +1,61 @@
+{
+  "id": "301809",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นากลาง",
+    "en": "Na Klang",
+    "slug": "na-klang"
+  },
+  "code": {
+    "dopa": "301809"
+  },
+  "parent": {
+    "id": "3018",
+    "level": 2,
+    "name": {
+      "th": "สูงเนิน",
+      "en": "Sung Noen",
+      "slug": "sung-noen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3018",
+      "level": 2,
+      "name": {
+        "th": "สูงเนิน",
+        "en": "Sung Noen",
+        "slug": "sung-noen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "30380"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.855",
+    "lon": "101.942"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-klang-301809/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "521007",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนไฟ",
+    "en": "Don Fai",
+    "slug": "don-fai"
+  },
+  "code": {
+    "dopa": "521007"
+  },
+  "parent": {
+    "id": "5210",
+    "level": 2,
+    "name": {
+      "th": "แม่ทะ",
+      "en": "Mae Tha",
+      "slug": "mae-tha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5210",
+      "level": 2,
+      "name": {
+        "th": "แม่ทะ",
+        "en": "Mae Tha",
+        "slug": "mae-tha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "52150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.104",
+    "lon": "99.671"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-fai-521007/"
+  }
+}

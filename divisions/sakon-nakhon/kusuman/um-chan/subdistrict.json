@@ -1,0 +1,61 @@
+{
+  "id": "470205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อุ่มจาน",
+    "en": "Um Chan",
+    "slug": "um-chan"
+  },
+  "code": {
+    "dopa": "470205"
+  },
+  "parent": {
+    "id": "4702",
+    "level": 2,
+    "name": {
+      "th": "กุสุมาลย์",
+      "en": "Kusuman",
+      "slug": "kusuman"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4702",
+      "level": 2,
+      "name": {
+        "th": "กุสุมาลย์",
+        "en": "Kusuman",
+        "slug": "kusuman"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "47230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.350",
+    "lon": "104.137"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/um-chan-470205/"
+  }
+}

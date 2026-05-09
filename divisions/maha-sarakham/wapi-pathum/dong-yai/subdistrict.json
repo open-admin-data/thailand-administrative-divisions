@@ -1,0 +1,61 @@
+{
+  "id": "440904",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงใหญ่",
+    "en": "Dong Yai",
+    "slug": "dong-yai"
+  },
+  "code": {
+    "dopa": "440904"
+  },
+  "parent": {
+    "id": "4409",
+    "level": 2,
+    "name": {
+      "th": "วาปีปทุม",
+      "en": "Wapi Pathum",
+      "slug": "wapi-pathum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4409",
+      "level": 2,
+      "name": {
+        "th": "วาปีปทุม",
+        "en": "Wapi Pathum",
+        "slug": "wapi-pathum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "44120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.898",
+    "lon": "103.308"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-yai-440904/"
+  }
+}

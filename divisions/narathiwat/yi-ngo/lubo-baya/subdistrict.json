@@ -1,0 +1,61 @@
+{
+  "id": "960404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลุโบะบายะ",
+    "en": "Lubo Baya",
+    "slug": "lubo-baya"
+  },
+  "code": {
+    "dopa": "960404"
+  },
+  "parent": {
+    "id": "9604",
+    "level": 2,
+    "name": {
+      "th": "ยี่งอ",
+      "en": "Yi-ngo",
+      "slug": "yi-ngo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9604",
+      "level": 2,
+      "name": {
+        "th": "ยี่งอ",
+        "en": "Yi-ngo",
+        "slug": "yi-ngo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "96180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.422",
+    "lon": "101.663"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lubo-baya-960404/"
+  }
+}

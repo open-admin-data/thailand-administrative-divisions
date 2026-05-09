@@ -1,0 +1,38 @@
+{
+  "id": "26",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "นครนายก",
+    "en": "Nakhon Nayok",
+    "slug": "nakhon-nayok"
+  },
+  "code": {
+    "dopa": "26",
+    "iso": "TH-26"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 4,
+    "subdistricts": 41,
+    "villages": 434
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central"
+    }
+  },
+  "geo": {
+    "lat": "14.204",
+    "lon": "101.219"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/nakhon-nayok-26/"
+  }
+}

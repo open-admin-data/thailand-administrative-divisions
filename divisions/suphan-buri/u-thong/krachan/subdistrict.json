@@ -1,0 +1,61 @@
+{
+  "id": "720913",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กระจัน",
+    "en": "Krachan",
+    "slug": "krachan"
+  },
+  "code": {
+    "dopa": "720913"
+  },
+  "parent": {
+    "id": "7209",
+    "level": 2,
+    "name": {
+      "th": "อู่ทอง",
+      "en": "U Thong",
+      "slug": "u-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7209",
+      "level": 2,
+      "name": {
+        "th": "อู่ทอง",
+        "en": "U Thong",
+        "slug": "u-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "72160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.367",
+    "lon": "99.928"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/krachan-720913/"
+  }
+}

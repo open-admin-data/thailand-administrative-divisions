@@ -1,0 +1,61 @@
+{
+  "id": "560512",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คือเวียง",
+    "en": "Khue Wiang",
+    "slug": "khue-wiang"
+  },
+  "code": {
+    "dopa": "560512"
+  },
+  "parent": {
+    "id": "5605",
+    "level": 2,
+    "name": {
+      "th": "ดอกคำใต้",
+      "en": "Dok Khamtai",
+      "slug": "dok-khamtai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5605",
+      "level": 2,
+      "name": {
+        "th": "ดอกคำใต้",
+        "en": "Dok Khamtai",
+        "slug": "dok-khamtai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "56120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.085",
+    "lon": "100.014"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khue-wiang-560512/"
+  }
+}

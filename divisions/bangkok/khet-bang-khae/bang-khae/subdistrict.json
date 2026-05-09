@@ -1,0 +1,61 @@
+{
+  "id": "104001",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง บางแค",
+    "en": "Bang Khae",
+    "slug": "bang-khae"
+  },
+  "code": {
+    "dopa": "104001"
+  },
+  "parent": {
+    "id": "1040",
+    "level": 2,
+    "name": {
+      "th": "เขต บางแค",
+      "en": "Khet Bang Khae",
+      "slug": "khet-bang-khae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1040",
+      "level": 2,
+      "name": {
+        "th": "เขต บางแค",
+        "en": "Khet Bang Khae",
+        "slug": "khet-bang-khae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10160"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.698",
+    "lon": "100.409"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-khae-104001/"
+  }
+}

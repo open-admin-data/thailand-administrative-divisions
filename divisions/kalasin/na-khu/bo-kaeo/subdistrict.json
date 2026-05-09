@@ -1,0 +1,61 @@
+{
+  "id": "461604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อแก้ว",
+    "en": "Bo Kaeo",
+    "slug": "bo-kaeo"
+  },
+  "code": {
+    "dopa": "461604"
+  },
+  "parent": {
+    "id": "4616",
+    "level": 2,
+    "name": {
+      "th": "นาคู",
+      "en": "Na Khu",
+      "slug": "na-khu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4616",
+      "level": 2,
+      "name": {
+        "th": "นาคู",
+        "en": "Na Khu",
+        "slug": "na-khu"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "46160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.791",
+    "lon": "103.994"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-kaeo-461604/"
+  }
+}

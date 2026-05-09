@@ -1,0 +1,50 @@
+{
+  "id": "1105",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พระสมุทรเจดีย์",
+    "en": "Phra Samut Chedi",
+    "slug": "phra-samut-chedi"
+  },
+  "code": {
+    "dopa": "1105"
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 42
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.606",
+    "lon": "100.567"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phra-samut-chedi-1105/"
+  }
+}

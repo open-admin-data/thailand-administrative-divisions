@@ -1,0 +1,61 @@
+{
+  "id": "110112",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เทศบาลบางปู",
+    "en": "Bang Pu",
+    "slug": "bang-pu"
+  },
+  "code": {
+    "dopa": "110112"
+  },
+  "parent": {
+    "id": "1101",
+    "level": 2,
+    "name": {
+      "th": "เมืองสมุทรปราการ",
+      "en": "Mueang Samut Prakan",
+      "slug": "mueang-samut-prakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรปราการ",
+        "en": "Mueang Samut Prakan",
+        "slug": "mueang-samut-prakan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "94150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.510",
+    "lon": "100.751"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-pu-110112/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "150203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชัยฤทธิ์",
+    "en": "Chaiyarit",
+    "slug": "chaiyarit"
+  },
+  "code": {
+    "dopa": "150203"
+  },
+  "parent": {
+    "id": "1502",
+    "level": 2,
+    "name": {
+      "th": "ไชโย",
+      "en": "Chaiyo",
+      "slug": "chaiyo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1502",
+      "level": 2,
+      "name": {
+        "th": "ไชโย",
+        "en": "Chaiyo",
+        "slug": "chaiyo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "14140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.637",
+    "lon": "100.472"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chaiyarit-150203/"
+  }
+}

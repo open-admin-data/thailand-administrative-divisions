@@ -1,0 +1,61 @@
+{
+  "id": "330403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมือง",
+    "en": "Mueang",
+    "slug": "mueang"
+  },
+  "code": {
+    "dopa": "330403"
+  },
+  "parent": {
+    "id": "3304",
+    "level": 2,
+    "name": {
+      "th": "กันทรลักษ์",
+      "en": "Kantharalak",
+      "slug": "kantharalak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3304",
+      "level": 2,
+      "name": {
+        "th": "กันทรลักษ์",
+        "en": "Kantharalak",
+        "slug": "kantharalak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "33110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.582",
+    "lon": "104.670"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-330403/"
+  }
+}

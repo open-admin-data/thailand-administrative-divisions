@@ -1,0 +1,61 @@
+{
+  "id": "720106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกโคเฒ่า",
+    "en": "Khok Kho Thao",
+    "slug": "khok-kho-thao"
+  },
+  "code": {
+    "dopa": "720106"
+  },
+  "parent": {
+    "id": "7201",
+    "level": 2,
+    "name": {
+      "th": "เมืองสุพรรณบุรี",
+      "en": "Mueang Suphan Buri",
+      "slug": "mueang-suphan-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7201",
+      "level": 2,
+      "name": {
+        "th": "เมืองสุพรรณบุรี",
+        "en": "Mueang Suphan Buri",
+        "slug": "mueang-suphan-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "72000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.464",
+    "lon": "100.233"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-kho-thao-720106/"
+  }
+}

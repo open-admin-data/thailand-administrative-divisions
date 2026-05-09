@@ -1,0 +1,38 @@
+{
+  "id": "96",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "นราธิวาส",
+    "en": "Narathiwat",
+    "slug": "narathiwat"
+  },
+  "code": {
+    "dopa": "96",
+    "iso": "TH-96"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 13,
+    "subdistricts": 77,
+    "villages": 671
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern"
+    }
+  },
+  "geo": {
+    "lat": "6.424",
+    "lon": "101.820"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/narathiwat-96/"
+  }
+}

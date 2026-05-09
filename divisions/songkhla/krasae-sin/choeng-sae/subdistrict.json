@@ -1,0 +1,61 @@
+{
+  "id": "900803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เชิงแส",
+    "en": "Choeng Sae",
+    "slug": "choeng-sae"
+  },
+  "code": {
+    "dopa": "900803"
+  },
+  "parent": {
+    "id": "9008",
+    "level": 2,
+    "name": {
+      "th": "กระแสสินธุ์",
+      "en": "Krasae Sin",
+      "slug": "krasae-sin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9008",
+      "level": 2,
+      "name": {
+        "th": "กระแสสินธุ์",
+        "en": "Krasae Sin",
+        "slug": "krasae-sin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "90270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.634",
+    "lon": "100.332"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/choeng-sae-900803/"
+  }
+}

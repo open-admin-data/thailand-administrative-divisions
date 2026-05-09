@@ -1,0 +1,61 @@
+{
+  "id": "450104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขอนแก่น",
+    "en": "Khon Kaen",
+    "slug": "khon-kaen"
+  },
+  "code": {
+    "dopa": "450104"
+  },
+  "parent": {
+    "id": "4501",
+    "level": 2,
+    "name": {
+      "th": "เมืองร้อยเอ็ด",
+      "en": "Mueang Roi Et",
+      "slug": "mueang-roi-et"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4501",
+      "level": 2,
+      "name": {
+        "th": "เมืองร้อยเอ็ด",
+        "en": "Mueang Roi Et",
+        "slug": "mueang-roi-et"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "45000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.025",
+    "lon": "103.591"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khon-kaen-450104/"
+  }
+}

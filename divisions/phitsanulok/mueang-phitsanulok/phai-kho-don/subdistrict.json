@@ -1,0 +1,61 @@
+{
+  "id": "650119",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไผ่ขอดอน",
+    "en": "Phai Kho Don",
+    "slug": "phai-kho-don"
+  },
+  "code": {
+    "dopa": "650119"
+  },
+  "parent": {
+    "id": "6501",
+    "level": 2,
+    "name": {
+      "th": "เมืองพิษณุโลก",
+      "en": "Mueang Phitsanulok",
+      "slug": "mueang-phitsanulok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6501",
+      "level": 2,
+      "name": {
+        "th": "เมืองพิษณุโลก",
+        "en": "Mueang Phitsanulok",
+        "slug": "mueang-phitsanulok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "65000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.911",
+    "lon": "100.158"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phai-kho-don-650119/"
+  }
+}

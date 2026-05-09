@@ -1,0 +1,61 @@
+{
+  "id": "320716",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทับใหญ่",
+    "en": "Thap Ya",
+    "slug": "thap-ya"
+  },
+  "code": {
+    "dopa": "320716"
+  },
+  "parent": {
+    "id": "3207",
+    "level": 2,
+    "name": {
+      "th": "รัตนบุรี",
+      "en": "Rattanaburi",
+      "slug": "rattanaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "th": "รัตนบุรี",
+        "en": "Rattanaburi",
+        "slug": "rattanaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "32130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.410",
+    "lon": "103.890"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thap-ya-320716/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "240213",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เสม็ดใต้",
+    "en": "Samet Tai",
+    "slug": "samet-tai"
+  },
+  "code": {
+    "dopa": "240213"
+  },
+  "parent": {
+    "id": "2402",
+    "level": 2,
+    "name": {
+      "th": "บางคล้า",
+      "en": "Bang Khla",
+      "slug": "bang-khla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2402",
+      "level": 2,
+      "name": {
+        "th": "บางคล้า",
+        "en": "Bang Khla",
+        "slug": "bang-khla"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "24110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.653",
+    "lon": "101.162"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samet-tai-240213/"
+  }
+}

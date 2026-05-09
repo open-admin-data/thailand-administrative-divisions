@@ -1,0 +1,61 @@
+{
+  "id": "801306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ควนชุม",
+    "en": "Khuan Chum",
+    "slug": "khuan-chum"
+  },
+  "code": {
+    "dopa": "801306"
+  },
+  "parent": {
+    "id": "8013",
+    "level": 2,
+    "name": {
+      "th": "ร่อนพิบูลย์",
+      "en": "Ron Phibun",
+      "slug": "ron-phibun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8013",
+      "level": 2,
+      "name": {
+        "th": "ร่อนพิบูลย์",
+        "en": "Ron Phibun",
+        "slug": "ron-phibun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "80130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.183",
+    "lon": "99.919"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khuan-chum-801306/"
+  }
+}

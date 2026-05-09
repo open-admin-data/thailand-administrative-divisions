@@ -1,0 +1,61 @@
+{
+  "id": "330207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยางชุมใหญ่",
+    "en": "Yang Chum Yai",
+    "slug": "yang-chum-yai"
+  },
+  "code": {
+    "dopa": "330207"
+  },
+  "parent": {
+    "id": "3302",
+    "level": 2,
+    "name": {
+      "th": "ยางชุมน้อย",
+      "en": "Yang Chum Noi",
+      "slug": "yang-chum-noi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "th": "ยางชุมน้อย",
+        "en": "Yang Chum Noi",
+        "slug": "yang-chum-noi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "33190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.212",
+    "lon": "104.413"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yang-chum-yai-330207/"
+  }
+}

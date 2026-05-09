@@ -1,0 +1,61 @@
+{
+  "id": "501006",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านหลวง",
+    "en": "Ban Luang",
+    "slug": "ban-luang"
+  },
+  "code": {
+    "dopa": "501006"
+  },
+  "parent": {
+    "id": "5010",
+    "level": 2,
+    "name": {
+      "th": "แม่อาย",
+      "en": "Mae Ai",
+      "slug": "mae-ai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5010",
+      "level": 2,
+      "name": {
+        "th": "แม่อาย",
+        "en": "Mae Ai",
+        "slug": "mae-ai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "50280"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.871",
+    "lon": "99.343"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-luang-501006/"
+  }
+}

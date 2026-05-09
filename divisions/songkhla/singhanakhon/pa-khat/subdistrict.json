@@ -1,0 +1,61 @@
+{
+  "id": "901508",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าขาด",
+    "en": "Pa Khat",
+    "slug": "pa-khat"
+  },
+  "code": {
+    "dopa": "901508"
+  },
+  "parent": {
+    "id": "9015",
+    "level": 2,
+    "name": {
+      "th": "สิงหนคร",
+      "en": "Singhanakhon",
+      "slug": "singhanakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9015",
+      "level": 2,
+      "name": {
+        "th": "สิงหนคร",
+        "en": "Singhanakhon",
+        "slug": "singhanakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "90330"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.241",
+    "lon": "100.469"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-khat-901508/"
+  }
+}

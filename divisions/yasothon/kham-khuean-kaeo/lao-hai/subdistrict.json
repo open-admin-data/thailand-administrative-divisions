@@ -1,0 +1,61 @@
+{
+  "id": "350411",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เหล่าไฮ",
+    "en": "Lao Hai",
+    "slug": "lao-hai"
+  },
+  "code": {
+    "dopa": "350411"
+  },
+  "parent": {
+    "id": "3504",
+    "level": 2,
+    "name": {
+      "th": "คำเขื่อนแก้ว",
+      "en": "Kham Khuean Kaeo",
+      "slug": "kham-khuean-kaeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3504",
+      "level": 2,
+      "name": {
+        "th": "คำเขื่อนแก้ว",
+        "en": "Kham Khuean Kaeo",
+        "slug": "kham-khuean-kaeo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "35110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.724",
+    "lon": "104.382"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lao-hai-350411/"
+  }
+}

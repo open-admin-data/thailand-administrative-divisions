@@ -1,0 +1,61 @@
+{
+  "id": "270206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เบญจขร",
+    "en": "Benchakhon",
+    "slug": "benchakhon"
+  },
+  "code": {
+    "dopa": "270206"
+  },
+  "parent": {
+    "id": "2702",
+    "level": 2,
+    "name": {
+      "th": "คลองหาด",
+      "en": "Khlong Hat",
+      "slug": "khlong-hat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    },
+    {
+      "id": "2702",
+      "level": 2,
+      "name": {
+        "th": "คลองหาด",
+        "en": "Khlong Hat",
+        "slug": "khlong-hat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "27260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.542",
+    "lon": "102.307"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/benchakhon-270206/"
+  }
+}

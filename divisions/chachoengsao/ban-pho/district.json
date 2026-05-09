@@ -1,0 +1,50 @@
+{
+  "id": "2405",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านโพธิ์",
+    "en": "Ban Pho",
+    "slug": "ban-pho"
+  },
+  "code": {
+    "dopa": "2405"
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "th": "ฉะเชิงเทรา",
+      "en": "Chachoengsao",
+      "slug": "chachoengsao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 17,
+    "villages": 73
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.633",
+    "lon": "101.078"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-pho-2405/"
+  }
+}

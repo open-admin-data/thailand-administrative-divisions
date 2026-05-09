@@ -1,0 +1,50 @@
+{
+  "id": "1801",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองชัยนาท",
+    "en": "Chai Nat",
+    "slug": "chai-nat"
+  },
+  "code": {
+    "dopa": "1801"
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "th": "ชัยนาท",
+      "en": "Chai Nat",
+      "slug": "chai-nat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 100
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.181",
+    "lon": "100.127"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chai-nat-1801/"
+  }
+}

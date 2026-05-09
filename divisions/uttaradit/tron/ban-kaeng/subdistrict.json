@@ -1,0 +1,61 @@
+{
+  "id": "530202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านแก่ง",
+    "en": "Ban Kaeng",
+    "slug": "ban-kaeng"
+  },
+  "code": {
+    "dopa": "530202"
+  },
+  "parent": {
+    "id": "5302",
+    "level": 2,
+    "name": {
+      "th": "ตรอน",
+      "en": "Tron",
+      "slug": "tron"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5302",
+      "level": 2,
+      "name": {
+        "th": "ตรอน",
+        "en": "Tron",
+        "slug": "tron"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "53140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.441",
+    "lon": "100.158"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-kaeng-530202/"
+  }
+}

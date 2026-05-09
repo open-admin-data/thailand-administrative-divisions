@@ -1,0 +1,61 @@
+{
+  "id": "490514",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำเที่ยง",
+    "en": "Nam Thiang",
+    "slug": "nam-thiang"
+  },
+  "code": {
+    "dopa": "490514"
+  },
+  "parent": {
+    "id": "4905",
+    "level": 2,
+    "name": {
+      "th": "คำชะอี",
+      "en": "Khamcha-i",
+      "slug": "khamcha-i"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4905",
+      "level": 2,
+      "name": {
+        "th": "คำชะอี",
+        "en": "Khamcha-i",
+        "slug": "khamcha-i"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "49110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.569",
+    "lon": "104.398"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-thiang-490514/"
+  }
+}

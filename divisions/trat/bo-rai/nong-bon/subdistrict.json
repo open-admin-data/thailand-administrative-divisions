@@ -1,0 +1,61 @@
+{
+  "id": "230404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองบอน",
+    "en": "Nong Bon",
+    "slug": "nong-bon"
+  },
+  "code": {
+    "dopa": "230404"
+  },
+  "parent": {
+    "id": "2304",
+    "level": 2,
+    "name": {
+      "th": "บ่อไร่",
+      "en": "Bo Rai",
+      "slug": "bo-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "th": "ตราด",
+        "en": "Trat",
+        "slug": "trat"
+      }
+    },
+    {
+      "id": "2304",
+      "level": 2,
+      "name": {
+        "th": "บ่อไร่",
+        "en": "Bo Rai",
+        "slug": "bo-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "23140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.683",
+    "lon": "102.447"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-bon-230404/"
+  }
+}

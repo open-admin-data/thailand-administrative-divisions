@@ -1,0 +1,61 @@
+{
+  "id": "660804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท้ายทุ่ง",
+    "en": "Tai Toong",
+    "slug": "tai-toong"
+  },
+  "code": {
+    "dopa": "660804"
+  },
+  "parent": {
+    "id": "6608",
+    "level": 2,
+    "name": {
+      "th": "ทับคล้อ",
+      "en": "Thap Khlo",
+      "slug": "thap-khlo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6608",
+      "level": 2,
+      "name": {
+        "th": "ทับคล้อ",
+        "en": "Thap Khlo",
+        "slug": "thap-khlo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "66150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.086",
+    "lon": "100.618"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tai-toong-660804/"
+  }
+}

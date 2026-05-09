@@ -1,0 +1,61 @@
+{
+  "id": "140307",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางพระครู",
+    "en": "Bang Phra Khru",
+    "slug": "bang-phra-khru"
+  },
+  "code": {
+    "dopa": "140307"
+  },
+  "parent": {
+    "id": "1403",
+    "level": 2,
+    "name": {
+      "th": "นครหลวง",
+      "en": "Nakhon Luang",
+      "slug": "nakhon-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1403",
+      "level": 2,
+      "name": {
+        "th": "นครหลวง",
+        "en": "Nakhon Luang",
+        "slug": "nakhon-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "13260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.483",
+    "lon": "100.613"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-phra-khru-140307/"
+  }
+}

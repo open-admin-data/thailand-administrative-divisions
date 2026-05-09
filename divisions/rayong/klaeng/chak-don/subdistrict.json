@@ -1,0 +1,61 @@
+{
+  "id": "210303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชากโดน",
+    "en": "Chak Don",
+    "slug": "chak-don"
+  },
+  "code": {
+    "dopa": "210303"
+  },
+  "parent": {
+    "id": "2103",
+    "level": 2,
+    "name": {
+      "th": "แกลง",
+      "en": "Klaeng",
+      "slug": "klaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "th": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "21110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.700",
+    "lon": "101.604"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chak-don-210303/"
+  }
+}

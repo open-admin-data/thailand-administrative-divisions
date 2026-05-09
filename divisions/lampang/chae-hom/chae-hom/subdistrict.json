@@ -1,0 +1,61 @@
+{
+  "id": "520601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แจ้ห่ม",
+    "en": "Chae Hom",
+    "slug": "chae-hom"
+  },
+  "code": {
+    "dopa": "520601"
+  },
+  "parent": {
+    "id": "5206",
+    "level": 2,
+    "name": {
+      "th": "แจ้ห่ม",
+      "en": "Chae Hom",
+      "slug": "chae-hom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5206",
+      "level": 2,
+      "name": {
+        "th": "แจ้ห่ม",
+        "en": "Chae Hom",
+        "slug": "chae-hom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "52120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.700",
+    "lon": "99.616"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chae-hom-520601/"
+  }
+}

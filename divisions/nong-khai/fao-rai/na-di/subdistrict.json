@@ -1,0 +1,61 @@
+{
+  "id": "431502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาดี",
+    "en": "Na Di",
+    "slug": "na-di"
+  },
+  "code": {
+    "dopa": "431502"
+  },
+  "parent": {
+    "id": "4315",
+    "level": 2,
+    "name": {
+      "th": "เฝ้าไร่",
+      "en": "Fao Rai",
+      "slug": "fao-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4315",
+      "level": 2,
+      "name": {
+        "th": "เฝ้าไร่",
+        "en": "Fao Rai",
+        "slug": "fao-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "43120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.999",
+    "lon": "103.366"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-di-431502/"
+  }
+}

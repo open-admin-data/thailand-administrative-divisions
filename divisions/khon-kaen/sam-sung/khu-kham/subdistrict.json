@@ -1,0 +1,61 @@
+{
+  "id": "402104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คูคำ",
+    "en": "Khu Kham",
+    "slug": "khu-kham"
+  },
+  "code": {
+    "dopa": "402104"
+  },
+  "parent": {
+    "id": "4021",
+    "level": 2,
+    "name": {
+      "th": "ซำสูง",
+      "en": "Sam Sung",
+      "slug": "sam-sung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4021",
+      "level": 2,
+      "name": {
+        "th": "ซำสูง",
+        "en": "Sam Sung",
+        "slug": "sam-sung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "40170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.508",
+    "lon": "103.014"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khu-kham-402104/"
+  }
+}

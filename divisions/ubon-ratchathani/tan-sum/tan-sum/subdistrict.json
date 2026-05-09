@@ -1,0 +1,61 @@
+{
+  "id": "342001",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตาลสุม",
+    "en": "Tan Sum",
+    "slug": "tan-sum"
+  },
+  "code": {
+    "dopa": "342001"
+  },
+  "parent": {
+    "id": "3420",
+    "level": 2,
+    "name": {
+      "th": "ตาลสุม",
+      "en": "Tan Sum",
+      "slug": "tan-sum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3420",
+      "level": 2,
+      "name": {
+        "th": "ตาลสุม",
+        "en": "Tan Sum",
+        "slug": "tan-sum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "34330"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.326",
+    "lon": "105.156"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tan-sum-342001/"
+  }
+}

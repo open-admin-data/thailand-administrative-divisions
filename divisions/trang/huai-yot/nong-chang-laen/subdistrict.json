@@ -1,0 +1,61 @@
+{
+  "id": "920602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองช้างแล่น",
+    "en": "Nong Chang Laen",
+    "slug": "nong-chang-laen"
+  },
+  "code": {
+    "dopa": "920602"
+  },
+  "parent": {
+    "id": "9206",
+    "level": 2,
+    "name": {
+      "th": "ห้วยยอด",
+      "en": "Huai Yot",
+      "slug": "huai-yot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9206",
+      "level": 2,
+      "name": {
+        "th": "ห้วยยอด",
+        "en": "Huai Yot",
+        "slug": "huai-yot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "92130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.840",
+    "lon": "99.585"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-chang-laen-920602/"
+  }
+}

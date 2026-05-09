@@ -1,0 +1,50 @@
+{
+  "id": "2107",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขาชะเมา",
+    "en": "Khao Chamao",
+    "slug": "khao-chamao"
+  },
+  "code": {
+    "dopa": "2107"
+  },
+  "parent": {
+    "id": "21",
+    "level": 1,
+    "name": {
+      "th": "ระยอง",
+      "en": "Rayong",
+      "slug": "rayong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 29
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.062",
+    "lon": "101.617"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khao-chamao-2107/"
+  }
+}

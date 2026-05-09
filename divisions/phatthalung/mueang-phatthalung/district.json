@@ -1,0 +1,50 @@
+{
+  "id": "9301",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองพัทลุง",
+    "en": "Mueang Phatthalung",
+    "slug": "mueang-phatthalung"
+  },
+  "code": {
+    "dopa": "9301"
+  },
+  "parent": {
+    "id": "93",
+    "level": 1,
+    "name": {
+      "th": "พัทลุง",
+      "en": "Phatthalung",
+      "slug": "phatthalung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 14,
+    "villages": 189
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.589",
+    "lon": "100.050"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-phatthalung-9301/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "2206",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แหลมสิงห์",
+    "en": "Laem Sing",
+    "slug": "laem-sing"
+  },
+  "code": {
+    "dopa": "2206"
+  },
+  "parent": {
+    "id": "22",
+    "level": 1,
+    "name": {
+      "th": "จันทบุรี",
+      "en": "Chanthaburi",
+      "slug": "chanthaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 65
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.465",
+    "lon": "102.066"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/laem-sing-2206/"
+  }
+}

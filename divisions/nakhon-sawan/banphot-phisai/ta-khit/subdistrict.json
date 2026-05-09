@@ -1,0 +1,61 @@
+{
+  "id": "600507",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตาขีด",
+    "en": "Ta Khit",
+    "slug": "ta-khit"
+  },
+  "code": {
+    "dopa": "600507"
+  },
+  "parent": {
+    "id": "6005",
+    "level": 2,
+    "name": {
+      "th": "บรรพตพิสัย",
+      "en": "Banphot Phisai",
+      "slug": "banphot-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6005",
+      "level": 2,
+      "name": {
+        "th": "บรรพตพิสัย",
+        "en": "Banphot Phisai",
+        "slug": "banphot-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "60180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.017",
+    "lon": "99.917"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ta-khit-600507/"
+  }
+}

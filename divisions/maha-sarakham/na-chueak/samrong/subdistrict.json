@@ -1,0 +1,61 @@
+{
+  "id": "440702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สำโรง",
+    "en": "Samrong",
+    "slug": "samrong"
+  },
+  "code": {
+    "dopa": "440702"
+  },
+  "parent": {
+    "id": "4407",
+    "level": 2,
+    "name": {
+      "th": "นาเชือก",
+      "en": "Na Chueak",
+      "slug": "na-chueak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4407",
+      "level": 2,
+      "name": {
+        "th": "นาเชือก",
+        "en": "Na Chueak",
+        "slug": "na-chueak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "44170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.870",
+    "lon": "103.007"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samrong-440702/"
+  }
+}

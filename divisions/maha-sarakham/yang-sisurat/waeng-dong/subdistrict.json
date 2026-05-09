@@ -1,0 +1,61 @@
+{
+  "id": "441103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แวงดง",
+    "en": "Waeng Dong",
+    "slug": "waeng-dong"
+  },
+  "code": {
+    "dopa": "441103"
+  },
+  "parent": {
+    "id": "4411",
+    "level": 2,
+    "name": {
+      "th": "ยางสีสุราช",
+      "en": "Yang Sisurat",
+      "slug": "yang-sisurat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4411",
+      "level": 2,
+      "name": {
+        "th": "ยางสีสุราช",
+        "en": "Yang Sisurat",
+        "slug": "yang-sisurat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "44210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.638",
+    "lon": "103.035"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/waeng-dong-441103/"
+  }
+}

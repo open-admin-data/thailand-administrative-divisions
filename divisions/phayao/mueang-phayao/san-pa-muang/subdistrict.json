@@ -1,0 +1,61 @@
+{
+  "id": "560118",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สันป่าม่วง",
+    "en": "San Pa Muang",
+    "slug": "san-pa-muang"
+  },
+  "code": {
+    "dopa": "560118"
+  },
+  "parent": {
+    "id": "5601",
+    "level": 2,
+    "name": {
+      "th": "เมืองพะเยา",
+      "en": "Mueang Phayao",
+      "slug": "mueang-phayao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5601",
+      "level": 2,
+      "name": {
+        "th": "เมืองพะเยา",
+        "en": "Mueang Phayao",
+        "slug": "mueang-phayao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "56000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.166",
+    "lon": "99.759"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/san-pa-muang-560118/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "750101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่กลอง",
+    "en": "Mae Klong",
+    "slug": "mae-klong"
+  },
+  "code": {
+    "dopa": "750101"
+  },
+  "parent": {
+    "id": "7501",
+    "level": 2,
+    "name": {
+      "th": "เมืองสมุทรสงคราม",
+      "en": "Mueang Samut Songkhram",
+      "slug": "mueang-samut-songkhram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสงคราม",
+        "en": "Samut Songkhram",
+        "slug": "samut-songkhram"
+      }
+    },
+    {
+      "id": "7501",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรสงคราม",
+        "en": "Mueang Samut Songkhram",
+        "slug": "mueang-samut-songkhram"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "75000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.400",
+    "lon": "99.994"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-klong-750101/"
+  }
+}

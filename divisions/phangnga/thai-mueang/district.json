@@ -1,0 +1,50 @@
+{
+  "id": "8208",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ท้ายเหมือง",
+    "en": "Thai Mueang",
+    "slug": "thai-mueang"
+  },
+  "code": {
+    "dopa": "8208"
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "th": "พังงา",
+      "en": "Phangnga",
+      "slug": "phangnga"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 49
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.344",
+    "lon": "98.303"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thai-mueang-8208/"
+  }
+}

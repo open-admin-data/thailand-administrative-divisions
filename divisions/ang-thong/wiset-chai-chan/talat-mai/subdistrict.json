@@ -1,0 +1,61 @@
+{
+  "id": "150615",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตลาดใหม่",
+    "en": "Talat Mai",
+    "slug": "talat-mai"
+  },
+  "code": {
+    "dopa": "150615"
+  },
+  "parent": {
+    "id": "1506",
+    "level": 2,
+    "name": {
+      "th": "วิเศษชัยชาญ",
+      "en": "Wiset Chai Chan",
+      "slug": "wiset-chai-chan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1506",
+      "level": 2,
+      "name": {
+        "th": "วิเศษชัยชาญ",
+        "en": "Wiset Chai Chan",
+        "slug": "wiset-chai-chan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "14110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.542",
+    "lon": "100.315"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/talat-mai-150615/"
+  }
+}

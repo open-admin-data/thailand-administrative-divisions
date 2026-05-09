@@ -1,0 +1,61 @@
+{
+  "id": "940309",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางตาวา",
+    "en": "Bang Tawa",
+    "slug": "bang-tawa"
+  },
+  "code": {
+    "dopa": "940309"
+  },
+  "parent": {
+    "id": "9403",
+    "level": 2,
+    "name": {
+      "th": "หนองจิก",
+      "en": "Nong Chik",
+      "slug": "nong-chik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9403",
+      "level": 2,
+      "name": {
+        "th": "หนองจิก",
+        "en": "Nong Chik",
+        "slug": "nong-chik"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 2
+  },
+  "zip_codes": [
+    "94170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.858",
+    "lon": "101.158"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-tawa-940309/"
+  }
+}

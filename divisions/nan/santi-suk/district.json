@@ -1,0 +1,50 @@
+{
+  "id": "5511",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สันติสุข",
+    "en": "Santi Suk",
+    "slug": "santi-suk"
+  },
+  "code": {
+    "dopa": "5511"
+  },
+  "parent": {
+    "id": "55",
+    "level": 1,
+    "name": {
+      "th": "น่าน",
+      "en": "Nan",
+      "slug": "nan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 31
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.898",
+    "lon": "100.902"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/santi-suk-5511/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "740105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางโทรัด",
+    "en": "Bang Tho Rat",
+    "slug": "bang-tho-rat"
+  },
+  "code": {
+    "dopa": "740105"
+  },
+  "parent": {
+    "id": "7401",
+    "level": 2,
+    "name": {
+      "th": "เมืองสมุทรสาคร",
+      "en": "Mueang Samut Sakhon",
+      "slug": "mueang-samut-sakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสาคร",
+        "en": "Samut Sakhon",
+        "slug": "samut-sakhon"
+      }
+    },
+    {
+      "id": "7401",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรสาคร",
+        "en": "Mueang Samut Sakhon",
+        "slug": "mueang-samut-sakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "74000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.492",
+    "lon": "100.158"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-tho-rat-740105/"
+  }
+}

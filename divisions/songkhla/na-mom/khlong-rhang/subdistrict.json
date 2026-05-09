@@ -1,0 +1,61 @@
+{
+  "id": "901204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองหรัง",
+    "en": "Khlong Rhang",
+    "slug": "khlong-rhang"
+  },
+  "code": {
+    "dopa": "901204"
+  },
+  "parent": {
+    "id": "9012",
+    "level": 2,
+    "name": {
+      "th": "นาหม่อม",
+      "en": "Na Mom",
+      "slug": "na-mom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9012",
+      "level": 2,
+      "name": {
+        "th": "นาหม่อม",
+        "en": "Na Mom",
+        "slug": "na-mom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "90310"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.924",
+    "lon": "100.591"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-rhang-901204/"
+  }
+}

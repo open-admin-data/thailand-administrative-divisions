@@ -1,0 +1,61 @@
+{
+  "id": "200704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บึง",
+    "en": "Bueng",
+    "slug": "bueng"
+  },
+  "code": {
+    "dopa": "200704"
+  },
+  "parent": {
+    "id": "2007",
+    "level": 2,
+    "name": {
+      "th": "ศรีราชา",
+      "en": "Si Racha",
+      "slug": "si-racha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2007",
+      "level": 2,
+      "name": {
+        "th": "ศรีราชา",
+        "en": "Si Racha",
+        "slug": "si-racha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "20230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.073",
+    "lon": "101.006"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bueng-200704/"
+  }
+}

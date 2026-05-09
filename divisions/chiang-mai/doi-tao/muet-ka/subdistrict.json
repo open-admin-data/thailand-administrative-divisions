@@ -1,0 +1,61 @@
+{
+  "id": "501703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มืดกา",
+    "en": "Muet Ka",
+    "slug": "muet-ka"
+  },
+  "code": {
+    "dopa": "501703"
+  },
+  "parent": {
+    "id": "5017",
+    "level": 2,
+    "name": {
+      "th": "ดอยเต่า",
+      "en": "Doi Tao",
+      "slug": "doi-tao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5017",
+      "level": 2,
+      "name": {
+        "th": "ดอยเต่า",
+        "en": "Doi Tao",
+        "slug": "doi-tao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "50260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.873",
+    "lon": "98.593"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/muet-ka-501703/"
+  }
+}

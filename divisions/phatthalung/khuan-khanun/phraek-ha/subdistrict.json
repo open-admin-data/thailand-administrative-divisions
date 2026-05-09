@@ -1,0 +1,61 @@
+{
+  "id": "930516",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แพรกหา",
+    "en": "Phraek Ha",
+    "slug": "phraek-ha"
+  },
+  "code": {
+    "dopa": "930516"
+  },
+  "parent": {
+    "id": "9305",
+    "level": 2,
+    "name": {
+      "th": "ควนขนุน",
+      "en": "Khuan Khanun",
+      "slug": "khuan-khanun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9305",
+      "level": 2,
+      "name": {
+        "th": "ควนขนุน",
+        "en": "Khuan Khanun",
+        "slug": "khuan-khanun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "93110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.654",
+    "lon": "100.010"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phraek-ha-930516/"
+  }
+}

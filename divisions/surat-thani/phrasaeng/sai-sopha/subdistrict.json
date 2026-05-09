@@ -1,0 +1,61 @@
+{
+  "id": "841606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไทรโสภา",
+    "en": "Sai Sopha",
+    "slug": "sai-sopha"
+  },
+  "code": {
+    "dopa": "841606"
+  },
+  "parent": {
+    "id": "8416",
+    "level": 2,
+    "name": {
+      "th": "พระแสง",
+      "en": "Phrasaeng",
+      "slug": "phrasaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8416",
+      "level": 2,
+      "name": {
+        "th": "พระแสง",
+        "en": "Phrasaeng",
+        "slug": "phrasaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "84210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.597",
+    "lon": "99.066"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sai-sopha-841606/"
+  }
+}

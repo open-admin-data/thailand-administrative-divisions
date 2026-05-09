@@ -1,0 +1,61 @@
+{
+  "id": "540706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าสัก",
+    "en": "Pa Sak",
+    "slug": "pa-sak"
+  },
+  "code": {
+    "dopa": "540706"
+  },
+  "parent": {
+    "id": "5407",
+    "level": 2,
+    "name": {
+      "th": "วังชิ้น",
+      "en": "Wang Chin",
+      "slug": "wang-chin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    {
+      "id": "5407",
+      "level": 2,
+      "name": {
+        "th": "วังชิ้น",
+        "en": "Wang Chin",
+        "slug": "wang-chin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "54160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.826",
+    "lon": "99.472"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-sak-540706/"
+  }
+}

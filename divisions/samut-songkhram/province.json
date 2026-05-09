@@ -1,0 +1,38 @@
+{
+  "id": "75",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "สมุทรสงคราม",
+    "en": "Samut Songkhram",
+    "slug": "samut-songkhram"
+  },
+  "code": {
+    "dopa": "75",
+    "iso": "TH-75"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 3,
+    "subdistricts": 36,
+    "villages": 308
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central"
+    }
+  },
+  "geo": {
+    "lat": "13.487",
+    "lon": "99.958"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/samut-songkhram-75/"
+  }
+}

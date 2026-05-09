@@ -1,0 +1,61 @@
+{
+  "id": "810401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองท่อมใต้",
+    "en": "Khlong Thom Tai",
+    "slug": "khlong-thom-tai"
+  },
+  "code": {
+    "dopa": "810401"
+  },
+  "parent": {
+    "id": "8104",
+    "level": 2,
+    "name": {
+      "th": "คลองท่อม",
+      "en": "Khlong Thom",
+      "slug": "khlong-thom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8104",
+      "level": 2,
+      "name": {
+        "th": "คลองท่อม",
+        "en": "Khlong Thom",
+        "slug": "khlong-thom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "81120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.933",
+    "lon": "99.172"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-thom-tai-810401/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "900706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อตรุ",
+    "en": "Bo Tru",
+    "slug": "bo-tru"
+  },
+  "code": {
+    "dopa": "900706"
+  },
+  "parent": {
+    "id": "9007",
+    "level": 2,
+    "name": {
+      "th": "ระโนด",
+      "en": "Ranot",
+      "slug": "ranot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9007",
+      "level": 2,
+      "name": {
+        "th": "ระโนด",
+        "en": "Ranot",
+        "slug": "ranot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "90140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.631",
+    "lon": "100.374"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-tru-900706/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "580101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "จองคำ",
+    "en": "Chong Kham",
+    "slug": "chong-kham"
+  },
+  "code": {
+    "dopa": "580101"
+  },
+  "parent": {
+    "id": "5801",
+    "level": 2,
+    "name": {
+      "th": "เมืองแม่ฮ่องสอน",
+      "en": "Mueang Mae Hong Son",
+      "slug": "mueang-mae-hong-son"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    },
+    {
+      "id": "5801",
+      "level": 2,
+      "name": {
+        "th": "เมืองแม่ฮ่องสอน",
+        "en": "Mueang Mae Hong Son",
+        "slug": "mueang-mae-hong-son"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "58000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.302",
+    "lon": "97.970"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chong-kham-580101/"
+  }
+}

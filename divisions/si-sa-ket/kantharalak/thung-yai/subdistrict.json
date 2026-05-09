@@ -1,0 +1,61 @@
+{
+  "id": "330424",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งใหญ่",
+    "en": "Thung Yai",
+    "slug": "thung-yai"
+  },
+  "code": {
+    "dopa": "330424"
+  },
+  "parent": {
+    "id": "3304",
+    "level": 2,
+    "name": {
+      "th": "กันทรลักษ์",
+      "en": "Kantharalak",
+      "slug": "kantharalak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3304",
+      "level": 2,
+      "name": {
+        "th": "กันทรลักษ์",
+        "en": "Kantharalak",
+        "slug": "kantharalak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "33110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.590",
+    "lon": "104.591"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-yai-330424/"
+  }
+}

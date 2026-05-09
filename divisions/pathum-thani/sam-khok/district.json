@@ -1,0 +1,50 @@
+{
+  "id": "1307",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สามโคก",
+    "en": "Sam Khok",
+    "slug": "sam-khok"
+  },
+  "code": {
+    "dopa": "1307"
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 58
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.043",
+    "lon": "100.544"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sam-khok-1307/"
+  }
+}

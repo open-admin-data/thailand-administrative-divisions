@@ -1,0 +1,61 @@
+{
+  "id": "600209",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หาดสูง",
+    "en": "Hat Sung",
+    "slug": "hat-sung"
+  },
+  "code": {
+    "dopa": "600209"
+  },
+  "parent": {
+    "id": "6002",
+    "level": 2,
+    "name": {
+      "th": "โกรกพระ",
+      "en": "Krok Phra",
+      "slug": "krok-phra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6002",
+      "level": 2,
+      "name": {
+        "th": "โกรกพระ",
+        "en": "Krok Phra",
+        "slug": "krok-phra"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "60170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.503",
+    "lon": "99.989"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hat-sung-600209/"
+  }
+}

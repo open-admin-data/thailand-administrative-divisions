@@ -1,0 +1,61 @@
+{
+  "id": "550701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กลางเวียง",
+    "en": "Klang Wiang",
+    "slug": "klang-wiang"
+  },
+  "code": {
+    "dopa": "550701"
+  },
+  "parent": {
+    "id": "5507",
+    "level": 2,
+    "name": {
+      "th": "เวียงสา",
+      "en": "Wiang Sa",
+      "slug": "wiang-sa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "th": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "55110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.577",
+    "lon": "100.740"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/klang-wiang-550701/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "510204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทาขุมเงิน",
+    "en": "Tha Khum Ngoen",
+    "slug": "tha-khum-ngoen"
+  },
+  "code": {
+    "dopa": "510204"
+  },
+  "parent": {
+    "id": "5102",
+    "level": 2,
+    "name": {
+      "th": "แม่ทา",
+      "en": "Mae Tha",
+      "slug": "mae-tha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5102",
+      "level": 2,
+      "name": {
+        "th": "แม่ทา",
+        "en": "Mae Tha",
+        "slug": "mae-tha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "51170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.363",
+    "lon": "98.962"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-khum-ngoen-510204/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "200206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองชาก",
+    "en": "Nong Chak",
+    "slug": "nong-chak"
+  },
+  "code": {
+    "dopa": "200206"
+  },
+  "parent": {
+    "id": "2002",
+    "level": 2,
+    "name": {
+      "th": "บ้านบึง",
+      "en": "Ban Bueng",
+      "slug": "ban-bueng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2002",
+      "level": 2,
+      "name": {
+        "th": "บ้านบึง",
+        "en": "Ban Bueng",
+        "slug": "ban-bueng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "20170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.298",
+    "lon": "101.172"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-chak-200206/"
+  }
+}

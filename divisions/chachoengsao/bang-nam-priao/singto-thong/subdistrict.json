@@ -1,0 +1,61 @@
+{
+  "id": "240303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สิงโตทอง",
+    "en": "Singto Thong",
+    "slug": "singto-thong"
+  },
+  "code": {
+    "dopa": "240303"
+  },
+  "parent": {
+    "id": "2403",
+    "level": 2,
+    "name": {
+      "th": "บางน้ำเปรี้ยว",
+      "en": "Bang Nam Priao",
+      "slug": "bang-nam-priao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2403",
+      "level": 2,
+      "name": {
+        "th": "บางน้ำเปรี้ยว",
+        "en": "Bang Nam Priao",
+        "slug": "bang-nam-priao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "24150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.911",
+    "lon": "101.073"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/singto-thong-240303/"
+  }
+}

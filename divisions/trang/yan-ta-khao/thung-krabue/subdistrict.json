@@ -1,0 +1,61 @@
+{
+  "id": "920306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งกระบือ",
+    "en": "Thung Krabue",
+    "slug": "thung-krabue"
+  },
+  "code": {
+    "dopa": "920306"
+  },
+  "parent": {
+    "id": "9203",
+    "level": 2,
+    "name": {
+      "th": "ย่านตาขาว",
+      "en": "Yan Ta Khao",
+      "slug": "yan-ta-khao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9203",
+      "level": 2,
+      "name": {
+        "th": "ย่านตาขาว",
+        "en": "Yan Ta Khao",
+        "slug": "yan-ta-khao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "92140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.404",
+    "lon": "99.626"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-krabue-920306/"
+  }
+}

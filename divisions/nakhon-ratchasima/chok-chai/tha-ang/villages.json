@@ -1,0 +1,612 @@
+[
+  {
+    "id": "30070301",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านไร่",
+      "en": "Ban Rai",
+      "slug": "30070301"
+    },
+    "code": {
+      "dopa": "30070301"
+    },
+    "parent": {
+      "id": "300703",
+      "level": 3,
+      "name": {
+        "th": "ท่าอ่าง",
+        "en": "Tha Ang",
+        "slug": "tha-ang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "th": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima"
+        }
+      },
+      {
+        "id": "3007",
+        "level": 2,
+        "name": {
+          "th": "โชคชัย",
+          "en": "Chok Chai",
+          "slug": "chok-chai"
+        }
+      },
+      {
+        "id": "300703",
+        "level": 3,
+        "name": {
+          "th": "ท่าอ่าง",
+          "en": "Tha Ang",
+          "slug": "tha-ang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.822624003948915",
+      "lon": "102.20562815666199"
+    },
+    "source": {}
+  },
+  {
+    "id": "30070302",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกุดโบสถ์",
+      "en": "Ban Kut Bot",
+      "slug": "30070302"
+    },
+    "code": {
+      "dopa": "30070302"
+    },
+    "parent": {
+      "id": "300703",
+      "level": 3,
+      "name": {
+        "th": "ท่าอ่าง",
+        "en": "Tha Ang",
+        "slug": "tha-ang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "th": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima"
+        }
+      },
+      {
+        "id": "3007",
+        "level": 2,
+        "name": {
+          "th": "โชคชัย",
+          "en": "Chok Chai",
+          "slug": "chok-chai"
+        }
+      },
+      {
+        "id": "300703",
+        "level": 3,
+        "name": {
+          "th": "ท่าอ่าง",
+          "en": "Tha Ang",
+          "slug": "tha-ang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.809817037031257",
+      "lon": "102.20618471503258"
+    },
+    "source": {}
+  },
+  {
+    "id": "30070303",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านท่าอ่าง",
+      "en": "Ban Tha Ang",
+      "slug": "30070303"
+    },
+    "code": {
+      "dopa": "30070303"
+    },
+    "parent": {
+      "id": "300703",
+      "level": 3,
+      "name": {
+        "th": "ท่าอ่าง",
+        "en": "Tha Ang",
+        "slug": "tha-ang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "th": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima"
+        }
+      },
+      {
+        "id": "3007",
+        "level": 2,
+        "name": {
+          "th": "โชคชัย",
+          "en": "Chok Chai",
+          "slug": "chok-chai"
+        }
+      },
+      {
+        "id": "300703",
+        "level": 3,
+        "name": {
+          "th": "ท่าอ่าง",
+          "en": "Tha Ang",
+          "slug": "tha-ang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.827790398487544",
+      "lon": "102.19342812895775"
+    },
+    "source": {}
+  },
+  {
+    "id": "30070304",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านท่าอ่าง",
+      "en": "Ban Tha Ang",
+      "slug": "30070304"
+    },
+    "code": {
+      "dopa": "30070304"
+    },
+    "parent": {
+      "id": "300703",
+      "level": 3,
+      "name": {
+        "th": "ท่าอ่าง",
+        "en": "Tha Ang",
+        "slug": "tha-ang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "th": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima"
+        }
+      },
+      {
+        "id": "3007",
+        "level": 2,
+        "name": {
+          "th": "โชคชัย",
+          "en": "Chok Chai",
+          "slug": "chok-chai"
+        }
+      },
+      {
+        "id": "300703",
+        "level": 3,
+        "name": {
+          "th": "ท่าอ่าง",
+          "en": "Tha Ang",
+          "slug": "tha-ang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.833565983395198",
+      "lon": "102.19546258449554"
+    },
+    "source": {}
+  },
+  {
+    "id": "30070305",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านดอนพราหมณ์",
+      "en": "Ban Don Phram",
+      "slug": "30070305"
+    },
+    "code": {
+      "dopa": "30070305"
+    },
+    "parent": {
+      "id": "300703",
+      "level": 3,
+      "name": {
+        "th": "ท่าอ่าง",
+        "en": "Tha Ang",
+        "slug": "tha-ang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "th": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima"
+        }
+      },
+      {
+        "id": "3007",
+        "level": 2,
+        "name": {
+          "th": "โชคชัย",
+          "en": "Chok Chai",
+          "slug": "chok-chai"
+        }
+      },
+      {
+        "id": "300703",
+        "level": 3,
+        "name": {
+          "th": "ท่าอ่าง",
+          "en": "Tha Ang",
+          "slug": "tha-ang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.792185799375968",
+      "lon": "102.1798400580883"
+    },
+    "source": {}
+  },
+  {
+    "id": "30070306",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านท่าอ่าง",
+      "en": "Ban Tha Ang",
+      "slug": "30070306"
+    },
+    "code": {
+      "dopa": "30070306"
+    },
+    "parent": {
+      "id": "300703",
+      "level": 3,
+      "name": {
+        "th": "ท่าอ่าง",
+        "en": "Tha Ang",
+        "slug": "tha-ang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "th": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima"
+        }
+      },
+      {
+        "id": "3007",
+        "level": 2,
+        "name": {
+          "th": "โชคชัย",
+          "en": "Chok Chai",
+          "slug": "chok-chai"
+        }
+      },
+      {
+        "id": "300703",
+        "level": 3,
+        "name": {
+          "th": "ท่าอ่าง",
+          "en": "Tha Ang",
+          "slug": "tha-ang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.832519777764666",
+      "lon": "102.1900525689125"
+    },
+    "source": {}
+  },
+  {
+    "id": "30070307",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองเสาเดียว",
+      "en": "Ban Nong Sao Diao",
+      "slug": "30070307"
+    },
+    "code": {
+      "dopa": "30070307"
+    },
+    "parent": {
+      "id": "300703",
+      "level": 3,
+      "name": {
+        "th": "ท่าอ่าง",
+        "en": "Tha Ang",
+        "slug": "tha-ang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "th": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima"
+        }
+      },
+      {
+        "id": "3007",
+        "level": 2,
+        "name": {
+          "th": "โชคชัย",
+          "en": "Chok Chai",
+          "slug": "chok-chai"
+        }
+      },
+      {
+        "id": "300703",
+        "level": 3,
+        "name": {
+          "th": "ท่าอ่าง",
+          "en": "Tha Ang",
+          "slug": "tha-ang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.822297291792948",
+      "lon": "102.13837310671806"
+    },
+    "source": {}
+  },
+  {
+    "id": "30070308",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองโสน",
+      "en": "Ban Nong Sano",
+      "slug": "30070308"
+    },
+    "code": {
+      "dopa": "30070308"
+    },
+    "parent": {
+      "id": "300703",
+      "level": 3,
+      "name": {
+        "th": "ท่าอ่าง",
+        "en": "Tha Ang",
+        "slug": "tha-ang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "th": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima"
+        }
+      },
+      {
+        "id": "3007",
+        "level": 2,
+        "name": {
+          "th": "โชคชัย",
+          "en": "Chok Chai",
+          "slug": "chok-chai"
+        }
+      },
+      {
+        "id": "300703",
+        "level": 3,
+        "name": {
+          "th": "ท่าอ่าง",
+          "en": "Tha Ang",
+          "slug": "tha-ang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.798962027807095",
+      "lon": "102.17462182044983"
+    },
+    "source": {}
+  },
+  {
+    "id": "30070309",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองไผ่พัฒนา",
+      "en": "Ban Nong Phai Phatthana",
+      "slug": "30070309"
+    },
+    "code": {
+      "dopa": "30070309"
+    },
+    "parent": {
+      "id": "300703",
+      "level": 3,
+      "name": {
+        "th": "ท่าอ่าง",
+        "en": "Tha Ang",
+        "slug": "tha-ang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "th": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima"
+        }
+      },
+      {
+        "id": "3007",
+        "level": 2,
+        "name": {
+          "th": "โชคชัย",
+          "en": "Chok Chai",
+          "slug": "chok-chai"
+        }
+      },
+      {
+        "id": "300703",
+        "level": 3,
+        "name": {
+          "th": "ท่าอ่าง",
+          "en": "Tha Ang",
+          "slug": "tha-ang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.789947756273797",
+      "lon": "102.1793532371521"
+    },
+    "source": {}
+  },
+  {
+    "id": "30070310",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองเสาเดียวใหม่พัฒนา",
+      "en": "Ban Nong Sao Diao Mai Phatthana",
+      "slug": "30070310"
+    },
+    "code": {
+      "dopa": "30070310"
+    },
+    "parent": {
+      "id": "300703",
+      "level": 3,
+      "name": {
+        "th": "ท่าอ่าง",
+        "en": "Tha Ang",
+        "slug": "tha-ang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "th": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima"
+        }
+      },
+      {
+        "id": "3007",
+        "level": 2,
+        "name": {
+          "th": "โชคชัย",
+          "en": "Chok Chai",
+          "slug": "chok-chai"
+        }
+      },
+      {
+        "id": "300703",
+        "level": 3,
+        "name": {
+          "th": "ท่าอ่าง",
+          "en": "Tha Ang",
+          "slug": "tha-ang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.822328407257611",
+      "lon": "102.1391911804676"
+    },
+    "source": {}
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "id": "961302",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บูกิต",
+      "en": "Bukit",
+      "slug": "bukit"
+    },
+    "code": {
+      "dopa": "961302"
+    },
+    "parent": {
+      "id": "9613",
+      "level": 2,
+      "name": {
+        "th": "เจาะไอร้อง",
+        "en": "Cho-airong",
+        "slug": "cho-airong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "th": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat"
+        }
+      },
+      {
+        "id": "9613",
+        "level": 2,
+        "name": {
+          "th": "เจาะไอร้อง",
+          "en": "Cho-airong",
+          "slug": "cho-airong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 14
+    },
+    "zip_codes": [
+      "96130"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.182",
+      "lon": "101.828"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bukit-961302/"
+    }
+  },
+  {
+    "id": "961301",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "จวบ",
+      "en": "Chuap",
+      "slug": "chuap"
+    },
+    "code": {
+      "dopa": "961301"
+    },
+    "parent": {
+      "id": "9613",
+      "level": 2,
+      "name": {
+        "th": "เจาะไอร้อง",
+        "en": "Cho-airong",
+        "slug": "cho-airong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "th": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat"
+        }
+      },
+      {
+        "id": "9613",
+        "level": 2,
+        "name": {
+          "th": "เจาะไอร้อง",
+          "en": "Cho-airong",
+          "slug": "cho-airong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "96130"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.256",
+      "lon": "101.817"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/chuap-961301/"
+    }
+  },
+  {
+    "id": "961303",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "มะรือโบออก",
+      "en": "Maruebo Ok",
+      "slug": "maruebo-ok"
+    },
+    "code": {
+      "dopa": "961303"
+    },
+    "parent": {
+      "id": "9613",
+      "level": 2,
+      "name": {
+        "th": "เจาะไอร้อง",
+        "en": "Cho-airong",
+        "slug": "cho-airong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "th": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat"
+        }
+      },
+      {
+        "id": "9613",
+        "level": 2,
+        "name": {
+          "th": "เจาะไอร้อง",
+          "en": "Cho-airong",
+          "slug": "cho-airong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "96130"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.249",
+      "lon": "101.875"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/maruebo-ok-961303/"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "220314",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองขุด",
+    "en": "Khlong Khut",
+    "slug": "khlong-khut"
+  },
+  "code": {
+    "dopa": "220314"
+  },
+  "parent": {
+    "id": "2203",
+    "level": 2,
+    "name": {
+      "th": "ท่าใหม่",
+      "en": "Tha Mai",
+      "slug": "tha-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    },
+    {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "th": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "22120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.563",
+    "lon": "101.935"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-khut-220314/"
+  }
+}

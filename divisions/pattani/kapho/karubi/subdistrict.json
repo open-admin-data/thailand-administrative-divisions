@@ -1,0 +1,61 @@
+{
+  "id": "941101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กะรุบี",
+    "en": "Karubi",
+    "slug": "karubi"
+  },
+  "code": {
+    "dopa": "941101"
+  },
+  "parent": {
+    "id": "9411",
+    "level": 2,
+    "name": {
+      "th": "กะพ้อ",
+      "en": "Kapho",
+      "slug": "kapho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9411",
+      "level": 2,
+      "name": {
+        "th": "กะพ้อ",
+        "en": "Kapho",
+        "slug": "kapho"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "94230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.570",
+    "lon": "101.556"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/karubi-941101/"
+  }
+}

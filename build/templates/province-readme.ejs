@@ -1,0 +1,39 @@
+# <%= province.name.th %> (<%= province.name.en %>)
+
+[Home](../../) > [Divisions](../) > **<%= province.name.en %>**
+
+<%= province.name.th %> (<%= province.name.en %>) is a province in the **<%= province.metadata.region.th %> (<%= province.metadata.region.en %>)** region of Thailand, comprising **<%= districts.length %> <%= province.metadata.is_special_province ? 'khet (เขต)' : 'amphoe (อำเภอ)' %>**.
+
+## Overview / ภาพรวม
+
+| รายการ / Item | จำนวน / Count |
+|---------------|--------------|
+| <%= province.metadata.is_special_province ? 'เขต / Khet (Districts)' : 'อำเภอ / Districts' %> | <%= province.children_count.districts %> |
+| <%= province.metadata.is_special_province ? 'แขวง / Khwaeng (Subdistricts)' : 'ตำบล / Subdistricts' %> | <%= province.children_count.subdistricts.toLocaleString() %> |
+| หมู่บ้าน / Villages | <%= province.children_count.villages.toLocaleString() %> |
+| DOPA Code | <%= province.code.dopa %> |
+<% if (province.code.iso) { -%>
+| ISO 3166-2 | <%= province.code.iso %> |
+<% } -%>
+| ภาค / Region | <%= province.metadata.region.th %> / <%= province.metadata.region.en %> |
+<% if (province.geo && province.geo.lat) { -%>
+| พิกัด / Coordinates | <%= province.geo.lat %>, <%= province.geo.lon %> |
+<% } -%>
+
+## <%= province.metadata.is_special_province ? 'เขต / Khet (Districts)' : 'อำเภอ / Districts' %>
+
+| # | <%= province.metadata.is_special_province ? 'เขต / Khet' : 'อำเภอ / District' %> | ตำบล / Subdistricts | หมู่บ้าน / Villages | Link |
+|---|---------------------|---------------------|---------------------|------|
+<% districts.forEach((d, i) => { -%>
+| <%= i + 1 %> | <%= d.name.th %> (<%= d.name.en %>) | <%= d.children_count.subdistricts %> | <%= d.children_count.villages.toLocaleString() %> | [Browse](<%= d.name.slug %>/) |
+<% }) -%>
+
+## Data Files / ไฟล์ข้อมูล
+
+- [province.json](province.json) — Province metadata
+- [districts.json](districts.json) — All districts in <%= province.name.en %> (JSON)
+- [districts.csv](districts.csv) — CSV format
+
+---
+
+← Back to [All Provinces](../)

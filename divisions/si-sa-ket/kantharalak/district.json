@@ -1,0 +1,50 @@
+{
+  "id": "3304",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "กันทรลักษ์",
+    "en": "Kantharalak",
+    "slug": "kantharalak"
+  },
+  "code": {
+    "dopa": "3304"
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "th": "ศรีสะเกษ",
+      "en": "Si Sa Ket",
+      "slug": "si-sa-ket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 20,
+    "villages": 288
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.660",
+    "lon": "104.657"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kantharalak-3304/"
+  }
+}

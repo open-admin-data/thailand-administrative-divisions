@@ -1,0 +1,61 @@
+{
+  "id": "310708",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกย่าง",
+    "en": "Khok Yang",
+    "slug": "khok-yang"
+  },
+  "code": {
+    "dopa": "310708"
+  },
+  "parent": {
+    "id": "3107",
+    "level": 2,
+    "name": {
+      "th": "ประโคนชัย",
+      "en": "Prakhon Chai",
+      "slug": "prakhon-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3107",
+      "level": 2,
+      "name": {
+        "th": "ประโคนชัย",
+        "en": "Prakhon Chai",
+        "slug": "prakhon-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "31140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.562",
+    "lon": "103.005"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-yang-310708/"
+  }
+}

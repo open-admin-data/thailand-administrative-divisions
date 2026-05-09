@@ -1,0 +1,61 @@
+{
+  "id": "410802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองหลัก",
+    "en": "Nong Lak",
+    "slug": "nong-lak"
+  },
+  "code": {
+    "dopa": "410802"
+  },
+  "parent": {
+    "id": "4108",
+    "level": 2,
+    "name": {
+      "th": "ไชยวาน",
+      "en": "Chai Wan",
+      "slug": "chai-wan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4108",
+      "level": 2,
+      "name": {
+        "th": "ไชยวาน",
+        "en": "Chai Wan",
+        "slug": "chai-wan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "41290"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.237",
+    "lon": "103.204"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-lak-410802/"
+  }
+}

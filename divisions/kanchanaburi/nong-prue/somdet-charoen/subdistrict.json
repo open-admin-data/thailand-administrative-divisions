@@ -1,0 +1,61 @@
+{
+  "id": "711203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สมเด็จเจริญ",
+    "en": "Somdet Charoen",
+    "slug": "somdet-charoen"
+  },
+  "code": {
+    "dopa": "711203"
+  },
+  "parent": {
+    "id": "7112",
+    "level": 2,
+    "name": {
+      "th": "หนองปรือ",
+      "en": "Nong Prue",
+      "slug": "nong-prue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7112",
+      "level": 2,
+      "name": {
+        "th": "หนองปรือ",
+        "en": "Nong Prue",
+        "slug": "nong-prue"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "71220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.746",
+    "lon": "99.338"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/somdet-charoen-711203/"
+  }
+}

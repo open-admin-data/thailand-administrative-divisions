@@ -1,0 +1,61 @@
+{
+  "id": "500802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สะเมิงเหนือ",
+    "en": "Samoeng Nuea",
+    "slug": "samoeng-nuea"
+  },
+  "code": {
+    "dopa": "500802"
+  },
+  "parent": {
+    "id": "5008",
+    "level": 2,
+    "name": {
+      "th": "สะเมิง",
+      "en": "Samoeng",
+      "slug": "samoeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5008",
+      "level": 2,
+      "name": {
+        "th": "สะเมิง",
+        "en": "Samoeng",
+        "slug": "samoeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "50250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.977",
+    "lon": "98.739"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samoeng-nuea-500802/"
+  }
+}

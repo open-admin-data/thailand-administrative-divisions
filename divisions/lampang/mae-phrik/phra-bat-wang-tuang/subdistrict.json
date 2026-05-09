@@ -1,0 +1,61 @@
+{
+  "id": "520904",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พระบาทวังตวง",
+    "en": "Phra Bat Wang Tuang",
+    "slug": "phra-bat-wang-tuang"
+  },
+  "code": {
+    "dopa": "520904"
+  },
+  "parent": {
+    "id": "5209",
+    "level": 2,
+    "name": {
+      "th": "แม่พริก",
+      "en": "Mae Phrik",
+      "slug": "mae-phrik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5209",
+      "level": 2,
+      "name": {
+        "th": "แม่พริก",
+        "en": "Mae Phrik",
+        "slug": "mae-phrik"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "52180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.412",
+    "lon": "99.162"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phra-bat-wang-tuang-520904/"
+  }
+}

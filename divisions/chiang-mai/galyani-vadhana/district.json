@@ -1,0 +1,50 @@
+{
+  "id": "5025",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "กัลยาณิวัฒนา",
+    "en": "Galyani Vadhana",
+    "slug": "galyani-vadhana"
+  },
+  "code": {
+    "dopa": "5025"
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 22
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.936",
+    "lon": "98.380"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/galyani-vadhana-5025/"
+  }
+}

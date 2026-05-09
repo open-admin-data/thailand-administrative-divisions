@@ -1,0 +1,61 @@
+{
+  "id": "840405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มะเร็ต",
+    "en": "Maret",
+    "slug": "maret"
+  },
+  "code": {
+    "dopa": "840405"
+  },
+  "parent": {
+    "id": "8404",
+    "level": 2,
+    "name": {
+      "th": "เกาะสมุย",
+      "en": "Ko Samui",
+      "slug": "ko-samui"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8404",
+      "level": 2,
+      "name": {
+        "th": "เกาะสมุย",
+        "en": "Ko Samui",
+        "slug": "ko-samui"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 27
+  },
+  "zip_codes": [
+    "84310"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.468",
+    "lon": "100.032"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/maret-840405/"
+  }
+}

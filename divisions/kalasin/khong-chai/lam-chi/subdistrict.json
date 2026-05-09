@@ -1,0 +1,61 @@
+{
+  "id": "461804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลำชี",
+    "en": "Lam Chi",
+    "slug": "lam-chi"
+  },
+  "code": {
+    "dopa": "461804"
+  },
+  "parent": {
+    "id": "4618",
+    "level": 2,
+    "name": {
+      "th": "ฆ้องชัย",
+      "en": "Khong Chai",
+      "slug": "khong-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4618",
+      "level": 2,
+      "name": {
+        "th": "ฆ้องชัย",
+        "en": "Khong Chai",
+        "slug": "khong-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "46130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.321",
+    "lon": "103.493"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lam-chi-461804/"
+  }
+}

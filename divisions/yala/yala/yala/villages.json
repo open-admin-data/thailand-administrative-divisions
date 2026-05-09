@@ -1,0 +1,185 @@
+[
+  {
+    "id": "95010601",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านยะลา",
+      "en": "Ban Yala",
+      "slug": "95010601"
+    },
+    "code": {
+      "dopa": "95010601"
+    },
+    "parent": {
+      "id": "950106",
+      "level": 3,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      },
+      {
+        "id": "9501",
+        "level": 2,
+        "name": {
+          "th": "เมืองยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      },
+      {
+        "id": "950106",
+        "level": 3,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.51887665416216",
+      "lon": "101.17418199777603"
+    },
+    "source": {}
+  },
+  {
+    "id": "95010602",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกูเบ",
+      "en": "Ban Kube",
+      "slug": "95010602"
+    },
+    "code": {
+      "dopa": "95010602"
+    },
+    "parent": {
+      "id": "950106",
+      "level": 3,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      },
+      {
+        "id": "9501",
+        "level": 2,
+        "name": {
+          "th": "เมืองยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      },
+      {
+        "id": "950106",
+        "level": 3,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.527890486435004",
+      "lon": "101.17808327078819"
+    },
+    "source": {}
+  },
+  {
+    "id": "95010603",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านปาโจ",
+      "en": "Ban Pacho",
+      "slug": "95010603"
+    },
+    "code": {
+      "dopa": "95010603"
+    },
+    "parent": {
+      "id": "950106",
+      "level": 3,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      },
+      {
+        "id": "9501",
+        "level": 2,
+        "name": {
+          "th": "เมืองยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      },
+      {
+        "id": "950106",
+        "level": 3,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.51421311486565",
+      "lon": "101.1863511800766"
+    },
+    "source": {}
+  }
+]

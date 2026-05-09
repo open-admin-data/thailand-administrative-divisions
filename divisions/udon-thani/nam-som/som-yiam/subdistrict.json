@@ -1,0 +1,61 @@
+{
+  "id": "411807",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โสมเยี่ยม",
+    "en": "Som Yiam",
+    "slug": "som-yiam"
+  },
+  "code": {
+    "dopa": "411807"
+  },
+  "parent": {
+    "id": "4118",
+    "level": 2,
+    "name": {
+      "th": "น้ำโสม",
+      "en": "Nam Som",
+      "slug": "nam-som"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4118",
+      "level": 2,
+      "name": {
+        "th": "น้ำโสม",
+        "en": "Nam Som",
+        "slug": "nam-som"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "41210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.823",
+    "lon": "102.207"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/som-yiam-411807/"
+  }
+}

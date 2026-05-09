@@ -1,0 +1,61 @@
+{
+  "id": "480502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ฝั่งแดง",
+    "en": "Fang Daeng",
+    "slug": "fang-daeng"
+  },
+  "code": {
+    "dopa": "480502"
+  },
+  "parent": {
+    "id": "4805",
+    "level": 2,
+    "name": {
+      "th": "ธาตุพนม",
+      "en": "That Phanom",
+      "slug": "that-phanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4805",
+      "level": 2,
+      "name": {
+        "th": "ธาตุพนม",
+        "en": "That Phanom",
+        "slug": "that-phanom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "48110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.914",
+    "lon": "104.675"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/fang-daeng-480502/"
+  }
+}

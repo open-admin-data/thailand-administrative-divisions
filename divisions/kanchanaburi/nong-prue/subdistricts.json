@@ -1,0 +1,185 @@
+[
+  {
+    "id": "711202",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองปลาไหล",
+      "en": "Nong Pla Lai",
+      "slug": "nong-pla-lai"
+    },
+    "code": {
+      "dopa": "711202"
+    },
+    "parent": {
+      "id": "7112",
+      "level": 2,
+      "name": {
+        "th": "หนองปรือ",
+        "en": "Nong Prue",
+        "slug": "nong-prue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "th": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi"
+        }
+      },
+      {
+        "id": "7112",
+        "level": 2,
+        "name": {
+          "th": "หนองปรือ",
+          "en": "Nong Prue",
+          "slug": "nong-prue"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 14
+    },
+    "zip_codes": [
+      "71220"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.626",
+      "lon": "99.527"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-pla-lai-711202/"
+    }
+  },
+  {
+    "id": "711201",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองปรือ",
+      "en": "Nong Prue",
+      "slug": "nong-prue"
+    },
+    "code": {
+      "dopa": "711201"
+    },
+    "parent": {
+      "id": "7112",
+      "level": 2,
+      "name": {
+        "th": "หนองปรือ",
+        "en": "Nong Prue",
+        "slug": "nong-prue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "th": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi"
+        }
+      },
+      {
+        "id": "7112",
+        "level": 2,
+        "name": {
+          "th": "หนองปรือ",
+          "en": "Nong Prue",
+          "slug": "nong-prue"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 22
+    },
+    "zip_codes": [
+      "71220"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.630",
+      "lon": "99.454"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-prue-711201/"
+    }
+  },
+  {
+    "id": "711203",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "สมเด็จเจริญ",
+      "en": "Somdet Charoen",
+      "slug": "somdet-charoen"
+    },
+    "code": {
+      "dopa": "711203"
+    },
+    "parent": {
+      "id": "7112",
+      "level": 2,
+      "name": {
+        "th": "หนองปรือ",
+        "en": "Nong Prue",
+        "slug": "nong-prue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "th": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi"
+        }
+      },
+      {
+        "id": "7112",
+        "level": 2,
+        "name": {
+          "th": "หนองปรือ",
+          "en": "Nong Prue",
+          "slug": "nong-prue"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "71220"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.746",
+      "lon": "99.338"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/somdet-charoen-711203/"
+    }
+  }
+]

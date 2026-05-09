@@ -1,0 +1,61 @@
+{
+  "id": "810117",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองทะเล",
+    "en": "Nong Thale",
+    "slug": "nong-thale"
+  },
+  "code": {
+    "dopa": "810117"
+  },
+  "parent": {
+    "id": "8101",
+    "level": 2,
+    "name": {
+      "th": "เมืองกระบี่",
+      "en": "Mueang Krabi",
+      "slug": "mueang-krabi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8101",
+      "level": 2,
+      "name": {
+        "th": "เมืองกระบี่",
+        "en": "Mueang Krabi",
+        "slug": "mueang-krabi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "81000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.088",
+    "lon": "98.785"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-thale-810117/"
+  }
+}

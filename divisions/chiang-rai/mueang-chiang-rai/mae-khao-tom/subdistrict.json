@@ -1,0 +1,61 @@
+{
+  "id": "570105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่ข้าวต้ม",
+    "en": "Mae Khao Tom",
+    "slug": "mae-khao-tom"
+  },
+  "code": {
+    "dopa": "570105"
+  },
+  "parent": {
+    "id": "5701",
+    "level": 2,
+    "name": {
+      "th": "เมืองเชียงราย",
+      "en": "Mueang Chiang Rai",
+      "slug": "mueang-chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5701",
+      "level": 2,
+      "name": {
+        "th": "เมืองเชียงราย",
+        "en": "Mueang Chiang Rai",
+        "slug": "mueang-chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 23
+  },
+  "zip_codes": [
+    "57100"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.021",
+    "lon": "99.922"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-khao-tom-570105/"
+  }
+}

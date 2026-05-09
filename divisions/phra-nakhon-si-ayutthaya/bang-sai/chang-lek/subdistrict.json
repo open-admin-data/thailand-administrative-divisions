@@ -1,0 +1,61 @@
+{
+  "id": "140409",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ช่างเหล็ก",
+    "en": "Chang Lek",
+    "slug": "chang-lek"
+  },
+  "code": {
+    "dopa": "140409"
+  },
+  "parent": {
+    "id": "1404",
+    "level": 2,
+    "name": {
+      "th": "บางไทร",
+      "en": "Bang Sai",
+      "slug": "bang-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1404",
+      "level": 2,
+      "name": {
+        "th": "บางไทร",
+        "en": "Bang Sai",
+        "slug": "bang-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "13190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.278",
+    "lon": "100.453"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chang-lek-140409/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "6507",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "วัดโบสถ์",
+    "en": "Wat Bot",
+    "slug": "wat-bot"
+  },
+  "code": {
+    "dopa": "6507"
+  },
+  "parent": {
+    "id": "65",
+    "level": 1,
+    "name": {
+      "th": "พิษณุโลก",
+      "en": "Phitsanulok",
+      "slug": "phitsanulok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 61
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.968",
+    "lon": "100.296"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wat-bot-6507/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "430509",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เซิม",
+    "en": "Soem",
+    "slug": "soem"
+  },
+  "code": {
+    "dopa": "430509"
+  },
+  "parent": {
+    "id": "4305",
+    "level": 2,
+    "name": {
+      "th": "โพนพิสัย",
+      "en": "Phon Phisai",
+      "slug": "phon-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4305",
+      "level": 2,
+      "name": {
+        "th": "โพนพิสัย",
+        "en": "Phon Phisai",
+        "slug": "phon-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "43120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.926",
+    "lon": "103.277"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/soem-430509/"
+  }
+}

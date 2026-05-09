@@ -1,0 +1,61 @@
+{
+  "id": "350703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำอ้อม",
+    "en": "Nam Om",
+    "slug": "nam-om"
+  },
+  "code": {
+    "dopa": "350703"
+  },
+  "parent": {
+    "id": "3507",
+    "level": 2,
+    "name": {
+      "th": "ค้อวัง",
+      "en": "Kho Wang",
+      "slug": "kho-wang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3507",
+      "level": 2,
+      "name": {
+        "th": "ค้อวัง",
+        "en": "Kho Wang",
+        "slug": "kho-wang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "35160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.397",
+    "lon": "104.280"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-om-350703/"
+  }
+}

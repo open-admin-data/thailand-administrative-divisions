@@ -1,0 +1,61 @@
+{
+  "id": "401511",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังหิน",
+    "en": "Wang Hin",
+    "slug": "wang-hin"
+  },
+  "code": {
+    "dopa": "401511"
+  },
+  "parent": {
+    "id": "4015",
+    "level": 2,
+    "name": {
+      "th": "หนองสองห้อง",
+      "en": "Nong Song Hong",
+      "slug": "nong-song-hong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4015",
+      "level": 2,
+      "name": {
+        "th": "หนองสองห้อง",
+        "en": "Nong Song Hong",
+        "slug": "nong-song-hong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "40190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.873",
+    "lon": "102.742"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-hin-401511/"
+  }
+}

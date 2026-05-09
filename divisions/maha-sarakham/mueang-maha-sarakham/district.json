@@ -1,0 +1,50 @@
+{
+  "id": "4401",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองมหาสารคาม",
+    "en": "Mueang Maha Sarakham",
+    "slug": "mueang-maha-sarakham"
+  },
+  "code": {
+    "dopa": "4401"
+  },
+  "parent": {
+    "id": "44",
+    "level": 1,
+    "name": {
+      "th": "มหาสารคาม",
+      "en": "Maha Sarakham",
+      "slug": "maha-sarakham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 14,
+    "villages": 215
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.162",
+    "lon": "103.484"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-maha-sarakham-4401/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "450406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงแดง",
+    "en": "Dong Daeng",
+    "slug": "dong-daeng"
+  },
+  "code": {
+    "dopa": "450406"
+  },
+  "parent": {
+    "id": "4504",
+    "level": 2,
+    "name": {
+      "th": "จตุรพักตรพิมาน",
+      "en": "Chaturaphak Phiman",
+      "slug": "chaturaphak-phiman"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4504",
+      "level": 2,
+      "name": {
+        "th": "จตุรพักตรพิมาน",
+        "en": "Chaturaphak Phiman",
+        "slug": "chaturaphak-phiman"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "45180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.854",
+    "lon": "103.669"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-daeng-450406/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "841505",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขานิพันธ์",
+    "en": "*Khao Niphan",
+    "slug": "khao-niphan"
+  },
+  "code": {
+    "dopa": "841505"
+  },
+  "parent": {
+    "id": "8415",
+    "level": 2,
+    "name": {
+      "th": "เวียงสระ",
+      "en": "Wiang Sa",
+      "slug": "wiang-sa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8415",
+      "level": 2,
+      "name": {
+        "th": "เวียงสระ",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "84190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.584",
+    "lon": "99.348"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-niphan-841505/"
+  }
+}

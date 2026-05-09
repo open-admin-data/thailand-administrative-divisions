@@ -1,0 +1,61 @@
+{
+  "id": "480902",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นางัว",
+    "en": "Na Ngua",
+    "slug": "na-ngua"
+  },
+  "code": {
+    "dopa": "480902"
+  },
+  "parent": {
+    "id": "4809",
+    "level": 2,
+    "name": {
+      "th": "นาหว้า",
+      "en": "Na Wa",
+      "slug": "na-wa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4809",
+      "level": 2,
+      "name": {
+        "th": "นาหว้า",
+        "en": "Na Wa",
+        "slug": "na-wa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "48180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.424",
+    "lon": "104.071"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-ngua-480902/"
+  }
+}

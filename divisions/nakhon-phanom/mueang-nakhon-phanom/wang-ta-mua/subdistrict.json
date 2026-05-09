@@ -1,0 +1,61 @@
+{
+  "id": "480114",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังตามัว",
+    "en": "Wang Ta Mua",
+    "slug": "wang-ta-mua"
+  },
+  "code": {
+    "dopa": "480114"
+  },
+  "parent": {
+    "id": "4801",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครพนม",
+      "en": "Mueang Nakhon Phanom",
+      "slug": "mueang-nakhon-phanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4801",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครพนม",
+        "en": "Mueang Nakhon Phanom",
+        "slug": "mueang-nakhon-phanom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "48000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.312",
+    "lon": "104.492"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-ta-mua-480114/"
+  }
+}

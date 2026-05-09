@@ -1,0 +1,61 @@
+{
+  "id": "230303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังตะเคียน",
+    "en": "Wang Takhian",
+    "slug": "wang-takhian"
+  },
+  "code": {
+    "dopa": "230303"
+  },
+  "parent": {
+    "id": "2303",
+    "level": 2,
+    "name": {
+      "th": "เขาสมิง",
+      "en": "Khao Saming",
+      "slug": "khao-saming"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "th": "ตราด",
+        "en": "Trat",
+        "slug": "trat"
+      }
+    },
+    {
+      "id": "2303",
+      "level": 2,
+      "name": {
+        "th": "เขาสมิง",
+        "en": "Khao Saming",
+        "slug": "khao-saming"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "23130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.478",
+    "lon": "102.531"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-takhian-230303/"
+  }
+}

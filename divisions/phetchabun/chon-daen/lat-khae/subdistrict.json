@@ -1,0 +1,61 @@
+{
+  "id": "670205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลาดแค",
+    "en": "Lat Khae",
+    "slug": "lat-khae"
+  },
+  "code": {
+    "dopa": "670205"
+  },
+  "parent": {
+    "id": "6702",
+    "level": 2,
+    "name": {
+      "th": "ชนแดน",
+      "en": "Chon Daen",
+      "slug": "chon-daen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6702",
+      "level": 2,
+      "name": {
+        "th": "ชนแดน",
+        "en": "Chon Daen",
+        "slug": "chon-daen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 22
+  },
+  "zip_codes": [
+    "67150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.983",
+    "lon": "100.839"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lat-khae-670205/"
+  }
+}

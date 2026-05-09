@@ -1,0 +1,61 @@
+{
+  "id": "360611",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองบัวโคก",
+    "en": "Nong Bua Khok",
+    "slug": "nong-bua-khok"
+  },
+  "code": {
+    "dopa": "360611"
+  },
+  "parent": {
+    "id": "3606",
+    "level": 2,
+    "name": {
+      "th": "จัตุรัส",
+      "en": "Chatturat",
+      "slug": "chatturat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3606",
+      "level": 2,
+      "name": {
+        "th": "จัตุรัส",
+        "en": "Chatturat",
+        "slug": "chatturat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "36220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.448",
+    "lon": "101.854"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-bua-khok-360611/"
+  }
+}

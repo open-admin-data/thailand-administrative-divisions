@@ -1,0 +1,61 @@
+{
+  "id": "240803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งพระยา",
+    "en": "Thung Phraya",
+    "slug": "thung-phraya"
+  },
+  "code": {
+    "dopa": "240803"
+  },
+  "parent": {
+    "id": "2408",
+    "level": 2,
+    "name": {
+      "th": "สนามชัยเขต",
+      "en": "Sanam Chai Khet",
+      "slug": "sanam-chai-khet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2408",
+      "level": 2,
+      "name": {
+        "th": "สนามชัยเขต",
+        "en": "Sanam Chai Khet",
+        "slug": "sanam-chai-khet"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "24160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.687",
+    "lon": "101.745"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-phraya-240803/"
+  }
+}

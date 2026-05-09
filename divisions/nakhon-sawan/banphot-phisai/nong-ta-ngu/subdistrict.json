@@ -1,0 +1,61 @@
+{
+  "id": "600511",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองตางู",
+    "en": "Nong Ta Ngu",
+    "slug": "nong-ta-ngu"
+  },
+  "code": {
+    "dopa": "600511"
+  },
+  "parent": {
+    "id": "6005",
+    "level": 2,
+    "name": {
+      "th": "บรรพตพิสัย",
+      "en": "Banphot Phisai",
+      "slug": "banphot-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6005",
+      "level": 2,
+      "name": {
+        "th": "บรรพตพิสัย",
+        "en": "Banphot Phisai",
+        "slug": "banphot-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "60180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.130",
+    "lon": "100.054"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-ta-ngu-600511/"
+  }
+}

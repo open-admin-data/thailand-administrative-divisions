@@ -1,0 +1,50 @@
+{
+  "id": "2410",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ท่าตะเกียบ",
+    "en": "Tha Takiap",
+    "slug": "tha-takiap"
+  },
+  "code": {
+    "dopa": "2410"
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "th": "ฉะเชิงเทรา",
+      "en": "Chachoengsao",
+      "slug": "chachoengsao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 2,
+    "villages": 47
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.508",
+    "lon": "101.639"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tha-takiap-2410/"
+  }
+}

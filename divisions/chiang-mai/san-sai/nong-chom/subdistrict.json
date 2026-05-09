@@ -1,0 +1,61 @@
+{
+  "id": "501407",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองจ๊อม",
+    "en": "Nong Chom",
+    "slug": "nong-chom"
+  },
+  "code": {
+    "dopa": "501407"
+  },
+  "parent": {
+    "id": "5014",
+    "level": 2,
+    "name": {
+      "th": "สันทราย",
+      "en": "San Sai",
+      "slug": "san-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5014",
+      "level": 2,
+      "name": {
+        "th": "สันทราย",
+        "en": "San Sai",
+        "slug": "san-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "50210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.852",
+    "lon": "99.023"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-chom-501407/"
+  }
+}

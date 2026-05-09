@@ -1,0 +1,61 @@
+{
+  "id": "420702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าศาลา",
+    "en": "Tha Sala",
+    "slug": "tha-sala"
+  },
+  "code": {
+    "dopa": "420702"
+  },
+  "parent": {
+    "id": "4207",
+    "level": 2,
+    "name": {
+      "th": "ภูเรือ",
+      "en": "Phu Ruea",
+      "slug": "phu-ruea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4207",
+      "level": 2,
+      "name": {
+        "th": "ภูเรือ",
+        "en": "Phu Ruea",
+        "slug": "phu-ruea"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "42160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.391",
+    "lon": "101.463"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-sala-420702/"
+  }
+}

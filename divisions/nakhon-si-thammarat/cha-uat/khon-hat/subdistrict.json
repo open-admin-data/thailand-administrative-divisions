@@ -1,0 +1,61 @@
+{
+  "id": "800707",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขอนหาด",
+    "en": "Khon Hat",
+    "slug": "khon-hat"
+  },
+  "code": {
+    "dopa": "800707"
+  },
+  "parent": {
+    "id": "8007",
+    "level": 2,
+    "name": {
+      "th": "ชะอวด",
+      "en": "Cha-uat",
+      "slug": "cha-uat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8007",
+      "level": 2,
+      "name": {
+        "th": "ชะอวด",
+        "en": "Cha-uat",
+        "slug": "cha-uat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "80180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.872",
+    "lon": "100.059"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khon-hat-800707/"
+  }
+}

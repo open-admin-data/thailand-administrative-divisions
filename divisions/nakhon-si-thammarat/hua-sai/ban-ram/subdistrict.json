@@ -1,0 +1,61 @@
+{
+  "id": "801606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านราม",
+    "en": "Ban Ram",
+    "slug": "ban-ram"
+  },
+  "code": {
+    "dopa": "801606"
+  },
+  "parent": {
+    "id": "8016",
+    "level": 2,
+    "name": {
+      "th": "หัวไทร",
+      "en": "Hua Sai",
+      "slug": "hua-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8016",
+      "level": 2,
+      "name": {
+        "th": "หัวไทร",
+        "en": "Hua Sai",
+        "slug": "hua-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "80170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.081",
+    "lon": "100.257"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-ram-801606/"
+  }
+}

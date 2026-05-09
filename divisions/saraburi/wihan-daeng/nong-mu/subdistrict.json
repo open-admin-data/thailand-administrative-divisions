@@ -1,0 +1,61 @@
+{
+  "id": "190401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองหมู",
+    "en": "Nong Mu",
+    "slug": "nong-mu"
+  },
+  "code": {
+    "dopa": "190401"
+  },
+  "parent": {
+    "id": "1904",
+    "level": 2,
+    "name": {
+      "th": "วิหารแดง",
+      "en": "Wihan Daeng",
+      "slug": "wihan-daeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1904",
+      "level": 2,
+      "name": {
+        "th": "วิหารแดง",
+        "en": "Wihan Daeng",
+        "slug": "wihan-daeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "18150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.288",
+    "lon": "100.932"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-mu-190401/"
+  }
+}

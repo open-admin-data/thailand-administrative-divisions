@@ -1,0 +1,50 @@
+{
+  "id": "3205",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปราสาท",
+    "en": "Prasat",
+    "slug": "prasat"
+  },
+  "code": {
+    "dopa": "3205"
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "th": "สุรินทร์",
+      "en": "Surin",
+      "slug": "surin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 18,
+    "villages": 241
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.688",
+    "lon": "103.377"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/prasat-3205/"
+  }
+}

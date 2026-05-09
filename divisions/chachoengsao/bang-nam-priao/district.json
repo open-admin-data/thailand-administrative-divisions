@@ -1,0 +1,50 @@
+{
+  "id": "2403",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บางน้ำเปรี้ยว",
+    "en": "Bang Nam Priao",
+    "slug": "bang-nam-priao"
+  },
+  "code": {
+    "dopa": "2403"
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "th": "ฉะเชิงเทรา",
+      "en": "Chachoengsao",
+      "slug": "chachoengsao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 148
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.858",
+    "lon": "101.115"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-nam-priao-2403/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "150704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพธิ์ม่วงพันธ์",
+    "en": "Pho Muang Phan",
+    "slug": "pho-muang-phan"
+  },
+  "code": {
+    "dopa": "150704"
+  },
+  "parent": {
+    "id": "1507",
+    "level": 2,
+    "name": {
+      "th": "สามโก้",
+      "en": "Samko",
+      "slug": "samko"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1507",
+      "level": 2,
+      "name": {
+        "th": "สามโก้",
+        "en": "Samko",
+        "slug": "samko"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "14160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.561",
+    "lon": "100.254"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pho-muang-phan-150704/"
+  }
+}

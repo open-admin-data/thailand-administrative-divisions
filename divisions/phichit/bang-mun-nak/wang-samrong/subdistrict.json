@@ -1,0 +1,61 @@
+{
+  "id": "660505",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังสำโรง",
+    "en": "Wang Samrong",
+    "slug": "wang-samrong"
+  },
+  "code": {
+    "dopa": "660505"
+  },
+  "parent": {
+    "id": "6605",
+    "level": 2,
+    "name": {
+      "th": "บางมูลนาก",
+      "en": "Bang Mun Nak",
+      "slug": "bang-mun-nak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6605",
+      "level": 2,
+      "name": {
+        "th": "บางมูลนาก",
+        "en": "Bang Mun Nak",
+        "slug": "bang-mun-nak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "66120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.968",
+    "lon": "100.433"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-samrong-660505/"
+  }
+}

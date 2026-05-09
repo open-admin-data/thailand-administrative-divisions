@@ -1,0 +1,61 @@
+{
+  "id": "110502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านคลองสวน",
+    "en": "Ban Khlong Suan",
+    "slug": "ban-khlong-suan"
+  },
+  "code": {
+    "dopa": "110502"
+  },
+  "parent": {
+    "id": "1105",
+    "level": 2,
+    "name": {
+      "th": "พระสมุทรเจดีย์",
+      "en": "Phra Samut Chedi",
+      "slug": "phra-samut-chedi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1105",
+      "level": 2,
+      "name": {
+        "th": "พระสมุทรเจดีย์",
+        "en": "Phra Samut Chedi",
+        "slug": "phra-samut-chedi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "10290"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.571",
+    "lon": "100.476"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-khlong-suan-110502/"
+  }
+}

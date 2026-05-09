@@ -1,0 +1,61 @@
+{
+  "id": "800912",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาโพธิ์",
+    "en": "Na Pho",
+    "slug": "na-pho"
+  },
+  "code": {
+    "dopa": "800912"
+  },
+  "parent": {
+    "id": "8009",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งสง",
+      "en": "Thung Song",
+      "slug": "thung-song"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8009",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งสง",
+        "en": "Thung Song",
+        "slug": "thung-song"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "80110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.209",
+    "lon": "99.574"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-pho-800912/"
+  }
+}

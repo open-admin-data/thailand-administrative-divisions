@@ -1,0 +1,61 @@
+{
+  "id": "350811",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุดแห่",
+    "en": "Kut Hae",
+    "slug": "kut-hae"
+  },
+  "code": {
+    "dopa": "350811"
+  },
+  "parent": {
+    "id": "3508",
+    "level": 2,
+    "name": {
+      "th": "เลิงนกทา",
+      "en": "Loeng Nok Tha",
+      "slug": "loeng-nok-tha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3508",
+      "level": 2,
+      "name": {
+        "th": "เลิงนกทา",
+        "en": "Loeng Nok Tha",
+        "slug": "loeng-nok-tha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "35120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.275",
+    "lon": "104.520"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kut-hae-350811/"
+  }
+}

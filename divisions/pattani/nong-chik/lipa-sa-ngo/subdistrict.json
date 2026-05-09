@@ -1,0 +1,61 @@
+{
+  "id": "940312",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลิปะสะโง",
+    "en": "Lipa Sa-ngo",
+    "slug": "lipa-sa-ngo"
+  },
+  "code": {
+    "dopa": "940312"
+  },
+  "parent": {
+    "id": "9403",
+    "level": 2,
+    "name": {
+      "th": "หนองจิก",
+      "en": "Nong Chik",
+      "slug": "nong-chik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9403",
+      "level": 2,
+      "name": {
+        "th": "หนองจิก",
+        "en": "Nong Chik",
+        "slug": "nong-chik"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "94170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.805",
+    "lon": "101.231"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lipa-sa-ngo-940312/"
+  }
+}

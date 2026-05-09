@@ -1,0 +1,61 @@
+{
+  "id": "500904",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่งอน",
+    "en": "Mae Ngon",
+    "slug": "mae-ngon"
+  },
+  "code": {
+    "dopa": "500904"
+  },
+  "parent": {
+    "id": "5009",
+    "level": 2,
+    "name": {
+      "th": "ฝาง",
+      "en": "Fang",
+      "slug": "fang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5009",
+      "level": 2,
+      "name": {
+        "th": "ฝาง",
+        "en": "Fang",
+        "slug": "fang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "50320"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.793",
+    "lon": "99.124"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-ngon-500904/"
+  }
+}

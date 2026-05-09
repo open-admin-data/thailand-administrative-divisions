@@ -1,0 +1,50 @@
+{
+  "id": "4403",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โกสุมพิสัย",
+    "en": "Kosum Phisai",
+    "slug": "kosum-phisai"
+  },
+  "code": {
+    "dopa": "4403"
+  },
+  "parent": {
+    "id": "44",
+    "level": 1,
+    "name": {
+      "th": "มหาสารคาม",
+      "en": "Maha Sarakham",
+      "slug": "maha-sarakham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 17,
+    "villages": 233
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.216",
+    "lon": "103.142"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kosum-phisai-4403/"
+  }
+}

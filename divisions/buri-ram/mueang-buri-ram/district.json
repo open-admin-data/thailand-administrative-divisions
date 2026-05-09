@@ -1,0 +1,50 @@
+{
+  "id": "3101",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองบุรีรัมย์",
+    "en": "Mueang Buri Ram",
+    "slug": "mueang-buri-ram"
+  },
+  "code": {
+    "dopa": "3101"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 19,
+    "villages": 341
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.999",
+    "lon": "103.104"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-buri-ram-3101/"
+  }
+}

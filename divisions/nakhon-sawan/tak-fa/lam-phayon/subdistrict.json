@@ -1,0 +1,61 @@
+{
+  "id": "601202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลำพยนต์",
+    "en": "Lam Phayon",
+    "slug": "lam-phayon"
+  },
+  "code": {
+    "dopa": "601202"
+  },
+  "parent": {
+    "id": "6012",
+    "level": 2,
+    "name": {
+      "th": "ตากฟ้า",
+      "en": "Tak Fa",
+      "slug": "tak-fa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6012",
+      "level": 2,
+      "name": {
+        "th": "ตากฟ้า",
+        "en": "Tak Fa",
+        "slug": "tak-fa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "60190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.320",
+    "lon": "100.573"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lam-phayon-601202/"
+  }
+}

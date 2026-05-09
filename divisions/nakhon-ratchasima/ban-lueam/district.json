@@ -1,0 +1,50 @@
+{
+  "id": "3005",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านเหลื่อม",
+    "en": "Ban Lueam",
+    "slug": "ban-lueam"
+  },
+  "code": {
+    "dopa": "3005"
+  },
+  "parent": {
+    "id": "30",
+    "level": 1,
+    "name": {
+      "th": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 39
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.571",
+    "lon": "102.103"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-lueam-3005/"
+  }
+}

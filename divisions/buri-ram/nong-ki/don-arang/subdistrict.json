@@ -1,0 +1,61 @@
+{
+  "id": "310504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนอะราง",
+    "en": "Don Arang",
+    "slug": "don-arang"
+  },
+  "code": {
+    "dopa": "310504"
+  },
+  "parent": {
+    "id": "3105",
+    "level": 2,
+    "name": {
+      "th": "หนองกี่",
+      "en": "Nong Ki",
+      "slug": "nong-ki"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3105",
+      "level": 2,
+      "name": {
+        "th": "หนองกี่",
+        "en": "Nong Ki",
+        "slug": "nong-ki"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "31210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.642",
+    "lon": "102.571"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-arang-310504/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "670104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สะเดียง",
+    "en": "Sadiang",
+    "slug": "sadiang"
+  },
+  "code": {
+    "dopa": "670104"
+  },
+  "parent": {
+    "id": "6701",
+    "level": 2,
+    "name": {
+      "th": "เมืองเพชรบูรณ์",
+      "en": "Mueang Phetchabun",
+      "slug": "mueang-phetchabun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "th": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "67000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.396",
+    "lon": "101.164"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sadiang-670104/"
+  }
+}

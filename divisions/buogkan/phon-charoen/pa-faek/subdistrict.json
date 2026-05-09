@@ -1,0 +1,61 @@
+{
+  "id": "380206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าแฝก",
+    "en": "Pa Faek",
+    "slug": "pa-faek"
+  },
+  "code": {
+    "dopa": "380206"
+  },
+  "parent": {
+    "id": "3802",
+    "level": 2,
+    "name": {
+      "th": "พรเจริญ",
+      "en": "Phon Charoen",
+      "slug": "phon-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3802",
+      "level": 2,
+      "name": {
+        "th": "พรเจริญ",
+        "en": "Phon Charoen",
+        "slug": "phon-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "38180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.094",
+    "lon": "103.698"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-faek-380206/"
+  }
+}

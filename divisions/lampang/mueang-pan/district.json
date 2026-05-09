@@ -1,0 +1,50 @@
+{
+  "id": "5213",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองปาน",
+    "en": "Mueang Pan",
+    "slug": "mueang-pan"
+  },
+  "code": {
+    "dopa": "5213"
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "th": "ลำปาง",
+      "en": "Lampang",
+      "slug": "lampang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 56
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.797",
+    "lon": "99.446"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-pan-5213/"
+  }
+}

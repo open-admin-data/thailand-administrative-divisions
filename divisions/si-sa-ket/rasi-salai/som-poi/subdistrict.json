@@ -1,0 +1,61 @@
+{
+  "id": "330912",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ส้มป่อย",
+    "en": "Som Poi",
+    "slug": "som-poi"
+  },
+  "code": {
+    "dopa": "330912"
+  },
+  "parent": {
+    "id": "3309",
+    "level": 2,
+    "name": {
+      "th": "ราษีไศล",
+      "en": "Rasi Salai",
+      "slug": "rasi-salai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3309",
+      "level": 2,
+      "name": {
+        "th": "ราษีไศล",
+        "en": "Rasi Salai",
+        "slug": "rasi-salai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "33160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.283",
+    "lon": "104.232"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/som-poi-330912/"
+  }
+}

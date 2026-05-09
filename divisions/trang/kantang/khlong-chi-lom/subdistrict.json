@@ -1,0 +1,61 @@
+{
+  "id": "920214",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองชีล้อม",
+    "en": "Khlong Chi Lom",
+    "slug": "khlong-chi-lom"
+  },
+  "code": {
+    "dopa": "920214"
+  },
+  "parent": {
+    "id": "9202",
+    "level": 2,
+    "name": {
+      "th": "กันตัง",
+      "en": "Kantang",
+      "slug": "kantang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "th": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "92110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.433",
+    "lon": "99.587"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-chi-lom-920214/"
+  }
+}

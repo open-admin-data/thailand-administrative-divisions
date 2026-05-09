@@ -1,0 +1,50 @@
+{
+  "id": "8405",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เกาะพะงัน",
+    "en": "Ko Pha-ngan",
+    "slug": "ko-pha-ngan"
+  },
+  "code": {
+    "dopa": "8405"
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "th": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 2,
+    "villages": 14
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.802",
+    "lon": "99.979"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ko-pha-ngan-8405/"
+  }
+}

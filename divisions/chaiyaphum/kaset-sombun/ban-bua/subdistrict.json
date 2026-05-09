@@ -1,0 +1,61 @@
+{
+  "id": "360410",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านบัว",
+    "en": "Ban Bua",
+    "slug": "ban-bua"
+  },
+  "code": {
+    "dopa": "360410"
+  },
+  "parent": {
+    "id": "3604",
+    "level": 2,
+    "name": {
+      "th": "เกษตรสมบูรณ์",
+      "en": "Kaset Sombun",
+      "slug": "kaset-sombun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3604",
+      "level": 2,
+      "name": {
+        "th": "เกษตรสมบูรณ์",
+        "en": "Kaset Sombun",
+        "slug": "kaset-sombun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "36120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.242",
+    "lon": "101.874"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-bua-360410/"
+  }
+}

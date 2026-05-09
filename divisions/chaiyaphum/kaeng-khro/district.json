@@ -1,0 +1,50 @@
+{
+  "id": "3612",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แก้งคร้อ",
+    "en": "Kaeng Khro",
+    "slug": "kaeng-khro"
+  },
+  "code": {
+    "dopa": "3612"
+  },
+  "parent": {
+    "id": "36",
+    "level": 1,
+    "name": {
+      "th": "ชัยภูมิ",
+      "en": "Chaiyaphum",
+      "slug": "chaiyaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 126
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.056",
+    "lon": "102.074"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kaeng-khro-3612/"
+  }
+}

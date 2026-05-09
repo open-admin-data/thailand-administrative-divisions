@@ -1,0 +1,61 @@
+{
+  "id": "210505",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางบุตร",
+    "en": "Bang But",
+    "slug": "bang-but"
+  },
+  "code": {
+    "dopa": "210505"
+  },
+  "parent": {
+    "id": "2105",
+    "level": 2,
+    "name": {
+      "th": "บ้านค่าย",
+      "en": "Ban Khai",
+      "slug": "ban-khai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2105",
+      "level": 2,
+      "name": {
+        "th": "บ้านค่าย",
+        "en": "Ban Khai",
+        "slug": "ban-khai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "21120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.848",
+    "lon": "101.391"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-but-210505/"
+  }
+}

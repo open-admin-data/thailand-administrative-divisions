@@ -1,0 +1,50 @@
+{
+  "id": "9002",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สทิงพระ",
+    "en": "Sathing Phra",
+    "slug": "sathing-phra"
+  },
+  "code": {
+    "dopa": "9002"
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "th": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 79
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.580",
+    "lon": "100.406"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sathing-phra-9002/"
+  }
+}

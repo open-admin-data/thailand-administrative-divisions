@@ -1,0 +1,61 @@
+{
+  "id": "840404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หน้าเมือง",
+    "en": "Na Mueang",
+    "slug": "na-mueang"
+  },
+  "code": {
+    "dopa": "840404"
+  },
+  "parent": {
+    "id": "8404",
+    "level": 2,
+    "name": {
+      "th": "เกาะสมุย",
+      "en": "Ko Samui",
+      "slug": "ko-samui"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8404",
+      "level": 2,
+      "name": {
+        "th": "เกาะสมุย",
+        "en": "Ko Samui",
+        "slug": "ko-samui"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "84140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.461",
+    "lon": "99.996"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-mueang-840404/"
+  }
+}

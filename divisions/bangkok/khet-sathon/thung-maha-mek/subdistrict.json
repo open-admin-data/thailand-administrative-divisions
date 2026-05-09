@@ -1,0 +1,61 @@
+{
+  "id": "102803",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง ทุ่งมหาเมฆ",
+    "en": "Thung Maha Mek",
+    "slug": "thung-maha-mek"
+  },
+  "code": {
+    "dopa": "102803"
+  },
+  "parent": {
+    "id": "1028",
+    "level": 2,
+    "name": {
+      "th": "เขต สาทร",
+      "en": "Khet Sathon",
+      "slug": "khet-sathon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1028",
+      "level": 2,
+      "name": {
+        "th": "เขต สาทร",
+        "en": "Khet Sathon",
+        "slug": "khet-sathon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10120"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.718",
+    "lon": "100.541"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-maha-mek-102803/"
+  }
+}

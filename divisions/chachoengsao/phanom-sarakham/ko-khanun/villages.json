@@ -1,0 +1,917 @@
+[
+  {
+    "id": "24060101",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านโรงเลื่อยจักร",
+      "en": "Ban Ronglueai Chak",
+      "slug": "24060101"
+    },
+    "code": {
+      "dopa": "24060101"
+    },
+    "parent": {
+      "id": "240601",
+      "level": 3,
+      "name": {
+        "th": "เกาะขนุน",
+        "en": "Ko Khanun",
+        "slug": "ko-khanun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2406",
+        "level": 2,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      },
+      {
+        "id": "240601",
+        "level": 3,
+        "name": {
+          "th": "เกาะขนุน",
+          "en": "Ko Khanun",
+          "slug": "ko-khanun"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.728509641825154",
+      "lon": "101.36365726590157"
+    },
+    "source": {}
+  },
+  {
+    "id": "24060102",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเกาะขนุน",
+      "en": "Ban Ko Khanun",
+      "slug": "24060102"
+    },
+    "code": {
+      "dopa": "24060102"
+    },
+    "parent": {
+      "id": "240601",
+      "level": 3,
+      "name": {
+        "th": "เกาะขนุน",
+        "en": "Ko Khanun",
+        "slug": "ko-khanun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2406",
+        "level": 2,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      },
+      {
+        "id": "240601",
+        "level": 3,
+        "name": {
+          "th": "เกาะขนุน",
+          "en": "Ko Khanun",
+          "slug": "ko-khanun"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.728482283218918",
+      "lon": "101.3772439956665"
+    },
+    "source": {}
+  },
+  {
+    "id": "24060103",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเกาะบุนนาค",
+      "en": "Ban Ko Bun Nak",
+      "slug": "24060103"
+    },
+    "code": {
+      "dopa": "24060103"
+    },
+    "parent": {
+      "id": "240601",
+      "level": 3,
+      "name": {
+        "th": "เกาะขนุน",
+        "en": "Ko Khanun",
+        "slug": "ko-khanun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2406",
+        "level": 2,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      },
+      {
+        "id": "240601",
+        "level": 3,
+        "name": {
+          "th": "เกาะขนุน",
+          "en": "Ko Khanun",
+          "slug": "ko-khanun"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.719187989185661",
+      "lon": "101.3752444088459"
+    },
+    "source": {}
+  },
+  {
+    "id": "24060104",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองเสือ",
+      "en": "Ban Nong Suea",
+      "slug": "24060104"
+    },
+    "code": {
+      "dopa": "24060104"
+    },
+    "parent": {
+      "id": "240601",
+      "level": 3,
+      "name": {
+        "th": "เกาะขนุน",
+        "en": "Ko Khanun",
+        "slug": "ko-khanun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2406",
+        "level": 2,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      },
+      {
+        "id": "240601",
+        "level": 3,
+        "name": {
+          "th": "เกาะขนุน",
+          "en": "Ko Khanun",
+          "slug": "ko-khanun"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.69476233136889",
+      "lon": "101.3864828646183"
+    },
+    "source": {}
+  },
+  {
+    "id": "24060105",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านแหลมตะคร้อ",
+      "en": "Ban Laem Takhro",
+      "slug": "24060105"
+    },
+    "code": {
+      "dopa": "24060105"
+    },
+    "parent": {
+      "id": "240601",
+      "level": 3,
+      "name": {
+        "th": "เกาะขนุน",
+        "en": "Ko Khanun",
+        "slug": "ko-khanun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2406",
+        "level": 2,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      },
+      {
+        "id": "240601",
+        "level": 3,
+        "name": {
+          "th": "เกาะขนุน",
+          "en": "Ko Khanun",
+          "slug": "ko-khanun"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.728319434306275",
+      "lon": "101.39620453119278"
+    },
+    "source": {}
+  },
+  {
+    "id": "24060106",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านนาน้อย",
+      "en": "Ban Na Noi",
+      "slug": "24060106"
+    },
+    "code": {
+      "dopa": "24060106"
+    },
+    "parent": {
+      "id": "240601",
+      "level": 3,
+      "name": {
+        "th": "เกาะขนุน",
+        "en": "Ko Khanun",
+        "slug": "ko-khanun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2406",
+        "level": 2,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      },
+      {
+        "id": "240601",
+        "level": 3,
+        "name": {
+          "th": "เกาะขนุน",
+          "en": "Ko Khanun",
+          "slug": "ko-khanun"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.684981975639184",
+      "lon": "101.42911523580551"
+    },
+    "source": {}
+  },
+  {
+    "id": "24060107",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านชายเคือง",
+      "en": "Ban Chai Khueang",
+      "slug": "24060107"
+    },
+    "code": {
+      "dopa": "24060107"
+    },
+    "parent": {
+      "id": "240601",
+      "level": 3,
+      "name": {
+        "th": "เกาะขนุน",
+        "en": "Ko Khanun",
+        "slug": "ko-khanun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2406",
+        "level": 2,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      },
+      {
+        "id": "240601",
+        "level": 3,
+        "name": {
+          "th": "เกาะขนุน",
+          "en": "Ko Khanun",
+          "slug": "ko-khanun"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.703712316421651",
+      "lon": "101.40717208385468"
+    },
+    "source": {}
+  },
+  {
+    "id": "24060108",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านไร่ดอน",
+      "en": "Ban Rai Don",
+      "slug": "24060108"
+    },
+    "code": {
+      "dopa": "24060108"
+    },
+    "parent": {
+      "id": "240601",
+      "level": 3,
+      "name": {
+        "th": "เกาะขนุน",
+        "en": "Ko Khanun",
+        "slug": "ko-khanun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2406",
+        "level": 2,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      },
+      {
+        "id": "240601",
+        "level": 3,
+        "name": {
+          "th": "เกาะขนุน",
+          "en": "Ko Khanun",
+          "slug": "ko-khanun"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.736954179059214",
+      "lon": "101.39327555894852"
+    },
+    "source": {}
+  },
+  {
+    "id": "24060109",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองปรือ",
+      "en": "Ban Nong Prue",
+      "slug": "24060109"
+    },
+    "code": {
+      "dopa": "24060109"
+    },
+    "parent": {
+      "id": "240601",
+      "level": 3,
+      "name": {
+        "th": "เกาะขนุน",
+        "en": "Ko Khanun",
+        "slug": "ko-khanun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2406",
+        "level": 2,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      },
+      {
+        "id": "240601",
+        "level": 3,
+        "name": {
+          "th": "เกาะขนุน",
+          "en": "Ko Khanun",
+          "slug": "ko-khanun"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.685047127235821",
+      "lon": "101.37897938489914"
+    },
+    "source": {}
+  },
+  {
+    "id": "24060110",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านห้วยพลู",
+      "en": "Ban Huai Phlu",
+      "slug": "24060110"
+    },
+    "code": {
+      "dopa": "24060110"
+    },
+    "parent": {
+      "id": "240601",
+      "level": 3,
+      "name": {
+        "th": "เกาะขนุน",
+        "en": "Ko Khanun",
+        "slug": "ko-khanun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2406",
+        "level": 2,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      },
+      {
+        "id": "240601",
+        "level": 3,
+        "name": {
+          "th": "เกาะขนุน",
+          "en": "Ko Khanun",
+          "slug": "ko-khanun"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.652807915019535",
+      "lon": "101.4126867055893"
+    },
+    "source": {}
+  },
+  {
+    "id": "24060111",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหินดาษ",
+      "en": "Ban Hin Dat",
+      "slug": "24060111"
+    },
+    "code": {
+      "dopa": "24060111"
+    },
+    "parent": {
+      "id": "240601",
+      "level": 3,
+      "name": {
+        "th": "เกาะขนุน",
+        "en": "Ko Khanun",
+        "slug": "ko-khanun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2406",
+        "level": 2,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      },
+      {
+        "id": "240601",
+        "level": 3,
+        "name": {
+          "th": "เกาะขนุน",
+          "en": "Ko Khanun",
+          "slug": "ko-khanun"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.623777125500085",
+      "lon": "101.39782592654228"
+    },
+    "source": {}
+  },
+  {
+    "id": "24060112",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองอีโถน",
+      "en": "Ban Nong I Thon",
+      "slug": "24060112"
+    },
+    "code": {
+      "dopa": "24060112"
+    },
+    "parent": {
+      "id": "240601",
+      "level": 3,
+      "name": {
+        "th": "เกาะขนุน",
+        "en": "Ko Khanun",
+        "slug": "ko-khanun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2406",
+        "level": 2,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      },
+      {
+        "id": "240601",
+        "level": 3,
+        "name": {
+          "th": "เกาะขนุน",
+          "en": "Ko Khanun",
+          "slug": "ko-khanun"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.658648830251778",
+      "lon": "101.39400377869606"
+    },
+    "source": {}
+  },
+  {
+    "id": "24060113",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านดอนขี้เหล็ก",
+      "en": "Ban Don Khilek",
+      "slug": "24060113"
+    },
+    "code": {
+      "dopa": "24060113"
+    },
+    "parent": {
+      "id": "240601",
+      "level": 3,
+      "name": {
+        "th": "เกาะขนุน",
+        "en": "Ko Khanun",
+        "slug": "ko-khanun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2406",
+        "level": 2,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      },
+      {
+        "id": "240601",
+        "level": 3,
+        "name": {
+          "th": "เกาะขนุน",
+          "en": "Ko Khanun",
+          "slug": "ko-khanun"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.717806972114543",
+      "lon": "101.42663553357124"
+    },
+    "source": {}
+  },
+  {
+    "id": "24060114",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองบ่อ",
+      "en": "Ban Nong Bo",
+      "slug": "24060114"
+    },
+    "code": {
+      "dopa": "24060114"
+    },
+    "parent": {
+      "id": "240601",
+      "level": 3,
+      "name": {
+        "th": "เกาะขนุน",
+        "en": "Ko Khanun",
+        "slug": "ko-khanun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2406",
+        "level": 2,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      },
+      {
+        "id": "240601",
+        "level": 3,
+        "name": {
+          "th": "เกาะขนุน",
+          "en": "Ko Khanun",
+          "slug": "ko-khanun"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.701311007255285",
+      "lon": "101.39364302158356"
+    },
+    "source": {}
+  },
+  {
+    "id": "24060115",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านห้วยสาม",
+      "en": "Ban Huai Sam",
+      "slug": "24060115"
+    },
+    "code": {
+      "dopa": "24060115"
+    },
+    "parent": {
+      "id": "240601",
+      "level": 3,
+      "name": {
+        "th": "เกาะขนุน",
+        "en": "Ko Khanun",
+        "slug": "ko-khanun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2406",
+        "level": 2,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      },
+      {
+        "id": "240601",
+        "level": 3,
+        "name": {
+          "th": "เกาะขนุน",
+          "en": "Ko Khanun",
+          "slug": "ko-khanun"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.753313464199316",
+      "lon": "101.40990257263184"
+    },
+    "source": {}
+  }
+]

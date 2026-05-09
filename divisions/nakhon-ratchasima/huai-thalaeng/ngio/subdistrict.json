@@ -1,0 +1,61 @@
+{
+  "id": "301606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "งิ้ว",
+    "en": "Ngio",
+    "slug": "ngio"
+  },
+  "code": {
+    "dopa": "301606"
+  },
+  "parent": {
+    "id": "3016",
+    "level": 2,
+    "name": {
+      "th": "ห้วยแถลง",
+      "en": "Huai Thalaeng",
+      "slug": "huai-thalaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3016",
+      "level": 2,
+      "name": {
+        "th": "ห้วยแถลง",
+        "en": "Huai Thalaeng",
+        "slug": "huai-thalaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "30240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.077",
+    "lon": "102.689"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ngio-301606/"
+  }
+}

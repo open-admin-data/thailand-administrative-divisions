@@ -1,0 +1,50 @@
+{
+  "id": "1101",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองสมุทรปราการ",
+    "en": "Mueang Samut Prakan",
+    "slug": "mueang-samut-prakan"
+  },
+  "code": {
+    "dopa": "1101"
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 160
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.623",
+    "lon": "100.565"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-samut-prakan-1101/"
+  }
+}

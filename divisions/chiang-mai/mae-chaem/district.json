@@ -1,0 +1,50 @@
+{
+  "id": "5003",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แม่แจ่ม",
+    "en": "Mae Chaem",
+    "slug": "mae-chaem"
+  },
+  "code": {
+    "dopa": "5003"
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 104
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.485",
+    "lon": "98.416"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mae-chaem-5003/"
+  }
+}

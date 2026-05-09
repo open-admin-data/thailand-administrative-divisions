@@ -1,0 +1,61 @@
+{
+  "id": "540504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยไร่",
+    "en": "Huai Rai",
+    "slug": "huai-rai"
+  },
+  "code": {
+    "dopa": "540504"
+  },
+  "parent": {
+    "id": "5405",
+    "level": 2,
+    "name": {
+      "th": "เด่นชัย",
+      "en": "Den Chai",
+      "slug": "den-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    {
+      "id": "5405",
+      "level": 2,
+      "name": {
+        "th": "เด่นชัย",
+        "en": "Den Chai",
+        "slug": "den-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "54110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.898",
+    "lon": "100.090"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-rai-540504/"
+  }
+}

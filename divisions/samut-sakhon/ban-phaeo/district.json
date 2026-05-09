@@ -1,0 +1,50 @@
+{
+  "id": "7403",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านแพ้ว",
+    "en": "Ban Phaeo",
+    "slug": "ban-phaeo"
+  },
+  "code": {
+    "dopa": "7403"
+  },
+  "parent": {
+    "id": "74",
+    "level": 1,
+    "name": {
+      "th": "สมุทรสาคร",
+      "en": "Samut Sakhon",
+      "slug": "samut-sakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสาคร",
+        "en": "Samut Sakhon",
+        "slug": "samut-sakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 98
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.639",
+    "lon": "100.141"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-phaeo-7403/"
+  }
+}

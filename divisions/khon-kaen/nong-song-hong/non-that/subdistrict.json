@@ -1,0 +1,61 @@
+{
+  "id": "401503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนธาตุ",
+    "en": "Non That",
+    "slug": "non-that"
+  },
+  "code": {
+    "dopa": "401503"
+  },
+  "parent": {
+    "id": "4015",
+    "level": 2,
+    "name": {
+      "th": "หนองสองห้อง",
+      "en": "Nong Song Hong",
+      "slug": "nong-song-hong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4015",
+      "level": 2,
+      "name": {
+        "th": "หนองสองห้อง",
+        "en": "Nong Song Hong",
+        "slug": "nong-song-hong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "40190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.705",
+    "lon": "102.720"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-that-401503/"
+  }
+}

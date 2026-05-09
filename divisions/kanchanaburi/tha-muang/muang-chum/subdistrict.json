@@ -1,0 +1,61 @@
+{
+  "id": "710608",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ม่วงชุม",
+    "en": "Muang Chum",
+    "slug": "muang-chum"
+  },
+  "code": {
+    "dopa": "710608"
+  },
+  "parent": {
+    "id": "7106",
+    "level": 2,
+    "name": {
+      "th": "ท่าม่วง",
+      "en": "Tha Muang",
+      "slug": "tha-muang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7106",
+      "level": 2,
+      "name": {
+        "th": "ท่าม่วง",
+        "en": "Tha Muang",
+        "slug": "tha-muang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "71110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.937",
+    "lon": "99.617"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/muang-chum-710608/"
+  }
+}

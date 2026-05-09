@@ -1,0 +1,61 @@
+{
+  "id": "740110",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าทราย",
+    "en": "Tha Sai",
+    "slug": "tha-sai"
+  },
+  "code": {
+    "dopa": "740110"
+  },
+  "parent": {
+    "id": "7401",
+    "level": 2,
+    "name": {
+      "th": "เมืองสมุทรสาคร",
+      "en": "Mueang Samut Sakhon",
+      "slug": "mueang-samut-sakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสาคร",
+        "en": "Samut Sakhon",
+        "slug": "samut-sakhon"
+      }
+    },
+    {
+      "id": "7401",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรสาคร",
+        "en": "Mueang Samut Sakhon",
+        "slug": "mueang-samut-sakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "74000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.571",
+    "lon": "100.266"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-sai-740110/"
+  }
+}

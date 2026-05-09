@@ -1,0 +1,50 @@
+{
+  "id": "1027",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต บึงกุ่ม",
+    "en": "Khet Bueng Kum",
+    "slug": "khet-bueng-kum"
+  },
+  "code": {
+    "dopa": "1027"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 1,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.808",
+    "lon": "100.650"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khet-bueng-kum-1027/"
+  }
+}

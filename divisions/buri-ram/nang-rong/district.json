@@ -1,0 +1,50 @@
+{
+  "id": "3104",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "นางรอง",
+    "en": "Nang Rong",
+    "slug": "nang-rong"
+  },
+  "code": {
+    "dopa": "3104"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 15,
+    "villages": 208
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.581",
+    "lon": "102.705"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nang-rong-3104/"
+  }
+}

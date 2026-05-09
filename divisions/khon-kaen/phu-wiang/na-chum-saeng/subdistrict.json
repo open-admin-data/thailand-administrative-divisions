@@ -1,0 +1,61 @@
+{
+  "id": "401606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาชุมแสง",
+    "en": "Na Chum Saeng",
+    "slug": "na-chum-saeng"
+  },
+  "code": {
+    "dopa": "401606"
+  },
+  "parent": {
+    "id": "4016",
+    "level": 2,
+    "name": {
+      "th": "ภูเวียง",
+      "en": "Phu Wiang",
+      "slug": "phu-wiang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4016",
+      "level": 2,
+      "name": {
+        "th": "ภูเวียง",
+        "en": "Phu Wiang",
+        "slug": "phu-wiang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "40150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.602",
+    "lon": "102.331"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-chum-saeng-401606/"
+  }
+}

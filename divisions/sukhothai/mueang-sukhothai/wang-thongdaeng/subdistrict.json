@@ -1,0 +1,61 @@
+{
+  "id": "640110",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังทองแดง",
+    "en": "Wang Thongdaeng",
+    "slug": "wang-thongdaeng"
+  },
+  "code": {
+    "dopa": "640110"
+  },
+  "parent": {
+    "id": "6401",
+    "level": 2,
+    "name": {
+      "th": "เมืองสุโขทัย",
+      "en": "Mueang Sukhothai",
+      "slug": "mueang-sukhothai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6401",
+      "level": 2,
+      "name": {
+        "th": "เมืองสุโขทัย",
+        "en": "Mueang Sukhothai",
+        "slug": "mueang-sukhothai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "64210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.107",
+    "lon": "99.687"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-thongdaeng-640110/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "310508",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าโพธิ์ชัย",
+    "en": "Tha Pho Chai",
+    "slug": "tha-pho-chai"
+  },
+  "code": {
+    "dopa": "310508"
+  },
+  "parent": {
+    "id": "3105",
+    "level": 2,
+    "name": {
+      "th": "หนองกี่",
+      "en": "Nong Ki",
+      "slug": "nong-ki"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3105",
+      "level": 2,
+      "name": {
+        "th": "หนองกี่",
+        "en": "Nong Ki",
+        "slug": "nong-ki"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "31210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.736",
+    "lon": "102.635"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-pho-chai-310508/"
+  }
+}

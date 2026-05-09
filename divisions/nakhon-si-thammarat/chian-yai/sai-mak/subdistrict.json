@@ -1,0 +1,61 @@
+{
+  "id": "800606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไสหมาก",
+    "en": "Sai Mak",
+    "slug": "sai-mak"
+  },
+  "code": {
+    "dopa": "800606"
+  },
+  "parent": {
+    "id": "8006",
+    "level": 2,
+    "name": {
+      "th": "เชียรใหญ่",
+      "en": "Chian Yai",
+      "slug": "chian-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8006",
+      "level": 2,
+      "name": {
+        "th": "เชียรใหญ่",
+        "en": "Chian Yai",
+        "slug": "chian-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "80190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.203",
+    "lon": "100.163"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sai-mak-800606/"
+  }
+}

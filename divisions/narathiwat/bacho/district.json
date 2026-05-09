@@ -1,0 +1,50 @@
+{
+  "id": "9603",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บาเจาะ",
+    "en": "Bacho",
+    "slug": "bacho"
+  },
+  "code": {
+    "dopa": "9603"
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "th": "นราธิวาส",
+      "en": "Narathiwat",
+      "slug": "narathiwat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 47
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.545",
+    "lon": "101.625"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bacho-9603/"
+  }
+}

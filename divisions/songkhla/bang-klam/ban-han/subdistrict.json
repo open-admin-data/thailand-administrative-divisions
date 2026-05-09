@@ -1,0 +1,61 @@
+{
+  "id": "901404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านหาร",
+    "en": "Ban Han",
+    "slug": "ban-han"
+  },
+  "code": {
+    "dopa": "901404"
+  },
+  "parent": {
+    "id": "9014",
+    "level": 2,
+    "name": {
+      "th": "บางกล่ำ",
+      "en": "Bang Klam",
+      "slug": "bang-klam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9014",
+      "level": 2,
+      "name": {
+        "th": "บางกล่ำ",
+        "en": "Bang Klam",
+        "slug": "bang-klam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "90110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.075",
+    "lon": "100.450"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-han-901404/"
+  }
+}

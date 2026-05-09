@@ -1,0 +1,61 @@
+{
+  "id": "170603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทับยา",
+    "en": "Thap Ya",
+    "slug": "thap-ya"
+  },
+  "code": {
+    "dopa": "170603"
+  },
+  "parent": {
+    "id": "1706",
+    "level": 2,
+    "name": {
+      "th": "อินทร์บุรี",
+      "en": "In Buri",
+      "slug": "in-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1706",
+      "level": 2,
+      "name": {
+        "th": "อินทร์บุรี",
+        "en": "In Buri",
+        "slug": "in-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "16110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.960",
+    "lon": "100.334"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thap-ya-170603/"
+  }
+}

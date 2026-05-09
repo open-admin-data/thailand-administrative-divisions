@@ -1,0 +1,50 @@
+{
+  "id": "2207",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สอยดาว",
+    "en": "Soi Dao",
+    "slug": "soi-dao"
+  },
+  "code": {
+    "dopa": "2207"
+  },
+  "parent": {
+    "id": "22",
+    "level": 1,
+    "name": {
+      "th": "จันทบุรี",
+      "en": "Chanthaburi",
+      "slug": "chanthaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 70
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.174",
+    "lon": "102.371"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/soi-dao-2207/"
+  }
+}

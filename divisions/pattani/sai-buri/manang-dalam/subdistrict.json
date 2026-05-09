@@ -1,0 +1,61 @@
+{
+  "id": "940709",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มะนังดาลำ",
+    "en": "Manang Dalam",
+    "slug": "manang-dalam"
+  },
+  "code": {
+    "dopa": "940709"
+  },
+  "parent": {
+    "id": "9407",
+    "level": 2,
+    "name": {
+      "th": "สายบุรี",
+      "en": "Sai Buri",
+      "slug": "sai-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9407",
+      "level": 2,
+      "name": {
+        "th": "สายบุรี",
+        "en": "Sai Buri",
+        "slug": "sai-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "94110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.649",
+    "lon": "101.599"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/manang-dalam-940709/"
+  }
+}

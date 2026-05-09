@@ -1,0 +1,61 @@
+{
+  "id": "550706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ส้าน",
+    "en": "San",
+    "slug": "san"
+  },
+  "code": {
+    "dopa": "550706"
+  },
+  "parent": {
+    "id": "5507",
+    "level": 2,
+    "name": {
+      "th": "เวียงสา",
+      "en": "Wiang Sa",
+      "slug": "wiang-sa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "th": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "55110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.464",
+    "lon": "100.729"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/san-550706/"
+  }
+}

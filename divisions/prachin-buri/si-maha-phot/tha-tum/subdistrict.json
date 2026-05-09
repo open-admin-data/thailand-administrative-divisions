@@ -1,0 +1,61 @@
+{
+  "id": "250804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าตูม",
+    "en": "Tha Tum",
+    "slug": "tha-tum"
+  },
+  "code": {
+    "dopa": "250804"
+  },
+  "parent": {
+    "id": "2508",
+    "level": 2,
+    "name": {
+      "th": "ศรีมหาโพธิ",
+      "en": "Si Maha Phot",
+      "slug": "si-maha-phot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "th": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri"
+      }
+    },
+    {
+      "id": "2508",
+      "level": 2,
+      "name": {
+        "th": "ศรีมหาโพธิ",
+        "en": "Si Maha Phot",
+        "slug": "si-maha-phot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "25140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.932",
+    "lon": "101.571"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-tum-250804/"
+  }
+}

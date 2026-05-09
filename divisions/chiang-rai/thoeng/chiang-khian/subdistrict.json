@@ -1,0 +1,61 @@
+{
+  "id": "570405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เชียงเคี่ยน",
+    "en": "Chiang Khian",
+    "slug": "chiang-khian"
+  },
+  "code": {
+    "dopa": "570405"
+  },
+  "parent": {
+    "id": "5704",
+    "level": 2,
+    "name": {
+      "th": "เทิง",
+      "en": "Thoeng",
+      "slug": "thoeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5704",
+      "level": 2,
+      "name": {
+        "th": "เทิง",
+        "en": "Thoeng",
+        "slug": "thoeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "57230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.625",
+    "lon": "99.990"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chiang-khian-570405/"
+  }
+}

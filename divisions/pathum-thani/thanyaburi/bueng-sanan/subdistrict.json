@@ -1,0 +1,61 @@
+{
+  "id": "130305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บึงสนั่น",
+    "en": "Bueng Sanan",
+    "slug": "bueng-sanan"
+  },
+  "code": {
+    "dopa": "130305"
+  },
+  "parent": {
+    "id": "1303",
+    "level": 2,
+    "name": {
+      "th": "ธัญบุรี",
+      "en": "Thanyaburi",
+      "slug": "thanyaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1303",
+      "level": 2,
+      "name": {
+        "th": "ธัญบุรี",
+        "en": "Thanyaburi",
+        "slug": "thanyaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "12110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.052",
+    "lon": "100.824"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bueng-sanan-130305/"
+  }
+}

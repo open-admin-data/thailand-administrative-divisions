@@ -1,0 +1,61 @@
+{
+  "id": "240517",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สิบเอ็ดศอก",
+    "en": "Sip Et Sok",
+    "slug": "sip-et-sok"
+  },
+  "code": {
+    "dopa": "240517"
+  },
+  "parent": {
+    "id": "2405",
+    "level": 2,
+    "name": {
+      "th": "บ้านโพธิ์",
+      "en": "Ban Pho",
+      "slug": "ban-pho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2405",
+      "level": 2,
+      "name": {
+        "th": "บ้านโพธิ์",
+        "en": "Ban Pho",
+        "slug": "ban-pho"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "24140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.605",
+    "lon": "101.148"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sip-et-sok-240517/"
+  }
+}

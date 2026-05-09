@@ -1,0 +1,61 @@
+{
+  "id": "412102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แสงสว่าง",
+    "en": "Saeng Sawang",
+    "slug": "saeng-sawang"
+  },
+  "code": {
+    "dopa": "412102"
+  },
+  "parent": {
+    "id": "4121",
+    "level": 2,
+    "name": {
+      "th": "หนองแสง",
+      "en": "Nong Saeng",
+      "slug": "nong-saeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4121",
+      "level": 2,
+      "name": {
+        "th": "หนองแสง",
+        "en": "Nong Saeng",
+        "slug": "nong-saeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "41340"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.121",
+    "lon": "102.804"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/saeng-sawang-412102/"
+  }
+}

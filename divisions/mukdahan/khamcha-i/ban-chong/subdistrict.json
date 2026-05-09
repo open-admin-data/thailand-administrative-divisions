@@ -1,0 +1,61 @@
+{
+  "id": "490501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านช่ง",
+    "en": "Ban Chong",
+    "slug": "ban-chong"
+  },
+  "code": {
+    "dopa": "490501"
+  },
+  "parent": {
+    "id": "4905",
+    "level": 2,
+    "name": {
+      "th": "คำชะอี",
+      "en": "Khamcha-i",
+      "slug": "khamcha-i"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4905",
+      "level": 2,
+      "name": {
+        "th": "คำชะอี",
+        "en": "Khamcha-i",
+        "slug": "khamcha-i"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "49110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.569",
+    "lon": "104.451"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-chong-490501/"
+  }
+}

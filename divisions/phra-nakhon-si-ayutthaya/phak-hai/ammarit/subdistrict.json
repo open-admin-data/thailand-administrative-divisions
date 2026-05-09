@@ -1,0 +1,61 @@
+{
+  "id": "140802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อมฤต",
+    "en": "Ammarit",
+    "slug": "ammarit"
+  },
+  "code": {
+    "dopa": "140802"
+  },
+  "parent": {
+    "id": "1408",
+    "level": 2,
+    "name": {
+      "th": "ผักไห่",
+      "en": "Phak Hai",
+      "slug": "phak-hai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "th": "ผักไห่",
+        "en": "Phak Hai",
+        "slug": "phak-hai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "13120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.472",
+    "lon": "100.361"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ammarit-140802/"
+  }
+}

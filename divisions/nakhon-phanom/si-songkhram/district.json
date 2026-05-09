@@ -1,0 +1,50 @@
+{
+  "id": "4808",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ศรีสงคราม",
+    "en": "Si Songkhram",
+    "slug": "si-songkhram"
+  },
+  "code": {
+    "dopa": "4808"
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "th": "นครพนม",
+      "en": "Nakhon Phanom",
+      "slug": "nakhon-phanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 109
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.641",
+    "lon": "104.289"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/si-songkhram-4808/"
+  }
+}

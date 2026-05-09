@@ -1,0 +1,61 @@
+{
+  "id": "840407",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่น้ำ",
+    "en": "Mae Nam",
+    "slug": "mae-nam"
+  },
+  "code": {
+    "dopa": "840407"
+  },
+  "parent": {
+    "id": "8404",
+    "level": 2,
+    "name": {
+      "th": "เกาะสมุย",
+      "en": "Ko Samui",
+      "slug": "ko-samui"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8404",
+      "level": 2,
+      "name": {
+        "th": "เกาะสมุย",
+        "en": "Ko Samui",
+        "slug": "ko-samui"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 25
+  },
+  "zip_codes": [
+    "84330"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.563",
+    "lon": "99.967"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-nam-840407/"
+  }
+}

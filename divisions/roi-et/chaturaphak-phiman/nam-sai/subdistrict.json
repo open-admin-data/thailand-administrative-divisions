@@ -1,0 +1,61 @@
+{
+  "id": "450405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำใส",
+    "en": "Nam Sai",
+    "slug": "nam-sai"
+  },
+  "code": {
+    "dopa": "450405"
+  },
+  "parent": {
+    "id": "4504",
+    "level": 2,
+    "name": {
+      "th": "จตุรพักตรพิมาน",
+      "en": "Chaturaphak Phiman",
+      "slug": "chaturaphak-phiman"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4504",
+      "level": 2,
+      "name": {
+        "th": "จตุรพักตรพิมาน",
+        "en": "Chaturaphak Phiman",
+        "slug": "chaturaphak-phiman"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "45180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.901",
+    "lon": "103.599"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-sai-450405/"
+  }
+}

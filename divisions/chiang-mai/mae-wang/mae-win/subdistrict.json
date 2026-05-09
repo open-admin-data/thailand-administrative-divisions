@@ -1,0 +1,61 @@
+{
+  "id": "502204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่วิน",
+    "en": "Mae Win",
+    "slug": "mae-win"
+  },
+  "code": {
+    "dopa": "502204"
+  },
+  "parent": {
+    "id": "5022",
+    "level": 2,
+    "name": {
+      "th": "แม่วาง",
+      "en": "Mae Wang",
+      "slug": "mae-wang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5022",
+      "level": 2,
+      "name": {
+        "th": "แม่วาง",
+        "en": "Mae Wang",
+        "slug": "mae-wang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "50360"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.683",
+    "lon": "98.674"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-win-502204/"
+  }
+}

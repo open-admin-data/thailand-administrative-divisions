@@ -1,0 +1,61 @@
+{
+  "id": "110302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางแก้ว",
+    "en": "Bang Kaeo",
+    "slug": "bang-kaeo"
+  },
+  "code": {
+    "dopa": "110302"
+  },
+  "parent": {
+    "id": "1103",
+    "level": 2,
+    "name": {
+      "th": "บางพลี",
+      "en": "Bang Phli",
+      "slug": "bang-phli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1103",
+      "level": 2,
+      "name": {
+        "th": "บางพลี",
+        "en": "Bang Phli",
+        "slug": "bang-phli"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "10540"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.642",
+    "lon": "100.662"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-kaeo-110302/"
+  }
+}

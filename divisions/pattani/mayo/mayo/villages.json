@@ -1,0 +1,185 @@
+[
+  {
+    "id": "94050101",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านมายอ",
+      "en": "Ban Mayo",
+      "slug": "94050101"
+    },
+    "code": {
+      "dopa": "94050101"
+    },
+    "parent": {
+      "id": "940501",
+      "level": 3,
+      "name": {
+        "th": "มายอ",
+        "en": "Mayo",
+        "slug": "mayo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "th": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani"
+        }
+      },
+      {
+        "id": "9405",
+        "level": 2,
+        "name": {
+          "th": "มายอ",
+          "en": "Mayo",
+          "slug": "mayo"
+        }
+      },
+      {
+        "id": "940501",
+        "level": 3,
+        "name": {
+          "th": "มายอ",
+          "en": "Mayo",
+          "slug": "mayo"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.718389797809618",
+      "lon": "101.4117331802845"
+    },
+    "source": {}
+  },
+  {
+    "id": "94050102",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านมาหยอ",
+      "en": "Ban Ma Yo",
+      "slug": "94050102"
+    },
+    "code": {
+      "dopa": "94050102"
+    },
+    "parent": {
+      "id": "940501",
+      "level": 3,
+      "name": {
+        "th": "มายอ",
+        "en": "Mayo",
+        "slug": "mayo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "th": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani"
+        }
+      },
+      {
+        "id": "9405",
+        "level": 2,
+        "name": {
+          "th": "มายอ",
+          "en": "Mayo",
+          "slug": "mayo"
+        }
+      },
+      {
+        "id": "940501",
+        "level": 3,
+        "name": {
+          "th": "มายอ",
+          "en": "Mayo",
+          "slug": "mayo"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.712984936474144",
+      "lon": "101.41319632530212"
+    },
+    "source": {}
+  },
+  {
+    "id": "94050103",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านปาแย",
+      "en": "Ban Pa Yae",
+      "slug": "94050103"
+    },
+    "code": {
+      "dopa": "94050103"
+    },
+    "parent": {
+      "id": "940501",
+      "level": 3,
+      "name": {
+        "th": "มายอ",
+        "en": "Mayo",
+        "slug": "mayo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "th": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani"
+        }
+      },
+      {
+        "id": "9405",
+        "level": 2,
+        "name": {
+          "th": "มายอ",
+          "en": "Mayo",
+          "slug": "mayo"
+        }
+      },
+      {
+        "id": "940501",
+        "level": 3,
+        "name": {
+          "th": "มายอ",
+          "en": "Mayo",
+          "slug": "mayo"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.724724250813254",
+      "lon": "101.41100496053696"
+    },
+    "source": {}
+  }
+]

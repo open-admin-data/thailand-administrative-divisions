@@ -1,0 +1,61 @@
+{
+  "id": "860409",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากน้ำ",
+    "en": "Pak Nam",
+    "slug": "pak-nam"
+  },
+  "code": {
+    "dopa": "860409"
+  },
+  "parent": {
+    "id": "8604",
+    "level": 2,
+    "name": {
+      "th": "หลังสวน",
+      "en": "Lang Suan",
+      "slug": "lang-suan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8604",
+      "level": 2,
+      "name": {
+        "th": "หลังสวน",
+        "en": "Lang Suan",
+        "slug": "lang-suan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "86150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.955",
+    "lon": "99.151"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-nam-860409/"
+  }
+}

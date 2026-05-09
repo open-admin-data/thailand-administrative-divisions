@@ -1,0 +1,61 @@
+{
+  "id": "501803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่ตื่น",
+    "en": "Mae Tuen",
+    "slug": "mae-tuen"
+  },
+  "code": {
+    "dopa": "501803"
+  },
+  "parent": {
+    "id": "5018",
+    "level": 2,
+    "name": {
+      "th": "อมก๋อย",
+      "en": "Omkoi",
+      "slug": "omkoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5018",
+      "level": 2,
+      "name": {
+        "th": "อมก๋อย",
+        "en": "Omkoi",
+        "slug": "omkoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "50310"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.398",
+    "lon": "98.395"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-tuen-501803/"
+  }
+}

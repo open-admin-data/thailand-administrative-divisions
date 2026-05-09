@@ -1,0 +1,61 @@
+{
+  "id": "210311",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองปูน",
+    "en": "Khlong Pun",
+    "slug": "khlong-pun"
+  },
+  "code": {
+    "dopa": "210311"
+  },
+  "parent": {
+    "id": "2103",
+    "level": 2,
+    "name": {
+      "th": "แกลง",
+      "en": "Klaeng",
+      "slug": "klaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "th": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "21170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.765",
+    "lon": "101.750"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-pun-210311/"
+  }
+}

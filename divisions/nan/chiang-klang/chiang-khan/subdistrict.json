@@ -1,0 +1,61 @@
+{
+  "id": "550903",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เชียงคาน",
+    "en": "Chiang Khan",
+    "slug": "chiang-khan"
+  },
+  "code": {
+    "dopa": "550903"
+  },
+  "parent": {
+    "id": "5509",
+    "level": 2,
+    "name": {
+      "th": "เชียงกลาง",
+      "en": "Chiang Klang",
+      "slug": "chiang-klang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5509",
+      "level": 2,
+      "name": {
+        "th": "เชียงกลาง",
+        "en": "Chiang Klang",
+        "slug": "chiang-klang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "55160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.246",
+    "lon": "100.855"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chiang-khan-550903/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "901403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่ทอม",
+    "en": "Mae Thom",
+    "slug": "mae-thom"
+  },
+  "code": {
+    "dopa": "901403"
+  },
+  "parent": {
+    "id": "9014",
+    "level": 2,
+    "name": {
+      "th": "บางกล่ำ",
+      "en": "Bang Klam",
+      "slug": "bang-klam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9014",
+      "level": 2,
+      "name": {
+        "th": "บางกล่ำ",
+        "en": "Bang Klam",
+        "slug": "bang-klam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "90110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.100",
+    "lon": "100.456"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-thom-901403/"
+  }
+}

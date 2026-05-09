@@ -1,0 +1,61 @@
+{
+  "id": "401405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าวัด",
+    "en": "Tha Wat",
+    "slug": "tha-wat"
+  },
+  "code": {
+    "dopa": "401405"
+  },
+  "parent": {
+    "id": "4014",
+    "level": 2,
+    "name": {
+      "th": "แวงน้อย",
+      "en": "Waeng Noi",
+      "slug": "waeng-noi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4014",
+      "level": 2,
+      "name": {
+        "th": "แวงน้อย",
+        "en": "Waeng Noi",
+        "slug": "waeng-noi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "40230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.735",
+    "lon": "102.397"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-wat-401405/"
+  }
+}

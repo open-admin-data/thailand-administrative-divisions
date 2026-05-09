@@ -1,0 +1,61 @@
+{
+  "id": "402301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุดธาตุ",
+    "en": "Kut That",
+    "slug": "kut-that"
+  },
+  "code": {
+    "dopa": "402301"
+  },
+  "parent": {
+    "id": "4023",
+    "level": 2,
+    "name": {
+      "th": "หนองนาคำ",
+      "en": "Nong Na Kham",
+      "slug": "nong-na-kham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4023",
+      "level": 2,
+      "name": {
+        "th": "หนองนาคำ",
+        "en": "Nong Na Kham",
+        "slug": "nong-na-kham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "40150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.834",
+    "lon": "102.308"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kut-that-402301/"
+  }
+}

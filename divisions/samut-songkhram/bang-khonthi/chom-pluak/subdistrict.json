@@ -1,0 +1,61 @@
+{
+  "id": "750209",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "จอมปลวก",
+    "en": "Chom Pluak",
+    "slug": "chom-pluak"
+  },
+  "code": {
+    "dopa": "750209"
+  },
+  "parent": {
+    "id": "7502",
+    "level": 2,
+    "name": {
+      "th": "บางคนที",
+      "en": "Bang Khonthi",
+      "slug": "bang-khonthi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสงคราม",
+        "en": "Samut Songkhram",
+        "slug": "samut-songkhram"
+      }
+    },
+    {
+      "id": "7502",
+      "level": 2,
+      "name": {
+        "th": "บางคนที",
+        "en": "Bang Khonthi",
+        "slug": "bang-khonthi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "75120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.483",
+    "lon": "99.976"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chom-pluak-750209/"
+  }
+}

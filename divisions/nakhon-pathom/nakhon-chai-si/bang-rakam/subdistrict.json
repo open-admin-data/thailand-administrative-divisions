@@ -1,0 +1,61 @@
+{
+  "id": "730310",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางระกำ",
+    "en": "Bang Rakam",
+    "slug": "bang-rakam"
+  },
+  "code": {
+    "dopa": "730310"
+  },
+  "parent": {
+    "id": "7303",
+    "level": 2,
+    "name": {
+      "th": "นครชัยศรี",
+      "en": "Nakhon Chai Si",
+      "slug": "nakhon-chai-si"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7303",
+      "level": 2,
+      "name": {
+        "th": "นครชัยศรี",
+        "en": "Nakhon Chai Si",
+        "slug": "nakhon-chai-si"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "73120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.756",
+    "lon": "100.134"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-rakam-730310/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "720803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สามชุก",
+    "en": "Sam Chuk",
+    "slug": "sam-chuk"
+  },
+  "code": {
+    "dopa": "720803"
+  },
+  "parent": {
+    "id": "7208",
+    "level": 2,
+    "name": {
+      "th": "สามชุก",
+      "en": "Sam Chuk",
+      "slug": "sam-chuk"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7208",
+      "level": 2,
+      "name": {
+        "th": "สามชุก",
+        "en": "Sam Chuk",
+        "slug": "sam-chuk"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "72130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.763",
+    "lon": "100.095"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sam-chuk-720803/"
+  }
+}

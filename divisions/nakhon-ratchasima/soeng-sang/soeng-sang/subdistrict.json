@@ -1,0 +1,61 @@
+{
+  "id": "300301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เสิงสาง",
+    "en": "Soeng Sang",
+    "slug": "soeng-sang"
+  },
+  "code": {
+    "dopa": "300301"
+  },
+  "parent": {
+    "id": "3003",
+    "level": 2,
+    "name": {
+      "th": "เสิงสาง",
+      "en": "Soeng Sang",
+      "slug": "soeng-sang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3003",
+      "level": 2,
+      "name": {
+        "th": "เสิงสาง",
+        "en": "Soeng Sang",
+        "slug": "soeng-sang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "30330"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.426",
+    "lon": "102.429"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/soeng-sang-300301/"
+  }
+}

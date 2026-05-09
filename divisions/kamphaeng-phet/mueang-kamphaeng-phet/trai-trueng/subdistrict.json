@@ -1,0 +1,61 @@
+{
+  "id": "620102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไตรตรึงษ์",
+    "en": "Trai Trueng",
+    "slug": "trai-trueng"
+  },
+  "code": {
+    "dopa": "620102"
+  },
+  "parent": {
+    "id": "6201",
+    "level": 2,
+    "name": {
+      "th": "เมืองกำแพงเพชร",
+      "en": "Mueang Kamphaeng Phet",
+      "slug": "mueang-kamphaeng-phet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6201",
+      "level": 2,
+      "name": {
+        "th": "เมืองกำแพงเพชร",
+        "en": "Mueang Kamphaeng Phet",
+        "slug": "mueang-kamphaeng-phet"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "62160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.328",
+    "lon": "99.553"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/trai-trueng-620102/"
+  }
+}

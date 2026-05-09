@@ -1,0 +1,61 @@
+{
+  "id": "380705",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาสิงห์",
+    "en": "Na Sing",
+    "slug": "na-sing"
+  },
+  "code": {
+    "dopa": "380705"
+  },
+  "parent": {
+    "id": "3807",
+    "level": 2,
+    "name": {
+      "th": "ศรีวิไล",
+      "en": "Si Wilai",
+      "slug": "si-wilai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3807",
+      "level": 2,
+      "name": {
+        "th": "ศรีวิไล",
+        "en": "Si Wilai",
+        "slug": "si-wilai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "38210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.212",
+    "lon": "103.789"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-sing-380705/"
+  }
+}

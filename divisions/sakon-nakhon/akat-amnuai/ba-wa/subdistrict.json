@@ -1,0 +1,61 @@
+{
+  "id": "471107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บะหว้า",
+    "en": "Ba Wa",
+    "slug": "ba-wa"
+  },
+  "code": {
+    "dopa": "471107"
+  },
+  "parent": {
+    "id": "4711",
+    "level": 2,
+    "name": {
+      "th": "อากาศอำนวย",
+      "en": "Akat Amnuai",
+      "slug": "akat-amnuai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4711",
+      "level": 2,
+      "name": {
+        "th": "อากาศอำนวย",
+        "en": "Akat Amnuai",
+        "slug": "akat-amnuai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "47170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.495",
+    "lon": "103.987"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ba-wa-471107/"
+  }
+}

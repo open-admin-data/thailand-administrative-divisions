@@ -1,0 +1,61 @@
+{
+  "id": "700205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แก้มอ้น",
+    "en": "Kaem On",
+    "slug": "kaem-on"
+  },
+  "code": {
+    "dopa": "700205"
+  },
+  "parent": {
+    "id": "7002",
+    "level": 2,
+    "name": {
+      "th": "จอมบึง",
+      "en": "Chom Bueng",
+      "slug": "chom-bueng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7002",
+      "level": 2,
+      "name": {
+        "th": "จอมบึง",
+        "en": "Chom Bueng",
+        "slug": "chom-bueng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "70150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.740",
+    "lon": "99.428"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kaem-on-700205/"
+  }
+}

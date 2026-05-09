@@ -1,0 +1,61 @@
+{
+  "id": "630303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยกกระบัตร",
+    "en": "Yokkrabat",
+    "slug": "yokkrabat"
+  },
+  "code": {
+    "dopa": "630303"
+  },
+  "parent": {
+    "id": "6303",
+    "level": 2,
+    "name": {
+      "th": "สามเงา",
+      "en": "Sam Ngao",
+      "slug": "sam-ngao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6303",
+      "level": 2,
+      "name": {
+        "th": "สามเงา",
+        "en": "Sam Ngao",
+        "slug": "sam-ngao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "63130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.335",
+    "lon": "99.034"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yokkrabat-630303/"
+  }
+}

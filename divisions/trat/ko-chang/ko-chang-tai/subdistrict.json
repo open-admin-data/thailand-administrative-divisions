@@ -1,0 +1,61 @@
+{
+  "id": "230702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะช้างใต้",
+    "en": "Ko Chang Tai",
+    "slug": "ko-chang-tai"
+  },
+  "code": {
+    "dopa": "230702"
+  },
+  "parent": {
+    "id": "2307",
+    "level": 2,
+    "name": {
+      "th": "เกาะช้าง",
+      "en": "Ko Chang",
+      "slug": "ko-chang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "th": "ตราด",
+        "en": "Trat",
+        "slug": "trat"
+      }
+    },
+    {
+      "id": "2307",
+      "level": 2,
+      "name": {
+        "th": "เกาะช้าง",
+        "en": "Ko Chang",
+        "slug": "ko-chang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "23170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "11.996",
+    "lon": "102.331"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-chang-tai-230702/"
+  }
+}

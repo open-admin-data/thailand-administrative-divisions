@@ -1,0 +1,61 @@
+{
+  "id": "510604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ม่วงน้อย",
+    "en": "Muang Noi",
+    "slug": "muang-noi"
+  },
+  "code": {
+    "dopa": "510604"
+  },
+  "parent": {
+    "id": "5106",
+    "level": 2,
+    "name": {
+      "th": "ป่าซาง",
+      "en": "Pa Sang",
+      "slug": "pa-sang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5106",
+      "level": 2,
+      "name": {
+        "th": "ป่าซาง",
+        "en": "Pa Sang",
+        "slug": "pa-sang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "51120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.479",
+    "lon": "98.941"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/muang-noi-510604/"
+  }
+}

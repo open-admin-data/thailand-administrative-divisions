@@ -1,0 +1,50 @@
+{
+  "id": "9205",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สิเกา",
+    "en": "Sikao",
+    "slug": "sikao"
+  },
+  "code": {
+    "dopa": "9205"
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "th": "ตรัง",
+      "en": "Trang",
+      "slug": "trang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 40
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.470",
+    "lon": "99.320"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sikao-9205/"
+  }
+}

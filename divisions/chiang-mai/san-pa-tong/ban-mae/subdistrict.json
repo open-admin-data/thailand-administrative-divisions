@@ -1,0 +1,61 @@
+{
+  "id": "501206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านแม",
+    "en": "Ban Mae",
+    "slug": "ban-mae"
+  },
+  "code": {
+    "dopa": "501206"
+  },
+  "parent": {
+    "id": "5012",
+    "level": 2,
+    "name": {
+      "th": "สันป่าตอง",
+      "en": "San Pa Tong",
+      "slug": "san-pa-tong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5012",
+      "level": 2,
+      "name": {
+        "th": "สันป่าตอง",
+        "en": "San Pa Tong",
+        "slug": "san-pa-tong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "50120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.626",
+    "lon": "98.854"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-mae-501206/"
+  }
+}

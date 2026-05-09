@@ -1,0 +1,61 @@
+{
+  "id": "130710",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางกระบือ",
+    "en": "Bang Krabue",
+    "slug": "bang-krabue"
+  },
+  "code": {
+    "dopa": "130710"
+  },
+  "parent": {
+    "id": "1307",
+    "level": 2,
+    "name": {
+      "th": "สามโคก",
+      "en": "Sam Khok",
+      "slug": "sam-khok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "th": "สามโคก",
+        "en": "Sam Khok",
+        "slug": "sam-khok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 3
+  },
+  "zip_codes": [
+    "12160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.103",
+    "lon": "100.538"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-krabue-130710/"
+  }
+}

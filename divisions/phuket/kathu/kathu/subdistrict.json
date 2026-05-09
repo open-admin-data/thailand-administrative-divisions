@@ -1,0 +1,61 @@
+{
+  "id": "830201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กะทู้",
+    "en": "Kathu",
+    "slug": "kathu"
+  },
+  "code": {
+    "dopa": "830201"
+  },
+  "parent": {
+    "id": "8302",
+    "level": 2,
+    "name": {
+      "th": "กะทู้",
+      "en": "Kathu",
+      "slug": "kathu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "th": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket"
+      }
+    },
+    {
+      "id": "8302",
+      "level": 2,
+      "name": {
+        "th": "กะทู้",
+        "en": "Kathu",
+        "slug": "kathu"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "83120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.914",
+    "lon": "98.338"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kathu-830201/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "470118",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองลาด",
+    "en": "Nong Lat",
+    "slug": "nong-lat"
+  },
+  "code": {
+    "dopa": "470118"
+  },
+  "parent": {
+    "id": "4701",
+    "level": 2,
+    "name": {
+      "th": "เมืองสกลนคร",
+      "en": "Mueang Sakon Nakhon",
+      "slug": "mueang-sakon-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4701",
+      "level": 2,
+      "name": {
+        "th": "เมืองสกลนคร",
+        "en": "Mueang Sakon Nakhon",
+        "slug": "mueang-sakon-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "47220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.337",
+    "lon": "104.072"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-lat-470118/"
+  }
+}

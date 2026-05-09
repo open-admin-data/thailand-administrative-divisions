@@ -1,0 +1,61 @@
+{
+  "id": "800302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลานสกา",
+    "en": "Lan Saka",
+    "slug": "lan-saka"
+  },
+  "code": {
+    "dopa": "800302"
+  },
+  "parent": {
+    "id": "8003",
+    "level": 2,
+    "name": {
+      "th": "ลานสกา",
+      "en": "Lan Saka",
+      "slug": "lan-saka"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8003",
+      "level": 2,
+      "name": {
+        "th": "ลานสกา",
+        "en": "Lan Saka",
+        "slug": "lan-saka"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "80230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.305",
+    "lon": "99.771"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lan-saka-800302/"
+  }
+}

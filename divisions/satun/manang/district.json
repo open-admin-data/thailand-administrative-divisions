@@ -1,0 +1,50 @@
+{
+  "id": "9107",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "มะนัง",
+    "en": "Manang",
+    "slug": "manang"
+  },
+  "code": {
+    "dopa": "9107"
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "th": "สตูล",
+      "en": "Satun",
+      "slug": "satun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 2,
+    "villages": 19
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.950",
+    "lon": "99.931"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/manang-9107/"
+  }
+}

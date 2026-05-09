@@ -1,0 +1,61 @@
+{
+  "id": "300601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "จักราช",
+    "en": "Chakkarat",
+    "slug": "chakkarat"
+  },
+  "code": {
+    "dopa": "300601"
+  },
+  "parent": {
+    "id": "3006",
+    "level": 2,
+    "name": {
+      "th": "จักราช",
+      "en": "Chakkarat",
+      "slug": "chakkarat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3006",
+      "level": 2,
+      "name": {
+        "th": "จักราช",
+        "en": "Chakkarat",
+        "slug": "chakkarat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "30230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.027",
+    "lon": "102.432"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chakkarat-300601/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "1302",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "คลองหลวง",
+    "en": "Khlong Luang",
+    "slug": "khlong-luang"
+  },
+  "code": {
+    "dopa": "1302"
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "th": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 183
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.125",
+    "lon": "100.750"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khlong-luang-1302/"
+  }
+}

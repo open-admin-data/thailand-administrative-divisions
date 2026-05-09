@@ -1,0 +1,61 @@
+{
+  "id": "540608",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งน้าว",
+    "en": "Thung Nao",
+    "slug": "thung-nao"
+  },
+  "code": {
+    "dopa": "540608"
+  },
+  "parent": {
+    "id": "5406",
+    "level": 2,
+    "name": {
+      "th": "สอง",
+      "en": "Song",
+      "slug": "song"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    {
+      "id": "5406",
+      "level": 2,
+      "name": {
+        "th": "สอง",
+        "en": "Song",
+        "slug": "song"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "54120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.402",
+    "lon": "100.200"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-nao-540608/"
+  }
+}

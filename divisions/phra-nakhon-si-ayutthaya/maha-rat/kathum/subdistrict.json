@@ -1,0 +1,61 @@
+{
+  "id": "141502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กะทุ่ม",
+    "en": "Kathum",
+    "slug": "kathum"
+  },
+  "code": {
+    "dopa": "141502"
+  },
+  "parent": {
+    "id": "1415",
+    "level": 2,
+    "name": {
+      "th": "มหาราช",
+      "en": "Maha Rat",
+      "slug": "maha-rat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1415",
+      "level": 2,
+      "name": {
+        "th": "มหาราช",
+        "en": "Maha Rat",
+        "slug": "maha-rat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "13150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.546",
+    "lon": "100.556"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kathum-141502/"
+  }
+}

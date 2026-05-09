@@ -1,0 +1,61 @@
+{
+  "id": "471207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพนสูง",
+    "en": "Phon Sung",
+    "slug": "phon-sung"
+  },
+  "code": {
+    "dopa": "471207"
+  },
+  "parent": {
+    "id": "4712",
+    "level": 2,
+    "name": {
+      "th": "สว่างแดนดิน",
+      "en": "Sawang Daen Din",
+      "slug": "sawang-daen-din"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4712",
+      "level": 2,
+      "name": {
+        "th": "สว่างแดนดิน",
+        "en": "Sawang Daen Din",
+        "slug": "sawang-daen-din"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "47110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.538",
+    "lon": "103.400"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phon-sung-471207/"
+  }
+}

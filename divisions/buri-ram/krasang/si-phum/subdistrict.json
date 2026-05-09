@@ -1,0 +1,61 @@
+{
+  "id": "310311",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีภูมิ",
+    "en": "Si Phum",
+    "slug": "si-phum"
+  },
+  "code": {
+    "dopa": "310311"
+  },
+  "parent": {
+    "id": "3103",
+    "level": 2,
+    "name": {
+      "th": "กระสัง",
+      "en": "Krasang",
+      "slug": "krasang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3103",
+      "level": 2,
+      "name": {
+        "th": "กระสัง",
+        "en": "Krasang",
+        "slug": "krasang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "31160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.027",
+    "lon": "103.338"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-phum-310311/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "8022",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ช้างกลาง",
+    "en": "Chang Klang",
+    "slug": "chang-klang"
+  },
+  "code": {
+    "dopa": "8022"
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "th": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 36
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.354",
+    "lon": "99.535"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chang-klang-8022/"
+  }
+}

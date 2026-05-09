@@ -1,0 +1,61 @@
+{
+  "id": "430105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เวียงคุก",
+    "en": "Wiang Khuk",
+    "slug": "wiang-khuk"
+  },
+  "code": {
+    "dopa": "430105"
+  },
+  "parent": {
+    "id": "4301",
+    "level": 2,
+    "name": {
+      "th": "เมืองหนองคาย",
+      "en": "Mueang Nong Khai",
+      "slug": "mueang-nong-khai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4301",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองคาย",
+        "en": "Mueang Nong Khai",
+        "slug": "mueang-nong-khai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "43000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.783",
+    "lon": "102.673"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wiang-khuk-430105/"
+  }
+}

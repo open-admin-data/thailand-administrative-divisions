@@ -1,0 +1,61 @@
+{
+  "id": "720118",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สนามชัย",
+    "en": "Sanam Chai",
+    "slug": "sanam-chai"
+  },
+  "code": {
+    "dopa": "720118"
+  },
+  "parent": {
+    "id": "7201",
+    "level": 2,
+    "name": {
+      "th": "เมืองสุพรรณบุรี",
+      "en": "Mueang Suphan Buri",
+      "slug": "mueang-suphan-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7201",
+      "level": 2,
+      "name": {
+        "th": "เมืองสุพรรณบุรี",
+        "en": "Mueang Suphan Buri",
+        "slug": "mueang-suphan-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "72000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.492",
+    "lon": "100.169"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sanam-chai-720118/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "27",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "สระแก้ว",
+    "en": "Sa Kaeo",
+    "slug": "sa-kaeo"
+  },
+  "code": {
+    "dopa": "27",
+    "iso": "TH-27"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 9,
+    "subdistricts": 59,
+    "villages": 770
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern"
+    }
+  },
+  "geo": {
+    "lat": "13.680",
+    "lon": "102.517"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/sa-kaeo-27/"
+  }
+}

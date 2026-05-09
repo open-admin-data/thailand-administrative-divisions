@@ -1,0 +1,61 @@
+{
+  "id": "801601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวไทร",
+    "en": "Hua Sai",
+    "slug": "hua-sai"
+  },
+  "code": {
+    "dopa": "801601"
+  },
+  "parent": {
+    "id": "8016",
+    "level": 2,
+    "name": {
+      "th": "หัวไทร",
+      "en": "Hua Sai",
+      "slug": "hua-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8016",
+      "level": 2,
+      "name": {
+        "th": "หัวไทร",
+        "en": "Hua Sai",
+        "slug": "hua-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "80170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.037",
+    "lon": "100.286"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-sai-801601/"
+  }
+}

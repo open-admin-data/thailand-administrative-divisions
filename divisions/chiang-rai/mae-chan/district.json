@@ -1,0 +1,50 @@
+{
+  "id": "5707",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แม่จัน",
+    "en": "Mae Chan",
+    "slug": "mae-chan"
+  },
+  "code": {
+    "dopa": "5707"
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 139
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.256",
+    "lon": "99.864"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mae-chan-5707/"
+  }
+}

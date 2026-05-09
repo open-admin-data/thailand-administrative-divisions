@@ -1,0 +1,61 @@
+{
+  "id": "900101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อยาง",
+    "en": "Bo Yang",
+    "slug": "bo-yang"
+  },
+  "code": {
+    "dopa": "900101"
+  },
+  "parent": {
+    "id": "9001",
+    "level": 2,
+    "name": {
+      "th": "เมืองสงขลา",
+      "en": "Mueang Songkhla",
+      "slug": "mueang-songkhla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9001",
+      "level": 2,
+      "name": {
+        "th": "เมืองสงขลา",
+        "en": "Mueang Songkhla",
+        "slug": "mueang-songkhla"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 55
+  },
+  "zip_codes": [
+    "90000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.198",
+    "lon": "100.596"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-yang-900101/"
+  }
+}

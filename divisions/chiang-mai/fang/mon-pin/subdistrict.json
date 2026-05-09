@@ -1,0 +1,61 @@
+{
+  "id": "500903",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ม่อนปิ่น",
+    "en": "Mon Pin",
+    "slug": "mon-pin"
+  },
+  "code": {
+    "dopa": "500903"
+  },
+  "parent": {
+    "id": "5009",
+    "level": 2,
+    "name": {
+      "th": "ฝาง",
+      "en": "Fang",
+      "slug": "fang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5009",
+      "level": 2,
+      "name": {
+        "th": "ฝาง",
+        "en": "Fang",
+        "slug": "fang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "50110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.955",
+    "lon": "99.112"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mon-pin-500903/"
+  }
+}

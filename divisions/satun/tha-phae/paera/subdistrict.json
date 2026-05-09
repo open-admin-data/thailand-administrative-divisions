@@ -1,0 +1,61 @@
+{
+  "id": "910402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แป-ระ",
+    "en": "Paera",
+    "slug": "paera"
+  },
+  "code": {
+    "dopa": "910402"
+  },
+  "parent": {
+    "id": "9104",
+    "level": 2,
+    "name": {
+      "th": "ท่าแพ",
+      "en": "Tha Phae",
+      "slug": "tha-phae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    },
+    {
+      "id": "9104",
+      "level": 2,
+      "name": {
+        "th": "ท่าแพ",
+        "en": "Tha Phae",
+        "slug": "tha-phae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "91150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.855",
+    "lon": "99.927"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/paera-910402/"
+  }
+}

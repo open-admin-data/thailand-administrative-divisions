@@ -1,0 +1,61 @@
+{
+  "id": "480107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อาจสามารถ",
+    "en": "At Samat",
+    "slug": "at-samat"
+  },
+  "code": {
+    "dopa": "480107"
+  },
+  "parent": {
+    "id": "4801",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครพนม",
+      "en": "Mueang Nakhon Phanom",
+      "slug": "mueang-nakhon-phanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4801",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครพนม",
+        "en": "Mueang Nakhon Phanom",
+        "slug": "mueang-nakhon-phanom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "48000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.461",
+    "lon": "104.725"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/at-samat-480107/"
+  }
+}

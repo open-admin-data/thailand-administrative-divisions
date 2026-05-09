@@ -1,0 +1,61 @@
+{
+  "id": "960509",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เฉลิม",
+    "en": "Chaloem",
+    "slug": "chaloem"
+  },
+  "code": {
+    "dopa": "960509"
+  },
+  "parent": {
+    "id": "9605",
+    "level": 2,
+    "name": {
+      "th": "ระแงะ",
+      "en": "Ra-ngae",
+      "slug": "ra-ngae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9605",
+      "level": 2,
+      "name": {
+        "th": "ระแงะ",
+        "en": "Ra-ngae",
+        "slug": "ra-ngae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "96130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.291",
+    "lon": "101.641"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chaloem-960509/"
+  }
+}

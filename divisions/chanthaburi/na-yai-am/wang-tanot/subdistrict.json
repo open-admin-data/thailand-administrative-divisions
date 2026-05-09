@@ -1,0 +1,61 @@
+{
+  "id": "220902",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังโตนด",
+    "en": "Wang Tanot",
+    "slug": "wang-tanot"
+  },
+  "code": {
+    "dopa": "220902"
+  },
+  "parent": {
+    "id": "2209",
+    "level": 2,
+    "name": {
+      "th": "นายายอาม",
+      "en": "Na Yai Am",
+      "slug": "na-yai-am"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    },
+    {
+      "id": "2209",
+      "level": 2,
+      "name": {
+        "th": "นายายอาม",
+        "en": "Na Yai Am",
+        "slug": "na-yai-am"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "22170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.701",
+    "lon": "101.933"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-tanot-220902/"
+  }
+}

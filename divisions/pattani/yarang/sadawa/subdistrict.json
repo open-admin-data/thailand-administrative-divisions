@@ -1,0 +1,61 @@
+{
+  "id": "941002",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สะดาวา",
+    "en": "Sadawa",
+    "slug": "sadawa"
+  },
+  "code": {
+    "dopa": "941002"
+  },
+  "parent": {
+    "id": "9410",
+    "level": 2,
+    "name": {
+      "th": "ยะรัง",
+      "en": "Yarang",
+      "slug": "yarang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9410",
+      "level": 2,
+      "name": {
+        "th": "ยะรัง",
+        "en": "Yarang",
+        "slug": "yarang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "94160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.821",
+    "lon": "101.311"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sadawa-941002/"
+  }
+}

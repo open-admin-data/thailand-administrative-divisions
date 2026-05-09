@@ -1,0 +1,61 @@
+{
+  "id": "410205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สร้างก่อ",
+    "en": "Sang Ko",
+    "slug": "sang-ko"
+  },
+  "code": {
+    "dopa": "410205"
+  },
+  "parent": {
+    "id": "4102",
+    "level": 2,
+    "name": {
+      "th": "กุดจับ",
+      "en": "Kut Chap",
+      "slug": "kut-chap"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4102",
+      "level": 2,
+      "name": {
+        "th": "กุดจับ",
+        "en": "Kut Chap",
+        "slug": "kut-chap"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "41250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.479",
+    "lon": "102.506"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sang-ko-410205/"
+  }
+}

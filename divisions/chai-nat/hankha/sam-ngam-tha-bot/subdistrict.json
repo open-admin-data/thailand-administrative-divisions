@@ -1,0 +1,61 @@
+{
+  "id": "180611",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สามง่ามท่าโบสถ์",
+    "en": "Sam Ngam Tha Bot",
+    "slug": "sam-ngam-tha-bot"
+  },
+  "code": {
+    "dopa": "180611"
+  },
+  "parent": {
+    "id": "1806",
+    "level": 2,
+    "name": {
+      "th": "หันคา",
+      "en": "Hankha",
+      "slug": "hankha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "th": "หันคา",
+        "en": "Hankha",
+        "slug": "hankha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "17160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.065",
+    "lon": "100.026"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sam-ngam-tha-bot-180611/"
+  }
+}

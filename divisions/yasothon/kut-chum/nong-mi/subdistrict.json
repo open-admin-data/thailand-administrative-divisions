@@ -1,0 +1,61 @@
+{
+  "id": "350306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองหมี",
+    "en": "Nong Mi",
+    "slug": "nong-mi"
+  },
+  "code": {
+    "dopa": "350306"
+  },
+  "parent": {
+    "id": "3503",
+    "level": 2,
+    "name": {
+      "th": "กุดชุม",
+      "en": "Kut Chum",
+      "slug": "kut-chum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "th": "กุดชุม",
+        "en": "Kut Chum",
+        "slug": "kut-chum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "35140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.051",
+    "lon": "104.296"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-mi-350306/"
+  }
+}

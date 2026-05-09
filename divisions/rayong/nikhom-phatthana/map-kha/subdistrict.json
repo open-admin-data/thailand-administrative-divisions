@@ -1,0 +1,61 @@
+{
+  "id": "210802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มาบข่า",
+    "en": "Map Kha",
+    "slug": "map-kha"
+  },
+  "code": {
+    "dopa": "210802"
+  },
+  "parent": {
+    "id": "2108",
+    "level": 2,
+    "name": {
+      "th": "นิคมพัฒนา",
+      "en": "Nikhom Phatthana",
+      "slug": "nikhom-phatthana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2108",
+      "level": 2,
+      "name": {
+        "th": "นิคมพัฒนา",
+        "en": "Nikhom Phatthana",
+        "slug": "nikhom-phatthana"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "21180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.782",
+    "lon": "101.193"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/map-kha-210802/"
+  }
+}

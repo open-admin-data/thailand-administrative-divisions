@@ -1,0 +1,61 @@
+{
+  "id": "760506",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าไม้รวก",
+    "en": "Tha Mai Ruak",
+    "slug": "tha-mai-ruak"
+  },
+  "code": {
+    "dopa": "760506"
+  },
+  "parent": {
+    "id": "7605",
+    "level": 2,
+    "name": {
+      "th": "ท่ายาง",
+      "en": "Tha Yang",
+      "slug": "tha-yang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7605",
+      "level": 2,
+      "name": {
+        "th": "ท่ายาง",
+        "en": "Tha Yang",
+        "slug": "tha-yang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "76130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.847",
+    "lon": "99.814"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-mai-ruak-760506/"
+  }
+}

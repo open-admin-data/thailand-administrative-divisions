@@ -1,0 +1,50 @@
+{
+  "id": "3017",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ชุมพวง",
+    "en": "Chum Phuang",
+    "slug": "chum-phuang"
+  },
+  "code": {
+    "dopa": "3017"
+  },
+  "parent": {
+    "id": "30",
+    "level": 1,
+    "name": {
+      "th": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 133
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.184",
+    "lon": "102.735"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chum-phuang-3017/"
+  }
+}

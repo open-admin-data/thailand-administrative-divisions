@@ -1,0 +1,61 @@
+{
+  "id": "230113",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชำราก",
+    "en": "Chamrak",
+    "slug": "chamrak"
+  },
+  "code": {
+    "dopa": "230113"
+  },
+  "parent": {
+    "id": "2301",
+    "level": 2,
+    "name": {
+      "th": "เมืองตราด",
+      "en": "Mueang Trat",
+      "slug": "mueang-trat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "th": "ตราด",
+        "en": "Trat",
+        "slug": "trat"
+      }
+    },
+    {
+      "id": "2301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตราด",
+        "en": "Mueang Trat",
+        "slug": "mueang-trat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "23000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.194",
+    "lon": "102.677"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chamrak-230113/"
+  }
+}

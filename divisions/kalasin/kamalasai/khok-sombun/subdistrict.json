@@ -1,0 +1,61 @@
+{
+  "id": "460311",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกสมบูรณ์",
+    "en": "Khok Sombun",
+    "slug": "khok-sombun"
+  },
+  "code": {
+    "dopa": "460311"
+  },
+  "parent": {
+    "id": "4603",
+    "level": 2,
+    "name": {
+      "th": "กมลาไสย",
+      "en": "Kamalasai",
+      "slug": "kamalasai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4603",
+      "level": 2,
+      "name": {
+        "th": "กมลาไสย",
+        "en": "Kamalasai",
+        "slug": "kamalasai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "46130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.360",
+    "lon": "103.667"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-sombun-460311/"
+  }
+}

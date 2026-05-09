@@ -1,0 +1,61 @@
+{
+  "id": "801102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งสัง",
+    "en": "Thung Sang",
+    "slug": "thung-sang"
+  },
+  "code": {
+    "dopa": "801102"
+  },
+  "parent": {
+    "id": "8011",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งใหญ่",
+      "en": "Thung Yai",
+      "slug": "thung-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8011",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งใหญ่",
+        "en": "Thung Yai",
+        "slug": "thung-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "80240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.372",
+    "lon": "99.342"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-sang-801102/"
+  }
+}

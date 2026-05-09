@@ -1,0 +1,61 @@
+{
+  "id": "901008",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สำนักขาม",
+    "en": "Samnak Kham",
+    "slug": "samnak-kham"
+  },
+  "code": {
+    "dopa": "901008"
+  },
+  "parent": {
+    "id": "9010",
+    "level": 2,
+    "name": {
+      "th": "สะเดา",
+      "en": "Sadao",
+      "slug": "sadao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9010",
+      "level": 2,
+      "name": {
+        "th": "สะเดา",
+        "en": "Sadao",
+        "slug": "sadao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "90320"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.584",
+    "lon": "100.382"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samnak-kham-901008/"
+  }
+}

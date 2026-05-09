@@ -1,0 +1,50 @@
+{
+  "id": "3314",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ศรีรัตนะ",
+    "en": "Si Rattana",
+    "slug": "si-rattana"
+  },
+  "code": {
+    "dopa": "3314"
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "th": "ศรีสะเกษ",
+      "en": "Si Sa Ket",
+      "slug": "si-sa-ket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 90
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.806",
+    "lon": "104.419"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/si-rattana-3314/"
+  }
+}

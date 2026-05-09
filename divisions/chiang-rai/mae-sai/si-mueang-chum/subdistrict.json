@@ -1,0 +1,61 @@
+{
+  "id": "570905",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีเมืองชุม",
+    "en": "Si Mueang Chum",
+    "slug": "si-mueang-chum"
+  },
+  "code": {
+    "dopa": "570905"
+  },
+  "parent": {
+    "id": "5709",
+    "level": 2,
+    "name": {
+      "th": "แม่สาย",
+      "en": "Mae Sai",
+      "slug": "mae-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5709",
+      "level": 2,
+      "name": {
+        "th": "แม่สาย",
+        "en": "Mae Sai",
+        "slug": "mae-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "57130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.378",
+    "lon": "99.957"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-mueang-chum-570905/"
+  }
+}

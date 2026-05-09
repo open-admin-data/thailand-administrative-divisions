@@ -1,0 +1,61 @@
+{
+  "id": "661203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังโมกข์",
+    "en": "Wang Mok",
+    "slug": "wang-mok"
+  },
+  "code": {
+    "dopa": "661203"
+  },
+  "parent": {
+    "id": "6612",
+    "level": 2,
+    "name": {
+      "th": "วชิรบารมี",
+      "en": "Wachirabarami",
+      "slug": "wachirabarami"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6612",
+      "level": 2,
+      "name": {
+        "th": "วชิรบารมี",
+        "en": "Wachirabarami",
+        "slug": "wachirabarami"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "66140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.563",
+    "lon": "100.091"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-mok-661203/"
+  }
+}

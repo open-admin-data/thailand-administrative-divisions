@@ -1,0 +1,61 @@
+{
+  "id": "303002",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนจาน",
+    "en": "Non Chan",
+    "slug": "non-chan"
+  },
+  "code": {
+    "dopa": "303002"
+  },
+  "parent": {
+    "id": "3030",
+    "level": 2,
+    "name": {
+      "th": "บัวลาย",
+      "en": "Bua Lai",
+      "slug": "bua-lai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3030",
+      "level": 2,
+      "name": {
+        "th": "บัวลาย",
+        "en": "Bua Lai",
+        "slug": "bua-lai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "30120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.699",
+    "lon": "102.472"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-chan-303002/"
+  }
+}

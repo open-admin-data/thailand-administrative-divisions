@@ -1,0 +1,50 @@
+{
+  "id": "1202",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บางกรวย",
+    "en": "Bang Kruai",
+    "slug": "bang-kruai"
+  },
+  "code": {
+    "dopa": "1202"
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "th": "นนทบุรี",
+      "en": "Nonthaburi",
+      "slug": "nonthaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 90
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.811",
+    "lon": "100.453"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-kruai-1202/"
+  }
+}

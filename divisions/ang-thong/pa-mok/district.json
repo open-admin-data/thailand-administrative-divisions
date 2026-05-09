@@ -1,0 +1,50 @@
+{
+  "id": "1503",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ป่าโมก",
+    "en": "Pa Mok",
+    "slug": "pa-mok"
+  },
+  "code": {
+    "dopa": "1503"
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "th": "อ่างทอง",
+      "en": "Ang Thong",
+      "slug": "ang-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 57
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.509",
+    "lon": "100.461"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pa-mok-1503/"
+  }
+}

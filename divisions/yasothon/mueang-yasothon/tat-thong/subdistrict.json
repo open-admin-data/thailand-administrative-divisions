@@ -1,0 +1,61 @@
+{
+  "id": "350103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตาดทอง",
+    "en": "Tat Thong",
+    "slug": "tat-thong"
+  },
+  "code": {
+    "dopa": "350103"
+  },
+  "parent": {
+    "id": "3501",
+    "level": 2,
+    "name": {
+      "th": "เมืองยโสธร",
+      "en": "Mueang Yasothon",
+      "slug": "mueang-yasothon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3501",
+      "level": 2,
+      "name": {
+        "th": "เมืองยโสธร",
+        "en": "Mueang Yasothon",
+        "slug": "mueang-yasothon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "35000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.777",
+    "lon": "104.205"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tat-thong-350103/"
+  }
+}

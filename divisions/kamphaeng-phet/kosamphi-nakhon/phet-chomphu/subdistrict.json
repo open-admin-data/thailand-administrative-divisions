@@ -1,0 +1,61 @@
+{
+  "id": "621102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เพชรชมภู",
+    "en": "Phet Chomphu",
+    "slug": "phet-chomphu"
+  },
+  "code": {
+    "dopa": "621102"
+  },
+  "parent": {
+    "id": "6211",
+    "level": 2,
+    "name": {
+      "th": "โกสัมพีนคร",
+      "en": "Kosamphi Nakhon",
+      "slug": "kosamphi-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6211",
+      "level": 2,
+      "name": {
+        "th": "โกสัมพีนคร",
+        "en": "Kosamphi Nakhon",
+        "slug": "kosamphi-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "62000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.580",
+    "lon": "99.361"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phet-chomphu-621102/"
+  }
+}

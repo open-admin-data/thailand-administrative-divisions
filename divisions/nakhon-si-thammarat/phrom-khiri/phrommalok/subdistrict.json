@@ -1,0 +1,61 @@
+{
+  "id": "800201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พรหมโลก",
+    "en": "Phrommalok",
+    "slug": "phrommalok"
+  },
+  "code": {
+    "dopa": "800201"
+  },
+  "parent": {
+    "id": "8002",
+    "level": 2,
+    "name": {
+      "th": "พรหมคีรี",
+      "en": "Phrom Khiri",
+      "slug": "phrom-khiri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8002",
+      "level": 2,
+      "name": {
+        "th": "พรหมคีรี",
+        "en": "Phrom Khiri",
+        "slug": "phrom-khiri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "80320"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.500",
+    "lon": "99.793"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phrommalok-800201/"
+  }
+}

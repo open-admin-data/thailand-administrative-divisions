@@ -1,0 +1,61 @@
+{
+  "id": "250807",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองโพรง",
+    "en": "Nong Phrong",
+    "slug": "nong-phrong"
+  },
+  "code": {
+    "dopa": "250807"
+  },
+  "parent": {
+    "id": "2508",
+    "level": 2,
+    "name": {
+      "th": "ศรีมหาโพธิ",
+      "en": "Si Maha Phot",
+      "slug": "si-maha-phot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "th": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri"
+      }
+    },
+    {
+      "id": "2508",
+      "level": 2,
+      "name": {
+        "th": "ศรีมหาโพธิ",
+        "en": "Si Maha Phot",
+        "slug": "si-maha-phot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "25140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.787",
+    "lon": "101.581"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-phrong-250807/"
+  }
+}

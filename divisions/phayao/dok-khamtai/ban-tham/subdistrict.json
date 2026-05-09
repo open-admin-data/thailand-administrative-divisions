@@ -1,0 +1,61 @@
+{
+  "id": "560503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านถ้ำ",
+    "en": "Ban Tham",
+    "slug": "ban-tham"
+  },
+  "code": {
+    "dopa": "560503"
+  },
+  "parent": {
+    "id": "5605",
+    "level": 2,
+    "name": {
+      "th": "ดอกคำใต้",
+      "en": "Dok Khamtai",
+      "slug": "dok-khamtai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5605",
+      "level": 2,
+      "name": {
+        "th": "ดอกคำใต้",
+        "en": "Dok Khamtai",
+        "slug": "dok-khamtai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "56120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.105",
+    "lon": "100.074"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-tham-560503/"
+  }
+}

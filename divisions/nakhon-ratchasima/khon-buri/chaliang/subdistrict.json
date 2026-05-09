@@ -1,0 +1,61 @@
+{
+  "id": "300202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เฉลียง",
+    "en": "Chaliang",
+    "slug": "chaliang"
+  },
+  "code": {
+    "dopa": "300202"
+  },
+  "parent": {
+    "id": "3002",
+    "level": 2,
+    "name": {
+      "th": "ครบุรี",
+      "en": "Khon Buri",
+      "slug": "khon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3002",
+      "level": 2,
+      "name": {
+        "th": "ครบุรี",
+        "en": "Khon Buri",
+        "slug": "khon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "30250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.489",
+    "lon": "102.279"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chaliang-300202/"
+  }
+}

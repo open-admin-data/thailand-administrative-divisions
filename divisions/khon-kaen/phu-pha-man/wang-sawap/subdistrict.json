@@ -1,0 +1,61 @@
+{
+  "id": "402004",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังสวาบ",
+    "en": "Wang Sawap",
+    "slug": "wang-sawap"
+  },
+  "code": {
+    "dopa": "402004"
+  },
+  "parent": {
+    "id": "4020",
+    "level": 2,
+    "name": {
+      "th": "ภูผาม่าน",
+      "en": "Phu Pha Man",
+      "slug": "phu-pha-man"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4020",
+      "level": 2,
+      "name": {
+        "th": "ภูผาม่าน",
+        "en": "Phu Pha Man",
+        "slug": "phu-pha-man"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "40350"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.714",
+    "lon": "101.817"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-sawap-402004/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "6105",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หนองขาหย่าง",
+    "en": "Nong Khayang",
+    "slug": "nong-khayang"
+  },
+  "code": {
+    "dopa": "6105"
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "th": "อุทัยธานี",
+      "en": "Uthai Thani",
+      "slug": "uthai-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 46
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.371",
+    "lon": "99.900"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-khayang-6105/"
+  }
+}

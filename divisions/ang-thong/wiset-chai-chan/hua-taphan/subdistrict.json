@@ -1,0 +1,61 @@
+{
+  "id": "150613",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวตะพาน",
+    "en": "Hua Taphan",
+    "slug": "hua-taphan"
+  },
+  "code": {
+    "dopa": "150613"
+  },
+  "parent": {
+    "id": "1506",
+    "level": 2,
+    "name": {
+      "th": "วิเศษชัยชาญ",
+      "en": "Wiset Chai Chan",
+      "slug": "wiset-chai-chan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1506",
+      "level": 2,
+      "name": {
+        "th": "วิเศษชัยชาญ",
+        "en": "Wiset Chai Chan",
+        "slug": "wiset-chai-chan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "14110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.583",
+    "lon": "100.387"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-taphan-150613/"
+  }
+}

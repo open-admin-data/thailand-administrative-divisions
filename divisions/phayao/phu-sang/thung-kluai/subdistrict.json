@@ -1,0 +1,61 @@
+{
+  "id": "560803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งกล้วย",
+    "en": "Thung Kluai",
+    "slug": "thung-kluai"
+  },
+  "code": {
+    "dopa": "560803"
+  },
+  "parent": {
+    "id": "5608",
+    "level": 2,
+    "name": {
+      "th": "ภูซาง",
+      "en": "Phu Sang",
+      "slug": "phu-sang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5608",
+      "level": 2,
+      "name": {
+        "th": "ภูซาง",
+        "en": "Phu Sang",
+        "slug": "phu-sang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "56110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.606",
+    "lon": "100.417"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-kluai-560803/"
+  }
+}

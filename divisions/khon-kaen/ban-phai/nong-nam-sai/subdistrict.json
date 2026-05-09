@@ -1,0 +1,61 @@
+{
+  "id": "401016",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองน้ำใส",
+    "en": "Nong Nam Sai",
+    "slug": "nong-nam-sai"
+  },
+  "code": {
+    "dopa": "401016"
+  },
+  "parent": {
+    "id": "4010",
+    "level": 2,
+    "name": {
+      "th": "บ้านไผ่",
+      "en": "Ban Phai",
+      "slug": "ban-phai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4010",
+      "level": 2,
+      "name": {
+        "th": "บ้านไผ่",
+        "en": "Ban Phai",
+        "slug": "ban-phai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "40110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.042",
+    "lon": "102.760"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-nam-sai-401016/"
+  }
+}

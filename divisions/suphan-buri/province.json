@@ -1,0 +1,38 @@
+{
+  "id": "72",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "สุพรรณบุรี",
+    "en": "Suphan Buri",
+    "slug": "suphan-buri"
+  },
+  "code": {
+    "dopa": "72",
+    "iso": "TH-72"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 10,
+    "subdistricts": 109,
+    "villages": 1037
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central"
+    }
+  },
+  "geo": {
+    "lat": "14.850",
+    "lon": "99.988"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/suphan-buri-72/"
+  }
+}

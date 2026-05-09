@@ -1,0 +1,61 @@
+{
+  "id": "180207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อู่ตะเภา",
+    "en": "U Taphao",
+    "slug": "u-taphao"
+  },
+  "code": {
+    "dopa": "180207"
+  },
+  "parent": {
+    "id": "1802",
+    "level": 2,
+    "name": {
+      "th": "มโนรมย์",
+      "en": "Manorom",
+      "slug": "manorom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1802",
+      "level": 2,
+      "name": {
+        "th": "มโนรมย์",
+        "en": "Manorom",
+        "slug": "manorom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "17170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.274",
+    "lon": "100.219"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/u-taphao-180207/"
+  }
+}

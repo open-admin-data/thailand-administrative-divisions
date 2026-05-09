@@ -1,0 +1,50 @@
+{
+  "id": "9102",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ควนโดน",
+    "en": "Khuan Don",
+    "slug": "khuan-don"
+  },
+  "code": {
+    "dopa": "9102"
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "th": "สตูล",
+      "en": "Satun",
+      "slug": "satun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 31
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.767",
+    "lon": "100.065"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khuan-don-9102/"
+  }
+}

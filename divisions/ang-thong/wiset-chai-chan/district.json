@@ -1,0 +1,50 @@
+{
+  "id": "1506",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "วิเศษชัยชาญ",
+    "en": "Wiset Chai Chan",
+    "slug": "wiset-chai-chan"
+  },
+  "code": {
+    "dopa": "1506"
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "th": "อ่างทอง",
+      "en": "Ang Thong",
+      "slug": "ang-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 15,
+    "villages": 126
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.542",
+    "lon": "100.315"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wiset-chai-chan-1506/"
+  }
+}

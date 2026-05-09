@@ -1,0 +1,61 @@
+{
+  "id": "102107",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง แสมดำ",
+    "en": "Samae Dam",
+    "slug": "samae-dam"
+  },
+  "code": {
+    "dopa": "102107"
+  },
+  "parent": {
+    "id": "1021",
+    "level": 2,
+    "name": {
+      "th": "เขต บางขุนเทียน",
+      "en": "Bang Khun Thian",
+      "slug": "bang-khun-thian"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1021",
+      "level": 2,
+      "name": {
+        "th": "เขต บางขุนเทียน",
+        "en": "Bang Khun Thian",
+        "slug": "bang-khun-thian"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10150"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.605",
+    "lon": "100.395"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samae-dam-102107/"
+  }
+}

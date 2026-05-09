@@ -1,0 +1,61 @@
+{
+  "id": "670321",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านไร่",
+    "en": "Ban Rai",
+    "slug": "ban-rai"
+  },
+  "code": {
+    "dopa": "670321"
+  },
+  "parent": {
+    "id": "6703",
+    "level": 2,
+    "name": {
+      "th": "หล่มสัก",
+      "en": "Lom Sak",
+      "slug": "lom-sak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6703",
+      "level": 2,
+      "name": {
+        "th": "หล่มสัก",
+        "en": "Lom Sak",
+        "slug": "lom-sak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "67110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.608",
+    "lon": "101.212"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-rai-670321/"
+  }
+}

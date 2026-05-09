@@ -1,0 +1,61 @@
+{
+  "id": "540701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังชิ้น",
+    "en": "Wang Chin",
+    "slug": "wang-chin"
+  },
+  "code": {
+    "dopa": "540701"
+  },
+  "parent": {
+    "id": "5407",
+    "level": 2,
+    "name": {
+      "th": "วังชิ้น",
+      "en": "Wang Chin",
+      "slug": "wang-chin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    {
+      "id": "5407",
+      "level": 2,
+      "name": {
+        "th": "วังชิ้น",
+        "en": "Wang Chin",
+        "slug": "wang-chin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "54160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.861",
+    "lon": "99.647"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-chin-540701/"
+  }
+}

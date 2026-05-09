@@ -1,0 +1,50 @@
+{
+  "id": "3407",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เดชอุดม",
+    "en": "Det Udom",
+    "slug": "det-udom"
+  },
+  "code": {
+    "dopa": "3407"
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 16,
+    "villages": 274
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.904",
+    "lon": "105.115"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/det-udom-3407/"
+  }
+}

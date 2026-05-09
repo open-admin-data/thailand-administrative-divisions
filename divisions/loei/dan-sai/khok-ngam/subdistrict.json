@@ -1,0 +1,61 @@
+{
+  "id": "420504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกงาม",
+    "en": "Khok Ngam",
+    "slug": "khok-ngam"
+  },
+  "code": {
+    "dopa": "420504"
+  },
+  "parent": {
+    "id": "4205",
+    "level": 2,
+    "name": {
+      "th": "ด่านซ้าย",
+      "en": "Dan Sai",
+      "slug": "dan-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4205",
+      "level": 2,
+      "name": {
+        "th": "ด่านซ้าย",
+        "en": "Dan Sai",
+        "slug": "dan-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "42120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.385",
+    "lon": "101.233"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-ngam-420504/"
+  }
+}

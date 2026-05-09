@@ -1,0 +1,61 @@
+{
+  "id": "610303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พลวงสองนาง",
+    "en": "Phluang Song Nang",
+    "slug": "phluang-song-nang"
+  },
+  "code": {
+    "dopa": "610303"
+  },
+  "parent": {
+    "id": "6103",
+    "level": 2,
+    "name": {
+      "th": "สว่างอารมณ์",
+      "en": "Sawang Arom",
+      "slug": "sawang-arom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6103",
+      "level": 2,
+      "name": {
+        "th": "สว่างอารมณ์",
+        "en": "Sawang Arom",
+        "slug": "sawang-arom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "61150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.550",
+    "lon": "99.779"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phluang-song-nang-610303/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "310715",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาคอก",
+    "en": "Khao Khok",
+    "slug": "khao-khok"
+  },
+  "code": {
+    "dopa": "310715"
+  },
+  "parent": {
+    "id": "3107",
+    "level": 2,
+    "name": {
+      "th": "ประโคนชัย",
+      "en": "Prakhon Chai",
+      "slug": "prakhon-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3107",
+      "level": 2,
+      "name": {
+        "th": "ประโคนชัย",
+        "en": "Prakhon Chai",
+        "slug": "prakhon-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "31140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.440",
+    "lon": "103.004"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-khok-310715/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "931003",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะเต่า",
+    "en": "Ko Tao",
+    "slug": "ko-tao"
+  },
+  "code": {
+    "dopa": "931003"
+  },
+  "parent": {
+    "id": "9310",
+    "level": 2,
+    "name": {
+      "th": "ป่าพยอม",
+      "en": "Pa Phayom",
+      "slug": "pa-phayom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9310",
+      "level": 2,
+      "name": {
+        "th": "ป่าพยอม",
+        "en": "Pa Phayom",
+        "slug": "pa-phayom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "93110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.783",
+    "lon": "99.799"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-tao-931003/"
+  }
+}

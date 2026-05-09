@@ -1,0 +1,61 @@
+{
+  "id": "310510",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บุกระสัง",
+    "en": "Bu Krasang",
+    "slug": "bu-krasang"
+  },
+  "code": {
+    "dopa": "310510"
+  },
+  "parent": {
+    "id": "3105",
+    "level": 2,
+    "name": {
+      "th": "หนองกี่",
+      "en": "Nong Ki",
+      "slug": "nong-ki"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3105",
+      "level": 2,
+      "name": {
+        "th": "หนองกี่",
+        "en": "Nong Ki",
+        "slug": "nong-ki"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "31210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.724",
+    "lon": "102.501"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bu-krasang-310510/"
+  }
+}

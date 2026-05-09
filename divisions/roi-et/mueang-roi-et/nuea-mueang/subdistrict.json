@@ -1,0 +1,61 @@
+{
+  "id": "450103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เหนือเมือง",
+    "en": "Nuea Mueang",
+    "slug": "nuea-mueang"
+  },
+  "code": {
+    "dopa": "450103"
+  },
+  "parent": {
+    "id": "4501",
+    "level": 2,
+    "name": {
+      "th": "เมืองร้อยเอ็ด",
+      "en": "Mueang Roi Et",
+      "slug": "mueang-roi-et"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4501",
+      "level": 2,
+      "name": {
+        "th": "เมืองร้อยเอ็ด",
+        "en": "Mueang Roi Et",
+        "slug": "mueang-roi-et"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 23
+  },
+  "zip_codes": [
+    "45000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.079",
+    "lon": "103.652"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nuea-mueang-450103/"
+  }
+}

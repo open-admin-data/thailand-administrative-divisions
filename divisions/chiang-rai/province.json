@@ -1,0 +1,38 @@
+{
+  "id": "57",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "เชียงราย",
+    "en": "Chiang Rai",
+    "slug": "chiang-rai"
+  },
+  "code": {
+    "dopa": "57",
+    "iso": "TH-57"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 18,
+    "subdistricts": 123,
+    "villages": 1817
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern"
+    }
+  },
+  "geo": {
+    "lat": "19.907",
+    "lon": "99.832"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/chiang-rai-57/"
+  }
+}

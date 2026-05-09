@@ -1,0 +1,50 @@
+{
+  "id": "1501",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองอ่างทอง",
+    "en": "Mueang Ang Thong",
+    "slug": "mueang-ang-thong"
+  },
+  "code": {
+    "dopa": "1501"
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "th": "อ่างทอง",
+      "en": "Ang Thong",
+      "slug": "ang-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 14,
+    "villages": 103
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.588",
+    "lon": "100.459"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-ang-thong-1501/"
+  }
+}

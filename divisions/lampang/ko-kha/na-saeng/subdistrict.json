@@ -1,0 +1,61 @@
+{
+  "id": "520307",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาแส่ง",
+    "en": "Na Saeng",
+    "slug": "na-saeng"
+  },
+  "code": {
+    "dopa": "520307"
+  },
+  "parent": {
+    "id": "5203",
+    "level": 2,
+    "name": {
+      "th": "เกาะคา",
+      "en": "Ko Kha",
+      "slug": "ko-kha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5203",
+      "level": 2,
+      "name": {
+        "th": "เกาะคา",
+        "en": "Ko Kha",
+        "slug": "ko-kha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "52130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.074",
+    "lon": "99.381"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-saeng-520307/"
+  }
+}

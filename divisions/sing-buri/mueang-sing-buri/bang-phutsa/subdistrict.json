@@ -1,0 +1,61 @@
+{
+  "id": "170101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางพุทรา",
+    "en": "Bang Phutsa",
+    "slug": "bang-phutsa"
+  },
+  "code": {
+    "dopa": "170101"
+  },
+  "parent": {
+    "id": "1701",
+    "level": 2,
+    "name": {
+      "th": "เมืองสิงห์บุรี",
+      "en": "Mueang Sing Buri",
+      "slug": "mueang-sing-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1701",
+      "level": 2,
+      "name": {
+        "th": "เมืองสิงห์บุรี",
+        "en": "Mueang Sing Buri",
+        "slug": "mueang-sing-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "16000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.890",
+    "lon": "100.404"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-phutsa-170101/"
+  }
+}

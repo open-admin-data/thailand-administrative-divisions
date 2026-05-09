@@ -1,0 +1,61 @@
+{
+  "id": "210502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองละลอก",
+    "en": "Nong Lalok",
+    "slug": "nong-lalok"
+  },
+  "code": {
+    "dopa": "210502"
+  },
+  "parent": {
+    "id": "2105",
+    "level": 2,
+    "name": {
+      "th": "บ้านค่าย",
+      "en": "Ban Khai",
+      "slug": "ban-khai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2105",
+      "level": 2,
+      "name": {
+        "th": "บ้านค่าย",
+        "en": "Ban Khai",
+        "slug": "ban-khai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "21120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.821",
+    "lon": "101.256"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-lalok-210502/"
+  }
+}

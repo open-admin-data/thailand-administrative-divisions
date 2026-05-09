@@ -1,0 +1,50 @@
+{
+  "id": "3310",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "อุทุมพรพิสัย",
+    "en": "Uthumphon Phisai",
+    "slug": "uthumphon-phisai"
+  },
+  "code": {
+    "dopa": "3310"
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "th": "ศรีสะเกษ",
+      "en": "Si Sa Ket",
+      "slug": "si-sa-ket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 19,
+    "villages": 232
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.120",
+    "lon": "104.178"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/uthumphon-phisai-3310/"
+  }
+}

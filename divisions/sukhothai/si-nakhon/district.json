@@ -1,0 +1,50 @@
+{
+  "id": "6408",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ศรีนคร",
+    "en": "Si Nakhon",
+    "slug": "si-nakhon"
+  },
+  "code": {
+    "dopa": "6408"
+  },
+  "parent": {
+    "id": "64",
+    "level": 1,
+    "name": {
+      "th": "สุโขทัย",
+      "en": "Sukhothai",
+      "slug": "sukhothai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 49
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.285",
+    "lon": "99.958"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/si-nakhon-6408/"
+  }
+}

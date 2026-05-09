@@ -1,0 +1,50 @@
+{
+  "id": "1015",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต ธนบุรี",
+    "en": "Khet Thon Buri",
+    "slug": "khet-thon-buri"
+  },
+  "code": {
+    "dopa": "1015"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.731",
+    "lon": "100.490"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khet-thon-buri-1015/"
+  }
+}

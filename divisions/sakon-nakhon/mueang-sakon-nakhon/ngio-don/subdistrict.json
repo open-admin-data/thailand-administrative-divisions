@@ -1,0 +1,61 @@
+{
+  "id": "470103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "งิ้วด่อน",
+    "en": "Ngio Don",
+    "slug": "ngio-don"
+  },
+  "code": {
+    "dopa": "470103"
+  },
+  "parent": {
+    "id": "4701",
+    "level": 2,
+    "name": {
+      "th": "เมืองสกลนคร",
+      "en": "Mueang Sakon Nakhon",
+      "slug": "mueang-sakon-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4701",
+      "level": 2,
+      "name": {
+        "th": "เมืองสกลนคร",
+        "en": "Mueang Sakon Nakhon",
+        "slug": "mueang-sakon-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "47000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.114",
+    "lon": "104.165"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ngio-don-470103/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "930201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กงหรา",
+    "en": "Kong Ra",
+    "slug": "kong-ra"
+  },
+  "code": {
+    "dopa": "930201"
+  },
+  "parent": {
+    "id": "9302",
+    "level": 2,
+    "name": {
+      "th": "กงหรา",
+      "en": "Kong Ra",
+      "slug": "kong-ra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9302",
+      "level": 2,
+      "name": {
+        "th": "กงหรา",
+        "en": "Kong Ra",
+        "slug": "kong-ra"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "93180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.463",
+    "lon": "99.877"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kong-ra-930201/"
+  }
+}

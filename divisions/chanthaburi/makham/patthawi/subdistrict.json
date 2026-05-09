@@ -1,0 +1,61 @@
+{
+  "id": "220503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปัถวี",
+    "en": "Patthawi",
+    "slug": "patthawi"
+  },
+  "code": {
+    "dopa": "220503"
+  },
+  "parent": {
+    "id": "2205",
+    "level": 2,
+    "name": {
+      "th": "มะขาม",
+      "en": "Makham",
+      "slug": "makham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    },
+    {
+      "id": "2205",
+      "level": 2,
+      "name": {
+        "th": "มะขาม",
+        "en": "Makham",
+        "slug": "makham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "22150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.743",
+    "lon": "102.272"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/patthawi-220503/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "350607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนทราย",
+    "en": "Non Sai",
+    "slug": "non-sai"
+  },
+  "code": {
+    "dopa": "350607"
+  },
+  "parent": {
+    "id": "3506",
+    "level": 2,
+    "name": {
+      "th": "มหาชนะชัย",
+      "en": "Maha Chana Chai",
+      "slug": "maha-chana-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "th": "มหาชนะชัย",
+        "en": "Maha Chana Chai",
+        "slug": "maha-chana-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "35130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.552",
+    "lon": "104.329"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-sai-350607/"
+  }
+}

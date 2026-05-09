@@ -1,0 +1,61 @@
+{
+  "id": "502102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศรีดงเย็น",
+    "en": "Si Dong Yen",
+    "slug": "si-dong-yen"
+  },
+  "code": {
+    "dopa": "502102"
+  },
+  "parent": {
+    "id": "5021",
+    "level": 2,
+    "name": {
+      "th": "ไชยปราการ",
+      "en": "Chai Prakan",
+      "slug": "chai-prakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5021",
+      "level": 2,
+      "name": {
+        "th": "ไชยปราการ",
+        "en": "Chai Prakan",
+        "slug": "chai-prakan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "50320"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.646",
+    "lon": "99.178"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-dong-yen-502102/"
+  }
+}

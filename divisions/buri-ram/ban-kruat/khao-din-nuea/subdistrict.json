@@ -1,0 +1,61 @@
+{
+  "id": "310809",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาดินเหนือ",
+    "en": "Khao Din Nuea",
+    "slug": "khao-din-nuea"
+  },
+  "code": {
+    "dopa": "310809"
+  },
+  "parent": {
+    "id": "3108",
+    "level": 2,
+    "name": {
+      "th": "บ้านกรวด",
+      "en": "Ban Kruat",
+      "slug": "ban-kruat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3108",
+      "level": 2,
+      "name": {
+        "th": "บ้านกรวด",
+        "en": "Ban Kruat",
+        "slug": "ban-kruat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "31180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.524",
+    "lon": "103.199"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-din-nuea-310809/"
+  }
+}

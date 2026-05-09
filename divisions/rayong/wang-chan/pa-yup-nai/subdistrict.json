@@ -1,0 +1,61 @@
+{
+  "id": "210403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่ายุบใน",
+    "en": "Pa Yup Nai",
+    "slug": "pa-yup-nai"
+  },
+  "code": {
+    "dopa": "210403"
+  },
+  "parent": {
+    "id": "2104",
+    "level": 2,
+    "name": {
+      "th": "วังจันทร์",
+      "en": "Wang Chan",
+      "slug": "wang-chan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "th": "วังจันทร์",
+        "en": "Wang Chan",
+        "slug": "wang-chan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "21210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.005",
+    "lon": "101.479"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-yup-nai-210403/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "801703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังหิน",
+    "en": "Wang Hin",
+    "slug": "wang-hin"
+  },
+  "code": {
+    "dopa": "801703"
+  },
+  "parent": {
+    "id": "8017",
+    "level": 2,
+    "name": {
+      "th": "บางขัน",
+      "en": "Bang Khan",
+      "slug": "bang-khan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8017",
+      "level": 2,
+      "name": {
+        "th": "บางขัน",
+        "en": "Bang Khan",
+        "slug": "bang-khan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "80360"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.984",
+    "lon": "99.554"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-hin-801703/"
+  }
+}

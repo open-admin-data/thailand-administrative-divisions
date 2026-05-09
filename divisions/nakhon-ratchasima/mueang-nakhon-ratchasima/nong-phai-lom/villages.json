@@ -1,0 +1,185 @@
+[
+  {
+    "id": "30011001",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านบุ่ง",
+      "en": "Ban Bung",
+      "slug": "30011001"
+    },
+    "code": {
+      "dopa": "30011001"
+    },
+    "parent": {
+      "id": "300110",
+      "level": 3,
+      "name": {
+        "th": "หนองไผ่ล้อม",
+        "en": "Nong Phai Lom",
+        "slug": "nong-phai-lom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "th": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima"
+        }
+      },
+      {
+        "id": "3001",
+        "level": 2,
+        "name": {
+          "th": "เมืองนครราชสีมา",
+          "en": "Mueang Nakhon Ratchasima",
+          "slug": "mueang-nakhon-ratchasima"
+        }
+      },
+      {
+        "id": "300110",
+        "level": 3,
+        "name": {
+          "th": "หนองไผ่ล้อม",
+          "en": "Nong Phai Lom",
+          "slug": "nong-phai-lom"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.967131362796245",
+      "lon": "102.09318190813065"
+    },
+    "source": {}
+  },
+  {
+    "id": "30011002",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองนกยูง",
+      "en": "Ban Nong Nok Yung",
+      "slug": "30011002"
+    },
+    "code": {
+      "dopa": "30011002"
+    },
+    "parent": {
+      "id": "300110",
+      "level": 3,
+      "name": {
+        "th": "หนองไผ่ล้อม",
+        "en": "Nong Phai Lom",
+        "slug": "nong-phai-lom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "th": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima"
+        }
+      },
+      {
+        "id": "3001",
+        "level": 2,
+        "name": {
+          "th": "เมืองนครราชสีมา",
+          "en": "Mueang Nakhon Ratchasima",
+          "slug": "mueang-nakhon-ratchasima"
+        }
+      },
+      {
+        "id": "300110",
+        "level": 3,
+        "name": {
+          "th": "หนองไผ่ล้อม",
+          "en": "Nong Phai Lom",
+          "slug": "nong-phai-lom"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.96555978648617",
+      "lon": "102.09172815084457"
+    },
+    "source": {}
+  },
+  {
+    "id": "30011003",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านบุ่งตาหลั่ว",
+      "en": "Ban Bung Ta Lao",
+      "slug": "30011003"
+    },
+    "code": {
+      "dopa": "30011003"
+    },
+    "parent": {
+      "id": "300110",
+      "level": 3,
+      "name": {
+        "th": "หนองไผ่ล้อม",
+        "en": "Nong Phai Lom",
+        "slug": "nong-phai-lom"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "th": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima"
+        }
+      },
+      {
+        "id": "3001",
+        "level": 2,
+        "name": {
+          "th": "เมืองนครราชสีมา",
+          "en": "Mueang Nakhon Ratchasima",
+          "slug": "mueang-nakhon-ratchasima"
+        }
+      },
+      {
+        "id": "300110",
+        "level": 3,
+        "name": {
+          "th": "หนองไผ่ล้อม",
+          "en": "Nong Phai Lom",
+          "slug": "nong-phai-lom"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.964696904568228",
+      "lon": "102.0910133421421"
+    },
+    "source": {}
+  }
+]

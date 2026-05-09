@@ -1,0 +1,124 @@
+[
+  {
+    "id": "23060101",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านอ่าวนิด",
+      "en": "Ban Ao Nit",
+      "slug": "23060101"
+    },
+    "code": {
+      "dopa": "23060101"
+    },
+    "parent": {
+      "id": "230601",
+      "level": 3,
+      "name": {
+        "th": "เกาะหมาก",
+        "en": "Ko Mak",
+        "slug": "ko-mak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2306",
+        "level": 2,
+        "name": {
+          "th": "เกาะกูด",
+          "en": "Ko Kut",
+          "slug": "ko-kut"
+        }
+      },
+      {
+        "id": "230601",
+        "level": 3,
+        "name": {
+          "th": "เกาะหมาก",
+          "en": "Ko Mak",
+          "slug": "ko-mak"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "11.804202115530662",
+      "lon": "102.48677864670753"
+    },
+    "source": {}
+  },
+  {
+    "id": "23060102",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านแหลมสน",
+      "en": "Ban Laem Son",
+      "slug": "23060102"
+    },
+    "code": {
+      "dopa": "23060102"
+    },
+    "parent": {
+      "id": "230601",
+      "level": 3,
+      "name": {
+        "th": "เกาะหมาก",
+        "en": "Ko Mak",
+        "slug": "ko-mak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "th": "ตราด",
+          "en": "Trat",
+          "slug": "trat"
+        }
+      },
+      {
+        "id": "2306",
+        "level": 2,
+        "name": {
+          "th": "เกาะกูด",
+          "en": "Ko Kut",
+          "slug": "ko-kut"
+        }
+      },
+      {
+        "id": "230601",
+        "level": 3,
+        "name": {
+          "th": "เกาะหมาก",
+          "en": "Ko Mak",
+          "slug": "ko-mak"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "11.81840694316971",
+      "lon": "102.4949298799038"
+    },
+    "source": {}
+  }
+]

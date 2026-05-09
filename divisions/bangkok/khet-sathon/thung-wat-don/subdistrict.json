@@ -1,0 +1,61 @@
+{
+  "id": "102801",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง ทุ่งวัดดอน",
+    "en": "Thung Wat Don",
+    "slug": "thung-wat-don"
+  },
+  "code": {
+    "dopa": "102801"
+  },
+  "parent": {
+    "id": "1028",
+    "level": 2,
+    "name": {
+      "th": "เขต สาทร",
+      "en": "Khet Sathon",
+      "slug": "khet-sathon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1028",
+      "level": 2,
+      "name": {
+        "th": "เขต สาทร",
+        "en": "Khet Sathon",
+        "slug": "khet-sathon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10120"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.710",
+    "lon": "100.532"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-wat-don-102801/"
+  }
+}

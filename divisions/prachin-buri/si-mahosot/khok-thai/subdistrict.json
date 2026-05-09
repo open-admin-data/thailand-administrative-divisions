@@ -1,0 +1,61 @@
+{
+  "id": "250902",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกไทย",
+    "en": "Khok Thai",
+    "slug": "khok-thai"
+  },
+  "code": {
+    "dopa": "250902"
+  },
+  "parent": {
+    "id": "2509",
+    "level": 2,
+    "name": {
+      "th": "ศรีมโหสถ",
+      "en": "Si Mahosot",
+      "slug": "si-mahosot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "th": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri"
+      }
+    },
+    {
+      "id": "2509",
+      "level": 2,
+      "name": {
+        "th": "ศรีมโหสถ",
+        "en": "Si Mahosot",
+        "slug": "si-mahosot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "25190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.845",
+    "lon": "101.448"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-thai-250902/"
+  }
+}

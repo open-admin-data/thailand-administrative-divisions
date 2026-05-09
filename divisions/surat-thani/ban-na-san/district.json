@@ -1,0 +1,50 @@
+{
+  "id": "8412",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านนาสาร",
+    "en": "Ban Na San",
+    "slug": "ban-na-san"
+  },
+  "code": {
+    "dopa": "8412"
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "th": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 90
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.749",
+    "lon": "99.348"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-na-san-8412/"
+  }
+}

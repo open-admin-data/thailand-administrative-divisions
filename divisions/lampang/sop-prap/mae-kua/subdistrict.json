@@ -1,0 +1,61 @@
+{
+  "id": "521103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่กัวะ",
+    "en": "Mae Kua",
+    "slug": "mae-kua"
+  },
+  "code": {
+    "dopa": "521103"
+  },
+  "parent": {
+    "id": "5211",
+    "level": 2,
+    "name": {
+      "th": "สบปราบ",
+      "en": "Sop Prap",
+      "slug": "sop-prap"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5211",
+      "level": 2,
+      "name": {
+        "th": "สบปราบ",
+        "en": "Sop Prap",
+        "slug": "sop-prap"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "52170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.956",
+    "lon": "99.353"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-kua-521103/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "670803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองแจง",
+    "en": "Nong Chaeng",
+    "slug": "nong-chaeng"
+  },
+  "code": {
+    "dopa": "670803"
+  },
+  "parent": {
+    "id": "6708",
+    "level": 2,
+    "name": {
+      "th": "บึงสามพัน",
+      "en": "Bueng Sam Phan",
+      "slug": "bueng-sam-phan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6708",
+      "level": 2,
+      "name": {
+        "th": "บึงสามพัน",
+        "en": "Bueng Sam Phan",
+        "slug": "bueng-sam-phan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "67160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.877",
+    "lon": "100.985"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-chaeng-670803/"
+  }
+}

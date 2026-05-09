@@ -1,0 +1,61 @@
+{
+  "id": "920302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองบ่อ",
+    "en": "Nong Bo",
+    "slug": "nong-bo"
+  },
+  "code": {
+    "dopa": "920302"
+  },
+  "parent": {
+    "id": "9203",
+    "level": 2,
+    "name": {
+      "th": "ย่านตาขาว",
+      "en": "Yan Ta Khao",
+      "slug": "yan-ta-khao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9203",
+      "level": 2,
+      "name": {
+        "th": "ย่านตาขาว",
+        "en": "Yan Ta Khao",
+        "slug": "yan-ta-khao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "92140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.416",
+    "lon": "99.718"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-bo-920302/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "130707",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านปทุม",
+    "en": "Ban Pathum",
+    "slug": "ban-pathum"
+  },
+  "code": {
+    "dopa": "130707"
+  },
+  "parent": {
+    "id": "1307",
+    "level": 2,
+    "name": {
+      "th": "สามโคก",
+      "en": "Sam Khok",
+      "slug": "sam-khok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1307",
+      "level": 2,
+      "name": {
+        "th": "สามโคก",
+        "en": "Sam Khok",
+        "slug": "sam-khok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "12160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.067",
+    "lon": "100.546"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-pathum-130707/"
+  }
+}

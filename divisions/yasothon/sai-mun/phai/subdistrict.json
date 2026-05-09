@@ -1,0 +1,61 @@
+{
+  "id": "350205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไผ่",
+    "en": "Phai",
+    "slug": "phai"
+  },
+  "code": {
+    "dopa": "350205"
+  },
+  "parent": {
+    "id": "3502",
+    "level": 2,
+    "name": {
+      "th": "ทรายมูล",
+      "en": "Sai Mun",
+      "slug": "sai-mun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3502",
+      "level": 2,
+      "name": {
+        "th": "ทรายมูล",
+        "en": "Sai Mun",
+        "slug": "sai-mun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "35170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.927",
+    "lon": "104.293"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phai-350205/"
+  }
+}

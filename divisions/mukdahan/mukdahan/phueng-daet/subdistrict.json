@@ -1,0 +1,61 @@
+{
+  "id": "490106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ผึ่งแดด",
+    "en": "Phueng Daet",
+    "slug": "phueng-daet"
+  },
+  "code": {
+    "dopa": "490106"
+  },
+  "parent": {
+    "id": "4901",
+    "level": 2,
+    "name": {
+      "th": "เมืองมุกดาหาร",
+      "en": "Mukdahan",
+      "slug": "mukdahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4901",
+      "level": 2,
+      "name": {
+        "th": "เมืองมุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "49000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.631",
+    "lon": "104.476"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phueng-daet-490106/"
+  }
+}

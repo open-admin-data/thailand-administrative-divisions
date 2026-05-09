@@ -1,0 +1,50 @@
+{
+  "id": "5714",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ขุนตาล",
+    "en": "Khun Tan",
+    "slug": "khun-tan"
+  },
+  "code": {
+    "dopa": "5714"
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 55
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.847",
+    "lon": "100.272"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khun-tan-5714/"
+  }
+}

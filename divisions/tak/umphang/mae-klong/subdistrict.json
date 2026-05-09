@@ -1,0 +1,61 @@
+{
+  "id": "630806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่กลอง",
+    "en": "Mae Klong",
+    "slug": "mae-klong"
+  },
+  "code": {
+    "dopa": "630806"
+  },
+  "parent": {
+    "id": "6308",
+    "level": 2,
+    "name": {
+      "th": "อุ้มผาง",
+      "en": "Umphang",
+      "slug": "umphang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6308",
+      "level": 2,
+      "name": {
+        "th": "อุ้มผาง",
+        "en": "Umphang",
+        "slug": "umphang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "63170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.066",
+    "lon": "98.834"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-klong-630806/"
+  }
+}

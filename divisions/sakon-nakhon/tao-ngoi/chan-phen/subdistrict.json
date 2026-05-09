@@ -1,0 +1,61 @@
+{
+  "id": "471404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "จันทร์เพ็ญ",
+    "en": "Chan Phen",
+    "slug": "chan-phen"
+  },
+  "code": {
+    "dopa": "471404"
+  },
+  "parent": {
+    "id": "4714",
+    "level": 2,
+    "name": {
+      "th": "เต่างอย",
+      "en": "Tao Ngoi",
+      "slug": "tao-ngoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4714",
+      "level": 2,
+      "name": {
+        "th": "เต่างอย",
+        "en": "Tao Ngoi",
+        "slug": "tao-ngoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "47260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.925",
+    "lon": "104.155"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chan-phen-471404/"
+  }
+}

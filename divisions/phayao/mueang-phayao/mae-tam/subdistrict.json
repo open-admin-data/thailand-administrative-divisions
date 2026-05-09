@@ -1,0 +1,61 @@
+{
+  "id": "560102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่ต๋ำ",
+    "en": "Mae Tam",
+    "slug": "mae-tam"
+  },
+  "code": {
+    "dopa": "560102"
+  },
+  "parent": {
+    "id": "5601",
+    "level": 2,
+    "name": {
+      "th": "เมืองพะเยา",
+      "en": "Mueang Phayao",
+      "slug": "mueang-phayao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5601",
+      "level": 2,
+      "name": {
+        "th": "เมืองพะเยา",
+        "en": "Mueang Phayao",
+        "slug": "mueang-phayao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "56000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.142",
+    "lon": "99.912"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-tam-560102/"
+  }
+}

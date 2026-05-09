@@ -1,0 +1,502 @@
+[
+  {
+    "id": "7204",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บางปลาม้า",
+      "en": "Bang Pla Ma",
+      "slug": "bang-pla-ma"
+    },
+    "code": {
+      "dopa": "7204"
+    },
+    "parent": {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "th": "สุพรรณบุรี",
+          "en": "Suphan Buri",
+          "slug": "suphan-buri"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 14,
+      "villages": 127
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.346",
+      "lon": "100.140"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/bang-pla-ma-7204/"
+    }
+  },
+  {
+    "id": "7203",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ด่านช้าง",
+      "en": "Dan Chang",
+      "slug": "dan-chang"
+    },
+    "code": {
+      "dopa": "7203"
+    },
+    "parent": {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "th": "สุพรรณบุรี",
+          "en": "Suphan Buri",
+          "slug": "suphan-buri"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 7,
+      "villages": 93
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.937",
+      "lon": "99.666"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/dan-chang-7203/"
+    }
+  },
+  {
+    "id": "7202",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เดิมบางนางบวช",
+      "en": "Doem Bang Nang Buat",
+      "slug": "doem-bang-nang-buat"
+    },
+    "code": {
+      "dopa": "7202"
+    },
+    "parent": {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "th": "สุพรรณบุรี",
+          "en": "Suphan Buri",
+          "slug": "suphan-buri"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 13,
+      "villages": 115
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.850",
+      "lon": "99.988"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/doem-bang-nang-buat-7202/"
+    }
+  },
+  {
+    "id": "7206",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ดอนเจดีย์",
+      "en": "Don Chedi",
+      "slug": "don-chedi"
+    },
+    "code": {
+      "dopa": "7206"
+    },
+    "parent": {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "th": "สุพรรณบุรี",
+          "en": "Suphan Buri",
+          "slug": "suphan-buri"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 5,
+      "villages": 50
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.603",
+      "lon": "99.955"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/don-chedi-7206/"
+    }
+  },
+  {
+    "id": "7201",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เมืองสุพรรณบุรี",
+      "en": "Mueang Suphan Buri",
+      "slug": "mueang-suphan-buri"
+    },
+    "code": {
+      "dopa": "7201"
+    },
+    "parent": {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "th": "สุพรรณบุรี",
+          "en": "Suphan Buri",
+          "slug": "suphan-buri"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 20,
+      "villages": 140
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.471",
+      "lon": "100.116"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/mueang-suphan-buri-7201/"
+    }
+  },
+  {
+    "id": "7210",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "หนองหญ้าไซ",
+      "en": "Nong Ya Sai",
+      "slug": "nong-ya-sai"
+    },
+    "code": {
+      "dopa": "7210"
+    },
+    "parent": {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "th": "สุพรรณบุรี",
+          "en": "Suphan Buri",
+          "slug": "suphan-buri"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 6,
+      "villages": 66
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.749",
+      "lon": "99.806"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/nong-ya-sai-7210/"
+    }
+  },
+  {
+    "id": "7208",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "สามชุก",
+      "en": "Sam Chuk",
+      "slug": "sam-chuk"
+    },
+    "code": {
+      "dopa": "7208"
+    },
+    "parent": {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "th": "สุพรรณบุรี",
+          "en": "Suphan Buri",
+          "slug": "suphan-buri"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 7,
+      "villages": 68
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.763",
+      "lon": "100.095"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/sam-chuk-7208/"
+    }
+  },
+  {
+    "id": "7205",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ศรีประจันต์",
+      "en": "Si Prachan",
+      "slug": "si-prachan"
+    },
+    "code": {
+      "dopa": "7205"
+    },
+    "parent": {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "th": "สุพรรณบุรี",
+          "en": "Suphan Buri",
+          "slug": "suphan-buri"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 9,
+      "villages": 64
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.661",
+      "lon": "100.095"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/si-prachan-7205/"
+    }
+  },
+  {
+    "id": "7207",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "สองพี่น้อง",
+      "en": "Song Phi Nong",
+      "slug": "song-phi-nong"
+    },
+    "code": {
+      "dopa": "7207"
+    },
+    "parent": {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "th": "สุพรรณบุรี",
+          "en": "Suphan Buri",
+          "slug": "suphan-buri"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 15,
+      "villages": 159
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.225",
+      "lon": "100.023"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/song-phi-nong-7207/"
+    }
+  },
+  {
+    "id": "7209",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "อู่ทอง",
+      "en": "U Thong",
+      "slug": "u-thong"
+    },
+    "code": {
+      "dopa": "7209"
+    },
+    "parent": {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "72",
+        "level": 1,
+        "name": {
+          "th": "สุพรรณบุรี",
+          "en": "Suphan Buri",
+          "slug": "suphan-buri"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 13,
+      "villages": 155
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.322",
+      "lon": "99.898"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/u-thong-7209/"
+    }
+  }
+]

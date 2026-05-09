@@ -1,0 +1,50 @@
+{
+  "id": "9208",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "นาโยง",
+    "en": "Na Yong",
+    "slug": "na-yong"
+  },
+  "code": {
+    "dopa": "9208"
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "th": "ตรัง",
+      "en": "Trang",
+      "slug": "trang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 53
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.566",
+    "lon": "99.699"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/na-yong-9208/"
+  }
+}

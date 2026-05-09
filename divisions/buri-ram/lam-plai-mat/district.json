@@ -1,0 +1,50 @@
+{
+  "id": "3110",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ลำปลายมาศ",
+    "en": "Lam Plai Mat",
+    "slug": "lam-plai-mat"
+  },
+  "code": {
+    "dopa": "3110"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 16,
+    "villages": 216
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.019",
+    "lon": "102.834"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/lam-plai-mat-3110/"
+  }
+}

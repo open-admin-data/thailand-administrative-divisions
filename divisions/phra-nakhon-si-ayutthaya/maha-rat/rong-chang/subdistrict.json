@@ -1,0 +1,61 @@
+{
+  "id": "141506",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โรงช้าง",
+    "en": "Rong Chang",
+    "slug": "rong-chang"
+  },
+  "code": {
+    "dopa": "141506"
+  },
+  "parent": {
+    "id": "1415",
+    "level": 2,
+    "name": {
+      "th": "มหาราช",
+      "en": "Maha Rat",
+      "slug": "maha-rat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1415",
+      "level": 2,
+      "name": {
+        "th": "มหาราช",
+        "en": "Maha Rat",
+        "slug": "maha-rat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "13150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.602",
+    "lon": "100.563"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rong-chang-141506/"
+  }
+}

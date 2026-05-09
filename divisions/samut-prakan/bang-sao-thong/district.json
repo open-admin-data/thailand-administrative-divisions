@@ -1,0 +1,50 @@
+{
+  "id": "1106",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บางเสาธง",
+    "en": "Bang Sao Thong",
+    "slug": "bang-sao-thong"
+  },
+  "code": {
+    "dopa": "1106"
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 38
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.641",
+    "lon": "100.803"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-sao-thong-1106/"
+  }
+}

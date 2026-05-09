@@ -1,0 +1,61 @@
+{
+  "id": "300709",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ละลมใหม่พัฒนา",
+    "en": "Lalom Mai Phatthana",
+    "slug": "lalom-mai-phatthana"
+  },
+  "code": {
+    "dopa": "300709"
+  },
+  "parent": {
+    "id": "3007",
+    "level": 2,
+    "name": {
+      "th": "โชคชัย",
+      "en": "Chok Chai",
+      "slug": "chok-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3007",
+      "level": 2,
+      "name": {
+        "th": "โชคชัย",
+        "en": "Chok Chai",
+        "slug": "chok-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "30190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.811",
+    "lon": "102.243"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lalom-mai-phatthana-300709/"
+  }
+}

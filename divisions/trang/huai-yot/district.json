@@ -1,0 +1,50 @@
+{
+  "id": "9206",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ห้วยยอด",
+    "en": "Huai Yot",
+    "slug": "huai-yot"
+  },
+  "code": {
+    "dopa": "9206"
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "th": "ตรัง",
+      "en": "Trang",
+      "slug": "trang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 16,
+    "villages": 141
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.811",
+    "lon": "99.618"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/huai-yot-9206/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "500307",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปางหินฝน",
+    "en": "Pang Hin Fon",
+    "slug": "pang-hin-fon"
+  },
+  "code": {
+    "dopa": "500307"
+  },
+  "parent": {
+    "id": "5003",
+    "level": 2,
+    "name": {
+      "th": "แม่แจ่ม",
+      "en": "Mae Chaem",
+      "slug": "mae-chaem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5003",
+      "level": 2,
+      "name": {
+        "th": "แม่แจ่ม",
+        "en": "Mae Chaem",
+        "slug": "mae-chaem"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "50270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.451",
+    "lon": "98.136"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pang-hin-fon-500307/"
+  }
+}

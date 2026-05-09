@@ -1,0 +1,61 @@
+{
+  "id": "490706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองสูงเหนือ",
+    "en": "Nong Sung Nuea",
+    "slug": "nong-sung-nuea"
+  },
+  "code": {
+    "dopa": "490706"
+  },
+  "parent": {
+    "id": "4907",
+    "level": 2,
+    "name": {
+      "th": "หนองสูง",
+      "en": "Nong Sung",
+      "slug": "nong-sung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4907",
+      "level": 2,
+      "name": {
+        "th": "หนองสูง",
+        "en": "Nong Sung",
+        "slug": "nong-sung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "49160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.491",
+    "lon": "104.360"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-sung-nuea-490706/"
+  }
+}

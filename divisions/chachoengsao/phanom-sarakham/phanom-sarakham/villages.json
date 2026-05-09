@@ -1,0 +1,185 @@
+[
+  {
+    "id": "24060301",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านท่าเกวียน",
+      "en": "Ban Tha Kwian",
+      "slug": "24060301"
+    },
+    "code": {
+      "dopa": "24060301"
+    },
+    "parent": {
+      "id": "240603",
+      "level": 3,
+      "name": {
+        "th": "พนมสารคาม",
+        "en": "Phanom Sarakham",
+        "slug": "phanom-sarakham"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2406",
+        "level": 2,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      },
+      {
+        "id": "240603",
+        "level": 3,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.746069299957247",
+      "lon": "101.3473641872406"
+    },
+    "source": {}
+  },
+  {
+    "id": "24060302",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเมืองกาย",
+      "en": "Ban Mueang Kai",
+      "slug": "24060302"
+    },
+    "code": {
+      "dopa": "24060302"
+    },
+    "parent": {
+      "id": "240603",
+      "level": 3,
+      "name": {
+        "th": "พนมสารคาม",
+        "en": "Phanom Sarakham",
+        "slug": "phanom-sarakham"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2406",
+        "level": 2,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      },
+      {
+        "id": "240603",
+        "level": 3,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.746396275695412",
+      "lon": "101.33956968784332"
+    },
+    "source": {}
+  },
+  {
+    "id": "24060303",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเฉียงใต้",
+      "en": "Ban Chiang Tai",
+      "slug": "24060303"
+    },
+    "code": {
+      "dopa": "24060303"
+    },
+    "parent": {
+      "id": "240603",
+      "level": 3,
+      "name": {
+        "th": "พนมสารคาม",
+        "en": "Phanom Sarakham",
+        "slug": "phanom-sarakham"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2406",
+        "level": 2,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      },
+      {
+        "id": "240603",
+        "level": 3,
+        "name": {
+          "th": "พนมสารคาม",
+          "en": "Phanom Sarakham",
+          "slug": "phanom-sarakham"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.742703116817077",
+      "lon": "101.32980108261108"
+    },
+    "source": {}
+  }
+]

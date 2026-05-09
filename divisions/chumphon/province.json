@@ -1,0 +1,38 @@
+{
+  "id": "86",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ชุมพร",
+    "en": "Chumphon",
+    "slug": "chumphon"
+  },
+  "code": {
+    "dopa": "86",
+    "iso": "TH-86"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 8,
+    "subdistricts": 70,
+    "villages": 798
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern"
+    }
+  },
+  "geo": {
+    "lat": "10.459",
+    "lon": "99.403"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/chumphon-86/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "7009",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "วัดเพลง",
+    "en": "Wat Pleng",
+    "slug": "wat-pleng"
+  },
+  "code": {
+    "dopa": "7009"
+  },
+  "parent": {
+    "id": "70",
+    "level": 1,
+    "name": {
+      "th": "ราชบุรี",
+      "en": "Ratchaburi",
+      "slug": "ratchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 28
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.449",
+    "lon": "99.872"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wat-pleng-7009/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "550501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปัว",
+    "en": "Pua",
+    "slug": "pua"
+  },
+  "code": {
+    "dopa": "550501"
+  },
+  "parent": {
+    "id": "5505",
+    "level": 2,
+    "name": {
+      "th": "ปัว",
+      "en": "Pua",
+      "slug": "pua"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5505",
+      "level": 2,
+      "name": {
+        "th": "ปัว",
+        "en": "Pua",
+        "slug": "pua"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "55120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.168",
+    "lon": "100.903"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pua-550501/"
+  }
+}

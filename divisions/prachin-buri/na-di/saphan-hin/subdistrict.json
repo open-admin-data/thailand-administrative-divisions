@@ -1,0 +1,61 @@
+{
+  "id": "250303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สะพานหิน",
+    "en": "Saphan Hin",
+    "slug": "saphan-hin"
+  },
+  "code": {
+    "dopa": "250303"
+  },
+  "parent": {
+    "id": "2503",
+    "level": 2,
+    "name": {
+      "th": "นาดี",
+      "en": "Na Di",
+      "slug": "na-di"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "th": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri"
+      }
+    },
+    {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "th": "นาดี",
+        "en": "Na Di",
+        "slug": "na-di"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "25220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.152",
+    "lon": "101.665"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/saphan-hin-250303/"
+  }
+}

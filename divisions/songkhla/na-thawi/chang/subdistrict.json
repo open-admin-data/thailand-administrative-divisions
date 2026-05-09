@@ -1,0 +1,61 @@
+{
+  "id": "900402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ฉาง",
+    "en": "Chang",
+    "slug": "chang"
+  },
+  "code": {
+    "dopa": "900402"
+  },
+  "parent": {
+    "id": "9004",
+    "level": 2,
+    "name": {
+      "th": "นาทวี",
+      "en": "Na Thawi",
+      "slug": "na-thawi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9004",
+      "level": 2,
+      "name": {
+        "th": "นาทวี",
+        "en": "Na Thawi",
+        "slug": "na-thawi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "90160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.762",
+    "lon": "100.709"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chang-900402/"
+  }
+}

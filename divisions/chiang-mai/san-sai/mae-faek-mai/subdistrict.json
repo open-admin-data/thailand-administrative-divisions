@@ -1,0 +1,61 @@
+{
+  "id": "501410",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่แฝกใหม่",
+    "en": "Mae Faek Mai",
+    "slug": "mae-faek-mai"
+  },
+  "code": {
+    "dopa": "501410"
+  },
+  "parent": {
+    "id": "5014",
+    "level": 2,
+    "name": {
+      "th": "สันทราย",
+      "en": "San Sai",
+      "slug": "san-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5014",
+      "level": 2,
+      "name": {
+        "th": "สันทราย",
+        "en": "San Sai",
+        "slug": "san-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "50290"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.026",
+    "lon": "99.007"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-faek-mai-501410/"
+  }
+}

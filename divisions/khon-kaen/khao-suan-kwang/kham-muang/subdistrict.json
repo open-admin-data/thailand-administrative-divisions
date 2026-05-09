@@ -1,0 +1,61 @@
+{
+  "id": "401905",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คำม่วง",
+    "en": "Kham Muang",
+    "slug": "kham-muang"
+  },
+  "code": {
+    "dopa": "401905"
+  },
+  "parent": {
+    "id": "4019",
+    "level": 2,
+    "name": {
+      "th": "เขาสวนกวาง",
+      "en": "Khao Suan Kwang",
+      "slug": "khao-suan-kwang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4019",
+      "level": 2,
+      "name": {
+        "th": "เขาสวนกวาง",
+        "en": "Khao Suan Kwang",
+        "slug": "khao-suan-kwang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "40280"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.819",
+    "lon": "102.867"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kham-muang-401905/"
+  }
+}

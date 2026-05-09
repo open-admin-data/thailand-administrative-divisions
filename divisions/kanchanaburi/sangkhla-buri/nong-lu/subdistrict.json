@@ -1,0 +1,61 @@
+{
+  "id": "710801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองลู",
+    "en": "Nong Lu",
+    "slug": "nong-lu"
+  },
+  "code": {
+    "dopa": "710801"
+  },
+  "parent": {
+    "id": "7108",
+    "level": 2,
+    "name": {
+      "th": "สังขละบุรี",
+      "en": "Sangkhla Buri",
+      "slug": "sangkhla-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7108",
+      "level": 2,
+      "name": {
+        "th": "สังขละบุรี",
+        "en": "Sangkhla Buri",
+        "slug": "sangkhla-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "71240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.112",
+    "lon": "98.341"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-lu-710801/"
+  }
+}

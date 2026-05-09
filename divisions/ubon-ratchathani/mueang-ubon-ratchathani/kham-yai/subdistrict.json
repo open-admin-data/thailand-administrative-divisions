@@ -1,0 +1,61 @@
+{
+  "id": "340108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขามใหญ่",
+    "en": "Kham Yai",
+    "slug": "kham-yai"
+  },
+  "code": {
+    "dopa": "340108"
+  },
+  "parent": {
+    "id": "3401",
+    "level": 2,
+    "name": {
+      "th": "เมืองอุบลราชธานี",
+      "en": "Mueang Ubon Ratchathani",
+      "slug": "mueang-ubon-ratchathani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3401",
+      "level": 2,
+      "name": {
+        "th": "เมืองอุบลราชธานี",
+        "en": "Mueang Ubon Ratchathani",
+        "slug": "mueang-ubon-ratchathani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 26
+  },
+  "zip_codes": [
+    "34000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.302",
+    "lon": "104.836"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kham-yai-340108/"
+  }
+}

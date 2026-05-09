@@ -1,0 +1,61 @@
+{
+  "id": "302203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไทยเจริญ",
+    "en": "Thai Charoen",
+    "slug": "thai-charoen"
+  },
+  "code": {
+    "dopa": "302203"
+  },
+  "parent": {
+    "id": "3022",
+    "level": 2,
+    "name": {
+      "th": "หนองบุญมาก",
+      "en": "Nong Bunnak",
+      "slug": "nong-bunnak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3022",
+      "level": 2,
+      "name": {
+        "th": "หนองบุญมาก",
+        "en": "Nong Bunnak",
+        "slug": "nong-bunnak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "30410"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.743",
+    "lon": "102.450"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thai-charoen-302203/"
+  }
+}

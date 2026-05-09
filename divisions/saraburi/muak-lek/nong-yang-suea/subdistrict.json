@@ -1,0 +1,61 @@
+{
+  "id": "191104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองย่างเสือ",
+    "en": "Nong Yang Suea",
+    "slug": "nong-yang-suea"
+  },
+  "code": {
+    "dopa": "191104"
+  },
+  "parent": {
+    "id": "1911",
+    "level": 2,
+    "name": {
+      "th": "มวกเหล็ก",
+      "en": "Muak Lek",
+      "slug": "muak-lek"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1911",
+      "level": 2,
+      "name": {
+        "th": "มวกเหล็ก",
+        "en": "Muak Lek",
+        "slug": "muak-lek"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "18180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.789",
+    "lon": "101.270"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-yang-suea-191104/"
+  }
+}

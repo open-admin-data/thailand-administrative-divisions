@@ -1,0 +1,61 @@
+{
+  "id": "350304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาโส่",
+    "en": "Na So",
+    "slug": "na-so"
+  },
+  "code": {
+    "dopa": "350304"
+  },
+  "parent": {
+    "id": "3503",
+    "level": 2,
+    "name": {
+      "th": "กุดชุม",
+      "en": "Kut Chum",
+      "slug": "kut-chum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3503",
+      "level": 2,
+      "name": {
+        "th": "กุดชุม",
+        "en": "Kut Chum",
+        "slug": "kut-chum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "35140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.972",
+    "lon": "104.317"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-so-350304/"
+  }
+}

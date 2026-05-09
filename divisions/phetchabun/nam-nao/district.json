@@ -1,0 +1,50 @@
+{
+  "id": "6709",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "น้ำหนาว",
+    "en": "Nam Nao",
+    "slug": "nam-nao"
+  },
+  "code": {
+    "dopa": "6709"
+  },
+  "parent": {
+    "id": "67",
+    "level": 1,
+    "name": {
+      "th": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 30
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.709",
+    "lon": "101.710"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nam-nao-6709/"
+  }
+}

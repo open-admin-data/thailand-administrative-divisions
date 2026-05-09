@@ -1,0 +1,50 @@
+{
+  "id": "1047",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต บางนา",
+    "en": "Bang Na",
+    "slug": "bang-na"
+  },
+  "code": {
+    "dopa": "1047"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 1,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.672",
+    "lon": "100.616"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-na-1047/"
+  }
+}

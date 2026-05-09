@@ -1,0 +1,61 @@
+{
+  "id": "401616",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดินดำ",
+    "en": "Din Dam",
+    "slug": "din-dam"
+  },
+  "code": {
+    "dopa": "401616"
+  },
+  "parent": {
+    "id": "4016",
+    "level": 2,
+    "name": {
+      "th": "ภูเวียง",
+      "en": "Phu Wiang",
+      "slug": "phu-wiang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4016",
+      "level": 2,
+      "name": {
+        "th": "ภูเวียง",
+        "en": "Phu Wiang",
+        "slug": "phu-wiang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "40150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.722",
+    "lon": "102.398"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/din-dam-401616/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "190204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยแห้ง",
+    "en": "Huai Haeng",
+    "slug": "huai-haeng"
+  },
+  "code": {
+    "dopa": "190204"
+  },
+  "parent": {
+    "id": "1902",
+    "level": 2,
+    "name": {
+      "th": "แก่งคอย",
+      "en": "Kaeng Khoi",
+      "slug": "kaeng-khoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1902",
+      "level": 2,
+      "name": {
+        "th": "แก่งคอย",
+        "en": "Kaeng Khoi",
+        "slug": "kaeng-khoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "18110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.477",
+    "lon": "101.004"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-haeng-190204/"
+  }
+}

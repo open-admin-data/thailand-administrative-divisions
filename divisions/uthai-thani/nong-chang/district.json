@@ -1,0 +1,50 @@
+{
+  "id": "6104",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หนองฉาง",
+    "en": "Nong Chang",
+    "slug": "nong-chang"
+  },
+  "code": {
+    "dopa": "6104"
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "th": "อุทัยธานี",
+      "en": "Uthai Thani",
+      "slug": "uthai-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 97
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.372",
+    "lon": "99.810"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-chang-6104/"
+  }
+}

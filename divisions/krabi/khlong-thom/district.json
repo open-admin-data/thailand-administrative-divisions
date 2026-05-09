@@ -1,0 +1,50 @@
+{
+  "id": "8104",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "คลองท่อม",
+    "en": "Khlong Thom",
+    "slug": "khlong-thom"
+  },
+  "code": {
+    "dopa": "8104"
+  },
+  "parent": {
+    "id": "81",
+    "level": 1,
+    "name": {
+      "th": "กระบี่",
+      "en": "Krabi",
+      "slug": "krabi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 68
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.933",
+    "lon": "99.172"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khlong-thom-8104/"
+  }
+}

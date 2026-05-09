@@ -1,0 +1,61 @@
+{
+  "id": "580402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่สะเรียง",
+    "en": "Mae Sariang",
+    "slug": "mae-sariang"
+  },
+  "code": {
+    "dopa": "580402"
+  },
+  "parent": {
+    "id": "5804",
+    "level": 2,
+    "name": {
+      "th": "แม่สะเรียง",
+      "en": "Mae Sariang",
+      "slug": "mae-sariang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    },
+    {
+      "id": "5804",
+      "level": 2,
+      "name": {
+        "th": "แม่สะเรียง",
+        "en": "Mae Sariang",
+        "slug": "mae-sariang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "58110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.148",
+    "lon": "97.972"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-sariang-580402/"
+  }
+}

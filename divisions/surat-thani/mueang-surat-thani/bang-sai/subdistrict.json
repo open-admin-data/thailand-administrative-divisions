@@ -1,0 +1,61 @@
+{
+  "id": "840108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางไทร",
+    "en": "Bang Sai",
+    "slug": "bang-sai"
+  },
+  "code": {
+    "dopa": "840108"
+  },
+  "parent": {
+    "id": "8401",
+    "level": 2,
+    "name": {
+      "th": "เมืองสุราษฎร์ธานี",
+      "en": "Mueang Surat Thani",
+      "slug": "mueang-surat-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8401",
+      "level": 2,
+      "name": {
+        "th": "เมืองสุราษฎร์ธานี",
+        "en": "Mueang Surat Thani",
+        "slug": "mueang-surat-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "84000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.188",
+    "lon": "99.300"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-sai-840108/"
+  }
+}

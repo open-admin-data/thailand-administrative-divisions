@@ -1,0 +1,61 @@
+{
+  "id": "950301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บันนังสตา",
+    "en": "Bannang Sata",
+    "slug": "bannang-sata"
+  },
+  "code": {
+    "dopa": "950301"
+  },
+  "parent": {
+    "id": "9503",
+    "level": 2,
+    "name": {
+      "th": "บันนังสตา",
+      "en": "Bannang Sata",
+      "slug": "bannang-sata"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9503",
+      "level": 2,
+      "name": {
+        "th": "บันนังสตา",
+        "en": "Bannang Sata",
+        "slug": "bannang-sata"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "95130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.250",
+    "lon": "101.233"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bannang-sata-950301/"
+  }
+}

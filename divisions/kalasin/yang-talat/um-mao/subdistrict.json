@@ -1,0 +1,61 @@
+{
+  "id": "460703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อุ่มเม่า",
+    "en": "Um Mao",
+    "slug": "um-mao"
+  },
+  "code": {
+    "dopa": "460703"
+  },
+  "parent": {
+    "id": "4607",
+    "level": 2,
+    "name": {
+      "th": "ยางตลาด",
+      "en": "Yang Talat",
+      "slug": "yang-talat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4607",
+      "level": 2,
+      "name": {
+        "th": "ยางตลาด",
+        "en": "Yang Talat",
+        "slug": "yang-talat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "46120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.398",
+    "lon": "103.464"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/um-mao-460703/"
+  }
+}

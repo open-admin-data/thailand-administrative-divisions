@@ -1,0 +1,61 @@
+{
+  "id": "470305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุดไห",
+    "en": "Kut Hai",
+    "slug": "kut-hai"
+  },
+  "code": {
+    "dopa": "470305"
+  },
+  "parent": {
+    "id": "4703",
+    "level": 2,
+    "name": {
+      "th": "กุดบาก",
+      "en": "Kut Bak",
+      "slug": "kut-bak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4703",
+      "level": 2,
+      "name": {
+        "th": "กุดบาก",
+        "en": "Kut Bak",
+        "slug": "kut-bak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "47180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.100",
+    "lon": "103.696"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kut-hai-470305/"
+  }
+}

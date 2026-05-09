@@ -1,0 +1,50 @@
+{
+  "id": "1702",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บางระจัน",
+    "en": "Bang Rachan",
+    "slug": "bang-rachan"
+  },
+  "code": {
+    "dopa": "1702"
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "th": "สิงห์บุรี",
+      "en": "Sing Buri",
+      "slug": "sing-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 77
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.941",
+    "lon": "100.319"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-rachan-1702/"
+  }
+}

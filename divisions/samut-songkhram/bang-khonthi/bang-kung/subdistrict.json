@@ -1,0 +1,61 @@
+{
+  "id": "750208",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางกุ้ง",
+    "en": "Bang Kung",
+    "slug": "bang-kung"
+  },
+  "code": {
+    "dopa": "750208"
+  },
+  "parent": {
+    "id": "7502",
+    "level": 2,
+    "name": {
+      "th": "บางคนที",
+      "en": "Bang Khonthi",
+      "slug": "bang-khonthi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสงคราม",
+        "en": "Samut Songkhram",
+        "slug": "samut-songkhram"
+      }
+    },
+    {
+      "id": "7502",
+      "level": 2,
+      "name": {
+        "th": "บางคนที",
+        "en": "Bang Khonthi",
+        "slug": "bang-khonthi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "75120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.459",
+    "lon": "99.931"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-kung-750208/"
+  }
+}

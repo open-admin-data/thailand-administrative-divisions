@@ -1,0 +1,61 @@
+{
+  "id": "471105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าก้อน",
+    "en": "Tha Kon",
+    "slug": "tha-kon"
+  },
+  "code": {
+    "dopa": "471105"
+  },
+  "parent": {
+    "id": "4711",
+    "level": 2,
+    "name": {
+      "th": "อากาศอำนวย",
+      "en": "Akat Amnuai",
+      "slug": "akat-amnuai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4711",
+      "level": 2,
+      "name": {
+        "th": "อากาศอำนวย",
+        "en": "Akat Amnuai",
+        "slug": "akat-amnuai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "47170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.759",
+    "lon": "103.961"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-kon-471105/"
+  }
+}

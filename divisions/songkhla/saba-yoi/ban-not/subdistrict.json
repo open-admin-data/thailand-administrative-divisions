@@ -1,0 +1,61 @@
+{
+  "id": "900604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านโหนด",
+    "en": "Ban Not",
+    "slug": "ban-not"
+  },
+  "code": {
+    "dopa": "900604"
+  },
+  "parent": {
+    "id": "9006",
+    "level": 2,
+    "name": {
+      "th": "สะบ้าย้อย",
+      "en": "Saba Yoi",
+      "slug": "saba-yoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9006",
+      "level": 2,
+      "name": {
+        "th": "สะบ้าย้อย",
+        "en": "Saba Yoi",
+        "slug": "saba-yoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "90210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.624",
+    "lon": "101.057"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-not-900604/"
+  }
+}

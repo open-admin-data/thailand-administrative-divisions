@@ -1,0 +1,61 @@
+{
+  "id": "331018",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองห้าง",
+    "en": "Nong Hang",
+    "slug": "nong-hang"
+  },
+  "code": {
+    "dopa": "331018"
+  },
+  "parent": {
+    "id": "3310",
+    "level": 2,
+    "name": {
+      "th": "อุทุมพรพิสัย",
+      "en": "Uthumphon Phisai",
+      "slug": "uthumphon-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3310",
+      "level": 2,
+      "name": {
+        "th": "อุทุมพรพิสัย",
+        "en": "Uthumphon Phisai",
+        "slug": "uthumphon-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "33120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.098",
+    "lon": "104.088"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-hang-331018/"
+  }
+}

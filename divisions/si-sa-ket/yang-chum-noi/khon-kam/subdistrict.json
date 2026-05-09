@@ -1,0 +1,61 @@
+{
+  "id": "330203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คอนกาม",
+    "en": "Khon Kam",
+    "slug": "khon-kam"
+  },
+  "code": {
+    "dopa": "330203"
+  },
+  "parent": {
+    "id": "3302",
+    "level": 2,
+    "name": {
+      "th": "ยางชุมน้อย",
+      "en": "Yang Chum Noi",
+      "slug": "yang-chum-noi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3302",
+      "level": 2,
+      "name": {
+        "th": "ยางชุมน้อย",
+        "en": "Yang Chum Noi",
+        "slug": "yang-chum-noi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "33190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.223",
+    "lon": "104.360"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khon-kam-330203/"
+  }
+}

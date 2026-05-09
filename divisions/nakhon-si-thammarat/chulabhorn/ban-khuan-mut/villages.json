@@ -1,0 +1,124 @@
+[
+  {
+    "id": "80190101",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านควนมุด",
+      "en": "Ban Khuan Mut",
+      "slug": "80190101"
+    },
+    "code": {
+      "dopa": "80190101"
+    },
+    "parent": {
+      "id": "801901",
+      "level": 3,
+      "name": {
+        "th": "บ้านควนมุด",
+        "en": "Ban Khuan Mut",
+        "slug": "ban-khuan-mut"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8019",
+        "level": 2,
+        "name": {
+          "th": "จุฬาภรณ์",
+          "en": "Chulabhorn",
+          "slug": "chulabhorn"
+        }
+      },
+      {
+        "id": "801901",
+        "level": 3,
+        "name": {
+          "th": "บ้านควนมุด",
+          "en": "Ban Khuan Mut",
+          "slug": "ban-khuan-mut"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.72706875088845",
+      "lon": "100.5340875685215"
+    },
+    "source": {}
+  },
+  {
+    "id": "80190102",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านนาหมอบุญ",
+      "en": "Ban Na Mo Bun",
+      "slug": "80190102"
+    },
+    "code": {
+      "dopa": "80190102"
+    },
+    "parent": {
+      "id": "801901",
+      "level": 3,
+      "name": {
+        "th": "บ้านควนมุด",
+        "en": "Ban Khuan Mut",
+        "slug": "ban-khuan-mut"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "th": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat"
+        }
+      },
+      {
+        "id": "8019",
+        "level": 2,
+        "name": {
+          "th": "จุฬาภรณ์",
+          "en": "Chulabhorn",
+          "slug": "chulabhorn"
+        }
+      },
+      {
+        "id": "801901",
+        "level": 3,
+        "name": {
+          "th": "บ้านควนมุด",
+          "en": "Ban Khuan Mut",
+          "slug": "ban-khuan-mut"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "8.033728614232134",
+      "lon": "99.89520817995071"
+    },
+    "source": {}
+  }
+]

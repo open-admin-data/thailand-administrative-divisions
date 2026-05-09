@@ -1,0 +1,124 @@
+[
+  {
+    "id": "14010250",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "สถานีรถไฟ",
+      "en": "",
+      "slug": "14010250"
+    },
+    "code": {
+      "dopa": "14010250"
+    },
+    "parent": {
+      "id": "140102",
+      "level": 3,
+      "name": {
+        "th": "กะมัง",
+        "en": "Kamang",
+        "slug": "kamang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      },
+      {
+        "id": "140102",
+        "level": 3,
+        "name": {
+          "th": "กะมัง",
+          "en": "Kamang",
+          "slug": "kamang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.356680685260557",
+      "lon": "100.58298155665398"
+    },
+    "source": {}
+  },
+  {
+    "id": "14010251",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "วัดเกาะแก้ว",
+      "en": "",
+      "slug": "14010251"
+    },
+    "code": {
+      "dopa": "14010251"
+    },
+    "parent": {
+      "id": "140102",
+      "level": 3,
+      "name": {
+        "th": "กะมัง",
+        "en": "Kamang",
+        "slug": "kamang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "14",
+        "level": 1,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      },
+      {
+        "id": "1401",
+        "level": 2,
+        "name": {
+          "th": "พระนครศรีอยุธยา",
+          "en": "Phra Nakhon Si Ayutthaya",
+          "slug": "phra-nakhon-si-ayutthaya"
+        }
+      },
+      {
+        "id": "140102",
+        "level": 3,
+        "name": {
+          "th": "กะมัง",
+          "en": "Kamang",
+          "slug": "kamang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.344626169485966",
+      "lon": "100.58535128831863"
+    },
+    "source": {}
+  }
+]

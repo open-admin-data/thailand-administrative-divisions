@@ -1,0 +1,61 @@
+{
+  "id": "760607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าเสน",
+    "en": "Tha Sen",
+    "slug": "tha-sen"
+  },
+  "code": {
+    "dopa": "760607"
+  },
+  "parent": {
+    "id": "7606",
+    "level": 2,
+    "name": {
+      "th": "บ้านลาด",
+      "en": "Ban Lat",
+      "slug": "ban-lat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7606",
+      "level": 2,
+      "name": {
+        "th": "บ้านลาด",
+        "en": "Ban Lat",
+        "slug": "ban-lat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "76150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.046",
+    "lon": "99.948"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-sen-760607/"
+  }
+}

@@ -1,0 +1,551 @@
+[
+  {
+    "id": "20061001",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกลาง",
+      "en": "Ban Klang",
+      "slug": "20061001"
+    },
+    "code": {
+      "dopa": "20061001"
+    },
+    "parent": {
+      "id": "200610",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2006",
+        "level": 2,
+        "name": {
+          "th": "พนัสนิคม",
+          "en": "Phanat Nikhom",
+          "slug": "phanat-nikhom"
+        }
+      },
+      {
+        "id": "200610",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.519316352043301",
+      "lon": "101.20271265506744"
+    },
+    "source": {}
+  },
+  {
+    "id": "20061002",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองบก",
+      "en": "Ban Nong Bok",
+      "slug": "20061002"
+    },
+    "code": {
+      "dopa": "20061002"
+    },
+    "parent": {
+      "id": "200610",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2006",
+        "level": 2,
+        "name": {
+          "th": "พนัสนิคม",
+          "en": "Phanat Nikhom",
+          "slug": "phanat-nikhom"
+        }
+      },
+      {
+        "id": "200610",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.521229230302819",
+      "lon": "101.2160137295723"
+    },
+    "source": {}
+  },
+  {
+    "id": "20061003",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านแหลมเขา",
+      "en": "Ban Laem Khao",
+      "slug": "20061003"
+    },
+    "code": {
+      "dopa": "20061003"
+    },
+    "parent": {
+      "id": "200610",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2006",
+        "level": 2,
+        "name": {
+          "th": "พนัสนิคม",
+          "en": "Phanat Nikhom",
+          "slug": "phanat-nikhom"
+        }
+      },
+      {
+        "id": "200610",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.544169532905746",
+      "lon": "101.18347451090813"
+    },
+    "source": {}
+  },
+  {
+    "id": "20061004",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกลางในตลาด",
+      "en": "Ban Klang Nai Talat",
+      "slug": "20061004"
+    },
+    "code": {
+      "dopa": "20061004"
+    },
+    "parent": {
+      "id": "200610",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2006",
+        "level": 2,
+        "name": {
+          "th": "พนัสนิคม",
+          "en": "Phanat Nikhom",
+          "slug": "phanat-nikhom"
+        }
+      },
+      {
+        "id": "200610",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.521156210010398",
+      "lon": "101.20428442955017"
+    },
+    "source": {}
+  },
+  {
+    "id": "20061005",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองคู",
+      "en": "Ban Nong Khu",
+      "slug": "20061005"
+    },
+    "code": {
+      "dopa": "20061005"
+    },
+    "parent": {
+      "id": "200610",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2006",
+        "level": 2,
+        "name": {
+          "th": "พนัสนิคม",
+          "en": "Phanat Nikhom",
+          "slug": "phanat-nikhom"
+        }
+      },
+      {
+        "id": "200610",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.522157629212407",
+      "lon": "101.20509311556816"
+    },
+    "source": {}
+  },
+  {
+    "id": "20061006",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองคู",
+      "en": "Ban Nong Khu",
+      "slug": "20061006"
+    },
+    "code": {
+      "dopa": "20061006"
+    },
+    "parent": {
+      "id": "200610",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2006",
+        "level": 2,
+        "name": {
+          "th": "พนัสนิคม",
+          "en": "Phanat Nikhom",
+          "slug": "phanat-nikhom"
+        }
+      },
+      {
+        "id": "200610",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.524968882497705",
+      "lon": "101.20647311210632"
+    },
+    "source": {}
+  },
+  {
+    "id": "20061007",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านใต้",
+      "en": "Ban Tai",
+      "slug": "20061007"
+    },
+    "code": {
+      "dopa": "20061007"
+    },
+    "parent": {
+      "id": "200610",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2006",
+        "level": 2,
+        "name": {
+          "th": "พนัสนิคม",
+          "en": "Phanat Nikhom",
+          "slug": "phanat-nikhom"
+        }
+      },
+      {
+        "id": "200610",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.529210474123088",
+      "lon": "101.20354279875755"
+    },
+    "source": {}
+  },
+  {
+    "id": "20061008",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านป่าแก้ว",
+      "en": "Ban Pa Kaeo",
+      "slug": "20061008"
+    },
+    "code": {
+      "dopa": "20061008"
+    },
+    "parent": {
+      "id": "200610",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2006",
+        "level": 2,
+        "name": {
+          "th": "พนัสนิคม",
+          "en": "Phanat Nikhom",
+          "slug": "phanat-nikhom"
+        }
+      },
+      {
+        "id": "200610",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.540461474207701",
+      "lon": "101.1993907392025"
+    },
+    "source": {}
+  },
+  {
+    "id": "20061009",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านแปลงกระถิน",
+      "en": "Ban Plaeng Krathin",
+      "slug": "20061009"
+    },
+    "code": {
+      "dopa": "20061009"
+    },
+    "parent": {
+      "id": "200610",
+      "level": 3,
+      "name": {
+        "th": "หัวถนน",
+        "en": "Hua Thanon",
+        "slug": "hua-thanon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2006",
+        "level": 2,
+        "name": {
+          "th": "พนัสนิคม",
+          "en": "Phanat Nikhom",
+          "slug": "phanat-nikhom"
+        }
+      },
+      {
+        "id": "200610",
+        "level": 3,
+        "name": {
+          "th": "หัวถนน",
+          "en": "Hua Thanon",
+          "slug": "hua-thanon"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.535566852543392",
+      "lon": "101.2321887910366"
+    },
+    "source": {}
+  }
+]

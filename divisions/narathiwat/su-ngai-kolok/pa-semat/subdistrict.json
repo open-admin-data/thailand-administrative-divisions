@@ -1,0 +1,61 @@
+{
+  "id": "961002",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าเสมัส",
+    "en": "Pa Semat",
+    "slug": "pa-semat"
+  },
+  "code": {
+    "dopa": "961002"
+  },
+  "parent": {
+    "id": "9610",
+    "level": 2,
+    "name": {
+      "th": "สุไหงโก-ลก",
+      "en": "Su-ngai Kolok",
+      "slug": "su-ngai-kolok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9610",
+      "level": 2,
+      "name": {
+        "th": "สุไหงโก-ลก",
+        "en": "Su-ngai Kolok",
+        "slug": "su-ngai-kolok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "96120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.054",
+    "lon": "101.975"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-semat-961002/"
+  }
+}

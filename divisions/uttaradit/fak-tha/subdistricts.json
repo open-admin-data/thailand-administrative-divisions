@@ -1,0 +1,246 @@
+[
+  {
+    "id": "530503",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บ้านเสี้ยว",
+      "en": "Ban Siao",
+      "slug": "ban-siao"
+    },
+    "code": {
+      "dopa": "530503"
+    },
+    "parent": {
+      "id": "5305",
+      "level": 2,
+      "name": {
+        "th": "ฟากท่า",
+        "en": "Fak Tha",
+        "slug": "fak-tha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "th": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit"
+        }
+      },
+      {
+        "id": "5305",
+        "level": 2,
+        "name": {
+          "th": "ฟากท่า",
+          "en": "Fak Tha",
+          "slug": "fak-tha"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "53160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.914",
+      "lon": "100.848"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ban-siao-530503/"
+    }
+  },
+  {
+    "id": "530501",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ฟากท่า",
+      "en": "Fak Tha",
+      "slug": "fak-tha"
+    },
+    "code": {
+      "dopa": "530501"
+    },
+    "parent": {
+      "id": "5305",
+      "level": 2,
+      "name": {
+        "th": "ฟากท่า",
+        "en": "Fak Tha",
+        "slug": "fak-tha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "th": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit"
+        }
+      },
+      {
+        "id": "5305",
+        "level": 2,
+        "name": {
+          "th": "ฟากท่า",
+          "en": "Fak Tha",
+          "slug": "fak-tha"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "53160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.068",
+      "lon": "100.937"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/fak-tha-530501/"
+    }
+  },
+  {
+    "id": "530504",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "สองห้อง",
+      "en": "Song Hong",
+      "slug": "song-hong"
+    },
+    "code": {
+      "dopa": "530504"
+    },
+    "parent": {
+      "id": "5305",
+      "level": 2,
+      "name": {
+        "th": "ฟากท่า",
+        "en": "Fak Tha",
+        "slug": "fak-tha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "th": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit"
+        }
+      },
+      {
+        "id": "5305",
+        "level": 2,
+        "name": {
+          "th": "ฟากท่า",
+          "en": "Fak Tha",
+          "slug": "fak-tha"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 5
+    },
+    "zip_codes": [
+      "53160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.930",
+      "lon": "100.757"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/song-hong-530504/"
+    }
+  },
+  {
+    "id": "530502",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "สองคอน",
+      "en": "Song Khon",
+      "slug": "song-khon"
+    },
+    "code": {
+      "dopa": "530502"
+    },
+    "parent": {
+      "id": "5305",
+      "level": 2,
+      "name": {
+        "th": "ฟากท่า",
+        "en": "Fak Tha",
+        "slug": "fak-tha"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "th": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit"
+        }
+      },
+      {
+        "id": "5305",
+        "level": 2,
+        "name": {
+          "th": "ฟากท่า",
+          "en": "Fak Tha",
+          "slug": "fak-tha"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "53160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.955",
+      "lon": "100.906"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/song-khon-530502/"
+    }
+  }
+]

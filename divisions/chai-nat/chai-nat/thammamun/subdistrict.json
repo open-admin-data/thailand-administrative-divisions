@@ -1,0 +1,61 @@
+{
+  "id": "180107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ธรรมามูล",
+    "en": "Thammamun",
+    "slug": "thammamun"
+  },
+  "code": {
+    "dopa": "180107"
+  },
+  "parent": {
+    "id": "1801",
+    "level": 2,
+    "name": {
+      "th": "เมืองชัยนาท",
+      "en": "Chai Nat",
+      "slug": "chai-nat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1801",
+      "level": 2,
+      "name": {
+        "th": "เมืองชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "17000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.264",
+    "lon": "100.133"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thammamun-180107/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "660119",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สายคำโห้",
+    "en": "Sai Kham Ho",
+    "slug": "sai-kham-ho"
+  },
+  "code": {
+    "dopa": "660119"
+  },
+  "parent": {
+    "id": "6601",
+    "level": 2,
+    "name": {
+      "th": "เมืองพิจิตร",
+      "en": "Mueang Phichit",
+      "slug": "mueang-phichit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6601",
+      "level": 2,
+      "name": {
+        "th": "เมืองพิจิตร",
+        "en": "Mueang Phichit",
+        "slug": "mueang-phichit"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "66000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.407",
+    "lon": "100.486"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sai-kham-ho-660119/"
+  }
+}

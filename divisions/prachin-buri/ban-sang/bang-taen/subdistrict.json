@@ -1,0 +1,61 @@
+{
+  "id": "250605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางแตน",
+    "en": "Bang Taen",
+    "slug": "bang-taen"
+  },
+  "code": {
+    "dopa": "250605"
+  },
+  "parent": {
+    "id": "2506",
+    "level": 2,
+    "name": {
+      "th": "บ้านสร้าง",
+      "en": "Ban Sang",
+      "slug": "ban-sang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "th": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri"
+      }
+    },
+    {
+      "id": "2506",
+      "level": 2,
+      "name": {
+        "th": "บ้านสร้าง",
+        "en": "Ban Sang",
+        "slug": "ban-sang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "25150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.890",
+    "lon": "101.177"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-taen-250605/"
+  }
+}

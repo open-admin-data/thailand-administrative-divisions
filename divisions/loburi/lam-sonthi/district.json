@@ -1,0 +1,50 @@
+{
+  "id": "1610",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ลำสนธิ",
+    "en": "Lam Sonthi",
+    "slug": "lam-sonthi"
+  },
+  "code": {
+    "dopa": "1610"
+  },
+  "parent": {
+    "id": "16",
+    "level": 1,
+    "name": {
+      "th": "ลพบุรี",
+      "en": "Loburi",
+      "slug": "loburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 49
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.341",
+    "lon": "101.362"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/lam-sonthi-1610/"
+  }
+}

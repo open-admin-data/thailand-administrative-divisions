@@ -1,0 +1,50 @@
+{
+  "id": "7602",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขาย้อย",
+    "en": "Khao Yoi",
+    "slug": "khao-yoi"
+  },
+  "code": {
+    "dopa": "7602"
+  },
+  "parent": {
+    "id": "76",
+    "level": 1,
+    "name": {
+      "th": "เพชรบุรี",
+      "en": "Phetchaburi",
+      "slug": "phetchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 57
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.284",
+    "lon": "99.838"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khao-yoi-7602/"
+  }
+}

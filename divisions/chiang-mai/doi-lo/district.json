@@ -1,0 +1,50 @@
+{
+  "id": "5024",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ดอยหล่อ",
+    "en": "Doi Lo",
+    "slug": "doi-lo"
+  },
+  "code": {
+    "dopa": "5024"
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "th": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 54
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.504",
+    "lon": "98.841"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/doi-lo-5024/"
+  }
+}

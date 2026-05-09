@@ -1,0 +1,61 @@
+{
+  "id": "420806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำทูน",
+    "en": "Nam Thun",
+    "slug": "nam-thun"
+  },
+  "code": {
+    "dopa": "420806"
+  },
+  "parent": {
+    "id": "4208",
+    "level": 2,
+    "name": {
+      "th": "ท่าลี่",
+      "en": "Tha Li",
+      "slug": "tha-li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4208",
+      "level": 2,
+      "name": {
+        "th": "ท่าลี่",
+        "en": "Tha Li",
+        "slug": "tha-li"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "42140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.592",
+    "lon": "101.288"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-thun-420806/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "341904",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนจิก",
+    "en": "Don Chik",
+    "slug": "don-chik"
+  },
+  "code": {
+    "dopa": "341904"
+  },
+  "parent": {
+    "id": "3419",
+    "level": 2,
+    "name": {
+      "th": "พิบูลมังสาหาร",
+      "en": "Phibun Mangsahan",
+      "slug": "phibun-mangsahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3419",
+      "level": 2,
+      "name": {
+        "th": "พิบูลมังสาหาร",
+        "en": "Phibun Mangsahan",
+        "slug": "phibun-mangsahan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 23
+  },
+  "zip_codes": [
+    "34110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.132",
+    "lon": "105.313"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-chik-341904/"
+  }
+}

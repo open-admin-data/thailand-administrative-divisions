@@ -1,0 +1,61 @@
+{
+  "id": "440615",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังใหม่",
+    "en": "Wang Mai",
+    "slug": "wang-mai"
+  },
+  "code": {
+    "dopa": "440615"
+  },
+  "parent": {
+    "id": "4406",
+    "level": 2,
+    "name": {
+      "th": "บรบือ",
+      "en": "Borabue",
+      "slug": "borabue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4406",
+      "level": 2,
+      "name": {
+        "th": "บรบือ",
+        "en": "Borabue",
+        "slug": "borabue"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "44130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.031",
+    "lon": "103.039"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-mai-440615/"
+  }
+}

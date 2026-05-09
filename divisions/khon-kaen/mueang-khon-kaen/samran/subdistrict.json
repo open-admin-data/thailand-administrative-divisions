@@ -1,0 +1,61 @@
+{
+  "id": "400102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สำราญ",
+    "en": "Samran",
+    "slug": "samran"
+  },
+  "code": {
+    "dopa": "400102"
+  },
+  "parent": {
+    "id": "4001",
+    "level": 2,
+    "name": {
+      "th": "เมืองขอนแก่น",
+      "en": "Mueang Khon Kaen",
+      "slug": "mueang-khon-kaen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4001",
+      "level": 2,
+      "name": {
+        "th": "เมืองขอนแก่น",
+        "en": "Mueang Khon Kaen",
+        "slug": "mueang-khon-kaen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "40000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.537",
+    "lon": "102.837"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samran-400102/"
+  }
+}

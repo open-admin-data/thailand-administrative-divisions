@@ -1,0 +1,61 @@
+{
+  "id": "800203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อินคีรี",
+    "en": "In Khiri",
+    "slug": "in-khiri"
+  },
+  "code": {
+    "dopa": "800203"
+  },
+  "parent": {
+    "id": "8002",
+    "level": 2,
+    "name": {
+      "th": "พรหมคีรี",
+      "en": "Phrom Khiri",
+      "slug": "phrom-khiri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8002",
+      "level": 2,
+      "name": {
+        "th": "พรหมคีรี",
+        "en": "Phrom Khiri",
+        "slug": "phrom-khiri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "80320"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.540",
+    "lon": "99.874"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/in-khiri-800203/"
+  }
+}

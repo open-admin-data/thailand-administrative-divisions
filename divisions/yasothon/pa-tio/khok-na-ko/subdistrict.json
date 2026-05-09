@@ -1,0 +1,61 @@
+{
+  "id": "350503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกนาโก",
+    "en": "Khok Na Ko",
+    "slug": "khok-na-ko"
+  },
+  "code": {
+    "dopa": "350503"
+  },
+  "parent": {
+    "id": "3505",
+    "level": 2,
+    "name": {
+      "th": "ป่าติ้ว",
+      "en": "Pa Tio",
+      "slug": "pa-tio"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3505",
+      "level": 2,
+      "name": {
+        "th": "ป่าติ้ว",
+        "en": "Pa Tio",
+        "slug": "pa-tio"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "35150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.925",
+    "lon": "104.430"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-na-ko-350503/"
+  }
+}

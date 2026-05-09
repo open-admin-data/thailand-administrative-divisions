@@ -1,0 +1,61 @@
+{
+  "id": "150412",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทางพระ",
+    "en": "Thang Phra",
+    "slug": "thang-phra"
+  },
+  "code": {
+    "dopa": "150412"
+  },
+  "parent": {
+    "id": "1504",
+    "level": 2,
+    "name": {
+      "th": "โพธิ์ทอง",
+      "en": "Pho Thong",
+      "slug": "pho-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1504",
+      "level": 2,
+      "name": {
+        "th": "โพธิ์ทอง",
+        "en": "Pho Thong",
+        "slug": "pho-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "14120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.677",
+    "lon": "100.360"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thang-phra-150412/"
+  }
+}

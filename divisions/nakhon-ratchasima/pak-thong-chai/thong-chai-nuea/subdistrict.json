@@ -1,0 +1,61 @@
+{
+  "id": "301417",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ธงชัยเหนือ",
+    "en": "Thong Chai Nuea",
+    "slug": "thong-chai-nuea"
+  },
+  "code": {
+    "dopa": "301417"
+  },
+  "parent": {
+    "id": "3014",
+    "level": 2,
+    "name": {
+      "th": "ปักธงชัย",
+      "en": "Pak Thong Chai",
+      "slug": "pak-thong-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3014",
+      "level": 2,
+      "name": {
+        "th": "ปักธงชัย",
+        "en": "Pak Thong Chai",
+        "slug": "pak-thong-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "30150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.793",
+    "lon": "102.034"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thong-chai-nuea-301417/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "300208",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านใหม่",
+    "en": "Ban Mai",
+    "slug": "ban-mai"
+  },
+  "code": {
+    "dopa": "300208"
+  },
+  "parent": {
+    "id": "3002",
+    "level": 2,
+    "name": {
+      "th": "ครบุรี",
+      "en": "Khon Buri",
+      "slug": "khon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3002",
+      "level": 2,
+      "name": {
+        "th": "ครบุรี",
+        "en": "Khon Buri",
+        "slug": "khon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "30250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.449",
+    "lon": "102.207"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-mai-300208/"
+  }
+}

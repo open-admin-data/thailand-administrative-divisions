@@ -1,0 +1,50 @@
+{
+  "id": "6012",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ตากฟ้า",
+    "en": "Tak Fa",
+    "slug": "tak-fa"
+  },
+  "code": {
+    "dopa": "6012"
+  },
+  "parent": {
+    "id": "60",
+    "level": 1,
+    "name": {
+      "th": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 76
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.331",
+    "lon": "100.428"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tak-fa-6012/"
+  }
+}

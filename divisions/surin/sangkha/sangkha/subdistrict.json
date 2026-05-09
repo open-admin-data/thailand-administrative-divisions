@@ -1,0 +1,61 @@
+{
+  "id": "321001",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สังขะ",
+    "en": "Sangkha",
+    "slug": "sangkha"
+  },
+  "code": {
+    "dopa": "321001"
+  },
+  "parent": {
+    "id": "3210",
+    "level": 2,
+    "name": {
+      "th": "สังขะ",
+      "en": "Sangkha",
+      "slug": "sangkha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3210",
+      "level": 2,
+      "name": {
+        "th": "สังขะ",
+        "en": "Sangkha",
+        "slug": "sangkha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "32150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.663",
+    "lon": "103.839"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sangkha-321001/"
+  }
+}

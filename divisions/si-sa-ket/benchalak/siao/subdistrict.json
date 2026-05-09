@@ -1,0 +1,61 @@
+{
+  "id": "331901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เสียว",
+    "en": "Siao",
+    "slug": "siao"
+  },
+  "code": {
+    "dopa": "331901"
+  },
+  "parent": {
+    "id": "3319",
+    "level": 2,
+    "name": {
+      "th": "เบญจลักษ์",
+      "en": "Benchalak",
+      "slug": "benchalak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3319",
+      "level": 2,
+      "name": {
+        "th": "เบญจลักษ์",
+        "en": "Benchalak",
+        "slug": "benchalak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "33110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.799",
+    "lon": "104.668"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/siao-331901/"
+  }
+}

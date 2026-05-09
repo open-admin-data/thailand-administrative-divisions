@@ -1,0 +1,61 @@
+{
+  "id": "501503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หารแก้ว",
+    "en": "Han Kaeo",
+    "slug": "han-kaeo"
+  },
+  "code": {
+    "dopa": "501503"
+  },
+  "parent": {
+    "id": "5015",
+    "level": 2,
+    "name": {
+      "th": "หางดง",
+      "en": "Hang Dong",
+      "slug": "hang-dong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5015",
+      "level": 2,
+      "name": {
+        "th": "หางดง",
+        "en": "Hang Dong",
+        "slug": "hang-dong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "50230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.650",
+    "lon": "98.922"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/han-kaeo-501503/"
+  }
+}

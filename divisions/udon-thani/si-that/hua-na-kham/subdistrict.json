@@ -1,0 +1,61 @@
+{
+  "id": "410904",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวนาคำ",
+    "en": "Hua Na Kham",
+    "slug": "hua-na-kham"
+  },
+  "code": {
+    "dopa": "410904"
+  },
+  "parent": {
+    "id": "4109",
+    "level": 2,
+    "name": {
+      "th": "ศรีธาตุ",
+      "en": "Si That",
+      "slug": "si-that"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4109",
+      "level": 2,
+      "name": {
+        "th": "ศรีธาตุ",
+        "en": "Si That",
+        "slug": "si-that"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "41230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.083",
+    "lon": "103.284"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-na-kham-410904/"
+  }
+}

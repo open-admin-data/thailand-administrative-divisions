@@ -1,0 +1,50 @@
+{
+  "id": "6508",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "วังทอง",
+    "en": "Wang Thong",
+    "slug": "wang-thong"
+  },
+  "code": {
+    "dopa": "6508"
+  },
+  "parent": {
+    "id": "65",
+    "level": 1,
+    "name": {
+      "th": "พิษณุโลก",
+      "en": "Phitsanulok",
+      "slug": "phitsanulok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 168
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.839",
+    "lon": "100.467"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wang-thong-6508/"
+  }
+}

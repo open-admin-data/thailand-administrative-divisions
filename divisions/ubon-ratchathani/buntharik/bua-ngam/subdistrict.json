@@ -1,0 +1,61 @@
+{
+  "id": "341007",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บัวงาม",
+    "en": "Bua Ngam",
+    "slug": "bua-ngam"
+  },
+  "code": {
+    "dopa": "341007"
+  },
+  "parent": {
+    "id": "3410",
+    "level": 2,
+    "name": {
+      "th": "บุณฑริก",
+      "en": "Buntharik",
+      "slug": "buntharik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3410",
+      "level": 2,
+      "name": {
+        "th": "บุณฑริก",
+        "en": "Buntharik",
+        "slug": "buntharik"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "34230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.741",
+    "lon": "105.371"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bua-ngam-341007/"
+  }
+}

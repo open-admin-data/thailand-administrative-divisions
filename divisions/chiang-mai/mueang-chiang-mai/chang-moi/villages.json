@@ -1,0 +1,185 @@
+[
+  {
+    "id": "50010450",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "วัดเชตวัน",
+      "en": "",
+      "slug": "50010450"
+    },
+    "code": {
+      "dopa": "50010450"
+    },
+    "parent": {
+      "id": "500104",
+      "level": 3,
+      "name": {
+        "th": "ช้างม่อย",
+        "en": "Chang Moi",
+        "slug": "chang-moi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5001",
+        "level": 2,
+        "name": {
+          "th": "เมืองเชียงใหม่",
+          "en": "Mueang Chiang Mai",
+          "slug": "mueang-chiang-mai"
+        }
+      },
+      {
+        "id": "500104",
+        "level": 3,
+        "name": {
+          "th": "ช้างม่อย",
+          "en": "Chang Moi",
+          "slug": "chang-moi"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.79158383475257",
+      "lon": "98.99234712123871"
+    },
+    "source": {}
+  },
+  {
+    "id": "50010451",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "วัดชมพูช้างม่อย",
+      "en": "",
+      "slug": "50010451"
+    },
+    "code": {
+      "dopa": "50010451"
+    },
+    "parent": {
+      "id": "500104",
+      "level": 3,
+      "name": {
+        "th": "ช้างม่อย",
+        "en": "Chang Moi",
+        "slug": "chang-moi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5001",
+        "level": 2,
+        "name": {
+          "th": "เมืองเชียงใหม่",
+          "en": "Mueang Chiang Mai",
+          "slug": "mueang-chiang-mai"
+        }
+      },
+      {
+        "id": "500104",
+        "level": 3,
+        "name": {
+          "th": "ช้างม่อย",
+          "en": "Chang Moi",
+          "slug": "chang-moi"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.790950293649512",
+      "lon": "98.99470210075378"
+    },
+    "source": {}
+  },
+  {
+    "id": "50010452",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "ป่าแพ่ง-วังสิงห์คำ",
+      "en": "",
+      "slug": "50010452"
+    },
+    "code": {
+      "dopa": "50010452"
+    },
+    "parent": {
+      "id": "500104",
+      "level": 3,
+      "name": {
+        "th": "ช้างม่อย",
+        "en": "Chang Moi",
+        "slug": "chang-moi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5001",
+        "level": 2,
+        "name": {
+          "th": "เมืองเชียงใหม่",
+          "en": "Mueang Chiang Mai",
+          "slug": "mueang-chiang-mai"
+        }
+      },
+      {
+        "id": "500104",
+        "level": 3,
+        "name": {
+          "th": "ช้างม่อย",
+          "en": "Chang Moi",
+          "slug": "chang-moi"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.801566553453075",
+      "lon": "98.99890780448914"
+    },
+    "source": {}
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "id": "460403",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เหล่าอ้อย",
+      "en": "Lao Oi",
+      "slug": "lao-oi"
+    },
+    "code": {
+      "dopa": "460403"
+    },
+    "parent": {
+      "id": "4604",
+      "level": 2,
+      "name": {
+        "th": "ร่องคำ",
+        "en": "Rong Kham",
+        "slug": "rong-kham"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "th": "กาฬสินธุ์",
+          "en": "Kalasin",
+          "slug": "kalasin"
+        }
+      },
+      {
+        "id": "4604",
+        "level": 2,
+        "name": {
+          "th": "ร่องคำ",
+          "en": "Rong Kham",
+          "slug": "rong-kham"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 12
+    },
+    "zip_codes": [
+      "46210"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.254",
+      "lon": "103.708"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/lao-oi-460403/"
+    }
+  },
+  {
+    "id": "460401",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ร่องคำ",
+      "en": "Rong Kham",
+      "slug": "rong-kham"
+    },
+    "code": {
+      "dopa": "460401"
+    },
+    "parent": {
+      "id": "4604",
+      "level": 2,
+      "name": {
+        "th": "ร่องคำ",
+        "en": "Rong Kham",
+        "slug": "rong-kham"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "th": "กาฬสินธุ์",
+          "en": "Kalasin",
+          "slug": "kalasin"
+        }
+      },
+      {
+        "id": "4604",
+        "level": 2,
+        "name": {
+          "th": "ร่องคำ",
+          "en": "Rong Kham",
+          "slug": "rong-kham"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 13
+    },
+    "zip_codes": [
+      "46210"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.266",
+      "lon": "103.737"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/rong-kham-460401/"
+    }
+  },
+  {
+    "id": "460402",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "สามัคคี",
+      "en": "Samakkhi",
+      "slug": "samakkhi"
+    },
+    "code": {
+      "dopa": "460402"
+    },
+    "parent": {
+      "id": "4604",
+      "level": 2,
+      "name": {
+        "th": "ร่องคำ",
+        "en": "Rong Kham",
+        "slug": "rong-kham"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "th": "กาฬสินธุ์",
+          "en": "Kalasin",
+          "slug": "kalasin"
+        }
+      },
+      {
+        "id": "4604",
+        "level": 2,
+        "name": {
+          "th": "ร่องคำ",
+          "en": "Rong Kham",
+          "slug": "rong-kham"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 15
+    },
+    "zip_codes": [
+      "46210"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.318",
+      "lon": "103.713"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/samakkhi-460402/"
+    }
+  }
+]

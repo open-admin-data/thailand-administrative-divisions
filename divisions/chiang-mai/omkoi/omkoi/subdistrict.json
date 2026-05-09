@@ -1,0 +1,61 @@
+{
+  "id": "501801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อมก๋อย",
+    "en": "Omkoi",
+    "slug": "omkoi"
+  },
+  "code": {
+    "dopa": "501801"
+  },
+  "parent": {
+    "id": "5018",
+    "level": 2,
+    "name": {
+      "th": "อมก๋อย",
+      "en": "Omkoi",
+      "slug": "omkoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5018",
+      "level": 2,
+      "name": {
+        "th": "อมก๋อย",
+        "en": "Omkoi",
+        "slug": "omkoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "50310"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.915",
+    "lon": "98.335"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/omkoi-501801/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "302207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลุงเขว้า",
+    "en": "Lung Khwao",
+    "slug": "lung-khwao"
+  },
+  "code": {
+    "dopa": "302207"
+  },
+  "parent": {
+    "id": "3022",
+    "level": 2,
+    "name": {
+      "th": "หนองบุญมาก",
+      "en": "Nong Bunnak",
+      "slug": "nong-bunnak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3022",
+      "level": 2,
+      "name": {
+        "th": "หนองบุญมาก",
+        "en": "Nong Bunnak",
+        "slug": "nong-bunnak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "30410"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.813",
+    "lon": "102.339"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lung-khwao-302207/"
+  }
+}

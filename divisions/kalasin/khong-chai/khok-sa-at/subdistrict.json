@@ -1,0 +1,61 @@
+{
+  "id": "461803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนศิลา",
+    "en": "Khok Sa-At",
+    "slug": "khok-sa-at"
+  },
+  "code": {
+    "dopa": "461803"
+  },
+  "parent": {
+    "id": "4618",
+    "level": 2,
+    "name": {
+      "th": "ฆ้องชัย",
+      "en": "Khong Chai",
+      "slug": "khong-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4618",
+      "level": 2,
+      "name": {
+        "th": "ฆ้องชัย",
+        "en": "Khong Chai",
+        "slug": "khong-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "67170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.285",
+    "lon": "103.435"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-sa-at-461803/"
+  }
+}

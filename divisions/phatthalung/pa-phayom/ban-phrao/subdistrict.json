@@ -1,0 +1,61 @@
+{
+  "id": "931004",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านพร้าว",
+    "en": "Ban Phrao",
+    "slug": "ban-phrao"
+  },
+  "code": {
+    "dopa": "931004"
+  },
+  "parent": {
+    "id": "9310",
+    "level": 2,
+    "name": {
+      "th": "ป่าพยอม",
+      "en": "Pa Phayom",
+      "slug": "pa-phayom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9310",
+      "level": 2,
+      "name": {
+        "th": "ป่าพยอม",
+        "en": "Pa Phayom",
+        "slug": "pa-phayom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "93110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.818",
+    "lon": "99.948"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-phrao-931004/"
+  }
+}

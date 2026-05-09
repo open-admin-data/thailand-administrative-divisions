@@ -1,0 +1,61 @@
+{
+  "id": "100804",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง บ้านบาตร",
+    "en": "Ban Bat",
+    "slug": "ban-bat"
+  },
+  "code": {
+    "dopa": "100804"
+  },
+  "parent": {
+    "id": "1008",
+    "level": 2,
+    "name": {
+      "th": "เขต ป้อมปราบศัตรูพ่าย",
+      "en": "Khet Pom Prap Sattru Phai",
+      "slug": "khet-pom-prap-sattru-phai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1008",
+      "level": 2,
+      "name": {
+        "th": "เขต ป้อมปราบศัตรูพ่าย",
+        "en": "Khet Pom Prap Sattru Phai",
+        "slug": "khet-pom-prap-sattru-phai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10100"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.752",
+    "lon": "100.507"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-bat-100804/"
+  }
+}

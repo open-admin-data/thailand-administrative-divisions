@@ -1,0 +1,61 @@
+{
+  "id": "820802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาเตย",
+    "en": "Na Toei",
+    "slug": "na-toei"
+  },
+  "code": {
+    "dopa": "820802"
+  },
+  "parent": {
+    "id": "8208",
+    "level": 2,
+    "name": {
+      "th": "ท้ายเหมือง",
+      "en": "Thai Mueang",
+      "slug": "thai-mueang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8208",
+      "level": 2,
+      "name": {
+        "th": "ท้ายเหมือง",
+        "en": "Thai Mueang",
+        "slug": "thai-mueang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "82120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.344",
+    "lon": "98.303"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-toei-820802/"
+  }
+}

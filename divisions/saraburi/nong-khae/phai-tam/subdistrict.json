@@ -1,0 +1,61 @@
+{
+  "id": "190307",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไผ่ต่ำ",
+    "en": "Phai Tam",
+    "slug": "phai-tam"
+  },
+  "code": {
+    "dopa": "190307"
+  },
+  "parent": {
+    "id": "1903",
+    "level": 2,
+    "name": {
+      "th": "หนองแค",
+      "en": "Nong Khae",
+      "slug": "nong-khae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1903",
+      "level": 2,
+      "name": {
+        "th": "หนองแค",
+        "en": "Nong Khae",
+        "slug": "nong-khae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "18140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.326",
+    "lon": "100.834"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phai-tam-190307/"
+  }
+}

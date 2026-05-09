@@ -1,0 +1,61 @@
+{
+  "id": "801001",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาบอน",
+    "en": "Na Bon",
+    "slug": "na-bon"
+  },
+  "code": {
+    "dopa": "801001"
+  },
+  "parent": {
+    "id": "8010",
+    "level": 2,
+    "name": {
+      "th": "นาบอน",
+      "en": "Na Bon",
+      "slug": "na-bon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8010",
+      "level": 2,
+      "name": {
+        "th": "นาบอน",
+        "en": "Na Bon",
+        "slug": "na-bon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "80220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.243",
+    "lon": "99.600"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-bon-801001/"
+  }
+}

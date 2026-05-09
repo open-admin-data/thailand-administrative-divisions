@@ -1,0 +1,61 @@
+{
+  "id": "560207",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พระธาตุขิงแกง",
+    "en": "Phra That Khing Kaeng",
+    "slug": "phra-that-khing-kaeng"
+  },
+  "code": {
+    "dopa": "560207"
+  },
+  "parent": {
+    "id": "5602",
+    "level": 2,
+    "name": {
+      "th": "จุน",
+      "en": "Chun",
+      "slug": "chun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5602",
+      "level": 2,
+      "name": {
+        "th": "จุน",
+        "en": "Chun",
+        "slug": "chun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "56150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.273",
+    "lon": "100.186"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phra-that-khing-kaeng-560207/"
+  }
+}

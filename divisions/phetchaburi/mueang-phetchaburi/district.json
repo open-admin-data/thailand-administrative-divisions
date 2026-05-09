@@ -1,0 +1,50 @@
+{
+  "id": "7601",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองเพชรบุรี",
+    "en": "Mueang Phetchaburi",
+    "slug": "mueang-phetchaburi"
+  },
+  "code": {
+    "dopa": "7601"
+  },
+  "parent": {
+    "id": "76",
+    "level": 1,
+    "name": {
+      "th": "เพชรบุรี",
+      "en": "Phetchaburi",
+      "slug": "phetchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 24,
+    "villages": 201
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.121",
+    "lon": "99.900"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-phetchaburi-7601/"
+  }
+}

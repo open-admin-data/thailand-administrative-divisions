@@ -1,0 +1,61 @@
+{
+  "id": "800503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาพระ",
+    "en": "Khao Phra",
+    "slug": "khao-phra"
+  },
+  "code": {
+    "dopa": "800503"
+  },
+  "parent": {
+    "id": "8005",
+    "level": 2,
+    "name": {
+      "th": "พิปูน",
+      "en": "Phipun",
+      "slug": "phipun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8005",
+      "level": 2,
+      "name": {
+        "th": "พิปูน",
+        "en": "Phipun",
+        "slug": "phipun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "80270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.634",
+    "lon": "99.615"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-phra-800503/"
+  }
+}

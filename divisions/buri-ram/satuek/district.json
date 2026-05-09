@@ -1,0 +1,50 @@
+{
+  "id": "3111",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สตึก",
+    "en": "Satuek",
+    "slug": "satuek"
+  },
+  "code": {
+    "dopa": "3111"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 179
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.209",
+    "lon": "103.183"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/satuek-3111/"
+  }
+}

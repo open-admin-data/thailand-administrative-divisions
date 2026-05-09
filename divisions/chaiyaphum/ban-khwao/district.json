@@ -1,0 +1,50 @@
+{
+  "id": "3602",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านเขว้า",
+    "en": "Ban Khwao",
+    "slug": "ban-khwao"
+  },
+  "code": {
+    "dopa": "3602"
+  },
+  "parent": {
+    "id": "36",
+    "level": 1,
+    "name": {
+      "th": "ชัยภูมิ",
+      "en": "Chaiyaphum",
+      "slug": "chaiyaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 88
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.804",
+    "lon": "101.930"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-khwao-3602/"
+  }
+}

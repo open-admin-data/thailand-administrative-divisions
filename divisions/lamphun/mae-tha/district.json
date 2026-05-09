@@ -1,0 +1,50 @@
+{
+  "id": "5102",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แม่ทา",
+    "en": "Mae Tha",
+    "slug": "mae-tha"
+  },
+  "code": {
+    "dopa": "5102"
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "th": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 71
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.438",
+    "lon": "99.030"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mae-tha-5102/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "510102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เหมืองง่า",
+    "en": "Mueang Nga",
+    "slug": "mueang-nga"
+  },
+  "code": {
+    "dopa": "510102"
+  },
+  "parent": {
+    "id": "5101",
+    "level": 2,
+    "name": {
+      "th": "เมืองลำพูน",
+      "en": "Mueang Lamphun",
+      "slug": "mueang-lamphun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5101",
+      "level": 2,
+      "name": {
+        "th": "เมืองลำพูน",
+        "en": "Mueang Lamphun",
+        "slug": "mueang-lamphun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "51000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.613",
+    "lon": "99.032"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-nga-510102/"
+  }
+}

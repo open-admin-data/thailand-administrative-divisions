@@ -1,0 +1,61 @@
+{
+  "id": "760408",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สามพระยา",
+    "en": "Sam Phraya",
+    "slug": "sam-phraya"
+  },
+  "code": {
+    "dopa": "760408"
+  },
+  "parent": {
+    "id": "7604",
+    "level": 2,
+    "name": {
+      "th": "ชะอำ",
+      "en": "Cha-am",
+      "slug": "cha-am"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "th": "ชะอำ",
+        "en": "Cha-am",
+        "slug": "cha-am"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "76120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.684",
+    "lon": "99.882"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sam-phraya-760408/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "5715",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แม่ฟ้าหลวง",
+    "en": "Mae Fa Luang",
+    "slug": "mae-fa-luang"
+  },
+  "code": {
+    "dopa": "5715"
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 78
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.141",
+    "lon": "99.654"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mae-fa-luang-5715/"
+  }
+}

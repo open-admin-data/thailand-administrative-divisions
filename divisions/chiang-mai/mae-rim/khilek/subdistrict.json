@@ -1,0 +1,61 @@
+{
+  "id": "500704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขี้เหล็ก",
+    "en": "Khilek",
+    "slug": "khilek"
+  },
+  "code": {
+    "dopa": "500704"
+  },
+  "parent": {
+    "id": "5007",
+    "level": 2,
+    "name": {
+      "th": "แม่ริม",
+      "en": "Mae Rim",
+      "slug": "mae-rim"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5007",
+      "level": 2,
+      "name": {
+        "th": "แม่ริม",
+        "en": "Mae Rim",
+        "slug": "mae-rim"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "50180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.011",
+    "lon": "98.942"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khilek-500704/"
+  }
+}

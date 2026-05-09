@@ -1,0 +1,61 @@
+{
+  "id": "103503",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง บางมด",
+    "en": "Bang Mot",
+    "slug": "bang-mot"
+  },
+  "code": {
+    "dopa": "103503"
+  },
+  "parent": {
+    "id": "1035",
+    "level": 2,
+    "name": {
+      "th": "เขต จอมทอง",
+      "en": "Chom Thong",
+      "slug": "chom-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1035",
+      "level": 2,
+      "name": {
+        "th": "เขต จอมทอง",
+        "en": "Chom Thong",
+        "slug": "chom-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10150"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.672",
+    "lon": "100.468"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-mot-103503/"
+  }
+}

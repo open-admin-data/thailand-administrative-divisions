@@ -1,0 +1,50 @@
+{
+  "id": "8302",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "กะทู้",
+    "en": "Kathu",
+    "slug": "kathu"
+  },
+  "code": {
+    "dopa": "8302"
+  },
+  "parent": {
+    "id": "83",
+    "level": 1,
+    "name": {
+      "th": "ภูเก็ต",
+      "en": "Phuket",
+      "slug": "phuket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "th": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 32
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.945",
+    "lon": "98.289"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kathu-8302/"
+  }
+}

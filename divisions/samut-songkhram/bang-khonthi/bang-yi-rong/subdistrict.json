@@ -1,0 +1,61 @@
+{
+  "id": "750203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางยี่รงค์",
+    "en": "Bang Yi Rong",
+    "slug": "bang-yi-rong"
+  },
+  "code": {
+    "dopa": "750203"
+  },
+  "parent": {
+    "id": "7502",
+    "level": 2,
+    "name": {
+      "th": "บางคนที",
+      "en": "Bang Khonthi",
+      "slug": "bang-khonthi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสงคราม",
+        "en": "Samut Songkhram",
+        "slug": "samut-songkhram"
+      }
+    },
+    {
+      "id": "7502",
+      "level": 2,
+      "name": {
+        "th": "บางคนที",
+        "en": "Bang Khonthi",
+        "slug": "bang-khonthi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "75120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.481",
+    "lon": "99.912"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-yi-rong-750203/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "6409",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ทุ่งเสลี่ยม",
+    "en": "Thung Saliam",
+    "slug": "thung-saliam"
+  },
+  "code": {
+    "dopa": "6409"
+  },
+  "parent": {
+    "id": "64",
+    "level": 1,
+    "name": {
+      "th": "สุโขทัย",
+      "en": "Sukhothai",
+      "slug": "sukhothai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 59
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.320",
+    "lon": "99.643"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thung-saliam-6409/"
+  }
+}

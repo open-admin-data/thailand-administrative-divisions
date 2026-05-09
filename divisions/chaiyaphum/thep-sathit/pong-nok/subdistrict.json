@@ -1,0 +1,61 @@
+{
+  "id": "360905",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โป่งนก",
+    "en": "Pong Nok",
+    "slug": "pong-nok"
+  },
+  "code": {
+    "dopa": "360905"
+  },
+  "parent": {
+    "id": "3609",
+    "level": 2,
+    "name": {
+      "th": "เทพสถิต",
+      "en": "Thep Sathit",
+      "slug": "thep-sathit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3609",
+      "level": 2,
+      "name": {
+        "th": "เทพสถิต",
+        "en": "Thep Sathit",
+        "slug": "thep-sathit"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "36230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.808",
+    "lon": "101.469"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pong-nok-360905/"
+  }
+}

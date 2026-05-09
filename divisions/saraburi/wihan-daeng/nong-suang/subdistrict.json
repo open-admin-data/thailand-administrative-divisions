@@ -1,0 +1,61 @@
+{
+  "id": "190405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองสรวง",
+    "en": "Nong Suang",
+    "slug": "nong-suang"
+  },
+  "code": {
+    "dopa": "190405"
+  },
+  "parent": {
+    "id": "1904",
+    "level": 2,
+    "name": {
+      "th": "วิหารแดง",
+      "en": "Wihan Daeng",
+      "slug": "wihan-daeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1904",
+      "level": 2,
+      "name": {
+        "th": "วิหารแดง",
+        "en": "Wihan Daeng",
+        "slug": "wihan-daeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "18150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.340",
+    "lon": "100.983"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-suang-190405/"
+  }
+}

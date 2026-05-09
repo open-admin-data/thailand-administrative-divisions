@@ -1,0 +1,61 @@
+{
+  "id": "501602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ฮอด",
+    "en": "Hot",
+    "slug": "hot"
+  },
+  "code": {
+    "dopa": "501602"
+  },
+  "parent": {
+    "id": "5016",
+    "level": 2,
+    "name": {
+      "th": "ฮอด",
+      "en": "Hot",
+      "slug": "hot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5016",
+      "level": 2,
+      "name": {
+        "th": "ฮอด",
+        "en": "Hot",
+        "slug": "hot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "50240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.103",
+    "lon": "98.583"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hot-501602/"
+  }
+}

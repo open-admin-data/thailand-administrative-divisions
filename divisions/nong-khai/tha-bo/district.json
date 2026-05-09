@@ -1,0 +1,50 @@
+{
+  "id": "4302",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ท่าบ่อ",
+    "en": "Tha Bo",
+    "slug": "tha-bo"
+  },
+  "code": {
+    "dopa": "4302"
+  },
+  "parent": {
+    "id": "43",
+    "level": 1,
+    "name": {
+      "th": "หนองคาย",
+      "en": "Nong Khai",
+      "slug": "nong-khai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 109
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.819",
+    "lon": "102.610"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tha-bo-4302/"
+  }
+}

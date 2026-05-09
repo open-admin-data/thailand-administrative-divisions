@@ -1,0 +1,50 @@
+{
+  "id": "8009",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ทุ่งสง",
+    "en": "Thung Song",
+    "slug": "thung-song"
+  },
+  "code": {
+    "dopa": "8009"
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "th": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 144
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.168",
+    "lon": "99.689"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thung-song-8009/"
+  }
+}

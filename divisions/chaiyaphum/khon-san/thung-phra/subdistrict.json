@@ -1,0 +1,61 @@
+{
+  "id": "361302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งพระ",
+    "en": "Thung Phra",
+    "slug": "thung-phra"
+  },
+  "code": {
+    "dopa": "361302"
+  },
+  "parent": {
+    "id": "3613",
+    "level": 2,
+    "name": {
+      "th": "คอนสาร",
+      "en": "Khon San",
+      "slug": "khon-san"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3613",
+      "level": 2,
+      "name": {
+        "th": "คอนสาร",
+        "en": "Khon San",
+        "slug": "khon-san"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "36180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.649",
+    "lon": "101.642"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-phra-361302/"
+  }
+}

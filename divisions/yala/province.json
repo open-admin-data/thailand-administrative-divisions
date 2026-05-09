@@ -1,0 +1,38 @@
+{
+  "id": "95",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ยะลา",
+    "en": "Yala",
+    "slug": "yala"
+  },
+  "code": {
+    "dopa": "95",
+    "iso": "TH-95"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 8,
+    "subdistricts": 58,
+    "villages": 449
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern"
+    }
+  },
+  "geo": {
+    "lat": "6.464",
+    "lon": "101.374"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/yala-95/"
+  }
+}

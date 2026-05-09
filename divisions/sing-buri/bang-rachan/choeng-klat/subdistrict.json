@@ -1,0 +1,61 @@
+{
+  "id": "170203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เชิงกลัด",
+    "en": "Choeng Klat",
+    "slug": "choeng-klat"
+  },
+  "code": {
+    "dopa": "170203"
+  },
+  "parent": {
+    "id": "1702",
+    "level": 2,
+    "name": {
+      "th": "บางระจัน",
+      "en": "Bang Rachan",
+      "slug": "bang-rachan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1702",
+      "level": 2,
+      "name": {
+        "th": "บางระจัน",
+        "en": "Bang Rachan",
+        "slug": "bang-rachan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "16130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.910",
+    "lon": "100.269"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/choeng-klat-170203/"
+  }
+}

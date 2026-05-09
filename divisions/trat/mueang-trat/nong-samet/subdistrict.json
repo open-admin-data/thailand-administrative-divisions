@@ -1,0 +1,61 @@
+{
+  "id": "230102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองเสม็ด",
+    "en": "Nong Samet",
+    "slug": "nong-samet"
+  },
+  "code": {
+    "dopa": "230102"
+  },
+  "parent": {
+    "id": "2301",
+    "level": 2,
+    "name": {
+      "th": "เมืองตราด",
+      "en": "Mueang Trat",
+      "slug": "mueang-trat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "th": "ตราด",
+        "en": "Trat",
+        "slug": "trat"
+      }
+    },
+    {
+      "id": "2301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตราด",
+        "en": "Mueang Trat",
+        "slug": "mueang-trat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "23000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.216",
+    "lon": "102.504"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-samet-230102/"
+  }
+}

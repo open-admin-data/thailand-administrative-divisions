@@ -1,0 +1,61 @@
+{
+  "id": "240602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านซ่อง",
+    "en": "Ban Song",
+    "slug": "ban-song"
+  },
+  "code": {
+    "dopa": "240602"
+  },
+  "parent": {
+    "id": "2406",
+    "level": 2,
+    "name": {
+      "th": "พนมสารคาม",
+      "en": "Phanom Sarakham",
+      "slug": "phanom-sarakham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2406",
+      "level": 2,
+      "name": {
+        "th": "พนมสารคาม",
+        "en": "Phanom Sarakham",
+        "slug": "phanom-sarakham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "24120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.803",
+    "lon": "101.403"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-song-240602/"
+  }
+}

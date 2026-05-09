@@ -1,0 +1,61 @@
+{
+  "id": "600708",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สร้อยทอง",
+    "en": "Soi Thong",
+    "slug": "soi-thong"
+  },
+  "code": {
+    "dopa": "600708"
+  },
+  "parent": {
+    "id": "6007",
+    "level": 2,
+    "name": {
+      "th": "ตาคลี",
+      "en": "Takhli",
+      "slug": "takhli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6007",
+      "level": 2,
+      "name": {
+        "th": "ตาคลี",
+        "en": "Takhli",
+        "slug": "takhli"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "60210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.120",
+    "lon": "100.387"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/soi-thong-600708/"
+  }
+}

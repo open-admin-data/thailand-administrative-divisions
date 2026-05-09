@@ -1,0 +1,50 @@
+{
+  "id": "3014",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปักธงชัย",
+    "en": "Pak Thong Chai",
+    "slug": "pak-thong-chai"
+  },
+  "code": {
+    "dopa": "3014"
+  },
+  "parent": {
+    "id": "30",
+    "level": 1,
+    "name": {
+      "th": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 16,
+    "villages": 215
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.663",
+    "lon": "102.046"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pak-thong-chai-3014/"
+  }
+}

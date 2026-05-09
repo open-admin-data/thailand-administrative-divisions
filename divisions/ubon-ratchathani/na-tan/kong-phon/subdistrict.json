@@ -1,0 +1,61 @@
+{
+  "id": "343003",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กองโพน",
+    "en": "Kong Phon",
+    "slug": "kong-phon"
+  },
+  "code": {
+    "dopa": "343003"
+  },
+  "parent": {
+    "id": "3430",
+    "level": 2,
+    "name": {
+      "th": "นาตาล",
+      "en": "Na Tan",
+      "slug": "na-tan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3430",
+      "level": 2,
+      "name": {
+        "th": "นาตาล",
+        "en": "Na Tan",
+        "slug": "na-tan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "34170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.965",
+    "lon": "105.270"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kong-phon-343003/"
+  }
+}

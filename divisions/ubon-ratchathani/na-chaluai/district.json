@@ -1,0 +1,50 @@
+{
+  "id": "3408",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "นาจะหลวย",
+    "en": "Na Chaluai",
+    "slug": "na-chaluai"
+  },
+  "code": {
+    "dopa": "3408"
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 78
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.688",
+    "lon": "105.201"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/na-chaluai-3408/"
+  }
+}

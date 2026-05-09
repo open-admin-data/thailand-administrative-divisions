@@ -1,0 +1,61 @@
+{
+  "id": "340503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขามป้อม",
+    "en": "Kham Pom",
+    "slug": "kham-pom"
+  },
+  "code": {
+    "dopa": "340503"
+  },
+  "parent": {
+    "id": "3405",
+    "level": 2,
+    "name": {
+      "th": "เขมราฐ",
+      "en": "Khemarat",
+      "slug": "khemarat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3405",
+      "level": 2,
+      "name": {
+        "th": "เขมราฐ",
+        "en": "Khemarat",
+        "slug": "khemarat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "34170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.977",
+    "lon": "105.179"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kham-pom-340503/"
+  }
+}

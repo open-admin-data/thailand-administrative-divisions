@@ -1,0 +1,61 @@
+{
+  "id": "452003",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บึงงาม",
+    "en": "Bueng Ngam",
+    "slug": "bueng-ngam"
+  },
+  "code": {
+    "dopa": "452003"
+  },
+  "parent": {
+    "id": "4520",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งเขาหลวง",
+      "en": "Thung Khao Luang",
+      "slug": "thung-khao-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4520",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งเขาหลวง",
+        "en": "Thung Khao Luang",
+        "slug": "thung-khao-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "45170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.986",
+    "lon": "103.894"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bueng-ngam-452003/"
+  }
+}

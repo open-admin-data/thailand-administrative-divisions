@@ -1,0 +1,61 @@
+{
+  "id": "610505",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งพึ่ง",
+    "en": "Thung Phueng",
+    "slug": "thung-phueng"
+  },
+  "code": {
+    "dopa": "610505"
+  },
+  "parent": {
+    "id": "6105",
+    "level": 2,
+    "name": {
+      "th": "หนองขาหย่าง",
+      "en": "Nong Khayang",
+      "slug": "nong-khayang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6105",
+      "level": 2,
+      "name": {
+        "th": "หนองขาหย่าง",
+        "en": "Nong Khayang",
+        "slug": "nong-khayang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "61130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.422",
+    "lon": "99.934"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-phueng-610505/"
+  }
+}

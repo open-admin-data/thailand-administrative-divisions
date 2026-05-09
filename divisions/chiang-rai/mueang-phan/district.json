@@ -1,0 +1,50 @@
+{
+  "id": "5705",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พาน",
+    "en": "Mueang Phan",
+    "slug": "mueang-phan"
+  },
+  "code": {
+    "dopa": "5705"
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 15,
+    "villages": 236
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.575",
+    "lon": "99.765"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-phan-5705/"
+  }
+}

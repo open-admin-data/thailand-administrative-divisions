@@ -1,0 +1,61 @@
+{
+  "id": "660603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทะนง",
+    "en": "Thanong",
+    "slug": "thanong"
+  },
+  "code": {
+    "dopa": "660603"
+  },
+  "parent": {
+    "id": "6606",
+    "level": 2,
+    "name": {
+      "th": "โพทะเล",
+      "en": "Pho Thale",
+      "slug": "pho-thale"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6606",
+      "level": 2,
+      "name": {
+        "th": "โพทะเล",
+        "en": "Pho Thale",
+        "slug": "pho-thale"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "66130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.078",
+    "lon": "100.180"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thanong-660603/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "312305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยายแย้มวัฒนา",
+    "en": "Yai Yaem Watthana",
+    "slug": "yai-yaem-watthana"
+  },
+  "code": {
+    "dopa": "312305"
+  },
+  "parent": {
+    "id": "3123",
+    "level": 2,
+    "name": {
+      "th": "เฉลิมพระเกียรติ",
+      "en": "Chaloem Phra Kiat",
+      "slug": "chaloem-phra-kiat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3123",
+      "level": 2,
+      "name": {
+        "th": "เฉลิมพระเกียรติ",
+        "en": "Chaloem Phra Kiat",
+        "slug": "chaloem-phra-kiat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "31170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.505",
+    "lon": "102.918"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yai-yaem-watthana-312305/"
+  }
+}

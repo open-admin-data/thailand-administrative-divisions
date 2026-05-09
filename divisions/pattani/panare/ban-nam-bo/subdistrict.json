@@ -1,0 +1,61 @@
+{
+  "id": "940410",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านน้ำบ่อ",
+    "en": "Ban Nam Bo",
+    "slug": "ban-nam-bo"
+  },
+  "code": {
+    "dopa": "940410"
+  },
+  "parent": {
+    "id": "9404",
+    "level": 2,
+    "name": {
+      "th": "ปะนาเระ",
+      "en": "Panare",
+      "slug": "panare"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9404",
+      "level": 2,
+      "name": {
+        "th": "ปะนาเระ",
+        "en": "Panare",
+        "slug": "panare"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "94130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.817",
+    "lon": "101.563"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-nam-bo-940410/"
+  }
+}

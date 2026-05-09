@@ -1,0 +1,61 @@
+{
+  "id": "360117",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกสูง",
+    "en": "Khok Sung",
+    "slug": "khok-sung"
+  },
+  "code": {
+    "dopa": "360117"
+  },
+  "parent": {
+    "id": "3601",
+    "level": 2,
+    "name": {
+      "th": "เมืองชัยภูมิ",
+      "en": "Mueang Chaiyaphum",
+      "slug": "mueang-chaiyaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3601",
+      "level": 2,
+      "name": {
+        "th": "เมืองชัยภูมิ",
+        "en": "Mueang Chaiyaphum",
+        "slug": "mueang-chaiyaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "36000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.827",
+    "lon": "101.958"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-sung-360117/"
+  }
+}

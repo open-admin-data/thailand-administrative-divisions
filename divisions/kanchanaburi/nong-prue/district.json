@@ -1,0 +1,50 @@
+{
+  "id": "7112",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หนองปรือ",
+    "en": "Nong Prue",
+    "slug": "nong-prue"
+  },
+  "code": {
+    "dopa": "7112"
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "th": "กาญจนบุรี",
+      "en": "Kanchanaburi",
+      "slug": "kanchanaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 43
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.626",
+    "lon": "99.527"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-prue-7112/"
+  }
+}

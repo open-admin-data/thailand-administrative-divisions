@@ -1,0 +1,61 @@
+{
+  "id": "410702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งใหญ่",
+    "en": "Thung Yai",
+    "slug": "thung-yai"
+  },
+  "code": {
+    "dopa": "410702"
+  },
+  "parent": {
+    "id": "4107",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งฝน",
+      "en": "Thung Fon",
+      "slug": "thung-fon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4107",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งฝน",
+        "en": "Thung Fon",
+        "slug": "thung-fon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "41310"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.475",
+    "lon": "103.174"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-yai-410702/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "901104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คอหงส์",
+    "en": "Kho Hong",
+    "slug": "kho-hong"
+  },
+  "code": {
+    "dopa": "901104"
+  },
+  "parent": {
+    "id": "9011",
+    "level": 2,
+    "name": {
+      "th": "หาดใหญ่",
+      "en": "Hat Yai",
+      "slug": "hat-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9011",
+      "level": 2,
+      "name": {
+        "th": "หาดใหญ่",
+        "en": "Hat Yai",
+        "slug": "hat-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 30
+  },
+  "zip_codes": [
+    "90110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.006",
+    "lon": "100.503"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kho-hong-901104/"
+  }
+}

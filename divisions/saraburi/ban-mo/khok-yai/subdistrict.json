@@ -1,0 +1,61 @@
+{
+  "id": "190606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกใหญ่",
+    "en": "Khok Yai",
+    "slug": "khok-yai"
+  },
+  "code": {
+    "dopa": "190606"
+  },
+  "parent": {
+    "id": "1906",
+    "level": 2,
+    "name": {
+      "th": "บ้านหมอ",
+      "en": "Ban Mo",
+      "slug": "ban-mo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "th": "บ้านหมอ",
+        "en": "Ban Mo",
+        "slug": "ban-mo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "18130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.606",
+    "lon": "100.677"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-yai-190606/"
+  }
+}

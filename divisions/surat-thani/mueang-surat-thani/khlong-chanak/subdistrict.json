@@ -1,0 +1,61 @@
+{
+  "id": "840111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองฉนาก",
+    "en": "Khlong Chanak",
+    "slug": "khlong-chanak"
+  },
+  "code": {
+    "dopa": "840111"
+  },
+  "parent": {
+    "id": "8401",
+    "level": 2,
+    "name": {
+      "th": "เมืองสุราษฎร์ธานี",
+      "en": "Mueang Surat Thani",
+      "slug": "mueang-surat-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8401",
+      "level": 2,
+      "name": {
+        "th": "เมืองสุราษฎร์ธานี",
+        "en": "Mueang Surat Thani",
+        "slug": "mueang-surat-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "84000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.191",
+    "lon": "99.351"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-chanak-840111/"
+  }
+}

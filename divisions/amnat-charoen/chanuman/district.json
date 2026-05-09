@@ -1,0 +1,50 @@
+{
+  "id": "3702",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ชานุมาน",
+    "en": "Chanuman",
+    "slug": "chanuman"
+  },
+  "code": {
+    "dopa": "3702"
+  },
+  "parent": {
+    "id": "37",
+    "level": 1,
+    "name": {
+      "th": "อำนาจเจริญ",
+      "en": "Amnat Charoen",
+      "slug": "amnat-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 62
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.156",
+    "lon": "104.996"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chanuman-3702/"
+  }
+}

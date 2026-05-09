@@ -1,0 +1,50 @@
+{
+  "id": "5304",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "น้ำปาด",
+    "en": "Nam Pat",
+    "slug": "nam-pat"
+  },
+  "code": {
+    "dopa": "5304"
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "th": "อุตรดิตถ์",
+      "en": "Uttaradit",
+      "slug": "uttaradit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 49
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.740",
+    "lon": "100.758"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nam-pat-5304/"
+  }
+}

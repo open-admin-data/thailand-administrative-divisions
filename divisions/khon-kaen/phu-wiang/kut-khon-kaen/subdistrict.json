@@ -1,0 +1,61 @@
+{
+  "id": "401605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุดขอนแก่น",
+    "en": "Kut Khon Kaen",
+    "slug": "kut-khon-kaen"
+  },
+  "code": {
+    "dopa": "401605"
+  },
+  "parent": {
+    "id": "4016",
+    "level": 2,
+    "name": {
+      "th": "ภูเวียง",
+      "en": "Phu Wiang",
+      "slug": "phu-wiang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4016",
+      "level": 2,
+      "name": {
+        "th": "ภูเวียง",
+        "en": "Phu Wiang",
+        "slug": "phu-wiang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "40150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.580",
+    "lon": "102.502"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kut-khon-kaen-401605/"
+  }
+}

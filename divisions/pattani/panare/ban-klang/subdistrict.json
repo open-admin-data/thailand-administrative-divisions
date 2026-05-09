@@ -1,0 +1,61 @@
+{
+  "id": "940409",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านกลาง",
+    "en": "Ban Klang",
+    "slug": "ban-klang"
+  },
+  "code": {
+    "dopa": "940409"
+  },
+  "parent": {
+    "id": "9404",
+    "level": 2,
+    "name": {
+      "th": "ปะนาเระ",
+      "en": "Panare",
+      "slug": "panare"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9404",
+      "level": 2,
+      "name": {
+        "th": "ปะนาเระ",
+        "en": "Panare",
+        "slug": "panare"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "94130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.839",
+    "lon": "101.521"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-klang-940409/"
+  }
+}

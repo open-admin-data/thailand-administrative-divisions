@@ -1,0 +1,61 @@
+{
+  "id": "104102",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง ตลาดบางเขน",
+    "en": "Talat Bang Khen",
+    "slug": "talat-bang-khen"
+  },
+  "code": {
+    "dopa": "104102"
+  },
+  "parent": {
+    "id": "1041",
+    "level": 2,
+    "name": {
+      "th": "เขต หลักสี่",
+      "en": "Khet Lak Si",
+      "slug": "khet-lak-si"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1041",
+      "level": 2,
+      "name": {
+        "th": "เขต หลักสี่",
+        "en": "Khet Lak Si",
+        "slug": "khet-lak-si"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10210"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.871",
+    "lon": "100.580"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/talat-bang-khen-104102/"
+  }
+}

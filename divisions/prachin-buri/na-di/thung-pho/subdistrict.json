@@ -1,0 +1,61 @@
+{
+  "id": "250304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งโพธิ์",
+    "en": "Thung Pho",
+    "slug": "thung-pho"
+  },
+  "code": {
+    "dopa": "250304"
+  },
+  "parent": {
+    "id": "2503",
+    "level": 2,
+    "name": {
+      "th": "นาดี",
+      "en": "Na Di",
+      "slug": "na-di"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "th": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri"
+      }
+    },
+    {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "th": "นาดี",
+        "en": "Na Di",
+        "slug": "na-di"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "25220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.141",
+    "lon": "101.889"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-pho-250304/"
+  }
+}

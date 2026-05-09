@@ -1,0 +1,61 @@
+{
+  "id": "760804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าเด็ง",
+    "en": "Pa Deng",
+    "slug": "pa-deng"
+  },
+  "code": {
+    "dopa": "760804"
+  },
+  "parent": {
+    "id": "7608",
+    "level": 2,
+    "name": {
+      "th": "แก่งกระจาน",
+      "en": "Kaeng Krachan",
+      "slug": "kaeng-krachan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7608",
+      "level": 2,
+      "name": {
+        "th": "แก่งกระจาน",
+        "en": "Kaeng Krachan",
+        "slug": "kaeng-krachan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "76170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.651",
+    "lon": "99.480"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-deng-760804/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "400409",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนสะอาด",
+    "en": "Non Sa-at",
+    "slug": "non-sa-at"
+  },
+  "code": {
+    "dopa": "400409"
+  },
+  "parent": {
+    "id": "4004",
+    "level": 2,
+    "name": {
+      "th": "หนองเรือ",
+      "en": "Nong Ruea",
+      "slug": "nong-ruea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4004",
+      "level": 2,
+      "name": {
+        "th": "หนองเรือ",
+        "en": "Nong Ruea",
+        "slug": "nong-ruea"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "40210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.538",
+    "lon": "102.312"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-sa-at-400409/"
+  }
+}

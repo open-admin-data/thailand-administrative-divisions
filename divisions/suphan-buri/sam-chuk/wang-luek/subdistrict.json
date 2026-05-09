@@ -1,0 +1,61 @@
+{
+  "id": "720802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังลึก",
+    "en": "Wang Luek",
+    "slug": "wang-luek"
+  },
+  "code": {
+    "dopa": "720802"
+  },
+  "parent": {
+    "id": "7208",
+    "level": 2,
+    "name": {
+      "th": "สามชุก",
+      "en": "Sam Chuk",
+      "slug": "sam-chuk"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7208",
+      "level": 2,
+      "name": {
+        "th": "สามชุก",
+        "en": "Sam Chuk",
+        "slug": "sam-chuk"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "72130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.758",
+    "lon": "100.158"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-luek-720802/"
+  }
+}

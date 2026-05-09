@@ -1,0 +1,61 @@
+{
+  "id": "341005",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองสะโน",
+    "en": "Nong Sano",
+    "slug": "nong-sano"
+  },
+  "code": {
+    "dopa": "341005"
+  },
+  "parent": {
+    "id": "3410",
+    "level": 2,
+    "name": {
+      "th": "บุณฑริก",
+      "en": "Buntharik",
+      "slug": "buntharik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3410",
+      "level": 2,
+      "name": {
+        "th": "บุณฑริก",
+        "en": "Buntharik",
+        "slug": "buntharik"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 23
+  },
+  "zip_codes": [
+    "34230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.771",
+    "lon": "105.288"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-sano-341005/"
+  }
+}

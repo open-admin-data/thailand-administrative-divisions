@@ -1,0 +1,50 @@
+{
+  "id": "3214",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พนมดงรัก",
+    "en": "Phanom Dong Rak",
+    "slug": "phanom-dong-rak"
+  },
+  "code": {
+    "dopa": "3214"
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "th": "สุรินทร์",
+      "en": "Surin",
+      "slug": "surin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 55
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.490",
+    "lon": "103.249"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phanom-dong-rak-3214/"
+  }
+}

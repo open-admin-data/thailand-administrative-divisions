@@ -1,0 +1,37 @@
+# <%= district.name.th %> (<%= district.name.en %>)
+
+[Home](../../../) > [<%= province.name.en %>](../) > **<%= district.name.en %>**
+
+<%= district.name.th %> (<%= district.name.en %>) is a district in <%= province.name.th %> (<%= province.name.en %>), Thailand, comprising **<%= subdistricts.length %> <%= province.metadata.is_special_province ? 'khwaeng (แขวง)' : 'tambon (ตำบล)' %>**.
+
+## Overview / ภาพรวม
+
+| รายการ / Item | จำนวน / Count |
+|---------------|--------------|
+| <%= province.metadata.is_special_province ? 'แขวง / Khwaeng (Subdistricts)' : 'ตำบล / Subdistricts' %> | <%= district.children_count.subdistricts %> |
+| หมู่บ้าน / Villages | <%= district.children_count.villages.toLocaleString() %> |
+| DOPA Code | <%= district.code.dopa %> |
+| จังหวัด / Province | <%= province.name.th %> (<%= province.name.en %>) |
+<% if (district.geo && district.geo.lat) { -%>
+| พิกัด / Coordinates | <%= district.geo.lat %>, <%= district.geo.lon %> |
+<% } -%>
+
+<% if (subdistricts.length > 0) { -%>
+## <%= province.metadata.is_special_province ? 'แขวง / Khwaeng (Subdistricts)' : 'ตำบล / Subdistricts' %>
+
+| # | <%= province.metadata.is_special_province ? 'แขวง / Khwaeng' : 'ตำบล / Subdistrict' %> | รหัสไปรษณีย์ / Zip Code | พิกัด / Coordinates | Link |
+|---|--------------------------|------------------------|---------------------|------|
+<% subdistricts.forEach((s, i) => { -%>
+| <%= i + 1 %> | <%= s.name.th %> (<%= s.name.en %>) | <%= s.zip_codes ? s.zip_codes.join(', ') : '' %> | <%= s.geo ? s.geo.lat + ', ' + s.geo.lon : '' %> | [Browse](<%= s.name.slug %>/) |
+<% }) -%>
+
+<% } -%>
+## Data Files / ไฟล์ข้อมูล
+
+- [district.json](district.json) — District metadata
+- [subdistricts.json](subdistricts.json) — All subdistricts in <%= district.name.en %> (JSON)
+- [subdistricts.csv](subdistricts.csv) — CSV format
+
+---
+
+← Back to [<%= province.name.th %> (<%= province.name.en %>)](../)

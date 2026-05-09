@@ -1,0 +1,185 @@
+[
+  {
+    "id": "930702",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เขาปู่",
+      "en": "Khao Pu",
+      "slug": "khao-pu"
+    },
+    "code": {
+      "dopa": "930702"
+    },
+    "parent": {
+      "id": "9307",
+      "level": 2,
+      "name": {
+        "th": "ศรีบรรพต",
+        "en": "Si Banphot",
+        "slug": "si-banphot"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "93",
+        "level": 1,
+        "name": {
+          "th": "พัทลุง",
+          "en": "Phatthalung",
+          "slug": "phatthalung"
+        }
+      },
+      {
+        "id": "9307",
+        "level": 2,
+        "name": {
+          "th": "ศรีบรรพต",
+          "en": "Si Banphot",
+          "slug": "si-banphot"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "93190"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.701",
+      "lon": "99.833"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khao-pu-930702/"
+    }
+  },
+  {
+    "id": "930701",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เขาย่า",
+      "en": "Khao Ya",
+      "slug": "khao-ya"
+    },
+    "code": {
+      "dopa": "930701"
+    },
+    "parent": {
+      "id": "9307",
+      "level": 2,
+      "name": {
+        "th": "ศรีบรรพต",
+        "en": "Si Banphot",
+        "slug": "si-banphot"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "93",
+        "level": 1,
+        "name": {
+          "th": "พัทลุง",
+          "en": "Phatthalung",
+          "slug": "phatthalung"
+        }
+      },
+      {
+        "id": "9307",
+        "level": 2,
+        "name": {
+          "th": "ศรีบรรพต",
+          "en": "Si Banphot",
+          "slug": "si-banphot"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "93190"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.746",
+      "lon": "99.864"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khao-ya-930701/"
+    }
+  },
+  {
+    "id": "930703",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ตะแพน",
+      "en": "Taphaen",
+      "slug": "taphaen"
+    },
+    "code": {
+      "dopa": "930703"
+    },
+    "parent": {
+      "id": "9307",
+      "level": 2,
+      "name": {
+        "th": "ศรีบรรพต",
+        "en": "Si Banphot",
+        "slug": "si-banphot"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "93",
+        "level": 1,
+        "name": {
+          "th": "พัทลุง",
+          "en": "Phatthalung",
+          "slug": "phatthalung"
+        }
+      },
+      {
+        "id": "9307",
+        "level": 2,
+        "name": {
+          "th": "ศรีบรรพต",
+          "en": "Si Banphot",
+          "slug": "si-banphot"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "93190"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.645",
+      "lon": "99.878"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/taphaen-930703/"
+    }
+  }
+]

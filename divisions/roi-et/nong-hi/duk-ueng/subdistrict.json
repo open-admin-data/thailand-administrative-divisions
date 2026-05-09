@@ -1,0 +1,61 @@
+{
+  "id": "451903",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดูกอึ่ง",
+    "en": "Duk Ueng",
+    "slug": "duk-ueng"
+  },
+  "code": {
+    "dopa": "451903"
+  },
+  "parent": {
+    "id": "4519",
+    "level": 2,
+    "name": {
+      "th": "หนองฮี",
+      "en": "Nong Hi",
+      "slug": "nong-hi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4519",
+      "level": 2,
+      "name": {
+        "th": "หนองฮี",
+        "en": "Nong Hi",
+        "slug": "nong-hi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "45140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.559",
+    "lon": "104.016"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/duk-ueng-451903/"
+  }
+}

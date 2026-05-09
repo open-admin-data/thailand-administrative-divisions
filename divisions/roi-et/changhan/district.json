@@ -1,0 +1,50 @@
+{
+  "id": "4517",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "จังหาร",
+    "en": "Changhan",
+    "slug": "changhan"
+  },
+  "code": {
+    "dopa": "4517"
+  },
+  "parent": {
+    "id": "45",
+    "level": 1,
+    "name": {
+      "th": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 110
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.204",
+    "lon": "103.543"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/changhan-4517/"
+  }
+}

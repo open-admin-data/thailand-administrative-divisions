@@ -1,0 +1,307 @@
+[
+  {
+    "id": "950204",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "อัยเยอร์เวง",
+      "en": "Aiyoe Weng",
+      "slug": "aiyoe-weng"
+    },
+    "code": {
+      "dopa": "950204"
+    },
+    "parent": {
+      "id": "9502",
+      "level": 2,
+      "name": {
+        "th": "เบตง",
+        "en": "Betong",
+        "slug": "betong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      },
+      {
+        "id": "9502",
+        "level": 2,
+        "name": {
+          "th": "เบตง",
+          "en": "Betong",
+          "slug": "betong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "95110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "5.963",
+      "lon": "101.398"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/aiyoe-weng-950204/"
+    }
+  },
+  {
+    "id": "950201",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เบตง",
+      "en": "Betong",
+      "slug": "betong"
+    },
+    "code": {
+      "dopa": "950201"
+    },
+    "parent": {
+      "id": "9502",
+      "level": 2,
+      "name": {
+        "th": "เบตง",
+        "en": "Betong",
+        "slug": "betong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      },
+      {
+        "id": "9502",
+        "level": 2,
+        "name": {
+          "th": "เบตง",
+          "en": "Betong",
+          "slug": "betong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 28
+    },
+    "zip_codes": [
+      "95110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "5.803",
+      "lon": "101.009"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/betong-950201/"
+    }
+  },
+  {
+    "id": "950203",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ตาเนาะแมเราะ",
+      "en": "Tano Maero",
+      "slug": "tano-maero"
+    },
+    "code": {
+      "dopa": "950203"
+    },
+    "parent": {
+      "id": "9502",
+      "level": 2,
+      "name": {
+        "th": "เบตง",
+        "en": "Betong",
+        "slug": "betong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      },
+      {
+        "id": "9502",
+        "level": 2,
+        "name": {
+          "th": "เบตง",
+          "en": "Betong",
+          "slug": "betong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "95110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "5.853",
+      "lon": "101.099"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/tano-maero-950203/"
+    }
+  },
+  {
+    "id": "950205",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ธารน้ำทิพย์",
+      "en": "Than Nam Thip",
+      "slug": "than-nam-thip"
+    },
+    "code": {
+      "dopa": "950205"
+    },
+    "parent": {
+      "id": "9502",
+      "level": 2,
+      "name": {
+        "th": "เบตง",
+        "en": "Betong",
+        "slug": "betong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      },
+      {
+        "id": "9502",
+        "level": 2,
+        "name": {
+          "th": "เบตง",
+          "en": "Betong",
+          "slug": "betong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 4
+    },
+    "zip_codes": [
+      "95110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "5.686",
+      "lon": "101.141"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/than-nam-thip-950205/"
+    }
+  },
+  {
+    "id": "950202",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ยะรม",
+      "en": "Yarom",
+      "slug": "yarom"
+    },
+    "code": {
+      "dopa": "950202"
+    },
+    "parent": {
+      "id": "9502",
+      "level": 2,
+      "name": {
+        "th": "เบตง",
+        "en": "Betong",
+        "slug": "betong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      },
+      {
+        "id": "9502",
+        "level": 2,
+        "name": {
+          "th": "เบตง",
+          "en": "Betong",
+          "slug": "betong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "95110"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "5.771",
+      "lon": "101.203"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/yarom-950202/"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "431603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านต้อน",
+    "en": "Ban Ton",
+    "slug": "ban-ton"
+  },
+  "code": {
+    "dopa": "431603"
+  },
+  "parent": {
+    "id": "4316",
+    "level": 2,
+    "name": {
+      "th": "รัตนวาปี",
+      "en": "Rattanawapi",
+      "slug": "rattanawapi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4316",
+      "level": 2,
+      "name": {
+        "th": "รัตนวาปี",
+        "en": "Rattanawapi",
+        "slug": "rattanawapi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "43120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.258",
+    "lon": "103.236"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-ton-431603/"
+  }
+}

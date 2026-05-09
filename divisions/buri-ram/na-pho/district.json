@@ -1,0 +1,50 @@
+{
+  "id": "3113",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "นาโพธิ์",
+    "en": "Na Pho",
+    "slug": "na-pho"
+  },
+  "code": {
+    "dopa": "3113"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 65
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.673",
+    "lon": "102.934"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/na-pho-3113/"
+  }
+}

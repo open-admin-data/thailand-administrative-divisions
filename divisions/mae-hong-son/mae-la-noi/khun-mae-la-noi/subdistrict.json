@@ -1,0 +1,61 @@
+{
+  "id": "580508",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ขุนแม่ลาน้อย",
+    "en": "Khun Mae La Noi",
+    "slug": "khun-mae-la-noi"
+  },
+  "code": {
+    "dopa": "580508"
+  },
+  "parent": {
+    "id": "5805",
+    "level": 2,
+    "name": {
+      "th": "แม่ลาน้อย",
+      "en": "Mae La Noi",
+      "slug": "mae-la-noi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    },
+    {
+      "id": "5805",
+      "level": 2,
+      "name": {
+        "th": "แม่ลาน้อย",
+        "en": "Mae La Noi",
+        "slug": "mae-la-noi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "58120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.586",
+    "lon": "98.161"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khun-mae-la-noi-580508/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "540102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาจักร",
+    "en": "Na Chak",
+    "slug": "na-chak"
+  },
+  "code": {
+    "dopa": "540102"
+  },
+  "parent": {
+    "id": "5401",
+    "level": 2,
+    "name": {
+      "th": "เมืองแพร่",
+      "en": "Mueang Phrae",
+      "slug": "mueang-phrae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    },
+    {
+      "id": "5401",
+      "level": 2,
+      "name": {
+        "th": "เมืองแพร่",
+        "en": "Mueang Phrae",
+        "slug": "mueang-phrae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "54000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.113",
+    "lon": "100.164"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-chak-540102/"
+  }
+}

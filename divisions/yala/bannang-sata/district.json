@@ -1,0 +1,50 @@
+{
+  "id": "9503",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บันนังสตา",
+    "en": "Bannang Sata",
+    "slug": "bannang-sata"
+  },
+  "code": {
+    "dopa": "9503"
+  },
+  "parent": {
+    "id": "95",
+    "level": 1,
+    "name": {
+      "th": "ยะลา",
+      "en": "Yala",
+      "slug": "yala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 50
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.355",
+    "lon": "101.327"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bannang-sata-9503/"
+  }
+}

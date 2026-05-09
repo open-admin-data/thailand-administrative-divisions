@@ -1,0 +1,50 @@
+{
+  "id": "8103",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เกาะลันตา",
+    "en": "Ko Lanta",
+    "slug": "ko-lanta"
+  },
+  "code": {
+    "dopa": "8103"
+  },
+  "parent": {
+    "id": "81",
+    "level": 1,
+    "name": {
+      "th": "กระบี่",
+      "en": "Krabi",
+      "slug": "krabi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 36
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.576",
+    "lon": "99.142"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ko-lanta-8103/"
+  }
+}

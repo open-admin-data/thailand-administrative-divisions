@@ -1,0 +1,50 @@
+{
+  "id": "7603",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หนองหญ้าปล้อง",
+    "en": "Nong Ya Plong",
+    "slug": "nong-ya-plong"
+  },
+  "code": {
+    "dopa": "7603"
+  },
+  "parent": {
+    "id": "76",
+    "level": 1,
+    "name": {
+      "th": "เพชรบุรี",
+      "en": "Phetchaburi",
+      "slug": "phetchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 31
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.099",
+    "lon": "99.749"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-ya-plong-7603/"
+  }
+}

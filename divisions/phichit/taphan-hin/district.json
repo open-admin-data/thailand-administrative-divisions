@@ -1,0 +1,50 @@
+{
+  "id": "6604",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ตะพานหิน",
+    "en": "Taphan Hin",
+    "slug": "taphan-hin"
+  },
+  "code": {
+    "dopa": "6604"
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "th": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 107
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.222",
+    "lon": "100.427"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/taphan-hin-6604/"
+  }
+}

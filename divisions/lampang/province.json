@@ -1,0 +1,38 @@
+{
+  "id": "52",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ลำปาง",
+    "en": "Lampang",
+    "slug": "lampang"
+  },
+  "code": {
+    "dopa": "52",
+    "iso": "TH-52"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 13,
+    "subdistricts": 97,
+    "villages": 1025
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern"
+    }
+  },
+  "geo": {
+    "lat": "18.752",
+    "lon": "99.996"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/lampang-52/"
+  }
+}

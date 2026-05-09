@@ -1,0 +1,551 @@
+[
+  {
+    "id": "47100601",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านห้วยทราย",
+      "en": "Ban Huai Sai",
+      "slug": "47100601"
+    },
+    "code": {
+      "dopa": "47100601"
+    },
+    "parent": {
+      "id": "471006",
+      "level": 3,
+      "name": {
+        "th": "ห้วยหลัว",
+        "en": "Huai Lua",
+        "slug": "huai-lua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "47",
+        "level": 1,
+        "name": {
+          "th": "สกลนคร",
+          "en": "Sakon Nakhon",
+          "slug": "sakon-nakhon"
+        }
+      },
+      {
+        "id": "4710",
+        "level": 2,
+        "name": {
+          "th": "บ้านม่วง",
+          "en": "Ban Muang",
+          "slug": "ban-muang"
+        }
+      },
+      {
+        "id": "471006",
+        "level": 3,
+        "name": {
+          "th": "ห้วยหลัว",
+          "en": "Huai Lua",
+          "slug": "huai-lua"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "17.781245175380338",
+      "lon": "103.38686898350716"
+    },
+    "source": {}
+  },
+  {
+    "id": "47100602",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านห้วยหลัว",
+      "en": "Ban Huai Lua",
+      "slug": "47100602"
+    },
+    "code": {
+      "dopa": "47100602"
+    },
+    "parent": {
+      "id": "471006",
+      "level": 3,
+      "name": {
+        "th": "ห้วยหลัว",
+        "en": "Huai Lua",
+        "slug": "huai-lua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "47",
+        "level": 1,
+        "name": {
+          "th": "สกลนคร",
+          "en": "Sakon Nakhon",
+          "slug": "sakon-nakhon"
+        }
+      },
+      {
+        "id": "4710",
+        "level": 2,
+        "name": {
+          "th": "บ้านม่วง",
+          "en": "Ban Muang",
+          "slug": "ban-muang"
+        }
+      },
+      {
+        "id": "471006",
+        "level": 3,
+        "name": {
+          "th": "ห้วยหลัว",
+          "en": "Huai Lua",
+          "slug": "huai-lua"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "17.819068344932557",
+      "lon": "103.3910022675991"
+    },
+    "source": {}
+  },
+  {
+    "id": "47100603",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเหล่าผักใส่",
+      "en": "Ban Lao Phak Sai",
+      "slug": "47100603"
+    },
+    "code": {
+      "dopa": "47100603"
+    },
+    "parent": {
+      "id": "471006",
+      "level": 3,
+      "name": {
+        "th": "ห้วยหลัว",
+        "en": "Huai Lua",
+        "slug": "huai-lua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "47",
+        "level": 1,
+        "name": {
+          "th": "สกลนคร",
+          "en": "Sakon Nakhon",
+          "slug": "sakon-nakhon"
+        }
+      },
+      {
+        "id": "4710",
+        "level": 2,
+        "name": {
+          "th": "บ้านม่วง",
+          "en": "Ban Muang",
+          "slug": "ban-muang"
+        }
+      },
+      {
+        "id": "471006",
+        "level": 3,
+        "name": {
+          "th": "ห้วยหลัว",
+          "en": "Huai Lua",
+          "slug": "huai-lua"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "17.855319774343617",
+      "lon": "103.41361328959465"
+    },
+    "source": {}
+  },
+  {
+    "id": "47100604",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านพนาสวรรค์",
+      "en": "Ban Phana Sawan",
+      "slug": "47100604"
+    },
+    "code": {
+      "dopa": "47100604"
+    },
+    "parent": {
+      "id": "471006",
+      "level": 3,
+      "name": {
+        "th": "ห้วยหลัว",
+        "en": "Huai Lua",
+        "slug": "huai-lua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "47",
+        "level": 1,
+        "name": {
+          "th": "สกลนคร",
+          "en": "Sakon Nakhon",
+          "slug": "sakon-nakhon"
+        }
+      },
+      {
+        "id": "4710",
+        "level": 2,
+        "name": {
+          "th": "บ้านม่วง",
+          "en": "Ban Muang",
+          "slug": "ban-muang"
+        }
+      },
+      {
+        "id": "471006",
+        "level": 3,
+        "name": {
+          "th": "ห้วยหลัว",
+          "en": "Huai Lua",
+          "slug": "huai-lua"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "17.845661448140795",
+      "lon": "103.42300102114677"
+    },
+    "source": {}
+  },
+  {
+    "id": "47100605",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเทพพิทักษ์",
+      "en": "Ban Thep Phithak",
+      "slug": "47100605"
+    },
+    "code": {
+      "dopa": "47100605"
+    },
+    "parent": {
+      "id": "471006",
+      "level": 3,
+      "name": {
+        "th": "ห้วยหลัว",
+        "en": "Huai Lua",
+        "slug": "huai-lua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "47",
+        "level": 1,
+        "name": {
+          "th": "สกลนคร",
+          "en": "Sakon Nakhon",
+          "slug": "sakon-nakhon"
+        }
+      },
+      {
+        "id": "4710",
+        "level": 2,
+        "name": {
+          "th": "บ้านม่วง",
+          "en": "Ban Muang",
+          "slug": "ban-muang"
+        }
+      },
+      {
+        "id": "471006",
+        "level": 3,
+        "name": {
+          "th": "ห้วยหลัว",
+          "en": "Huai Lua",
+          "slug": "huai-lua"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "17.820236584290456",
+      "lon": "103.39713245630264"
+    },
+    "source": {}
+  },
+  {
+    "id": "47100606",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านประชาสรร",
+      "en": "Ban Prachasan",
+      "slug": "47100606"
+    },
+    "code": {
+      "dopa": "47100606"
+    },
+    "parent": {
+      "id": "471006",
+      "level": 3,
+      "name": {
+        "th": "ห้วยหลัว",
+        "en": "Huai Lua",
+        "slug": "huai-lua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "47",
+        "level": 1,
+        "name": {
+          "th": "สกลนคร",
+          "en": "Sakon Nakhon",
+          "slug": "sakon-nakhon"
+        }
+      },
+      {
+        "id": "4710",
+        "level": 2,
+        "name": {
+          "th": "บ้านม่วง",
+          "en": "Ban Muang",
+          "slug": "ban-muang"
+        }
+      },
+      {
+        "id": "471006",
+        "level": 3,
+        "name": {
+          "th": "ห้วยหลัว",
+          "en": "Huai Lua",
+          "slug": "huai-lua"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "17.817689429608915",
+      "lon": "103.39790090918541"
+    },
+    "source": {}
+  },
+  {
+    "id": "47100607",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านสามเขา",
+      "en": "Ban Sam Khao",
+      "slug": "47100607"
+    },
+    "code": {
+      "dopa": "47100607"
+    },
+    "parent": {
+      "id": "471006",
+      "level": 3,
+      "name": {
+        "th": "ห้วยหลัว",
+        "en": "Huai Lua",
+        "slug": "huai-lua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "47",
+        "level": 1,
+        "name": {
+          "th": "สกลนคร",
+          "en": "Sakon Nakhon",
+          "slug": "sakon-nakhon"
+        }
+      },
+      {
+        "id": "4710",
+        "level": 2,
+        "name": {
+          "th": "บ้านม่วง",
+          "en": "Ban Muang",
+          "slug": "ban-muang"
+        }
+      },
+      {
+        "id": "471006",
+        "level": 3,
+        "name": {
+          "th": "ห้วยหลัว",
+          "en": "Huai Lua",
+          "slug": "huai-lua"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "17.781661489657708",
+      "lon": "103.38610857725143"
+    },
+    "source": {}
+  },
+  {
+    "id": "47100608",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเหล่าเจริญ",
+      "en": "Ban Lao Charoen",
+      "slug": "47100608"
+    },
+    "code": {
+      "dopa": "47100608"
+    },
+    "parent": {
+      "id": "471006",
+      "level": 3,
+      "name": {
+        "th": "ห้วยหลัว",
+        "en": "Huai Lua",
+        "slug": "huai-lua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "47",
+        "level": 1,
+        "name": {
+          "th": "สกลนคร",
+          "en": "Sakon Nakhon",
+          "slug": "sakon-nakhon"
+        }
+      },
+      {
+        "id": "4710",
+        "level": 2,
+        "name": {
+          "th": "บ้านม่วง",
+          "en": "Ban Muang",
+          "slug": "ban-muang"
+        }
+      },
+      {
+        "id": "471006",
+        "level": 3,
+        "name": {
+          "th": "ห้วยหลัว",
+          "en": "Huai Lua",
+          "slug": "huai-lua"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "17.85680562414146",
+      "lon": "103.41638132929802"
+    },
+    "source": {}
+  },
+  {
+    "id": "47100609",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านไชยยานนท์",
+      "en": "Ban Chai Ya Non",
+      "slug": "47100609"
+    },
+    "code": {
+      "dopa": "47100609"
+    },
+    "parent": {
+      "id": "471006",
+      "level": 3,
+      "name": {
+        "th": "ห้วยหลัว",
+        "en": "Huai Lua",
+        "slug": "huai-lua"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "47",
+        "level": 1,
+        "name": {
+          "th": "สกลนคร",
+          "en": "Sakon Nakhon",
+          "slug": "sakon-nakhon"
+        }
+      },
+      {
+        "id": "4710",
+        "level": 2,
+        "name": {
+          "th": "บ้านม่วง",
+          "en": "Ban Muang",
+          "slug": "ban-muang"
+        }
+      },
+      {
+        "id": "471006",
+        "level": 3,
+        "name": {
+          "th": "ห้วยหลัว",
+          "en": "Huai Lua",
+          "slug": "huai-lua"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "17.765490926063727",
+      "lon": "103.41209515929222"
+    },
+    "source": {}
+  }
+]

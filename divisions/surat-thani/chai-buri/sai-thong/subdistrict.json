@@ -1,0 +1,61 @@
+{
+  "id": "841804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไทรทอง",
+    "en": "Sai Thong",
+    "slug": "sai-thong"
+  },
+  "code": {
+    "dopa": "841804"
+  },
+  "parent": {
+    "id": "8418",
+    "level": 2,
+    "name": {
+      "th": "ชัยบุรี",
+      "en": "Chai Buri",
+      "slug": "chai-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8418",
+      "level": 2,
+      "name": {
+        "th": "ชัยบุรี",
+        "en": "Chai Buri",
+        "slug": "chai-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "84350"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.389",
+    "lon": "99.073"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sai-thong-841804/"
+  }
+}

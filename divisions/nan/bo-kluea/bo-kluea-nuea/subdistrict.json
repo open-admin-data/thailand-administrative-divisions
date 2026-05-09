@@ -1,0 +1,61 @@
+{
+  "id": "551201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ่อเกลือเหนือ",
+    "en": "Bo Kluea Nuea",
+    "slug": "bo-kluea-nuea"
+  },
+  "code": {
+    "dopa": "551201"
+  },
+  "parent": {
+    "id": "5512",
+    "level": 2,
+    "name": {
+      "th": "บ่อเกลือ",
+      "en": "Bo Kluea",
+      "slug": "bo-kluea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5512",
+      "level": 2,
+      "name": {
+        "th": "บ่อเกลือ",
+        "en": "Bo Kluea",
+        "slug": "bo-kluea"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "55220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.297",
+    "lon": "101.176"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bo-kluea-nuea-551201/"
+  }
+}

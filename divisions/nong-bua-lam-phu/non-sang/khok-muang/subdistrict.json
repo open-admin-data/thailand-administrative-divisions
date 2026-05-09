@@ -1,0 +1,61 @@
+{
+  "id": "390308",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกม่วง",
+    "en": "Khok Muang",
+    "slug": "khok-muang"
+  },
+  "code": {
+    "dopa": "390308"
+  },
+  "parent": {
+    "id": "3903",
+    "level": 2,
+    "name": {
+      "th": "โนนสัง",
+      "en": "Non Sang",
+      "slug": "non-sang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3903",
+      "level": 2,
+      "name": {
+        "th": "โนนสัง",
+        "en": "Non Sang",
+        "slug": "non-sang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "39140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.892",
+    "lon": "102.400"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-muang-390308/"
+  }
+}

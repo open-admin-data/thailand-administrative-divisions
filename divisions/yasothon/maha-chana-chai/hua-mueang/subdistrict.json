@@ -1,0 +1,61 @@
+{
+  "id": "350602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวเมือง",
+    "en": "Hua Mueang",
+    "slug": "hua-mueang"
+  },
+  "code": {
+    "dopa": "350602"
+  },
+  "parent": {
+    "id": "3506",
+    "level": 2,
+    "name": {
+      "th": "มหาชนะชัย",
+      "en": "Maha Chana Chai",
+      "slug": "maha-chana-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3506",
+      "level": 2,
+      "name": {
+        "th": "มหาชนะชัย",
+        "en": "Maha Chana Chai",
+        "slug": "maha-chana-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "35130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.566",
+    "lon": "104.207"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-mueang-350602/"
+  }
+}

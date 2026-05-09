@@ -1,0 +1,61 @@
+{
+  "id": "521304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แจ้ซ้อน",
+    "en": "Chae Son",
+    "slug": "chae-son"
+  },
+  "code": {
+    "dopa": "521304"
+  },
+  "parent": {
+    "id": "5213",
+    "level": 2,
+    "name": {
+      "th": "เมืองปาน",
+      "en": "Mueang Pan",
+      "slug": "mueang-pan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5213",
+      "level": 2,
+      "name": {
+        "th": "เมืองปาน",
+        "en": "Mueang Pan",
+        "slug": "mueang-pan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "52240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.838",
+    "lon": "99.501"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chae-son-521304/"
+  }
+}

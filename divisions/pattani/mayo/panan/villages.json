@@ -1,0 +1,124 @@
+[
+  {
+    "id": "94051301",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านบาโง",
+      "en": "Ban Ba-ngo",
+      "slug": "94051301"
+    },
+    "code": {
+      "dopa": "94051301"
+    },
+    "parent": {
+      "id": "940513",
+      "level": 3,
+      "name": {
+        "th": "ปานัน",
+        "en": "Panan",
+        "slug": "panan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "th": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani"
+        }
+      },
+      {
+        "id": "9405",
+        "level": 2,
+        "name": {
+          "th": "มายอ",
+          "en": "Mayo",
+          "slug": "mayo"
+        }
+      },
+      {
+        "id": "940513",
+        "level": 3,
+        "name": {
+          "th": "ปานัน",
+          "en": "Panan",
+          "slug": "panan"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.717444151194788",
+      "lon": "101.33747890591621"
+    },
+    "source": {}
+  },
+  {
+    "id": "94051302",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านปานัน",
+      "en": "Ban Panan",
+      "slug": "94051302"
+    },
+    "code": {
+      "dopa": "94051302"
+    },
+    "parent": {
+      "id": "940513",
+      "level": 3,
+      "name": {
+        "th": "ปานัน",
+        "en": "Panan",
+        "slug": "panan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "th": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani"
+        }
+      },
+      {
+        "id": "9405",
+        "level": 2,
+        "name": {
+          "th": "มายอ",
+          "en": "Mayo",
+          "slug": "mayo"
+        }
+      },
+      {
+        "id": "940513",
+        "level": 3,
+        "name": {
+          "th": "ปานัน",
+          "en": "Panan",
+          "slug": "panan"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.72706875088845",
+      "lon": "100.5340875685215"
+    },
+    "source": {}
+  }
+]

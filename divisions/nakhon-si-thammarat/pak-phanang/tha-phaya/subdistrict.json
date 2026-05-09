@@ -1,0 +1,61 @@
+{
+  "id": "801216",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าพญา",
+    "en": "Tha Phaya",
+    "slug": "tha-phaya"
+  },
+  "code": {
+    "dopa": "801216"
+  },
+  "parent": {
+    "id": "8012",
+    "level": 2,
+    "name": {
+      "th": "ปากพนัง",
+      "en": "Pak Phanang",
+      "slug": "pak-phanang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8012",
+      "level": 2,
+      "name": {
+        "th": "ปากพนัง",
+        "en": "Pak Phanang",
+        "slug": "pak-phanang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "92140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.267",
+    "lon": "100.258"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-phaya-801216/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "460120",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาจารย์",
+    "en": "Na Chan",
+    "slug": "na-chan"
+  },
+  "code": {
+    "dopa": "460120"
+  },
+  "parent": {
+    "id": "4601",
+    "level": 2,
+    "name": {
+      "th": "เมืองกาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4601",
+      "level": 2,
+      "name": {
+        "th": "เมืองกาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "46000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.561",
+    "lon": "103.643"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-chan-460120/"
+  }
+}

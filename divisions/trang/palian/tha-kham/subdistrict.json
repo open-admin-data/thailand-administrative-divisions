@@ -1,0 +1,61 @@
+{
+  "id": "920401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าข้าม",
+    "en": "Tha Kham",
+    "slug": "tha-kham"
+  },
+  "code": {
+    "dopa": "920401"
+  },
+  "parent": {
+    "id": "9204",
+    "level": 2,
+    "name": {
+      "th": "ปะเหลียน",
+      "en": "Palian",
+      "slug": "palian"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9204",
+      "level": 2,
+      "name": {
+        "th": "ปะเหลียน",
+        "en": "Palian",
+        "slug": "palian"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "92120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.172",
+    "lon": "99.690"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-kham-920401/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "150301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางปลากด",
+    "en": "Bang Pla Kot",
+    "slug": "bang-pla-kot"
+  },
+  "code": {
+    "dopa": "150301"
+  },
+  "parent": {
+    "id": "1503",
+    "level": 2,
+    "name": {
+      "th": "ป่าโมก",
+      "en": "Pa Mok",
+      "slug": "pa-mok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1503",
+      "level": 2,
+      "name": {
+        "th": "ป่าโมก",
+        "en": "Pa Mok",
+        "slug": "pa-mok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 3
+  },
+  "zip_codes": [
+    "14130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.509",
+    "lon": "100.461"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-pla-kot-150301/"
+  }
+}

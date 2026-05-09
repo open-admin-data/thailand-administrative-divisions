@@ -1,0 +1,61 @@
+{
+  "id": "490602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่งขาม",
+    "en": "Pong Kham",
+    "slug": "pong-kham"
+  },
+  "code": {
+    "dopa": "490602"
+  },
+  "parent": {
+    "id": "4906",
+    "level": 2,
+    "name": {
+      "th": "ว่านใหญ่",
+      "en": "Wan Yai",
+      "slug": "wan-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4906",
+      "level": 2,
+      "name": {
+        "th": "ว่านใหญ่",
+        "en": "Wan Yai",
+        "slug": "wan-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "49150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.763",
+    "lon": "104.729"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pong-kham-490602/"
+  }
+}

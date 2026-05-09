@@ -1,0 +1,61 @@
+{
+  "id": "420406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชมเจริญ",
+    "en": "Chom Charoen",
+    "slug": "chom-charoen"
+  },
+  "code": {
+    "dopa": "420406"
+  },
+  "parent": {
+    "id": "4204",
+    "level": 2,
+    "name": {
+      "th": "ปากชม",
+      "en": "Pak Chom",
+      "slug": "pak-chom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4204",
+      "level": 2,
+      "name": {
+        "th": "ปากชม",
+        "en": "Pak Chom",
+        "slug": "pak-chom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "42150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.700",
+    "lon": "101.922"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chom-charoen-420406/"
+  }
+}

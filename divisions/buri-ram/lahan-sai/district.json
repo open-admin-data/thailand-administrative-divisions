@@ -1,0 +1,50 @@
+{
+  "id": "3106",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ละหานทราย",
+    "en": "Lahan Sai",
+    "slug": "lahan-sai"
+  },
+  "code": {
+    "dopa": "3106"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 84
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.393",
+    "lon": "102.787"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/lahan-sai-3106/"
+  }
+}

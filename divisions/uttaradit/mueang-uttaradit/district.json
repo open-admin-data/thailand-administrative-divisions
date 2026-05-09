@@ -1,0 +1,50 @@
+{
+  "id": "5301",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองอุตรดิตถ์",
+    "en": "Mueang Uttaradit",
+    "slug": "mueang-uttaradit"
+  },
+  "code": {
+    "dopa": "5301"
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "th": "อุตรดิตถ์",
+      "en": "Uttaradit",
+      "slug": "uttaradit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 17,
+    "villages": 186
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.613",
+    "lon": "100.079"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-uttaradit-5301/"
+  }
+}

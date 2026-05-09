@@ -1,0 +1,61 @@
+{
+  "id": "220905",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ช้างข้าม",
+    "en": "Chang Kham",
+    "slug": "chang-kham"
+  },
+  "code": {
+    "dopa": "220905"
+  },
+  "parent": {
+    "id": "2209",
+    "level": 2,
+    "name": {
+      "th": "นายายอาม",
+      "en": "Na Yai Am",
+      "slug": "na-yai-am"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    },
+    {
+      "id": "2209",
+      "level": 2,
+      "name": {
+        "th": "นายายอาม",
+        "en": "Na Yai Am",
+        "slug": "na-yai-am"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "22160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.707",
+    "lon": "101.819"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chang-kham-220905/"
+  }
+}

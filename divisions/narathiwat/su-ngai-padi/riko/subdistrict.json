@@ -1,0 +1,61 @@
+{
+  "id": "961105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ริโก๋",
+    "en": "Riko",
+    "slug": "riko"
+  },
+  "code": {
+    "dopa": "961105"
+  },
+  "parent": {
+    "id": "9611",
+    "level": 2,
+    "name": {
+      "th": "สุไหงปาดี",
+      "en": "Su-ngai Padi",
+      "slug": "su-ngai-padi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9611",
+      "level": 2,
+      "name": {
+        "th": "สุไหงปาดี",
+        "en": "Su-ngai Padi",
+        "slug": "su-ngai-padi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "96140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.057",
+    "lon": "101.845"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/riko-961105/"
+  }
+}

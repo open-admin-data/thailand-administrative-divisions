@@ -1,0 +1,61 @@
+{
+  "id": "130507",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หน้าไม้",
+    "en": "Na Mai",
+    "slug": "na-mai"
+  },
+  "code": {
+    "dopa": "130507"
+  },
+  "parent": {
+    "id": "1305",
+    "level": 2,
+    "name": {
+      "th": "ลาดหลุมแก้ว",
+      "en": "Lat Lum Kaeo",
+      "slug": "lat-lum-kaeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1305",
+      "level": 2,
+      "name": {
+        "th": "ลาดหลุมแก้ว",
+        "en": "Lat Lum Kaeo",
+        "slug": "lat-lum-kaeo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "12140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.034",
+    "lon": "100.359"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-mai-130507/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "810807",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปกาสัย",
+    "en": "Pakasai",
+    "slug": "pakasai"
+  },
+  "code": {
+    "dopa": "810807"
+  },
+  "parent": {
+    "id": "8108",
+    "level": 2,
+    "name": {
+      "th": "เหนือคลอง",
+      "en": "Nuea Khlong",
+      "slug": "nuea-khlong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8108",
+      "level": 2,
+      "name": {
+        "th": "เหนือคลอง",
+        "en": "Nuea Khlong",
+        "slug": "nuea-khlong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "81130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.015",
+    "lon": "99.062"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pakasai-810807/"
+  }
+}

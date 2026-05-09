@@ -1,0 +1,185 @@
+[
+  {
+    "id": "380801",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บุ่งคล้า",
+      "en": "Bung Khla",
+      "slug": "bung-khla"
+    },
+    "code": {
+      "dopa": "380801"
+    },
+    "parent": {
+      "id": "3808",
+      "level": 2,
+      "name": {
+        "th": "บุ่งคล้า",
+        "en": "Bung Khla",
+        "slug": "bung-khla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Buogkan",
+          "slug": "buogkan"
+        }
+      },
+      {
+        "id": "3808",
+        "level": 2,
+        "name": {
+          "th": "บุ่งคล้า",
+          "en": "Bung Khla",
+          "slug": "bung-khla"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "38000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.252",
+      "lon": "103.962"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bung-khla-380801/"
+    }
+  },
+  {
+    "id": "380803",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "โคกกว้าง",
+      "en": "Khok Kwang",
+      "slug": "khok-kwang"
+    },
+    "code": {
+      "dopa": "380803"
+    },
+    "parent": {
+      "id": "3808",
+      "level": 2,
+      "name": {
+        "th": "บุ่งคล้า",
+        "en": "Bung Khla",
+        "slug": "bung-khla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Buogkan",
+          "slug": "buogkan"
+        }
+      },
+      {
+        "id": "3808",
+        "level": 2,
+        "name": {
+          "th": "บุ่งคล้า",
+          "en": "Bung Khla",
+          "slug": "bung-khla"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "38000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.218",
+      "lon": "104.010"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khok-kwang-380803/"
+    }
+  },
+  {
+    "id": "380802",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองเดิ่น",
+      "en": "Nong Doen",
+      "slug": "nong-doen"
+    },
+    "code": {
+      "dopa": "380802"
+    },
+    "parent": {
+      "id": "3808",
+      "level": 2,
+      "name": {
+        "th": "บุ่งคล้า",
+        "en": "Bung Khla",
+        "slug": "bung-khla"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "th": "บึงกาฬ",
+          "en": "Buogkan",
+          "slug": "buogkan"
+        }
+      },
+      {
+        "id": "3808",
+        "level": 2,
+        "name": {
+          "th": "บุ่งคล้า",
+          "en": "Bung Khla",
+          "slug": "bung-khla"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "38000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "18.294",
+      "lon": "103.925"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-doen-380802/"
+    }
+  }
+]

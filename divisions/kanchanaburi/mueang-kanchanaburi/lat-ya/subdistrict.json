@@ -1,0 +1,61 @@
+{
+  "id": "710107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลาดหญ้า",
+    "en": "Lat Ya",
+    "slug": "lat-ya"
+  },
+  "code": {
+    "dopa": "710107"
+  },
+  "parent": {
+    "id": "7101",
+    "level": 2,
+    "name": {
+      "th": "เมืองกาญจนบุรี",
+      "en": "Mueang Kanchanaburi",
+      "slug": "mueang-kanchanaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7101",
+      "level": 2,
+      "name": {
+        "th": "เมืองกาญจนบุรี",
+        "en": "Mueang Kanchanaburi",
+        "slug": "mueang-kanchanaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "71190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.138",
+    "lon": "99.419"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lat-ya-710107/"
+  }
+}

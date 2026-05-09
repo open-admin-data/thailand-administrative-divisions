@@ -1,0 +1,61 @@
+{
+  "id": "910301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งนุ้ย",
+    "en": "Thung Nui",
+    "slug": "thung-nui"
+  },
+  "code": {
+    "dopa": "910301"
+  },
+  "parent": {
+    "id": "9103",
+    "level": 2,
+    "name": {
+      "th": "ควนกาหลง",
+      "en": "Khuan Kalong",
+      "slug": "khuan-kalong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    },
+    {
+      "id": "9103",
+      "level": 2,
+      "name": {
+        "th": "ควนกาหลง",
+        "en": "Khuan Kalong",
+        "slug": "khuan-kalong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "91130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.871",
+    "lon": "100.144"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-nui-910301/"
+  }
+}

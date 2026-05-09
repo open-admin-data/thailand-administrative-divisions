@@ -1,0 +1,61 @@
+{
+  "id": "471102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพนแพง",
+    "en": "Phon Phaeng",
+    "slug": "phon-phaeng"
+  },
+  "code": {
+    "dopa": "471102"
+  },
+  "parent": {
+    "id": "4711",
+    "level": 2,
+    "name": {
+      "th": "อากาศอำนวย",
+      "en": "Akat Amnuai",
+      "slug": "akat-amnuai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4711",
+      "level": 2,
+      "name": {
+        "th": "อากาศอำนวย",
+        "en": "Akat Amnuai",
+        "slug": "akat-amnuai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "47170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.538",
+    "lon": "103.956"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phon-phaeng-471102/"
+  }
+}

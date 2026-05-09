@@ -1,0 +1,61 @@
+{
+  "id": "421205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านเพิ่ม",
+    "en": "Ban Phoem",
+    "slug": "ban-phoem"
+  },
+  "code": {
+    "dopa": "421205"
+  },
+  "parent": {
+    "id": "4212",
+    "level": 2,
+    "name": {
+      "th": "ผาขาว",
+      "en": "Pha Khao",
+      "slug": "pha-khao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4212",
+      "level": 2,
+      "name": {
+        "th": "ผาขาว",
+        "en": "Pha Khao",
+        "slug": "pha-khao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "42240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.100",
+    "lon": "101.938"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-phoem-421205/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "94",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ปัตตานี",
+    "en": "Pattani",
+    "slug": "pattani"
+  },
+  "code": {
+    "dopa": "94",
+    "iso": "TH-94"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 12,
+    "subdistricts": 115,
+    "villages": 684
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคใต้",
+      "en": "Southern"
+    }
+  },
+  "geo": {
+    "lat": "6.870",
+    "lon": "101.256"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/pattani-94/"
+  }
+}

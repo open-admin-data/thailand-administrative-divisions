@@ -1,0 +1,50 @@
+{
+  "id": "4103",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หนองวัวซอ",
+    "en": "Nong Wua So",
+    "slug": "nong-wua-so"
+  },
+  "code": {
+    "dopa": "4103"
+  },
+  "parent": {
+    "id": "41",
+    "level": 1,
+    "name": {
+      "th": "อุดรธานี",
+      "en": "Udon Thani",
+      "slug": "udon-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 78
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.288",
+    "lon": "102.576"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-wua-so-4103/"
+  }
+}

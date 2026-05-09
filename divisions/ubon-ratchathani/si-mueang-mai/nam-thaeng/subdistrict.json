@@ -1,0 +1,61 @@
+{
+  "id": "340209",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนามแท่ง",
+    "en": "Nam Thaeng",
+    "slug": "nam-thaeng"
+  },
+  "code": {
+    "dopa": "340209"
+  },
+  "parent": {
+    "id": "3402",
+    "level": 2,
+    "name": {
+      "th": "ศรีเมืองใหม่",
+      "en": "Si Mueang Mai",
+      "slug": "si-mueang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "th": "ศรีเมืองใหม่",
+        "en": "Si Mueang Mai",
+        "slug": "si-mueang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "34250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.695",
+    "lon": "105.565"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-thaeng-340209/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "8011",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ทุ่งใหญ่",
+    "en": "Thung Yai",
+    "slug": "thung-yai"
+  },
+  "code": {
+    "dopa": "8011"
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "th": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 63
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.372",
+    "lon": "99.342"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thung-yai-8011/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "270306",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทัพราช",
+    "en": "Thap Rat",
+    "slug": "thap-rat"
+  },
+  "code": {
+    "dopa": "270306"
+  },
+  "parent": {
+    "id": "2703",
+    "level": 2,
+    "name": {
+      "th": "ตาพระยา",
+      "en": "Ta Phraya",
+      "slug": "ta-phraya"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    },
+    {
+      "id": "2703",
+      "level": 2,
+      "name": {
+        "th": "ตาพระยา",
+        "en": "Ta Phraya",
+        "slug": "ta-phraya"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "27180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.079",
+    "lon": "102.639"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thap-rat-270306/"
+  }
+}

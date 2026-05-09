@@ -1,0 +1,61 @@
+{
+  "id": "530504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สองห้อง",
+    "en": "Song Hong",
+    "slug": "song-hong"
+  },
+  "code": {
+    "dopa": "530504"
+  },
+  "parent": {
+    "id": "5305",
+    "level": 2,
+    "name": {
+      "th": "ฟากท่า",
+      "en": "Fak Tha",
+      "slug": "fak-tha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5305",
+      "level": 2,
+      "name": {
+        "th": "ฟากท่า",
+        "en": "Fak Tha",
+        "slug": "fak-tha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "53160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.930",
+    "lon": "100.757"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/song-hong-530504/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "8504",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "กระบุรี",
+    "en": "Kra Buri",
+    "slug": "kra-buri"
+  },
+  "code": {
+    "dopa": "8504"
+  },
+  "parent": {
+    "id": "85",
+    "level": 1,
+    "name": {
+      "th": "ระนอง",
+      "en": "Ranong",
+      "slug": "ranong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "85",
+      "level": 1,
+      "name": {
+        "th": "ระนอง",
+        "en": "Ranong",
+        "slug": "ranong"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 61
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.427",
+    "lon": "98.793"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kra-buri-8504/"
+  }
+}

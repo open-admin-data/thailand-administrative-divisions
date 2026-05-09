@@ -1,0 +1,61 @@
+{
+  "id": "380501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากคาด",
+    "en": "Pak Khat",
+    "slug": "pak-khat"
+  },
+  "code": {
+    "dopa": "380501"
+  },
+  "parent": {
+    "id": "3805",
+    "level": 2,
+    "name": {
+      "th": "ปากคาด",
+      "en": "Pak Khat",
+      "slug": "pak-khat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3805",
+      "level": 2,
+      "name": {
+        "th": "ปากคาด",
+        "en": "Pak Khat",
+        "slug": "pak-khat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "38190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.343",
+    "lon": "103.316"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-khat-380501/"
+  }
+}

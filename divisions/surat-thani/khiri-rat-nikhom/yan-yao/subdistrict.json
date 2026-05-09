@@ -1,0 +1,61 @@
+{
+  "id": "840808",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ย่านยาว",
+    "en": "Yan Yao",
+    "slug": "yan-yao"
+  },
+  "code": {
+    "dopa": "840808"
+  },
+  "parent": {
+    "id": "8408",
+    "level": 2,
+    "name": {
+      "th": "คีรีรัฐนิคม",
+      "en": "Khiri Rat Nikhom",
+      "slug": "khiri-rat-nikhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8408",
+      "level": 2,
+      "name": {
+        "th": "คีรีรัฐนิคม",
+        "en": "Khiri Rat Nikhom",
+        "slug": "khiri-rat-nikhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "84180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.992",
+    "lon": "98.977"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yan-yao-840808/"
+  }
+}

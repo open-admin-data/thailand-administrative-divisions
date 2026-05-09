@@ -1,0 +1,61 @@
+{
+  "id": "303204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองงูเหลือม",
+    "en": "Nong Ngu Lueam",
+    "slug": "nong-ngu-lueam"
+  },
+  "code": {
+    "dopa": "303204"
+  },
+  "parent": {
+    "id": "3032",
+    "level": 2,
+    "name": {
+      "th": "เฉลิมพระเกียรติ",
+      "en": "Chaloem Phra Kiat",
+      "slug": "chaloem-phra-kiat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3032",
+      "level": 2,
+      "name": {
+        "th": "เฉลิมพระเกียรติ",
+        "en": "Chaloem Phra Kiat",
+        "slug": "chaloem-phra-kiat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "30000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.053",
+    "lon": "102.234"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-ngu-lueam-303204/"
+  }
+}

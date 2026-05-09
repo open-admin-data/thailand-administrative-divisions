@@ -1,0 +1,50 @@
+{
+  "id": "7004",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ดำเนินสะดวก",
+    "en": "Damnoen Saduak",
+    "slug": "damnoen-saduak"
+  },
+  "code": {
+    "dopa": "7004"
+  },
+  "parent": {
+    "id": "70",
+    "level": 1,
+    "name": {
+      "th": "ราชบุรี",
+      "en": "Ratchaburi",
+      "slug": "ratchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 105
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.517",
+    "lon": "99.949"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/damnoen-saduak-7004/"
+  }
+}

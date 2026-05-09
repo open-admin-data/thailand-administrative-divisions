@@ -1,0 +1,61 @@
+{
+  "id": "350902",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำคำ",
+    "en": "Nam Kham",
+    "slug": "nam-kham"
+  },
+  "code": {
+    "dopa": "350902"
+  },
+  "parent": {
+    "id": "3509",
+    "level": 2,
+    "name": {
+      "th": "ไทยเจริญ",
+      "en": "Thai Charoen",
+      "slug": "thai-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3509",
+      "level": 2,
+      "name": {
+        "th": "ไทยเจริญ",
+        "en": "Thai Charoen",
+        "slug": "thai-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "35120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.015",
+    "lon": "104.486"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-kham-350902/"
+  }
+}

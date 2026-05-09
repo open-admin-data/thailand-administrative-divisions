@@ -1,0 +1,50 @@
+{
+  "id": "4807",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "นาแก",
+    "en": "Na Kae",
+    "slug": "na-kae"
+  },
+  "code": {
+    "dopa": "4807"
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "th": "นครพนม",
+      "en": "Nakhon Phanom",
+      "slug": "nakhon-phanom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 143
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.918",
+    "lon": "104.575"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/na-kae-4807/"
+  }
+}

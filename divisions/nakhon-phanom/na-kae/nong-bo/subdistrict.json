@@ -1,0 +1,61 @@
+{
+  "id": "480708",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองบ่อ",
+    "en": "Nong Bo",
+    "slug": "nong-bo"
+  },
+  "code": {
+    "dopa": "480708"
+  },
+  "parent": {
+    "id": "4807",
+    "level": 2,
+    "name": {
+      "th": "นาแก",
+      "en": "Na Kae",
+      "slug": "na-kae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4807",
+      "level": 2,
+      "name": {
+        "th": "นาแก",
+        "en": "Na Kae",
+        "slug": "na-kae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "48130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.932",
+    "lon": "104.322"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-bo-480708/"
+  }
+}

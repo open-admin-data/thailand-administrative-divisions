@@ -1,0 +1,61 @@
+{
+  "id": "801901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านควนมุด",
+    "en": "Ban Khuan Mut",
+    "slug": "ban-khuan-mut"
+  },
+  "code": {
+    "dopa": "801901"
+  },
+  "parent": {
+    "id": "8019",
+    "level": 2,
+    "name": {
+      "th": "จุฬาภรณ์",
+      "en": "Chulabhorn",
+      "slug": "chulabhorn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8019",
+      "level": 2,
+      "name": {
+        "th": "จุฬาภรณ์",
+        "en": "Chulabhorn",
+        "slug": "chulabhorn"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 2
+  },
+  "zip_codes": [
+    "80180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.028",
+    "lon": "99.924"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-khuan-mut-801901/"
+  }
+}

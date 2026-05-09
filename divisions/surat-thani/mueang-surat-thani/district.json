@@ -1,0 +1,50 @@
+{
+  "id": "8401",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองสุราษฎร์ธานี",
+    "en": "Mueang Surat Thani",
+    "slug": "mueang-surat-thani"
+  },
+  "code": {
+    "dopa": "8401"
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "th": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 129
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.137",
+    "lon": "99.320"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-surat-thani-8401/"
+  }
+}

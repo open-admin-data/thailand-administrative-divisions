@@ -1,0 +1,61 @@
+{
+  "id": "330603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปราสาทเยอ",
+    "en": "Prasat Yoe",
+    "slug": "prasat-yoe"
+  },
+  "code": {
+    "dopa": "330603"
+  },
+  "parent": {
+    "id": "3306",
+    "level": 2,
+    "name": {
+      "th": "ไพรบึง",
+      "en": "Phrai Bueng",
+      "slug": "phrai-bueng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3306",
+      "level": 2,
+      "name": {
+        "th": "ไพรบึง",
+        "en": "Phrai Bueng",
+        "slug": "phrai-bueng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "33180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.811",
+    "lon": "104.364"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/prasat-yoe-330603/"
+  }
+}

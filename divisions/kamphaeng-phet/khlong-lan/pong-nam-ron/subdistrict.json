@@ -1,0 +1,61 @@
+{
+  "id": "620302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โป่งน้ำร้อน",
+    "en": "Pong Nam Ron",
+    "slug": "pong-nam-ron"
+  },
+  "code": {
+    "dopa": "620302"
+  },
+  "parent": {
+    "id": "6203",
+    "level": 2,
+    "name": {
+      "th": "คลองลาน",
+      "en": "Khlong Lan",
+      "slug": "khlong-lan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6203",
+      "level": 2,
+      "name": {
+        "th": "คลองลาน",
+        "en": "Khlong Lan",
+        "slug": "khlong-lan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "62180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.389",
+    "lon": "99.258"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pong-nam-ron-620302/"
+  }
+}

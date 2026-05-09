@@ -1,0 +1,61 @@
+{
+  "id": "431602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาทับไฮ",
+    "en": "Na Thap Hai",
+    "slug": "na-thap-hai"
+  },
+  "code": {
+    "dopa": "431602"
+  },
+  "parent": {
+    "id": "4316",
+    "level": 2,
+    "name": {
+      "th": "รัตนวาปี",
+      "en": "Rattanawapi",
+      "slug": "rattanawapi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4316",
+      "level": 2,
+      "name": {
+        "th": "รัตนวาปี",
+        "en": "Rattanawapi",
+        "slug": "rattanawapi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "43120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.177",
+    "lon": "103.306"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-thap-hai-431602/"
+  }
+}

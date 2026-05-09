@@ -1,0 +1,38 @@
+{
+  "id": "67",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "เพชรบูรณ์",
+    "en": "Phetchabun",
+    "slug": "phetchabun"
+  },
+  "code": {
+    "dopa": "67",
+    "iso": "TH-67"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 11,
+    "subdistricts": 116,
+    "villages": 1456
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคกลาง",
+      "en": "Central"
+    }
+  },
+  "geo": {
+    "lat": "16.839",
+    "lon": "101.239"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/phetchabun-67/"
+  }
+}

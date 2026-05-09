@@ -1,0 +1,50 @@
+{
+  "id": "7203",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ด่านช้าง",
+    "en": "Dan Chang",
+    "slug": "dan-chang"
+  },
+  "code": {
+    "dopa": "7203"
+  },
+  "parent": {
+    "id": "72",
+    "level": 1,
+    "name": {
+      "th": "สุพรรณบุรี",
+      "en": "Suphan Buri",
+      "slug": "suphan-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 93
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.937",
+    "lon": "99.666"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/dan-chang-7203/"
+  }
+}

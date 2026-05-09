@@ -1,0 +1,246 @@
+[
+  {
+    "id": "370402",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "จานลาน",
+      "en": "Chan Lan",
+      "slug": "chan-lan"
+    },
+    "code": {
+      "dopa": "370402"
+    },
+    "parent": {
+      "id": "3704",
+      "level": 2,
+      "name": {
+        "th": "พนา",
+        "en": "Phana",
+        "slug": "phana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "th": "อำนาจเจริญ",
+          "en": "Amnat Charoen",
+          "slug": "amnat-charoen"
+        }
+      },
+      {
+        "id": "3704",
+        "level": 2,
+        "name": {
+          "th": "พนา",
+          "en": "Phana",
+          "slug": "phana"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 18
+    },
+    "zip_codes": [
+      "37180"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.619",
+      "lon": "104.901"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/chan-lan-370402/"
+    }
+  },
+  {
+    "id": "370403",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ไม้กลอน",
+      "en": "Mai Klon",
+      "slug": "mai-klon"
+    },
+    "code": {
+      "dopa": "370403"
+    },
+    "parent": {
+      "id": "3704",
+      "level": 2,
+      "name": {
+        "th": "พนา",
+        "en": "Phana",
+        "slug": "phana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "th": "อำนาจเจริญ",
+          "en": "Amnat Charoen",
+          "slug": "amnat-charoen"
+        }
+      },
+      {
+        "id": "3704",
+        "level": 2,
+        "name": {
+          "th": "พนา",
+          "en": "Phana",
+          "slug": "phana"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 16
+    },
+    "zip_codes": [
+      "37180"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.731",
+      "lon": "104.818"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/mai-klon-370403/"
+    }
+  },
+  {
+    "id": "370401",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "พนา",
+      "en": "Phana",
+      "slug": "phana"
+    },
+    "code": {
+      "dopa": "370401"
+    },
+    "parent": {
+      "id": "3704",
+      "level": 2,
+      "name": {
+        "th": "พนา",
+        "en": "Phana",
+        "slug": "phana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "th": "อำนาจเจริญ",
+          "en": "Amnat Charoen",
+          "slug": "amnat-charoen"
+        }
+      },
+      {
+        "id": "3704",
+        "level": 2,
+        "name": {
+          "th": "พนา",
+          "en": "Phana",
+          "slug": "phana"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "37180"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.678",
+      "lon": "104.882"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/phana-370401/"
+    }
+  },
+  {
+    "id": "370404",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "พระเหลา",
+      "en": "Phra Lao",
+      "slug": "phra-lao"
+    },
+    "code": {
+      "dopa": "370404"
+    },
+    "parent": {
+      "id": "3704",
+      "level": 2,
+      "name": {
+        "th": "พนา",
+        "en": "Phana",
+        "slug": "phana"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "th": "อำนาจเจริญ",
+          "en": "Amnat Charoen",
+          "slug": "amnat-charoen"
+        }
+      },
+      {
+        "id": "3704",
+        "level": 2,
+        "name": {
+          "th": "พนา",
+          "en": "Phana",
+          "slug": "phana"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "37180"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.737",
+      "lon": "104.882"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/phra-lao-370404/"
+    }
+  }
+]

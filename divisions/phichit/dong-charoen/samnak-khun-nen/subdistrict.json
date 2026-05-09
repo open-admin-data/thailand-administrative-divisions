@@ -1,0 +1,61 @@
+{
+  "id": "661105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สำนักขุนเณร",
+    "en": "Samnak Khun Nen",
+    "slug": "samnak-khun-nen"
+  },
+  "code": {
+    "dopa": "661105"
+  },
+  "parent": {
+    "id": "6611",
+    "level": 2,
+    "name": {
+      "th": "ดงเจริญ",
+      "en": "Dong Charoen",
+      "slug": "dong-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6611",
+      "level": 2,
+      "name": {
+        "th": "ดงเจริญ",
+        "en": "Dong Charoen",
+        "slug": "dong-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "66210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.042",
+    "lon": "100.568"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samnak-khun-nen-661105/"
+  }
+}

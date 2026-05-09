@@ -1,0 +1,61 @@
+{
+  "id": "270302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทัพเสด็จ",
+    "en": "Thap Sadet",
+    "slug": "thap-sadet"
+  },
+  "code": {
+    "dopa": "270302"
+  },
+  "parent": {
+    "id": "2703",
+    "level": 2,
+    "name": {
+      "th": "ตาพระยา",
+      "en": "Ta Phraya",
+      "slug": "ta-phraya"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    },
+    {
+      "id": "2703",
+      "level": 2,
+      "name": {
+        "th": "ตาพระยา",
+        "en": "Ta Phraya",
+        "slug": "ta-phraya"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "27180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.047",
+    "lon": "102.813"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thap-sadet-270302/"
+  }
+}

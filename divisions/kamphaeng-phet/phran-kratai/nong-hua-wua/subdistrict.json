@@ -1,0 +1,61 @@
+{
+  "id": "620602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองหัววัว",
+    "en": "Nong Hua Wua",
+    "slug": "nong-hua-wua"
+  },
+  "code": {
+    "dopa": "620602"
+  },
+  "parent": {
+    "id": "6206",
+    "level": 2,
+    "name": {
+      "th": "พรานกระต่าย",
+      "en": "Phran Kratai",
+      "slug": "phran-kratai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6206",
+      "level": 2,
+      "name": {
+        "th": "พรานกระต่าย",
+        "en": "Phran Kratai",
+        "slug": "phran-kratai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "62110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.748",
+    "lon": "99.579"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-hua-wua-620602/"
+  }
+}

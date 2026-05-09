@@ -1,0 +1,61 @@
+{
+  "id": "310205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หินเหล็กไฟ",
+    "en": "Hin Lek Fai",
+    "slug": "hin-lek-fai"
+  },
+  "code": {
+    "dopa": "310205"
+  },
+  "parent": {
+    "id": "3102",
+    "level": 2,
+    "name": {
+      "th": "คูเมือง",
+      "en": "Khu Mueang",
+      "slug": "khu-mueang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3102",
+      "level": 2,
+      "name": {
+        "th": "คูเมือง",
+        "en": "Khu Mueang",
+        "slug": "khu-mueang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "31190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.157",
+    "lon": "103.064"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hin-lek-fai-310205/"
+  }
+}

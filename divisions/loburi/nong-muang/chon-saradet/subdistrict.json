@@ -1,0 +1,61 @@
+{
+  "id": "161106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชอนสารเดช",
+    "en": "Chon Saradet",
+    "slug": "chon-saradet"
+  },
+  "code": {
+    "dopa": "161106"
+  },
+  "parent": {
+    "id": "1611",
+    "level": 2,
+    "name": {
+      "th": "หนองม่วง",
+      "en": "Nong Muang",
+      "slug": "nong-muang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1611",
+      "level": 2,
+      "name": {
+        "th": "หนองม่วง",
+        "en": "Nong Muang",
+        "slug": "nong-muang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "15170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.195",
+    "lon": "100.709"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chon-saradet-161106/"
+  }
+}

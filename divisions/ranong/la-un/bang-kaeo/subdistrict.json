@@ -1,0 +1,61 @@
+{
+  "id": "850205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางแก้ว",
+    "en": "Bang Kaeo",
+    "slug": "bang-kaeo"
+  },
+  "code": {
+    "dopa": "850205"
+  },
+  "parent": {
+    "id": "8502",
+    "level": 2,
+    "name": {
+      "th": "ละอุ่น",
+      "en": "La-un",
+      "slug": "la-un"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "85",
+      "level": 1,
+      "name": {
+        "th": "ระนอง",
+        "en": "Ranong",
+        "slug": "ranong"
+      }
+    },
+    {
+      "id": "8502",
+      "level": 2,
+      "name": {
+        "th": "ละอุ่น",
+        "en": "La-un",
+        "slug": "la-un"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "85130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.179",
+    "lon": "98.780"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-kaeo-850205/"
+  }
+}

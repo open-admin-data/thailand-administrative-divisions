@@ -1,0 +1,61 @@
+{
+  "id": "640107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านหลุม",
+    "en": "Ban Lum",
+    "slug": "ban-lum"
+  },
+  "code": {
+    "dopa": "640107"
+  },
+  "parent": {
+    "id": "6401",
+    "level": 2,
+    "name": {
+      "th": "เมืองสุโขทัย",
+      "en": "Mueang Sukhothai",
+      "slug": "mueang-sukhothai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6401",
+      "level": 2,
+      "name": {
+        "th": "เมืองสุโขทัย",
+        "en": "Mueang Sukhothai",
+        "slug": "mueang-sukhothai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "64000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.983",
+    "lon": "99.870"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-lum-640107/"
+  }
+}

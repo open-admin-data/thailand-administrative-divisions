@@ -1,0 +1,50 @@
+{
+  "id": "1023",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต หนองแขม",
+    "en": "Nong Khaem",
+    "slug": "nong-khaem"
+  },
+  "code": {
+    "dopa": "1023"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 2,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.714",
+    "lon": "100.351"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-khaem-1023/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "141305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เทพมงคล",
+    "en": "Thep Mongkhon",
+    "slug": "thep-mongkhon"
+  },
+  "code": {
+    "dopa": "141305"
+  },
+  "parent": {
+    "id": "1413",
+    "level": 2,
+    "name": {
+      "th": "บางซ้าย",
+      "en": "Bang Sai",
+      "slug": "bang-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1413",
+      "level": 2,
+      "name": {
+        "th": "บางซ้าย",
+        "en": "Bang Sai",
+        "slug": "bang-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "13270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.236",
+    "lon": "100.258"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thep-mongkhon-141305/"
+  }
+}

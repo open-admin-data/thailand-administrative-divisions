@@ -1,0 +1,61 @@
+{
+  "id": "800122",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าเรือ",
+    "en": "Tha Ruea",
+    "slug": "tha-ruea"
+  },
+  "code": {
+    "dopa": "800122"
+  },
+  "parent": {
+    "id": "8001",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครศรีธรรมราช",
+      "en": "Mueang Nakhon Si Thammarat",
+      "slug": "mueang-nakhon-si-thammarat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8001",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครศรีธรรมราช",
+        "en": "Mueang Nakhon Si Thammarat",
+        "slug": "mueang-nakhon-si-thammarat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "80290"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.321",
+    "lon": "100.013"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-ruea-800122/"
+  }
+}

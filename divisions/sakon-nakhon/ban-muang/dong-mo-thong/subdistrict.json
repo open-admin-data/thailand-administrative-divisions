@@ -1,0 +1,61 @@
+{
+  "id": "471003",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงหม้อทอง",
+    "en": "Dong Mo Thong",
+    "slug": "dong-mo-thong"
+  },
+  "code": {
+    "dopa": "471003"
+  },
+  "parent": {
+    "id": "4710",
+    "level": 2,
+    "name": {
+      "th": "บ้านม่วง",
+      "en": "Ban Muang",
+      "slug": "ban-muang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4710",
+      "level": 2,
+      "name": {
+        "th": "บ้านม่วง",
+        "en": "Ban Muang",
+        "slug": "ban-muang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "47140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.995",
+    "lon": "103.528"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-mo-thong-471003/"
+  }
+}

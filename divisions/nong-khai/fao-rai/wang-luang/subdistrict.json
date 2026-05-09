@@ -1,0 +1,61 @@
+{
+  "id": "431504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังหลวง",
+    "en": "Wang Luang",
+    "slug": "wang-luang"
+  },
+  "code": {
+    "dopa": "431504"
+  },
+  "parent": {
+    "id": "4315",
+    "level": 2,
+    "name": {
+      "th": "เฝ้าไร่",
+      "en": "Fao Rai",
+      "slug": "fao-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4315",
+      "level": 2,
+      "name": {
+        "th": "เฝ้าไร่",
+        "en": "Fao Rai",
+        "slug": "fao-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "43120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.086",
+    "lon": "103.256"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-luang-431504/"
+  }
+}

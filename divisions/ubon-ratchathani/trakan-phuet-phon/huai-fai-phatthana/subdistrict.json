@@ -1,0 +1,61 @@
+{
+  "id": "341120",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยฝ้ายพัฒนา",
+    "en": "Huai Fai Phatthana",
+    "slug": "huai-fai-phatthana"
+  },
+  "code": {
+    "dopa": "341120"
+  },
+  "parent": {
+    "id": "3411",
+    "level": 2,
+    "name": {
+      "th": "ตระการพืชผล",
+      "en": "Trakan Phuet Phon",
+      "slug": "trakan-phuet-phon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3411",
+      "level": 2,
+      "name": {
+        "th": "ตระการพืชผล",
+        "en": "Trakan Phuet Phon",
+        "slug": "trakan-phuet-phon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "34130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.522",
+    "lon": "105.168"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-fai-phatthana-341120/"
+  }
+}

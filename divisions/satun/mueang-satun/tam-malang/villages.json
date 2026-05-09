@@ -1,0 +1,185 @@
+[
+  {
+    "id": "91010901",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกาลันบาตู",
+      "en": "Ban Kalan Batu",
+      "slug": "91010901"
+    },
+    "code": {
+      "dopa": "91010901"
+    },
+    "parent": {
+      "id": "910109",
+      "level": 3,
+      "name": {
+        "th": "ตำมะลัง",
+        "en": "Tam Malang",
+        "slug": "tam-malang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสตูล",
+          "en": "Mueang Satun",
+          "slug": "mueang-satun"
+        }
+      },
+      {
+        "id": "910109",
+        "level": 3,
+        "name": {
+          "th": "ตำมะลัง",
+          "en": "Tam Malang",
+          "slug": "tam-malang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.567405528939746",
+      "lon": "100.04050210118294"
+    },
+    "source": {}
+  },
+  {
+    "id": "91010902",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านตำมะลังเหนือ",
+      "en": "Ban Tam Malang Nuea",
+      "slug": "91010902"
+    },
+    "code": {
+      "dopa": "91010902"
+    },
+    "parent": {
+      "id": "910109",
+      "level": 3,
+      "name": {
+        "th": "ตำมะลัง",
+        "en": "Tam Malang",
+        "slug": "tam-malang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสตูล",
+          "en": "Mueang Satun",
+          "slug": "mueang-satun"
+        }
+      },
+      {
+        "id": "910109",
+        "level": 3,
+        "name": {
+          "th": "ตำมะลัง",
+          "en": "Tam Malang",
+          "slug": "tam-malang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.539498304539155",
+      "lon": "100.05120679736137"
+    },
+    "source": {}
+  },
+  {
+    "id": "91010903",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านตำมะลังใต้",
+      "en": "Ban Tam Malang Tai",
+      "slug": "91010903"
+    },
+    "code": {
+      "dopa": "91010903"
+    },
+    "parent": {
+      "id": "910109",
+      "level": 3,
+      "name": {
+        "th": "ตำมะลัง",
+        "en": "Tam Malang",
+        "slug": "tam-malang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสตูล",
+          "en": "Mueang Satun",
+          "slug": "mueang-satun"
+        }
+      },
+      {
+        "id": "910109",
+        "level": 3,
+        "name": {
+          "th": "ตำมะลัง",
+          "en": "Tam Malang",
+          "slug": "tam-malang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "6.535597084429753",
+      "lon": "100.05851045250893"
+    },
+    "source": {}
+  }
+]

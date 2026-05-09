@@ -1,0 +1,50 @@
+{
+  "id": "5307",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พิชัย",
+    "en": "Phichai",
+    "slug": "phichai"
+  },
+  "code": {
+    "dopa": "5307"
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "th": "อุตรดิตถ์",
+      "en": "Uttaradit",
+      "slug": "uttaradit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 98
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.301",
+    "lon": "100.107"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phichai-5307/"
+  }
+}

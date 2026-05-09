@@ -1,0 +1,50 @@
+{
+  "id": "5708",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เชียงแสน",
+    "en": "Chiang Saen",
+    "slug": "chiang-saen"
+  },
+  "code": {
+    "dopa": "5708"
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 71
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.280",
+    "lon": "100.003"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chiang-saen-5708/"
+  }
+}

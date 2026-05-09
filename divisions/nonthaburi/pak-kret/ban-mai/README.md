@@ -1,0 +1,42 @@
+# บ้านใหม่ (Ban Mai)
+
+[Home](../../../../) > [Nonthaburi](../../) > [Pak Kret](../) > **Ban Mai**
+
+บ้านใหม่ (Ban Mai) is a subdistrict in ปากเกร็ด (Pak Kret), นนทบุรี (Nonthaburi), Thailand.
+
+## Overview / ภาพรวม
+
+| รายการ / Item | ข้อมูล / Details |
+|---------------|-----------------|
+| หมู่บ้าน / Villages | 11 |
+| รหัสไปรษณีย์ / Zip Code | 11120 |
+| DOPA Code | 120603 |
+| พิกัด / Coordinates | 13.930, 100.546 |
+| อำเภอ / District | ปากเกร็ด (Pak Kret) |
+| จังหวัด / Province | นนทบุรี (Nonthaburi) |
+
+## หมู่บ้าน / Villages
+
+| หมู่ที่ | ชื่อหมู่บ้าน (Thai) | Village Name (English) | DOPA Code |
+|---------|---------------------|------------------------|-----------|
+| 1 | บ้านใหม่สมานฉันท์1 |  | 12060350 |
+| 2 | บ้านใหม่สมานฉันท์2 |  | 12060351 |
+| 3 | บ้านใหม่สมานฉันท์3 |  | 12060352 |
+| 4 | บ้านใหม่สมานฉันท์4 |  | 12060353 |
+| 5 | บ้านใหม่สมานฉันท์5 |  | 12060354 |
+| 6 | บ้านใหม่สมานฉันท์6 |  | 12060355 |
+| 7 | บ้านใหม่สมานฉันท์7 |  | 12060356 |
+| 8 | บ้านใหม่สมานฉันท์8 |  | 12060357 |
+| 9 | ดวงแก้ว |  | 12060358 |
+| 10 | มิตรประชา |  | 12060359 |
+| 11 | โรงเรียนทหารขนส่ง |  | 12060360 |
+
+## Data Files / ไฟล์ข้อมูล
+
+- [subdistrict.json](subdistrict.json) — Subdistrict metadata
+- [villages.json](villages.json) — All villages in Ban Mai (JSON)
+- [villages.csv](villages.csv) — CSV format
+
+---
+
+← Back to [ปากเกร็ด (Pak Kret)](../)

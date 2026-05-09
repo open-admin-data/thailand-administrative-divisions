@@ -1,0 +1,61 @@
+{
+  "id": "140804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลาดน้ำเค็ม",
+    "en": "Lat Nam Khem",
+    "slug": "lat-nam-khem"
+  },
+  "code": {
+    "dopa": "140804"
+  },
+  "parent": {
+    "id": "1408",
+    "level": 2,
+    "name": {
+      "th": "ผักไห่",
+      "en": "Phak Hai",
+      "slug": "phak-hai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1408",
+      "level": 2,
+      "name": {
+        "th": "ผักไห่",
+        "en": "Phak Hai",
+        "slug": "phak-hai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "13120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.482",
+    "lon": "100.393"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lat-nam-khem-140804/"
+  }
+}

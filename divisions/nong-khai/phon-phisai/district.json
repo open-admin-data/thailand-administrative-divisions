@@ -1,0 +1,50 @@
+{
+  "id": "4305",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โพนพิสัย",
+    "en": "Phon Phisai",
+    "slug": "phon-phisai"
+  },
+  "code": {
+    "dopa": "4305"
+  },
+  "parent": {
+    "id": "43",
+    "level": 1,
+    "name": {
+      "th": "หนองคาย",
+      "en": "Nong Khai",
+      "slug": "nong-khai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 159
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.899",
+    "lon": "103.010"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phon-phisai-4305/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "510603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่แรง",
+    "en": "Mae Raeng",
+    "slug": "mae-raeng"
+  },
+  "code": {
+    "dopa": "510603"
+  },
+  "parent": {
+    "id": "5106",
+    "level": 2,
+    "name": {
+      "th": "ป่าซาง",
+      "en": "Pa Sang",
+      "slug": "pa-sang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5106",
+      "level": 2,
+      "name": {
+        "th": "ป่าซาง",
+        "en": "Pa Sang",
+        "slug": "pa-sang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "51120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.498",
+    "lon": "98.910"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-raeng-510603/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "560805",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สบบง",
+    "en": "Sop Bong",
+    "slug": "sop-bong"
+  },
+  "code": {
+    "dopa": "560805"
+  },
+  "parent": {
+    "id": "5608",
+    "level": 2,
+    "name": {
+      "th": "ภูซาง",
+      "en": "Phu Sang",
+      "slug": "phu-sang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5608",
+      "level": 2,
+      "name": {
+        "th": "ภูซาง",
+        "en": "Phu Sang",
+        "slug": "phu-sang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "56110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.570",
+    "lon": "100.317"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sop-bong-560805/"
+  }
+}

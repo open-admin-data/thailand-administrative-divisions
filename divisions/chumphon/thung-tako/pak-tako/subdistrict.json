@@ -1,0 +1,61 @@
+{
+  "id": "860801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากตะโก",
+    "en": "Pak Tako",
+    "slug": "pak-tako"
+  },
+  "code": {
+    "dopa": "860801"
+  },
+  "parent": {
+    "id": "8608",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งตะโก",
+      "en": "Thung Tako",
+      "slug": "thung-tako"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8608",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งตะโก",
+        "en": "Thung Tako",
+        "slug": "thung-tako"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "86220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.081",
+    "lon": "99.142"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-tako-860801/"
+  }
+}

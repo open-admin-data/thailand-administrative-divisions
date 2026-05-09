@@ -1,0 +1,61 @@
+{
+  "id": "760407",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไร่ใหม่พัฒนา",
+    "en": "Rai Mai Phatthana",
+    "slug": "rai-mai-phatthana"
+  },
+  "code": {
+    "dopa": "760407"
+  },
+  "parent": {
+    "id": "7604",
+    "level": 2,
+    "name": {
+      "th": "ชะอำ",
+      "en": "Cha-am",
+      "slug": "cha-am"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7604",
+      "level": 2,
+      "name": {
+        "th": "ชะอำ",
+        "en": "Cha-am",
+        "slug": "cha-am"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "76120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.655",
+    "lon": "99.806"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rai-mai-phatthana-760407/"
+  }
+}

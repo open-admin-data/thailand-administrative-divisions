@@ -1,0 +1,61 @@
+{
+  "id": "630111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่ท้อ",
+    "en": "Mae Tho",
+    "slug": "mae-tho"
+  },
+  "code": {
+    "dopa": "630111"
+  },
+  "parent": {
+    "id": "6301",
+    "level": 2,
+    "name": {
+      "th": "เมืองตาก",
+      "en": "Mueang Tak",
+      "slug": "mueang-tak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "th": "ตาก",
+        "en": "Tak",
+        "slug": "tak"
+      }
+    },
+    {
+      "id": "6301",
+      "level": 2,
+      "name": {
+        "th": "เมืองตาก",
+        "en": "Mueang Tak",
+        "slug": "mueang-tak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "63000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.789",
+    "lon": "98.967"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-tho-630111/"
+  }
+}

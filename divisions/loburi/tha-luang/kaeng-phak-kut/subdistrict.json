@@ -1,0 +1,61 @@
+{
+  "id": "160702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แก่งผักกูด",
+    "en": "Kaeng Phak Kut",
+    "slug": "kaeng-phak-kut"
+  },
+  "code": {
+    "dopa": "160702"
+  },
+  "parent": {
+    "id": "1607",
+    "level": 2,
+    "name": {
+      "th": "ท่าหลวง",
+      "en": "Tha Luang",
+      "slug": "tha-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1607",
+      "level": 2,
+      "name": {
+        "th": "ท่าหลวง",
+        "en": "Tha Luang",
+        "slug": "tha-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "15230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.014",
+    "lon": "101.085"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kaeng-phak-kut-160702/"
+  }
+}

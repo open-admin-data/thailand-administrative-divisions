@@ -1,0 +1,38 @@
+{
+  "id": "23",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ตราด",
+    "en": "Trat",
+    "slug": "trat"
+  },
+  "code": {
+    "dopa": "23",
+    "iso": "TH-23"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 7,
+    "subdistricts": 37,
+    "villages": 264
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern"
+    }
+  },
+  "geo": {
+    "lat": "11.817",
+    "lon": "102.397"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/trat-23/"
+  }
+}

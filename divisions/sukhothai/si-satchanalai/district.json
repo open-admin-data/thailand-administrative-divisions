@@ -1,0 +1,50 @@
+{
+  "id": "6405",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ศรีสัชนาลัย",
+    "en": "Si Satchanalai",
+    "slug": "si-satchanalai"
+  },
+  "code": {
+    "dopa": "6405"
+  },
+  "parent": {
+    "id": "64",
+    "level": 1,
+    "name": {
+      "th": "สุโขทัย",
+      "en": "Sukhothai",
+      "slug": "sukhothai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 134
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.409",
+    "lon": "99.778"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/si-satchanalai-6405/"
+  }
+}

@@ -1,0 +1,795 @@
+[
+  {
+    "id": "40010901",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเหล่านาดี",
+      "en": "Ban Lao Na Di",
+      "slug": "40010901"
+    },
+    "code": {
+      "dopa": "40010901"
+    },
+    "parent": {
+      "id": "400109",
+      "level": 3,
+      "name": {
+        "th": "บ้านหว้า",
+        "en": "Ban Wa",
+        "slug": "ban-wa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4001",
+        "level": 2,
+        "name": {
+          "th": "เมืองขอนแก่น",
+          "en": "Mueang Khon Kaen",
+          "slug": "mueang-khon-kaen"
+        }
+      },
+      {
+        "id": "400109",
+        "level": 3,
+        "name": {
+          "th": "บ้านหว้า",
+          "en": "Ban Wa",
+          "slug": "ban-wa"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.387426016247392",
+      "lon": "102.70366072654724"
+    },
+    "source": {}
+  },
+  {
+    "id": "40010902",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหว้า",
+      "en": "Ban Wa",
+      "slug": "40010902"
+    },
+    "code": {
+      "dopa": "40010902"
+    },
+    "parent": {
+      "id": "400109",
+      "level": 3,
+      "name": {
+        "th": "บ้านหว้า",
+        "en": "Ban Wa",
+        "slug": "ban-wa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4001",
+        "level": 2,
+        "name": {
+          "th": "เมืองขอนแก่น",
+          "en": "Mueang Khon Kaen",
+          "slug": "mueang-khon-kaen"
+        }
+      },
+      {
+        "id": "400109",
+        "level": 3,
+        "name": {
+          "th": "บ้านหว้า",
+          "en": "Ban Wa",
+          "slug": "ban-wa"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.38324444545274",
+      "lon": "102.71917328238487"
+    },
+    "source": {}
+  },
+  {
+    "id": "40010903",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองทุ่ม",
+      "en": "Ban Nong Thum",
+      "slug": "40010903"
+    },
+    "code": {
+      "dopa": "40010903"
+    },
+    "parent": {
+      "id": "400109",
+      "level": 3,
+      "name": {
+        "th": "บ้านหว้า",
+        "en": "Ban Wa",
+        "slug": "ban-wa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4001",
+        "level": 2,
+        "name": {
+          "th": "เมืองขอนแก่น",
+          "en": "Mueang Khon Kaen",
+          "slug": "mueang-khon-kaen"
+        }
+      },
+      {
+        "id": "400109",
+        "level": 3,
+        "name": {
+          "th": "บ้านหว้า",
+          "en": "Ban Wa",
+          "slug": "ban-wa"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.359986842091516",
+      "lon": "102.70762637257576"
+    },
+    "source": {}
+  },
+  {
+    "id": "40010904",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านโคกสูง",
+      "en": "Ban Khok Sung",
+      "slug": "40010904"
+    },
+    "code": {
+      "dopa": "40010904"
+    },
+    "parent": {
+      "id": "400109",
+      "level": 3,
+      "name": {
+        "th": "บ้านหว้า",
+        "en": "Ban Wa",
+        "slug": "ban-wa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4001",
+        "level": 2,
+        "name": {
+          "th": "เมืองขอนแก่น",
+          "en": "Mueang Khon Kaen",
+          "slug": "mueang-khon-kaen"
+        }
+      },
+      {
+        "id": "400109",
+        "level": 3,
+        "name": {
+          "th": "บ้านหว้า",
+          "en": "Ban Wa",
+          "slug": "ban-wa"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.40150888642945",
+      "lon": "102.7266164124012"
+    },
+    "source": {}
+  },
+  {
+    "id": "40010905",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านทองหลาง",
+      "en": "Ban Thonglang",
+      "slug": "40010905"
+    },
+    "code": {
+      "dopa": "40010905"
+    },
+    "parent": {
+      "id": "400109",
+      "level": 3,
+      "name": {
+        "th": "บ้านหว้า",
+        "en": "Ban Wa",
+        "slug": "ban-wa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4001",
+        "level": 2,
+        "name": {
+          "th": "เมืองขอนแก่น",
+          "en": "Mueang Khon Kaen",
+          "slug": "mueang-khon-kaen"
+        }
+      },
+      {
+        "id": "400109",
+        "level": 3,
+        "name": {
+          "th": "บ้านหว้า",
+          "en": "Ban Wa",
+          "slug": "ban-wa"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.36821706957519",
+      "lon": "102.70194008946419"
+    },
+    "source": {}
+  },
+  {
+    "id": "40010906",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านทองหลาง",
+      "en": "Ban Thonglang",
+      "slug": "40010906"
+    },
+    "code": {
+      "dopa": "40010906"
+    },
+    "parent": {
+      "id": "400109",
+      "level": 3,
+      "name": {
+        "th": "บ้านหว้า",
+        "en": "Ban Wa",
+        "slug": "ban-wa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4001",
+        "level": 2,
+        "name": {
+          "th": "เมืองขอนแก่น",
+          "en": "Mueang Khon Kaen",
+          "slug": "mueang-khon-kaen"
+        }
+      },
+      {
+        "id": "400109",
+        "level": 3,
+        "name": {
+          "th": "บ้านหว้า",
+          "en": "Ban Wa",
+          "slug": "ban-wa"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.368935074832216",
+      "lon": "102.70345285534859"
+    },
+    "source": {}
+  },
+  {
+    "id": "40010907",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเหล่าโพนทอง",
+      "en": "Ban Lao Phon Thong",
+      "slug": "40010907"
+    },
+    "code": {
+      "dopa": "40010907"
+    },
+    "parent": {
+      "id": "400109",
+      "level": 3,
+      "name": {
+        "th": "บ้านหว้า",
+        "en": "Ban Wa",
+        "slug": "ban-wa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4001",
+        "level": 2,
+        "name": {
+          "th": "เมืองขอนแก่น",
+          "en": "Mueang Khon Kaen",
+          "slug": "mueang-khon-kaen"
+        }
+      },
+      {
+        "id": "400109",
+        "level": 3,
+        "name": {
+          "th": "บ้านหว้า",
+          "en": "Ban Wa",
+          "slug": "ban-wa"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.38553467072585",
+      "lon": "102.7336773276329"
+    },
+    "source": {}
+  },
+  {
+    "id": "40010908",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองคู",
+      "en": "Ban Nong Khu",
+      "slug": "40010908"
+    },
+    "code": {
+      "dopa": "40010908"
+    },
+    "parent": {
+      "id": "400109",
+      "level": 3,
+      "name": {
+        "th": "บ้านหว้า",
+        "en": "Ban Wa",
+        "slug": "ban-wa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4001",
+        "level": 2,
+        "name": {
+          "th": "เมืองขอนแก่น",
+          "en": "Mueang Khon Kaen",
+          "slug": "mueang-khon-kaen"
+        }
+      },
+      {
+        "id": "400109",
+        "level": 3,
+        "name": {
+          "th": "บ้านหว้า",
+          "en": "Ban Wa",
+          "slug": "ban-wa"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.388349809631002",
+      "lon": "102.6955859363079"
+    },
+    "source": {}
+  },
+  {
+    "id": "40010909",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองเต่า",
+      "en": "Ban Nong Tao",
+      "slug": "40010909"
+    },
+    "code": {
+      "dopa": "40010909"
+    },
+    "parent": {
+      "id": "400109",
+      "level": 3,
+      "name": {
+        "th": "บ้านหว้า",
+        "en": "Ban Wa",
+        "slug": "ban-wa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4001",
+        "level": 2,
+        "name": {
+          "th": "เมืองขอนแก่น",
+          "en": "Mueang Khon Kaen",
+          "slug": "mueang-khon-kaen"
+        }
+      },
+      {
+        "id": "400109",
+        "level": 3,
+        "name": {
+          "th": "บ้านหว้า",
+          "en": "Ban Wa",
+          "slug": "ban-wa"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.37192802168014",
+      "lon": "102.71585941314697"
+    },
+    "source": {}
+  },
+  {
+    "id": "40010910",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเหล่านางาม",
+      "en": "Ban Lao Na Ngam",
+      "slug": "40010910"
+    },
+    "code": {
+      "dopa": "40010910"
+    },
+    "parent": {
+      "id": "400109",
+      "level": 3,
+      "name": {
+        "th": "บ้านหว้า",
+        "en": "Ban Wa",
+        "slug": "ban-wa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4001",
+        "level": 2,
+        "name": {
+          "th": "เมืองขอนแก่น",
+          "en": "Mueang Khon Kaen",
+          "slug": "mueang-khon-kaen"
+        }
+      },
+      {
+        "id": "400109",
+        "level": 3,
+        "name": {
+          "th": "บ้านหว้า",
+          "en": "Ban Wa",
+          "slug": "ban-wa"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.397054867498632",
+      "lon": "102.70665675401688"
+    },
+    "source": {}
+  },
+  {
+    "id": "40010911",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเหล่านาดี",
+      "en": "Ban Lao Na Di",
+      "slug": "40010911"
+    },
+    "code": {
+      "dopa": "40010911"
+    },
+    "parent": {
+      "id": "400109",
+      "level": 3,
+      "name": {
+        "th": "บ้านหว้า",
+        "en": "Ban Wa",
+        "slug": "ban-wa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4001",
+        "level": 2,
+        "name": {
+          "th": "เมืองขอนแก่น",
+          "en": "Mueang Khon Kaen",
+          "slug": "mueang-khon-kaen"
+        }
+      },
+      {
+        "id": "400109",
+        "level": 3,
+        "name": {
+          "th": "บ้านหว้า",
+          "en": "Ban Wa",
+          "slug": "ban-wa"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.38572380610415",
+      "lon": "102.70473092794418"
+    },
+    "source": {}
+  },
+  {
+    "id": "40010912",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเหล่าโพนทอง",
+      "en": "Ban Lao Phon Thong",
+      "slug": "40010912"
+    },
+    "code": {
+      "dopa": "40010912"
+    },
+    "parent": {
+      "id": "400109",
+      "level": 3,
+      "name": {
+        "th": "บ้านหว้า",
+        "en": "Ban Wa",
+        "slug": "ban-wa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4001",
+        "level": 2,
+        "name": {
+          "th": "เมืองขอนแก่น",
+          "en": "Mueang Khon Kaen",
+          "slug": "mueang-khon-kaen"
+        }
+      },
+      {
+        "id": "400109",
+        "level": 3,
+        "name": {
+          "th": "บ้านหว้า",
+          "en": "Ban Wa",
+          "slug": "ban-wa"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.386848321501514",
+      "lon": "102.73244485259056"
+    },
+    "source": {}
+  },
+  {
+    "id": "40010913",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านดอนเงิน",
+      "en": "Ban Don Ngoen",
+      "slug": "40010913"
+    },
+    "code": {
+      "dopa": "40010913"
+    },
+    "parent": {
+      "id": "400109",
+      "level": 3,
+      "name": {
+        "th": "บ้านหว้า",
+        "en": "Ban Wa",
+        "slug": "ban-wa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "th": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen"
+        }
+      },
+      {
+        "id": "4001",
+        "level": 2,
+        "name": {
+          "th": "เมืองขอนแก่น",
+          "en": "Mueang Khon Kaen",
+          "slug": "mueang-khon-kaen"
+        }
+      },
+      {
+        "id": "400109",
+        "level": 3,
+        "name": {
+          "th": "บ้านหว้า",
+          "en": "Ban Wa",
+          "slug": "ban-wa"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "16.367975160398775",
+      "lon": "102.69859403371811"
+    },
+    "source": {}
+  }
+]

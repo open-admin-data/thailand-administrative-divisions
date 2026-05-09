@@ -1,0 +1,61 @@
+{
+  "id": "200506",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกขี้หนอน",
+    "en": "Khok Khi Non",
+    "slug": "khok-khi-non"
+  },
+  "code": {
+    "dopa": "200506"
+  },
+  "parent": {
+    "id": "2005",
+    "level": 2,
+    "name": {
+      "th": "พานทอง",
+      "en": "Phan Thong",
+      "slug": "phan-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "th": "พานทอง",
+        "en": "Phan Thong",
+        "slug": "phan-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "20160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.552",
+    "lon": "101.114"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-khi-non-200506/"
+  }
+}

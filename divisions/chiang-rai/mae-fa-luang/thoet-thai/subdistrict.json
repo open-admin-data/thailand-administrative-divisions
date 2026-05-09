@@ -1,0 +1,61 @@
+{
+  "id": "571501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เทอดไทย",
+    "en": "Thoet Thai",
+    "slug": "thoet-thai"
+  },
+  "code": {
+    "dopa": "571501"
+  },
+  "parent": {
+    "id": "5715",
+    "level": 2,
+    "name": {
+      "th": "แม่ฟ้าหลวง",
+      "en": "Mae Fa Luang",
+      "slug": "mae-fa-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5715",
+      "level": 2,
+      "name": {
+        "th": "แม่ฟ้าหลวง",
+        "en": "Mae Fa Luang",
+        "slug": "mae-fa-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "57240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.306",
+    "lon": "99.603"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thoet-thai-571501/"
+  }
+}

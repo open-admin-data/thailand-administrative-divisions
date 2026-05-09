@@ -1,0 +1,61 @@
+{
+  "id": "920409",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สุโสะ",
+    "en": "Suso",
+    "slug": "suso"
+  },
+  "code": {
+    "dopa": "920409"
+  },
+  "parent": {
+    "id": "9204",
+    "level": 2,
+    "name": {
+      "th": "ปะเหลียน",
+      "en": "Palian",
+      "slug": "palian"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9204",
+      "level": 2,
+      "name": {
+        "th": "ปะเหลียน",
+        "en": "Palian",
+        "slug": "palian"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "92120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.236",
+    "lon": "99.673"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/suso-920409/"
+  }
+}

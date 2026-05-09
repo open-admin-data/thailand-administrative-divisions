@@ -1,0 +1,61 @@
+{
+  "id": "350405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งมน",
+    "en": "Thung Mon",
+    "slug": "thung-mon"
+  },
+  "code": {
+    "dopa": "350405"
+  },
+  "parent": {
+    "id": "3504",
+    "level": 2,
+    "name": {
+      "th": "คำเขื่อนแก้ว",
+      "en": "Kham Khuean Kaeo",
+      "slug": "kham-khuean-kaeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3504",
+      "level": 2,
+      "name": {
+        "th": "คำเขื่อนแก้ว",
+        "en": "Kham Khuean Kaeo",
+        "slug": "kham-khuean-kaeo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "35110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.747",
+    "lon": "104.286"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-mon-350405/"
+  }
+}

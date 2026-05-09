@@ -1,0 +1,61 @@
+{
+  "id": "421303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ผาสามยอด",
+    "en": "Pha Sam Yot",
+    "slug": "pha-sam-yot"
+  },
+  "code": {
+    "dopa": "421303"
+  },
+  "parent": {
+    "id": "4213",
+    "level": 2,
+    "name": {
+      "th": "เอราวัณ",
+      "en": "Erawan",
+      "slug": "erawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4213",
+      "level": 2,
+      "name": {
+        "th": "เอราวัณ",
+        "en": "Erawan",
+        "slug": "erawan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "42220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.228",
+    "lon": "102.066"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pha-sam-yot-421303/"
+  }
+}

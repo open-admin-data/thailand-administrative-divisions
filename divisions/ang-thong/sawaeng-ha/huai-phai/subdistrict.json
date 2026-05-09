@@ -1,0 +1,61 @@
+{
+  "id": "150506",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยไผ่",
+    "en": "Huai Phai",
+    "slug": "huai-phai"
+  },
+  "code": {
+    "dopa": "150506"
+  },
+  "parent": {
+    "id": "1505",
+    "level": 2,
+    "name": {
+      "th": "แสวงหา",
+      "en": "Sawaeng Ha",
+      "slug": "sawaeng-ha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "th": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong"
+      }
+    },
+    {
+      "id": "1505",
+      "level": 2,
+      "name": {
+        "th": "แสวงหา",
+        "en": "Sawaeng Ha",
+        "slug": "sawaeng-ha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "14150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.789",
+    "lon": "100.324"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-phai-150506/"
+  }
+}

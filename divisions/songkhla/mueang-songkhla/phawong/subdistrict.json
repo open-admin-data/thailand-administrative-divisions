@@ -1,0 +1,61 @@
+{
+  "id": "900104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พะวง",
+    "en": "Phawong",
+    "slug": "phawong"
+  },
+  "code": {
+    "dopa": "900104"
+  },
+  "parent": {
+    "id": "9001",
+    "level": 2,
+    "name": {
+      "th": "เมืองสงขลา",
+      "en": "Mueang Songkhla",
+      "slug": "mueang-songkhla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9001",
+      "level": 2,
+      "name": {
+        "th": "เมืองสงขลา",
+        "en": "Mueang Songkhla",
+        "slug": "mueang-songkhla"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "90100"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.105",
+    "lon": "100.588"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phawong-900104/"
+  }
+}

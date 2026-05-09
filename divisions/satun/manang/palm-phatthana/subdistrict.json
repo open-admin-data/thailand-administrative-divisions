@@ -1,0 +1,61 @@
+{
+  "id": "910701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปาล์มพัฒนา",
+    "en": "Palm Phatthana",
+    "slug": "palm-phatthana"
+  },
+  "code": {
+    "dopa": "910701"
+  },
+  "parent": {
+    "id": "9107",
+    "level": 2,
+    "name": {
+      "th": "มะนัง",
+      "en": "Manang",
+      "slug": "manang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "th": "สตูล",
+        "en": "Satun",
+        "slug": "satun"
+      }
+    },
+    {
+      "id": "9107",
+      "level": 2,
+      "name": {
+        "th": "มะนัง",
+        "en": "Manang",
+        "slug": "manang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "91130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.038",
+    "lon": "99.934"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/palm-phatthana-910701/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "160509",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลาดสาลี",
+    "en": "Lat Sali",
+    "slug": "lat-sali"
+  },
+  "code": {
+    "dopa": "160509"
+  },
+  "parent": {
+    "id": "1605",
+    "level": 2,
+    "name": {
+      "th": "ท่าวุ้ง",
+      "en": "Tha Wung",
+      "slug": "tha-wung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1605",
+      "level": 2,
+      "name": {
+        "th": "ท่าวุ้ง",
+        "en": "Tha Wung",
+        "slug": "tha-wung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "15150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.723",
+    "lon": "100.487"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lat-sali-160509/"
+  }
+}

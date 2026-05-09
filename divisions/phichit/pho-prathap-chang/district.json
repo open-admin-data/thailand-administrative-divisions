@@ -1,0 +1,50 @@
+{
+  "id": "6603",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โพธิ์ประทับช้าง",
+    "en": "Pho Prathap Chang",
+    "slug": "pho-prathap-chang"
+  },
+  "code": {
+    "dopa": "6603"
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "th": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 98
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.351",
+    "lon": "100.264"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pho-prathap-chang-6603/"
+  }
+}

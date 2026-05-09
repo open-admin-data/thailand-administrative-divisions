@@ -1,0 +1,185 @@
+[
+  {
+    "id": "930903",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "โคกสัก",
+      "en": "Khok Sak",
+      "slug": "khok-sak"
+    },
+    "code": {
+      "dopa": "930903"
+    },
+    "parent": {
+      "id": "9309",
+      "level": 2,
+      "name": {
+        "th": "บางแก้ว",
+        "en": "Bang Kaeo",
+        "slug": "bang-kaeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "93",
+        "level": 1,
+        "name": {
+          "th": "พัทลุง",
+          "en": "Phatthalung",
+          "slug": "phatthalung"
+        }
+      },
+      {
+        "id": "9309",
+        "level": 2,
+        "name": {
+          "th": "บางแก้ว",
+          "en": "Bang Kaeo",
+          "slug": "bang-kaeo"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 13
+    },
+    "zip_codes": [
+      "93140"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.390",
+      "lon": "100.145"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khok-sak-930903/"
+    }
+  },
+  {
+    "id": "930902",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "นาปะขอ",
+      "en": "Na Pakho",
+      "slug": "na-pakho"
+    },
+    "code": {
+      "dopa": "930902"
+    },
+    "parent": {
+      "id": "9309",
+      "level": 2,
+      "name": {
+        "th": "บางแก้ว",
+        "en": "Bang Kaeo",
+        "slug": "bang-kaeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "93",
+        "level": 1,
+        "name": {
+          "th": "พัทลุง",
+          "en": "Phatthalung",
+          "slug": "phatthalung"
+        }
+      },
+      {
+        "id": "9309",
+        "level": 2,
+        "name": {
+          "th": "บางแก้ว",
+          "en": "Bang Kaeo",
+          "slug": "bang-kaeo"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 14
+    },
+    "zip_codes": [
+      "93140"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.435",
+      "lon": "100.197"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/na-pakho-930902/"
+    }
+  },
+  {
+    "id": "930901",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ท่ามะเดื่อ",
+      "en": "Tha Maduea",
+      "slug": "tha-maduea"
+    },
+    "code": {
+      "dopa": "930901"
+    },
+    "parent": {
+      "id": "9309",
+      "level": 2,
+      "name": {
+        "th": "บางแก้ว",
+        "en": "Bang Kaeo",
+        "slug": "bang-kaeo"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "93",
+        "level": 1,
+        "name": {
+          "th": "พัทลุง",
+          "en": "Phatthalung",
+          "slug": "phatthalung"
+        }
+      },
+      {
+        "id": "9309",
+        "level": 2,
+        "name": {
+          "th": "บางแก้ว",
+          "en": "Bang Kaeo",
+          "slug": "bang-kaeo"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "93140"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "7.451",
+      "lon": "100.157"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/tha-maduea-930901/"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "810803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองขนาน",
+    "en": "Khlong Khanan",
+    "slug": "khlong-khanan"
+  },
+  "code": {
+    "dopa": "810803"
+  },
+  "parent": {
+    "id": "8108",
+    "level": 2,
+    "name": {
+      "th": "เหนือคลอง",
+      "en": "Nuea Khlong",
+      "slug": "nuea-khlong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8108",
+      "level": 2,
+      "name": {
+        "th": "เหนือคลอง",
+        "en": "Nuea Khlong",
+        "slug": "nuea-khlong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "81130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.960",
+    "lon": "99.030"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-khanan-810803/"
+  }
+}

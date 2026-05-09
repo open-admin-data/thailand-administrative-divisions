@@ -1,0 +1,61 @@
+{
+  "id": "501401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สันทรายหลวง",
+    "en": "San Sai Luang",
+    "slug": "san-sai-luang"
+  },
+  "code": {
+    "dopa": "501401"
+  },
+  "parent": {
+    "id": "5014",
+    "level": 2,
+    "name": {
+      "th": "สันทราย",
+      "en": "San Sai",
+      "slug": "san-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5014",
+      "level": 2,
+      "name": {
+        "th": "สันทราย",
+        "en": "San Sai",
+        "slug": "san-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "50210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.857",
+    "lon": "99.046"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/san-sai-luang-501401/"
+  }
+}

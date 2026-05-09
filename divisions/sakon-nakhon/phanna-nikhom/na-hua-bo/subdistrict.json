@@ -1,0 +1,61 @@
+{
+  "id": "470404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาหัวบ่อ",
+    "en": "Na Hua Bo",
+    "slug": "na-hua-bo"
+  },
+  "code": {
+    "dopa": "470404"
+  },
+  "parent": {
+    "id": "4704",
+    "level": 2,
+    "name": {
+      "th": "พรรณานิคม",
+      "en": "Phanna Nikhom",
+      "slug": "phanna-nikhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4704",
+      "level": 2,
+      "name": {
+        "th": "พรรณานิคม",
+        "en": "Phanna Nikhom",
+        "slug": "phanna-nikhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "47220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.226",
+    "lon": "103.917"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-hua-bo-470404/"
+  }
+}

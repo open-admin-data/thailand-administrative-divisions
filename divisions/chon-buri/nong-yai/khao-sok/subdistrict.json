@@ -1,0 +1,61 @@
+{
+  "id": "200305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาซก",
+    "en": "Khao Sok",
+    "slug": "khao-sok"
+  },
+  "code": {
+    "dopa": "200305"
+  },
+  "parent": {
+    "id": "2003",
+    "level": 2,
+    "name": {
+      "th": "หนองใหญ่",
+      "en": "Nong Yai",
+      "slug": "nong-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2003",
+      "level": 2,
+      "name": {
+        "th": "หนองใหญ่",
+        "en": "Nong Yai",
+        "slug": "nong-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "20190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.070",
+    "lon": "101.420"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-sok-200305/"
+  }
+}

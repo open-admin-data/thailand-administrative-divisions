@@ -1,0 +1,61 @@
+{
+  "id": "580503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าผาปุ้ม",
+    "en": "Tha Pha Pum",
+    "slug": "tha-pha-pum"
+  },
+  "code": {
+    "dopa": "580503"
+  },
+  "parent": {
+    "id": "5805",
+    "level": 2,
+    "name": {
+      "th": "แม่ลาน้อย",
+      "en": "Mae La Noi",
+      "slug": "mae-la-noi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    },
+    {
+      "id": "5805",
+      "level": 2,
+      "name": {
+        "th": "แม่ลาน้อย",
+        "en": "Mae La Noi",
+        "slug": "mae-la-noi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "58120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.315",
+    "lon": "97.991"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-pha-pum-580503/"
+  }
+}

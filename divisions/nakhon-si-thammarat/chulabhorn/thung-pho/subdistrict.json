@@ -1,0 +1,61 @@
+{
+  "id": "801904",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งโพธิ์",
+    "en": "Thung Pho",
+    "slug": "thung-pho"
+  },
+  "code": {
+    "dopa": "801904"
+  },
+  "parent": {
+    "id": "8019",
+    "level": 2,
+    "name": {
+      "th": "จุฬาภรณ์",
+      "en": "Chulabhorn",
+      "slug": "chulabhorn"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8019",
+      "level": 2,
+      "name": {
+        "th": "จุฬาภรณ์",
+        "en": "Chulabhorn",
+        "slug": "chulabhorn"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "80130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.109",
+    "lon": "99.829"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-pho-801904/"
+  }
+}

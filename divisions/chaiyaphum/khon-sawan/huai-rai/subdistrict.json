@@ -1,0 +1,61 @@
+{
+  "id": "360305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยไร่",
+    "en": "Huai Rai",
+    "slug": "huai-rai"
+  },
+  "code": {
+    "dopa": "360305"
+  },
+  "parent": {
+    "id": "3603",
+    "level": 2,
+    "name": {
+      "th": "คอนสวรรค์",
+      "en": "Khon Sawan",
+      "slug": "khon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3603",
+      "level": 2,
+      "name": {
+        "th": "คอนสวรรค์",
+        "en": "Khon Sawan",
+        "slug": "khon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "36140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.021",
+    "lon": "102.247"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-rai-360305/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "730318",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยพลู",
+    "en": "Huai Phlu",
+    "slug": "huai-phlu"
+  },
+  "code": {
+    "dopa": "730318"
+  },
+  "parent": {
+    "id": "7303",
+    "level": 2,
+    "name": {
+      "th": "นครชัยศรี",
+      "en": "Nakhon Chai Si",
+      "slug": "nakhon-chai-si"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7303",
+      "level": 2,
+      "name": {
+        "th": "นครชัยศรี",
+        "en": "Nakhon Chai Si",
+        "slug": "nakhon-chai-si"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "73120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.878",
+    "lon": "100.233"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-phlu-730318/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "560308",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ฝายกวาง",
+    "en": "Fai Kwang",
+    "slug": "fai-kwang"
+  },
+  "code": {
+    "dopa": "560308"
+  },
+  "parent": {
+    "id": "5603",
+    "level": 2,
+    "name": {
+      "th": "เชียงคำ",
+      "en": "Chiang Kham",
+      "slug": "chiang-kham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5603",
+      "level": 2,
+      "name": {
+        "th": "เชียงคำ",
+        "en": "Chiang Kham",
+        "slug": "chiang-kham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "56110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.394",
+    "lon": "100.244"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/fai-kwang-560308/"
+  }
+}

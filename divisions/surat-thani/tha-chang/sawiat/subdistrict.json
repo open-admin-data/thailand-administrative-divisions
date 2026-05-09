@@ -1,0 +1,61 @@
+{
+  "id": "841105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เสวียด",
+    "en": "Sawiat",
+    "slug": "sawiat"
+  },
+  "code": {
+    "dopa": "841105"
+  },
+  "parent": {
+    "id": "8411",
+    "level": 2,
+    "name": {
+      "th": "ท่าฉาง",
+      "en": "Tha Chang",
+      "slug": "tha-chang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8411",
+      "level": 2,
+      "name": {
+        "th": "ท่าฉาง",
+        "en": "Tha Chang",
+        "slug": "tha-chang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "84150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.311",
+    "lon": "99.101"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sawiat-841105/"
+  }
+}

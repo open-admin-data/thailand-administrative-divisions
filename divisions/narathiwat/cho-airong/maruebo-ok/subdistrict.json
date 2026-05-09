@@ -1,0 +1,61 @@
+{
+  "id": "961303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มะรือโบออก",
+    "en": "Maruebo Ok",
+    "slug": "maruebo-ok"
+  },
+  "code": {
+    "dopa": "961303"
+  },
+  "parent": {
+    "id": "9613",
+    "level": 2,
+    "name": {
+      "th": "เจาะไอร้อง",
+      "en": "Cho-airong",
+      "slug": "cho-airong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9613",
+      "level": 2,
+      "name": {
+        "th": "เจาะไอร้อง",
+        "en": "Cho-airong",
+        "slug": "cho-airong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "96130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.249",
+    "lon": "101.875"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/maruebo-ok-961303/"
+  }
+}

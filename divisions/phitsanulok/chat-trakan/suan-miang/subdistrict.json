@@ -1,0 +1,61 @@
+{
+  "id": "650303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สวนเมี่ยง",
+    "en": "Suan Miang",
+    "slug": "suan-miang"
+  },
+  "code": {
+    "dopa": "650303"
+  },
+  "parent": {
+    "id": "6503",
+    "level": 2,
+    "name": {
+      "th": "ชาติตระการ",
+      "en": "Chat Trakan",
+      "slug": "chat-trakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6503",
+      "level": 2,
+      "name": {
+        "th": "ชาติตระการ",
+        "en": "Chat Trakan",
+        "slug": "chat-trakan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "65170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.194",
+    "lon": "100.529"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/suan-miang-650303/"
+  }
+}

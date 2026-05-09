@@ -1,0 +1,61 @@
+{
+  "id": "160614",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนดึง",
+    "en": "Don Dueng",
+    "slug": "don-dueng"
+  },
+  "code": {
+    "dopa": "160614"
+  },
+  "parent": {
+    "id": "1606",
+    "level": 2,
+    "name": {
+      "th": "บ้านหมี่",
+      "en": "Ban Mi",
+      "slug": "ban-mi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1606",
+      "level": 2,
+      "name": {
+        "th": "บ้านหมี่",
+        "en": "Ban Mi",
+        "slug": "ban-mi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "15110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.146",
+    "lon": "100.612"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-dueng-160614/"
+  }
+}

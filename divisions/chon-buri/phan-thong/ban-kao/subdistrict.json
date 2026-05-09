@@ -1,0 +1,61 @@
+{
+  "id": "200507",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านเก่า",
+    "en": "Ban Kao",
+    "slug": "ban-kao"
+  },
+  "code": {
+    "dopa": "200507"
+  },
+  "parent": {
+    "id": "2005",
+    "level": 2,
+    "name": {
+      "th": "พานทอง",
+      "en": "Phan Thong",
+      "slug": "phan-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2005",
+      "level": 2,
+      "name": {
+        "th": "พานทอง",
+        "en": "Phan Thong",
+        "slug": "phan-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "20160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.454",
+    "lon": "101.059"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-kao-200507/"
+  }
+}

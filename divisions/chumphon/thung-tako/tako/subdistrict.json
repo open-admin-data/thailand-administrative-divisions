@@ -1,0 +1,61 @@
+{
+  "id": "860803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตะโก",
+    "en": "Tako",
+    "slug": "tako"
+  },
+  "code": {
+    "dopa": "860803"
+  },
+  "parent": {
+    "id": "8608",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งตะโก",
+      "en": "Thung Tako",
+      "slug": "thung-tako"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8608",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งตะโก",
+        "en": "Thung Tako",
+        "slug": "thung-tako"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "86220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.056",
+    "lon": "98.974"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tako-860803/"
+  }
+}

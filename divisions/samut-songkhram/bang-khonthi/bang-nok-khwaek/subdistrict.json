@@ -1,0 +1,61 @@
+{
+  "id": "750210",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางนกแขวก",
+    "en": "Bang Nok Khwaek",
+    "slug": "bang-nok-khwaek"
+  },
+  "code": {
+    "dopa": "750210"
+  },
+  "parent": {
+    "id": "7502",
+    "level": 2,
+    "name": {
+      "th": "บางคนที",
+      "en": "Bang Khonthi",
+      "slug": "bang-khonthi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสงคราม",
+        "en": "Samut Songkhram",
+        "slug": "samut-songkhram"
+      }
+    },
+    {
+      "id": "7502",
+      "level": 2,
+      "name": {
+        "th": "บางคนที",
+        "en": "Bang Khonthi",
+        "slug": "bang-khonthi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "75120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.504",
+    "lon": "99.923"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-nok-khwaek-750210/"
+  }
+}

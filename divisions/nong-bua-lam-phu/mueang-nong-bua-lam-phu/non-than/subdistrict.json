@@ -1,0 +1,61 @@
+{
+  "id": "390112",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนทัน",
+    "en": "Non Than",
+    "slug": "non-than"
+  },
+  "code": {
+    "dopa": "390112"
+  },
+  "parent": {
+    "id": "3901",
+    "level": 2,
+    "name": {
+      "th": "เมืองหนองบัวลำภู",
+      "en": "Mueang Nong Bua Lam Phu",
+      "slug": "mueang-nong-bua-lam-phu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3901",
+      "level": 2,
+      "name": {
+        "th": "เมืองหนองบัวลำภู",
+        "en": "Mueang Nong Bua Lam Phu",
+        "slug": "mueang-nong-bua-lam-phu"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "39000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.245",
+    "lon": "102.503"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-than-390112/"
+  }
+}

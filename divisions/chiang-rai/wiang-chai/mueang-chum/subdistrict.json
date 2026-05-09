@@ -1,0 +1,61 @@
+{
+  "id": "570208",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองชุม",
+    "en": "Mueang Chum",
+    "slug": "mueang-chum"
+  },
+  "code": {
+    "dopa": "570208"
+  },
+  "parent": {
+    "id": "5702",
+    "level": 2,
+    "name": {
+      "th": "เวียงชัย",
+      "en": "Wiang Chai",
+      "slug": "wiang-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5702",
+      "level": 2,
+      "name": {
+        "th": "เวียงชัย",
+        "en": "Wiang Chai",
+        "slug": "wiang-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "57210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.904",
+    "lon": "99.974"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-chum-570208/"
+  }
+}

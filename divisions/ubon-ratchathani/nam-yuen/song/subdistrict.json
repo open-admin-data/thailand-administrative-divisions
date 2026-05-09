@@ -1,0 +1,61 @@
+{
+  "id": "340901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โซง",
+    "en": "Song",
+    "slug": "song"
+  },
+  "code": {
+    "dopa": "340901"
+  },
+  "parent": {
+    "id": "3409",
+    "level": 2,
+    "name": {
+      "th": "น้ำยืน",
+      "en": "Nam Yuen",
+      "slug": "nam-yuen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3409",
+      "level": 2,
+      "name": {
+        "th": "น้ำยืน",
+        "en": "Nam Yuen",
+        "slug": "nam-yuen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "34260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.460",
+    "lon": "104.947"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/song-340901/"
+  }
+}

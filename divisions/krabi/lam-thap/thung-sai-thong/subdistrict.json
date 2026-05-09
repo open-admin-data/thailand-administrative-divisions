@@ -1,0 +1,61 @@
+{
+  "id": "810703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งไทรทอง",
+    "en": "Thung Sai Thong",
+    "slug": "thung-sai-thong"
+  },
+  "code": {
+    "dopa": "810703"
+  },
+  "parent": {
+    "id": "8107",
+    "level": 2,
+    "name": {
+      "th": "ลำทับ",
+      "en": "Lam Thap",
+      "slug": "lam-thap"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8107",
+      "level": 2,
+      "name": {
+        "th": "ลำทับ",
+        "en": "Lam Thap",
+        "slug": "lam-thap"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "81120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.004",
+    "lon": "99.311"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-sai-thong-810703/"
+  }
+}

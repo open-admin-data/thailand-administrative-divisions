@@ -1,0 +1,61 @@
+{
+  "id": "610405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านเก่า",
+    "en": "Ban Kao",
+    "slug": "ban-kao"
+  },
+  "code": {
+    "dopa": "610405"
+  },
+  "parent": {
+    "id": "6104",
+    "level": 2,
+    "name": {
+      "th": "หนองฉาง",
+      "en": "Nong Chang",
+      "slug": "nong-chang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    },
+    {
+      "id": "6104",
+      "level": 2,
+      "name": {
+        "th": "หนองฉาง",
+        "en": "Nong Chang",
+        "slug": "nong-chang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "61110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.427",
+    "lon": "99.874"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-kao-610405/"
+  }
+}

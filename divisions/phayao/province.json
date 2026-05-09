@@ -1,0 +1,38 @@
+{
+  "id": "56",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "พะเยา",
+    "en": "Phayao",
+    "slug": "phayao"
+  },
+  "code": {
+    "dopa": "56",
+    "iso": "TH-56"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 9,
+    "subdistricts": 68,
+    "villages": 820
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคเหนือ",
+      "en": "Northern"
+    }
+  },
+  "geo": {
+    "lat": "19.172",
+    "lon": "99.894"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/phayao-56/"
+  }
+}

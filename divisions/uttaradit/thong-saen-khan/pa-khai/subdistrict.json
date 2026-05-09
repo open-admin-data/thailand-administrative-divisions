@@ -1,0 +1,61 @@
+{
+  "id": "530903",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าคาย",
+    "en": "Pa Khai",
+    "slug": "pa-khai"
+  },
+  "code": {
+    "dopa": "530903"
+  },
+  "parent": {
+    "id": "5309",
+    "level": 2,
+    "name": {
+      "th": "ทองแสนขัน",
+      "en": "Thong Saen Khan",
+      "slug": "thong-saen-khan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5309",
+      "level": 2,
+      "name": {
+        "th": "ทองแสนขัน",
+        "en": "Thong Saen Khan",
+        "slug": "thong-saen-khan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "53230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.495",
+    "lon": "100.267"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-khai-530903/"
+  }
+}

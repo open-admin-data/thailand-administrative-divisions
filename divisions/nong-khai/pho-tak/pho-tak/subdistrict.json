@@ -1,0 +1,61 @@
+{
+  "id": "431701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพธิ์ตาก",
+    "en": "Pho Tak",
+    "slug": "pho-tak"
+  },
+  "code": {
+    "dopa": "431701"
+  },
+  "parent": {
+    "id": "4317",
+    "level": 2,
+    "name": {
+      "th": "โพธิ์ตาก",
+      "en": "Pho Tak",
+      "slug": "pho-tak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4317",
+      "level": 2,
+      "name": {
+        "th": "โพธิ์ตาก",
+        "en": "Pho Tak",
+        "slug": "pho-tak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "43130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.846",
+    "lon": "102.422"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pho-tak-431701/"
+  }
+}

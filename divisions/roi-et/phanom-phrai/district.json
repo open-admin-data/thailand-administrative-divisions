@@ -1,0 +1,50 @@
+{
+  "id": "4506",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พนมไพร",
+    "en": "Phanom Phrai",
+    "slug": "phanom-phrai"
+  },
+  "code": {
+    "dopa": "4506"
+  },
+  "parent": {
+    "id": "45",
+    "level": 1,
+    "name": {
+      "th": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 160
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.600",
+    "lon": "104.139"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phanom-phrai-4506/"
+  }
+}

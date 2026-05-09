@@ -1,0 +1,61 @@
+{
+  "id": "530601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ม่วงเจ็ดต้น",
+    "en": "Muang Chet Ton",
+    "slug": "muang-chet-ton"
+  },
+  "code": {
+    "dopa": "530601"
+  },
+  "parent": {
+    "id": "5306",
+    "level": 2,
+    "name": {
+      "th": "บ้านโคก",
+      "en": "Ban Khok",
+      "slug": "ban-khok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5306",
+      "level": 2,
+      "name": {
+        "th": "บ้านโคก",
+        "en": "Ban Khok",
+        "slug": "ban-khok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "53180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.115",
+    "lon": "101.062"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/muang-chet-ton-530601/"
+  }
+}

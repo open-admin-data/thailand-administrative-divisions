@@ -1,0 +1,368 @@
+[
+  {
+    "id": "420705",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ลาดค่าง",
+      "en": "Lat Khang",
+      "slug": "lat-khang"
+    },
+    "code": {
+      "dopa": "420705"
+    },
+    "parent": {
+      "id": "4207",
+      "level": 2,
+      "name": {
+        "th": "ภูเรือ",
+        "en": "Phu Ruea",
+        "slug": "phu-ruea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      },
+      {
+        "id": "4207",
+        "level": 2,
+        "name": {
+          "th": "ภูเรือ",
+          "en": "Phu Ruea",
+          "slug": "phu-ruea"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "42160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.497",
+      "lon": "101.285"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/lat-khang-420705/"
+    }
+  },
+  {
+    "id": "420701",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "หนองบัว",
+      "en": "Nong Bua",
+      "slug": "nong-bua"
+    },
+    "code": {
+      "dopa": "420701"
+    },
+    "parent": {
+      "id": "4207",
+      "level": 2,
+      "name": {
+        "th": "ภูเรือ",
+        "en": "Phu Ruea",
+        "slug": "phu-ruea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      },
+      {
+        "id": "4207",
+        "level": 2,
+        "name": {
+          "th": "ภูเรือ",
+          "en": "Phu Ruea",
+          "slug": "phu-ruea"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "42160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.454",
+      "lon": "101.371"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nong-bua-420701/"
+    }
+  },
+  {
+    "id": "420704",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ปลาบ่า",
+      "en": "Pla Ba",
+      "slug": "pla-ba"
+    },
+    "code": {
+      "dopa": "420704"
+    },
+    "parent": {
+      "id": "4207",
+      "level": 2,
+      "name": {
+        "th": "ภูเรือ",
+        "en": "Phu Ruea",
+        "slug": "phu-ruea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      },
+      {
+        "id": "4207",
+        "level": 2,
+        "name": {
+          "th": "ภูเรือ",
+          "en": "Phu Ruea",
+          "slug": "phu-ruea"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "42160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.318",
+      "lon": "101.439"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/pla-ba-420704/"
+    }
+  },
+  {
+    "id": "420703",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ร่องจิก",
+      "en": "Rong Chik",
+      "slug": "rong-chik"
+    },
+    "code": {
+      "dopa": "420703"
+    },
+    "parent": {
+      "id": "4207",
+      "level": 2,
+      "name": {
+        "th": "ภูเรือ",
+        "en": "Phu Ruea",
+        "slug": "phu-ruea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      },
+      {
+        "id": "4207",
+        "level": 2,
+        "name": {
+          "th": "ภูเรือ",
+          "en": "Phu Ruea",
+          "slug": "phu-ruea"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "42160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.346",
+      "lon": "101.333"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/rong-chik-420703/"
+    }
+  },
+  {
+    "id": "420706",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "สานตม",
+      "en": "San Tom",
+      "slug": "san-tom"
+    },
+    "code": {
+      "dopa": "420706"
+    },
+    "parent": {
+      "id": "4207",
+      "level": 2,
+      "name": {
+        "th": "ภูเรือ",
+        "en": "Phu Ruea",
+        "slug": "phu-ruea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      },
+      {
+        "id": "4207",
+        "level": 2,
+        "name": {
+          "th": "ภูเรือ",
+          "en": "Phu Ruea",
+          "slug": "phu-ruea"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "42160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.460",
+      "lon": "101.482"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/san-tom-420706/"
+    }
+  },
+  {
+    "id": "420702",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ท่าศาลา",
+      "en": "Tha Sala",
+      "slug": "tha-sala"
+    },
+    "code": {
+      "dopa": "420702"
+    },
+    "parent": {
+      "id": "4207",
+      "level": 2,
+      "name": {
+        "th": "ภูเรือ",
+        "en": "Phu Ruea",
+        "slug": "phu-ruea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "th": "เลย",
+          "en": "Loei",
+          "slug": "loei"
+        }
+      },
+      {
+        "id": "4207",
+        "level": 2,
+        "name": {
+          "th": "ภูเรือ",
+          "en": "Phu Ruea",
+          "slug": "phu-ruea"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "42160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "17.391",
+      "lon": "101.463"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/tha-sala-420702/"
+    }
+  }
+]

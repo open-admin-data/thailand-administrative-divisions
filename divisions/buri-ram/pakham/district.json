@@ -1,0 +1,50 @@
+{
+  "id": "3112",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปะคำ",
+    "en": "Pakham",
+    "slug": "pakham"
+  },
+  "code": {
+    "dopa": "3112"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 77
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.432",
+    "lon": "102.657"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pakham-3112/"
+  }
+}

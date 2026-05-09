@@ -1,0 +1,61 @@
+{
+  "id": "571304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าข้าม",
+    "en": "Tha Kham",
+    "slug": "tha-kham"
+  },
+  "code": {
+    "dopa": "571304"
+  },
+  "parent": {
+    "id": "5713",
+    "level": 2,
+    "name": {
+      "th": "เวียงแก่น",
+      "en": "Wiang Kaen",
+      "slug": "wiang-kaen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5713",
+      "level": 2,
+      "name": {
+        "th": "เวียงแก่น",
+        "en": "Wiang Kaen",
+        "slug": "wiang-kaen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "57310"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.042",
+    "lon": "100.520"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-kham-571304/"
+  }
+}

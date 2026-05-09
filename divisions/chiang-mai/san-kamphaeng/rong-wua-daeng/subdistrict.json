@@ -1,0 +1,61 @@
+{
+  "id": "501303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ร้องวัวแดง",
+    "en": "Rong Wua Daeng",
+    "slug": "rong-wua-daeng"
+  },
+  "code": {
+    "dopa": "501303"
+  },
+  "parent": {
+    "id": "5013",
+    "level": 2,
+    "name": {
+      "th": "สันกำแพง",
+      "en": "San Kamphaeng",
+      "slug": "san-kamphaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5013",
+      "level": 2,
+      "name": {
+        "th": "สันกำแพง",
+        "en": "San Kamphaeng",
+        "slug": "san-kamphaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "50130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.746",
+    "lon": "99.206"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/rong-wua-daeng-501303/"
+  }
+}

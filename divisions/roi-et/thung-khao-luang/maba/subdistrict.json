@@ -1,0 +1,61 @@
+{
+  "id": "452004",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มะบ้า",
+    "en": "Maba",
+    "slug": "maba"
+  },
+  "code": {
+    "dopa": "452004"
+  },
+  "parent": {
+    "id": "4520",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งเขาหลวง",
+      "en": "Thung Khao Luang",
+      "slug": "thung-khao-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4520",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งเขาหลวง",
+        "en": "Thung Khao Luang",
+        "slug": "thung-khao-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "45170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.039",
+    "lon": "103.889"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/maba-452004/"
+  }
+}

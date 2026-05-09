@@ -1,0 +1,61 @@
+{
+  "id": "460809",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทรายทอง",
+    "en": "Sai Thong",
+    "slug": "sai-thong"
+  },
+  "code": {
+    "dopa": "460809"
+  },
+  "parent": {
+    "id": "4608",
+    "level": 2,
+    "name": {
+      "th": "ห้วยเม็ก",
+      "en": "Huai Mek",
+      "slug": "huai-mek"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4608",
+      "level": 2,
+      "name": {
+        "th": "ห้วยเม็ก",
+        "en": "Huai Mek",
+        "slug": "huai-mek"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "46170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.740",
+    "lon": "103.175"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sai-thong-460809/"
+  }
+}

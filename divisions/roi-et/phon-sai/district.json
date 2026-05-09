@@ -1,0 +1,50 @@
+{
+  "id": "4513",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โพนทราย",
+    "en": "Phon Sai",
+    "slug": "phon-sai"
+  },
+  "code": {
+    "dopa": "4513"
+  },
+  "parent": {
+    "id": "45",
+    "level": 1,
+    "name": {
+      "th": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 57
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.443",
+    "lon": "103.971"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phon-sai-4513/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "600604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาดิน",
+    "en": "Khao Din",
+    "slug": "khao-din"
+  },
+  "code": {
+    "dopa": "600604"
+  },
+  "parent": {
+    "id": "6006",
+    "level": 2,
+    "name": {
+      "th": "เก้าเลี้ยว",
+      "en": "Kao Liao",
+      "slug": "kao-liao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6006",
+      "level": 2,
+      "name": {
+        "th": "เก้าเลี้ยว",
+        "en": "Kao Liao",
+        "slug": "kao-liao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "60230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.839",
+    "lon": "100.039"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-din-600604/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "220409",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เทพนิมิต",
+    "en": "Thep Nimit",
+    "slug": "thep-nimit"
+  },
+  "code": {
+    "dopa": "220409"
+  },
+  "parent": {
+    "id": "2204",
+    "level": 2,
+    "name": {
+      "th": "โป่งน้ำร้อน",
+      "en": "Pong Nam Ron",
+      "slug": "pong-nam-ron"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "th": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi"
+      }
+    },
+    {
+      "id": "2204",
+      "level": 2,
+      "name": {
+        "th": "โป่งน้ำร้อน",
+        "en": "Pong Nam Ron",
+        "slug": "pong-nam-ron"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "22140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.044",
+    "lon": "102.453"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thep-nimit-220409/"
+  }
+}

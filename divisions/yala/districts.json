@@ -1,0 +1,402 @@
+[
+  {
+    "id": "9503",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บันนังสตา",
+      "en": "Bannang Sata",
+      "slug": "bannang-sata"
+    },
+    "code": {
+      "dopa": "9503"
+    },
+    "parent": {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 6,
+      "villages": 50
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.355",
+      "lon": "101.327"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/bannang-sata-9503/"
+    }
+  },
+  {
+    "id": "9502",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เบตง",
+      "en": "Betong",
+      "slug": "betong"
+    },
+    "code": {
+      "dopa": "9502"
+    },
+    "parent": {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 5,
+      "villages": 60
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "5.803",
+      "lon": "101.009"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/betong-9502/"
+    }
+  },
+  {
+    "id": "9507",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "กาบัง",
+      "en": "Kabang",
+      "slug": "kabang"
+    },
+    "code": {
+      "dopa": "9507"
+    },
+    "parent": {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 2,
+      "villages": 19
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.449",
+      "lon": "101.000"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/kabang-9507/"
+    }
+  },
+  {
+    "id": "9508",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "กรงปีนัง",
+      "en": "Krong Pinang",
+      "slug": "krong-pinang"
+    },
+    "code": {
+      "dopa": "9508"
+    },
+    "parent": {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 4,
+      "villages": 23
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.456",
+      "lon": "101.230"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/krong-pinang-9508/"
+    }
+  },
+  {
+    "id": "9506",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "รามัน",
+      "en": "Raman",
+      "slug": "raman"
+    },
+    "code": {
+      "dopa": "9506"
+    },
+    "parent": {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 16,
+      "villages": 90
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.464",
+      "lon": "101.374"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/raman-9506/"
+    }
+  },
+  {
+    "id": "9504",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ธารโต",
+      "en": "Than To",
+      "slug": "than-to"
+    },
+    "code": {
+      "dopa": "9504"
+    },
+    "parent": {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 4,
+      "villages": 37
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.167",
+      "lon": "101.187"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/than-to-9504/"
+    }
+  },
+  {
+    "id": "9505",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ยะหา",
+      "en": "Yaha",
+      "slug": "yaha"
+    },
+    "code": {
+      "dopa": "9505"
+    },
+    "parent": {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 7,
+      "villages": 49
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.527",
+      "lon": "101.153"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/yaha-9505/"
+    }
+  },
+  {
+    "id": "9501",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เมืองยะลา",
+      "en": "Yala",
+      "slug": "yala"
+    },
+    "code": {
+      "dopa": "9501"
+    },
+    "parent": {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "th": "ยะลา",
+          "en": "Yala",
+          "slug": "yala"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 14,
+      "villages": 121
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.523",
+      "lon": "101.181"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/yala-9501/"
+    }
+  }
+]

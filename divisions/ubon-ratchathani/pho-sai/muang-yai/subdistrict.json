@@ -1,0 +1,61 @@
+{
+  "id": "342102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ม่วงใหญ่",
+    "en": "Muang Yai",
+    "slug": "muang-yai"
+  },
+  "code": {
+    "dopa": "342102"
+  },
+  "parent": {
+    "id": "3421",
+    "level": 2,
+    "name": {
+      "th": "โพธิ์ไทร",
+      "en": "Pho Sai",
+      "slug": "pho-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3421",
+      "level": 2,
+      "name": {
+        "th": "โพธิ์ไทร",
+        "en": "Pho Sai",
+        "slug": "pho-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "34340"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.860",
+    "lon": "105.273"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/muang-yai-342102/"
+  }
+}

@@ -1,0 +1,185 @@
+[
+  {
+    "id": "13070501",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านบางนา",
+      "en": "Ban Bang Na",
+      "slug": "13070501"
+    },
+    "code": {
+      "dopa": "13070501"
+    },
+    "parent": {
+      "id": "130705",
+      "level": 3,
+      "name": {
+        "th": "บางโพธิ์เหนือ",
+        "en": "Bang Pho Nuea",
+        "slug": "bang-pho-nuea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      },
+      {
+        "id": "130705",
+        "level": 3,
+        "name": {
+          "th": "บางโพธิ์เหนือ",
+          "en": "Bang Pho Nuea",
+          "slug": "bang-pho-nuea"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.034006281417252",
+      "lon": "100.54374888539314"
+    },
+    "source": {}
+  },
+  {
+    "id": "13070502",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านปากคลองบางโพธิ์เหนือ",
+      "en": "Ban Pak Khlong Bang Pho Nuea",
+      "slug": "13070502"
+    },
+    "code": {
+      "dopa": "13070502"
+    },
+    "parent": {
+      "id": "130705",
+      "level": 3,
+      "name": {
+        "th": "บางโพธิ์เหนือ",
+        "en": "Bang Pho Nuea",
+        "slug": "bang-pho-nuea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      },
+      {
+        "id": "130705",
+        "level": 3,
+        "name": {
+          "th": "บางโพธิ์เหนือ",
+          "en": "Bang Pho Nuea",
+          "slug": "bang-pho-nuea"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.031175124344454",
+      "lon": "100.53893700242043"
+    },
+    "source": {}
+  },
+  {
+    "id": "13070503",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านปากบางโพธิ์เหนือ",
+      "en": "Ban Pak Bang Pho Nuea",
+      "slug": "13070503"
+    },
+    "code": {
+      "dopa": "13070503"
+    },
+    "parent": {
+      "id": "130705",
+      "level": 3,
+      "name": {
+        "th": "บางโพธิ์เหนือ",
+        "en": "Bang Pho Nuea",
+        "slug": "bang-pho-nuea"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "13",
+        "level": 1,
+        "name": {
+          "th": "ปทุมธานี",
+          "en": "Pathum Thani",
+          "slug": "pathum-thani"
+        }
+      },
+      {
+        "id": "1307",
+        "level": 2,
+        "name": {
+          "th": "สามโคก",
+          "en": "Sam Khok",
+          "slug": "sam-khok"
+        }
+      },
+      {
+        "id": "130705",
+        "level": 3,
+        "name": {
+          "th": "บางโพธิ์เหนือ",
+          "en": "Bang Pho Nuea",
+          "slug": "bang-pho-nuea"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.719064219119291",
+      "lon": "100.5340875685215"
+    },
+    "source": {}
+  }
+]

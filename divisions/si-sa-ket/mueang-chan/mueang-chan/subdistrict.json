@@ -1,0 +1,61 @@
+{
+  "id": "331801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองจันทร์",
+    "en": "Mueang Chan",
+    "slug": "mueang-chan"
+  },
+  "code": {
+    "dopa": "331801"
+  },
+  "parent": {
+    "id": "3318",
+    "level": 2,
+    "name": {
+      "th": "เมืองจันทร์",
+      "en": "Mueang Chan",
+      "slug": "mueang-chan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3318",
+      "level": 2,
+      "name": {
+        "th": "เมืองจันทร์",
+        "en": "Mueang Chan",
+        "slug": "mueang-chan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 25
+  },
+  "zip_codes": [
+    "33120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.155",
+    "lon": "104.011"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-chan-331801/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "450904",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กกโพธิ์",
+    "en": "Kok Pho",
+    "slug": "kok-pho"
+  },
+  "code": {
+    "dopa": "450904"
+  },
+  "parent": {
+    "id": "4509",
+    "level": 2,
+    "name": {
+      "th": "หนองพอก",
+      "en": "Nong Phok",
+      "slug": "nong-phok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4509",
+      "level": 2,
+      "name": {
+        "th": "หนองพอก",
+        "en": "Nong Phok",
+        "slug": "nong-phok"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "45210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.296",
+    "lon": "104.113"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kok-pho-450904/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "6706",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ศรีเทพ",
+    "en": "Si Thep",
+    "slug": "si-thep"
+  },
+  "code": {
+    "dopa": "6706"
+  },
+  "parent": {
+    "id": "67",
+    "level": 1,
+    "name": {
+      "th": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 106
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.436",
+    "lon": "100.971"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/si-thep-6706/"
+  }
+}

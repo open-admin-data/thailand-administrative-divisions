@@ -1,0 +1,61 @@
+{
+  "id": "350903",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ส้มผ่อ",
+    "en": "Som Pho",
+    "slug": "som-pho"
+  },
+  "code": {
+    "dopa": "350903"
+  },
+  "parent": {
+    "id": "3509",
+    "level": 2,
+    "name": {
+      "th": "ไทยเจริญ",
+      "en": "Thai Charoen",
+      "slug": "thai-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3509",
+      "level": 2,
+      "name": {
+        "th": "ไทยเจริญ",
+        "en": "Thai Charoen",
+        "slug": "thai-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "35120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.162",
+    "lon": "104.432"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/som-pho-350903/"
+  }
+}

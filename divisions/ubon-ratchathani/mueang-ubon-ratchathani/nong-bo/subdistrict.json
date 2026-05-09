@@ -1,0 +1,61 @@
+{
+  "id": "340111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองบ่อ",
+    "en": "Nong Bo",
+    "slug": "nong-bo"
+  },
+  "code": {
+    "dopa": "340111"
+  },
+  "parent": {
+    "id": "3401",
+    "level": 2,
+    "name": {
+      "th": "เมืองอุบลราชธานี",
+      "en": "Mueang Ubon Ratchathani",
+      "slug": "mueang-ubon-ratchathani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3401",
+      "level": 2,
+      "name": {
+        "th": "เมืองอุบลราชธานี",
+        "en": "Mueang Ubon Ratchathani",
+        "slug": "mueang-ubon-ratchathani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "34000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.239",
+    "lon": "104.727"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-bo-340111/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "250802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สัมพันธ์",
+    "en": "Samphan",
+    "slug": "samphan"
+  },
+  "code": {
+    "dopa": "250802"
+  },
+  "parent": {
+    "id": "2508",
+    "level": 2,
+    "name": {
+      "th": "ศรีมหาโพธิ",
+      "en": "Si Maha Phot",
+      "slug": "si-maha-phot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "th": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri"
+      }
+    },
+    {
+      "id": "2508",
+      "level": 2,
+      "name": {
+        "th": "ศรีมหาโพธิ",
+        "en": "Si Maha Phot",
+        "slug": "si-maha-phot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "25140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.997",
+    "lon": "101.480"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samphan-250802/"
+  }
+}

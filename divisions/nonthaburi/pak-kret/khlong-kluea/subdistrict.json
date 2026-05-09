@@ -1,0 +1,61 @@
+{
+  "id": "120612",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองเกลือ",
+    "en": "Khlong Kluea",
+    "slug": "khlong-kluea"
+  },
+  "code": {
+    "dopa": "120612"
+  },
+  "parent": {
+    "id": "1206",
+    "level": 2,
+    "name": {
+      "th": "ปากเกร็ด",
+      "en": "Pak Kret",
+      "slug": "pak-kret"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1206",
+      "level": 2,
+      "name": {
+        "th": "ปากเกร็ด",
+        "en": "Pak Kret",
+        "slug": "pak-kret"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "11120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.902",
+    "lon": "100.550"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-kluea-120612/"
+  }
+}

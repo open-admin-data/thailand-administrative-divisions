@@ -1,0 +1,50 @@
+{
+  "id": "6108",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ห้วยคต",
+    "en": "Huai Khot",
+    "slug": "huai-khot"
+  },
+  "code": {
+    "dopa": "6108"
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "th": "อุทัยธานี",
+      "en": "Uthai Thani",
+      "slug": "uthai-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "th": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 31
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.274",
+    "lon": "99.646"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/huai-khot-6108/"
+  }
+}

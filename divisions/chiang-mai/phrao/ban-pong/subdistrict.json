@@ -1,0 +1,61 @@
+{
+  "id": "501106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านโป่ง",
+    "en": "Ban Pong",
+    "slug": "ban-pong"
+  },
+  "code": {
+    "dopa": "501106"
+  },
+  "parent": {
+    "id": "5011",
+    "level": 2,
+    "name": {
+      "th": "พร้าว",
+      "en": "Phrao",
+      "slug": "phrao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5011",
+      "level": 2,
+      "name": {
+        "th": "พร้าว",
+        "en": "Phrao",
+        "slug": "phrao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "50190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.392",
+    "lon": "99.121"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-pong-501106/"
+  }
+}

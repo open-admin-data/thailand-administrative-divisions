@@ -1,0 +1,61 @@
+{
+  "id": "600402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองกลับ",
+    "en": "Nong Klap",
+    "slug": "nong-klap"
+  },
+  "code": {
+    "dopa": "600402"
+  },
+  "parent": {
+    "id": "6004",
+    "level": 2,
+    "name": {
+      "th": "หนองบัว",
+      "en": "Nong Bua",
+      "slug": "nong-bua"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6004",
+      "level": 2,
+      "name": {
+        "th": "หนองบัว",
+        "en": "Nong Bua",
+        "slug": "nong-bua"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "60110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.924",
+    "lon": "100.614"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-klap-600402/"
+  }
+}

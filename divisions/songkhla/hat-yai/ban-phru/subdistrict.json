@@ -1,0 +1,61 @@
+{
+  "id": "901116",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านพรุ",
+    "en": "Ban Phru",
+    "slug": "ban-phru"
+  },
+  "code": {
+    "dopa": "901116"
+  },
+  "parent": {
+    "id": "9011",
+    "level": 2,
+    "name": {
+      "th": "หาดใหญ่",
+      "en": "Hat Yai",
+      "slug": "hat-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9011",
+      "level": 2,
+      "name": {
+        "th": "หาดใหญ่",
+        "en": "Hat Yai",
+        "slug": "hat-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "90250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.929",
+    "lon": "100.490"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-phru-901116/"
+  }
+}

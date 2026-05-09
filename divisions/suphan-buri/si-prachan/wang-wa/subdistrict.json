@@ -1,0 +1,61 @@
+{
+  "id": "720507",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังหว้า",
+    "en": "Wang Wa",
+    "slug": "wang-wa"
+  },
+  "code": {
+    "dopa": "720507"
+  },
+  "parent": {
+    "id": "7205",
+    "level": 2,
+    "name": {
+      "th": "ศรีประจันต์",
+      "en": "Si Prachan",
+      "slug": "si-prachan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7205",
+      "level": 2,
+      "name": {
+        "th": "ศรีประจันต์",
+        "en": "Si Prachan",
+        "slug": "si-prachan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "72140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.661",
+    "lon": "100.095"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-wa-720507/"
+  }
+}

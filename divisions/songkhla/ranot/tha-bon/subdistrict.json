@@ -1,0 +1,61 @@
+{
+  "id": "900704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าบอน",
+    "en": "Tha Bon",
+    "slug": "tha-bon"
+  },
+  "code": {
+    "dopa": "900704"
+  },
+  "parent": {
+    "id": "9007",
+    "level": 2,
+    "name": {
+      "th": "ระโนด",
+      "en": "Ranot",
+      "slug": "ranot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9007",
+      "level": 2,
+      "name": {
+        "th": "ระโนด",
+        "en": "Ranot",
+        "slug": "ranot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "90140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.842",
+    "lon": "100.342"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-bon-900704/"
+  }
+}

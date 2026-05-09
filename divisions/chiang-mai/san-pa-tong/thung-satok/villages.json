@@ -1,0 +1,734 @@
+[
+  {
+    "id": "50120801",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกลาง",
+      "en": "Ban Klang",
+      "slug": "50120801"
+    },
+    "code": {
+      "dopa": "50120801"
+    },
+    "parent": {
+      "id": "501208",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งสะโตก",
+        "en": "Thung Satok",
+        "slug": "thung-satok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5012",
+        "level": 2,
+        "name": {
+          "th": "สันป่าตอง",
+          "en": "San Pa Tong",
+          "slug": "san-pa-tong"
+        }
+      },
+      {
+        "id": "501208",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งสะโตก",
+          "en": "Thung Satok",
+          "slug": "thung-satok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.609499837247856",
+      "lon": "98.84346842765808"
+    },
+    "source": {}
+  },
+  {
+    "id": "50120802",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านป่าลาน",
+      "en": "Ban Pa Lan",
+      "slug": "50120802"
+    },
+    "code": {
+      "dopa": "50120802"
+    },
+    "parent": {
+      "id": "501208",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งสะโตก",
+        "en": "Thung Satok",
+        "slug": "thung-satok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5012",
+        "level": 2,
+        "name": {
+          "th": "สันป่าตอง",
+          "en": "San Pa Tong",
+          "slug": "san-pa-tong"
+        }
+      },
+      {
+        "id": "501208",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งสะโตก",
+          "en": "Thung Satok",
+          "slug": "thung-satok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.603954",
+      "lon": "98.8568699"
+    },
+    "source": {}
+  },
+  {
+    "id": "50120803",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านพนัง",
+      "en": "Ban Phanang",
+      "slug": "50120803"
+    },
+    "code": {
+      "dopa": "50120803"
+    },
+    "parent": {
+      "id": "501208",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งสะโตก",
+        "en": "Thung Satok",
+        "slug": "thung-satok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5012",
+        "level": 2,
+        "name": {
+          "th": "สันป่าตอง",
+          "en": "San Pa Tong",
+          "slug": "san-pa-tong"
+        }
+      },
+      {
+        "id": "501208",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งสะโตก",
+          "en": "Thung Satok",
+          "slug": "thung-satok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.60340281036697",
+      "lon": "98.84187117218971"
+    },
+    "source": {}
+  },
+  {
+    "id": "50120804",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านร้องส้มป่อย",
+      "en": "Ban Rong Som Poi",
+      "slug": "50120804"
+    },
+    "code": {
+      "dopa": "50120804"
+    },
+    "parent": {
+      "id": "501208",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งสะโตก",
+        "en": "Thung Satok",
+        "slug": "thung-satok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5012",
+        "level": 2,
+        "name": {
+          "th": "สันป่าตอง",
+          "en": "San Pa Tong",
+          "slug": "san-pa-tong"
+        }
+      },
+      {
+        "id": "501208",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งสะโตก",
+          "en": "Thung Satok",
+          "slug": "thung-satok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.595220986703076",
+      "lon": "98.85655090212822"
+    },
+    "source": {}
+  },
+  {
+    "id": "50120805",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านป่าอ้อย",
+      "en": "Ban Pa Oi",
+      "slug": "50120805"
+    },
+    "code": {
+      "dopa": "50120805"
+    },
+    "parent": {
+      "id": "501208",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งสะโตก",
+        "en": "Thung Satok",
+        "slug": "thung-satok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5012",
+        "level": 2,
+        "name": {
+          "th": "สันป่าตอง",
+          "en": "San Pa Tong",
+          "slug": "san-pa-tong"
+        }
+      },
+      {
+        "id": "501208",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งสะโตก",
+          "en": "Thung Satok",
+          "slug": "thung-satok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.58420534584554",
+      "lon": "98.8551253080368"
+    },
+    "source": {}
+  },
+  {
+    "id": "50120806",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านร้อง",
+      "en": "Ban Rong",
+      "slug": "50120806"
+    },
+    "code": {
+      "dopa": "50120806"
+    },
+    "parent": {
+      "id": "501208",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งสะโตก",
+        "en": "Thung Satok",
+        "slug": "thung-satok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5012",
+        "level": 2,
+        "name": {
+          "th": "สันป่าตอง",
+          "en": "San Pa Tong",
+          "slug": "san-pa-tong"
+        }
+      },
+      {
+        "id": "501208",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งสะโตก",
+          "en": "Thung Satok",
+          "slug": "thung-satok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.57494967403333",
+      "lon": "98.85782092809677"
+    },
+    "source": {}
+  },
+  {
+    "id": "50120807",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านดงก๋ำ",
+      "en": "Ban Dong Kam",
+      "slug": "50120807"
+    },
+    "code": {
+      "dopa": "50120807"
+    },
+    "parent": {
+      "id": "501208",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งสะโตก",
+        "en": "Thung Satok",
+        "slug": "thung-satok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5012",
+        "level": 2,
+        "name": {
+          "th": "สันป่าตอง",
+          "en": "San Pa Tong",
+          "slug": "san-pa-tong"
+        }
+      },
+      {
+        "id": "501208",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งสะโตก",
+          "en": "Thung Satok",
+          "slug": "thung-satok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.564824",
+      "lon": "98.860715"
+    },
+    "source": {}
+  },
+  {
+    "id": "50120808",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านท่าจำปี",
+      "en": "Ban Tha Champi",
+      "slug": "50120808"
+    },
+    "code": {
+      "dopa": "50120808"
+    },
+    "parent": {
+      "id": "501208",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งสะโตก",
+        "en": "Thung Satok",
+        "slug": "thung-satok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5012",
+        "level": 2,
+        "name": {
+          "th": "สันป่าตอง",
+          "en": "San Pa Tong",
+          "slug": "san-pa-tong"
+        }
+      },
+      {
+        "id": "501208",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งสะโตก",
+          "en": "Thung Satok",
+          "slug": "thung-satok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.564206",
+      "lon": "98.846301"
+    },
+    "source": {}
+  },
+  {
+    "id": "50120809",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกลาง",
+      "en": "Ban Klang",
+      "slug": "50120809"
+    },
+    "code": {
+      "dopa": "50120809"
+    },
+    "parent": {
+      "id": "501208",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งสะโตก",
+        "en": "Thung Satok",
+        "slug": "thung-satok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5012",
+        "level": 2,
+        "name": {
+          "th": "สันป่าตอง",
+          "en": "San Pa Tong",
+          "slug": "san-pa-tong"
+        }
+      },
+      {
+        "id": "501208",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งสะโตก",
+          "en": "Thung Satok",
+          "slug": "thung-satok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.576525",
+      "lon": "98.840419"
+    },
+    "source": {}
+  },
+  {
+    "id": "50120810",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านท่าลา",
+      "en": "Ban Tha La",
+      "slug": "50120810"
+    },
+    "code": {
+      "dopa": "50120810"
+    },
+    "parent": {
+      "id": "501208",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งสะโตก",
+        "en": "Thung Satok",
+        "slug": "thung-satok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5012",
+        "level": 2,
+        "name": {
+          "th": "สันป่าตอง",
+          "en": "San Pa Tong",
+          "slug": "san-pa-tong"
+        }
+      },
+      {
+        "id": "501208",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งสะโตก",
+          "en": "Thung Satok",
+          "slug": "thung-satok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.580995",
+      "lon": "98.839602"
+    },
+    "source": {}
+  },
+  {
+    "id": "50120811",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหัวริน",
+      "en": "Ban Hua Rim",
+      "slug": "50120811"
+    },
+    "code": {
+      "dopa": "50120811"
+    },
+    "parent": {
+      "id": "501208",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งสะโตก",
+        "en": "Thung Satok",
+        "slug": "thung-satok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5012",
+        "level": 2,
+        "name": {
+          "th": "สันป่าตอง",
+          "en": "San Pa Tong",
+          "slug": "san-pa-tong"
+        }
+      },
+      {
+        "id": "501208",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งสะโตก",
+          "en": "Thung Satok",
+          "slug": "thung-satok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.597136",
+      "lon": "98.840284"
+    },
+    "source": {}
+  },
+  {
+    "id": "50120812",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านทุ่งโค้ง",
+      "en": "Ban Thung Khong",
+      "slug": "50120812"
+    },
+    "code": {
+      "dopa": "50120812"
+    },
+    "parent": {
+      "id": "501208",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งสะโตก",
+        "en": "Thung Satok",
+        "slug": "thung-satok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "th": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai"
+        }
+      },
+      {
+        "id": "5012",
+        "level": 2,
+        "name": {
+          "th": "สันป่าตอง",
+          "en": "San Pa Tong",
+          "slug": "san-pa-tong"
+        }
+      },
+      {
+        "id": "501208",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งสะโตก",
+          "en": "Thung Satok",
+          "slug": "thung-satok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.591718",
+      "lon": "98.844353"
+    },
+    "source": {}
+  }
+]

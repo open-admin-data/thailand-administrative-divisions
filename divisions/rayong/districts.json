@@ -1,0 +1,402 @@
+[
+  {
+    "id": "2102",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บ้านฉาง",
+      "en": "Ban Chang",
+      "slug": "ban-chang"
+    },
+    "code": {
+      "dopa": "2102"
+    },
+    "parent": {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 3,
+      "villages": 46
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.688",
+      "lon": "101.025"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/ban-chang-2102/"
+    }
+  },
+  {
+    "id": "2105",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บ้านค่าย",
+      "en": "Ban Khai",
+      "slug": "ban-khai"
+    },
+    "code": {
+      "dopa": "2105"
+    },
+    "parent": {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 7,
+      "villages": 66
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.775",
+      "lon": "101.304"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/ban-khai-2105/"
+    }
+  },
+  {
+    "id": "2107",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เขาชะเมา",
+      "en": "Khao Chamao",
+      "slug": "khao-chamao"
+    },
+    "code": {
+      "dopa": "2107"
+    },
+    "parent": {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 4,
+      "villages": 29
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.062",
+      "lon": "101.617"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/khao-chamao-2107/"
+    }
+  },
+  {
+    "id": "2103",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "แกลง",
+      "en": "Klaeng",
+      "slug": "klaeng"
+    },
+    "code": {
+      "dopa": "2103"
+    },
+    "parent": {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 15,
+      "villages": 163
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.584",
+      "lon": "101.510"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/klaeng-2103/"
+    }
+  },
+  {
+    "id": "2101",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เมืองระยอง",
+      "en": "Mueang Rayong",
+      "slug": "mueang-rayong"
+    },
+    "code": {
+      "dopa": "2101"
+    },
+    "parent": {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 13,
+      "villages": 133
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.646",
+      "lon": "101.171"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/mueang-rayong-2101/"
+    }
+  },
+  {
+    "id": "2108",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "นิคมพัฒนา",
+      "en": "Nikhom Phatthana",
+      "slug": "nikhom-phatthana"
+    },
+    "code": {
+      "dopa": "2108"
+    },
+    "parent": {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 4,
+      "villages": 30
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.856",
+      "lon": "101.177"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/nikhom-phatthana-2108/"
+    }
+  },
+  {
+    "id": "2106",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ปลวกแดง",
+      "en": "Pluak Daeng",
+      "slug": "pluak-daeng"
+    },
+    "code": {
+      "dopa": "2106"
+    },
+    "parent": {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 6,
+      "villages": 34
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.038",
+      "lon": "101.225"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/pluak-daeng-2106/"
+    }
+  },
+  {
+    "id": "2104",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "วังจันทร์",
+      "en": "Wang Chan",
+      "slug": "wang-chan"
+    },
+    "code": {
+      "dopa": "2104"
+    },
+    "parent": {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 4,
+      "villages": 29
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.858",
+      "lon": "101.528"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/wang-chan-2104/"
+    }
+  }
+]

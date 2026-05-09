@@ -1,0 +1,61 @@
+{
+  "id": "931001",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าพะยอม",
+    "en": "Pa Phayom",
+    "slug": "pa-phayom"
+  },
+  "code": {
+    "dopa": "931001"
+  },
+  "parent": {
+    "id": "9310",
+    "level": 2,
+    "name": {
+      "th": "ป่าพยอม",
+      "en": "Pa Phayom",
+      "slug": "pa-phayom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9310",
+      "level": 2,
+      "name": {
+        "th": "ป่าพยอม",
+        "en": "Pa Phayom",
+        "slug": "pa-phayom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "93110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.860",
+    "lon": "99.947"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-phayom-931001/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "120107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางศรีเมือง",
+    "en": "Bang Si Mueang",
+    "slug": "bang-si-mueang"
+  },
+  "code": {
+    "dopa": "120107"
+  },
+  "parent": {
+    "id": "1201",
+    "level": 2,
+    "name": {
+      "th": "เมืองนนทบุรี",
+      "en": "Mueang Nonthaburi",
+      "slug": "mueang-nonthaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1201",
+      "level": 2,
+      "name": {
+        "th": "เมืองนนทบุรี",
+        "en": "Mueang Nonthaburi",
+        "slug": "mueang-nonthaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 37
+  },
+  "zip_codes": [
+    "11000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.841",
+    "lon": "100.475"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-si-mueang-120107/"
+  }
+}

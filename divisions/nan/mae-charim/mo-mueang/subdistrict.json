@@ -1,0 +1,61 @@
+{
+  "id": "550203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หมอเมือง",
+    "en": "Mo Mueang",
+    "slug": "mo-mueang"
+  },
+  "code": {
+    "dopa": "550203"
+  },
+  "parent": {
+    "id": "5502",
+    "level": 2,
+    "name": {
+      "th": "แม่จริม",
+      "en": "Mae Charim",
+      "slug": "mae-charim"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5502",
+      "level": 2,
+      "name": {
+        "th": "แม่จริม",
+        "en": "Mae Charim",
+        "slug": "mae-charim"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "55170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.687",
+    "lon": "100.975"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mo-mueang-550203/"
+  }
+}

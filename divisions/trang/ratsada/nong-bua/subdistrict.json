@@ -1,0 +1,61 @@
+{
+  "id": "920903",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ต.หนองบัว",
+    "en": "Nong Bua",
+    "slug": "nong-bua"
+  },
+  "code": {
+    "dopa": "920903"
+  },
+  "parent": {
+    "id": "9209",
+    "level": 2,
+    "name": {
+      "th": "รัษฎา",
+      "en": "Ratsada",
+      "slug": "ratsada"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9209",
+      "level": 2,
+      "name": {
+        "th": "รัษฎา",
+        "en": "Ratsada",
+        "slug": "ratsada"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "92160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.978",
+    "lon": "99.731"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-bua-920903/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "311103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งวัง",
+    "en": "Thung Wang",
+    "slug": "thung-wang"
+  },
+  "code": {
+    "dopa": "311103"
+  },
+  "parent": {
+    "id": "3111",
+    "level": 2,
+    "name": {
+      "th": "สตึก",
+      "en": "Satuek",
+      "slug": "satuek"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3111",
+      "level": 2,
+      "name": {
+        "th": "สตึก",
+        "en": "Satuek",
+        "slug": "satuek"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "31150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.259",
+    "lon": "103.386"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-wang-311103/"
+  }
+}

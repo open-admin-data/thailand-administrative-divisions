@@ -1,0 +1,61 @@
+{
+  "id": "240508",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าพลับ",
+    "en": "Tha Phlap",
+    "slug": "tha-phlap"
+  },
+  "code": {
+    "dopa": "240508"
+  },
+  "parent": {
+    "id": "2405",
+    "level": 2,
+    "name": {
+      "th": "บ้านโพธิ์",
+      "en": "Ban Pho",
+      "slug": "ban-pho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2405",
+      "level": 2,
+      "name": {
+        "th": "บ้านโพธิ์",
+        "en": "Ban Pho",
+        "slug": "ban-pho"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "24140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.616",
+    "lon": "101.075"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-phlap-240508/"
+  }
+}

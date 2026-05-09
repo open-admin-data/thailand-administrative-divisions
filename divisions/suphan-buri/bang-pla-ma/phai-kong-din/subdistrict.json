@@ -1,0 +1,61 @@
+{
+  "id": "720407",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไผ่กองดิน",
+    "en": "Phai Kong Din",
+    "slug": "phai-kong-din"
+  },
+  "code": {
+    "dopa": "720407"
+  },
+  "parent": {
+    "id": "7204",
+    "level": 2,
+    "name": {
+      "th": "บางปลาม้า",
+      "en": "Bang Pla Ma",
+      "slug": "bang-pla-ma"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7204",
+      "level": 2,
+      "name": {
+        "th": "บางปลาม้า",
+        "en": "Bang Pla Ma",
+        "slug": "bang-pla-ma"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "72150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.340",
+    "lon": "100.264"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phai-kong-din-720407/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "650410",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่านางงาม",
+    "en": "Tha Nang Ngam",
+    "slug": "tha-nang-ngam"
+  },
+  "code": {
+    "dopa": "650410"
+  },
+  "parent": {
+    "id": "6504",
+    "level": 2,
+    "name": {
+      "th": "บางระกำ",
+      "en": "Bang Rakam",
+      "slug": "bang-rakam"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6504",
+      "level": 2,
+      "name": {
+        "th": "บางระกำ",
+        "en": "Bang Rakam",
+        "slug": "bang-rakam"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "65140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.810",
+    "lon": "100.114"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-nang-ngam-650410/"
+  }
+}

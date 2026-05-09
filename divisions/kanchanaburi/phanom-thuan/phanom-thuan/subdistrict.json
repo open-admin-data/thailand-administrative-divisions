@@ -1,0 +1,61 @@
+{
+  "id": "710901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พนมทวน",
+    "en": "Phanom Thuan",
+    "slug": "phanom-thuan"
+  },
+  "code": {
+    "dopa": "710901"
+  },
+  "parent": {
+    "id": "7109",
+    "level": 2,
+    "name": {
+      "th": "พนมทวน",
+      "en": "Phanom Thuan",
+      "slug": "phanom-thuan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7109",
+      "level": 2,
+      "name": {
+        "th": "พนมทวน",
+        "en": "Phanom Thuan",
+        "slug": "phanom-thuan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "71140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.129",
+    "lon": "99.705"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phanom-thuan-710901/"
+  }
+}

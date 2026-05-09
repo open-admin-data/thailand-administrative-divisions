@@ -1,0 +1,61 @@
+{
+  "id": "570413",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองแรด",
+    "en": "Nong Raet",
+    "slug": "nong-raet"
+  },
+  "code": {
+    "dopa": "570413"
+  },
+  "parent": {
+    "id": "5704",
+    "level": 2,
+    "name": {
+      "th": "เทิง",
+      "en": "Thoeng",
+      "slug": "thoeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5704",
+      "level": 2,
+      "name": {
+        "th": "เทิง",
+        "en": "Thoeng",
+        "slug": "thoeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "57160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.607",
+    "lon": "100.143"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-raet-570413/"
+  }
+}

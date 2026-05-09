@@ -1,0 +1,50 @@
+{
+  "id": "7103",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ่อพลอย",
+    "en": "Bo Phloi",
+    "slug": "bo-phloi"
+  },
+  "code": {
+    "dopa": "7103"
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "th": "กาญจนบุรี",
+      "en": "Kanchanaburi",
+      "slug": "kanchanaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 71
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.485",
+    "lon": "99.481"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bo-phloi-7103/"
+  }
+}

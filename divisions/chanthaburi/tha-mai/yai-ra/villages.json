@@ -1,0 +1,124 @@
+[
+  {
+    "id": "22030250",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "ชุมชนไผ่ล้อม",
+      "en": "",
+      "slug": "22030250"
+    },
+    "code": {
+      "dopa": "22030250"
+    },
+    "parent": {
+      "id": "220302",
+      "level": 3,
+      "name": {
+        "th": "ยายร้า",
+        "en": "Yai Ra",
+        "slug": "yai-ra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "th": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai"
+        }
+      },
+      {
+        "id": "220302",
+        "level": 3,
+        "name": {
+          "th": "ยายร้า",
+          "en": "Yai Ra",
+          "slug": "yai-ra"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.61590164976459",
+      "lon": "102.02457636594772"
+    },
+    "source": {}
+  },
+  {
+    "id": "22030251",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "ชุมชนทุ่งน้อย",
+      "en": "",
+      "slug": "22030251"
+    },
+    "code": {
+      "dopa": "22030251"
+    },
+    "parent": {
+      "id": "220302",
+      "level": 3,
+      "name": {
+        "th": "ยายร้า",
+        "en": "Yai Ra",
+        "slug": "yai-ra"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "th": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "th": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai"
+        }
+      },
+      {
+        "id": "220302",
+        "level": 3,
+        "name": {
+          "th": "ยายร้า",
+          "en": "Yai Ra",
+          "slug": "yai-ra"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.603594102944065",
+      "lon": "102.02220663428307"
+    },
+    "source": {}
+  }
+]

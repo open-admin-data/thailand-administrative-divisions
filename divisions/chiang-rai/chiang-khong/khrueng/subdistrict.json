@@ -1,0 +1,61 @@
+{
+  "id": "570303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ครึ่ง",
+    "en": "Khrueng",
+    "slug": "khrueng"
+  },
+  "code": {
+    "dopa": "570303"
+  },
+  "parent": {
+    "id": "5703",
+    "level": 2,
+    "name": {
+      "th": "เชียงของ",
+      "en": "Chiang Khong",
+      "slug": "chiang-khong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5703",
+      "level": 2,
+      "name": {
+        "th": "เชียงของ",
+        "en": "Chiang Khong",
+        "slug": "chiang-khong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "57140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.058",
+    "lon": "100.402"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khrueng-570303/"
+  }
+}

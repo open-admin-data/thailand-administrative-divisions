@@ -1,0 +1,61 @@
+{
+  "id": "101105",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง ทับยาว",
+    "en": "Thap Yao",
+    "slug": "thap-yao"
+  },
+  "code": {
+    "dopa": "101105"
+  },
+  "parent": {
+    "id": "1011",
+    "level": 2,
+    "name": {
+      "th": "เขต ลาดกระบัง",
+      "en": "Lat Krabang",
+      "slug": "lat-krabang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1011",
+      "level": 2,
+      "name": {
+        "th": "เขต ลาดกระบัง",
+        "en": "Lat Krabang",
+        "slug": "lat-krabang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10520"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.728",
+    "lon": "100.815"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thap-yao-101105/"
+  }
+}

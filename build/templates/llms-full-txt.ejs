@@ -1,0 +1,27 @@
+# Thailand Administrative Divisions — Full Reference
+
+> Complete dataset of Thailand's 4-level administrative hierarchy organized by province.
+> Last updated: <%= lastUpdated %>. License: CC-BY-4.0.
+
+## Per-Province Data Files
+
+Each file below contains all divisions for that province, including
+districts, subdistricts, and villages.
+
+<% for (const p of provinces) { -%>
+- [<%= p.name.th %> (<%= p.name.en %>)](<%= githubUrl %>/blob/main/docs/llms-full/<%= p.name.slug %>.txt) — <%= p.children_count.districts %> districts, <%= p.children_count.subdistricts.toLocaleString() %> subdistricts, <%= p.children_count.villages.toLocaleString() %> villages
+<% } -%>
+
+## Summary Statistics
+
+| Province | Thai Name | Region | Districts | Subdistricts | Villages |
+|----------|-----------|--------|-----------|--------------|----------|
+<% for (const p of provinces) { -%>
+| <%= p.name.en %> | <%= p.name.th %> | <%= p.metadata.region.en %> | <%= p.children_count.districts %> | <%= p.children_count.subdistricts.toLocaleString() %> | <%= p.children_count.villages.toLocaleString() %> |
+<% } -%>
+
+## Source
+
+- Dataset: <%= githubUrl %>
+- Original: https://thaiaddress.org
+- License: CC-BY-4.0

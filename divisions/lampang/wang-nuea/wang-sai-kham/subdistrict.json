@@ -1,0 +1,61 @@
+{
+  "id": "520708",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังทรายคำ",
+    "en": "Wang Sai Kham",
+    "slug": "wang-sai-kham"
+  },
+  "code": {
+    "dopa": "520708"
+  },
+  "parent": {
+    "id": "5207",
+    "level": 2,
+    "name": {
+      "th": "วังเหนือ",
+      "en": "Wang Nuea",
+      "slug": "wang-nuea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5207",
+      "level": 2,
+      "name": {
+        "th": "วังเหนือ",
+        "en": "Wang Nuea",
+        "slug": "wang-nuea"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "52140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.080",
+    "lon": "99.649"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-sai-kham-520708/"
+  }
+}

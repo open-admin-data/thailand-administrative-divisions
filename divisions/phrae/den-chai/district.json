@@ -1,0 +1,50 @@
+{
+  "id": "5405",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เด่นชัย",
+    "en": "Den Chai",
+    "slug": "den-chai"
+  },
+  "code": {
+    "dopa": "5405"
+  },
+  "parent": {
+    "id": "54",
+    "level": 1,
+    "name": {
+      "th": "แพร่",
+      "en": "Phrae",
+      "slug": "phrae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 52
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.973",
+    "lon": "100.040"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/den-chai-5405/"
+  }
+}

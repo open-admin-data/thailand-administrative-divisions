@@ -1,0 +1,61 @@
+{
+  "id": "401302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ใหม่นาเพียง",
+    "en": "Mai Na Phiang",
+    "slug": "mai-na-phiang"
+  },
+  "code": {
+    "dopa": "401302"
+  },
+  "parent": {
+    "id": "4013",
+    "level": 2,
+    "name": {
+      "th": "แวงใหญ่",
+      "en": "Waeng Yai",
+      "slug": "waeng-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4013",
+      "level": 2,
+      "name": {
+        "th": "แวงใหญ่",
+        "en": "Waeng Yai",
+        "slug": "waeng-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "40330"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.906",
+    "lon": "102.471"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mai-na-phiang-401302/"
+  }
+}

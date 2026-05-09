@@ -1,0 +1,61 @@
+{
+  "id": "960303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กาเยาะมาตี",
+    "en": "Kayo Mati",
+    "slug": "kayo-mati"
+  },
+  "code": {
+    "dopa": "960303"
+  },
+  "parent": {
+    "id": "9603",
+    "level": 2,
+    "name": {
+      "th": "บาเจาะ",
+      "en": "Bacho",
+      "slug": "bacho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9603",
+      "level": 2,
+      "name": {
+        "th": "บาเจาะ",
+        "en": "Bacho",
+        "slug": "bacho"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "96170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.545",
+    "lon": "101.625"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kayo-mati-960303/"
+  }
+}

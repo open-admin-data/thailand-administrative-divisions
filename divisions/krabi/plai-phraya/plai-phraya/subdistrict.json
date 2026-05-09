@@ -1,0 +1,61 @@
+{
+  "id": "810601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปลายพระยา",
+    "en": "Plai Phraya",
+    "slug": "plai-phraya"
+  },
+  "code": {
+    "dopa": "810601"
+  },
+  "parent": {
+    "id": "8106",
+    "level": 2,
+    "name": {
+      "th": "ปลายพระยา",
+      "en": "Plai Phraya",
+      "slug": "plai-phraya"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8106",
+      "level": 2,
+      "name": {
+        "th": "ปลายพระยา",
+        "en": "Plai Phraya",
+        "slug": "plai-phraya"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "81160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.564",
+    "lon": "98.879"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/plai-phraya-810601/"
+  }
+}

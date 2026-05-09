@@ -1,0 +1,61 @@
+{
+  "id": "450206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านฝาง",
+    "en": "Ban Fang",
+    "slug": "ban-fang"
+  },
+  "code": {
+    "dopa": "450206"
+  },
+  "parent": {
+    "id": "4502",
+    "level": 2,
+    "name": {
+      "th": "เกษตรวิสัย",
+      "en": "Kaset Wisai",
+      "slug": "kaset-wisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4502",
+      "level": 2,
+      "name": {
+        "th": "เกษตรวิสัย",
+        "en": "Kaset Wisai",
+        "slug": "kaset-wisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "45150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.703",
+    "lon": "103.452"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-fang-450206/"
+  }
+}

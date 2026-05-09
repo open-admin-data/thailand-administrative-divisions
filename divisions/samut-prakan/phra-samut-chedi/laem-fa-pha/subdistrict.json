@@ -1,0 +1,61 @@
+{
+  "id": "110503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แหลมฟ้าผ่า",
+    "en": "Laem Fa Pha",
+    "slug": "laem-fa-pha"
+  },
+  "code": {
+    "dopa": "110503"
+  },
+  "parent": {
+    "id": "1105",
+    "level": 2,
+    "name": {
+      "th": "พระสมุทรเจดีย์",
+      "en": "Phra Samut Chedi",
+      "slug": "phra-samut-chedi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1105",
+      "level": 2,
+      "name": {
+        "th": "พระสมุทรเจดีย์",
+        "en": "Phra Samut Chedi",
+        "slug": "phra-samut-chedi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "10290"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.539",
+    "lon": "100.559"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/laem-fa-pha-110503/"
+  }
+}

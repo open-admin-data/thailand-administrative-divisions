@@ -1,0 +1,61 @@
+{
+  "id": "471703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาตงวัฒนา",
+    "en": "Na Tong Watthana",
+    "slug": "na-tong-watthana"
+  },
+  "code": {
+    "dopa": "471703"
+  },
+  "parent": {
+    "id": "4717",
+    "level": 2,
+    "name": {
+      "th": "โพนนาแก้ว",
+      "en": "Phon Na Kaeo",
+      "slug": "phon-na-kaeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4717",
+      "level": 2,
+      "name": {
+        "th": "โพนนาแก้ว",
+        "en": "Phon Na Kaeo",
+        "slug": "phon-na-kaeo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "47230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.242",
+    "lon": "104.341"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-tong-watthana-471703/"
+  }
+}

@@ -1,0 +1,978 @@
+[
+  {
+    "id": "70080101",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองไร่",
+      "en": "Ban Nong Rai",
+      "slug": "70080101"
+    },
+    "code": {
+      "dopa": "70080101"
+    },
+    "parent": {
+      "id": "700801",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งหลวง",
+        "en": "Thung Luang",
+        "slug": "thung-luang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7008",
+        "level": 2,
+        "name": {
+          "th": "ปากท่อ",
+          "en": "Pak Tho",
+          "slug": "pak-tho"
+        }
+      },
+      {
+        "id": "700801",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งหลวง",
+          "en": "Thung Luang",
+          "slug": "thung-luang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.43870857392058",
+      "lon": "99.76063370704651"
+    },
+    "source": {}
+  },
+  {
+    "id": "70080102",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองข่อย",
+      "en": "Ban Nong Khoi",
+      "slug": "70080102"
+    },
+    "code": {
+      "dopa": "70080102"
+    },
+    "parent": {
+      "id": "700801",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งหลวง",
+        "en": "Thung Luang",
+        "slug": "thung-luang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7008",
+        "level": 2,
+        "name": {
+          "th": "ปากท่อ",
+          "en": "Pak Tho",
+          "slug": "pak-tho"
+        }
+      },
+      {
+        "id": "700801",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งหลวง",
+          "en": "Thung Luang",
+          "slug": "thung-luang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.432984869308235",
+      "lon": "99.72588032484055"
+    },
+    "source": {}
+  },
+  {
+    "id": "70080103",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านทุ่งหลวง",
+      "en": "Ban Thung Luang",
+      "slug": "70080103"
+    },
+    "code": {
+      "dopa": "70080103"
+    },
+    "parent": {
+      "id": "700801",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งหลวง",
+        "en": "Thung Luang",
+        "slug": "thung-luang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7008",
+        "level": 2,
+        "name": {
+          "th": "ปากท่อ",
+          "en": "Pak Tho",
+          "slug": "pak-tho"
+        }
+      },
+      {
+        "id": "700801",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งหลวง",
+          "en": "Thung Luang",
+          "slug": "thung-luang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.430466030770443",
+      "lon": "99.71717119216919"
+    },
+    "source": {}
+  },
+  {
+    "id": "70080104",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านพุคาย",
+      "en": "Ban Phu Khai",
+      "slug": "70080104"
+    },
+    "code": {
+      "dopa": "70080104"
+    },
+    "parent": {
+      "id": "700801",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งหลวง",
+        "en": "Thung Luang",
+        "slug": "thung-luang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7008",
+        "level": 2,
+        "name": {
+          "th": "ปากท่อ",
+          "en": "Pak Tho",
+          "slug": "pak-tho"
+        }
+      },
+      {
+        "id": "700801",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งหลวง",
+          "en": "Thung Luang",
+          "slug": "thung-luang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.422771082685829",
+      "lon": "99.6990917623043"
+    },
+    "source": {}
+  },
+  {
+    "id": "70080105",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองโสน",
+      "en": "Ban Nong Sano",
+      "slug": "70080105"
+    },
+    "code": {
+      "dopa": "70080105"
+    },
+    "parent": {
+      "id": "700801",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งหลวง",
+        "en": "Thung Luang",
+        "slug": "thung-luang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7008",
+        "level": 2,
+        "name": {
+          "th": "ปากท่อ",
+          "en": "Pak Tho",
+          "slug": "pak-tho"
+        }
+      },
+      {
+        "id": "700801",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งหลวง",
+          "en": "Thung Luang",
+          "slug": "thung-luang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.433219663888652",
+      "lon": "99.77501437067986"
+    },
+    "source": {}
+  },
+  {
+    "id": "70080106",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองไผ่",
+      "en": "Ban Nong Phai",
+      "slug": "70080106"
+    },
+    "code": {
+      "dopa": "70080106"
+    },
+    "parent": {
+      "id": "700801",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งหลวง",
+        "en": "Thung Luang",
+        "slug": "thung-luang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7008",
+        "level": 2,
+        "name": {
+          "th": "ปากท่อ",
+          "en": "Pak Tho",
+          "slug": "pak-tho"
+        }
+      },
+      {
+        "id": "700801",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งหลวง",
+          "en": "Thung Luang",
+          "slug": "thung-luang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.401730356645011",
+      "lon": "99.69383597373962"
+    },
+    "source": {}
+  },
+  {
+    "id": "70080107",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองน้ำใส",
+      "en": "Ban Nong Nam Sai",
+      "slug": "70080107"
+    },
+    "code": {
+      "dopa": "70080107"
+    },
+    "parent": {
+      "id": "700801",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งหลวง",
+        "en": "Thung Luang",
+        "slug": "thung-luang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7008",
+        "level": 2,
+        "name": {
+          "th": "ปากท่อ",
+          "en": "Pak Tho",
+          "slug": "pak-tho"
+        }
+      },
+      {
+        "id": "700801",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งหลวง",
+          "en": "Thung Luang",
+          "slug": "thung-luang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.398021393662576",
+      "lon": "99.72518295049667"
+    },
+    "source": {}
+  },
+  {
+    "id": "70080108",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเขาพระเอก",
+      "en": "Ban Khao Phra Ek",
+      "slug": "70080108"
+    },
+    "code": {
+      "dopa": "70080108"
+    },
+    "parent": {
+      "id": "700801",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งหลวง",
+        "en": "Thung Luang",
+        "slug": "thung-luang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7008",
+        "level": 2,
+        "name": {
+          "th": "ปากท่อ",
+          "en": "Pak Tho",
+          "slug": "pak-tho"
+        }
+      },
+      {
+        "id": "700801",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งหลวง",
+          "en": "Thung Luang",
+          "slug": "thung-luang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.447819521939689",
+      "lon": "99.74852621555328"
+    },
+    "source": {}
+  },
+  {
+    "id": "70080109",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองกอก",
+      "en": "Ban Nong Kok",
+      "slug": "70080109"
+    },
+    "code": {
+      "dopa": "70080109"
+    },
+    "parent": {
+      "id": "700801",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งหลวง",
+        "en": "Thung Luang",
+        "slug": "thung-luang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7008",
+        "level": 2,
+        "name": {
+          "th": "ปากท่อ",
+          "en": "Pak Tho",
+          "slug": "pak-tho"
+        }
+      },
+      {
+        "id": "700801",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งหลวง",
+          "en": "Thung Luang",
+          "slug": "thung-luang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.430754309333123",
+      "lon": "99.75502789020538"
+    },
+    "source": {}
+  },
+  {
+    "id": "70080110",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองตาจอน",
+      "en": "Ban Nong Ta Chon",
+      "slug": "70080110"
+    },
+    "code": {
+      "dopa": "70080110"
+    },
+    "parent": {
+      "id": "700801",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งหลวง",
+        "en": "Thung Luang",
+        "slug": "thung-luang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7008",
+        "level": 2,
+        "name": {
+          "th": "ปากท่อ",
+          "en": "Pak Tho",
+          "slug": "pak-tho"
+        }
+      },
+      {
+        "id": "700801",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งหลวง",
+          "en": "Thung Luang",
+          "slug": "thung-luang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.437415926046521",
+      "lon": "99.66627091169357"
+    },
+    "source": {}
+  },
+  {
+    "id": "70080111",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองวัวดำ",
+      "en": "Ban Nong Wua Dam",
+      "slug": "70080111"
+    },
+    "code": {
+      "dopa": "70080111"
+    },
+    "parent": {
+      "id": "700801",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งหลวง",
+        "en": "Thung Luang",
+        "slug": "thung-luang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7008",
+        "level": 2,
+        "name": {
+          "th": "ปากท่อ",
+          "en": "Pak Tho",
+          "slug": "pak-tho"
+        }
+      },
+      {
+        "id": "700801",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งหลวง",
+          "en": "Thung Luang",
+          "slug": "thung-luang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.398633252557651",
+      "lon": "99.64098304510117"
+    },
+    "source": {}
+  },
+  {
+    "id": "70080112",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านพุยาง",
+      "en": "Ban Phu Yang",
+      "slug": "70080112"
+    },
+    "code": {
+      "dopa": "70080112"
+    },
+    "parent": {
+      "id": "700801",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งหลวง",
+        "en": "Thung Luang",
+        "slug": "thung-luang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7008",
+        "level": 2,
+        "name": {
+          "th": "ปากท่อ",
+          "en": "Pak Tho",
+          "slug": "pak-tho"
+        }
+      },
+      {
+        "id": "700801",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งหลวง",
+          "en": "Thung Luang",
+          "slug": "thung-luang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.400995874321387",
+      "lon": "99.64788168668747"
+    },
+    "source": {}
+  },
+  {
+    "id": "70080113",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเขากลอย",
+      "en": "Ban Khao Kloi",
+      "slug": "70080113"
+    },
+    "code": {
+      "dopa": "70080113"
+    },
+    "parent": {
+      "id": "700801",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งหลวง",
+        "en": "Thung Luang",
+        "slug": "thung-luang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7008",
+        "level": 2,
+        "name": {
+          "th": "ปากท่อ",
+          "en": "Pak Tho",
+          "slug": "pak-tho"
+        }
+      },
+      {
+        "id": "700801",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งหลวง",
+          "en": "Thung Luang",
+          "slug": "thung-luang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.414721060351823",
+      "lon": "99.72727373242378"
+    },
+    "source": {}
+  },
+  {
+    "id": "70080114",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองเด่น",
+      "en": "Ban Nong Den",
+      "slug": "70080114"
+    },
+    "code": {
+      "dopa": "70080114"
+    },
+    "parent": {
+      "id": "700801",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งหลวง",
+        "en": "Thung Luang",
+        "slug": "thung-luang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7008",
+        "level": 2,
+        "name": {
+          "th": "ปากท่อ",
+          "en": "Pak Tho",
+          "slug": "pak-tho"
+        }
+      },
+      {
+        "id": "700801",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งหลวง",
+          "en": "Thung Luang",
+          "slug": "thung-luang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.396588933275352",
+      "lon": "99.68338876962662"
+    },
+    "source": {}
+  },
+  {
+    "id": "70080115",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเหล่ามะละกอ",
+      "en": "Ban Lao Malako",
+      "slug": "70080115"
+    },
+    "code": {
+      "dopa": "70080115"
+    },
+    "parent": {
+      "id": "700801",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งหลวง",
+        "en": "Thung Luang",
+        "slug": "thung-luang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7008",
+        "level": 2,
+        "name": {
+          "th": "ปากท่อ",
+          "en": "Pak Tho",
+          "slug": "pak-tho"
+        }
+      },
+      {
+        "id": "700801",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งหลวง",
+          "en": "Thung Luang",
+          "slug": "thung-luang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.415122850395036",
+      "lon": "99.67800825834274"
+    },
+    "source": {}
+  },
+  {
+    "id": "70080116",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเนิน",
+      "en": "Ban Noen",
+      "slug": "70080116"
+    },
+    "code": {
+      "dopa": "70080116"
+    },
+    "parent": {
+      "id": "700801",
+      "level": 3,
+      "name": {
+        "th": "ทุ่งหลวง",
+        "en": "Thung Luang",
+        "slug": "thung-luang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "th": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi"
+        }
+      },
+      {
+        "id": "7008",
+        "level": 2,
+        "name": {
+          "th": "ปากท่อ",
+          "en": "Pak Tho",
+          "slug": "pak-tho"
+        }
+      },
+      {
+        "id": "700801",
+        "level": 3,
+        "name": {
+          "th": "ทุ่งหลวง",
+          "en": "Thung Luang",
+          "slug": "thung-luang"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.425892660276098",
+      "lon": "99.66532945632935"
+    },
+    "source": {}
+  }
+]

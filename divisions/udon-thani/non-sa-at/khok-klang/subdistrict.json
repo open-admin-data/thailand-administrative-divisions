@@ -1,0 +1,61 @@
+{
+  "id": "410506",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกกลาง",
+    "en": "Khok Klang",
+    "slug": "khok-klang"
+  },
+  "code": {
+    "dopa": "410506"
+  },
+  "parent": {
+    "id": "4105",
+    "level": 2,
+    "name": {
+      "th": "โนนสะอาด",
+      "en": "Non Sa-at",
+      "slug": "non-sa-at"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4105",
+      "level": 2,
+      "name": {
+        "th": "โนนสะอาด",
+        "en": "Non Sa-at",
+        "slug": "non-sa-at"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "41240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.929",
+    "lon": "102.911"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-klang-410506/"
+  }
+}

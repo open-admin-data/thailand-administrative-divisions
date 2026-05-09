@@ -1,0 +1,50 @@
+{
+  "id": "5712",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พญาเม็งราย",
+    "en": "Phaya Mengrai",
+    "slug": "phaya-mengrai"
+  },
+  "code": {
+    "dopa": "5712"
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 72
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.926",
+    "lon": "100.239"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phaya-mengrai-5712/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "940106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองมานิง",
+    "en": "Khlong Maning",
+    "slug": "khlong-maning"
+  },
+  "code": {
+    "dopa": "940106"
+  },
+  "parent": {
+    "id": "9401",
+    "level": 2,
+    "name": {
+      "th": "เมืองปัตตานี",
+      "en": "Mueang Pattani",
+      "slug": "mueang-pattani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9401",
+      "level": 2,
+      "name": {
+        "th": "เมืองปัตตานี",
+        "en": "Mueang Pattani",
+        "slug": "mueang-pattani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "94000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.845",
+    "lon": "101.293"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-maning-940106/"
+  }
+}

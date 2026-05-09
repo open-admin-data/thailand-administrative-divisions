@@ -1,0 +1,61 @@
+{
+  "id": "450517",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองน้อย",
+    "en": "Mueang Noi",
+    "slug": "mueang-noi"
+  },
+  "code": {
+    "dopa": "450517"
+  },
+  "parent": {
+    "id": "4505",
+    "level": 2,
+    "name": {
+      "th": "ธวัชบุรี",
+      "en": "Thawat Buri",
+      "slug": "thawat-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4505",
+      "level": 2,
+      "name": {
+        "th": "ธวัชบุรี",
+        "en": "Thawat Buri",
+        "slug": "thawat-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "45170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.985",
+    "lon": "103.764"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-noi-450517/"
+  }
+}

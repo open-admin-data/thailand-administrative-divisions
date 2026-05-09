@@ -1,0 +1,61 @@
+{
+  "id": "551004",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปิงหลวง",
+    "en": "Ping Luang",
+    "slug": "ping-luang"
+  },
+  "code": {
+    "dopa": "551004"
+  },
+  "parent": {
+    "id": "5510",
+    "level": 2,
+    "name": {
+      "th": "นาหมื่น",
+      "en": "Na Muen",
+      "slug": "na-muen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5510",
+      "level": 2,
+      "name": {
+        "th": "นาหมื่น",
+        "en": "Na Muen",
+        "slug": "na-muen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "55180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.115",
+    "lon": "100.486"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ping-luang-551004/"
+  }
+}

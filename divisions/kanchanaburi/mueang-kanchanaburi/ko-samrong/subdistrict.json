@@ -1,0 +1,61 @@
+{
+  "id": "710111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะสำโรง",
+    "en": "Ko Samrong",
+    "slug": "ko-samrong"
+  },
+  "code": {
+    "dopa": "710111"
+  },
+  "parent": {
+    "id": "7101",
+    "level": 2,
+    "name": {
+      "th": "เมืองกาญจนบุรี",
+      "en": "Mueang Kanchanaburi",
+      "slug": "mueang-kanchanaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7101",
+      "level": 2,
+      "name": {
+        "th": "เมืองกาญจนบุรี",
+        "en": "Mueang Kanchanaburi",
+        "slug": "mueang-kanchanaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "71000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.951",
+    "lon": "99.520"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-samrong-710111/"
+  }
+}

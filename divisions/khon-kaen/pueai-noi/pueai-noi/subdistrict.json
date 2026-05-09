@@ -1,0 +1,61 @@
+{
+  "id": "401101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เปือยน้อย",
+    "en": "Pueai Noi",
+    "slug": "pueai-noi"
+  },
+  "code": {
+    "dopa": "401101"
+  },
+  "parent": {
+    "id": "4011",
+    "level": 2,
+    "name": {
+      "th": "เปือยน้อย",
+      "en": "Pueai Noi",
+      "slug": "pueai-noi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4011",
+      "level": 2,
+      "name": {
+        "th": "เปือยน้อย",
+        "en": "Pueai Noi",
+        "slug": "pueai-noi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "40340"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.879",
+    "lon": "102.904"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pueai-noi-401101/"
+  }
+}

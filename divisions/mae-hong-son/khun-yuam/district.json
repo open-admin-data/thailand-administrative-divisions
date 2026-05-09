@@ -1,0 +1,50 @@
+{
+  "id": "5802",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ขุนยวม",
+    "en": "Khun Yuam",
+    "slug": "khun-yuam"
+  },
+  "code": {
+    "dopa": "5802"
+  },
+  "parent": {
+    "id": "58",
+    "level": 1,
+    "name": {
+      "th": "แม่ฮ่องสอน",
+      "en": "Mae Hong Son",
+      "slug": "mae-hong-son"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 43
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.742",
+    "lon": "98.051"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khun-yuam-5802/"
+  }
+}

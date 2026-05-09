@@ -1,0 +1,61 @@
+{
+  "id": "840301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนสัก",
+    "en": "Don Sak",
+    "slug": "don-sak"
+  },
+  "code": {
+    "dopa": "840301"
+  },
+  "parent": {
+    "id": "8403",
+    "level": 2,
+    "name": {
+      "th": "ดอนสัก",
+      "en": "Don Sak",
+      "slug": "don-sak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8403",
+      "level": 2,
+      "name": {
+        "th": "ดอนสัก",
+        "en": "Don Sak",
+        "slug": "don-sak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 22
+  },
+  "zip_codes": [
+    "84220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.275",
+    "lon": "99.707"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-sak-840301/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "1041",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต หลักสี่",
+    "en": "Khet Lak Si",
+    "slug": "khet-lak-si"
+  },
+  "code": {
+    "dopa": "1041"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 2,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.871",
+    "lon": "100.580"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khet-lak-si-1041/"
+  }
+}

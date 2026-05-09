@@ -1,0 +1,61 @@
+{
+  "id": "301714",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองหลัก",
+    "en": "Nong Lak",
+    "slug": "nong-lak"
+  },
+  "code": {
+    "dopa": "301714"
+  },
+  "parent": {
+    "id": "3017",
+    "level": 2,
+    "name": {
+      "th": "ชุมพวง",
+      "en": "Chum Phuang",
+      "slug": "chum-phuang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3017",
+      "level": 2,
+      "name": {
+        "th": "ชุมพวง",
+        "en": "Chum Phuang",
+        "slug": "chum-phuang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "30270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.411",
+    "lon": "102.732"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-lak-301714/"
+  }
+}

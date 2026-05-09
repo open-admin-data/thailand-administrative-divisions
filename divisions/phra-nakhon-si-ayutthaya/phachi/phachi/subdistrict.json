@@ -1,0 +1,61 @@
+{
+  "id": "140901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ภาชี",
+    "en": "Phachi",
+    "slug": "phachi"
+  },
+  "code": {
+    "dopa": "140901"
+  },
+  "parent": {
+    "id": "1409",
+    "level": 2,
+    "name": {
+      "th": "ภาชี",
+      "en": "Phachi",
+      "slug": "phachi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1409",
+      "level": 2,
+      "name": {
+        "th": "ภาชี",
+        "en": "Phachi",
+        "slug": "phachi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "13140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.442",
+    "lon": "100.725"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phachi-140901/"
+  }
+}

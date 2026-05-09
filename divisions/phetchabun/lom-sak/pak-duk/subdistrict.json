@@ -1,0 +1,61 @@
+{
+  "id": "670322",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากดุก",
+    "en": "Pak Duk",
+    "slug": "pak-duk"
+  },
+  "code": {
+    "dopa": "670322"
+  },
+  "parent": {
+    "id": "6703",
+    "level": 2,
+    "name": {
+      "th": "หล่มสัก",
+      "en": "Lom Sak",
+      "slug": "lom-sak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6703",
+      "level": 2,
+      "name": {
+        "th": "หล่มสัก",
+        "en": "Lom Sak",
+        "slug": "lom-sak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "67110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.720",
+    "lon": "101.249"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-duk-670322/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "840502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านใต้",
+    "en": "Ban Tai",
+    "slug": "ban-tai"
+  },
+  "code": {
+    "dopa": "840502"
+  },
+  "parent": {
+    "id": "8405",
+    "level": 2,
+    "name": {
+      "th": "เกาะพะงัน",
+      "en": "Ko Pha-ngan",
+      "slug": "ko-pha-ngan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8405",
+      "level": 2,
+      "name": {
+        "th": "เกาะพะงัน",
+        "en": "Ko Pha-ngan",
+        "slug": "ko-pha-ngan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "84280"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.723",
+    "lon": "100.062"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-tai-840502/"
+  }
+}

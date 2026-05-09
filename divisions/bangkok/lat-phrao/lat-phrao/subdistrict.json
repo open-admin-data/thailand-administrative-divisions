@@ -1,0 +1,61 @@
+{
+  "id": "103801",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง ลาดพร้าว",
+    "en": "Lat Phrao",
+    "slug": "lat-phrao"
+  },
+  "code": {
+    "dopa": "103801"
+  },
+  "parent": {
+    "id": "1038",
+    "level": 2,
+    "name": {
+      "th": "เขต ลาดพร้าว",
+      "en": "Lat Phrao",
+      "slug": "lat-phrao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1038",
+      "level": 2,
+      "name": {
+        "th": "เขต ลาดพร้าว",
+        "en": "Lat Phrao",
+        "slug": "lat-phrao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10230"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.811",
+    "lon": "100.612"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lat-phrao-103801/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "670208",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ซับพุทรา",
+    "en": "Sap Phutsa",
+    "slug": "sap-phutsa"
+  },
+  "code": {
+    "dopa": "670208"
+  },
+  "parent": {
+    "id": "6702",
+    "level": 2,
+    "name": {
+      "th": "ชนแดน",
+      "en": "Chon Daen",
+      "slug": "chon-daen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6702",
+      "level": 2,
+      "name": {
+        "th": "ชนแดน",
+        "en": "Chon Daen",
+        "slug": "chon-daen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "67150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.035",
+    "lon": "100.928"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sap-phutsa-670208/"
+  }
+}

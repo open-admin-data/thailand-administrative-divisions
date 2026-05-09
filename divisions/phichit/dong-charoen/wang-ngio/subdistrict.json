@@ -1,0 +1,61 @@
+{
+  "id": "661102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังงิ้ว",
+    "en": "Wang Ngio",
+    "slug": "wang-ngio"
+  },
+  "code": {
+    "dopa": "661102"
+  },
+  "parent": {
+    "id": "6611",
+    "level": 2,
+    "name": {
+      "th": "ดงเจริญ",
+      "en": "Dong Charoen",
+      "slug": "dong-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6611",
+      "level": 2,
+      "name": {
+        "th": "ดงเจริญ",
+        "en": "Dong Charoen",
+        "slug": "dong-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "66210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.000",
+    "lon": "100.741"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-ngio-661102/"
+  }
+}

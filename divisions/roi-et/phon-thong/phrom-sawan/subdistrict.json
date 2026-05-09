@@ -1,0 +1,61 @@
+{
+  "id": "450711",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พรมสวรรค์",
+    "en": "Phrom Sawan",
+    "slug": "phrom-sawan"
+  },
+  "code": {
+    "dopa": "450711"
+  },
+  "parent": {
+    "id": "4507",
+    "level": 2,
+    "name": {
+      "th": "โพนทอง",
+      "en": "Phon Thong",
+      "slug": "phon-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4507",
+      "level": 2,
+      "name": {
+        "th": "โพนทอง",
+        "en": "Phon Thong",
+        "slug": "phon-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "45110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.199",
+    "lon": "104.084"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phrom-sawan-450711/"
+  }
+}

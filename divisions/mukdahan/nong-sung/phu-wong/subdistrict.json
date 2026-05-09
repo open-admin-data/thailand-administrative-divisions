@@ -1,0 +1,61 @@
+{
+  "id": "490703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ภูวง",
+    "en": "Phu Wong",
+    "slug": "phu-wong"
+  },
+  "code": {
+    "dopa": "490703"
+  },
+  "parent": {
+    "id": "4907",
+    "level": 2,
+    "name": {
+      "th": "หนองสูง",
+      "en": "Nong Sung",
+      "slug": "nong-sung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    },
+    {
+      "id": "4907",
+      "level": 2,
+      "name": {
+        "th": "หนองสูง",
+        "en": "Nong Sung",
+        "slug": "nong-sung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "49160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.455",
+    "lon": "104.447"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phu-wong-490703/"
+  }
+}

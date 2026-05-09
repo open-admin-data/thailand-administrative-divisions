@@ -1,0 +1,61 @@
+{
+  "id": "660901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สากเหล็ก",
+    "en": "Sak Lek",
+    "slug": "sak-lek"
+  },
+  "code": {
+    "dopa": "660901"
+  },
+  "parent": {
+    "id": "6609",
+    "level": 2,
+    "name": {
+      "th": "สากเหล็ก",
+      "en": "Sak Lek",
+      "slug": "sak-lek"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6609",
+      "level": 2,
+      "name": {
+        "th": "สากเหล็ก",
+        "en": "Sak Lek",
+        "slug": "sak-lek"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "66160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.486",
+    "lon": "100.461"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sak-lek-660901/"
+  }
+}

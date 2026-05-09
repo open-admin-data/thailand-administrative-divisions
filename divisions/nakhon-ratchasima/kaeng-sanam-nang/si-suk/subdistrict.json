@@ -1,0 +1,61 @@
+{
+  "id": "302304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สีสุก",
+    "en": "Si Suk",
+    "slug": "si-suk"
+  },
+  "code": {
+    "dopa": "302304"
+  },
+  "parent": {
+    "id": "3023",
+    "level": 2,
+    "name": {
+      "th": "แก้งสนามนาง",
+      "en": "Kaeng Sanam Nang",
+      "slug": "kaeng-sanam-nang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3023",
+      "level": 2,
+      "name": {
+        "th": "แก้งสนามนาง",
+        "en": "Kaeng Sanam Nang",
+        "slug": "kaeng-sanam-nang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "30440"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.640",
+    "lon": "102.175"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-suk-302304/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "950201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เบตง",
+    "en": "Betong",
+    "slug": "betong"
+  },
+  "code": {
+    "dopa": "950201"
+  },
+  "parent": {
+    "id": "9502",
+    "level": 2,
+    "name": {
+      "th": "เบตง",
+      "en": "Betong",
+      "slug": "betong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9502",
+      "level": 2,
+      "name": {
+        "th": "เบตง",
+        "en": "Betong",
+        "slug": "betong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 28
+  },
+  "zip_codes": [
+    "95110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "5.803",
+    "lon": "101.009"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/betong-950201/"
+  }
+}

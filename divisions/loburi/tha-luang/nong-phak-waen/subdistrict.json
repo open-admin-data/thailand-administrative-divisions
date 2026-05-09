@@ -1,0 +1,61 @@
+{
+  "id": "160704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองผักแว่น",
+    "en": "Nong Phak Waen",
+    "slug": "nong-phak-waen"
+  },
+  "code": {
+    "dopa": "160704"
+  },
+  "parent": {
+    "id": "1607",
+    "level": 2,
+    "name": {
+      "th": "ท่าหลวง",
+      "en": "Tha Luang",
+      "slug": "tha-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1607",
+      "level": 2,
+      "name": {
+        "th": "ท่าหลวง",
+        "en": "Tha Luang",
+        "slug": "tha-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "15230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.119",
+    "lon": "101.216"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-phak-waen-160704/"
+  }
+}

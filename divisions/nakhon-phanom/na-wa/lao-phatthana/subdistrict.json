@@ -1,0 +1,61 @@
+{
+  "id": "480905",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เหล่าพัฒนา",
+    "en": "Lao Phatthana",
+    "slug": "lao-phatthana"
+  },
+  "code": {
+    "dopa": "480905"
+  },
+  "parent": {
+    "id": "4809",
+    "level": 2,
+    "name": {
+      "th": "นาหว้า",
+      "en": "Na Wa",
+      "slug": "na-wa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4809",
+      "level": 2,
+      "name": {
+        "th": "นาหว้า",
+        "en": "Na Wa",
+        "slug": "na-wa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "48180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.617",
+    "lon": "104.070"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lao-phatthana-480905/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "240308",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนฉิมพลี",
+    "en": "Don Chimphli",
+    "slug": "don-chimphli"
+  },
+  "code": {
+    "dopa": "240308"
+  },
+  "parent": {
+    "id": "2403",
+    "level": 2,
+    "name": {
+      "th": "บางน้ำเปรี้ยว",
+      "en": "Bang Nam Priao",
+      "slug": "bang-nam-priao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2403",
+      "level": 2,
+      "name": {
+        "th": "บางน้ำเปรี้ยว",
+        "en": "Bang Nam Priao",
+        "slug": "bang-nam-priao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "24170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.908",
+    "lon": "100.964"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-chimphli-240308/"
+  }
+}

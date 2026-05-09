@@ -1,0 +1,61 @@
+{
+  "id": "420602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แสงภา",
+    "en": "Saeng Pha",
+    "slug": "saeng-pha"
+  },
+  "code": {
+    "dopa": "420602"
+  },
+  "parent": {
+    "id": "4206",
+    "level": 2,
+    "name": {
+      "th": "นาแห้ว",
+      "en": "Na Haeo",
+      "slug": "na-haeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4206",
+      "level": 2,
+      "name": {
+        "th": "นาแห้ว",
+        "en": "Na Haeo",
+        "slug": "na-haeo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "42170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.507",
+    "lon": "100.965"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/saeng-pha-420602/"
+  }
+}

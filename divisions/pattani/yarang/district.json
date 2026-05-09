@@ -1,0 +1,50 @@
+{
+  "id": "9410",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ยะรัง",
+    "en": "Yarang",
+    "slug": "yarang"
+  },
+  "code": {
+    "dopa": "9410"
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "th": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 72
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.717",
+    "lon": "101.299"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/yarang-9410/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "25",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ปราจีนบุรี",
+    "en": "Prachin Buri",
+    "slug": "prachin-buri"
+  },
+  "code": {
+    "dopa": "25",
+    "iso": "TH-25"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 7,
+    "subdistricts": 64,
+    "villages": 720
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออก",
+      "en": "Eastern"
+    }
+  },
+  "geo": {
+    "lat": "14.057",
+    "lon": "101.374"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/prachin-buri-25/"
+  }
+}

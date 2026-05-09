@@ -1,0 +1,61 @@
+{
+  "id": "760203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางเค็ม",
+    "en": "Bang Khem",
+    "slug": "bang-khem"
+  },
+  "code": {
+    "dopa": "760203"
+  },
+  "parent": {
+    "id": "7602",
+    "level": 2,
+    "name": {
+      "th": "เขาย้อย",
+      "en": "Khao Yoi",
+      "slug": "khao-yoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7602",
+      "level": 2,
+      "name": {
+        "th": "เขาย้อย",
+        "en": "Khao Yoi",
+        "slug": "khao-yoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "76140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.284",
+    "lon": "99.838"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-khem-760203/"
+  }
+}

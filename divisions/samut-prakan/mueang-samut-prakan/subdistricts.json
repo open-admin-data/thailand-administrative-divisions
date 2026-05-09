@@ -1,0 +1,795 @@
+[
+  {
+    "id": "110113",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บางด้วน",
+      "en": "Bang Duan",
+      "slug": "bang-duan"
+    },
+    "code": {
+      "dopa": "110113"
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรปราการ",
+        "en": "Mueang Samut Prakan",
+        "slug": "mueang-samut-prakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "th": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสมุทรปราการ",
+          "en": "Mueang Samut Prakan",
+          "slug": "mueang-samut-prakan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "10270"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.622",
+      "lon": "100.581"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bang-duan-110113/"
+    }
+  },
+  {
+    "id": "110103",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บางเมือง",
+      "en": "Bang Mueang",
+      "slug": "bang-mueang"
+    },
+    "code": {
+      "dopa": "110103"
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรปราการ",
+        "en": "Mueang Samut Prakan",
+        "slug": "mueang-samut-prakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "th": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสมุทรปราการ",
+          "en": "Mueang Samut Prakan",
+          "slug": "mueang-samut-prakan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 34
+    },
+    "zip_codes": [
+      "10270"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.601",
+      "lon": "100.622"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bang-mueang-110103/"
+    }
+  },
+  {
+    "id": "110114",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เทศบาลบางเมือง",
+      "en": "Bang Mueang Mai",
+      "slug": "bang-mueang-mai"
+    },
+    "code": {
+      "dopa": "110114"
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรปราการ",
+        "en": "Mueang Samut Prakan",
+        "slug": "mueang-samut-prakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "th": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสมุทรปราการ",
+          "en": "Mueang Samut Prakan",
+          "slug": "mueang-samut-prakan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 16
+    },
+    "zip_codes": [
+      "10270"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.622",
+      "lon": "100.605"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bang-mueang-mai-110114/"
+    }
+  },
+  {
+    "id": "110111",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บางโปรง",
+      "en": "Bang Prong",
+      "slug": "bang-prong"
+    },
+    "code": {
+      "dopa": "110111"
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรปราการ",
+        "en": "Mueang Samut Prakan",
+        "slug": "mueang-samut-prakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "th": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสมุทรปราการ",
+          "en": "Mueang Samut Prakan",
+          "slug": "mueang-samut-prakan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 4
+    },
+    "zip_codes": [
+      "10270"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.623",
+      "lon": "100.565"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bang-prong-110111/"
+    }
+  },
+  {
+    "id": "110112",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เทศบาลบางปู",
+      "en": "Bang Pu",
+      "slug": "bang-pu"
+    },
+    "code": {
+      "dopa": "110112"
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรปราการ",
+        "en": "Mueang Samut Prakan",
+        "slug": "mueang-samut-prakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "th": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสมุทรปราการ",
+          "en": "Mueang Samut Prakan",
+          "slug": "mueang-samut-prakan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 4
+    },
+    "zip_codes": [
+      "94150"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.510",
+      "lon": "100.751"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bang-pu-110112/"
+    }
+  },
+  {
+    "id": "110108",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บางปูใหม่",
+      "en": "Bang Pu Mai",
+      "slug": "bang-pu-mai"
+    },
+    "code": {
+      "dopa": "110108"
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรปราการ",
+        "en": "Mueang Samut Prakan",
+        "slug": "mueang-samut-prakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "th": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสมุทรปราการ",
+          "en": "Mueang Samut Prakan",
+          "slug": "mueang-samut-prakan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "10280"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.526",
+      "lon": "100.670"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bang-pu-mai-110108/"
+    }
+  },
+  {
+    "id": "110110",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แพรกษา",
+      "en": "Phraek Sa",
+      "slug": "phraek-sa"
+    },
+    "code": {
+      "dopa": "110110"
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรปราการ",
+        "en": "Mueang Samut Prakan",
+        "slug": "mueang-samut-prakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "th": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสมุทรปราการ",
+          "en": "Mueang Samut Prakan",
+          "slug": "mueang-samut-prakan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "10280"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.564",
+      "lon": "100.653"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/phraek-sa-110110/"
+    }
+  },
+  {
+    "id": "110117",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แพรกษาใหม่",
+      "en": "Phraek Sa Mai",
+      "slug": "phraek-sa-mai"
+    },
+    "code": {
+      "dopa": "110117"
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรปราการ",
+        "en": "Mueang Samut Prakan",
+        "slug": "mueang-samut-prakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "th": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสมุทรปราการ",
+          "en": "Mueang Samut Prakan",
+          "slug": "mueang-samut-prakan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "10280"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.559",
+      "lon": "100.691"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/phraek-sa-mai-110117/"
+    }
+  },
+  {
+    "id": "110102",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "สำโรงเหนือ",
+      "en": "Samrong Nuea",
+      "slug": "samrong-nuea"
+    },
+    "code": {
+      "dopa": "110102"
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรปราการ",
+        "en": "Mueang Samut Prakan",
+        "slug": "mueang-samut-prakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "th": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสมุทรปราการ",
+          "en": "Mueang Samut Prakan",
+          "slug": "mueang-samut-prakan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 19
+    },
+    "zip_codes": [
+      "10270"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.649",
+      "lon": "100.617"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/samrong-nuea-110102/"
+    }
+  },
+  {
+    "id": "110101",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เทศบาลนครสมุทรปราการ",
+      "en": "Samut Prakan City Municipality",
+      "slug": "samut-prakan-city-municipality"
+    },
+    "code": {
+      "dopa": "110101"
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรปราการ",
+        "en": "Mueang Samut Prakan",
+        "slug": "mueang-samut-prakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "th": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสมุทรปราการ",
+          "en": "Mueang Samut Prakan",
+          "slug": "mueang-samut-prakan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 31
+    },
+    "zip_codes": [
+      "10270"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.593",
+      "lon": "100.597"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/samut-prakan-city-municipality-110101/"
+    }
+  },
+  {
+    "id": "110104",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ท้ายบ้าน",
+      "en": "Thai Ban",
+      "slug": "thai-ban"
+    },
+    "code": {
+      "dopa": "110104"
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรปราการ",
+        "en": "Mueang Samut Prakan",
+        "slug": "mueang-samut-prakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "th": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสมุทรปราการ",
+          "en": "Mueang Samut Prakan",
+          "slug": "mueang-samut-prakan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "10280"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.556",
+      "lon": "100.599"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/thai-ban-110104/"
+    }
+  },
+  {
+    "id": "110105",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ท้ายบ้านใหม่",
+      "en": "Thai Ban Mai",
+      "slug": "thai-ban-mai"
+    },
+    "code": {
+      "dopa": "110105"
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรปราการ",
+        "en": "Mueang Samut Prakan",
+        "slug": "mueang-samut-prakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "th": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสมุทรปราการ",
+          "en": "Mueang Samut Prakan",
+          "slug": "mueang-samut-prakan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10280"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.572",
+      "lon": "100.621"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/thai-ban-mai-110105/"
+    }
+  },
+  {
+    "id": "110115",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เทพารักษ์",
+      "en": "Thepharak",
+      "slug": "thepharak"
+    },
+    "code": {
+      "dopa": "110115"
+    },
+    "parent": {
+      "id": "1101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรปราการ",
+        "en": "Mueang Samut Prakan",
+        "slug": "mueang-samut-prakan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "th": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan"
+        }
+      },
+      {
+        "id": "1101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสมุทรปราการ",
+          "en": "Mueang Samut Prakan",
+          "slug": "mueang-samut-prakan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 13
+    },
+    "zip_codes": [
+      "10270"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.634",
+      "lon": "100.610"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/thepharak-110115/"
+    }
+  }
+]

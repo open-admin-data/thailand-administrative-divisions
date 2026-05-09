@@ -1,0 +1,61 @@
+{
+  "id": "360501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองบัวแดง",
+    "en": "Nong Bua Daeng",
+    "slug": "nong-bua-daeng"
+  },
+  "code": {
+    "dopa": "360501"
+  },
+  "parent": {
+    "id": "3605",
+    "level": 2,
+    "name": {
+      "th": "หนองบัวแดง",
+      "en": "Nong Bua Daeng",
+      "slug": "nong-bua-daeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3605",
+      "level": 2,
+      "name": {
+        "th": "หนองบัวแดง",
+        "en": "Nong Bua Daeng",
+        "slug": "nong-bua-daeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "36210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.351",
+    "lon": "101.721"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-bua-daeng-360501/"
+  }
+}

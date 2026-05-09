@@ -1,0 +1,61 @@
+{
+  "id": "480805",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าบ่อสงคราม",
+    "en": "Tha Bo Songkhram",
+    "slug": "tha-bo-songkhram"
+  },
+  "code": {
+    "dopa": "480805"
+  },
+  "parent": {
+    "id": "4808",
+    "level": 2,
+    "name": {
+      "th": "ศรีสงคราม",
+      "en": "Si Songkhram",
+      "slug": "si-songkhram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4808",
+      "level": 2,
+      "name": {
+        "th": "ศรีสงคราม",
+        "en": "Si Songkhram",
+        "slug": "si-songkhram"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "48150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.633",
+    "lon": "104.196"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-bo-songkhram-480805/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "720214",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองกระทุ่ม",
+    "en": "Nong Krathum",
+    "slug": "nong-krathum"
+  },
+  "code": {
+    "dopa": "720214"
+  },
+  "parent": {
+    "id": "7202",
+    "level": 2,
+    "name": {
+      "th": "เดิมบางนางบวช",
+      "en": "Doem Bang Nang Buat",
+      "slug": "doem-bang-nang-buat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7202",
+      "level": 2,
+      "name": {
+        "th": "เดิมบางนางบวช",
+        "en": "Doem Bang Nang Buat",
+        "slug": "doem-bang-nang-buat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "72120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.907",
+    "lon": "99.804"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-krathum-720214/"
+  }
+}

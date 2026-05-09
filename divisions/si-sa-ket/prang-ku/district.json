@@ -1,0 +1,50 @@
+{
+  "id": "3307",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปรางค์กู่",
+    "en": "Prang Ku",
+    "slug": "prang-ku"
+  },
+  "code": {
+    "dopa": "3307"
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "th": "ศรีสะเกษ",
+      "en": "Si Sa Ket",
+      "slug": "si-sa-ket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 141
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.881",
+    "lon": "104.042"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/prang-ku-3307/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "451004",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาแซง",
+    "en": "Na Saeng",
+    "slug": "na-saeng"
+  },
+  "code": {
+    "dopa": "451004"
+  },
+  "parent": {
+    "id": "4510",
+    "level": 2,
+    "name": {
+      "th": "เสลภูมิ",
+      "en": "Selaphum",
+      "slug": "selaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4510",
+      "level": 2,
+      "name": {
+        "th": "เสลภูมิ",
+        "en": "Selaphum",
+        "slug": "selaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "45120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.144",
+    "lon": "103.968"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-saeng-451004/"
+  }
+}

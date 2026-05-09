@@ -1,0 +1,61 @@
+{
+  "id": "940401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปะนาเระ",
+    "en": "Panare",
+    "slug": "panare"
+  },
+  "code": {
+    "dopa": "940401"
+  },
+  "parent": {
+    "id": "9404",
+    "level": 2,
+    "name": {
+      "th": "ปะนาเระ",
+      "en": "Panare",
+      "slug": "panare"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9404",
+      "level": 2,
+      "name": {
+        "th": "ปะนาเระ",
+        "en": "Panare",
+        "slug": "panare"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "94130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.860",
+    "lon": "101.484"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/panare-940401/"
+  }
+}

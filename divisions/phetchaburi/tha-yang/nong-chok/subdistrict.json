@@ -1,0 +1,61 @@
+{
+  "id": "760504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองจอก",
+    "en": "Nong Chok",
+    "slug": "nong-chok"
+  },
+  "code": {
+    "dopa": "760504"
+  },
+  "parent": {
+    "id": "7605",
+    "level": 2,
+    "name": {
+      "th": "ท่ายาง",
+      "en": "Tha Yang",
+      "slug": "tha-yang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7605",
+      "level": 2,
+      "name": {
+        "th": "ท่ายาง",
+        "en": "Tha Yang",
+        "slug": "tha-yang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "76130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.947",
+    "lon": "99.989"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-chok-760504/"
+  }
+}

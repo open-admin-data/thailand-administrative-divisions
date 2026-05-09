@@ -1,0 +1,61 @@
+{
+  "id": "940509",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปะโด",
+    "en": "Pado",
+    "slug": "pado"
+  },
+  "code": {
+    "dopa": "940509"
+  },
+  "parent": {
+    "id": "9405",
+    "level": 2,
+    "name": {
+      "th": "มายอ",
+      "en": "Mayo",
+      "slug": "mayo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9405",
+      "level": 2,
+      "name": {
+        "th": "มายอ",
+        "en": "Mayo",
+        "slug": "mayo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "94140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.666",
+    "lon": "101.359"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pado-940509/"
+  }
+}

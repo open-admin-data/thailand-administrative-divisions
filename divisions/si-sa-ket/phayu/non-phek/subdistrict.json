@@ -1,0 +1,61 @@
+{
+  "id": "332004",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนเพ็ก",
+    "en": "Non Phek",
+    "slug": "non-phek"
+  },
+  "code": {
+    "dopa": "332004"
+  },
+  "parent": {
+    "id": "3320",
+    "level": 2,
+    "name": {
+      "th": "พยุห์",
+      "en": "Phayu",
+      "slug": "phayu"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3320",
+      "level": 2,
+      "name": {
+        "th": "พยุห์",
+        "en": "Phayu",
+        "slug": "phayu"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "33230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.933",
+    "lon": "104.327"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-phek-332004/"
+  }
+}

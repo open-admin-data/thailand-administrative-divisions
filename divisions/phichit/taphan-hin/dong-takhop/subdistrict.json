@@ -1,0 +1,61 @@
+{
+  "id": "660407",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงตะขบ",
+    "en": "Dong Takhop",
+    "slug": "dong-takhop"
+  },
+  "code": {
+    "dopa": "660407"
+  },
+  "parent": {
+    "id": "6604",
+    "level": 2,
+    "name": {
+      "th": "ตะพานหิน",
+      "en": "Taphan Hin",
+      "slug": "taphan-hin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6604",
+      "level": 2,
+      "name": {
+        "th": "ตะพานหิน",
+        "en": "Taphan Hin",
+        "slug": "taphan-hin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "66110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.144",
+    "lon": "100.467"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-takhop-660407/"
+  }
+}

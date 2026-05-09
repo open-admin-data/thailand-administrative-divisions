@@ -1,0 +1,61 @@
+{
+  "id": "331403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สระเยาว์",
+    "en": "Sa Yao",
+    "slug": "sa-yao"
+  },
+  "code": {
+    "dopa": "331403"
+  },
+  "parent": {
+    "id": "3314",
+    "level": 2,
+    "name": {
+      "th": "ศรีรัตนะ",
+      "en": "Si Rattana",
+      "slug": "si-rattana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3314",
+      "level": 2,
+      "name": {
+        "th": "ศรีรัตนะ",
+        "en": "Si Rattana",
+        "slug": "si-rattana"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "33240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.785",
+    "lon": "104.515"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sa-yao-331403/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "200304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้างสูง",
+    "en": "Hang Sung",
+    "slug": "hang-sung"
+  },
+  "code": {
+    "dopa": "200304"
+  },
+  "parent": {
+    "id": "2003",
+    "level": 2,
+    "name": {
+      "th": "หนองใหญ่",
+      "en": "Nong Yai",
+      "slug": "nong-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "th": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri"
+      }
+    },
+    {
+      "id": "2003",
+      "level": 2,
+      "name": {
+        "th": "หนองใหญ่",
+        "en": "Nong Yai",
+        "slug": "nong-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "20190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.243",
+    "lon": "101.347"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hang-sung-200304/"
+  }
+}

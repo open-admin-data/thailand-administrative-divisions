@@ -1,0 +1,50 @@
+{
+  "id": "9409",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ยะหริ่ง",
+    "en": "Yaring",
+    "slug": "yaring"
+  },
+  "code": {
+    "dopa": "9409"
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "th": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 18,
+    "villages": 81
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.787",
+    "lon": "101.458"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/yaring-9409/"
+  }
+}

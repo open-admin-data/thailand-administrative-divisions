@@ -1,0 +1,50 @@
+{
+  "id": "4902",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "นิคมคำสร้อย",
+    "en": "Nikhom Kham Soi",
+    "slug": "nikhom-kham-soi"
+  },
+  "code": {
+    "dopa": "4902"
+  },
+  "parent": {
+    "id": "49",
+    "level": 1,
+    "name": {
+      "th": "มุกดาหาร",
+      "en": "Mukdahan",
+      "slug": "mukdahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 79
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.358",
+    "lon": "104.499"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nikhom-kham-soi-4902/"
+  }
+}

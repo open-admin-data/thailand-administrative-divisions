@@ -1,0 +1,50 @@
+{
+  "id": "6703",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หล่มสัก",
+    "en": "Lom Sak",
+    "slug": "lom-sak"
+  },
+  "code": {
+    "dopa": "6703"
+  },
+  "parent": {
+    "id": "67",
+    "level": 1,
+    "name": {
+      "th": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 22,
+    "villages": 251
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.839",
+    "lon": "101.239"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/lom-sak-6703/"
+  }
+}

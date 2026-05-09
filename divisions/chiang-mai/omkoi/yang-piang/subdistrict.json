@@ -1,0 +1,61 @@
+{
+  "id": "501802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยางเปียง",
+    "en": "Yang Piang",
+    "slug": "yang-piang"
+  },
+  "code": {
+    "dopa": "501802"
+  },
+  "parent": {
+    "id": "5018",
+    "level": 2,
+    "name": {
+      "th": "อมก๋อย",
+      "en": "Omkoi",
+      "slug": "omkoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5018",
+      "level": 2,
+      "name": {
+        "th": "อมก๋อย",
+        "en": "Omkoi",
+        "slug": "omkoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "50310"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.682",
+    "lon": "98.392"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yang-piang-501802/"
+  }
+}

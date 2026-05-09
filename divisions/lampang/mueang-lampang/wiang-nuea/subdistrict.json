@@ -1,0 +1,61 @@
+{
+  "id": "520101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เวียงเหนือ สวนดอก สบตุ๋ย อยู่นอก1 ตำบล คือหัวเ*",
+    "en": "Wiang Nuea",
+    "slug": "wiang-nuea"
+  },
+  "code": {
+    "dopa": "520101"
+  },
+  "parent": {
+    "id": "5201",
+    "level": 2,
+    "name": {
+      "th": "เมืองลำปาง",
+      "en": "Mueang Lampang",
+      "slug": "mueang-lampang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5201",
+      "level": 2,
+      "name": {
+        "th": "เมืองลำปาง",
+        "en": "Mueang Lampang",
+        "slug": "mueang-lampang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "52000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.290",
+    "lon": "99.492"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wiang-nuea-520101/"
+  }
+}

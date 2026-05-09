@@ -1,0 +1,61 @@
+{
+  "id": "191301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาดินพัฒนา",
+    "en": "Khao Din Phatthana",
+    "slug": "khao-din-phatthana"
+  },
+  "code": {
+    "dopa": "191301"
+  },
+  "parent": {
+    "id": "1913",
+    "level": 2,
+    "name": {
+      "th": "เฉลิมพระเกียรติ",
+      "en": "Chaloem Phra Kiat",
+      "slug": "chaloem-phra-kiat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1913",
+      "level": 2,
+      "name": {
+        "th": "เฉลิมพระเกียรติ",
+        "en": "Chaloem Phra Kiat",
+        "slug": "chaloem-phra-kiat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "18000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.612",
+    "lon": "100.906"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-din-phatthana-191301/"
+  }
+}

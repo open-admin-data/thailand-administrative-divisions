@@ -1,0 +1,38 @@
+{
+  "id": "47",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "สกลนคร",
+    "en": "Sakon Nakhon",
+    "slug": "sakon-nakhon"
+  },
+  "code": {
+    "dopa": "47",
+    "iso": "TH-47"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 18,
+    "subdistricts": 125,
+    "villages": 1564
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "Northeastern"
+    }
+  },
+  "geo": {
+    "lat": "17.125",
+    "lon": "104.260"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/sakon-nakhon-47/"
+  }
+}

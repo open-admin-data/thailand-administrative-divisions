@@ -1,0 +1,61 @@
+{
+  "id": "460204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หลักเหลี่ยม",
+    "en": "Lak Liam",
+    "slug": "lak-liam"
+  },
+  "code": {
+    "dopa": "460204"
+  },
+  "parent": {
+    "id": "4602",
+    "level": 2,
+    "name": {
+      "th": "นามน",
+      "en": "Na Mon",
+      "slug": "na-mon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4602",
+      "level": 2,
+      "name": {
+        "th": "นามน",
+        "en": "Na Mon",
+        "slug": "na-mon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "46230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.548",
+    "lon": "103.820"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lak-liam-460204/"
+  }
+}

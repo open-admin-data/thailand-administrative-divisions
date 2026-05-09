@@ -1,0 +1,61 @@
+{
+  "id": "801402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งปรัง",
+    "en": "Thung Prang",
+    "slug": "thung-prang"
+  },
+  "code": {
+    "dopa": "801402"
+  },
+  "parent": {
+    "id": "8014",
+    "level": 2,
+    "name": {
+      "th": "สิชล",
+      "en": "Sichon",
+      "slug": "sichon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8014",
+      "level": 2,
+      "name": {
+        "th": "สิชล",
+        "en": "Sichon",
+        "slug": "sichon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "80120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.958",
+    "lon": "99.876"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-prang-801402/"
+  }
+}

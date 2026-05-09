@@ -1,0 +1,61 @@
+{
+  "id": "400806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งโป่ง",
+    "en": "Thung Pong",
+    "slug": "thung-pong"
+  },
+  "code": {
+    "dopa": "400806"
+  },
+  "parent": {
+    "id": "4008",
+    "level": 2,
+    "name": {
+      "th": "อุบลรัตน์",
+      "en": "Ubolratana",
+      "slug": "ubolratana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4008",
+      "level": 2,
+      "name": {
+        "th": "อุบลรัตน์",
+        "en": "Ubolratana",
+        "slug": "ubolratana"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "40250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.731",
+    "lon": "102.676"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-pong-400806/"
+  }
+}

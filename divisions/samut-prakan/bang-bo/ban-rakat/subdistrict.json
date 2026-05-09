@@ -1,0 +1,61 @@
+{
+  "id": "110202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านระกาศ",
+    "en": "Ban Rakat",
+    "slug": "ban-rakat"
+  },
+  "code": {
+    "dopa": "110202"
+  },
+  "parent": {
+    "id": "1102",
+    "level": 2,
+    "name": {
+      "th": "บางบ่อ",
+      "en": "Bang Bo",
+      "slug": "bang-bo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    },
+    {
+      "id": "1102",
+      "level": 2,
+      "name": {
+        "th": "บางบ่อ",
+        "en": "Bang Bo",
+        "slug": "bang-bo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "10560"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.639",
+    "lon": "100.904"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-rakat-110202/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "260411",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองใหญ่",
+    "en": "Khlong Yai",
+    "slug": "khlong-yai"
+  },
+  "code": {
+    "dopa": "260411"
+  },
+  "parent": {
+    "id": "2604",
+    "level": 2,
+    "name": {
+      "th": "องครักษ์",
+      "en": "Ongkharak",
+      "slug": "ongkharak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    {
+      "id": "2604",
+      "level": 2,
+      "name": {
+        "th": "องครักษ์",
+        "en": "Ongkharak",
+        "slug": "ongkharak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "26120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.127",
+    "lon": "100.980"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-yai-260411/"
+  }
+}

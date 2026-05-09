@@ -1,0 +1,61 @@
+{
+  "id": "900203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สนามชัย",
+    "en": "Sanam Chai",
+    "slug": "sanam-chai"
+  },
+  "code": {
+    "dopa": "900203"
+  },
+  "parent": {
+    "id": "9002",
+    "level": 2,
+    "name": {
+      "th": "สทิงพระ",
+      "en": "Sathing Phra",
+      "slug": "sathing-phra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9002",
+      "level": 2,
+      "name": {
+        "th": "สทิงพระ",
+        "en": "Sathing Phra",
+        "slug": "sathing-phra"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "90190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.547",
+    "lon": "100.417"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sanam-chai-900203/"
+  }
+}

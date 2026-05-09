@@ -1,0 +1,61 @@
+{
+  "id": "571702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงมหาวัน",
+    "en": "Dong Maha Wan",
+    "slug": "dong-maha-wan"
+  },
+  "code": {
+    "dopa": "571702"
+  },
+  "parent": {
+    "id": "5717",
+    "level": 2,
+    "name": {
+      "th": "เวียงเชียงรุ้ง",
+      "en": "Wiang Chiang Rung",
+      "slug": "wiang-chiang-rung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5717",
+      "level": 2,
+      "name": {
+        "th": "เวียงเชียงรุ้ง",
+        "en": "Wiang Chiang Rung",
+        "slug": "wiang-chiang-rung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "57210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.041",
+    "lon": "100.006"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-maha-wan-571702/"
+  }
+}

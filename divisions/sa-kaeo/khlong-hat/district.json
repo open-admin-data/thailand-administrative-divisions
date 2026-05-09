@@ -1,0 +1,50 @@
+{
+  "id": "2702",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "คลองหาด",
+    "en": "Khlong Hat",
+    "slug": "khlong-hat"
+  },
+  "code": {
+    "dopa": "2702"
+  },
+  "parent": {
+    "id": "27",
+    "level": 1,
+    "name": {
+      "th": "สระแก้ว",
+      "en": "Sa Kaeo",
+      "slug": "sa-kaeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 71
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.519",
+    "lon": "102.228"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khlong-hat-2702/"
+  }
+}

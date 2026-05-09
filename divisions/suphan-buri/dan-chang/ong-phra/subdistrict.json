@@ -1,0 +1,61 @@
+{
+  "id": "720304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "องค์พระ",
+    "en": "Ong Phra",
+    "slug": "ong-phra"
+  },
+  "code": {
+    "dopa": "720304"
+  },
+  "parent": {
+    "id": "7203",
+    "level": 2,
+    "name": {
+      "th": "ด่านช้าง",
+      "en": "Dan Chang",
+      "slug": "dan-chang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7203",
+      "level": 2,
+      "name": {
+        "th": "ด่านช้าง",
+        "en": "Dan Chang",
+        "slug": "dan-chang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "72180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.800",
+    "lon": "99.386"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ong-phra-720304/"
+  }
+}

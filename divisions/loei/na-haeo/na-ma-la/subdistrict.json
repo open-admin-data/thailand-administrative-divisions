@@ -1,0 +1,61 @@
+{
+  "id": "420604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นามาลา",
+    "en": "Na Ma La",
+    "slug": "na-ma-la"
+  },
+  "code": {
+    "dopa": "420604"
+  },
+  "parent": {
+    "id": "4206",
+    "level": 2,
+    "name": {
+      "th": "นาแห้ว",
+      "en": "Na Haeo",
+      "slug": "na-haeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4206",
+      "level": 2,
+      "name": {
+        "th": "นาแห้ว",
+        "en": "Na Haeo",
+        "slug": "na-haeo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "42170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.336",
+    "lon": "101.071"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-ma-la-420604/"
+  }
+}

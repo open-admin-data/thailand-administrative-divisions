@@ -1,0 +1,61 @@
+{
+  "id": "180201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คุ้งสำเภา",
+    "en": "Khung Samphao",
+    "slug": "khung-samphao"
+  },
+  "code": {
+    "dopa": "180201"
+  },
+  "parent": {
+    "id": "1802",
+    "level": 2,
+    "name": {
+      "th": "มโนรมย์",
+      "en": "Manorom",
+      "slug": "manorom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1802",
+      "level": 2,
+      "name": {
+        "th": "มโนรมย์",
+        "en": "Manorom",
+        "slug": "manorom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "17110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.291",
+    "lon": "100.091"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khung-samphao-180201/"
+  }
+}

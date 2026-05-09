@@ -1,0 +1,50 @@
+{
+  "id": "6204",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ขาณุวรลักษบุรี",
+    "en": "Khanu Woralaksaburi",
+    "slug": "khanu-woralaksaburi"
+  },
+  "code": {
+    "dopa": "6204"
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "th": "กำแพงเพชร",
+      "en": "Kamphaeng Phet",
+      "slug": "kamphaeng-phet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 143
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.103",
+    "lon": "99.788"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khanu-woralaksaburi-6204/"
+  }
+}

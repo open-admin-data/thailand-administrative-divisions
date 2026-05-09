@@ -1,0 +1,61 @@
+{
+  "id": "500910",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่คะ",
+    "en": "Mae Kha",
+    "slug": "mae-kha"
+  },
+  "code": {
+    "dopa": "500910"
+  },
+  "parent": {
+    "id": "5009",
+    "level": 2,
+    "name": {
+      "th": "ฝาง",
+      "en": "Fang",
+      "slug": "fang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5009",
+      "level": 2,
+      "name": {
+        "th": "ฝาง",
+        "en": "Fang",
+        "slug": "fang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "50110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.821",
+    "lon": "99.213"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-kha-500910/"
+  }
+}

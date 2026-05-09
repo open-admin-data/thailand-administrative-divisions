@@ -1,0 +1,61 @@
+{
+  "id": "130206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองหก",
+    "en": "Khlong Hok",
+    "slug": "khlong-hok"
+  },
+  "code": {
+    "dopa": "130206"
+  },
+  "parent": {
+    "id": "1302",
+    "level": 2,
+    "name": {
+      "th": "คลองหลวง",
+      "en": "Khlong Luang",
+      "slug": "khlong-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1302",
+      "level": 2,
+      "name": {
+        "th": "คลองหลวง",
+        "en": "Khlong Luang",
+        "slug": "khlong-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "12120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.117",
+    "lon": "100.733"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-hok-130206/"
+  }
+}

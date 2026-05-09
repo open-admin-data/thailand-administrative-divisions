@@ -1,0 +1,50 @@
+{
+  "id": "1034",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต สวนหลวง",
+    "en": "Khet Suan Luang",
+    "slug": "khet-suan-luang"
+  },
+  "code": {
+    "dopa": "1034"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 1,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.726",
+    "lon": "100.628"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khet-suan-luang-1034/"
+  }
+}

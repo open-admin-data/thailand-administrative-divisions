@@ -1,0 +1,61 @@
+{
+  "id": "270804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนหมากมุ่น",
+    "en": "Non Mak Mun",
+    "slug": "non-mak-mun"
+  },
+  "code": {
+    "dopa": "270804"
+  },
+  "parent": {
+    "id": "2708",
+    "level": 2,
+    "name": {
+      "th": "โคกสูง",
+      "en": "Khok Sung",
+      "slug": "khok-sung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    },
+    {
+      "id": "2708",
+      "level": 2,
+      "name": {
+        "th": "โคกสูง",
+        "en": "Khok Sung",
+        "slug": "khok-sung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "27120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.774",
+    "lon": "102.664"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-mak-mun-270804/"
+  }
+}

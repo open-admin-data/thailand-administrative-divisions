@@ -1,0 +1,61 @@
+{
+  "id": "570116",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าอ้อดอนชัย",
+    "en": "Pa O Don Chai",
+    "slug": "pa-o-don-chai"
+  },
+  "code": {
+    "dopa": "570116"
+  },
+  "parent": {
+    "id": "5701",
+    "level": 2,
+    "name": {
+      "th": "เมืองเชียงราย",
+      "en": "Mueang Chiang Rai",
+      "slug": "mueang-chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5701",
+      "level": 2,
+      "name": {
+        "th": "เมืองเชียงราย",
+        "en": "Mueang Chiang Rai",
+        "slug": "mueang-chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "57000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.768",
+    "lon": "99.819"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-o-don-chai-570116/"
+  }
+}

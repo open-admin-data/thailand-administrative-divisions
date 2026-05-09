@@ -1,0 +1,61 @@
+{
+  "id": "401904",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนสมบูรณ์",
+    "en": "Non Sombun",
+    "slug": "non-sombun"
+  },
+  "code": {
+    "dopa": "401904"
+  },
+  "parent": {
+    "id": "4019",
+    "level": 2,
+    "name": {
+      "th": "เขาสวนกวาง",
+      "en": "Khao Suan Kwang",
+      "slug": "khao-suan-kwang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4019",
+      "level": 2,
+      "name": {
+        "th": "เขาสวนกวาง",
+        "en": "Khao Suan Kwang",
+        "slug": "khao-suan-kwang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "40280"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.025",
+    "lon": "102.709"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-sombun-401904/"
+  }
+}

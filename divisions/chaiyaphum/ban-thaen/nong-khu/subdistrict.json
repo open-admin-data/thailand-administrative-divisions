@@ -1,0 +1,61 @@
+{
+  "id": "361105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองคู",
+    "en": "Nong Khu",
+    "slug": "nong-khu"
+  },
+  "code": {
+    "dopa": "361105"
+  },
+  "parent": {
+    "id": "3611",
+    "level": 2,
+    "name": {
+      "th": "บ้านแท่น",
+      "en": "Ban Thaen",
+      "slug": "ban-thaen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3611",
+      "level": 2,
+      "name": {
+        "th": "บ้านแท่น",
+        "en": "Ban Thaen",
+        "slug": "ban-thaen"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "36190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.293",
+    "lon": "102.398"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-khu-361105/"
+  }
+}

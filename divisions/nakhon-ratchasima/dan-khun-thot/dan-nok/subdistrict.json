@@ -1,0 +1,61 @@
+{
+  "id": "300803",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ด่านนอก",
+    "en": "Dan Nok",
+    "slug": "dan-nok"
+  },
+  "code": {
+    "dopa": "300803"
+  },
+  "parent": {
+    "id": "3008",
+    "level": 2,
+    "name": {
+      "th": "ด่านขุนทด",
+      "en": "Dan Khun Thot",
+      "slug": "dan-khun-thot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3008",
+      "level": 2,
+      "name": {
+        "th": "ด่านขุนทด",
+        "en": "Dan Khun Thot",
+        "slug": "dan-khun-thot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "30210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.157",
+    "lon": "101.870"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dan-nok-300803/"
+  }
+}

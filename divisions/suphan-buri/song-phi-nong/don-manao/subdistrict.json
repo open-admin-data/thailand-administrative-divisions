@@ -1,0 +1,61 @@
+{
+  "id": "720715",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนมะนาว",
+    "en": "Don Manao",
+    "slug": "don-manao"
+  },
+  "code": {
+    "dopa": "720715"
+  },
+  "parent": {
+    "id": "7207",
+    "level": 2,
+    "name": {
+      "th": "สองพี่น้อง",
+      "en": "Song Phi Nong",
+      "slug": "song-phi-nong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7207",
+      "level": 2,
+      "name": {
+        "th": "สองพี่น้อง",
+        "en": "Song Phi Nong",
+        "slug": "song-phi-nong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "72110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.166",
+    "lon": "100.011"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-manao-720715/"
+  }
+}

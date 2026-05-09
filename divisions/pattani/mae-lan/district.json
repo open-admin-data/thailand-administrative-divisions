@@ -1,0 +1,50 @@
+{
+  "id": "9412",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แม่ลาน",
+    "en": "Mae Lan",
+    "slug": "mae-lan"
+  },
+  "code": {
+    "dopa": "9412"
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "th": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 22
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.677",
+    "lon": "101.266"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mae-lan-9412/"
+  }
+}

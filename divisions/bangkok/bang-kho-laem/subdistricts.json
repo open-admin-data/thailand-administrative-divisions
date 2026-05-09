@@ -1,0 +1,185 @@
+[
+  {
+    "id": "103103",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง บางโคล่",
+      "en": "Bang Khlo",
+      "slug": "bang-khlo"
+    },
+    "code": {
+      "dopa": "103103"
+    },
+    "parent": {
+      "id": "1031",
+      "level": 2,
+      "name": {
+        "th": "เขต บางคอแหลม",
+        "en": "Bang Kho Laem",
+        "slug": "bang-kho-laem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1031",
+        "level": 2,
+        "name": {
+          "th": "เขต บางคอแหลม",
+          "en": "Bang Kho Laem",
+          "slug": "bang-kho-laem"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10120"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.694",
+      "lon": "100.516"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bang-khlo-103103/"
+    }
+  },
+  {
+    "id": "103101",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง บางคอแหลม",
+      "en": "Bang Kho Laem",
+      "slug": "bang-kho-laem"
+    },
+    "code": {
+      "dopa": "103101"
+    },
+    "parent": {
+      "id": "1031",
+      "level": 2,
+      "name": {
+        "th": "เขต บางคอแหลม",
+        "en": "Bang Kho Laem",
+        "slug": "bang-kho-laem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1031",
+        "level": 2,
+        "name": {
+          "th": "เขต บางคอแหลม",
+          "en": "Bang Kho Laem",
+          "slug": "bang-kho-laem"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10120"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.696",
+      "lon": "100.494"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/bang-kho-laem-103101/"
+    }
+  },
+  {
+    "id": "103102",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง วัดพระยาไกร",
+      "en": "Wat Phraya Krai",
+      "slug": "wat-phraya-krai"
+    },
+    "code": {
+      "dopa": "103102"
+    },
+    "parent": {
+      "id": "1031",
+      "level": 2,
+      "name": {
+        "th": "เขต บางคอแหลม",
+        "en": "Bang Kho Laem",
+        "slug": "bang-kho-laem"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1031",
+        "level": 2,
+        "name": {
+          "th": "เขต บางคอแหลม",
+          "en": "Bang Kho Laem",
+          "slug": "bang-kho-laem"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10120"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.706",
+      "lon": "100.508"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/wat-phraya-krai-103102/"
+    }
+  }
+]

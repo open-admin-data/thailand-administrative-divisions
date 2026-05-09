@@ -1,0 +1,185 @@
+[
+  {
+    "id": "551302",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ชนแดน",
+      "en": "Chon Daen",
+      "slug": "chon-daen"
+    },
+    "code": {
+      "dopa": "551302"
+    },
+    "parent": {
+      "id": "5513",
+      "level": 2,
+      "name": {
+        "th": "สองแคว",
+        "en": "Song Khwae",
+        "slug": "song-khwae"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "th": "น่าน",
+          "en": "Nan",
+          "slug": "nan"
+        }
+      },
+      {
+        "id": "5513",
+        "level": 2,
+        "name": {
+          "th": "สองแคว",
+          "en": "Song Khwae",
+          "slug": "song-khwae"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "55160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "19.462",
+      "lon": "100.691"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/chon-daen-551302/"
+    }
+  },
+  {
+    "id": "551301",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "นาไร่หลวง",
+      "en": "Na Rai Luang",
+      "slug": "na-rai-luang"
+    },
+    "code": {
+      "dopa": "551301"
+    },
+    "parent": {
+      "id": "5513",
+      "level": 2,
+      "name": {
+        "th": "สองแคว",
+        "en": "Song Khwae",
+        "slug": "song-khwae"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "th": "น่าน",
+          "en": "Nan",
+          "slug": "nan"
+        }
+      },
+      {
+        "id": "5513",
+        "level": 2,
+        "name": {
+          "th": "สองแคว",
+          "en": "Song Khwae",
+          "slug": "song-khwae"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "55160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "19.339",
+      "lon": "100.704"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/na-rai-luang-551301/"
+    }
+  },
+  {
+    "id": "551303",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ยอด",
+      "en": "Yot",
+      "slug": "yot"
+    },
+    "code": {
+      "dopa": "551303"
+    },
+    "parent": {
+      "id": "5513",
+      "level": 2,
+      "name": {
+        "th": "สองแคว",
+        "en": "Song Khwae",
+        "slug": "song-khwae"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "th": "น่าน",
+          "en": "Nan",
+          "slug": "nan"
+        }
+      },
+      {
+        "id": "5513",
+        "level": 2,
+        "name": {
+          "th": "สองแคว",
+          "en": "Song Khwae",
+          "slug": "song-khwae"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "55160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "19.384",
+      "lon": "100.567"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/yot-551303/"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "600906",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังข่อย",
+    "en": "Wang Khoi",
+    "slug": "wang-khoi"
+  },
+  "code": {
+    "dopa": "600906"
+  },
+  "parent": {
+    "id": "6009",
+    "level": 2,
+    "name": {
+      "th": "ไพศาลี",
+      "en": "Phaisali",
+      "slug": "phaisali"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6009",
+      "level": 2,
+      "name": {
+        "th": "ไพศาลี",
+        "en": "Phaisali",
+        "slug": "phaisali"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "60220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.598",
+    "lon": "100.761"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-khoi-600906/"
+  }
+}

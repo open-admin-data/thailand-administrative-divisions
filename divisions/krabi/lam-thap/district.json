@@ -1,0 +1,50 @@
+{
+  "id": "8107",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ลำทับ",
+    "en": "Lam Thap",
+    "slug": "lam-thap"
+  },
+  "code": {
+    "dopa": "8107"
+  },
+  "parent": {
+    "id": "81",
+    "level": 1,
+    "name": {
+      "th": "กระบี่",
+      "en": "Krabi",
+      "slug": "krabi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 28
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.100",
+    "lon": "99.358"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/lam-thap-8107/"
+  }
+}

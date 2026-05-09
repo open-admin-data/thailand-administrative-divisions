@@ -1,0 +1,61 @@
+{
+  "id": "550202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองแดง",
+    "en": "Nong Daeng",
+    "slug": "nong-daeng"
+  },
+  "code": {
+    "dopa": "550202"
+  },
+  "parent": {
+    "id": "5502",
+    "level": 2,
+    "name": {
+      "th": "แม่จริม",
+      "en": "Mae Charim",
+      "slug": "mae-charim"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5502",
+      "level": 2,
+      "name": {
+        "th": "แม่จริม",
+        "en": "Mae Charim",
+        "slug": "mae-charim"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "55170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.736",
+    "lon": "101.025"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-daeng-550202/"
+  }
+}

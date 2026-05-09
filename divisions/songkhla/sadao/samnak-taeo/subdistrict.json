@@ -1,0 +1,61 @@
+{
+  "id": "901004",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สำนักแต้ว",
+    "en": "Samnak Taeo",
+    "slug": "samnak-taeo"
+  },
+  "code": {
+    "dopa": "901004"
+  },
+  "parent": {
+    "id": "9010",
+    "level": 2,
+    "name": {
+      "th": "สะเดา",
+      "en": "Sadao",
+      "slug": "sadao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9010",
+      "level": 2,
+      "name": {
+        "th": "สะเดา",
+        "en": "Sadao",
+        "slug": "sadao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "90120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.567",
+    "lon": "100.516"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samnak-taeo-901004/"
+  }
+}

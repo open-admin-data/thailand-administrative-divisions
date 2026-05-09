@@ -1,0 +1,61 @@
+{
+  "id": "660402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "งิ้วราย",
+    "en": "Ngio Rai",
+    "slug": "ngio-rai"
+  },
+  "code": {
+    "dopa": "660402"
+  },
+  "parent": {
+    "id": "6604",
+    "level": 2,
+    "name": {
+      "th": "ตะพานหิน",
+      "en": "Taphan Hin",
+      "slug": "taphan-hin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6604",
+      "level": 2,
+      "name": {
+        "th": "ตะพานหิน",
+        "en": "Taphan Hin",
+        "slug": "taphan-hin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "66110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.267",
+    "lon": "100.427"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ngio-rai-660402/"
+  }
+}

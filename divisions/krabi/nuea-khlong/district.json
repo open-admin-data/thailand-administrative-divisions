@@ -1,0 +1,50 @@
+{
+  "id": "8108",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เหนือคลอง",
+    "en": "Nuea Khlong",
+    "slug": "nuea-khlong"
+  },
+  "code": {
+    "dopa": "8108"
+  },
+  "parent": {
+    "id": "81",
+    "level": 1,
+    "name": {
+      "th": "กระบี่",
+      "en": "Krabi",
+      "slug": "krabi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 57
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.801",
+    "lon": "98.995"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nuea-khlong-8108/"
+  }
+}

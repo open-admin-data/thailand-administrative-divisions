@@ -1,0 +1,61 @@
+{
+  "id": "460301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กมลาไสย",
+    "en": "Kamalasai",
+    "slug": "kamalasai"
+  },
+  "code": {
+    "dopa": "460301"
+  },
+  "parent": {
+    "id": "4603",
+    "level": 2,
+    "name": {
+      "th": "กมลาไสย",
+      "en": "Kamalasai",
+      "slug": "kamalasai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4603",
+      "level": 2,
+      "name": {
+        "th": "กมลาไสย",
+        "en": "Kamalasai",
+        "slug": "kamalasai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "46130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.310",
+    "lon": "103.551"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kamalasai-460301/"
+  }
+}

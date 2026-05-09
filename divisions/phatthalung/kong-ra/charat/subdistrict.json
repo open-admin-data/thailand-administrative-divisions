@@ -1,0 +1,61 @@
+{
+  "id": "930202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชะรัด",
+    "en": "Charat",
+    "slug": "charat"
+  },
+  "code": {
+    "dopa": "930202"
+  },
+  "parent": {
+    "id": "9302",
+    "level": 2,
+    "name": {
+      "th": "กงหรา",
+      "en": "Kong Ra",
+      "slug": "kong-ra"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9302",
+      "level": 2,
+      "name": {
+        "th": "กงหรา",
+        "en": "Kong Ra",
+        "slug": "kong-ra"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "93000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.473",
+    "lon": "99.989"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/charat-930202/"
+  }
+}

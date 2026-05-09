@@ -1,0 +1,61 @@
+{
+  "id": "330703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองเชียงทูน",
+    "en": "Nong Chiang Thun",
+    "slug": "nong-chiang-thun"
+  },
+  "code": {
+    "dopa": "330703"
+  },
+  "parent": {
+    "id": "3307",
+    "level": 2,
+    "name": {
+      "th": "ปรางค์กู่",
+      "en": "Prang Ku",
+      "slug": "prang-ku"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3307",
+      "level": 2,
+      "name": {
+        "th": "ปรางค์กู่",
+        "en": "Prang Ku",
+        "slug": "prang-ku"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "33170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.875",
+    "lon": "104.101"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-chiang-thun-330703/"
+  }
+}

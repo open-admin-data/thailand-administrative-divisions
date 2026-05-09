@@ -1,0 +1,61 @@
+{
+  "id": "960510",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "มะรือโบตก",
+    "en": "Maruebo Tok",
+    "slug": "maruebo-tok"
+  },
+  "code": {
+    "dopa": "960510"
+  },
+  "parent": {
+    "id": "9605",
+    "level": 2,
+    "name": {
+      "th": "ระแงะ",
+      "en": "Ra-ngae",
+      "slug": "ra-ngae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9605",
+      "level": 2,
+      "name": {
+        "th": "ระแงะ",
+        "en": "Ra-ngae",
+        "slug": "ra-ngae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "96130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.337",
+    "lon": "101.660"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/maruebo-tok-960510/"
+  }
+}

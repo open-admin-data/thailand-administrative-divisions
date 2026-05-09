@@ -1,0 +1,61 @@
+{
+  "id": "450108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สีแก้ว",
+    "en": "Si Kaeo",
+    "slug": "si-kaeo"
+  },
+  "code": {
+    "dopa": "450108"
+  },
+  "parent": {
+    "id": "4501",
+    "level": 2,
+    "name": {
+      "th": "เมืองร้อยเอ็ด",
+      "en": "Mueang Roi Et",
+      "slug": "mueang-roi-et"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4501",
+      "level": 2,
+      "name": {
+        "th": "เมืองร้อยเอ็ด",
+        "en": "Mueang Roi Et",
+        "slug": "mueang-roi-et"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 22
+  },
+  "zip_codes": [
+    "45000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.126",
+    "lon": "103.527"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/si-kaeo-450108/"
+  }
+}

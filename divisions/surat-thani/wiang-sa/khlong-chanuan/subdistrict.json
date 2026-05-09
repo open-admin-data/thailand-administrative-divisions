@@ -1,0 +1,61 @@
+{
+  "id": "841503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองฉนวน",
+    "en": "Khlong Chanuan",
+    "slug": "khlong-chanuan"
+  },
+  "code": {
+    "dopa": "841503"
+  },
+  "parent": {
+    "id": "8415",
+    "level": 2,
+    "name": {
+      "th": "เวียงสระ",
+      "en": "Wiang Sa",
+      "slug": "wiang-sa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8415",
+      "level": 2,
+      "name": {
+        "th": "เวียงสระ",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "84190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.517",
+    "lon": "99.321"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-chanuan-841503/"
+  }
+}

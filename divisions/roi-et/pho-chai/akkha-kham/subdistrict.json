@@ -1,0 +1,61 @@
+{
+  "id": "450804",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อัคคะคำ",
+    "en": "Akkha Kham",
+    "slug": "akkha-kham"
+  },
+  "code": {
+    "dopa": "450804"
+  },
+  "parent": {
+    "id": "4508",
+    "level": 2,
+    "name": {
+      "th": "โพธิ์ชัย",
+      "en": "Pho Chai",
+      "slug": "pho-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4508",
+      "level": 2,
+      "name": {
+        "th": "โพธิ์ชัย",
+        "en": "Pho Chai",
+        "slug": "pho-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "45230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.385",
+    "lon": "103.746"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/akkha-kham-450804/"
+  }
+}

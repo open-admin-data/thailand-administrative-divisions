@@ -1,0 +1,124 @@
+[
+  {
+    "id": "100502",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง อนุสาวรีย์",
+      "en": "Anusawari",
+      "slug": "anusawari"
+    },
+    "code": {
+      "dopa": "100502"
+    },
+    "parent": {
+      "id": "1005",
+      "level": 2,
+      "name": {
+        "th": "เขต บางเขน",
+        "en": "Khet Bang Khen",
+        "slug": "khet-bang-khen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1005",
+        "level": 2,
+        "name": {
+          "th": "เขต บางเขน",
+          "en": "Khet Bang Khen",
+          "slug": "khet-bang-khen"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10220"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.868",
+      "lon": "100.606"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/anusawari-100502/"
+    }
+  },
+  {
+    "id": "100508",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง ท่าแร้ง",
+      "en": "Tha Raeng",
+      "slug": "tha-raeng"
+    },
+    "code": {
+      "dopa": "100508"
+    },
+    "parent": {
+      "id": "1005",
+      "level": 2,
+      "name": {
+        "th": "เขต บางเขน",
+        "en": "Khet Bang Khen",
+        "slug": "khet-bang-khen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1005",
+        "level": 2,
+        "name": {
+          "th": "เขต บางเขน",
+          "en": "Khet Bang Khen",
+          "slug": "khet-bang-khen"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10220"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.866",
+      "lon": "100.650"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/tha-raeng-100508/"
+    }
+  }
+]

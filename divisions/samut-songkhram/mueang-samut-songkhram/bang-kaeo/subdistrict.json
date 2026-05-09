@@ -1,0 +1,61 @@
+{
+  "id": "750105",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางแก้ว",
+    "en": "Bang Kaeo",
+    "slug": "bang-kaeo"
+  },
+  "code": {
+    "dopa": "750105"
+  },
+  "parent": {
+    "id": "7501",
+    "level": 2,
+    "name": {
+      "th": "เมืองสมุทรสงคราม",
+      "en": "Mueang Samut Songkhram",
+      "slug": "mueang-samut-songkhram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสงคราม",
+        "en": "Samut Songkhram",
+        "slug": "samut-songkhram"
+      }
+    },
+    {
+      "id": "7501",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรสงคราม",
+        "en": "Mueang Samut Songkhram",
+        "slug": "mueang-samut-songkhram"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "75000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.431",
+    "lon": "100.060"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-kaeo-750105/"
+  }
+}

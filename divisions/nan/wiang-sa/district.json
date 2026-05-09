@@ -1,0 +1,50 @@
+{
+  "id": "5507",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เวียงสา",
+    "en": "Wiang Sa",
+    "slug": "wiang-sa"
+  },
+  "code": {
+    "dopa": "5507"
+  },
+  "parent": {
+    "id": "55",
+    "level": 1,
+    "name": {
+      "th": "น่าน",
+      "en": "Nan",
+      "slug": "nan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 17,
+    "villages": 128
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.679",
+    "lon": "100.837"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wiang-sa-5507/"
+  }
+}

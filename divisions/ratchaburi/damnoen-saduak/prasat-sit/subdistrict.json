@@ -1,0 +1,61 @@
+{
+  "id": "700402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ประสาทสิทธิ์",
+    "en": "Prasat Sit",
+    "slug": "prasat-sit"
+  },
+  "code": {
+    "dopa": "700402"
+  },
+  "parent": {
+    "id": "7004",
+    "level": 2,
+    "name": {
+      "th": "ดำเนินสะดวก",
+      "en": "Damnoen Saduak",
+      "slug": "damnoen-saduak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    },
+    {
+      "id": "7004",
+      "level": 2,
+      "name": {
+        "th": "ดำเนินสะดวก",
+        "en": "Damnoen Saduak",
+        "slug": "damnoen-saduak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "70210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.555",
+    "lon": "100.036"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/prasat-sit-700402/"
+  }
+}

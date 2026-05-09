@@ -1,0 +1,61 @@
+{
+  "id": "940708",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ละหาร",
+    "en": "Lahan",
+    "slug": "lahan"
+  },
+  "code": {
+    "dopa": "940708"
+  },
+  "parent": {
+    "id": "9407",
+    "level": 2,
+    "name": {
+      "th": "สายบุรี",
+      "en": "Sai Buri",
+      "slug": "sai-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9407",
+      "level": 2,
+      "name": {
+        "th": "สายบุรี",
+        "en": "Sai Buri",
+        "slug": "sai-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "94110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.659",
+    "lon": "101.627"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lahan-940708/"
+  }
+}

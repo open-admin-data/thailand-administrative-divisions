@@ -1,0 +1,61 @@
+{
+  "id": "740116",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางกระเจ้า",
+    "en": "Bang Krachao",
+    "slug": "bang-krachao"
+  },
+  "code": {
+    "dopa": "740116"
+  },
+  "parent": {
+    "id": "7401",
+    "level": 2,
+    "name": {
+      "th": "เมืองสมุทรสาคร",
+      "en": "Mueang Samut Sakhon",
+      "slug": "mueang-samut-sakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสาคร",
+        "en": "Samut Sakhon",
+        "slug": "samut-sakhon"
+      }
+    },
+    {
+      "id": "7401",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรสาคร",
+        "en": "Mueang Samut Sakhon",
+        "slug": "mueang-samut-sakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "74000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.512",
+    "lon": "100.215"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-krachao-740116/"
+  }
+}

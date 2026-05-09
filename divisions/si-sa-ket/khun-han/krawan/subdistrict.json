@@ -1,0 +1,61 @@
+{
+  "id": "330806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กระหวัน",
+    "en": "Krawan",
+    "slug": "krawan"
+  },
+  "code": {
+    "dopa": "330806"
+  },
+  "parent": {
+    "id": "3308",
+    "level": 2,
+    "name": {
+      "th": "ขุนหาญ",
+      "en": "Khun Han",
+      "slug": "khun-han"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3308",
+      "level": 2,
+      "name": {
+        "th": "ขุนหาญ",
+        "en": "Khun Han",
+        "slug": "khun-han"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "33150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.673",
+    "lon": "104.414"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/krawan-330806/"
+  }
+}

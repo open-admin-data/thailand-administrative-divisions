@@ -1,0 +1,50 @@
+{
+  "id": "1602",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พัฒนานิคม",
+    "en": "Phatthana Nikhom",
+    "slug": "phatthana-nikhom"
+  },
+  "code": {
+    "dopa": "1602"
+  },
+  "parent": {
+    "id": "16",
+    "level": 1,
+    "name": {
+      "th": "ลพบุรี",
+      "en": "Loburi",
+      "slug": "loburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 89
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.795",
+    "lon": "100.985"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phatthana-nikhom-1602/"
+  }
+}

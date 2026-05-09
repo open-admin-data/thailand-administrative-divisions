@@ -1,0 +1,61 @@
+{
+  "id": "420305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากตม",
+    "en": "Pak Tom",
+    "slug": "pak-tom"
+  },
+  "code": {
+    "dopa": "420305"
+  },
+  "parent": {
+    "id": "4203",
+    "level": 2,
+    "name": {
+      "th": "เชียงคาน",
+      "en": "Chiang Khan",
+      "slug": "chiang-khan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4203",
+      "level": 2,
+      "name": {
+        "th": "เชียงคาน",
+        "en": "Chiang Khan",
+        "slug": "chiang-khan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "42110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.768",
+    "lon": "101.554"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-tom-420305/"
+  }
+}

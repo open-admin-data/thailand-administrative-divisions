@@ -1,0 +1,50 @@
+{
+  "id": "3804",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เซกา",
+    "en": "Seka",
+    "slug": "seka"
+  },
+  "code": {
+    "dopa": "3804"
+  },
+  "parent": {
+    "id": "38",
+    "level": 1,
+    "name": {
+      "th": "บึงกาฬ",
+      "en": "Buogkan",
+      "slug": "buogkan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 136
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.914",
+    "lon": "103.891"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/seka-3804/"
+  }
+}

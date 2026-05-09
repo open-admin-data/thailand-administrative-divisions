@@ -1,0 +1,50 @@
+{
+  "id": "3010",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "โนนสูง",
+    "en": "Non Sung",
+    "slug": "non-sung"
+  },
+  "code": {
+    "dopa": "3010"
+  },
+  "parent": {
+    "id": "30",
+    "level": 1,
+    "name": {
+      "th": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 16,
+    "villages": 208
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.116",
+    "lon": "102.287"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/non-sung-3010/"
+  }
+}

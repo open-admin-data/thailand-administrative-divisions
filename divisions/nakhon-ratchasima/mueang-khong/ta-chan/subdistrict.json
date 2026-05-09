@@ -1,0 +1,61 @@
+{
+  "id": "300404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตาจั่น",
+    "en": "Ta Chan",
+    "slug": "ta-chan"
+  },
+  "code": {
+    "dopa": "300404"
+  },
+  "parent": {
+    "id": "3004",
+    "level": 2,
+    "name": {
+      "th": "คง",
+      "en": "Mueang Khong",
+      "slug": "mueang-khong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3004",
+      "level": 2,
+      "name": {
+        "th": "คง",
+        "en": "Mueang Khong",
+        "slug": "mueang-khong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "30260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.314",
+    "lon": "102.368"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ta-chan-300404/"
+  }
+}

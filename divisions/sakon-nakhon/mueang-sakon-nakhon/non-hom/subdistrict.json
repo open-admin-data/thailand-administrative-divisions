@@ -1,0 +1,61 @@
+{
+  "id": "470104",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โนนหอม",
+    "en": "Non Hom",
+    "slug": "non-hom"
+  },
+  "code": {
+    "dopa": "470104"
+  },
+  "parent": {
+    "id": "4701",
+    "level": 2,
+    "name": {
+      "th": "เมืองสกลนคร",
+      "en": "Mueang Sakon Nakhon",
+      "slug": "mueang-sakon-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4701",
+      "level": 2,
+      "name": {
+        "th": "เมืองสกลนคร",
+        "en": "Mueang Sakon Nakhon",
+        "slug": "mueang-sakon-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "47000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.053",
+    "lon": "104.196"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/non-hom-470104/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "402002",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาฝาย",
+    "en": "Na Fai",
+    "slug": "na-fai"
+  },
+  "code": {
+    "dopa": "402002"
+  },
+  "parent": {
+    "id": "4020",
+    "level": 2,
+    "name": {
+      "th": "ภูผาม่าน",
+      "en": "Phu Pha Man",
+      "slug": "phu-pha-man"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4020",
+      "level": 2,
+      "name": {
+        "th": "ภูผาม่าน",
+        "en": "Phu Pha Man",
+        "slug": "phu-pha-man"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "40350"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.680",
+    "lon": "101.871"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-fai-402002/"
+  }
+}

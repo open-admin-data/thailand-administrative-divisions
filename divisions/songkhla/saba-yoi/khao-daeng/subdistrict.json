@@ -1,0 +1,61 @@
+{
+  "id": "900607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาแดง",
+    "en": "Khao Daeng",
+    "slug": "khao-daeng"
+  },
+  "code": {
+    "dopa": "900607"
+  },
+  "parent": {
+    "id": "9006",
+    "level": 2,
+    "name": {
+      "th": "สะบ้าย้อย",
+      "en": "Saba Yoi",
+      "slug": "saba-yoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9006",
+      "level": 2,
+      "name": {
+        "th": "สะบ้าย้อย",
+        "en": "Saba Yoi",
+        "slug": "saba-yoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "90210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.505",
+    "lon": "100.802"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-daeng-900607/"
+  }
+}

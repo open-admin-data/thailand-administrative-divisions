@@ -1,0 +1,50 @@
+{
+  "id": "1905",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หนองแซง",
+    "en": "Nong Saeng",
+    "slug": "nong-saeng"
+  },
+  "code": {
+    "dopa": "1905"
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "th": "สระบุรี",
+      "en": "Saraburi",
+      "slug": "saraburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 8,
+    "villages": 62
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.515",
+    "lon": "100.841"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-saeng-1905/"
+  }
+}

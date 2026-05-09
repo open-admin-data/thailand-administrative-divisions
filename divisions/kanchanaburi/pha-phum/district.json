@@ -1,0 +1,50 @@
+{
+  "id": "7107",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ทองผาภูมิ",
+    "en": "Pha Phum",
+    "slug": "pha-phum"
+  },
+  "code": {
+    "dopa": "7107"
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "th": "กาญจนบุรี",
+      "en": "Kanchanaburi",
+      "slug": "kanchanaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 45
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.735",
+    "lon": "98.763"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pha-phum-7107/"
+  }
+}

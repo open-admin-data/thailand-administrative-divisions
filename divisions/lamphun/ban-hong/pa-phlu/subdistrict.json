@@ -1,0 +1,61 @@
+{
+  "id": "510302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าพลู",
+    "en": "Pa Phlu",
+    "slug": "pa-phlu"
+  },
+  "code": {
+    "dopa": "510302"
+  },
+  "parent": {
+    "id": "5103",
+    "level": 2,
+    "name": {
+      "th": "บ้านโฮ่ง",
+      "en": "Ban Hong",
+      "slug": "ban-hong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5103",
+      "level": 2,
+      "name": {
+        "th": "บ้านโฮ่ง",
+        "en": "Ban Hong",
+        "slug": "ban-hong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "51130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.211",
+    "lon": "98.867"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-phlu-510302/"
+  }
+}

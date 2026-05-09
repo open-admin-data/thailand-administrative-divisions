@@ -1,0 +1,61 @@
+{
+  "id": "670403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หินฮาว",
+    "en": "Hin Hao",
+    "slug": "hin-hao"
+  },
+  "code": {
+    "dopa": "670403"
+  },
+  "parent": {
+    "id": "6704",
+    "level": 2,
+    "name": {
+      "th": "หล่มเก่า",
+      "en": "Lom Kao",
+      "slug": "lom-kao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6704",
+      "level": 2,
+      "name": {
+        "th": "หล่มเก่า",
+        "en": "Lom Kao",
+        "slug": "lom-kao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "67120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.951",
+    "lon": "101.215"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hin-hao-670403/"
+  }
+}

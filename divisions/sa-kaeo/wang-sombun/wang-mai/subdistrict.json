@@ -1,0 +1,61 @@
+{
+  "id": "270902",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังใหม่",
+    "en": "Wang Mai",
+    "slug": "wang-mai"
+  },
+  "code": {
+    "dopa": "270902"
+  },
+  "parent": {
+    "id": "2709",
+    "level": 2,
+    "name": {
+      "th": "วังสมบูรณ์",
+      "en": "Wang Sombun",
+      "slug": "wang-sombun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    },
+    {
+      "id": "2709",
+      "level": 2,
+      "name": {
+        "th": "วังสมบูรณ์",
+        "en": "Wang Sombun",
+        "slug": "wang-sombun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "27250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.413",
+    "lon": "102.039"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-mai-270902/"
+  }
+}

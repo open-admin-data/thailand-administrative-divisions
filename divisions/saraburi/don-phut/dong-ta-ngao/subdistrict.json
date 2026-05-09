@@ -1,0 +1,61 @@
+{
+  "id": "190704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงตะงาว",
+    "en": "Dong Ta-ngao",
+    "slug": "dong-ta-ngao"
+  },
+  "code": {
+    "dopa": "190704"
+  },
+  "parent": {
+    "id": "1907",
+    "level": 2,
+    "name": {
+      "th": "ดอนพุด",
+      "en": "Don Phut",
+      "slug": "don-phut"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1907",
+      "level": 2,
+      "name": {
+        "th": "ดอนพุด",
+        "en": "Don Phut",
+        "slug": "don-phut"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "18210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.624",
+    "lon": "100.599"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-ta-ngao-190704/"
+  }
+}

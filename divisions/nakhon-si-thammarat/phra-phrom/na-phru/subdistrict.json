@@ -1,0 +1,61 @@
+{
+  "id": "802001",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาพรุ",
+    "en": "Na Phru",
+    "slug": "na-phru"
+  },
+  "code": {
+    "dopa": "802001"
+  },
+  "parent": {
+    "id": "8020",
+    "level": 2,
+    "name": {
+      "th": "พระพรหม",
+      "en": "Phra Phrom",
+      "slug": "phra-phrom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8020",
+      "level": 2,
+      "name": {
+        "th": "พระพรหม",
+        "en": "Phra Phrom",
+        "slug": "phra-phrom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "80000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.331",
+    "lon": "99.907"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-phru-802001/"
+  }
+}

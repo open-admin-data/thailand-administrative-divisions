@@ -1,0 +1,50 @@
+{
+  "id": "9601",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองนราธิวาส",
+    "en": "Mueang Narathiwat",
+    "slug": "mueang-narathiwat"
+  },
+  "code": {
+    "dopa": "9601"
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "th": "นราธิวาส",
+      "en": "Narathiwat",
+      "slug": "narathiwat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 98
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.424",
+    "lon": "101.820"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-narathiwat-9601/"
+  }
+}

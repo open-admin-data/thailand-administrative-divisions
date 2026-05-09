@@ -1,0 +1,61 @@
+{
+  "id": "440114",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บัวค้อ",
+    "en": "Bua Kho",
+    "slug": "bua-kho"
+  },
+  "code": {
+    "dopa": "440114"
+  },
+  "parent": {
+    "id": "4401",
+    "level": 2,
+    "name": {
+      "th": "เมืองมหาสารคาม",
+      "en": "Mueang Maha Sarakham",
+      "slug": "mueang-maha-sarakham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4401",
+      "level": 2,
+      "name": {
+        "th": "เมืองมหาสารคาม",
+        "en": "Mueang Maha Sarakham",
+        "slug": "mueang-maha-sarakham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "44000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.986",
+    "lon": "103.278"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bua-kho-440114/"
+  }
+}

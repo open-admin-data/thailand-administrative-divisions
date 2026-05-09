@@ -1,0 +1,50 @@
+{
+  "id": "9011",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หาดใหญ่",
+    "en": "Hat Yai",
+    "slug": "hat-yai"
+  },
+  "code": {
+    "dopa": "9011"
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "th": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 297
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.045",
+    "lon": "100.446"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/hat-yai-9011/"
+  }
+}

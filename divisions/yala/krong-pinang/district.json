@@ -1,0 +1,50 @@
+{
+  "id": "9508",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "กรงปีนัง",
+    "en": "Krong Pinang",
+    "slug": "krong-pinang"
+  },
+  "code": {
+    "dopa": "9508"
+  },
+  "parent": {
+    "id": "95",
+    "level": 1,
+    "name": {
+      "th": "ยะลา",
+      "en": "Yala",
+      "slug": "yala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 23
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.456",
+    "lon": "101.230"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/krong-pinang-9508/"
+  }
+}

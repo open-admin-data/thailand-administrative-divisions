@@ -1,0 +1,61 @@
+{
+  "id": "621103",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลานดอกไม้ตก",
+    "en": "Lan Dokmai Tok",
+    "slug": "lan-dokmai-tok"
+  },
+  "code": {
+    "dopa": "621103"
+  },
+  "parent": {
+    "id": "6211",
+    "level": 2,
+    "name": {
+      "th": "โกสัมพีนคร",
+      "en": "Kosamphi Nakhon",
+      "slug": "kosamphi-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6211",
+      "level": 2,
+      "name": {
+        "th": "โกสัมพีนคร",
+        "en": "Kosamphi Nakhon",
+        "slug": "kosamphi-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "62000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.581",
+    "lon": "99.429"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lan-dokmai-tok-621103/"
+  }
+}

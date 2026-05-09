@@ -1,0 +1,917 @@
+[
+  {
+    "id": "33090101",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านเมืองคง",
+      "en": "Ban Mueang Khong",
+      "slug": "33090101"
+    },
+    "code": {
+      "dopa": "33090101"
+    },
+    "parent": {
+      "id": "330901",
+      "level": 3,
+      "name": {
+        "th": "เมืองคง",
+        "en": "Mueang Khong",
+        "slug": "mueang-khong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "th": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket"
+        }
+      },
+      {
+        "id": "3309",
+        "level": 2,
+        "name": {
+          "th": "ราษีไศล",
+          "en": "Rasi Salai",
+          "slug": "rasi-salai"
+        }
+      },
+      {
+        "id": "330901",
+        "level": 3,
+        "name": {
+          "th": "เมืองคง",
+          "en": "Mueang Khong",
+          "slug": "mueang-khong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.341865791907567",
+      "lon": "104.15740996599197"
+    },
+    "source": {}
+  },
+  {
+    "id": "33090102",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านท่าโพธิ์",
+      "en": "Ban Tha Pho",
+      "slug": "33090102"
+    },
+    "code": {
+      "dopa": "33090102"
+    },
+    "parent": {
+      "id": "330901",
+      "level": 3,
+      "name": {
+        "th": "เมืองคง",
+        "en": "Mueang Khong",
+        "slug": "mueang-khong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "th": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket"
+        }
+      },
+      {
+        "id": "3309",
+        "level": 2,
+        "name": {
+          "th": "ราษีไศล",
+          "en": "Rasi Salai",
+          "slug": "rasi-salai"
+        }
+      },
+      {
+        "id": "330901",
+        "level": 3,
+        "name": {
+          "th": "เมืองคง",
+          "en": "Mueang Khong",
+          "slug": "mueang-khong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.340472888755926",
+      "lon": "104.15398478507996"
+    },
+    "source": {}
+  },
+  {
+    "id": "33090103",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกลาง",
+      "en": "Ban Klang",
+      "slug": "33090103"
+    },
+    "code": {
+      "dopa": "33090103"
+    },
+    "parent": {
+      "id": "330901",
+      "level": 3,
+      "name": {
+        "th": "เมืองคง",
+        "en": "Mueang Khong",
+        "slug": "mueang-khong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "th": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket"
+        }
+      },
+      {
+        "id": "3309",
+        "level": 2,
+        "name": {
+          "th": "ราษีไศล",
+          "en": "Rasi Salai",
+          "slug": "rasi-salai"
+        }
+      },
+      {
+        "id": "330901",
+        "level": 3,
+        "name": {
+          "th": "เมืองคง",
+          "en": "Mueang Khong",
+          "slug": "mueang-khong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.339963319265395",
+      "lon": "104.16039392352104"
+    },
+    "source": {}
+  },
+  {
+    "id": "33090104",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านใหญ่",
+      "en": "Ban Yai",
+      "slug": "33090104"
+    },
+    "code": {
+      "dopa": "33090104"
+    },
+    "parent": {
+      "id": "330901",
+      "level": 3,
+      "name": {
+        "th": "เมืองคง",
+        "en": "Mueang Khong",
+        "slug": "mueang-khong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "th": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket"
+        }
+      },
+      {
+        "id": "3309",
+        "level": 2,
+        "name": {
+          "th": "ราษีไศล",
+          "en": "Rasi Salai",
+          "slug": "rasi-salai"
+        }
+      },
+      {
+        "id": "330901",
+        "level": 3,
+        "name": {
+          "th": "เมืองคง",
+          "en": "Mueang Khong",
+          "slug": "mueang-khong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.333654383877743",
+      "lon": "104.16349187493324"
+    },
+    "source": {}
+  },
+  {
+    "id": "33090105",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านโนน",
+      "en": "Ban Non",
+      "slug": "33090105"
+    },
+    "code": {
+      "dopa": "33090105"
+    },
+    "parent": {
+      "id": "330901",
+      "level": 3,
+      "name": {
+        "th": "เมืองคง",
+        "en": "Mueang Khong",
+        "slug": "mueang-khong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "th": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket"
+        }
+      },
+      {
+        "id": "3309",
+        "level": 2,
+        "name": {
+          "th": "ราษีไศล",
+          "en": "Rasi Salai",
+          "slug": "rasi-salai"
+        }
+      },
+      {
+        "id": "330901",
+        "level": 3,
+        "name": {
+          "th": "เมืองคง",
+          "en": "Mueang Khong",
+          "slug": "mueang-khong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.332498113069843",
+      "lon": "104.16794434189796"
+    },
+    "source": {}
+  },
+  {
+    "id": "33090106",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหลุบโมก",
+      "en": "Ban Lup Mok",
+      "slug": "33090106"
+    },
+    "code": {
+      "dopa": "33090106"
+    },
+    "parent": {
+      "id": "330901",
+      "level": 3,
+      "name": {
+        "th": "เมืองคง",
+        "en": "Mueang Khong",
+        "slug": "mueang-khong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "th": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket"
+        }
+      },
+      {
+        "id": "3309",
+        "level": 2,
+        "name": {
+          "th": "ราษีไศล",
+          "en": "Rasi Salai",
+          "slug": "rasi-salai"
+        }
+      },
+      {
+        "id": "330901",
+        "level": 3,
+        "name": {
+          "th": "เมืองคง",
+          "en": "Mueang Khong",
+          "slug": "mueang-khong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.349057783734143",
+      "lon": "104.16962072253227"
+    },
+    "source": {}
+  },
+  {
+    "id": "33090107",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านบากเรือ",
+      "en": "Ban Bak Ruea",
+      "slug": "33090107"
+    },
+    "code": {
+      "dopa": "33090107"
+    },
+    "parent": {
+      "id": "330901",
+      "level": 3,
+      "name": {
+        "th": "เมืองคง",
+        "en": "Mueang Khong",
+        "slug": "mueang-khong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "th": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket"
+        }
+      },
+      {
+        "id": "3309",
+        "level": 2,
+        "name": {
+          "th": "ราษีไศล",
+          "en": "Rasi Salai",
+          "slug": "rasi-salai"
+        }
+      },
+      {
+        "id": "330901",
+        "level": 3,
+        "name": {
+          "th": "เมืองคง",
+          "en": "Mueang Khong",
+          "slug": "mueang-khong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.373120249061877",
+      "lon": "104.16590183973312"
+    },
+    "source": {}
+  },
+  {
+    "id": "33090108",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านร่องอโศก",
+      "en": "Ban Rong Asok",
+      "slug": "33090108"
+    },
+    "code": {
+      "dopa": "33090108"
+    },
+    "parent": {
+      "id": "330901",
+      "level": 3,
+      "name": {
+        "th": "เมืองคง",
+        "en": "Mueang Khong",
+        "slug": "mueang-khong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "th": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket"
+        }
+      },
+      {
+        "id": "3309",
+        "level": 2,
+        "name": {
+          "th": "ราษีไศล",
+          "en": "Rasi Salai",
+          "slug": "rasi-salai"
+        }
+      },
+      {
+        "id": "330901",
+        "level": 3,
+        "name": {
+          "th": "เมืองคง",
+          "en": "Mueang Khong",
+          "slug": "mueang-khong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.348104642432375",
+      "lon": "104.14339944720268"
+    },
+    "source": {}
+  },
+  {
+    "id": "33090109",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองหว้า",
+      "en": "Ban Nong Wa",
+      "slug": "33090109"
+    },
+    "code": {
+      "dopa": "33090109"
+    },
+    "parent": {
+      "id": "330901",
+      "level": 3,
+      "name": {
+        "th": "เมืองคง",
+        "en": "Mueang Khong",
+        "slug": "mueang-khong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "th": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket"
+        }
+      },
+      {
+        "id": "3309",
+        "level": 2,
+        "name": {
+          "th": "ราษีไศล",
+          "en": "Rasi Salai",
+          "slug": "rasi-salai"
+        }
+      },
+      {
+        "id": "330901",
+        "level": 3,
+        "name": {
+          "th": "เมืองคง",
+          "en": "Mueang Khong",
+          "slug": "mueang-khong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.342737483304159",
+      "lon": "104.17383044958115"
+    },
+    "source": {}
+  },
+  {
+    "id": "33090110",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านป่าม่วง",
+      "en": "Ban Pa Muang",
+      "slug": "33090110"
+    },
+    "code": {
+      "dopa": "33090110"
+    },
+    "parent": {
+      "id": "330901",
+      "level": 3,
+      "name": {
+        "th": "เมืองคง",
+        "en": "Mueang Khong",
+        "slug": "mueang-khong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "th": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket"
+        }
+      },
+      {
+        "id": "3309",
+        "level": 2,
+        "name": {
+          "th": "ราษีไศล",
+          "en": "Rasi Salai",
+          "slug": "rasi-salai"
+        }
+      },
+      {
+        "id": "330901",
+        "level": 3,
+        "name": {
+          "th": "เมืองคง",
+          "en": "Mueang Khong",
+          "slug": "mueang-khong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.339037296399717",
+      "lon": "104.16104570031166"
+    },
+    "source": {}
+  },
+  {
+    "id": "33090111",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านโนนเวียงคำ",
+      "en": "Ban Non Wiang Kham",
+      "slug": "33090111"
+    },
+    "code": {
+      "dopa": "33090111"
+    },
+    "parent": {
+      "id": "330901",
+      "level": 3,
+      "name": {
+        "th": "เมืองคง",
+        "en": "Mueang Khong",
+        "slug": "mueang-khong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "th": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket"
+        }
+      },
+      {
+        "id": "3309",
+        "level": 2,
+        "name": {
+          "th": "ราษีไศล",
+          "en": "Rasi Salai",
+          "slug": "rasi-salai"
+        }
+      },
+      {
+        "id": "330901",
+        "level": 3,
+        "name": {
+          "th": "เมืองคง",
+          "en": "Mueang Khong",
+          "slug": "mueang-khong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.330806376467367",
+      "lon": "104.1725979745388"
+    },
+    "source": {}
+  },
+  {
+    "id": "33090112",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองหัวลิง",
+      "en": "Ban Nong Hua Ling",
+      "slug": "33090112"
+    },
+    "code": {
+      "dopa": "33090112"
+    },
+    "parent": {
+      "id": "330901",
+      "level": 3,
+      "name": {
+        "th": "เมืองคง",
+        "en": "Mueang Khong",
+        "slug": "mueang-khong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "th": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket"
+        }
+      },
+      {
+        "id": "3309",
+        "level": 2,
+        "name": {
+          "th": "ราษีไศล",
+          "en": "Rasi Salai",
+          "slug": "rasi-salai"
+        }
+      },
+      {
+        "id": "330901",
+        "level": 3,
+        "name": {
+          "th": "เมืองคง",
+          "en": "Mueang Khong",
+          "slug": "mueang-khong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.348109815531245",
+      "lon": "104.14921849966049"
+    },
+    "source": {}
+  },
+  {
+    "id": "33090113",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองบาก",
+      "en": "Ban Nong Bak",
+      "slug": "33090113"
+    },
+    "code": {
+      "dopa": "33090113"
+    },
+    "parent": {
+      "id": "330901",
+      "level": 3,
+      "name": {
+        "th": "เมืองคง",
+        "en": "Mueang Khong",
+        "slug": "mueang-khong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "th": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket"
+        }
+      },
+      {
+        "id": "3309",
+        "level": 2,
+        "name": {
+          "th": "ราษีไศล",
+          "en": "Rasi Salai",
+          "slug": "rasi-salai"
+        }
+      },
+      {
+        "id": "330901",
+        "level": 3,
+        "name": {
+          "th": "เมืองคง",
+          "en": "Mueang Khong",
+          "slug": "mueang-khong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.370340023315318",
+      "lon": "104.15625661611557"
+    },
+    "source": {}
+  },
+  {
+    "id": "33090114",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านท่าโพธิ์",
+      "en": "Ban Tha Pho",
+      "slug": "33090114"
+    },
+    "code": {
+      "dopa": "33090114"
+    },
+    "parent": {
+      "id": "330901",
+      "level": 3,
+      "name": {
+        "th": "เมืองคง",
+        "en": "Mueang Khong",
+        "slug": "mueang-khong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "th": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket"
+        }
+      },
+      {
+        "id": "3309",
+        "level": 2,
+        "name": {
+          "th": "ราษีไศล",
+          "en": "Rasi Salai",
+          "slug": "rasi-salai"
+        }
+      },
+      {
+        "id": "330901",
+        "level": 3,
+        "name": {
+          "th": "เมืองคง",
+          "en": "Mueang Khong",
+          "slug": "mueang-khong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.344205382700075",
+      "lon": "104.15033295750618"
+    },
+    "source": {}
+  },
+  {
+    "id": "33090115",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านร่องอโศก",
+      "en": "Ban Rong Asok",
+      "slug": "33090115"
+    },
+    "code": {
+      "dopa": "33090115"
+    },
+    "parent": {
+      "id": "330901",
+      "level": 3,
+      "name": {
+        "th": "เมืองคง",
+        "en": "Mueang Khong",
+        "slug": "mueang-khong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "th": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket"
+        }
+      },
+      {
+        "id": "3309",
+        "level": 2,
+        "name": {
+          "th": "ราษีไศล",
+          "en": "Rasi Salai",
+          "slug": "rasi-salai"
+        }
+      },
+      {
+        "id": "330901",
+        "level": 3,
+        "name": {
+          "th": "เมืองคง",
+          "en": "Mueang Khong",
+          "slug": "mueang-khong"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "15.3469717306926",
+      "lon": "104.14296895265579"
+    },
+    "source": {}
+  }
+]

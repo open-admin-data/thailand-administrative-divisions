@@ -1,0 +1,61 @@
+{
+  "id": "950205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ธารน้ำทิพย์",
+    "en": "Than Nam Thip",
+    "slug": "than-nam-thip"
+  },
+  "code": {
+    "dopa": "950205"
+  },
+  "parent": {
+    "id": "9502",
+    "level": 2,
+    "name": {
+      "th": "เบตง",
+      "en": "Betong",
+      "slug": "betong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9502",
+      "level": 2,
+      "name": {
+        "th": "เบตง",
+        "en": "Betong",
+        "slug": "betong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "95110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "5.686",
+    "lon": "101.141"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/than-nam-thip-950205/"
+  }
+}

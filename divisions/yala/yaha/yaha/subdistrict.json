@@ -1,0 +1,61 @@
+{
+  "id": "950501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยะหา",
+    "en": "Yaha",
+    "slug": "yaha"
+  },
+  "code": {
+    "dopa": "950501"
+  },
+  "parent": {
+    "id": "9505",
+    "level": 2,
+    "name": {
+      "th": "ยะหา",
+      "en": "Yaha",
+      "slug": "yaha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    },
+    {
+      "id": "9505",
+      "level": 2,
+      "name": {
+        "th": "ยะหา",
+        "en": "Yaha",
+        "slug": "yaha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "95120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.504",
+    "lon": "101.125"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yaha-950501/"
+  }
+}

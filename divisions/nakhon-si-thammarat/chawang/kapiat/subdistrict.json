@@ -1,0 +1,61 @@
+{
+  "id": "800406",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กะเปียด",
+    "en": "Kapiat",
+    "slug": "kapiat"
+  },
+  "code": {
+    "dopa": "800406"
+  },
+  "parent": {
+    "id": "8004",
+    "level": 2,
+    "name": {
+      "th": "ฉวาง",
+      "en": "Chawang",
+      "slug": "chawang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8004",
+      "level": 2,
+      "name": {
+        "th": "ฉวาง",
+        "en": "Chawang",
+        "slug": "chawang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "80260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.519",
+    "lon": "99.460"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kapiat-800406/"
+  }
+}

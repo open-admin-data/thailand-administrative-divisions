@@ -1,0 +1,61 @@
+{
+  "id": "341111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตระการ",
+    "en": "Trakan",
+    "slug": "trakan"
+  },
+  "code": {
+    "dopa": "341111"
+  },
+  "parent": {
+    "id": "3411",
+    "level": 2,
+    "name": {
+      "th": "ตระการพืชผล",
+      "en": "Trakan Phuet Phon",
+      "slug": "trakan-phuet-phon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3411",
+      "level": 2,
+      "name": {
+        "th": "ตระการพืชผล",
+        "en": "Trakan Phuet Phon",
+        "slug": "trakan-phuet-phon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "34130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.466",
+    "lon": "105.050"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/trakan-341111/"
+  }
+}

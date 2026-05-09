@@ -1,0 +1,61 @@
+{
+  "id": "660307",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งใหญ่",
+    "en": "Thung Yai",
+    "slug": "thung-yai"
+  },
+  "code": {
+    "dopa": "660307"
+  },
+  "parent": {
+    "id": "6603",
+    "level": 2,
+    "name": {
+      "th": "โพธิ์ประทับช้าง",
+      "en": "Pho Prathap Chang",
+      "slug": "pho-prathap-chang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6603",
+      "level": 2,
+      "name": {
+        "th": "โพธิ์ประทับช้าง",
+        "en": "Pho Prathap Chang",
+        "slug": "pho-prathap-chang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "66190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.292",
+    "lon": "100.071"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-yai-660307/"
+  }
+}

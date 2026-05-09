@@ -1,0 +1,50 @@
+{
+  "id": "3509",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ไทยเจริญ",
+    "en": "Thai Charoen",
+    "slug": "thai-charoen"
+  },
+  "code": {
+    "dopa": "3509"
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "th": "ยโสธร",
+      "en": "Yasothon",
+      "slug": "yasothon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 48
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.061",
+    "lon": "104.521"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thai-charoen-3509/"
+  }
+}

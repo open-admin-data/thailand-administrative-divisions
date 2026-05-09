@@ -1,0 +1,61 @@
+{
+  "id": "800810",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนตะโก",
+    "en": "Don tako",
+    "slug": "don-tako"
+  },
+  "code": {
+    "dopa": "800810"
+  },
+  "parent": {
+    "id": "8008",
+    "level": 2,
+    "name": {
+      "th": "ท่าศาลา",
+      "en": "Tha Sala",
+      "slug": "tha-sala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8008",
+      "level": 2,
+      "name": {
+        "th": "ท่าศาลา",
+        "en": "Tha Sala",
+        "slug": "tha-sala"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "80160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.560",
+    "lon": "99.903"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-tako-800810/"
+  }
+}

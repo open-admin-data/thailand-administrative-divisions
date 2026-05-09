@@ -1,0 +1,1 @@
+Browse Thailand's 77 provinces below. Each province folder contains its districts, subdistricts, and village data in multiple formats, including zip codes (รหัสไปรษณีย์) and geographic coordinates (พิกัด). Click any province to explore its administrative hierarchy.

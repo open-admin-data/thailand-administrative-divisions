@@ -1,0 +1,61 @@
+{
+  "id": "320118",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาบัว",
+    "en": "Na Bua",
+    "slug": "na-bua"
+  },
+  "code": {
+    "dopa": "320118"
+  },
+  "parent": {
+    "id": "3201",
+    "level": 2,
+    "name": {
+      "th": "เมืองสุรินทร์",
+      "en": "Mueang Surin",
+      "slug": "mueang-surin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3201",
+      "level": 2,
+      "name": {
+        "th": "เมืองสุรินทร์",
+        "en": "Mueang Surin",
+        "slug": "mueang-surin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "32000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.782",
+    "lon": "103.412"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-bua-320118/"
+  }
+}

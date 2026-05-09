@@ -1,0 +1,61 @@
+{
+  "id": "101803",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง บางลำภูล่าง",
+    "en": "Bang Lamphu Lang",
+    "slug": "bang-lamphu-lang"
+  },
+  "code": {
+    "dopa": "101803"
+  },
+  "parent": {
+    "id": "1018",
+    "level": 2,
+    "name": {
+      "th": "เขต คลองสาน",
+      "en": "Khlong San",
+      "slug": "khlong-san"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1018",
+      "level": 2,
+      "name": {
+        "th": "เขต คลองสาน",
+        "en": "Khlong San",
+        "slug": "khlong-san"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10600"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.715",
+    "lon": "100.501"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-lamphu-lang-101803/"
+  }
+}

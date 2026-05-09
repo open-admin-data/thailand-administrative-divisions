@@ -1,0 +1,61 @@
+{
+  "id": "130109",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางเดื่อ",
+    "en": "Bang Duea",
+    "slug": "bang-duea"
+  },
+  "code": {
+    "dopa": "130109"
+  },
+  "parent": {
+    "id": "1301",
+    "level": 2,
+    "name": {
+      "th": "เมืองปทุมธานี",
+      "en": "Mueang Pathum Thani",
+      "slug": "mueang-pathum-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1301",
+      "level": 2,
+      "name": {
+        "th": "เมืองปทุมธานี",
+        "en": "Mueang Pathum Thani",
+        "slug": "mueang-pathum-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "12000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.990",
+    "lon": "100.487"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-duea-130109/"
+  }
+}

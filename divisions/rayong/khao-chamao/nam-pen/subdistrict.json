@@ -1,0 +1,61 @@
+{
+  "id": "210701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำเป็น",
+    "en": "Nam Pen",
+    "slug": "nam-pen"
+  },
+  "code": {
+    "dopa": "210701"
+  },
+  "parent": {
+    "id": "2107",
+    "level": 2,
+    "name": {
+      "th": "เขาชะเมา",
+      "en": "Khao Chamao",
+      "slug": "khao-chamao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2107",
+      "level": 2,
+      "name": {
+        "th": "เขาชะเมา",
+        "en": "Khao Chamao",
+        "slug": "khao-chamao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "21110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.901",
+    "lon": "101.749"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-pen-210701/"
+  }
+}

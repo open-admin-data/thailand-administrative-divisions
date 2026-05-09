@@ -1,0 +1,50 @@
+{
+  "id": "2601",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองนครนายก",
+    "en": "Nakhon Nayok",
+    "slug": "nakhon-nayok"
+  },
+  "code": {
+    "dopa": "2601"
+  },
+  "parent": {
+    "id": "26",
+    "level": 1,
+    "name": {
+      "th": "นครนายก",
+      "en": "Nakhon Nayok",
+      "slug": "nakhon-nayok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 151
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.204",
+    "lon": "101.219"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nakhon-nayok-2601/"
+  }
+}

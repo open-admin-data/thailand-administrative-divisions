@@ -1,0 +1,61 @@
+{
+  "id": "170302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางระจัน",
+    "en": "Bang Rachan",
+    "slug": "bang-rachan"
+  },
+  "code": {
+    "dopa": "170302"
+  },
+  "parent": {
+    "id": "1703",
+    "level": 2,
+    "name": {
+      "th": "ค่ายบางระจัน",
+      "en": "Khai Bang Rachan",
+      "slug": "khai-bang-rachan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "th": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri"
+      }
+    },
+    {
+      "id": "1703",
+      "level": 2,
+      "name": {
+        "th": "ค่ายบางระจัน",
+        "en": "Khai Bang Rachan",
+        "slug": "khai-bang-rachan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "16150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.799",
+    "lon": "100.296"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-rachan-170302/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "7402",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "กระทุ่มแบน",
+    "en": "Krathum Baen",
+    "slug": "krathum-baen"
+  },
+  "code": {
+    "dopa": "7402"
+  },
+  "parent": {
+    "id": "74",
+    "level": 1,
+    "name": {
+      "th": "สมุทรสาคร",
+      "en": "Samut Sakhon",
+      "slug": "samut-sakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสาคร",
+        "en": "Samut Sakhon",
+        "slug": "samut-sakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 113
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.654",
+    "lon": "100.250"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/krathum-baen-7402/"
+  }
+}

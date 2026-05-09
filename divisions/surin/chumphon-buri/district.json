@@ -1,0 +1,50 @@
+{
+  "id": "3202",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ชุมพลบุรี",
+    "en": "Chumphon Buri",
+    "slug": "chumphon-buri"
+  },
+  "code": {
+    "dopa": "3202"
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "th": "สุรินทร์",
+      "en": "Surin",
+      "slug": "surin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 124
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.312",
+    "lon": "103.557"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chumphon-buri-3202/"
+  }
+}

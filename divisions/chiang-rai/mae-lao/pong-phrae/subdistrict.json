@@ -1,0 +1,61 @@
+{
+  "id": "571605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โป่งแพร่",
+    "en": "Pong Phrae",
+    "slug": "pong-phrae"
+  },
+  "code": {
+    "dopa": "571605"
+  },
+  "parent": {
+    "id": "5716",
+    "level": 2,
+    "name": {
+      "th": "แม่ลาว",
+      "en": "Mae Lao",
+      "slug": "mae-lao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5716",
+      "level": 2,
+      "name": {
+        "th": "แม่ลาว",
+        "en": "Mae Lao",
+        "slug": "mae-lao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "57000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.812",
+    "lon": "99.653"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pong-phrae-571605/"
+  }
+}

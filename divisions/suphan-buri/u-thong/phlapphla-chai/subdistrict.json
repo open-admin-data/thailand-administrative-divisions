@@ -1,0 +1,61 @@
+{
+  "id": "720909",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พลับพลาไชย",
+    "en": "Phlapphla Chai",
+    "slug": "phlapphla-chai"
+  },
+  "code": {
+    "dopa": "720909"
+  },
+  "parent": {
+    "id": "7209",
+    "level": 2,
+    "name": {
+      "th": "อู่ทอง",
+      "en": "U Thong",
+      "slug": "u-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7209",
+      "level": 2,
+      "name": {
+        "th": "อู่ทอง",
+        "en": "U Thong",
+        "slug": "u-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "72160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.517",
+    "lon": "99.887"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phlapphla-chai-720909/"
+  }
+}

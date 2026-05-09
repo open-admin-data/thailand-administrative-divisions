@@ -1,0 +1,50 @@
+{
+  "id": "1606",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านหมี่",
+    "en": "Ban Mi",
+    "slug": "ban-mi"
+  },
+  "code": {
+    "dopa": "1606"
+  },
+  "parent": {
+    "id": "16",
+    "level": 1,
+    "name": {
+      "th": "ลพบุรี",
+      "en": "Loburi",
+      "slug": "loburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 20,
+    "villages": 147
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.016",
+    "lon": "100.578"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-mi-1606/"
+  }
+}

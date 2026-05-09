@@ -1,0 +1,61 @@
+{
+  "id": "330320",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คำเนียม",
+    "en": "Kham Niam",
+    "slug": "kham-niam"
+  },
+  "code": {
+    "dopa": "330320"
+  },
+  "parent": {
+    "id": "3303",
+    "level": 2,
+    "name": {
+      "th": "กันทรารมย์",
+      "en": "Kanthararom",
+      "slug": "kanthararom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3303",
+      "level": 2,
+      "name": {
+        "th": "กันทรารมย์",
+        "en": "Kanthararom",
+        "slug": "kanthararom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "33130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.066",
+    "lon": "104.583"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kham-niam-330320/"
+  }
+}

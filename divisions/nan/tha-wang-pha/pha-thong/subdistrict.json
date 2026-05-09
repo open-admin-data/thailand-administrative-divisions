@@ -1,0 +1,61 @@
+{
+  "id": "550610",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ต.ผาทอง",
+    "en": "Pha Thong",
+    "slug": "pha-thong"
+  },
+  "code": {
+    "dopa": "550610"
+  },
+  "parent": {
+    "id": "5506",
+    "level": 2,
+    "name": {
+      "th": "ท่าวังผา",
+      "en": "Tha Wang Pha",
+      "slug": "tha-wang-pha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5506",
+      "level": 2,
+      "name": {
+        "th": "ท่าวังผา",
+        "en": "Tha Wang Pha",
+        "slug": "tha-wang-pha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "55140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.235",
+    "lon": "100.684"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pha-thong-550610/"
+  }
+}

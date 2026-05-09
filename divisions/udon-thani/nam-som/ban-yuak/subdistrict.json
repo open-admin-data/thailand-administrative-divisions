@@ -1,0 +1,61 @@
+{
+  "id": "411806",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านหยวก",
+    "en": "Ban Yuak",
+    "slug": "ban-yuak"
+  },
+  "code": {
+    "dopa": "411806"
+  },
+  "parent": {
+    "id": "4118",
+    "level": 2,
+    "name": {
+      "th": "น้ำโสม",
+      "en": "Nam Som",
+      "slug": "nam-som"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    },
+    {
+      "id": "4118",
+      "level": 2,
+      "name": {
+        "th": "น้ำโสม",
+        "en": "Nam Som",
+        "slug": "nam-som"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "41210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.697",
+    "lon": "102.187"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-yuak-411806/"
+  }
+}

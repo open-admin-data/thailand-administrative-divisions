@@ -1,0 +1,185 @@
+[
+  {
+    "id": "191202",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "คำพราน",
+      "en": "Kham Phran",
+      "slug": "kham-phran"
+    },
+    "code": {
+      "dopa": "191202"
+    },
+    "parent": {
+      "id": "1912",
+      "level": 2,
+      "name": {
+        "th": "วังม่วง",
+        "en": "Wang Muang",
+        "slug": "wang-muang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "th": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi"
+        }
+      },
+      {
+        "id": "1912",
+        "level": 2,
+        "name": {
+          "th": "วังม่วง",
+          "en": "Wang Muang",
+          "slug": "wang-muang"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "18220"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.818",
+      "lon": "101.132"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/kham-phran-191202/"
+    }
+  },
+  {
+    "id": "191201",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แสลงพัน",
+      "en": "Salaeng Phan",
+      "slug": "salaeng-phan"
+    },
+    "code": {
+      "dopa": "191201"
+    },
+    "parent": {
+      "id": "1912",
+      "level": 2,
+      "name": {
+        "th": "วังม่วง",
+        "en": "Wang Muang",
+        "slug": "wang-muang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "th": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi"
+        }
+      },
+      {
+        "id": "1912",
+        "level": 2,
+        "name": {
+          "th": "วังม่วง",
+          "en": "Wang Muang",
+          "slug": "wang-muang"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 5
+    },
+    "zip_codes": [
+      "18220"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.745",
+      "lon": "101.116"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/salaeng-phan-191201/"
+    }
+  },
+  {
+    "id": "191203",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "วังม่วง",
+      "en": "Wang Muang",
+      "slug": "wang-muang"
+    },
+    "code": {
+      "dopa": "191203"
+    },
+    "parent": {
+      "id": "1912",
+      "level": 2,
+      "name": {
+        "th": "วังม่วง",
+        "en": "Wang Muang",
+        "slug": "wang-muang"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "th": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi"
+        }
+      },
+      {
+        "id": "1912",
+        "level": 2,
+        "name": {
+          "th": "วังม่วง",
+          "en": "Wang Muang",
+          "slug": "wang-muang"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 17
+    },
+    "zip_codes": [
+      "18220"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.861",
+      "lon": "101.151"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/wang-muang-191203/"
+    }
+  }
+]

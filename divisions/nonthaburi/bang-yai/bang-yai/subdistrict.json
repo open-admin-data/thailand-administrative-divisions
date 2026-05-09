@@ -1,0 +1,61 @@
+{
+  "id": "120305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางใหญ่",
+    "en": "Bang Yai",
+    "slug": "bang-yai"
+  },
+  "code": {
+    "dopa": "120305"
+  },
+  "parent": {
+    "id": "1203",
+    "level": 2,
+    "name": {
+      "th": "บางใหญ่",
+      "en": "Bang Yai",
+      "slug": "bang-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1203",
+      "level": 2,
+      "name": {
+        "th": "บางใหญ่",
+        "en": "Bang Yai",
+        "slug": "bang-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "11140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.837",
+    "lon": "100.375"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-yai-120305/"
+  }
+}

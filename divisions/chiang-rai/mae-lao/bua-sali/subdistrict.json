@@ -1,0 +1,61 @@
+{
+  "id": "571603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บัวสลี",
+    "en": "Bua Sali",
+    "slug": "bua-sali"
+  },
+  "code": {
+    "dopa": "571603"
+  },
+  "parent": {
+    "id": "5716",
+    "level": 2,
+    "name": {
+      "th": "แม่ลาว",
+      "en": "Mae Lao",
+      "slug": "mae-lao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5716",
+      "level": 2,
+      "name": {
+        "th": "แม่ลาว",
+        "en": "Mae Lao",
+        "slug": "mae-lao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "57250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.804",
+    "lon": "99.768"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bua-sali-571603/"
+  }
+}

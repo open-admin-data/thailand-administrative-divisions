@@ -1,0 +1,61 @@
+{
+  "id": "180507",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนกำ",
+    "en": "Don Kam",
+    "slug": "don-kam"
+  },
+  "code": {
+    "dopa": "180507"
+  },
+  "parent": {
+    "id": "1805",
+    "level": 2,
+    "name": {
+      "th": "สรรคบุรี",
+      "en": "Sankhaburi",
+      "slug": "sankhaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1805",
+      "level": 2,
+      "name": {
+        "th": "สรรคบุรี",
+        "en": "Sankhaburi",
+        "slug": "sankhaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "17140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.966",
+    "lon": "100.236"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-kam-180507/"
+  }
+}

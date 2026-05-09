@@ -1,0 +1,61 @@
+{
+  "id": "620404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าพุทรา",
+    "en": "Pa Phutsa",
+    "slug": "pa-phutsa"
+  },
+  "code": {
+    "dopa": "620404"
+  },
+  "parent": {
+    "id": "6204",
+    "level": 2,
+    "name": {
+      "th": "ขาณุวรลักษบุรี",
+      "en": "Khanu Woralaksaburi",
+      "slug": "khanu-woralaksaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6204",
+      "level": 2,
+      "name": {
+        "th": "ขาณุวรลักษบุรี",
+        "en": "Khanu Woralaksaburi",
+        "slug": "khanu-woralaksaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "62130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.094",
+    "lon": "99.918"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-phutsa-620404/"
+  }
+}

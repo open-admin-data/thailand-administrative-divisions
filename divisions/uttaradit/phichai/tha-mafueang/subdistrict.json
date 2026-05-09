@@ -1,0 +1,61 @@
+{
+  "id": "530707",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่ามะเฟือง",
+    "en": "Tha Mafueang",
+    "slug": "tha-mafueang"
+  },
+  "code": {
+    "dopa": "530707"
+  },
+  "parent": {
+    "id": "5307",
+    "level": 2,
+    "name": {
+      "th": "พิชัย",
+      "en": "Phichai",
+      "slug": "phichai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5307",
+      "level": 2,
+      "name": {
+        "th": "พิชัย",
+        "en": "Phichai",
+        "slug": "phichai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "53120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.238",
+    "lon": "100.021"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-mafueang-530707/"
+  }
+}

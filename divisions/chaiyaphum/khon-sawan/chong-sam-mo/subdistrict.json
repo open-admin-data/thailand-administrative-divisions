@@ -1,0 +1,61 @@
+{
+  "id": "360303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ช่องสามหมอ",
+    "en": "Chong Sam Mo",
+    "slug": "chong-sam-mo"
+  },
+  "code": {
+    "dopa": "360303"
+  },
+  "parent": {
+    "id": "3603",
+    "level": 2,
+    "name": {
+      "th": "คอนสวรรค์",
+      "en": "Khon Sawan",
+      "slug": "khon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3603",
+      "level": 2,
+      "name": {
+        "th": "คอนสวรรค์",
+        "en": "Khon Sawan",
+        "slug": "khon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "36140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.018",
+    "lon": "102.292"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chong-sam-mo-360303/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "300706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าจะหลุง",
+    "en": "Tha Chalung",
+    "slug": "tha-chalung"
+  },
+  "code": {
+    "dopa": "300706"
+  },
+  "parent": {
+    "id": "3007",
+    "level": 2,
+    "name": {
+      "th": "โชคชัย",
+      "en": "Chok Chai",
+      "slug": "chok-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3007",
+      "level": 2,
+      "name": {
+        "th": "โชคชัย",
+        "en": "Chok Chai",
+        "slug": "chok-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "30190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.870",
+    "lon": "102.264"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-chalung-300706/"
+  }
+}

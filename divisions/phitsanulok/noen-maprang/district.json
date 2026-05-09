@@ -1,0 +1,50 @@
+{
+  "id": "6509",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เนินมะปราง",
+    "en": "Noen Maprang",
+    "slug": "noen-maprang"
+  },
+  "code": {
+    "dopa": "6509"
+  },
+  "parent": {
+    "id": "65",
+    "level": 1,
+    "name": {
+      "th": "พิษณุโลก",
+      "en": "Phitsanulok",
+      "slug": "phitsanulok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 77
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.542",
+    "lon": "100.596"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/noen-maprang-6509/"
+  }
+}

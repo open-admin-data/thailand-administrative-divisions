@@ -1,0 +1,61 @@
+{
+  "id": "461106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงสมบูรณ์",
+    "en": "Dong Sombun",
+    "slug": "dong-sombun"
+  },
+  "code": {
+    "dopa": "461106"
+  },
+  "parent": {
+    "id": "4611",
+    "level": 2,
+    "name": {
+      "th": "ท่าคันโท",
+      "en": "Tha Khantho",
+      "slug": "tha-khantho"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4611",
+      "level": 2,
+      "name": {
+        "th": "ท่าคันโท",
+        "en": "Tha Khantho",
+        "slug": "tha-khantho"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "46190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.869",
+    "lon": "103.366"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-sombun-461106/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "501214",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำบ่อหลวง",
+    "en": "Nam Bo Luang",
+    "slug": "nam-bo-luang"
+  },
+  "code": {
+    "dopa": "501214"
+  },
+  "parent": {
+    "id": "5012",
+    "level": 2,
+    "name": {
+      "th": "สันป่าตอง",
+      "en": "San Pa Tong",
+      "slug": "san-pa-tong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5012",
+      "level": 2,
+      "name": {
+        "th": "สันป่าตอง",
+        "en": "San Pa Tong",
+        "slug": "san-pa-tong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "50120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.674",
+    "lon": "98.841"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-bo-luang-501214/"
+  }
+}

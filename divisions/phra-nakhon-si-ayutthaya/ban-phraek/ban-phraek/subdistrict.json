@@ -1,0 +1,61 @@
+{
+  "id": "141601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านแพรก",
+    "en": "Ban Phraek",
+    "slug": "ban-phraek"
+  },
+  "code": {
+    "dopa": "141601"
+  },
+  "parent": {
+    "id": "1416",
+    "level": 2,
+    "name": {
+      "th": "บ้านแพรก",
+      "en": "Ban Phraek",
+      "slug": "ban-phraek"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    },
+    {
+      "id": "1416",
+      "level": 2,
+      "name": {
+        "th": "บ้านแพรก",
+        "en": "Ban Phraek",
+        "slug": "ban-phraek"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "13240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.640",
+    "lon": "100.585"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-phraek-141601/"
+  }
+}

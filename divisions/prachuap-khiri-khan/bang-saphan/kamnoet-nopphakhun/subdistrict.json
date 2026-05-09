@@ -1,0 +1,61 @@
+{
+  "id": "770401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กำเนิดนพคุณ",
+    "en": "Kamnoet Nopphakhun",
+    "slug": "kamnoet-nopphakhun"
+  },
+  "code": {
+    "dopa": "770401"
+  },
+  "parent": {
+    "id": "7704",
+    "level": 2,
+    "name": {
+      "th": "บางสะพาน",
+      "en": "Bang Saphan",
+      "slug": "bang-saphan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    },
+    {
+      "id": "7704",
+      "level": 2,
+      "name": {
+        "th": "บางสะพาน",
+        "en": "Bang Saphan",
+        "slug": "bang-saphan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "77140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "11.248",
+    "lon": "99.516"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kamnoet-nopphakhun-770401/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "640108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตาลเตี้ย",
+    "en": "Tan Tia",
+    "slug": "tan-tia"
+  },
+  "code": {
+    "dopa": "640108"
+  },
+  "parent": {
+    "id": "6401",
+    "level": 2,
+    "name": {
+      "th": "เมืองสุโขทัย",
+      "en": "Mueang Sukhothai",
+      "slug": "mueang-sukhothai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "th": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai"
+      }
+    },
+    {
+      "id": "6401",
+      "level": 2,
+      "name": {
+        "th": "เมืองสุโขทัย",
+        "en": "Mueang Sukhothai",
+        "slug": "mueang-sukhothai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "64220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.063",
+    "lon": "99.870"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tan-tia-640108/"
+  }
+}

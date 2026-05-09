@@ -1,0 +1,61 @@
+{
+  "id": "100601",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง คลองจั่น",
+    "en": "Khlong Chan",
+    "slug": "khlong-chan"
+  },
+  "code": {
+    "dopa": "100601"
+  },
+  "parent": {
+    "id": "1006",
+    "level": 2,
+    "name": {
+      "th": "เขต บางกะปิ",
+      "en": "Bang Kapi",
+      "slug": "bang-kapi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1006",
+      "level": 2,
+      "name": {
+        "th": "เขต บางกะปิ",
+        "en": "Bang Kapi",
+        "slug": "bang-kapi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10240"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.786",
+    "lon": "100.635"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-chan-100601/"
+  }
+}

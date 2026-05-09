@@ -1,0 +1,50 @@
+{
+  "id": "1021",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต บางขุนเทียน",
+    "en": "Bang Khun Thian",
+    "slug": "bang-khun-thian"
+  },
+  "code": {
+    "dopa": "1021"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 2,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.605",
+    "lon": "100.395"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-khun-thian-1021/"
+  }
+}

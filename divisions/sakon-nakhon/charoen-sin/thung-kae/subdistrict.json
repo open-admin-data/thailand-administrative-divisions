@@ -1,0 +1,61 @@
+{
+  "id": "471603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งแก",
+    "en": "Thung Kae",
+    "slug": "thung-kae"
+  },
+  "code": {
+    "dopa": "471603"
+  },
+  "parent": {
+    "id": "4716",
+    "level": 2,
+    "name": {
+      "th": "เจริญศิลป์",
+      "en": "Charoen Sin",
+      "slug": "charoen-sin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4716",
+      "level": 2,
+      "name": {
+        "th": "เจริญศิลป์",
+        "en": "Charoen Sin",
+        "slug": "charoen-sin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "47290"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.602",
+    "lon": "103.528"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-kae-471603/"
+  }
+}

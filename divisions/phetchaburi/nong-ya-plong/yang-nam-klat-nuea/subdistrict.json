@@ -1,0 +1,61 @@
+{
+  "id": "760302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยางน้ำกลัดเหนือ",
+    "en": "Yang Nam Klat Nuea",
+    "slug": "yang-nam-klat-nuea"
+  },
+  "code": {
+    "dopa": "760302"
+  },
+  "parent": {
+    "id": "7603",
+    "level": 2,
+    "name": {
+      "th": "หนองหญ้าปล้อง",
+      "en": "Nong Ya Plong",
+      "slug": "nong-ya-plong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7603",
+      "level": 2,
+      "name": {
+        "th": "หนองหญ้าปล้อง",
+        "en": "Nong Ya Plong",
+        "slug": "nong-ya-plong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "76160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.158",
+    "lon": "99.390"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yang-nam-klat-nuea-760302/"
+  }
+}

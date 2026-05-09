@@ -1,0 +1,61 @@
+{
+  "id": "302801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สระพระ",
+    "en": "Sa Phra",
+    "slug": "sa-phra"
+  },
+  "code": {
+    "dopa": "302801"
+  },
+  "parent": {
+    "id": "3028",
+    "level": 2,
+    "name": {
+      "th": "พระทองคำ",
+      "en": "Phra Thong Kham",
+      "slug": "phra-thong-kham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3028",
+      "level": 2,
+      "name": {
+        "th": "พระทองคำ",
+        "en": "Phra Thong Kham",
+        "slug": "phra-thong-kham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "30220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.311",
+    "lon": "101.959"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sa-phra-302801/"
+  }
+}

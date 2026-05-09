@@ -1,0 +1,61 @@
+{
+  "id": "530808",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ด่านแม่คำมัน",
+    "en": "Dan Mae Kham Man",
+    "slug": "dan-mae-kham-man"
+  },
+  "code": {
+    "dopa": "530808"
+  },
+  "parent": {
+    "id": "5308",
+    "level": 2,
+    "name": {
+      "th": "ลับแล",
+      "en": "Laplae",
+      "slug": "laplae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5308",
+      "level": 2,
+      "name": {
+        "th": "ลับแล",
+        "en": "Laplae",
+        "slug": "laplae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "53210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.547",
+    "lon": "99.963"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dan-mae-kham-man-530808/"
+  }
+}

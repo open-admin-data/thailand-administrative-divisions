@@ -1,0 +1,795 @@
+[
+  {
+    "id": "210107",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บ้านแลง",
+      "en": "Ban Laeng",
+      "slug": "ban-laeng"
+    },
+    "code": {
+      "dopa": "210107"
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "th": "เมืองระยอง",
+        "en": "Mueang Rayong",
+        "slug": "mueang-rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "th": "เมืองระยอง",
+          "en": "Mueang Rayong",
+          "slug": "mueang-rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "21000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.707",
+      "lon": "101.377"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ban-laeng-210107/"
+    }
+  },
+  {
+    "id": "210102",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เชิงเนิน",
+      "en": "Choeng Noen",
+      "slug": "choeng-noen"
+    },
+    "code": {
+      "dopa": "210102"
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "th": "เมืองระยอง",
+        "en": "Mueang Rayong",
+        "slug": "mueang-rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "th": "เมืองระยอง",
+          "en": "Mueang Rayong",
+          "slug": "mueang-rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 15
+    },
+    "zip_codes": [
+      "21000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.677",
+      "lon": "101.318"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/choeng-noen-210102/"
+    }
+  },
+  {
+    "id": "210110",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "กระเฉด",
+      "en": "Kachet",
+      "slug": "kachet"
+    },
+    "code": {
+      "dopa": "210110"
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "th": "เมืองระยอง",
+        "en": "Mueang Rayong",
+        "slug": "mueang-rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "th": "เมืองระยอง",
+          "en": "Mueang Rayong",
+          "slug": "mueang-rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "21100"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.843",
+      "lon": "101.456"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/kachet-210110/"
+    }
+  },
+  {
+    "id": "210106",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แกลง",
+      "en": "Klaeng",
+      "slug": "klaeng"
+    },
+    "code": {
+      "dopa": "210106"
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "th": "เมืองระยอง",
+        "en": "Mueang Rayong",
+        "slug": "mueang-rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "th": "เมืองระยอง",
+          "en": "Mueang Rayong",
+          "slug": "mueang-rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "21160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.663",
+      "lon": "101.467"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/klaeng-210106/"
+    }
+  },
+  {
+    "id": "210114",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "มาบตาพุด",
+      "en": "Map Ta Phut",
+      "slug": "map-ta-phut"
+    },
+    "code": {
+      "dopa": "210114"
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "th": "เมืองระยอง",
+        "en": "Mueang Rayong",
+        "slug": "mueang-rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "th": "เมืองระยอง",
+          "en": "Mueang Rayong",
+          "slug": "mueang-rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 16
+    },
+    "zip_codes": [
+      "21150"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.701",
+      "lon": "101.188"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/map-ta-phut-210114/"
+    }
+  },
+  {
+    "id": "210108",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "นาตาขวัญ",
+      "en": "Na Ta Khwan",
+      "slug": "na-ta-khwan"
+    },
+    "code": {
+      "dopa": "210108"
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "th": "เมืองระยอง",
+        "en": "Mueang Rayong",
+        "slug": "mueang-rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "th": "เมืองระยอง",
+          "en": "Mueang Rayong",
+          "slug": "mueang-rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "21000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.741",
+      "lon": "101.369"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/na-ta-khwan-210108/"
+    }
+  },
+  {
+    "id": "210112",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "น้ำคอก",
+      "en": "Nam Khok",
+      "slug": "nam-khok"
+    },
+    "code": {
+      "dopa": "210112"
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "th": "เมืองระยอง",
+        "en": "Mueang Rayong",
+        "slug": "mueang-rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "th": "เมืองระยอง",
+          "en": "Mueang Rayong",
+          "slug": "mueang-rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 4
+    },
+    "zip_codes": [
+      "21000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.716",
+      "lon": "101.269"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/nam-khok-210112/"
+    }
+  },
+  {
+    "id": "210109",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เนินพระ",
+      "en": "Noen Phra",
+      "slug": "noen-phra"
+    },
+    "code": {
+      "dopa": "210109"
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "th": "เมืองระยอง",
+        "en": "Mueang Rayong",
+        "slug": "mueang-rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "th": "เมืองระยอง",
+          "en": "Mueang Rayong",
+          "slug": "mueang-rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 19
+    },
+    "zip_codes": [
+      "21000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.681",
+      "lon": "101.223"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/noen-phra-210109/"
+    }
+  },
+  {
+    "id": "210105",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เพ",
+      "en": "Phe",
+      "slug": "phe"
+    },
+    "code": {
+      "dopa": "210105"
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "th": "เมืองระยอง",
+        "en": "Mueang Rayong",
+        "slug": "mueang-rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "th": "เมืองระยอง",
+          "en": "Mueang Rayong",
+          "slug": "mueang-rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "21160"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.629",
+      "lon": "101.418"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/phe-210105/"
+    }
+  },
+  {
+    "id": "210115",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "สำนักทอง",
+      "en": "Samnak Thong",
+      "slug": "samnak-thong"
+    },
+    "code": {
+      "dopa": "210115"
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "th": "เมืองระยอง",
+        "en": "Mueang Rayong",
+        "slug": "mueang-rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "th": "เมืองระยอง",
+          "en": "Mueang Rayong",
+          "slug": "mueang-rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 5
+    },
+    "zip_codes": [
+      "21100"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.721",
+      "lon": "101.472"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/samnak-thong-210115/"
+    }
+  },
+  {
+    "id": "210103",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ตะพง",
+      "en": "Taphong",
+      "slug": "taphong"
+    },
+    "code": {
+      "dopa": "210103"
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "th": "เมืองระยอง",
+        "en": "Mueang Rayong",
+        "slug": "mueang-rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "th": "เมืองระยอง",
+          "en": "Mueang Rayong",
+          "slug": "mueang-rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 16
+    },
+    "zip_codes": [
+      "21000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.653",
+      "lon": "101.364"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/taphong-210103/"
+    }
+  },
+  {
+    "id": "210101",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ท่าประดู่",
+      "en": "Tha Pradu",
+      "slug": "tha-pradu"
+    },
+    "code": {
+      "dopa": "210101"
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "th": "เมืองระยอง",
+        "en": "Mueang Rayong",
+        "slug": "mueang-rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "th": "เมืองระยอง",
+          "en": "Mueang Rayong",
+          "slug": "mueang-rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "21000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.672",
+      "lon": "101.266"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/tha-pradu-210101/"
+    }
+  },
+  {
+    "id": "210111",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ทับมา",
+      "en": "Thap Ma",
+      "slug": "thap-ma"
+    },
+    "code": {
+      "dopa": "210111"
+    },
+    "parent": {
+      "id": "2101",
+      "level": 2,
+      "name": {
+        "th": "เมืองระยอง",
+        "en": "Mueang Rayong",
+        "slug": "mueang-rayong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "th": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong"
+        }
+      },
+      {
+        "id": "2101",
+        "level": 2,
+        "name": {
+          "th": "เมืองระยอง",
+          "en": "Mueang Rayong",
+          "slug": "mueang-rayong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "21000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "12.708",
+      "lon": "101.247"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/thap-ma-210111/"
+    }
+  }
+]

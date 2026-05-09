@@ -1,0 +1,61 @@
+{
+  "id": "130402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บึงบอน",
+    "en": "Bueng Bon",
+    "slug": "bueng-bon"
+  },
+  "code": {
+    "dopa": "130402"
+  },
+  "parent": {
+    "id": "1304",
+    "level": 2,
+    "name": {
+      "th": "หนองเสือ",
+      "en": "Nong Suea",
+      "slug": "nong-suea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1304",
+      "level": 2,
+      "name": {
+        "th": "หนองเสือ",
+        "en": "Nong Suea",
+        "slug": "nong-suea"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "12170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.087",
+    "lon": "100.778"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bueng-bon-130402/"
+  }
+}

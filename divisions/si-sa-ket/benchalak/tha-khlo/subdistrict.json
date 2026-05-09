@@ -1,0 +1,61 @@
+{
+  "id": "331905",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าคล้อ",
+    "en": "Tha Khlo",
+    "slug": "tha-khlo"
+  },
+  "code": {
+    "dopa": "331905"
+  },
+  "parent": {
+    "id": "3319",
+    "level": 2,
+    "name": {
+      "th": "เบญจลักษ์",
+      "en": "Benchalak",
+      "slug": "benchalak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3319",
+      "level": 2,
+      "name": {
+        "th": "เบญจลักษ์",
+        "en": "Benchalak",
+        "slug": "benchalak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "33110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.761",
+    "lon": "104.783"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-khlo-331905/"
+  }
+}

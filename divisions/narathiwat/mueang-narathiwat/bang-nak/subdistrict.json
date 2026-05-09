@@ -1,0 +1,61 @@
+{
+  "id": "960101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางนาค",
+    "en": "Bang Nak",
+    "slug": "bang-nak"
+  },
+  "code": {
+    "dopa": "960101"
+  },
+  "parent": {
+    "id": "9601",
+    "level": 2,
+    "name": {
+      "th": "เมืองนราธิวาส",
+      "en": "Mueang Narathiwat",
+      "slug": "mueang-narathiwat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9601",
+      "level": 2,
+      "name": {
+        "th": "เมืองนราธิวาส",
+        "en": "Mueang Narathiwat",
+        "slug": "mueang-narathiwat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 35
+  },
+  "zip_codes": [
+    "96000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.424",
+    "lon": "101.820"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-nak-960101/"
+  }
+}

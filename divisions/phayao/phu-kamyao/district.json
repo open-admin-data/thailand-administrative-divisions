@@ -1,0 +1,50 @@
+{
+  "id": "5609",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ภูกามยาว",
+    "en": "Phu Kamyao",
+    "slug": "phu-kamyao"
+  },
+  "code": {
+    "dopa": "5609"
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "th": "พะเยา",
+      "en": "Phayao",
+      "slug": "phayao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 41
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.241",
+    "lon": "99.989"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phu-kamyao-5609/"
+  }
+}

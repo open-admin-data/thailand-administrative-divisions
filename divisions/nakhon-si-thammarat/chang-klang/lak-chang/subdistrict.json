@@ -1,0 +1,61 @@
+{
+  "id": "802202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หลักช้าง",
+    "en": "Lak Chang",
+    "slug": "lak-chang"
+  },
+  "code": {
+    "dopa": "802202"
+  },
+  "parent": {
+    "id": "8022",
+    "level": 2,
+    "name": {
+      "th": "ช้างกลาง",
+      "en": "Chang Klang",
+      "slug": "chang-klang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8022",
+      "level": 2,
+      "name": {
+        "th": "ช้างกลาง",
+        "en": "Chang Klang",
+        "slug": "chang-klang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "80250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.354",
+    "lon": "99.535"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lak-chang-802202/"
+  }
+}

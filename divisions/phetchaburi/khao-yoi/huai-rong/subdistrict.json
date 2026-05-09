@@ -1,0 +1,61 @@
+{
+  "id": "760208",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยโรง",
+    "en": "Huai Rong",
+    "slug": "huai-rong"
+  },
+  "code": {
+    "dopa": "760208"
+  },
+  "parent": {
+    "id": "7602",
+    "level": 2,
+    "name": {
+      "th": "เขาย้อย",
+      "en": "Khao Yoi",
+      "slug": "khao-yoi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7602",
+      "level": 2,
+      "name": {
+        "th": "เขาย้อย",
+        "en": "Khao Yoi",
+        "slug": "khao-yoi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "76140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.316",
+    "lon": "99.841"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-rong-760208/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "180506",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงคอน",
+    "en": "Dong Khon",
+    "slug": "dong-khon"
+  },
+  "code": {
+    "dopa": "180506"
+  },
+  "parent": {
+    "id": "1805",
+    "level": 2,
+    "name": {
+      "th": "สรรคบุรี",
+      "en": "Sankhaburi",
+      "slug": "sankhaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1805",
+      "level": 2,
+      "name": {
+        "th": "สรรคบุรี",
+        "en": "Sankhaburi",
+        "slug": "sankhaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "17140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.976",
+    "lon": "100.135"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-khon-180506/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "601005",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ยางขาว",
+    "en": "Yang Khao",
+    "slug": "yang-khao"
+  },
+  "code": {
+    "dopa": "601005"
+  },
+  "parent": {
+    "id": "6010",
+    "level": 2,
+    "name": {
+      "th": "พยุหะคีรี",
+      "en": "Phayuha Khiri",
+      "slug": "phayuha-khiri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6010",
+      "level": 2,
+      "name": {
+        "th": "พยุหะคีรี",
+        "en": "Phayuha Khiri",
+        "slug": "phayuha-khiri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "60130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.514",
+    "lon": "100.069"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/yang-khao-601005/"
+  }
+}

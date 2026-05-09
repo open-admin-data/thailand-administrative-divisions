@@ -1,0 +1,61 @@
+{
+  "id": "160403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ศิลาทิพย์",
+    "en": "Sila Thip",
+    "slug": "sila-thip"
+  },
+  "code": {
+    "dopa": "160403"
+  },
+  "parent": {
+    "id": "1604",
+    "level": 2,
+    "name": {
+      "th": "ชัยบาดาล",
+      "en": "Chai Badan",
+      "slug": "chai-badan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1604",
+      "level": 2,
+      "name": {
+        "th": "ชัยบาดาล",
+        "en": "Chai Badan",
+        "slug": "chai-badan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "15130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.314",
+    "lon": "101.087"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sila-thip-160403/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "300304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุดโบสถ์",
+    "en": "Kut Bot",
+    "slug": "kut-bot"
+  },
+  "code": {
+    "dopa": "300304"
+  },
+  "parent": {
+    "id": "3003",
+    "level": 2,
+    "name": {
+      "th": "เสิงสาง",
+      "en": "Soeng Sang",
+      "slug": "soeng-sang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3003",
+      "level": 2,
+      "name": {
+        "th": "เสิงสาง",
+        "en": "Soeng Sang",
+        "slug": "soeng-sang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "30330"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.457",
+    "lon": "102.540"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kut-bot-300304/"
+  }
+}

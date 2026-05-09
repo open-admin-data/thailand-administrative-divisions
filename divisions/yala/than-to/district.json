@@ -1,0 +1,50 @@
+{
+  "id": "9504",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ธารโต",
+    "en": "Than To",
+    "slug": "than-to"
+  },
+  "code": {
+    "dopa": "9504"
+  },
+  "parent": {
+    "id": "95",
+    "level": 1,
+    "name": {
+      "th": "ยะลา",
+      "en": "Yala",
+      "slug": "yala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "th": "ยะลา",
+        "en": "Yala",
+        "slug": "yala"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 37
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.167",
+    "lon": "101.187"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/than-to-9504/"
+  }
+}

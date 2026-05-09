@@ -1,0 +1,61 @@
+{
+  "id": "480903",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านเสียว",
+    "en": "Ban Siao",
+    "slug": "ban-siao"
+  },
+  "code": {
+    "dopa": "480903"
+  },
+  "parent": {
+    "id": "4809",
+    "level": 2,
+    "name": {
+      "th": "นาหว้า",
+      "en": "Na Wa",
+      "slug": "na-wa"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4809",
+      "level": 2,
+      "name": {
+        "th": "นาหว้า",
+        "en": "Na Wa",
+        "slug": "na-wa"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "48180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.554",
+    "lon": "104.082"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-siao-480903/"
+  }
+}

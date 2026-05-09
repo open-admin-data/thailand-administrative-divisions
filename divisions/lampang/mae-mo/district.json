@@ -1,0 +1,50 @@
+{
+  "id": "5202",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "แม่เมาะ",
+    "en": "Mae Mo",
+    "slug": "mae-mo"
+  },
+  "code": {
+    "dopa": "5202"
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "th": "ลำปาง",
+      "en": "Lampang",
+      "slug": "lampang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 44
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.250",
+    "lon": "99.807"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mae-mo-5202/"
+  }
+}

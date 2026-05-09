@@ -1,0 +1,61 @@
+{
+  "id": "600107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นครสวรรค์ออก",
+    "en": "Nakhon Sawan Ok",
+    "slug": "nakhon-sawan-ok"
+  },
+  "code": {
+    "dopa": "600107"
+  },
+  "parent": {
+    "id": "6001",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครสวรรค์",
+      "en": "Mueang Nakhon Sawan",
+      "slug": "mueang-nakhon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    },
+    {
+      "id": "6001",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครสวรรค์",
+        "en": "Mueang Nakhon Sawan",
+        "slug": "mueang-nakhon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "60000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.633",
+    "lon": "100.132"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nakhon-sawan-ok-600107/"
+  }
+}

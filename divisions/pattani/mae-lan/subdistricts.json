@@ -1,0 +1,185 @@
+[
+  {
+    "id": "941201",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แม่ลาน",
+      "en": "Mae Lan",
+      "slug": "mae-lan"
+    },
+    "code": {
+      "dopa": "941201"
+    },
+    "parent": {
+      "id": "9412",
+      "level": 2,
+      "name": {
+        "th": "แม่ลาน",
+        "en": "Mae Lan",
+        "slug": "mae-lan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "th": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani"
+        }
+      },
+      {
+        "id": "9412",
+        "level": 2,
+        "name": {
+          "th": "แม่ลาน",
+          "en": "Mae Lan",
+          "slug": "mae-lan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "94180"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.647",
+      "lon": "101.231"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/mae-lan-941201/"
+    }
+  },
+  {
+    "id": "941202",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ม่วงเตี้ย",
+      "en": "Muang Tia",
+      "slug": "muang-tia"
+    },
+    "code": {
+      "dopa": "941202"
+    },
+    "parent": {
+      "id": "9412",
+      "level": 2,
+      "name": {
+        "th": "แม่ลาน",
+        "en": "Mae Lan",
+        "slug": "mae-lan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "th": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani"
+        }
+      },
+      {
+        "id": "9412",
+        "level": 2,
+        "name": {
+          "th": "แม่ลาน",
+          "en": "Mae Lan",
+          "slug": "mae-lan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "94180"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.677",
+      "lon": "101.266"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/muang-tia-941202/"
+    }
+  },
+  {
+    "id": "941203",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ป่าไร่",
+      "en": "Pa Rai",
+      "slug": "pa-rai"
+    },
+    "code": {
+      "dopa": "941203"
+    },
+    "parent": {
+      "id": "9412",
+      "level": 2,
+      "name": {
+        "th": "แม่ลาน",
+        "en": "Mae Lan",
+        "slug": "mae-lan"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "th": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani"
+        }
+      },
+      {
+        "id": "9412",
+        "level": 2,
+        "name": {
+          "th": "แม่ลาน",
+          "en": "Mae Lan",
+          "slug": "mae-lan"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "94180"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.685",
+      "lon": "101.214"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/pa-rai-941203/"
+    }
+  }
+]

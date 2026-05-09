@@ -1,0 +1,12 @@
+{
+  "name": "thailand-administrative-divisions-build",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node build.js",
+    "validate": "node validate.js"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10"
+  }
+}

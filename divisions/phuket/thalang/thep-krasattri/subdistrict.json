@@ -1,0 +1,61 @@
+{
+  "id": "830301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เทพกระษัตรี",
+    "en": "Thep Krasattri",
+    "slug": "thep-krasattri"
+  },
+  "code": {
+    "dopa": "830301"
+  },
+  "parent": {
+    "id": "8303",
+    "level": 2,
+    "name": {
+      "th": "ถลาง",
+      "en": "Thalang",
+      "slug": "thalang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "th": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket"
+      }
+    },
+    {
+      "id": "8303",
+      "level": 2,
+      "name": {
+        "th": "ถลาง",
+        "en": "Thalang",
+        "slug": "thalang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "83110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.047",
+    "lon": "98.323"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thep-krasattri-830301/"
+  }
+}

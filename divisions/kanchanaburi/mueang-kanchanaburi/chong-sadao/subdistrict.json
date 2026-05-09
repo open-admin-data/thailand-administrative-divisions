@@ -1,0 +1,61 @@
+{
+  "id": "710109",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ช่องสะเดา",
+    "en": "Chong Sadao",
+    "slug": "chong-sadao"
+  },
+  "code": {
+    "dopa": "710109"
+  },
+  "parent": {
+    "id": "7101",
+    "level": 2,
+    "name": {
+      "th": "เมืองกาญจนบุรี",
+      "en": "Mueang Kanchanaburi",
+      "slug": "mueang-kanchanaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7101",
+      "level": 2,
+      "name": {
+        "th": "เมืองกาญจนบุรี",
+        "en": "Mueang Kanchanaburi",
+        "slug": "mueang-kanchanaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "71190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.228",
+    "lon": "99.187"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chong-sadao-710109/"
+  }
+}

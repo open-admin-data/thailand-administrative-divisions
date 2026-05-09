@@ -1,0 +1,61 @@
+{
+  "id": "470409",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บะฮี",
+    "en": "Ba Hi",
+    "slug": "ba-hi"
+  },
+  "code": {
+    "dopa": "470409"
+  },
+  "parent": {
+    "id": "4704",
+    "level": 2,
+    "name": {
+      "th": "พรรณานิคม",
+      "en": "Phanna Nikhom",
+      "slug": "phanna-nikhom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4704",
+      "level": 2,
+      "name": {
+        "th": "พรรณานิคม",
+        "en": "Phanna Nikhom",
+        "slug": "phanna-nikhom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "47130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.426",
+    "lon": "103.901"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ba-hi-470409/"
+  }
+}

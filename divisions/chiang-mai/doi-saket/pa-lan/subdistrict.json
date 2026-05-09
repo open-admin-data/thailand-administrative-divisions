@@ -1,0 +1,61 @@
+{
+  "id": "500506",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ป่าลาน",
+    "en": "Pa Lan",
+    "slug": "pa-lan"
+  },
+  "code": {
+    "dopa": "500506"
+  },
+  "parent": {
+    "id": "5005",
+    "level": 2,
+    "name": {
+      "th": "ดอยสะเก็ด",
+      "en": "Doi Saket",
+      "slug": "doi-saket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5005",
+      "level": 2,
+      "name": {
+        "th": "ดอยสะเก็ด",
+        "en": "Doi Saket",
+        "slug": "doi-saket"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "50220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.836",
+    "lon": "99.106"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pa-lan-500506/"
+  }
+}

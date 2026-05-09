@@ -1,0 +1,734 @@
+[
+  {
+    "id": "910104",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "บ้านควน",
+      "en": "Ban Khuan",
+      "slug": "ban-khuan"
+    },
+    "code": {
+      "dopa": "910104"
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสตูล",
+        "en": "Mueang Satun",
+        "slug": "mueang-satun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสตูล",
+          "en": "Mueang Satun",
+          "slug": "mueang-satun"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "91140"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.691",
+      "lon": "100.049"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ban-khuan-910104/"
+    }
+  },
+  {
+    "id": "910105",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ฉลุง",
+      "en": "Chalung",
+      "slug": "chalung"
+    },
+    "code": {
+      "dopa": "910105"
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสตูล",
+        "en": "Mueang Satun",
+        "slug": "mueang-satun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสตูล",
+          "en": "Mueang Satun",
+          "slug": "mueang-satun"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 14
+    },
+    "zip_codes": [
+      "91140"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.725",
+      "lon": "100.035"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/chalung-910105/"
+    }
+  },
+  {
+    "id": "910108",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เจ๊ะบิลัง",
+      "en": "Che Bilang",
+      "slug": "che-bilang"
+    },
+    "code": {
+      "dopa": "910108"
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสตูล",
+        "en": "Mueang Satun",
+        "slug": "mueang-satun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสตูล",
+          "en": "Mueang Satun",
+          "slug": "mueang-satun"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "91000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.687",
+      "lon": "99.965"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/che-bilang-910108/"
+    }
+  },
+  {
+    "id": "910112",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เกตรี",
+      "en": "Ketri",
+      "slug": "ketri"
+    },
+    "code": {
+      "dopa": "910112"
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสตูล",
+        "en": "Mueang Satun",
+        "slug": "mueang-satun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสตูล",
+          "en": "Mueang Satun",
+          "slug": "mueang-satun"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "91140"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.702",
+      "lon": "100.095"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ketri-910112/"
+    }
+  },
+  {
+    "id": "910102",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "คลองขุด",
+      "en": "Khlong Khut",
+      "slug": "khlong-khut"
+    },
+    "code": {
+      "dopa": "910102"
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสตูล",
+        "en": "Mueang Satun",
+        "slug": "mueang-satun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสตูล",
+          "en": "Mueang Satun",
+          "slug": "mueang-satun"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "91000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.625",
+      "lon": "100.120"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khlong-khut-910102/"
+    }
+  },
+  {
+    "id": "910103",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ควนขัน",
+      "en": "Khuan Khan",
+      "slug": "khuan-khan"
+    },
+    "code": {
+      "dopa": "910103"
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสตูล",
+        "en": "Mueang Satun",
+        "slug": "mueang-satun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสตูล",
+          "en": "Mueang Satun",
+          "slug": "mueang-satun"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 6
+    },
+    "zip_codes": [
+      "91000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.633",
+      "lon": "100.036"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khuan-khan-910103/"
+    }
+  },
+  {
+    "id": "910111",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ควนโพธิ์",
+      "en": "Khuan Pho",
+      "slug": "khuan-pho"
+    },
+    "code": {
+      "dopa": "910111"
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสตูล",
+        "en": "Mueang Satun",
+        "slug": "mueang-satun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสตูล",
+          "en": "Mueang Satun",
+          "slug": "mueang-satun"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 7
+    },
+    "zip_codes": [
+      "91140"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.769",
+      "lon": "100.018"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khuan-pho-910111/"
+    }
+  },
+  {
+    "id": "910106",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เกาะสาหร่าย",
+      "en": "Ko Sarai",
+      "slug": "ko-sarai"
+    },
+    "code": {
+      "dopa": "910106"
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสตูล",
+        "en": "Mueang Satun",
+        "slug": "mueang-satun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสตูล",
+          "en": "Mueang Satun",
+          "slug": "mueang-satun"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "91000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.628",
+      "lon": "99.647"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/ko-sarai-910106/"
+    }
+  },
+  {
+    "id": "910101",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "พิมาน",
+      "en": "Phiman",
+      "slug": "phiman"
+    },
+    "code": {
+      "dopa": "910101"
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสตูล",
+        "en": "Mueang Satun",
+        "slug": "mueang-satun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสตูล",
+          "en": "Mueang Satun",
+          "slug": "mueang-satun"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 20
+    },
+    "zip_codes": [
+      "91000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.615",
+      "lon": "100.071"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/phiman-910101/"
+    }
+  },
+  {
+    "id": "910110",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ปูยู",
+      "en": "Puyu",
+      "slug": "puyu"
+    },
+    "code": {
+      "dopa": "910110"
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสตูล",
+        "en": "Mueang Satun",
+        "slug": "mueang-satun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสตูล",
+          "en": "Mueang Satun",
+          "slug": "mueang-satun"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 3
+    },
+    "zip_codes": [
+      "91000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.517",
+      "lon": "100.124"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/puyu-910110/"
+    }
+  },
+  {
+    "id": "910109",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ตำมะลัง",
+      "en": "Tam Malang",
+      "slug": "tam-malang"
+    },
+    "code": {
+      "dopa": "910109"
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสตูล",
+        "en": "Mueang Satun",
+        "slug": "mueang-satun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสตูล",
+          "en": "Mueang Satun",
+          "slug": "mueang-satun"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 3
+    },
+    "zip_codes": [
+      "91000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.556",
+      "lon": "100.044"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/tam-malang-910109/"
+    }
+  },
+  {
+    "id": "910107",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ตันหยงโป",
+      "en": "Tanyong Po",
+      "slug": "tanyong-po"
+    },
+    "code": {
+      "dopa": "910107"
+    },
+    "parent": {
+      "id": "9101",
+      "level": 2,
+      "name": {
+        "th": "เมืองสตูล",
+        "en": "Mueang Satun",
+        "slug": "mueang-satun"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "th": "สตูล",
+          "en": "Satun",
+          "slug": "satun"
+        }
+      },
+      {
+        "id": "9101",
+        "level": 2,
+        "name": {
+          "th": "เมืองสตูล",
+          "en": "Mueang Satun",
+          "slug": "mueang-satun"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 3
+    },
+    "zip_codes": [
+      "91000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "6.589",
+      "lon": "99.936"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/tanyong-po-910107/"
+    }
+  }
+]

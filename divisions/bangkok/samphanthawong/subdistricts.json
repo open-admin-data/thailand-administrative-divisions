@@ -1,0 +1,185 @@
+[
+  {
+    "id": "101301",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง จักรวรรดิ",
+      "en": "Chakkrawat",
+      "slug": "chakkrawat"
+    },
+    "code": {
+      "dopa": "101301"
+    },
+    "parent": {
+      "id": "1013",
+      "level": 2,
+      "name": {
+        "th": "เขต สัมพันธวงศ์",
+        "en": "Samphanthawong",
+        "slug": "samphanthawong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1013",
+        "level": 2,
+        "name": {
+          "th": "เขต สัมพันธวงศ์",
+          "en": "Samphanthawong",
+          "slug": "samphanthawong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10100"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.741",
+      "lon": "100.504"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/chakkrawat-101301/"
+    }
+  },
+  {
+    "id": "101302",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง สัมพันธวงศ์",
+      "en": "Samphanthawong",
+      "slug": "samphanthawong"
+    },
+    "code": {
+      "dopa": "101302"
+    },
+    "parent": {
+      "id": "1013",
+      "level": 2,
+      "name": {
+        "th": "เขต สัมพันธวงศ์",
+        "en": "Samphanthawong",
+        "slug": "samphanthawong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1013",
+        "level": 2,
+        "name": {
+          "th": "เขต สัมพันธวงศ์",
+          "en": "Samphanthawong",
+          "slug": "samphanthawong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10100"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.739",
+      "lon": "100.511"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/samphanthawong-101302/"
+    }
+  },
+  {
+    "id": "101303",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง ตลาดน้อย",
+      "en": "Talat Noi",
+      "slug": "talat-noi"
+    },
+    "code": {
+      "dopa": "101303"
+    },
+    "parent": {
+      "id": "1013",
+      "level": 2,
+      "name": {
+        "th": "เขต สัมพันธวงศ์",
+        "en": "Samphanthawong",
+        "slug": "samphanthawong"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1013",
+        "level": 2,
+        "name": {
+          "th": "เขต สัมพันธวงศ์",
+          "en": "Samphanthawong",
+          "slug": "samphanthawong"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10100"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.734",
+      "lon": "100.513"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/talat-noi-101303/"
+    }
+  }
+]

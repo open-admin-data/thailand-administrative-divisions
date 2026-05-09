@@ -1,0 +1,61 @@
+{
+  "id": "440605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองม่วง",
+    "en": "Nong Muang",
+    "slug": "nong-muang"
+  },
+  "code": {
+    "dopa": "440605"
+  },
+  "parent": {
+    "id": "4406",
+    "level": 2,
+    "name": {
+      "th": "บรบือ",
+      "en": "Borabue",
+      "slug": "borabue"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4406",
+      "level": 2,
+      "name": {
+        "th": "บรบือ",
+        "en": "Borabue",
+        "slug": "borabue"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "44130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.961",
+    "lon": "103.212"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-muang-440605/"
+  }
+}

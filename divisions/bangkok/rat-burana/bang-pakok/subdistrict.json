@@ -1,0 +1,61 @@
+{
+  "id": "102402",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง บางปะกอก",
+    "en": "Bang Pakok",
+    "slug": "bang-pakok"
+  },
+  "code": {
+    "dopa": "102402"
+  },
+  "parent": {
+    "id": "1024",
+    "level": 2,
+    "name": {
+      "th": "เขต ราษฎร์บูรณะ",
+      "en": "Rat Burana",
+      "slug": "rat-burana"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1024",
+      "level": 2,
+      "name": {
+        "th": "เขต ราษฎร์บูรณะ",
+        "en": "Rat Burana",
+        "slug": "rat-burana"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10140"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.675",
+    "lon": "100.491"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-pakok-102402/"
+  }
+}

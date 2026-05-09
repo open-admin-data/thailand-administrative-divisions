@@ -1,0 +1,61 @@
+{
+  "id": "350504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เชียงเพ็ง",
+    "en": "Chiang Pheng",
+    "slug": "chiang-pheng"
+  },
+  "code": {
+    "dopa": "350504"
+  },
+  "parent": {
+    "id": "3505",
+    "level": 2,
+    "name": {
+      "th": "ป่าติ้ว",
+      "en": "Pa Tio",
+      "slug": "pa-tio"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "th": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon"
+      }
+    },
+    {
+      "id": "3505",
+      "level": 2,
+      "name": {
+        "th": "ป่าติ้ว",
+        "en": "Pa Tio",
+        "slug": "pa-tio"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "35150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.772",
+    "lon": "104.409"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chiang-pheng-350504/"
+  }
+}

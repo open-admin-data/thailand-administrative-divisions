@@ -1,0 +1,38 @@
+{
+  "id": "48",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "นครพนม",
+    "en": "Nakhon Phanom",
+    "slug": "nakhon-phanom"
+  },
+  "code": {
+    "dopa": "48",
+    "iso": "TH-48"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 12,
+    "subdistricts": 95,
+    "villages": 1124
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "Northeastern"
+    }
+  },
+  "geo": {
+    "lat": "17.066",
+    "lon": "104.749"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/nakhon-phanom-48/"
+  }
+}

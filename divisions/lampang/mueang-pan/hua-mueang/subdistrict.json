@@ -1,0 +1,61 @@
+{
+  "id": "521305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หัวเมือง",
+    "en": "Hua Mueang",
+    "slug": "hua-mueang"
+  },
+  "code": {
+    "dopa": "521305"
+  },
+  "parent": {
+    "id": "5213",
+    "level": 2,
+    "name": {
+      "th": "เมืองปาน",
+      "en": "Mueang Pan",
+      "slug": "mueang-pan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5213",
+      "level": 2,
+      "name": {
+        "th": "เมืองปาน",
+        "en": "Mueang Pan",
+        "slug": "mueang-pan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "52240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.946",
+    "lon": "99.531"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hua-mueang-521305/"
+  }
+}

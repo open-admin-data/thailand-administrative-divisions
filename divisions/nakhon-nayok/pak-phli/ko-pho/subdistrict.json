@@ -1,0 +1,61 @@
+{
+  "id": "260202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เกาะโพธิ์",
+    "en": "Ko Pho",
+    "slug": "ko-pho"
+  },
+  "code": {
+    "dopa": "260202"
+  },
+  "parent": {
+    "id": "2602",
+    "level": 2,
+    "name": {
+      "th": "ปากพลี",
+      "en": "Pak Phli",
+      "slug": "pak-phli"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    {
+      "id": "2602",
+      "level": 2,
+      "name": {
+        "th": "ปากพลี",
+        "en": "Pak Phli",
+        "slug": "pak-phli"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "26130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.156",
+    "lon": "101.231"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ko-pho-260202/"
+  }
+}

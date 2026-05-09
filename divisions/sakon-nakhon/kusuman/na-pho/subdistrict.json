@@ -1,0 +1,61 @@
+{
+  "id": "470202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาโพธิ์",
+    "en": "Na Pho",
+    "slug": "na-pho"
+  },
+  "code": {
+    "dopa": "470202"
+  },
+  "parent": {
+    "id": "4702",
+    "level": 2,
+    "name": {
+      "th": "กุสุมาลย์",
+      "en": "Kusuman",
+      "slug": "kusuman"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4702",
+      "level": 2,
+      "name": {
+        "th": "กุสุมาลย์",
+        "en": "Kusuman",
+        "slug": "kusuman"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "47210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.352",
+    "lon": "104.287"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-pho-470202/"
+  }
+}

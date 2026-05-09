@@ -1,0 +1,61 @@
+{
+  "id": "420906",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ผาน้อย",
+    "en": "Pha Noi",
+    "slug": "pha-noi"
+  },
+  "code": {
+    "dopa": "420906"
+  },
+  "parent": {
+    "id": "4209",
+    "level": 2,
+    "name": {
+      "th": "วังสะพุง",
+      "en": "Wang Saphung",
+      "slug": "wang-saphung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4209",
+      "level": 2,
+      "name": {
+        "th": "วังสะพุง",
+        "en": "Wang Saphung",
+        "slug": "wang-saphung"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 19
+  },
+  "zip_codes": [
+    "42130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.351",
+    "lon": "101.831"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pha-noi-420906/"
+  }
+}

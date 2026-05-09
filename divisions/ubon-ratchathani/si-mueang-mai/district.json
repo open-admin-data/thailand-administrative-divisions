@@ -1,0 +1,50 @@
+{
+  "id": "3402",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ศรีเมืองใหม่",
+    "en": "Si Mueang Mai",
+    "slug": "si-mueang-mai"
+  },
+  "code": {
+    "dopa": "3402"
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "th": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 11,
+    "villages": 121
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.520",
+    "lon": "105.219"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/si-mueang-mai-3402/"
+  }
+}

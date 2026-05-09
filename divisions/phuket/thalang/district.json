@@ -1,0 +1,50 @@
+{
+  "id": "8303",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ถลาง",
+    "en": "Thalang",
+    "slug": "thalang"
+  },
+  "code": {
+    "dopa": "8303"
+  },
+  "parent": {
+    "id": "83",
+    "level": 1,
+    "name": {
+      "th": "ภูเก็ต",
+      "en": "Phuket",
+      "slug": "phuket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "th": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 46
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.116",
+    "lon": "98.425"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thalang-8303/"
+  }
+}

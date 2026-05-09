@@ -1,0 +1,185 @@
+[
+  {
+    "id": "15020701",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านต้นงิ้ว",
+      "en": "Ban Ton Ngio",
+      "slug": "15020701"
+    },
+    "code": {
+      "dopa": "15020701"
+    },
+    "parent": {
+      "id": "150207",
+      "level": 3,
+      "name": {
+        "th": "หลักฟ้า",
+        "en": "Lak Fa",
+        "slug": "lak-fa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "th": "อ่างทอง",
+          "en": "Ang Thong",
+          "slug": "ang-thong"
+        }
+      },
+      {
+        "id": "1502",
+        "level": 2,
+        "name": {
+          "th": "ไชโย",
+          "en": "Chaiyo",
+          "slug": "chaiyo"
+        }
+      },
+      {
+        "id": "150207",
+        "level": 3,
+        "name": {
+          "th": "หลักฟ้า",
+          "en": "Lak Fa",
+          "slug": "lak-fa"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.690913988889486",
+      "lon": "100.45393511652946"
+    },
+    "source": {}
+  },
+  {
+    "id": "15020702",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหลักฟ้า",
+      "en": "Ban Lak Fa",
+      "slug": "15020702"
+    },
+    "code": {
+      "dopa": "15020702"
+    },
+    "parent": {
+      "id": "150207",
+      "level": 3,
+      "name": {
+        "th": "หลักฟ้า",
+        "en": "Lak Fa",
+        "slug": "lak-fa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "th": "อ่างทอง",
+          "en": "Ang Thong",
+          "slug": "ang-thong"
+        }
+      },
+      {
+        "id": "1502",
+        "level": 2,
+        "name": {
+          "th": "ไชโย",
+          "en": "Chaiyo",
+          "slug": "chaiyo"
+        }
+      },
+      {
+        "id": "150207",
+        "level": 3,
+        "name": {
+          "th": "หลักฟ้า",
+          "en": "Lak Fa",
+          "slug": "lak-fa"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.685312343702803",
+      "lon": "100.45778542757034"
+    },
+    "source": {}
+  },
+  {
+    "id": "15020703",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกำแพง (วัว)",
+      "en": "Ban Kamphaeng (Wua)",
+      "slug": "15020703"
+    },
+    "code": {
+      "dopa": "15020703"
+    },
+    "parent": {
+      "id": "150207",
+      "level": 3,
+      "name": {
+        "th": "หลักฟ้า",
+        "en": "Lak Fa",
+        "slug": "lak-fa"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "15",
+        "level": 1,
+        "name": {
+          "th": "อ่างทอง",
+          "en": "Ang Thong",
+          "slug": "ang-thong"
+        }
+      },
+      {
+        "id": "1502",
+        "level": 2,
+        "name": {
+          "th": "ไชโย",
+          "en": "Chaiyo",
+          "slug": "chaiyo"
+        }
+      },
+      {
+        "id": "150207",
+        "level": 3,
+        "name": {
+          "th": "หลักฟ้า",
+          "en": "Lak Fa",
+          "slug": "lak-fa"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "14.681224531025672",
+      "lon": "100.46164378523827"
+    },
+    "source": {}
+  }
+]

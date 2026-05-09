@@ -1,0 +1,61 @@
+{
+  "id": "670308",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าอิบุญ",
+    "en": "Tha Ibun",
+    "slug": "tha-ibun"
+  },
+  "code": {
+    "dopa": "670308"
+  },
+  "parent": {
+    "id": "6703",
+    "level": 2,
+    "name": {
+      "th": "หล่มสัก",
+      "en": "Lom Sak",
+      "slug": "lom-sak"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6703",
+      "level": 2,
+      "name": {
+        "th": "หล่มสัก",
+        "en": "Lom Sak",
+        "slug": "lom-sak"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "67110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.889",
+    "lon": "101.346"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-ibun-670308/"
+  }
+}

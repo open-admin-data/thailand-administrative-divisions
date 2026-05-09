@@ -1,0 +1,61 @@
+{
+  "id": "530702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านดารา",
+    "en": "Ban Dara",
+    "slug": "ban-dara"
+  },
+  "code": {
+    "dopa": "530702"
+  },
+  "parent": {
+    "id": "5307",
+    "level": 2,
+    "name": {
+      "th": "พิชัย",
+      "en": "Phichai",
+      "slug": "phichai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5307",
+      "level": 2,
+      "name": {
+        "th": "พิชัย",
+        "en": "Phichai",
+        "slug": "phichai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "53220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.370",
+    "lon": "100.130"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-dara-530702/"
+  }
+}

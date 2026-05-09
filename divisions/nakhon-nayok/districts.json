@@ -1,0 +1,202 @@
+[
+  {
+    "id": "2603",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "บ้านนา",
+      "en": "Ban Na",
+      "slug": "ban-na"
+    },
+    "code": {
+      "dopa": "2603"
+    },
+    "parent": {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "26",
+        "level": 1,
+        "name": {
+          "th": "นครนายก",
+          "en": "Nakhon Nayok",
+          "slug": "nakhon-nayok"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 10,
+      "villages": 116
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.226",
+      "lon": "101.009"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/ban-na-2603/"
+    }
+  },
+  {
+    "id": "2601",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "เมืองนครนายก",
+      "en": "Nakhon Nayok",
+      "slug": "nakhon-nayok"
+    },
+    "code": {
+      "dopa": "2601"
+    },
+    "parent": {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "26",
+        "level": 1,
+        "name": {
+          "th": "นครนายก",
+          "en": "Nakhon Nayok",
+          "slug": "nakhon-nayok"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 13,
+      "villages": 151
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.204",
+      "lon": "101.219"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/nakhon-nayok-2601/"
+    }
+  },
+  {
+    "id": "2604",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "องครักษ์",
+      "en": "Ongkharak",
+      "slug": "ongkharak"
+    },
+    "code": {
+      "dopa": "2604"
+    },
+    "parent": {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "26",
+        "level": 1,
+        "name": {
+          "th": "นครนายก",
+          "en": "Nakhon Nayok",
+          "slug": "nakhon-nayok"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 11,
+      "villages": 116
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.990",
+      "lon": "100.937"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/ongkharak-2604/"
+    }
+  },
+  {
+    "id": "2602",
+    "level": 2,
+    "level_name": {
+      "th": "อำเภอ",
+      "en": "district"
+    },
+    "name": {
+      "th": "ปากพลี",
+      "en": "Pak Phli",
+      "slug": "pak-phli"
+    },
+    "code": {
+      "dopa": "2602"
+    },
+    "parent": {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "th": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "26",
+        "level": 1,
+        "name": {
+          "th": "นครนายก",
+          "en": "Nakhon Nayok",
+          "slug": "nakhon-nayok"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistricts": 7,
+      "villages": 51
+    },
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "14.180",
+      "lon": "101.306"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/district/pak-phli-2602/"
+    }
+  }
+]

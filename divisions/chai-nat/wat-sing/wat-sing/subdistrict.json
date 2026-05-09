@@ -1,0 +1,61 @@
+{
+  "id": "180301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วัดสิงห์",
+    "en": "Wat Sing",
+    "slug": "wat-sing"
+  },
+  "code": {
+    "dopa": "180301"
+  },
+  "parent": {
+    "id": "1803",
+    "level": 2,
+    "name": {
+      "th": "วัดสิงห์",
+      "en": "Wat Sing",
+      "slug": "wat-sing"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1803",
+      "level": 2,
+      "name": {
+        "th": "วัดสิงห์",
+        "en": "Wat Sing",
+        "slug": "wat-sing"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "17120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.263",
+    "lon": "100.041"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wat-sing-180301/"
+  }
+}

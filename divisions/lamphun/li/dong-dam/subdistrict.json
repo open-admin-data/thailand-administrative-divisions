@@ -1,0 +1,61 @@
+{
+  "id": "510404",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงดำ",
+    "en": "Dong Dam",
+    "slug": "dong-dam"
+  },
+  "code": {
+    "dopa": "510404"
+  },
+  "parent": {
+    "id": "5104",
+    "level": 2,
+    "name": {
+      "th": "ลี้",
+      "en": "Li",
+      "slug": "li"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5104",
+      "level": 2,
+      "name": {
+        "th": "ลี้",
+        "en": "Li",
+        "slug": "li"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "51110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.742",
+    "lon": "99.062"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-dam-510404/"
+  }
+}

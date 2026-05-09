@@ -1,0 +1,61 @@
+{
+  "id": "560314",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งผาสุข",
+    "en": "Thung Pha Suk",
+    "slug": "thung-pha-suk"
+  },
+  "code": {
+    "dopa": "560314"
+  },
+  "parent": {
+    "id": "5603",
+    "level": 2,
+    "name": {
+      "th": "เชียงคำ",
+      "en": "Chiang Kham",
+      "slug": "chiang-kham"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5603",
+      "level": 2,
+      "name": {
+        "th": "เชียงคำ",
+        "en": "Chiang Kham",
+        "slug": "chiang-kham"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "56110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.473",
+    "lon": "100.291"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-pha-suk-560314/"
+  }
+}

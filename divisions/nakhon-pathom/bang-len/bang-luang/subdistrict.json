@@ -1,0 +1,61 @@
+{
+  "id": "730503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางหลวง",
+    "en": "Bang Luang",
+    "slug": "bang-luang"
+  },
+  "code": {
+    "dopa": "730503"
+  },
+  "parent": {
+    "id": "7305",
+    "level": 2,
+    "name": {
+      "th": "บางเลน",
+      "en": "Bang Len",
+      "slug": "bang-len"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7305",
+      "level": 2,
+      "name": {
+        "th": "บางเลน",
+        "en": "Bang Len",
+        "slug": "bang-len"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "73190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.108",
+    "lon": "100.093"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-luang-730503/"
+  }
+}

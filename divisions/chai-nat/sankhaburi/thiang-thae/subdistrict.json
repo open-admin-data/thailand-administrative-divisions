@@ -1,0 +1,61 @@
+{
+  "id": "180502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เที่ยงแท้",
+    "en": "Thiang Thae",
+    "slug": "thiang-thae"
+  },
+  "code": {
+    "dopa": "180502"
+  },
+  "parent": {
+    "id": "1805",
+    "level": 2,
+    "name": {
+      "th": "สรรคบุรี",
+      "en": "Sankhaburi",
+      "slug": "sankhaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "th": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat"
+      }
+    },
+    {
+      "id": "1805",
+      "level": 2,
+      "name": {
+        "th": "สรรคบุรี",
+        "en": "Sankhaburi",
+        "slug": "sankhaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "17140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.089",
+    "lon": "100.161"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thiang-thae-180502/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "104501",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง วังทองหลาง",
+    "en": "Wang Thonglang",
+    "slug": "wang-thonglang"
+  },
+  "code": {
+    "dopa": "104501"
+  },
+  "parent": {
+    "id": "1045",
+    "level": 2,
+    "name": {
+      "th": "เขต วังทองหลาง",
+      "en": "Wang Thonglang",
+      "slug": "wang-thonglang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1045",
+      "level": 2,
+      "name": {
+        "th": "เขต วังทองหลาง",
+        "en": "Wang Thonglang",
+        "slug": "wang-thonglang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10310"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.779",
+    "lon": "100.609"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-thonglang-104501/"
+  }
+}

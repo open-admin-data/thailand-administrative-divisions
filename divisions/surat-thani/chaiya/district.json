@@ -1,0 +1,50 @@
+{
+  "id": "8406",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ไชยา",
+    "en": "Chaiya",
+    "slug": "chaiya"
+  },
+  "code": {
+    "dopa": "8406"
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "th": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 54
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.391",
+    "lon": "99.198"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chaiya-8406/"
+  }
+}

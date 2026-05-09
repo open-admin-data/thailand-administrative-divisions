@@ -1,0 +1,61 @@
+{
+  "id": "320509",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกสะอาด",
+    "en": "Khok Sa-at",
+    "slug": "khok-sa-at"
+  },
+  "code": {
+    "dopa": "320509"
+  },
+  "parent": {
+    "id": "3205",
+    "level": 2,
+    "name": {
+      "th": "ปราสาท",
+      "en": "Prasat",
+      "slug": "prasat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3205",
+      "level": 2,
+      "name": {
+        "th": "ปราสาท",
+        "en": "Prasat",
+        "slug": "prasat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "32140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.541",
+    "lon": "103.373"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-sa-at-320509/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "560108",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่ปีม",
+    "en": "Mae Puem",
+    "slug": "mae-puem"
+  },
+  "code": {
+    "dopa": "560108"
+  },
+  "parent": {
+    "id": "5601",
+    "level": 2,
+    "name": {
+      "th": "เมืองพะเยา",
+      "en": "Mueang Phayao",
+      "slug": "mueang-phayao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5601",
+      "level": 2,
+      "name": {
+        "th": "เมืองพะเยา",
+        "en": "Mueang Phayao",
+        "slug": "mueang-phayao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "56000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.337",
+    "lon": "99.902"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-puem-560108/"
+  }
+}

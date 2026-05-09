@@ -1,0 +1,61 @@
+{
+  "id": "191107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลำพญากลาง",
+    "en": "Lam Phaya Klang",
+    "slug": "lam-phaya-klang"
+  },
+  "code": {
+    "dopa": "191107"
+  },
+  "parent": {
+    "id": "1911",
+    "level": 2,
+    "name": {
+      "th": "มวกเหล็ก",
+      "en": "Muak Lek",
+      "slug": "muak-lek"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1911",
+      "level": 2,
+      "name": {
+        "th": "มวกเหล็ก",
+        "en": "Muak Lek",
+        "slug": "muak-lek"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "18180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.871",
+    "lon": "101.367"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lam-phaya-klang-191107/"
+  }
+}

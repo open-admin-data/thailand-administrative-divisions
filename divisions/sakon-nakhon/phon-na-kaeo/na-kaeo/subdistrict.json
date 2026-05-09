@@ -1,0 +1,61 @@
+{
+  "id": "471702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาแก้ว",
+    "en": "Na Kaeo",
+    "slug": "na-kaeo"
+  },
+  "code": {
+    "dopa": "471702"
+  },
+  "parent": {
+    "id": "4717",
+    "level": 2,
+    "name": {
+      "th": "โพนนาแก้ว",
+      "en": "Phon Na Kaeo",
+      "slug": "phon-na-kaeo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4717",
+      "level": 2,
+      "name": {
+        "th": "โพนนาแก้ว",
+        "en": "Phon Na Kaeo",
+        "slug": "phon-na-kaeo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "47230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.268",
+    "lon": "104.239"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-kaeo-471702/"
+  }
+}

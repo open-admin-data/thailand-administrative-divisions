@@ -1,0 +1,61 @@
+{
+  "id": "900506",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังใหญ่",
+    "en": "Wang Yai",
+    "slug": "wang-yai"
+  },
+  "code": {
+    "dopa": "900506"
+  },
+  "parent": {
+    "id": "9005",
+    "level": 2,
+    "name": {
+      "th": "เทพา",
+      "en": "Thepha",
+      "slug": "thepha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9005",
+      "level": 2,
+      "name": {
+        "th": "เทพา",
+        "en": "Thepha",
+        "slug": "thepha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "90260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.763",
+    "lon": "100.853"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-yai-900506/"
+  }
+}

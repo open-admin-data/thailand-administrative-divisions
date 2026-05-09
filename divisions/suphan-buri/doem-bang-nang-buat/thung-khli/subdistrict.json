@@ -1,0 +1,61 @@
+{
+  "id": "720206",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งคลี",
+    "en": "Thung Khli",
+    "slug": "thung-khli"
+  },
+  "code": {
+    "dopa": "720206"
+  },
+  "parent": {
+    "id": "7202",
+    "level": 2,
+    "name": {
+      "th": "เดิมบางนางบวช",
+      "en": "Doem Bang Nang Buat",
+      "slug": "doem-bang-nang-buat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7202",
+      "level": 2,
+      "name": {
+        "th": "เดิมบางนางบวช",
+        "en": "Doem Bang Nang Buat",
+        "slug": "doem-bang-nang-buat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "72120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.863",
+    "lon": "100.189"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-khli-720206/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "800813",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพธิ์ทอง",
+    "en": "Pho Thong",
+    "slug": "pho-thong"
+  },
+  "code": {
+    "dopa": "800813"
+  },
+  "parent": {
+    "id": "8008",
+    "level": 2,
+    "name": {
+      "th": "ท่าศาลา",
+      "en": "Tha Sala",
+      "slug": "tha-sala"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8008",
+      "level": 2,
+      "name": {
+        "th": "ท่าศาลา",
+        "en": "Tha Sala",
+        "slug": "tha-sala"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "80160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.613",
+    "lon": "99.923"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pho-thong-800813/"
+  }
+}

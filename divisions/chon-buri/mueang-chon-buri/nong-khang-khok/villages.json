@@ -1,0 +1,551 @@
+[
+  {
+    "id": "20010801",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านห้วยทวน",
+      "en": "Ban Huai Thuan",
+      "slug": "20010801"
+    },
+    "code": {
+      "dopa": "20010801"
+    },
+    "parent": {
+      "id": "200108",
+      "level": 3,
+      "name": {
+        "th": "หนองข้างคอก",
+        "en": "Nong Khang Khok",
+        "slug": "nong-khang-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2001",
+        "level": 2,
+        "name": {
+          "th": "เมืองชลบุรี",
+          "en": "Mueang Chon Buri",
+          "slug": "mueang-chon-buri"
+        }
+      },
+      {
+        "id": "200108",
+        "level": 3,
+        "name": {
+          "th": "หนองข้างคอก",
+          "en": "Nong Khang Khok",
+          "slug": "nong-khang-khok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.331820564092663",
+      "lon": "100.99574536085129"
+    },
+    "source": {}
+  },
+  {
+    "id": "20010802",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านมาบหวาย",
+      "en": "Ban Map Huai",
+      "slug": "20010802"
+    },
+    "code": {
+      "dopa": "20010802"
+    },
+    "parent": {
+      "id": "200108",
+      "level": 3,
+      "name": {
+        "th": "หนองข้างคอก",
+        "en": "Nong Khang Khok",
+        "slug": "nong-khang-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2001",
+        "level": 2,
+        "name": {
+          "th": "เมืองชลบุรี",
+          "en": "Mueang Chon Buri",
+          "slug": "mueang-chon-buri"
+        }
+      },
+      {
+        "id": "200108",
+        "level": 3,
+        "name": {
+          "th": "หนองข้างคอก",
+          "en": "Nong Khang Khok",
+          "slug": "nong-khang-khok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.320152608214077",
+      "lon": "100.99673643708229"
+    },
+    "source": {}
+  },
+  {
+    "id": "20010803",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองข้างคอก",
+      "en": "Ban Nong Khang Khok",
+      "slug": "20010803"
+    },
+    "code": {
+      "dopa": "20010803"
+    },
+    "parent": {
+      "id": "200108",
+      "level": 3,
+      "name": {
+        "th": "หนองข้างคอก",
+        "en": "Nong Khang Khok",
+        "slug": "nong-khang-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2001",
+        "level": 2,
+        "name": {
+          "th": "เมืองชลบุรี",
+          "en": "Mueang Chon Buri",
+          "slug": "mueang-chon-buri"
+        }
+      },
+      {
+        "id": "200108",
+        "level": 3,
+        "name": {
+          "th": "หนองข้างคอก",
+          "en": "Nong Khang Khok",
+          "slug": "nong-khang-khok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.33097755650741",
+      "lon": "100.99779322743416"
+    },
+    "source": {}
+  },
+  {
+    "id": "20010804",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านบ่อน้ำจืด",
+      "en": "Ban Bo Nam Chuet",
+      "slug": "20010804"
+    },
+    "code": {
+      "dopa": "20010804"
+    },
+    "parent": {
+      "id": "200108",
+      "level": 3,
+      "name": {
+        "th": "หนองข้างคอก",
+        "en": "Nong Khang Khok",
+        "slug": "nong-khang-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2001",
+        "level": 2,
+        "name": {
+          "th": "เมืองชลบุรี",
+          "en": "Mueang Chon Buri",
+          "slug": "mueang-chon-buri"
+        }
+      },
+      {
+        "id": "200108",
+        "level": 3,
+        "name": {
+          "th": "หนองข้างคอก",
+          "en": "Nong Khang Khok",
+          "slug": "nong-khang-khok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.313462952613937",
+      "lon": "101.01762279868126"
+    },
+    "source": {}
+  },
+  {
+    "id": "20010805",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านสวนมะพร้าว",
+      "en": "Ban Suan Maphrao",
+      "slug": "20010805"
+    },
+    "code": {
+      "dopa": "20010805"
+    },
+    "parent": {
+      "id": "200108",
+      "level": 3,
+      "name": {
+        "th": "หนองข้างคอก",
+        "en": "Nong Khang Khok",
+        "slug": "nong-khang-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2001",
+        "level": 2,
+        "name": {
+          "th": "เมืองชลบุรี",
+          "en": "Mueang Chon Buri",
+          "slug": "mueang-chon-buri"
+        }
+      },
+      {
+        "id": "200108",
+        "level": 3,
+        "name": {
+          "th": "หนองข้างคอก",
+          "en": "Nong Khang Khok",
+          "slug": "nong-khang-khok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.326227427873688",
+      "lon": "101.00005835294724"
+    },
+    "source": {}
+  },
+  {
+    "id": "20010806",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านสวนน้ำตก",
+      "en": "Ban Suan Nam Tok",
+      "slug": "20010806"
+    },
+    "code": {
+      "dopa": "20010806"
+    },
+    "parent": {
+      "id": "200108",
+      "level": 3,
+      "name": {
+        "th": "หนองข้างคอก",
+        "en": "Nong Khang Khok",
+        "slug": "nong-khang-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2001",
+        "level": 2,
+        "name": {
+          "th": "เมืองชลบุรี",
+          "en": "Mueang Chon Buri",
+          "slug": "mueang-chon-buri"
+        }
+      },
+      {
+        "id": "200108",
+        "level": 3,
+        "name": {
+          "th": "หนองข้างคอก",
+          "en": "Nong Khang Khok",
+          "slug": "nong-khang-khok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.31337942862879",
+      "lon": "101.0176831483841"
+    },
+    "source": {}
+  },
+  {
+    "id": "20010807",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านวังตะโก",
+      "en": "Ban Wang Tako",
+      "slug": "20010807"
+    },
+    "code": {
+      "dopa": "20010807"
+    },
+    "parent": {
+      "id": "200108",
+      "level": 3,
+      "name": {
+        "th": "หนองข้างคอก",
+        "en": "Nong Khang Khok",
+        "slug": "nong-khang-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2001",
+        "level": 2,
+        "name": {
+          "th": "เมืองชลบุรี",
+          "en": "Mueang Chon Buri",
+          "slug": "mueang-chon-buri"
+        }
+      },
+      {
+        "id": "200108",
+        "level": 3,
+        "name": {
+          "th": "หนองข้างคอก",
+          "en": "Nong Khang Khok",
+          "slug": "nong-khang-khok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.295303638713765",
+      "lon": "100.99382892251015"
+    },
+    "source": {}
+  },
+  {
+    "id": "20010850",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "ชุมชนบ้านสวนหนองข้างคอกสามัคคี",
+      "en": "",
+      "slug": "20010850"
+    },
+    "code": {
+      "dopa": "20010850"
+    },
+    "parent": {
+      "id": "200108",
+      "level": 3,
+      "name": {
+        "th": "หนองข้างคอก",
+        "en": "Nong Khang Khok",
+        "slug": "nong-khang-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2001",
+        "level": 2,
+        "name": {
+          "th": "เมืองชลบุรี",
+          "en": "Mueang Chon Buri",
+          "slug": "mueang-chon-buri"
+        }
+      },
+      {
+        "id": "200108",
+        "level": 3,
+        "name": {
+          "th": "หนองข้างคอก",
+          "en": "Nong Khang Khok",
+          "slug": "nong-khang-khok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.337844198378253",
+      "lon": "100.99943473935127"
+    },
+    "source": {}
+  },
+  {
+    "id": "20010851",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "ชุมชนบายพาสหนองข้างคอก",
+      "en": "",
+      "slug": "20010851"
+    },
+    "code": {
+      "dopa": "20010851"
+    },
+    "parent": {
+      "id": "200108",
+      "level": 3,
+      "name": {
+        "th": "หนองข้างคอก",
+        "en": "Nong Khang Khok",
+        "slug": "nong-khang-khok"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2001",
+        "level": 2,
+        "name": {
+          "th": "เมืองชลบุรี",
+          "en": "Mueang Chon Buri",
+          "slug": "mueang-chon-buri"
+        }
+      },
+      {
+        "id": "200108",
+        "level": 3,
+        "name": {
+          "th": "หนองข้างคอก",
+          "en": "Nong Khang Khok",
+          "slug": "nong-khang-khok"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.337506221140247",
+      "lon": "100.99367067217827"
+    },
+    "source": {}
+  }
+]

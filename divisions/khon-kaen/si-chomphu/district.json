@@ -1,0 +1,50 @@
+{
+  "id": "4006",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สีชมพู",
+    "en": "Si Chomphu",
+    "slug": "si-chomphu"
+  },
+  "code": {
+    "dopa": "4006"
+  },
+  "parent": {
+    "id": "40",
+    "level": 1,
+    "name": {
+      "th": "ขอนแก่น",
+      "en": "Khon Kaen",
+      "slug": "khon-kaen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 115
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.688",
+    "lon": "102.091"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/si-chomphu-4006/"
+  }
+}

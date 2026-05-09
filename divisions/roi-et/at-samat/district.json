@@ -1,0 +1,50 @@
+{
+  "id": "4514",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "อาจสามารถ",
+    "en": "At Samat",
+    "slug": "at-samat"
+  },
+  "code": {
+    "dopa": "4514"
+  },
+  "parent": {
+    "id": "45",
+    "level": 1,
+    "name": {
+      "th": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 128
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.865",
+    "lon": "103.925"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/at-samat-4514/"
+  }
+}

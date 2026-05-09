@@ -1,0 +1,61 @@
+{
+  "id": "520507",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านอ้อน",
+    "en": "Ban On",
+    "slug": "ban-on"
+  },
+  "code": {
+    "dopa": "520507"
+  },
+  "parent": {
+    "id": "5205",
+    "level": 2,
+    "name": {
+      "th": "งาว",
+      "en": "Ngao",
+      "slug": "ngao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5205",
+      "level": 2,
+      "name": {
+        "th": "งาว",
+        "en": "Ngao",
+        "slug": "ngao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "52110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.788",
+    "lon": "99.852"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-on-520507/"
+  }
+}

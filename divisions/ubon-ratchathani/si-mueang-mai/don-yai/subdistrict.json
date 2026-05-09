@@ -1,0 +1,61 @@
+{
+  "id": "340211",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนใหญ่",
+    "en": "Don Yai",
+    "slug": "don-yai"
+  },
+  "code": {
+    "dopa": "340211"
+  },
+  "parent": {
+    "id": "3402",
+    "level": 2,
+    "name": {
+      "th": "ศรีเมืองใหม่",
+      "en": "Si Mueang Mai",
+      "slug": "si-mueang-mai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3402",
+      "level": 2,
+      "name": {
+        "th": "ศรีเมืองใหม่",
+        "en": "Si Mueang Mai",
+        "slug": "si-mueang-mai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "34250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.447",
+    "lon": "105.316"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-yai-340211/"
+  }
+}

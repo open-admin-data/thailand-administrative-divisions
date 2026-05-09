@@ -1,0 +1,61 @@
+{
+  "id": "501702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าเดื่อ",
+    "en": "Tha Duea",
+    "slug": "tha-duea"
+  },
+  "code": {
+    "dopa": "501702"
+  },
+  "parent": {
+    "id": "5017",
+    "level": 2,
+    "name": {
+      "th": "ดอยเต่า",
+      "en": "Doi Tao",
+      "slug": "doi-tao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5017",
+      "level": 2,
+      "name": {
+        "th": "ดอยเต่า",
+        "en": "Doi Tao",
+        "slug": "doi-tao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "50260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.959",
+    "lon": "98.676"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-duea-501702/"
+  }
+}

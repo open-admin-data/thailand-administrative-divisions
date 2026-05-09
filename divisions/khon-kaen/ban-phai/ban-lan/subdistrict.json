@@ -1,0 +1,61 @@
+{
+  "id": "401009",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านลาน",
+    "en": "Ban Lan",
+    "slug": "ban-lan"
+  },
+  "code": {
+    "dopa": "401009"
+  },
+  "parent": {
+    "id": "4010",
+    "level": 2,
+    "name": {
+      "th": "บ้านไผ่",
+      "en": "Ban Phai",
+      "slug": "ban-phai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4010",
+      "level": 2,
+      "name": {
+        "th": "บ้านไผ่",
+        "en": "Ban Phai",
+        "slug": "ban-phai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "40110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.992",
+    "lon": "102.838"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-lan-401009/"
+  }
+}

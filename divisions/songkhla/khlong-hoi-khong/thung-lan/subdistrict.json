@@ -1,0 +1,61 @@
+{
+  "id": "901602",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทุ่งลาน",
+    "en": "Thung Lan",
+    "slug": "thung-lan"
+  },
+  "code": {
+    "dopa": "901602"
+  },
+  "parent": {
+    "id": "9016",
+    "level": 2,
+    "name": {
+      "th": "คลองหอยโข่ง",
+      "en": "Khlong Hoi Khong",
+      "slug": "khlong-hoi-khong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9016",
+      "level": 2,
+      "name": {
+        "th": "คลองหอยโข่ง",
+        "en": "Khlong Hoi Khong",
+        "slug": "khlong-hoi-khong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "90230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.886",
+    "lon": "100.442"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thung-lan-901602/"
+  }
+}

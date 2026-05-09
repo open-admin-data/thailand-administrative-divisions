@@ -1,0 +1,61 @@
+{
+  "id": "710401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาสวน",
+    "en": "Na Suan",
+    "slug": "na-suan"
+  },
+  "code": {
+    "dopa": "710401"
+  },
+  "parent": {
+    "id": "7104",
+    "level": 2,
+    "name": {
+      "th": "ศรีสวัสดิ์",
+      "en": "Si Sawat",
+      "slug": "si-sawat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7104",
+      "level": 2,
+      "name": {
+        "th": "ศรีสวัสดิ์",
+        "en": "Si Sawat",
+        "slug": "si-sawat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "71250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.895",
+    "lon": "99.029"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-suan-710401/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "102601",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง ดินแดง",
+    "en": "Din Daeng",
+    "slug": "din-daeng"
+  },
+  "code": {
+    "dopa": "102601"
+  },
+  "parent": {
+    "id": "1026",
+    "level": 2,
+    "name": {
+      "th": "เขต ดินแดง",
+      "en": "Din Daeng",
+      "slug": "din-daeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1026",
+      "level": 2,
+      "name": {
+        "th": "เขต ดินแดง",
+        "en": "Din Daeng",
+        "slug": "din-daeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10400"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.778",
+    "lon": "100.567"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/din-daeng-102601/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "730511",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บัวปากท่า",
+    "en": "Bua Pak Tha",
+    "slug": "bua-pak-tha"
+  },
+  "code": {
+    "dopa": "730511"
+  },
+  "parent": {
+    "id": "7305",
+    "level": 2,
+    "name": {
+      "th": "บางเลน",
+      "en": "Bang Len",
+      "slug": "bang-len"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    },
+    {
+      "id": "7305",
+      "level": 2,
+      "name": {
+        "th": "บางเลน",
+        "en": "Bang Len",
+        "slug": "bang-len"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "73130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.159",
+    "lon": "100.228"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bua-pak-tha-730511/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "421007",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ภูกระดึง",
+    "en": "Phu Kradueng",
+    "slug": "phu-kradueng"
+  },
+  "code": {
+    "dopa": "421007"
+  },
+  "parent": {
+    "id": "4210",
+    "level": 2,
+    "name": {
+      "th": "ภูกระดึง",
+      "en": "Phu Kradueng",
+      "slug": "phu-kradueng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4210",
+      "level": 2,
+      "name": {
+        "th": "ภูกระดึง",
+        "en": "Phu Kradueng",
+        "slug": "phu-kradueng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "42180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.971",
+    "lon": "101.850"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phu-kradueng-421007/"
+  }
+}

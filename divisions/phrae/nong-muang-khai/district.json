@@ -1,0 +1,50 @@
+{
+  "id": "5408",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หนองม่วงไข่",
+    "en": "Nong Muang Khai",
+    "slug": "nong-muang-khai"
+  },
+  "code": {
+    "dopa": "5408"
+  },
+  "parent": {
+    "id": "54",
+    "level": 1,
+    "name": {
+      "th": "แพร่",
+      "en": "Phrae",
+      "slug": "phrae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "th": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 35
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.271",
+    "lon": "100.218"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/nong-muang-khai-5408/"
+  }
+}

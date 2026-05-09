@@ -1,0 +1,61 @@
+{
+  "id": "451703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ม่วงลาด",
+    "en": "Muang Lat",
+    "slug": "muang-lat"
+  },
+  "code": {
+    "dopa": "451703"
+  },
+  "parent": {
+    "id": "4517",
+    "level": 2,
+    "name": {
+      "th": "จังหาร",
+      "en": "Changhan",
+      "slug": "changhan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4517",
+      "level": 2,
+      "name": {
+        "th": "จังหาร",
+        "en": "Changhan",
+        "slug": "changhan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "45000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.204",
+    "lon": "103.543"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/muang-lat-451703/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "710912",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดอนตาเพชร",
+    "en": "Don Ta Phet",
+    "slug": "don-ta-phet"
+  },
+  "code": {
+    "dopa": "710912"
+  },
+  "parent": {
+    "id": "7109",
+    "level": 2,
+    "name": {
+      "th": "พนมทวน",
+      "en": "Phanom Thuan",
+      "slug": "phanom-thuan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7109",
+      "level": 2,
+      "name": {
+        "th": "พนมทวน",
+        "en": "Phanom Thuan",
+        "slug": "phanom-thuan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "71140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.192",
+    "lon": "99.678"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/don-ta-phet-710912/"
+  }
+}

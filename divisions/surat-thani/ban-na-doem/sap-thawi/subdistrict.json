@@ -1,0 +1,61 @@
+{
+  "id": "841303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทรัพย์ทวี",
+    "en": "Sap Thawi",
+    "slug": "sap-thawi"
+  },
+  "code": {
+    "dopa": "841303"
+  },
+  "parent": {
+    "id": "8413",
+    "level": 2,
+    "name": {
+      "th": "บ้านนาเดิม",
+      "en": "Ban Na Doem",
+      "slug": "ban-na-doem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8413",
+      "level": 2,
+      "name": {
+        "th": "บ้านนาเดิม",
+        "en": "Ban Na Doem",
+        "slug": "ban-na-doem"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "84240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.914",
+    "lon": "99.226"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sap-thawi-841303/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "801302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หินตก",
+    "en": "Hin Tok",
+    "slug": "hin-tok"
+  },
+  "code": {
+    "dopa": "801302"
+  },
+  "parent": {
+    "id": "8013",
+    "level": 2,
+    "name": {
+      "th": "ร่อนพิบูลย์",
+      "en": "Ron Phibun",
+      "slug": "ron-phibun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8013",
+      "level": 2,
+      "name": {
+        "th": "ร่อนพิบูลย์",
+        "en": "Ron Phibun",
+        "slug": "ron-phibun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "80350"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.237",
+    "lon": "99.880"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/hin-tok-801302/"
+  }
+}

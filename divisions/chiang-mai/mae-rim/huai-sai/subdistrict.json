@@ -1,0 +1,61 @@
+{
+  "id": "500706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยทราย",
+    "en": "Huai Sai",
+    "slug": "huai-sai"
+  },
+  "code": {
+    "dopa": "500706"
+  },
+  "parent": {
+    "id": "5007",
+    "level": 2,
+    "name": {
+      "th": "แม่ริม",
+      "en": "Mae Rim",
+      "slug": "mae-rim"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5007",
+      "level": 2,
+      "name": {
+        "th": "แม่ริม",
+        "en": "Mae Rim",
+        "slug": "mae-rim"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "50180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.967",
+    "lon": "98.915"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-sai-500706/"
+  }
+}

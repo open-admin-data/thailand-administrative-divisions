@@ -1,0 +1,61 @@
+{
+  "id": "310604",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สำโรงใหม่",
+    "en": "Samrong Mai",
+    "slug": "samrong-mai"
+  },
+  "code": {
+    "dopa": "310604"
+  },
+  "parent": {
+    "id": "3106",
+    "level": 2,
+    "name": {
+      "th": "ละหานทราย",
+      "en": "Lahan Sai",
+      "slug": "lahan-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3106",
+      "level": 2,
+      "name": {
+        "th": "ละหานทราย",
+        "en": "Lahan Sai",
+        "slug": "lahan-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "31170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.284",
+    "lon": "102.850"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samrong-mai-310604/"
+  }
+}

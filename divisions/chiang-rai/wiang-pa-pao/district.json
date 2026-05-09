@@ -1,0 +1,50 @@
+{
+  "id": "5711",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เวียงป่าเป้า",
+    "en": "Wiang Pa Pao",
+    "slug": "wiang-pa-pao"
+  },
+  "code": {
+    "dopa": "5711"
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "th": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 93
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.241",
+    "lon": "99.525"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wiang-pa-pao-5711/"
+  }
+}

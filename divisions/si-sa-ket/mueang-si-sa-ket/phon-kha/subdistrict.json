@@ -1,0 +1,61 @@
+{
+  "id": "330111",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โพนข่า",
+    "en": "Phon Kha",
+    "slug": "phon-kha"
+  },
+  "code": {
+    "dopa": "330111"
+  },
+  "parent": {
+    "id": "3301",
+    "level": 2,
+    "name": {
+      "th": "เมืองศรีสะเกษ",
+      "en": "Mueang Si Sa Ket",
+      "slug": "mueang-si-sa-ket"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3301",
+      "level": 2,
+      "name": {
+        "th": "เมืองศรีสะเกษ",
+        "en": "Mueang Si Sa Ket",
+        "slug": "mueang-si-sa-ket"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "33000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.055",
+    "lon": "104.385"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phon-kha-330111/"
+  }
+}

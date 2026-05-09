@@ -1,0 +1,61 @@
+{
+  "id": "500203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านหลวง",
+    "en": "Ban Luang",
+    "slug": "ban-luang"
+  },
+  "code": {
+    "dopa": "500203"
+  },
+  "parent": {
+    "id": "5002",
+    "level": 2,
+    "name": {
+      "th": "จอมทอง",
+      "en": "Chom Thong",
+      "slug": "chom-thong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5002",
+      "level": 2,
+      "name": {
+        "th": "จอมทอง",
+        "en": "Chom Thong",
+        "slug": "chom-thong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 23
+  },
+  "zip_codes": [
+    "50160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.502",
+    "lon": "98.600"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-luang-500203/"
+  }
+}

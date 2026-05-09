@@ -1,0 +1,61 @@
+{
+  "id": "930305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "จองถนน",
+    "en": "Chong Thanon",
+    "slug": "chong-thanon"
+  },
+  "code": {
+    "dopa": "930305"
+  },
+  "parent": {
+    "id": "9303",
+    "level": 2,
+    "name": {
+      "th": "เขาชัยสน",
+      "en": "Khao Chaison",
+      "slug": "khao-chaison"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9303",
+      "level": 2,
+      "name": {
+        "th": "เขาชัยสน",
+        "en": "Khao Chaison",
+        "slug": "khao-chaison"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "93130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.489",
+    "lon": "100.194"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chong-thanon-930305/"
+  }
+}

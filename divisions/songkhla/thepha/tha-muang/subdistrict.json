@@ -1,0 +1,61 @@
+{
+  "id": "900505",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าม่วง",
+    "en": "Tha Muang",
+    "slug": "tha-muang"
+  },
+  "code": {
+    "dopa": "900505"
+  },
+  "parent": {
+    "id": "9005",
+    "level": 2,
+    "name": {
+      "th": "เทพา",
+      "en": "Thepha",
+      "slug": "thepha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9005",
+      "level": 2,
+      "name": {
+        "th": "เทพา",
+        "en": "Thepha",
+        "slug": "thepha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "90260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.742",
+    "lon": "101.001"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-muang-900505/"
+  }
+}

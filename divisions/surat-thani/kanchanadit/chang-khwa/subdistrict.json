@@ -1,0 +1,61 @@
+{
+  "id": "840210",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ช้างขวา",
+    "en": "Chang Khwa",
+    "slug": "chang-khwa"
+  },
+  "code": {
+    "dopa": "840210"
+  },
+  "parent": {
+    "id": "8402",
+    "level": 2,
+    "name": {
+      "th": "กาญจนดิษฐ์",
+      "en": "Kanchanadit",
+      "slug": "kanchanadit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8402",
+      "level": 2,
+      "name": {
+        "th": "กาญจนดิษฐ์",
+        "en": "Kanchanadit",
+        "slug": "kanchanadit"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "84160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.103",
+    "lon": "99.442"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chang-khwa-840210/"
+  }
+}

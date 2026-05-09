@@ -1,0 +1,61 @@
+{
+  "id": "341412",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไผ่ใหญ่",
+    "en": "Phai Yai",
+    "slug": "phai-yai"
+  },
+  "code": {
+    "dopa": "341412"
+  },
+  "parent": {
+    "id": "3414",
+    "level": 2,
+    "name": {
+      "th": "ม่วงสามสิบ",
+      "en": "Muang Sam Sip",
+      "slug": "muang-sam-sip"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "th": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani"
+      }
+    },
+    {
+      "id": "3414",
+      "level": 2,
+      "name": {
+        "th": "ม่วงสามสิบ",
+        "en": "Muang Sam Sip",
+        "slug": "muang-sam-sip"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "34140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.598",
+    "lon": "104.617"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phai-yai-341412/"
+  }
+}

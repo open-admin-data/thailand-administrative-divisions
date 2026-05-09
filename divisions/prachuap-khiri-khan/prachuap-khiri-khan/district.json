@@ -1,0 +1,50 @@
+{
+  "id": "7701",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองประจวบคีรีขันธ์",
+    "en": "Prachuap Khiri Khan",
+    "slug": "prachuap-khiri-khan"
+  },
+  "code": {
+    "dopa": "7701"
+  },
+  "parent": {
+    "id": "77",
+    "level": 1,
+    "name": {
+      "th": "ประจวบคีรีขันธ์",
+      "en": "Prachuap Khiri Khan",
+      "slug": "prachuap-khiri-khan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 78
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "11.805",
+    "lon": "99.784"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/prachuap-khiri-khan-7701/"
+  }
+}

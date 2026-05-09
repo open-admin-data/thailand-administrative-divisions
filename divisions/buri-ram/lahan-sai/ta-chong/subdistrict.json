@@ -1,0 +1,61 @@
+{
+  "id": "310603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ตาจง",
+    "en": "Ta Chong",
+    "slug": "ta-chong"
+  },
+  "code": {
+    "dopa": "310603"
+  },
+  "parent": {
+    "id": "3106",
+    "level": 2,
+    "name": {
+      "th": "ละหานทราย",
+      "en": "Lahan Sai",
+      "slug": "lahan-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3106",
+      "level": 2,
+      "name": {
+        "th": "ละหานทราย",
+        "en": "Lahan Sai",
+        "slug": "lahan-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 22
+  },
+  "zip_codes": [
+    "31170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.439",
+    "lon": "102.920"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ta-chong-310603/"
+  }
+}

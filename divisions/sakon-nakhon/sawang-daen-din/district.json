@@ -1,0 +1,50 @@
+{
+  "id": "4712",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สว่างแดนดิน",
+    "en": "Sawang Daen Din",
+    "slug": "sawang-daen-din"
+  },
+  "code": {
+    "dopa": "4712"
+  },
+  "parent": {
+    "id": "47",
+    "level": 1,
+    "name": {
+      "th": "สกลนคร",
+      "en": "Sakon Nakhon",
+      "slug": "sakon-nakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 16,
+    "villages": 189
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.368",
+    "lon": "103.330"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/sawang-daen-din-4712/"
+  }
+}

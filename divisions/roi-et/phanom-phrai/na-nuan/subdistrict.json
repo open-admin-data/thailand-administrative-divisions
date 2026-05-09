@@ -1,0 +1,61 @@
+{
+  "id": "450612",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นานวล",
+    "en": "Na Nuan",
+    "slug": "na-nuan"
+  },
+  "code": {
+    "dopa": "450612"
+  },
+  "parent": {
+    "id": "4506",
+    "level": 2,
+    "name": {
+      "th": "พนมไพร",
+      "en": "Phanom Phrai",
+      "slug": "phanom-phrai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4506",
+      "level": 2,
+      "name": {
+        "th": "พนมไพร",
+        "en": "Phanom Phrai",
+        "slug": "phanom-phrai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "45140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.639",
+    "lon": "104.124"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-nuan-450612/"
+  }
+}

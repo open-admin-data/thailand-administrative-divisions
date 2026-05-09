@@ -1,0 +1,61 @@
+{
+  "id": "860701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาโพธิ์",
+    "en": "Na Pho",
+    "slug": "na-pho"
+  },
+  "code": {
+    "dopa": "860701"
+  },
+  "parent": {
+    "id": "8607",
+    "level": 2,
+    "name": {
+      "th": "สวี",
+      "en": "Sawi",
+      "slug": "sawi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "th": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon"
+      }
+    },
+    {
+      "id": "8607",
+      "level": 2,
+      "name": {
+        "th": "สวี",
+        "en": "Sawi",
+        "slug": "sawi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "86130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "10.198",
+    "lon": "99.107"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-pho-860701/"
+  }
+}

@@ -1,0 +1,429 @@
+[
+  {
+    "id": "270206",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เบญจขร",
+      "en": "Benchakhon",
+      "slug": "benchakhon"
+    },
+    "code": {
+      "dopa": "270206"
+    },
+    "parent": {
+      "id": "2702",
+      "level": 2,
+      "name": {
+        "th": "คลองหาด",
+        "en": "Khlong Hat",
+        "slug": "khlong-hat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "th": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo"
+        }
+      },
+      {
+        "id": "2702",
+        "level": 2,
+        "name": {
+          "th": "คลองหาด",
+          "en": "Khlong Hat",
+          "slug": "khlong-hat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 10
+    },
+    "zip_codes": [
+      "27260"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.542",
+      "lon": "102.307"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/benchakhon-270206/"
+    }
+  },
+  {
+    "id": "270201",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "คลองหาด",
+      "en": "Khlong Hat",
+      "slug": "khlong-hat"
+    },
+    "code": {
+      "dopa": "270201"
+    },
+    "parent": {
+      "id": "2702",
+      "level": 2,
+      "name": {
+        "th": "คลองหาด",
+        "en": "Khlong Hat",
+        "slug": "khlong-hat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "th": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo"
+        }
+      },
+      {
+        "id": "2702",
+        "level": 2,
+        "name": {
+          "th": "คลองหาด",
+          "en": "Khlong Hat",
+          "slug": "khlong-hat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 13
+    },
+    "zip_codes": [
+      "27260"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.429",
+      "lon": "102.329"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khlong-hat-270201/"
+    }
+  },
+  {
+    "id": "270205",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "คลองไก่เถื่อน",
+      "en": "Khlong Kai Thuean",
+      "slug": "khlong-kai-thuean"
+    },
+    "code": {
+      "dopa": "270205"
+    },
+    "parent": {
+      "id": "2702",
+      "level": 2,
+      "name": {
+        "th": "คลองหาด",
+        "en": "Khlong Hat",
+        "slug": "khlong-hat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "th": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo"
+        }
+      },
+      {
+        "id": "2702",
+        "level": 2,
+        "name": {
+          "th": "คลองหาด",
+          "en": "Khlong Hat",
+          "slug": "khlong-hat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "27260"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.346",
+      "lon": "102.301"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/khlong-kai-thuean-270205/"
+    }
+  },
+  {
+    "id": "270204",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ไทรเดี่ยว",
+      "en": "Sai Diao",
+      "slug": "sai-diao"
+    },
+    "code": {
+      "dopa": "270204"
+    },
+    "parent": {
+      "id": "2702",
+      "level": 2,
+      "name": {
+        "th": "คลองหาด",
+        "en": "Khlong Hat",
+        "slug": "khlong-hat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "th": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo"
+        }
+      },
+      {
+        "id": "2702",
+        "level": 2,
+        "name": {
+          "th": "คลองหาด",
+          "en": "Khlong Hat",
+          "slug": "khlong-hat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "27260"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.593",
+      "lon": "102.212"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/sai-diao-270204/"
+    }
+  },
+  {
+    "id": "270207",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ไทรทอง",
+      "en": "Sai Thong",
+      "slug": "sai-thong"
+    },
+    "code": {
+      "dopa": "270207"
+    },
+    "parent": {
+      "id": "2702",
+      "level": 2,
+      "name": {
+        "th": "คลองหาด",
+        "en": "Khlong Hat",
+        "slug": "khlong-hat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "th": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo"
+        }
+      },
+      {
+        "id": "2702",
+        "level": 2,
+        "name": {
+          "th": "คลองหาด",
+          "en": "Khlong Hat",
+          "slug": "khlong-hat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 8
+    },
+    "zip_codes": [
+      "27260"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.614",
+      "lon": "102.309"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/sai-thong-270207/"
+    }
+  },
+  {
+    "id": "270203",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ซับมะกรูด",
+      "en": "Sap Makrut",
+      "slug": "sap-makrut"
+    },
+    "code": {
+      "dopa": "270203"
+    },
+    "parent": {
+      "id": "2702",
+      "level": 2,
+      "name": {
+        "th": "คลองหาด",
+        "en": "Khlong Hat",
+        "slug": "khlong-hat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "th": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo"
+        }
+      },
+      {
+        "id": "2702",
+        "level": 2,
+        "name": {
+          "th": "คลองหาด",
+          "en": "Khlong Hat",
+          "slug": "khlong-hat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 11
+    },
+    "zip_codes": [
+      "27260"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.519",
+      "lon": "102.228"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/sap-makrut-270203/"
+    }
+  },
+  {
+    "id": "270202",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ไทยอุดม",
+      "en": "Thai Udom",
+      "slug": "thai-udom"
+    },
+    "code": {
+      "dopa": "270202"
+    },
+    "parent": {
+      "id": "2702",
+      "level": 2,
+      "name": {
+        "th": "คลองหาด",
+        "en": "Khlong Hat",
+        "slug": "khlong-hat"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "th": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo"
+        }
+      },
+      {
+        "id": "2702",
+        "level": 2,
+        "name": {
+          "th": "คลองหาด",
+          "en": "Khlong Hat",
+          "slug": "khlong-hat"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "27260"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "13.407",
+      "lon": "102.260"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/thai-udom-270202/"
+    }
+  }
+]

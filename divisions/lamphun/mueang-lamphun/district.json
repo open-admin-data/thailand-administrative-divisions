@@ -1,0 +1,50 @@
+{
+  "id": "5101",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองลำพูน",
+    "en": "Mueang Lamphun",
+    "slug": "mueang-lamphun"
+  },
+  "code": {
+    "dopa": "5101"
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "th": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 15,
+    "villages": 176
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.573",
+    "lon": "99.002"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-lamphun-5101/"
+  }
+}

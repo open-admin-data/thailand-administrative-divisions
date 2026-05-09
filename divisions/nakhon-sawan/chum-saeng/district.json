@@ -1,0 +1,50 @@
+{
+  "id": "6003",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ชุมแสง",
+    "en": "Chum Saeng",
+    "slug": "chum-saeng"
+  },
+  "code": {
+    "dopa": "6003"
+  },
+  "parent": {
+    "id": "60",
+    "level": 1,
+    "name": {
+      "th": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "th": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 136
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.896",
+    "lon": "100.315"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/chum-saeng-6003/"
+  }
+}

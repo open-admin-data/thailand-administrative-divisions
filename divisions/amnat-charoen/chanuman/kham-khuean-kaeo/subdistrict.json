@@ -1,0 +1,61 @@
+{
+  "id": "370203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คำเขื่อนแก้ว",
+    "en": "Kham Khuean Kaeo",
+    "slug": "kham-khuean-kaeo"
+  },
+  "code": {
+    "dopa": "370203"
+  },
+  "parent": {
+    "id": "3702",
+    "level": 2,
+    "name": {
+      "th": "ชานุมาน",
+      "en": "Chanuman",
+      "slug": "chanuman"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    },
+    {
+      "id": "3702",
+      "level": 2,
+      "name": {
+        "th": "ชานุมาน",
+        "en": "Chanuman",
+        "slug": "chanuman"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "37210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.150",
+    "lon": "104.922"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kham-khuean-kaeo-370203/"
+  }
+}

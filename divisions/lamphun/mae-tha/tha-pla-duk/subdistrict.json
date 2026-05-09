@@ -1,0 +1,61 @@
+{
+  "id": "510201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทาปลาดุก",
+    "en": "Tha Pla Duk",
+    "slug": "tha-pla-duk"
+  },
+  "code": {
+    "dopa": "510201"
+  },
+  "parent": {
+    "id": "5102",
+    "level": 2,
+    "name": {
+      "th": "แม่ทา",
+      "en": "Mae Tha",
+      "slug": "mae-tha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    },
+    {
+      "id": "5102",
+      "level": 2,
+      "name": {
+        "th": "แม่ทา",
+        "en": "Mae Tha",
+        "slug": "mae-tha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "51140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.532",
+    "lon": "99.245"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-pla-duk-510201/"
+  }
+}

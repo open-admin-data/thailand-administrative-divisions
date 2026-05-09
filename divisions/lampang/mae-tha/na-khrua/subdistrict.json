@@ -1,0 +1,61 @@
+{
+  "id": "521002",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาครัว",
+    "en": "Na Khrua",
+    "slug": "na-khrua"
+  },
+  "code": {
+    "dopa": "521002"
+  },
+  "parent": {
+    "id": "5210",
+    "level": 2,
+    "name": {
+      "th": "แม่ทะ",
+      "en": "Mae Tha",
+      "slug": "mae-tha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5210",
+      "level": 2,
+      "name": {
+        "th": "แม่ทะ",
+        "en": "Mae Tha",
+        "slug": "mae-tha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "52150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.109",
+    "lon": "99.545"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-khrua-521002/"
+  }
+}

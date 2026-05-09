@@ -1,0 +1,61 @@
+{
+  "id": "810106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เขาทอง",
+    "en": "Khao Thong",
+    "slug": "khao-thong"
+  },
+  "code": {
+    "dopa": "810106"
+  },
+  "parent": {
+    "id": "8101",
+    "level": 2,
+    "name": {
+      "th": "เมืองกระบี่",
+      "en": "Mueang Krabi",
+      "slug": "mueang-krabi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "th": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi"
+      }
+    },
+    {
+      "id": "8101",
+      "level": 2,
+      "name": {
+        "th": "เมืองกระบี่",
+        "en": "Mueang Krabi",
+        "slug": "mueang-krabi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "81000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.157",
+    "lon": "98.760"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khao-thong-810106/"
+  }
+}

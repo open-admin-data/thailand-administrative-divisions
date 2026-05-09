@@ -1,0 +1,61 @@
+{
+  "id": "390603",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังทอง",
+    "en": "Wang Thong",
+    "slug": "wang-thong"
+  },
+  "code": {
+    "dopa": "390603"
+  },
+  "parent": {
+    "id": "3906",
+    "level": 2,
+    "name": {
+      "th": "นาวัง",
+      "en": "Na Wang",
+      "slug": "na-wang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3906",
+      "level": 2,
+      "name": {
+        "th": "นาวัง",
+        "en": "Na Wang",
+        "slug": "na-wang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "39170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.320",
+    "lon": "102.030"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-thong-390603/"
+  }
+}

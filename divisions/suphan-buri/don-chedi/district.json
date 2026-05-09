@@ -1,0 +1,50 @@
+{
+  "id": "7206",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ดอนเจดีย์",
+    "en": "Don Chedi",
+    "slug": "don-chedi"
+  },
+  "code": {
+    "dopa": "7206"
+  },
+  "parent": {
+    "id": "72",
+    "level": 1,
+    "name": {
+      "th": "สุพรรณบุรี",
+      "en": "Suphan Buri",
+      "slug": "suphan-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 50
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.603",
+    "lon": "99.955"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/don-chedi-7206/"
+  }
+}

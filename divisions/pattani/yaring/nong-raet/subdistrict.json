@@ -1,0 +1,61 @@
+{
+  "id": "940910",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองแรต",
+    "en": "Nong Raet",
+    "slug": "nong-raet"
+  },
+  "code": {
+    "dopa": "940910"
+  },
+  "parent": {
+    "id": "9409",
+    "level": 2,
+    "name": {
+      "th": "ยะหริ่ง",
+      "en": "Yaring",
+      "slug": "yaring"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9409",
+      "level": 2,
+      "name": {
+        "th": "ยะหริ่ง",
+        "en": "Yaring",
+        "slug": "yaring"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "94150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.849",
+    "lon": "101.403"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-raet-940910/"
+  }
+}

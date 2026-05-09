@@ -1,0 +1,61 @@
+{
+  "id": "961201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "จะแนะ",
+    "en": "Chanae",
+    "slug": "chanae"
+  },
+  "code": {
+    "dopa": "961201"
+  },
+  "parent": {
+    "id": "9612",
+    "level": 2,
+    "name": {
+      "th": "จะแนะ",
+      "en": "Chanae",
+      "slug": "chanae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "th": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat"
+      }
+    },
+    {
+      "id": "9612",
+      "level": 2,
+      "name": {
+        "th": "จะแนะ",
+        "en": "Chanae",
+        "slug": "chanae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "96220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.077",
+    "lon": "101.693"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chanae-961201/"
+  }
+}

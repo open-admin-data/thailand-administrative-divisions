@@ -1,0 +1,61 @@
+{
+  "id": "770402",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พงศ์ประศาสน์",
+    "en": "Phong Prasat",
+    "slug": "phong-prasat"
+  },
+  "code": {
+    "dopa": "770402"
+  },
+  "parent": {
+    "id": "7704",
+    "level": 2,
+    "name": {
+      "th": "บางสะพาน",
+      "en": "Bang Saphan",
+      "slug": "bang-saphan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "th": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan"
+      }
+    },
+    {
+      "id": "7704",
+      "level": 2,
+      "name": {
+        "th": "บางสะพาน",
+        "en": "Bang Saphan",
+        "slug": "bang-saphan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "77140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "11.188",
+    "lon": "99.466"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phong-prasat-770402/"
+  }
+}

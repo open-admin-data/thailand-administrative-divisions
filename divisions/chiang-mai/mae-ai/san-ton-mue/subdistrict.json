@@ -1,0 +1,61 @@
+{
+  "id": "501003",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สันต้นหมื้อ",
+    "en": "San Ton Mue",
+    "slug": "san-ton-mue"
+  },
+  "code": {
+    "dopa": "501003"
+  },
+  "parent": {
+    "id": "5010",
+    "level": 2,
+    "name": {
+      "th": "แม่อาย",
+      "en": "Mae Ai",
+      "slug": "mae-ai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "th": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai"
+      }
+    },
+    {
+      "id": "5010",
+      "level": 2,
+      "name": {
+        "th": "แม่อาย",
+        "en": "Mae Ai",
+        "slug": "mae-ai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "50280"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.948",
+    "lon": "99.280"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/san-ton-mue-501003/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "361004",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านแก้ง",
+    "en": "Ban Kaeng",
+    "slug": "ban-kaeng"
+  },
+  "code": {
+    "dopa": "361004"
+  },
+  "parent": {
+    "id": "3610",
+    "level": 2,
+    "name": {
+      "th": "ภูเขียว",
+      "en": "Phu Khiao",
+      "slug": "phu-khiao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3610",
+      "level": 2,
+      "name": {
+        "th": "ภูเขียว",
+        "en": "Phu Khiao",
+        "slug": "phu-khiao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 21
+  },
+  "zip_codes": [
+    "36110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.420",
+    "lon": "102.049"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-kaeng-361004/"
+  }
+}

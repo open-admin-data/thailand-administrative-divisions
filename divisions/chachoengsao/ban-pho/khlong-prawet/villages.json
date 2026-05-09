@@ -1,0 +1,185 @@
+[
+  {
+    "id": "24050501",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองประเวศ",
+      "en": "Ban Khlong Prawet",
+      "slug": "24050501"
+    },
+    "code": {
+      "dopa": "24050501"
+    },
+    "parent": {
+      "id": "240505",
+      "level": 3,
+      "name": {
+        "th": "คลองประเวศ",
+        "en": "Khlong Prawet",
+        "slug": "khlong-prawet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2405",
+        "level": 2,
+        "name": {
+          "th": "บ้านโพธิ์",
+          "en": "Ban Pho",
+          "slug": "ban-pho"
+        }
+      },
+      {
+        "id": "240505",
+        "level": 3,
+        "name": {
+          "th": "คลองประเวศ",
+          "en": "Khlong Prawet",
+          "slug": "khlong-prawet"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.632307530170966",
+      "lon": "101.03665575385094"
+    },
+    "source": {}
+  },
+  {
+    "id": "24050502",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองลัดยายหรั่ง",
+      "en": "Ban Khlong Lat Yai Rang",
+      "slug": "24050502"
+    },
+    "code": {
+      "dopa": "24050502"
+    },
+    "parent": {
+      "id": "240505",
+      "level": 3,
+      "name": {
+        "th": "คลองประเวศ",
+        "en": "Khlong Prawet",
+        "slug": "khlong-prawet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2405",
+        "level": 2,
+        "name": {
+          "th": "บ้านโพธิ์",
+          "en": "Ban Pho",
+          "slug": "ban-pho"
+        }
+      },
+      {
+        "id": "240505",
+        "level": 3,
+        "name": {
+          "th": "คลองประเวศ",
+          "en": "Khlong Prawet",
+          "slug": "khlong-prawet"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.636515923472272",
+      "lon": "101.03988915681839"
+    },
+    "source": {}
+  },
+  {
+    "id": "24050503",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองขุนพิทักษ์",
+      "en": "Ban Khlong Khun Phithak",
+      "slug": "24050503"
+    },
+    "code": {
+      "dopa": "24050503"
+    },
+    "parent": {
+      "id": "240505",
+      "level": 3,
+      "name": {
+        "th": "คลองประเวศ",
+        "en": "Khlong Prawet",
+        "slug": "khlong-prawet"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "th": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao"
+        }
+      },
+      {
+        "id": "2405",
+        "level": 2,
+        "name": {
+          "th": "บ้านโพธิ์",
+          "en": "Ban Pho",
+          "slug": "ban-pho"
+        }
+      },
+      {
+        "id": "240505",
+        "level": 3,
+        "name": {
+          "th": "คลองประเวศ",
+          "en": "Khlong Prawet",
+          "slug": "khlong-prawet"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.639393592415098",
+      "lon": "101.01320788264275"
+    },
+    "source": {}
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "901302",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ควนโส",
+    "en": "Khuan So",
+    "slug": "khuan-so"
+  },
+  "code": {
+    "dopa": "901302"
+  },
+  "parent": {
+    "id": "9013",
+    "level": 2,
+    "name": {
+      "th": "ควนเนียง",
+      "en": "Khuan Niang",
+      "slug": "khuan-niang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    },
+    {
+      "id": "9013",
+      "level": 2,
+      "name": {
+        "th": "ควนเนียง",
+        "en": "Khuan Niang",
+        "slug": "khuan-niang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "90220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.229",
+    "lon": "100.402"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khuan-so-901302/"
+  }
+}

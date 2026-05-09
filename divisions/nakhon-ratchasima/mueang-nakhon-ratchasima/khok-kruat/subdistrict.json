@@ -1,0 +1,61 @@
+{
+  "id": "300117",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "โคกกรวด",
+    "en": "Khok Kruat",
+    "slug": "khok-kruat"
+  },
+  "code": {
+    "dopa": "300117"
+  },
+  "parent": {
+    "id": "3001",
+    "level": 2,
+    "name": {
+      "th": "เมืองนครราชสีมา",
+      "en": "Mueang Nakhon Ratchasima",
+      "slug": "mueang-nakhon-ratchasima"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3001",
+      "level": 2,
+      "name": {
+        "th": "เมืองนครราชสีมา",
+        "en": "Mueang Nakhon Ratchasima",
+        "slug": "mueang-nakhon-ratchasima"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "30280"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.897",
+    "lon": "101.974"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khok-kruat-300117/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "710611",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่าตะคร้อ",
+    "en": "Tha Takhro",
+    "slug": "tha-takhro"
+  },
+  "code": {
+    "dopa": "710611"
+  },
+  "parent": {
+    "id": "7106",
+    "level": 2,
+    "name": {
+      "th": "ท่าม่วง",
+      "en": "Tha Muang",
+      "slug": "tha-muang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "th": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi"
+      }
+    },
+    {
+      "id": "7106",
+      "level": 2,
+      "name": {
+        "th": "ท่าม่วง",
+        "en": "Tha Muang",
+        "slug": "tha-muang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "71130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.917",
+    "lon": "99.699"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-takhro-710611/"
+  }
+}

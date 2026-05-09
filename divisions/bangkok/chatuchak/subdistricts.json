@@ -1,0 +1,63 @@
+[
+  {
+    "id": "103001",
+    "level": 3,
+    "level_name": {
+      "th": "แขวง",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แขวง ลาดยาว",
+      "en": "Lat Yao",
+      "slug": "lat-yao"
+    },
+    "code": {
+      "dopa": "103001"
+    },
+    "parent": {
+      "id": "1030",
+      "level": 2,
+      "name": {
+        "th": "เขต จตุจักร",
+        "en": "Chatuchak",
+        "slug": "chatuchak"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "th": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok"
+        }
+      },
+      {
+        "id": "1030",
+        "level": 2,
+        "name": {
+          "th": "เขต จตุจักร",
+          "en": "Chatuchak",
+          "slug": "chatuchak"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 0
+    },
+    "zip_codes": [
+      "10900"
+    ],
+    "metadata": {
+      "is_special_province": true
+    },
+    "geo": {
+      "lat": "13.826",
+      "lon": "100.565"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/lat-yao-103001/"
+    }
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "520707",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังแก้ว",
+    "en": "Wang Kaeo",
+    "slug": "wang-kaeo"
+  },
+  "code": {
+    "dopa": "520707"
+  },
+  "parent": {
+    "id": "5207",
+    "level": 2,
+    "name": {
+      "th": "วังเหนือ",
+      "en": "Wang Nuea",
+      "slug": "wang-nuea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5207",
+      "level": 2,
+      "name": {
+        "th": "วังเหนือ",
+        "en": "Wang Nuea",
+        "slug": "wang-nuea"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "52140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.329",
+    "lon": "99.636"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-kaeo-520707/"
+  }
+}

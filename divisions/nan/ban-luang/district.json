@@ -1,0 +1,50 @@
+{
+  "id": "5503",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านหลวง",
+    "en": "Ban Luang",
+    "slug": "ban-luang"
+  },
+  "code": {
+    "dopa": "5503"
+  },
+  "parent": {
+    "id": "55",
+    "level": 1,
+    "name": {
+      "th": "น่าน",
+      "en": "Nan",
+      "slug": "nan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 26
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.858",
+    "lon": "100.405"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-luang-5503/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "3108",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านกรวด",
+    "en": "Ban Kruat",
+    "slug": "ban-kruat"
+  },
+  "code": {
+    "dopa": "3108"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 118
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.473",
+    "lon": "103.143"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-kruat-3108/"
+  }
+}

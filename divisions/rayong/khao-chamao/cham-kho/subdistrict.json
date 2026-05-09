@@ -1,0 +1,61 @@
+{
+  "id": "210703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชำฆ้อ",
+    "en": "Cham Kho",
+    "slug": "cham-kho"
+  },
+  "code": {
+    "dopa": "210703"
+  },
+  "parent": {
+    "id": "2107",
+    "level": 2,
+    "name": {
+      "th": "เขาชะเมา",
+      "en": "Khao Chamao",
+      "slug": "khao-chamao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2107",
+      "level": 2,
+      "name": {
+        "th": "เขาชะเมา",
+        "en": "Khao Chamao",
+        "slug": "khao-chamao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "21110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.933",
+    "lon": "101.641"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/cham-kho-210703/"
+  }
+}

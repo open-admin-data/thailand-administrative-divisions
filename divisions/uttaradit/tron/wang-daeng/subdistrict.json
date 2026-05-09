@@ -1,0 +1,61 @@
+{
+  "id": "530201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังแดง",
+    "en": "Wang Daeng",
+    "slug": "wang-daeng"
+  },
+  "code": {
+    "dopa": "530201"
+  },
+  "parent": {
+    "id": "5302",
+    "level": 2,
+    "name": {
+      "th": "ตรอน",
+      "en": "Tron",
+      "slug": "tron"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5302",
+      "level": 2,
+      "name": {
+        "th": "ตรอน",
+        "en": "Tron",
+        "slug": "tron"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "53140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.488",
+    "lon": "100.113"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-daeng-530201/"
+  }
+}

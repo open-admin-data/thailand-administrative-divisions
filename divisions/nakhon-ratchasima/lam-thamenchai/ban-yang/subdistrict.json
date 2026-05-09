@@ -1,0 +1,61 @@
+{
+  "id": "302902",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านยาง",
+    "en": "Ban Yang",
+    "slug": "ban-yang"
+  },
+  "code": {
+    "dopa": "302902"
+  },
+  "parent": {
+    "id": "3029",
+    "level": 2,
+    "name": {
+      "th": "ลำทะเมนชัย",
+      "en": "Lam Thamenchai",
+      "slug": "lam-thamenchai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3029",
+      "level": 2,
+      "name": {
+        "th": "ลำทะเมนชัย",
+        "en": "Lam Thamenchai",
+        "slug": "lam-thamenchai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 17
+  },
+  "zip_codes": [
+    "30270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.250",
+    "lon": "102.944"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-yang-302902/"
+  }
+}

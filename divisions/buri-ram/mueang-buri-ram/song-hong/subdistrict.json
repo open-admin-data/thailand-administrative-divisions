@@ -1,0 +1,61 @@
+{
+  "id": "310118",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สองห้อง",
+    "en": "Song Hong",
+    "slug": "song-hong"
+  },
+  "code": {
+    "dopa": "310118"
+  },
+  "parent": {
+    "id": "3101",
+    "level": 2,
+    "name": {
+      "th": "เมืองบุรีรัมย์",
+      "en": "Mueang Buri Ram",
+      "slug": "mueang-buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3101",
+      "level": 2,
+      "name": {
+        "th": "เมืองบุรีรัมย์",
+        "en": "Mueang Buri Ram",
+        "slug": "mueang-buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "31000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.808",
+    "lon": "102.953"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/song-hong-310118/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "420701",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองบัว",
+    "en": "Nong Bua",
+    "slug": "nong-bua"
+  },
+  "code": {
+    "dopa": "420701"
+  },
+  "parent": {
+    "id": "4207",
+    "level": 2,
+    "name": {
+      "th": "ภูเรือ",
+      "en": "Phu Ruea",
+      "slug": "phu-ruea"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4207",
+      "level": 2,
+      "name": {
+        "th": "ภูเรือ",
+        "en": "Phu Ruea",
+        "slug": "phu-ruea"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "42160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.454",
+    "lon": "101.371"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-bua-420701/"
+  }
+}

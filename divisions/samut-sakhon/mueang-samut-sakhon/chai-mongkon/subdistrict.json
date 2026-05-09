@@ -1,0 +1,61 @@
+{
+  "id": "740118",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชัยมงคล",
+    "en": "Chai Mongkon",
+    "slug": "chai-mongkon"
+  },
+  "code": {
+    "dopa": "740118"
+  },
+  "parent": {
+    "id": "7401",
+    "level": 2,
+    "name": {
+      "th": "เมืองสมุทรสาคร",
+      "en": "Mueang Samut Sakhon",
+      "slug": "mueang-samut-sakhon"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสาคร",
+        "en": "Samut Sakhon",
+        "slug": "samut-sakhon"
+      }
+    },
+    {
+      "id": "7401",
+      "level": 2,
+      "name": {
+        "th": "เมืองสมุทรสาคร",
+        "en": "Mueang Samut Sakhon",
+        "slug": "mueang-samut-sakhon"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "74000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.540",
+    "lon": "100.185"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chai-mongkon-740118/"
+  }
+}

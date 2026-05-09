@@ -1,0 +1,61 @@
+{
+  "id": "820605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่นางขาว",
+    "en": "Mae Nang Khao",
+    "slug": "mae-nang-khao"
+  },
+  "code": {
+    "dopa": "820605"
+  },
+  "parent": {
+    "id": "8206",
+    "level": 2,
+    "name": {
+      "th": "คุระบุรี",
+      "en": "Khura Buri",
+      "slug": "khura-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8206",
+      "level": 2,
+      "name": {
+        "th": "คุระบุรี",
+        "en": "Khura Buri",
+        "slug": "khura-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "82150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "9.154",
+    "lon": "98.404"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-nang-khao-820605/"
+  }
+}

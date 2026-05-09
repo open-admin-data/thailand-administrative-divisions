@@ -1,0 +1,61 @@
+{
+  "id": "481102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองซน",
+    "en": "Nong Son",
+    "slug": "nong-son"
+  },
+  "code": {
+    "dopa": "481102"
+  },
+  "parent": {
+    "id": "4811",
+    "level": 2,
+    "name": {
+      "th": "นาทม",
+      "en": "Na Thom",
+      "slug": "na-thom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "th": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom"
+      }
+    },
+    {
+      "id": "4811",
+      "level": 2,
+      "name": {
+        "th": "นาทม",
+        "en": "Na Thom",
+        "slug": "na-thom"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "48140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.866",
+    "lon": "104.147"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-son-481102/"
+  }
+}

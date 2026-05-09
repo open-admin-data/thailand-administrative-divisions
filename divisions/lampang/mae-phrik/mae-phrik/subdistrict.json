@@ -1,0 +1,61 @@
+{
+  "id": "520901",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่พริก",
+    "en": "Mae Phrik",
+    "slug": "mae-phrik"
+  },
+  "code": {
+    "dopa": "520901"
+  },
+  "parent": {
+    "id": "5209",
+    "level": 2,
+    "name": {
+      "th": "แม่พริก",
+      "en": "Mae Phrik",
+      "slug": "mae-phrik"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5209",
+      "level": 2,
+      "name": {
+        "th": "แม่พริก",
+        "en": "Mae Phrik",
+        "slug": "mae-phrik"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "52180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.513",
+    "lon": "99.009"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-phrik-520901/"
+  }
+}

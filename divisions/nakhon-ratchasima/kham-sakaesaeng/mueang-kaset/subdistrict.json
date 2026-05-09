@@ -1,0 +1,61 @@
+{
+  "id": "301107",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองเกษตร",
+    "en": "Mueang Kaset",
+    "slug": "mueang-kaset"
+  },
+  "code": {
+    "dopa": "301107"
+  },
+  "parent": {
+    "id": "3011",
+    "level": 2,
+    "name": {
+      "th": "ขามสะแกแสง",
+      "en": "Kham Sakaesaeng",
+      "slug": "kham-sakaesaeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3011",
+      "level": 2,
+      "name": {
+        "th": "ขามสะแกแสง",
+        "en": "Kham Sakaesaeng",
+        "slug": "kham-sakaesaeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "30290"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.424",
+    "lon": "102.159"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-kaset-301107/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "7503",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "อัมพวา",
+    "en": "Amphawa",
+    "slug": "amphawa"
+  },
+  "code": {
+    "dopa": "7503"
+  },
+  "parent": {
+    "id": "75",
+    "level": 1,
+    "name": {
+      "th": "สมุทรสงคราม",
+      "en": "Samut Songkhram",
+      "slug": "samut-songkhram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "th": "สมุทรสงคราม",
+        "en": "Samut Songkhram",
+        "slug": "samut-songkhram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 106
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.427",
+    "lon": "99.954"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/amphawa-7503/"
+  }
+}

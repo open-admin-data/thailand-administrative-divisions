@@ -1,0 +1,61 @@
+{
+  "id": "800204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทอนหงส์",
+    "en": "Thon Hong",
+    "slug": "thon-hong"
+  },
+  "code": {
+    "dopa": "800204"
+  },
+  "parent": {
+    "id": "8002",
+    "level": 2,
+    "name": {
+      "th": "พรหมคีรี",
+      "en": "Phrom Khiri",
+      "slug": "phrom-khiri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8002",
+      "level": 2,
+      "name": {
+        "th": "พรหมคีรี",
+        "en": "Phrom Khiri",
+        "slug": "phrom-khiri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "80320"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.580",
+    "lon": "99.776"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/thon-hong-800204/"
+  }
+}

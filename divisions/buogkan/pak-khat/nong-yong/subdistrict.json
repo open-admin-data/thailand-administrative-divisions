@@ -1,0 +1,61 @@
+{
+  "id": "380502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองยอง",
+    "en": "Nong Yong",
+    "slug": "nong-yong"
+  },
+  "code": {
+    "dopa": "380502"
+  },
+  "parent": {
+    "id": "3805",
+    "level": 2,
+    "name": {
+      "th": "ปากคาด",
+      "en": "Pak Khat",
+      "slug": "pak-khat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "th": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan"
+      }
+    },
+    {
+      "id": "3805",
+      "level": 2,
+      "name": {
+        "th": "ปากคาด",
+        "en": "Pak Khat",
+        "slug": "pak-khat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "38190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.208",
+    "lon": "103.351"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-yong-380502/"
+  }
+}

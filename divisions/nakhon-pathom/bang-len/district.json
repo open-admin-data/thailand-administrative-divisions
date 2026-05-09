@@ -1,0 +1,50 @@
+{
+  "id": "7305",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บางเลน",
+    "en": "Bang Len",
+    "slug": "bang-len"
+  },
+  "code": {
+    "dopa": "7305"
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "th": "นครปฐม",
+      "en": "Nakhon Pathom",
+      "slug": "nakhon-pathom"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "th": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 15,
+    "villages": 180
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.954",
+    "lon": "100.199"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/bang-len-7305/"
+  }
+}

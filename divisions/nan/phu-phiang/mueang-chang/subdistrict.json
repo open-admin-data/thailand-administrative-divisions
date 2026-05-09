@@ -1,0 +1,61 @@
+{
+  "id": "551405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เมืองจัง",
+    "en": "Mueang Chang",
+    "slug": "mueang-chang"
+  },
+  "code": {
+    "dopa": "551405"
+  },
+  "parent": {
+    "id": "5514",
+    "level": 2,
+    "name": {
+      "th": "ภูเพียง",
+      "en": "Phu Phiang",
+      "slug": "phu-phiang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "th": "น่าน",
+        "en": "Nan",
+        "slug": "nan"
+      }
+    },
+    {
+      "id": "5514",
+      "level": 2,
+      "name": {
+        "th": "ภูเพียง",
+        "en": "Phu Phiang",
+        "slug": "phu-phiang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "55000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.878",
+    "lon": "100.830"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mueang-chang-551405/"
+  }
+}

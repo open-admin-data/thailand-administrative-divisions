@@ -1,0 +1,50 @@
+{
+  "id": "1008",
+  "level": 2,
+  "level_name": {
+    "th": "เขต",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขต ป้อมปราบศัตรูพ่าย",
+    "en": "Khet Pom Prap Sattru Phai",
+    "slug": "khet-pom-prap-sattru-phai"
+  },
+  "code": {
+    "dopa": "1008"
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "th": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 0
+  },
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.752",
+    "lon": "100.507"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khet-pom-prap-sattru-phai-1008/"
+  }
+}

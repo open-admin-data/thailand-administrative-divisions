@@ -1,0 +1,61 @@
+{
+  "id": "270205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองไก่เถื่อน",
+    "en": "Khlong Kai Thuean",
+    "slug": "khlong-kai-thuean"
+  },
+  "code": {
+    "dopa": "270205"
+  },
+  "parent": {
+    "id": "2702",
+    "level": 2,
+    "name": {
+      "th": "คลองหาด",
+      "en": "Khlong Hat",
+      "slug": "khlong-hat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "th": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo"
+      }
+    },
+    {
+      "id": "2702",
+      "level": 2,
+      "name": {
+        "th": "คลองหาด",
+        "en": "Khlong Hat",
+        "slug": "khlong-hat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "27260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.346",
+    "lon": "102.301"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-kai-thuean-270205/"
+  }
+}

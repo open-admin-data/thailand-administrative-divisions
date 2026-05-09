@@ -1,0 +1,61 @@
+{
+  "id": "920802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ช่อง",
+    "en": "Chong",
+    "slug": "chong"
+  },
+  "code": {
+    "dopa": "920802"
+  },
+  "parent": {
+    "id": "9208",
+    "level": 2,
+    "name": {
+      "th": "นาโยง",
+      "en": "Na Yong",
+      "slug": "na-yong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    },
+    {
+      "id": "9208",
+      "level": 2,
+      "name": {
+        "th": "นาโยง",
+        "en": "Na Yong",
+        "slug": "na-yong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "92170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.546",
+    "lon": "99.793"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chong-920802/"
+  }
+}

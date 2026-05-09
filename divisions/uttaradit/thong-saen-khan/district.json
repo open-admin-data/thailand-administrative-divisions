@@ -1,0 +1,50 @@
+{
+  "id": "5309",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ทองแสนขัน",
+    "en": "Thong Saen Khan",
+    "slug": "thong-saen-khan"
+  },
+  "code": {
+    "dopa": "5309"
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "th": "อุตรดิตถ์",
+      "en": "Uttaradit",
+      "slug": "uttaradit"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 49
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.581",
+    "lon": "100.299"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/thong-saen-khan-5309/"
+  }
+}

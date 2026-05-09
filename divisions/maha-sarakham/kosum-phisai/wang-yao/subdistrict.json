@@ -1,0 +1,61 @@
+{
+  "id": "440303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังยาว",
+    "en": "Wang Yao",
+    "slug": "wang-yao"
+  },
+  "code": {
+    "dopa": "440303"
+  },
+  "parent": {
+    "id": "4403",
+    "level": 2,
+    "name": {
+      "th": "โกสุมพิสัย",
+      "en": "Kosum Phisai",
+      "slug": "kosum-phisai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "th": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham"
+      }
+    },
+    {
+      "id": "4403",
+      "level": 2,
+      "name": {
+        "th": "โกสุมพิสัย",
+        "en": "Kosum Phisai",
+        "slug": "kosum-phisai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "44140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.223",
+    "lon": "102.928"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-yao-440303/"
+  }
+}

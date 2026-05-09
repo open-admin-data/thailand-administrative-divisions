@@ -1,0 +1,61 @@
+{
+  "id": "431503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองหลวง",
+    "en": "Nong Luang",
+    "slug": "nong-luang"
+  },
+  "code": {
+    "dopa": "431503"
+  },
+  "parent": {
+    "id": "4315",
+    "level": 2,
+    "name": {
+      "th": "เฝ้าไร่",
+      "en": "Fao Rai",
+      "slug": "fao-rai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4315",
+      "level": 2,
+      "name": {
+        "th": "เฝ้าไร่",
+        "en": "Fao Rai",
+        "slug": "fao-rai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "43120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.021",
+    "lon": "103.240"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-luang-431503/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "120303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บางเลน",
+    "en": "Bang Len",
+    "slug": "bang-len"
+  },
+  "code": {
+    "dopa": "120303"
+  },
+  "parent": {
+    "id": "1203",
+    "level": 2,
+    "name": {
+      "th": "บางใหญ่",
+      "en": "Bang Yai",
+      "slug": "bang-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    },
+    {
+      "id": "1203",
+      "level": 2,
+      "name": {
+        "th": "บางใหญ่",
+        "en": "Bang Yai",
+        "slug": "bang-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "11140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.854",
+    "lon": "100.434"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-len-120303/"
+  }
+}

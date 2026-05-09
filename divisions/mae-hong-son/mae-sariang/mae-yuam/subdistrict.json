@@ -1,0 +1,61 @@
+{
+  "id": "580405",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่ยวม",
+    "en": "Mae Yuam",
+    "slug": "mae-yuam"
+  },
+  "code": {
+    "dopa": "580405"
+  },
+  "parent": {
+    "id": "5804",
+    "level": 2,
+    "name": {
+      "th": "แม่สะเรียง",
+      "en": "Mae Sariang",
+      "slug": "mae-sariang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "th": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son"
+      }
+    },
+    {
+      "id": "5804",
+      "level": 2,
+      "name": {
+        "th": "แม่สะเรียง",
+        "en": "Mae Sariang",
+        "slug": "mae-sariang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "58110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.063",
+    "lon": "97.808"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-yuam-580405/"
+  }
+}

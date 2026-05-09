@@ -1,0 +1,61 @@
+{
+  "id": "390502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านโคก",
+    "en": "Ban Khok",
+    "slug": "ban-khok"
+  },
+  "code": {
+    "dopa": "390502"
+  },
+  "parent": {
+    "id": "3905",
+    "level": 2,
+    "name": {
+      "th": "สุวรรณคูหา",
+      "en": "Suwannakhuha",
+      "slug": "suwannakhuha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "th": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu"
+      }
+    },
+    {
+      "id": "3905",
+      "level": 2,
+      "name": {
+        "th": "สุวรรณคูหา",
+        "en": "Suwannakhuha",
+        "slug": "suwannakhuha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "39270"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.528",
+    "lon": "102.199"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-khok-390502/"
+  }
+}

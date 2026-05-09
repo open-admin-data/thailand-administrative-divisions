@@ -1,0 +1,50 @@
+{
+  "id": "5103",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านโฮ่ง",
+    "en": "Ban Hong",
+    "slug": "ban-hong"
+  },
+  "code": {
+    "dopa": "5103"
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "th": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "th": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 62
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.383",
+    "lon": "98.750"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-hong-5103/"
+  }
+}

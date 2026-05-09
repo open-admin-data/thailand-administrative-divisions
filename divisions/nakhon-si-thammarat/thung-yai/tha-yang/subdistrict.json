@@ -1,0 +1,61 @@
+{
+  "id": "801101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่ายาง",
+    "en": "Tha Yang",
+    "slug": "tha-yang"
+  },
+  "code": {
+    "dopa": "801101"
+  },
+  "parent": {
+    "id": "8011",
+    "level": 2,
+    "name": {
+      "th": "ทุ่งใหญ่",
+      "en": "Thung Yai",
+      "slug": "thung-yai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8011",
+      "level": 2,
+      "name": {
+        "th": "ทุ่งใหญ่",
+        "en": "Thung Yai",
+        "slug": "thung-yai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "80240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.305",
+    "lon": "99.346"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-yang-801101/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "460710",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาเชือก",
+    "en": "Na Chueak",
+    "slug": "na-chueak"
+  },
+  "code": {
+    "dopa": "460710"
+  },
+  "parent": {
+    "id": "4607",
+    "level": 2,
+    "name": {
+      "th": "ยางตลาด",
+      "en": "Yang Talat",
+      "slug": "yang-talat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4607",
+      "level": 2,
+      "name": {
+        "th": "ยางตลาด",
+        "en": "Yang Talat",
+        "slug": "yang-talat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "46120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.557",
+    "lon": "103.415"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-chueak-460710/"
+  }
+}

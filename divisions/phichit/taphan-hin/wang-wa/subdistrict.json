@@ -1,0 +1,61 @@
+{
+  "id": "660410",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังหว้า",
+    "en": "Wang Wa",
+    "slug": "wang-wa"
+  },
+  "code": {
+    "dopa": "660410"
+  },
+  "parent": {
+    "id": "6604",
+    "level": 2,
+    "name": {
+      "th": "ตะพานหิน",
+      "en": "Taphan Hin",
+      "slug": "taphan-hin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6604",
+      "level": 2,
+      "name": {
+        "th": "ตะพานหิน",
+        "en": "Taphan Hin",
+        "slug": "taphan-hin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "66110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.207",
+    "lon": "100.354"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-wa-660410/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "360503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ถ้ำวัวแดง",
+    "en": "Tham Wua Daeng",
+    "slug": "tham-wua-daeng"
+  },
+  "code": {
+    "dopa": "360503"
+  },
+  "parent": {
+    "id": "3605",
+    "level": 2,
+    "name": {
+      "th": "หนองบัวแดง",
+      "en": "Nong Bua Daeng",
+      "slug": "nong-bua-daeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3605",
+      "level": 2,
+      "name": {
+        "th": "หนองบัวแดง",
+        "en": "Nong Bua Daeng",
+        "slug": "nong-bua-daeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "36210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.161",
+    "lon": "101.440"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tham-wua-daeng-360503/"
+  }
+}

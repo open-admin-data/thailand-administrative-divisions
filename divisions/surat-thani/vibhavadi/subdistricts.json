@@ -1,0 +1,124 @@
+[
+  {
+    "id": "841902",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ตะกุกเหนือ",
+      "en": "Takuk Nuea",
+      "slug": "takuk-nuea"
+    },
+    "code": {
+      "dopa": "841902"
+    },
+    "parent": {
+      "id": "8419",
+      "level": 2,
+      "name": {
+        "th": "วิภาวดี",
+        "en": "Vibhavadi",
+        "slug": "vibhavadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      },
+      {
+        "id": "8419",
+        "level": 2,
+        "name": {
+          "th": "วิภาวดี",
+          "en": "Vibhavadi",
+          "slug": "vibhavadi"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 17
+    },
+    "zip_codes": [
+      "84180"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "9.252",
+      "lon": "98.909"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/takuk-nuea-841902/"
+    }
+  },
+  {
+    "id": "841901",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ตะกุกใต้",
+      "en": "Takuk Tai",
+      "slug": "takuk-tai"
+    },
+    "code": {
+      "dopa": "841901"
+    },
+    "parent": {
+      "id": "8419",
+      "level": 2,
+      "name": {
+        "th": "วิภาวดี",
+        "en": "Vibhavadi",
+        "slug": "vibhavadi"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "th": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani"
+        }
+      },
+      {
+        "id": "8419",
+        "level": 2,
+        "name": {
+          "th": "วิภาวดี",
+          "en": "Vibhavadi",
+          "slug": "vibhavadi"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 14
+    },
+    "zip_codes": [
+      "84180"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "9.227",
+      "lon": "98.807"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/takuk-tai-841901/"
+    }
+  }
+]

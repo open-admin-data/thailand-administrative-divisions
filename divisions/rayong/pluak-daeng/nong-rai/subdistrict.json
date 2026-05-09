@@ -1,0 +1,61 @@
+{
+  "id": "210606",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองไร่",
+    "en": "Nong Rai",
+    "slug": "nong-rai"
+  },
+  "code": {
+    "dopa": "210606"
+  },
+  "parent": {
+    "id": "2106",
+    "level": 2,
+    "name": {
+      "th": "ปลวกแดง",
+      "en": "Pluak Daeng",
+      "slug": "pluak-daeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    },
+    {
+      "id": "2106",
+      "level": 2,
+      "name": {
+        "th": "ปลวกแดง",
+        "en": "Pluak Daeng",
+        "slug": "pluak-daeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "21140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.039",
+    "lon": "101.338"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-rai-210606/"
+  }
+}

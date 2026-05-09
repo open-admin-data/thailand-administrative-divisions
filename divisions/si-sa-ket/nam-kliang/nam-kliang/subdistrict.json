@@ -1,0 +1,61 @@
+{
+  "id": "331501",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "น้ำเกลี้ยง",
+    "en": "Nam Kliang",
+    "slug": "nam-kliang"
+  },
+  "code": {
+    "dopa": "331501"
+  },
+  "parent": {
+    "id": "3315",
+    "level": 2,
+    "name": {
+      "th": "น้ำเกลี้ยง",
+      "en": "Nam Kliang",
+      "slug": "nam-kliang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "th": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket"
+      }
+    },
+    {
+      "id": "3315",
+      "level": 2,
+      "name": {
+        "th": "น้ำเกลี้ยง",
+        "en": "Nam Kliang",
+        "slug": "nam-kliang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "33130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.917",
+    "lon": "104.550"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nam-kliang-331501/"
+  }
+}

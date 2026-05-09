@@ -1,0 +1,61 @@
+{
+  "id": "801205",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองกระบือ",
+    "en": "Khlong Krabue",
+    "slug": "khlong-krabue"
+  },
+  "code": {
+    "dopa": "801205"
+  },
+  "parent": {
+    "id": "8012",
+    "level": 2,
+    "name": {
+      "th": "ปากพนัง",
+      "en": "Pak Phanang",
+      "slug": "pak-phanang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8012",
+      "level": 2,
+      "name": {
+        "th": "ปากพนัง",
+        "en": "Pak Phanang",
+        "slug": "pak-phanang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "80140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.317",
+    "lon": "100.143"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-krabue-801205/"
+  }
+}

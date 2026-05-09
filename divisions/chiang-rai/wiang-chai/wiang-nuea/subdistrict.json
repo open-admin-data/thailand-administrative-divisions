@@ -1,0 +1,61 @@
+{
+  "id": "570204",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เวียงเหนือ",
+    "en": "Wiang Nuea",
+    "slug": "wiang-nuea"
+  },
+  "code": {
+    "dopa": "570204"
+  },
+  "parent": {
+    "id": "5702",
+    "level": 2,
+    "name": {
+      "th": "เวียงชัย",
+      "en": "Wiang Chai",
+      "slug": "wiang-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5702",
+      "level": 2,
+      "name": {
+        "th": "เวียงชัย",
+        "en": "Wiang Chai",
+        "slug": "wiang-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "57210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.932",
+    "lon": "99.940"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wiang-nuea-570204/"
+  }
+}

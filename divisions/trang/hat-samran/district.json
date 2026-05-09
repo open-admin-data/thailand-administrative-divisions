@@ -1,0 +1,50 @@
+{
+  "id": "9210",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "หาดสำราญ",
+    "en": "Hat Samran",
+    "slug": "hat-samran"
+  },
+  "code": {
+    "dopa": "9210"
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "th": "ตรัง",
+      "en": "Trang",
+      "slug": "trang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "th": "ตรัง",
+        "en": "Trang",
+        "slug": "trang"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 22
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.033",
+    "lon": "99.449"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/hat-samran-9210/"
+  }
+}

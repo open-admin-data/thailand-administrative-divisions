@@ -1,0 +1,61 @@
+{
+  "id": "160805",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นิยมชัย",
+    "en": "Niyom Chai",
+    "slug": "niyom-chai"
+  },
+  "code": {
+    "dopa": "160805"
+  },
+  "parent": {
+    "id": "1608",
+    "level": 2,
+    "name": {
+      "th": "สระโบสถ์",
+      "en": "Sa Bot",
+      "slug": "sa-bot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "th": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi"
+      }
+    },
+    {
+      "id": "1608",
+      "level": 2,
+      "name": {
+        "th": "สระโบสถ์",
+        "en": "Sa Bot",
+        "slug": "sa-bot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "15240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.183",
+    "lon": "100.904"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/niyom-chai-160805/"
+  }
+}

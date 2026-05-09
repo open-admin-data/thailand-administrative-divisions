@@ -1,0 +1,61 @@
+{
+  "id": "190907",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยป่าหวาย",
+    "en": "Huai Pa Wai",
+    "slug": "huai-pa-wai"
+  },
+  "code": {
+    "dopa": "190907"
+  },
+  "parent": {
+    "id": "1909",
+    "level": 2,
+    "name": {
+      "th": "พระพุทธบาท",
+      "en": "Phra Phutthabat",
+      "slug": "phra-phutthabat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1909",
+      "level": 2,
+      "name": {
+        "th": "พระพุทธบาท",
+        "en": "Phra Phutthabat",
+        "slug": "phra-phutthabat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 14
+  },
+  "zip_codes": [
+    "18120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.638",
+    "lon": "100.830"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-pa-wai-190907/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "311704",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงอีจาน",
+    "en": "Dong I Chan",
+    "slug": "dong-i-chan"
+  },
+  "code": {
+    "dopa": "311704"
+  },
+  "parent": {
+    "id": "3117",
+    "level": 2,
+    "name": {
+      "th": "โนนสุวรรณ",
+      "en": "Non Suwan",
+      "slug": "non-suwan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3117",
+      "level": 2,
+      "name": {
+        "th": "โนนสุวรรณ",
+        "en": "Non Suwan",
+        "slug": "non-suwan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "31110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.546",
+    "lon": "102.517"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-i-chan-311704/"
+  }
+}

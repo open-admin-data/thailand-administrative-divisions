@@ -1,0 +1,50 @@
+{
+  "id": "4316",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "รัตนวาปี",
+    "en": "Rattanawapi",
+    "slug": "rattanawapi"
+  },
+  "code": {
+    "dopa": "4316"
+  },
+  "parent": {
+    "id": "43",
+    "level": 1,
+    "name": {
+      "th": "หนองคาย",
+      "en": "Nong Khai",
+      "slug": "nong-khai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 62
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.258",
+    "lon": "103.236"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/rattanawapi-4316/"
+  }
+}

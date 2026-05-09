@@ -1,0 +1,50 @@
+{
+  "id": "1206",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ปากเกร็ด",
+    "en": "Pak Kret",
+    "slug": "pak-kret"
+  },
+  "code": {
+    "dopa": "1206"
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "th": "นนทบุรี",
+      "en": "Nonthaburi",
+      "slug": "nonthaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "th": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 12,
+    "villages": 117
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.902",
+    "lon": "100.550"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/pak-kret-1206/"
+  }
+}

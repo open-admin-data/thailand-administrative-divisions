@@ -1,0 +1,50 @@
+{
+  "id": "4102",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "กุดจับ",
+    "en": "Kut Chap",
+    "slug": "kut-chap"
+  },
+  "code": {
+    "dopa": "4102"
+  },
+  "parent": {
+    "id": "41",
+    "level": 1,
+    "name": {
+      "th": "อุดรธานี",
+      "en": "Udon Thani",
+      "slug": "udon-thani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "th": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 90
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.440",
+    "lon": "102.429"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/kut-chap-4102/"
+  }
+}

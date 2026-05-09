@@ -1,0 +1,50 @@
+{
+  "id": "4904",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ดงหลวง",
+    "en": "Dong Luang",
+    "slug": "dong-luang"
+  },
+  "code": {
+    "dopa": "4904"
+  },
+  "parent": {
+    "id": "49",
+    "level": 1,
+    "name": {
+      "th": "มุกดาหาร",
+      "en": "Mukdahan",
+      "slug": "mukdahan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "th": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 6,
+    "villages": 60
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.811",
+    "lon": "104.568"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/dong-luang-4904/"
+  }
+}

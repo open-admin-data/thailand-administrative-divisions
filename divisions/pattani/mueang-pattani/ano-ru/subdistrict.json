@@ -1,0 +1,61 @@
+{
+  "id": "940102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "อาเนาะรู",
+    "en": "Ano Ru",
+    "slug": "ano-ru"
+  },
+  "code": {
+    "dopa": "940102"
+  },
+  "parent": {
+    "id": "9401",
+    "level": 2,
+    "name": {
+      "th": "เมืองปัตตานี",
+      "en": "Mueang Pattani",
+      "slug": "mueang-pattani"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9401",
+      "level": 2,
+      "name": {
+        "th": "เมืองปัตตานี",
+        "en": "Mueang Pattani",
+        "slug": "mueang-pattani"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 5
+  },
+  "zip_codes": [
+    "94000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.870",
+    "lon": "101.256"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ano-ru-940102/"
+  }
+}

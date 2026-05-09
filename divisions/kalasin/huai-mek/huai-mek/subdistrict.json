@@ -1,0 +1,61 @@
+{
+  "id": "460801",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ห้วยเม็ก",
+    "en": "Huai Mek",
+    "slug": "huai-mek"
+  },
+  "code": {
+    "dopa": "460801"
+  },
+  "parent": {
+    "id": "4608",
+    "level": 2,
+    "name": {
+      "th": "ห้วยเม็ก",
+      "en": "Huai Mek",
+      "slug": "huai-mek"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "th": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin"
+      }
+    },
+    {
+      "id": "4608",
+      "level": 2,
+      "name": {
+        "th": "ห้วยเม็ก",
+        "en": "Huai Mek",
+        "slug": "huai-mek"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "46170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.596",
+    "lon": "103.216"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/huai-mek-460801/"
+  }
+}

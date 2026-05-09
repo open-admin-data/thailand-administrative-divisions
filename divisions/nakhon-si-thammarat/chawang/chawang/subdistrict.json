@@ -1,0 +1,61 @@
+{
+  "id": "800401",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ฉวาง",
+    "en": "Chawang",
+    "slug": "chawang"
+  },
+  "code": {
+    "dopa": "800401"
+  },
+  "parent": {
+    "id": "8004",
+    "level": 2,
+    "name": {
+      "th": "ฉวาง",
+      "en": "Chawang",
+      "slug": "chawang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "th": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat"
+      }
+    },
+    {
+      "id": "8004",
+      "level": 2,
+      "name": {
+        "th": "ฉวาง",
+        "en": "Chawang",
+        "slug": "chawang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "80150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.397",
+    "lon": "99.501"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chawang-800401/"
+  }
+}

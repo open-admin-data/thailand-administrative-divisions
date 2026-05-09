@@ -1,0 +1,61 @@
+{
+  "id": "450807",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองตาไก้",
+    "en": "Nong Ta Kai",
+    "slug": "nong-ta-kai"
+  },
+  "code": {
+    "dopa": "450807"
+  },
+  "parent": {
+    "id": "4508",
+    "level": 2,
+    "name": {
+      "th": "โพธิ์ชัย",
+      "en": "Pho Chai",
+      "slug": "pho-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4508",
+      "level": 2,
+      "name": {
+        "th": "โพธิ์ชัย",
+        "en": "Pho Chai",
+        "slug": "pho-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "45230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.256",
+    "lon": "103.760"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-ta-kai-450807/"
+  }
+}

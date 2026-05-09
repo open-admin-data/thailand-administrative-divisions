@@ -1,0 +1,61 @@
+{
+  "id": "520203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "จางเหนือ",
+    "en": "Chang Nuea",
+    "slug": "chang-nuea"
+  },
+  "code": {
+    "dopa": "520203"
+  },
+  "parent": {
+    "id": "5202",
+    "level": 2,
+    "name": {
+      "th": "แม่เมาะ",
+      "en": "Mae Mo",
+      "slug": "mae-mo"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5202",
+      "level": 2,
+      "name": {
+        "th": "แม่เมาะ",
+        "en": "Mae Mo",
+        "slug": "mae-mo"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "52220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.456",
+    "lon": "99.941"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chang-nuea-520203/"
+  }
+}

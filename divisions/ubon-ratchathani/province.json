@@ -1,0 +1,38 @@
+{
+  "id": "34",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "อุบลราชธานี",
+    "en": "Ubon Ratchathani",
+    "slug": "ubon-ratchathani"
+  },
+  "code": {
+    "dopa": "34",
+    "iso": "TH-34"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 25,
+    "subdistricts": 219,
+    "villages": 2886
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "Northeastern"
+    }
+  },
+  "geo": {
+    "lat": "15.244",
+    "lon": "104.894"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/ubon-ratchathani-34/"
+  }
+}

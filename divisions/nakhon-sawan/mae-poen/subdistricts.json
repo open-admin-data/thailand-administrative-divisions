@@ -1,0 +1,63 @@
+[
+  {
+    "id": "601401",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "แม่เปิน",
+      "en": "Mae Poen",
+      "slug": "mae-poen"
+    },
+    "code": {
+      "dopa": "601401"
+    },
+    "parent": {
+      "id": "6014",
+      "level": 2,
+      "name": {
+        "th": "แม่เปิน",
+        "en": "Mae Poen",
+        "slug": "mae-poen"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "th": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan"
+        }
+      },
+      {
+        "id": "6014",
+        "level": 2,
+        "name": {
+          "th": "แม่เปิน",
+          "en": "Mae Poen",
+          "slug": "mae-poen"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 24
+    },
+    "zip_codes": [
+      "60150"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "15.738",
+      "lon": "99.294"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/mae-poen-601401/"
+    }
+  }
+]

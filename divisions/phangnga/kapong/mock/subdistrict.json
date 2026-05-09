@@ -1,0 +1,61 @@
+{
+  "id": "820303",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "เหมาะ",
+    "en": "Mock",
+    "slug": "mock"
+  },
+  "code": {
+    "dopa": "820303"
+  },
+  "parent": {
+    "id": "8203",
+    "level": 2,
+    "name": {
+      "th": "กะปง",
+      "en": "Kapong",
+      "slug": "kapong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "th": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga"
+      }
+    },
+    {
+      "id": "8203",
+      "level": 2,
+      "name": {
+        "th": "กะปง",
+        "en": "Kapong",
+        "slug": "kapong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "82170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.695",
+    "lon": "98.362"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mock-820303/"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "id": "70",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "ราชบุรี",
+    "en": "Ratchaburi",
+    "slug": "ratchaburi"
+  },
+  "code": {
+    "dopa": "70",
+    "iso": "TH-70"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 10,
+    "subdistricts": 104,
+    "villages": 1046
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันตก",
+      "en": "Western"
+    }
+  },
+  "geo": {
+    "lat": "13.816",
+    "lon": "99.873"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/ratchaburi-70/"
+  }
+}

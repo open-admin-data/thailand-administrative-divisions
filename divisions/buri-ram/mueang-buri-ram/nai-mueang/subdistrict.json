@@ -1,0 +1,61 @@
+{
+  "id": "310101",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ในเมือง",
+    "en": "Nai Mueang",
+    "slug": "nai-mueang"
+  },
+  "code": {
+    "dopa": "310101"
+  },
+  "parent": {
+    "id": "3101",
+    "level": 2,
+    "name": {
+      "th": "เมืองบุรีรัมย์",
+      "en": "Mueang Buri Ram",
+      "slug": "mueang-buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3101",
+      "level": 2,
+      "name": {
+        "th": "เมืองบุรีรัมย์",
+        "en": "Mueang Buri Ram",
+        "slug": "mueang-buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "31000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.999",
+    "lon": "103.104"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nai-mueang-310101/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "320706",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองบัวบาน",
+    "en": "Nong Bua Ban",
+    "slug": "nong-bua-ban"
+  },
+  "code": {
+    "dopa": "320706"
+  },
+  "parent": {
+    "id": "3207",
+    "level": 2,
+    "name": {
+      "th": "รัตนบุรี",
+      "en": "Rattanaburi",
+      "slug": "rattanaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3207",
+      "level": 2,
+      "name": {
+        "th": "รัตนบุรี",
+        "en": "Rattanaburi",
+        "slug": "rattanaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "32130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.239",
+    "lon": "103.826"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-bua-ban-320706/"
+  }
+}

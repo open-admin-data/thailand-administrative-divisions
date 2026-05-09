@@ -1,0 +1,551 @@
+[
+  {
+    "id": "20040301",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองเกตุใหญ่",
+      "en": "Ban Nong Ket Yai",
+      "slug": "20040301"
+    },
+    "code": {
+      "dopa": "20040301"
+    },
+    "parent": {
+      "id": "200403",
+      "level": 3,
+      "name": {
+        "th": "หนองปลาไหล",
+        "en": "Nong Pla Lai",
+        "slug": "nong-pla-lai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "th": "บางละมุง",
+          "en": "Bang Lamung",
+          "slug": "bang-lamung"
+        }
+      },
+      {
+        "id": "200403",
+        "level": 3,
+        "name": {
+          "th": "หนองปลาไหล",
+          "en": "Nong Pla Lai",
+          "slug": "nong-pla-lai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.980434742085725",
+      "lon": "100.9395007789135"
+    },
+    "source": {}
+  },
+  {
+    "id": "20040302",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองปลาไหล",
+      "en": "Ban Nong Pla Lai",
+      "slug": "20040302"
+    },
+    "code": {
+      "dopa": "20040302"
+    },
+    "parent": {
+      "id": "200403",
+      "level": 3,
+      "name": {
+        "th": "หนองปลาไหล",
+        "en": "Nong Pla Lai",
+        "slug": "nong-pla-lai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "th": "บางละมุง",
+          "en": "Bang Lamung",
+          "slug": "bang-lamung"
+        }
+      },
+      {
+        "id": "200403",
+        "level": 3,
+        "name": {
+          "th": "หนองปลาไหล",
+          "en": "Nong Pla Lai",
+          "slug": "nong-pla-lai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.967254961537227",
+      "lon": "100.9437346458435"
+    },
+    "source": {}
+  },
+  {
+    "id": "20040303",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านมาบบอน",
+      "en": "Ban Map Bon",
+      "slug": "20040303"
+    },
+    "code": {
+      "dopa": "20040303"
+    },
+    "parent": {
+      "id": "200403",
+      "level": 3,
+      "name": {
+        "th": "หนองปลาไหล",
+        "en": "Nong Pla Lai",
+        "slug": "nong-pla-lai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "th": "บางละมุง",
+          "en": "Bang Lamung",
+          "slug": "bang-lamung"
+        }
+      },
+      {
+        "id": "200403",
+        "level": 3,
+        "name": {
+          "th": "หนองปลาไหล",
+          "en": "Nong Pla Lai",
+          "slug": "nong-pla-lai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.976535115776246",
+      "lon": "100.95819309353828"
+    },
+    "source": {}
+  },
+  {
+    "id": "20040304",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านแกรก",
+      "en": "Ban Kraek",
+      "slug": "20040304"
+    },
+    "code": {
+      "dopa": "20040304"
+    },
+    "parent": {
+      "id": "200403",
+      "level": 3,
+      "name": {
+        "th": "หนองปลาไหล",
+        "en": "Nong Pla Lai",
+        "slug": "nong-pla-lai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "th": "บางละมุง",
+          "en": "Bang Lamung",
+          "slug": "bang-lamung"
+        }
+      },
+      {
+        "id": "200403",
+        "level": 3,
+        "name": {
+          "th": "หนองปลาไหล",
+          "en": "Nong Pla Lai",
+          "slug": "nong-pla-lai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.98406510327859",
+      "lon": "100.96672788262367"
+    },
+    "source": {}
+  },
+  {
+    "id": "20040305",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองหัวแรด",
+      "en": "Ban Nong Hua Raet",
+      "slug": "20040305"
+    },
+    "code": {
+      "dopa": "20040305"
+    },
+    "parent": {
+      "id": "200403",
+      "level": 3,
+      "name": {
+        "th": "หนองปลาไหล",
+        "en": "Nong Pla Lai",
+        "slug": "nong-pla-lai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "th": "บางละมุง",
+          "en": "Bang Lamung",
+          "slug": "bang-lamung"
+        }
+      },
+      {
+        "id": "200403",
+        "level": 3,
+        "name": {
+          "th": "หนองปลาไหล",
+          "en": "Nong Pla Lai",
+          "slug": "nong-pla-lai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.993998012645976",
+      "lon": "100.9567742049694"
+    },
+    "source": {}
+  },
+  {
+    "id": "20040306",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองเกตุน้อย",
+      "en": "Ban Nong Ket Noi",
+      "slug": "20040306"
+    },
+    "code": {
+      "dopa": "20040306"
+    },
+    "parent": {
+      "id": "200403",
+      "level": 3,
+      "name": {
+        "th": "หนองปลาไหล",
+        "en": "Nong Pla Lai",
+        "slug": "nong-pla-lai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "th": "บางละมุง",
+          "en": "Bang Lamung",
+          "slug": "bang-lamung"
+        }
+      },
+      {
+        "id": "200403",
+        "level": 3,
+        "name": {
+          "th": "หนองปลาไหล",
+          "en": "Nong Pla Lai",
+          "slug": "nong-pla-lai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.996226034725519",
+      "lon": "100.93620300292969"
+    },
+    "source": {}
+  },
+  {
+    "id": "20040307",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองเกตุ",
+      "en": "Ban Nong Ket",
+      "slug": "20040307"
+    },
+    "code": {
+      "dopa": "20040307"
+    },
+    "parent": {
+      "id": "200403",
+      "level": 3,
+      "name": {
+        "th": "หนองปลาไหล",
+        "en": "Nong Pla Lai",
+        "slug": "nong-pla-lai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "th": "บางละมุง",
+          "en": "Bang Lamung",
+          "slug": "bang-lamung"
+        }
+      },
+      {
+        "id": "200403",
+        "level": 3,
+        "name": {
+          "th": "หนองปลาไหล",
+          "en": "Nong Pla Lai",
+          "slug": "nong-pla-lai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.989473955571226",
+      "lon": "100.93554720282555"
+    },
+    "source": {}
+  },
+  {
+    "id": "20040308",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองเกตุใหญ่",
+      "en": "Ban Nong Ket Yai",
+      "slug": "20040308"
+    },
+    "code": {
+      "dopa": "20040308"
+    },
+    "parent": {
+      "id": "200403",
+      "level": 3,
+      "name": {
+        "th": "หนองปลาไหล",
+        "en": "Nong Pla Lai",
+        "slug": "nong-pla-lai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "th": "บางละมุง",
+          "en": "Bang Lamung",
+          "slug": "bang-lamung"
+        }
+      },
+      {
+        "id": "200403",
+        "level": 3,
+        "name": {
+          "th": "หนองปลาไหล",
+          "en": "Nong Pla Lai",
+          "slug": "nong-pla-lai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.967098132973401",
+      "lon": "100.92796593904495"
+    },
+    "source": {}
+  },
+  {
+    "id": "20040309",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหนองเหียง",
+      "en": "Ban Nong Hiang",
+      "slug": "20040309"
+    },
+    "code": {
+      "dopa": "20040309"
+    },
+    "parent": {
+      "id": "200403",
+      "level": 3,
+      "name": {
+        "th": "หนองปลาไหล",
+        "en": "Nong Pla Lai",
+        "slug": "nong-pla-lai"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "th": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri"
+        }
+      },
+      {
+        "id": "2004",
+        "level": 2,
+        "name": {
+          "th": "บางละมุง",
+          "en": "Bang Lamung",
+          "slug": "bang-lamung"
+        }
+      },
+      {
+        "id": "200403",
+        "level": 3,
+        "name": {
+          "th": "หนองปลาไหล",
+          "en": "Nong Pla Lai",
+          "slug": "nong-pla-lai"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "12.980858156274063",
+      "lon": "100.93884497880936"
+    },
+    "source": {}
+  }
+]

@@ -1,0 +1,61 @@
+{
+  "id": "841201",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาสาร",
+    "en": "Na San",
+    "slug": "na-san"
+  },
+  "code": {
+    "dopa": "841201"
+  },
+  "parent": {
+    "id": "8412",
+    "level": 2,
+    "name": {
+      "th": "บ้านนาสาร",
+      "en": "Ban Na San",
+      "slug": "ban-na-san"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "th": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani"
+      }
+    },
+    {
+      "id": "8412",
+      "level": 2,
+      "name": {
+        "th": "บ้านนาสาร",
+        "en": "Ban Na San",
+        "slug": "ban-na-san"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 25
+  },
+  "zip_codes": [
+    "84120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "8.812",
+    "lon": "99.359"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-san-841201/"
+  }
+}

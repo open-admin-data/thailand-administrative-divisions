@@ -1,0 +1,61 @@
+{
+  "id": "190317",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองปลิง",
+    "en": "Nong Pling",
+    "slug": "nong-pling"
+  },
+  "code": {
+    "dopa": "190317"
+  },
+  "parent": {
+    "id": "1903",
+    "level": 2,
+    "name": {
+      "th": "หนองแค",
+      "en": "Nong Khae",
+      "slug": "nong-khae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1903",
+      "level": 2,
+      "name": {
+        "th": "หนองแค",
+        "en": "Nong Khae",
+        "slug": "nong-khae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "18140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.370",
+    "lon": "100.829"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-pling-190317/"
+  }
+}

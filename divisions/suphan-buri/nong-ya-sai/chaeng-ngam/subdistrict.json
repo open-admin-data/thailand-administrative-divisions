@@ -1,0 +1,61 @@
+{
+  "id": "721004",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แจงงาม",
+    "en": "Chaeng Ngam",
+    "slug": "chaeng-ngam"
+  },
+  "code": {
+    "dopa": "721004"
+  },
+  "parent": {
+    "id": "7210",
+    "level": 2,
+    "name": {
+      "th": "หนองหญ้าไซ",
+      "en": "Nong Ya Sai",
+      "slug": "nong-ya-sai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7210",
+      "level": 2,
+      "name": {
+        "th": "หนองหญ้าไซ",
+        "en": "Nong Ya Sai",
+        "slug": "nong-ya-sai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 8
+  },
+  "zip_codes": [
+    "72240"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.820",
+    "lon": "99.804"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chaeng-ngam-721004/"
+  }
+}

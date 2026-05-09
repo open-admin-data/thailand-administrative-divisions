@@ -1,0 +1,61 @@
+{
+  "id": "560509",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ดงสุวรรณ",
+    "en": "Dong Suwan",
+    "slug": "dong-suwan"
+  },
+  "code": {
+    "dopa": "560509"
+  },
+  "parent": {
+    "id": "5605",
+    "level": 2,
+    "name": {
+      "th": "ดอกคำใต้",
+      "en": "Dok Khamtai",
+      "slug": "dok-khamtai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "th": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao"
+      }
+    },
+    {
+      "id": "5605",
+      "level": 2,
+      "name": {
+        "th": "ดอกคำใต้",
+        "en": "Dok Khamtai",
+        "slug": "dok-khamtai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "56120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "19.242",
+    "lon": "100.053"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/dong-suwan-560509/"
+  }
+}

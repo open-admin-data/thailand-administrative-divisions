@@ -1,0 +1,61 @@
+{
+  "id": "421304",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทรัพย์ไพวัลย์",
+    "en": "Sap Phaiwan",
+    "slug": "sap-phaiwan"
+  },
+  "code": {
+    "dopa": "421304"
+  },
+  "parent": {
+    "id": "4213",
+    "level": 2,
+    "name": {
+      "th": "เอราวัณ",
+      "en": "Erawan",
+      "slug": "erawan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "th": "เลย",
+        "en": "Loei",
+        "slug": "loei"
+      }
+    },
+    {
+      "id": "4213",
+      "level": 2,
+      "name": {
+        "th": "เอราวัณ",
+        "en": "Erawan",
+        "slug": "erawan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "42220"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.193",
+    "lon": "101.994"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sap-phaiwan-421304/"
+  }
+}

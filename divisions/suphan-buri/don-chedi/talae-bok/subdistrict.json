@@ -1,0 +1,61 @@
+{
+  "id": "720605",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ทะเลบก",
+    "en": "Talae Bok",
+    "slug": "talae-bok"
+  },
+  "code": {
+    "dopa": "720605"
+  },
+  "parent": {
+    "id": "7206",
+    "level": 2,
+    "name": {
+      "th": "ดอนเจดีย์",
+      "en": "Don Chedi",
+      "slug": "don-chedi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7206",
+      "level": 2,
+      "name": {
+        "th": "ดอนเจดีย์",
+        "en": "Don Chedi",
+        "slug": "don-chedi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "72250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.708",
+    "lon": "99.838"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/talae-bok-720605/"
+  }
+}

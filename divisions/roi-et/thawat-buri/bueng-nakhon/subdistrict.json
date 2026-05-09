@@ -1,0 +1,61 @@
+{
+  "id": "450520",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บึงนคร",
+    "en": "Bueng Nakhon",
+    "slug": "bueng-nakhon"
+  },
+  "code": {
+    "dopa": "450520"
+  },
+  "parent": {
+    "id": "4505",
+    "level": 2,
+    "name": {
+      "th": "ธวัชบุรี",
+      "en": "Thawat Buri",
+      "slug": "thawat-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "th": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et"
+      }
+    },
+    {
+      "id": "4505",
+      "level": 2,
+      "name": {
+        "th": "ธวัชบุรี",
+        "en": "Thawat Buri",
+        "slug": "thawat-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "45170"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.072",
+    "lon": "103.852"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bueng-nakhon-450520/"
+  }
+}

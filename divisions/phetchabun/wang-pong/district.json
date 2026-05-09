@@ -1,0 +1,50 @@
+{
+  "id": "6710",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "วังโป่ง",
+    "en": "Wang Pong",
+    "slug": "wang-pong"
+  },
+  "code": {
+    "dopa": "6710"
+  },
+  "parent": {
+    "id": "67",
+    "level": 1,
+    "name": {
+      "th": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 64
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.297",
+    "lon": "100.678"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/wang-pong-6710/"
+  }
+}

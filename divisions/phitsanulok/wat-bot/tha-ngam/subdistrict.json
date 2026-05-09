@@ -1,0 +1,61 @@
+{
+  "id": "650702",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ท่างาม",
+    "en": "Tha Ngam",
+    "slug": "tha-ngam"
+  },
+  "code": {
+    "dopa": "650702"
+  },
+  "parent": {
+    "id": "6507",
+    "level": 2,
+    "name": {
+      "th": "วัดโบสถ์",
+      "en": "Wat Bot",
+      "slug": "wat-bot"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "th": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok"
+      }
+    },
+    {
+      "id": "6507",
+      "level": 2,
+      "name": {
+        "th": "วัดโบสถ์",
+        "en": "Wat Bot",
+        "slug": "wat-bot"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "65160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.970",
+    "lon": "100.377"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/tha-ngam-650702/"
+  }
+}

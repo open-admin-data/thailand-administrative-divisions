@@ -1,0 +1,61 @@
+{
+  "id": "530802",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่พูล",
+    "en": "Mae Phun",
+    "slug": "mae-phun"
+  },
+  "code": {
+    "dopa": "530802"
+  },
+  "parent": {
+    "id": "5308",
+    "level": 2,
+    "name": {
+      "th": "ลับแล",
+      "en": "Laplae",
+      "slug": "laplae"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "th": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit"
+      }
+    },
+    {
+      "id": "5308",
+      "level": 2,
+      "name": {
+        "th": "ลับแล",
+        "en": "Laplae",
+        "slug": "laplae"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "53130"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.746",
+    "lon": "99.968"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-phun-530802/"
+  }
+}

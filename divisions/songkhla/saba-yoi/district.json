@@ -1,0 +1,50 @@
+{
+  "id": "9006",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "สะบ้าย้อย",
+    "en": "Saba Yoi",
+    "slug": "saba-yoi"
+  },
+  "code": {
+    "dopa": "9006"
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "th": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "th": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 9,
+    "villages": 62
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.624",
+    "lon": "101.057"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/saba-yoi-9006/"
+  }
+}

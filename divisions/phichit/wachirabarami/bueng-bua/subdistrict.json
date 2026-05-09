@@ -1,0 +1,61 @@
+{
+  "id": "661202",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บึงบัว",
+    "en": "Bueng Bua",
+    "slug": "bueng-bua"
+  },
+  "code": {
+    "dopa": "661202"
+  },
+  "parent": {
+    "id": "6612",
+    "level": 2,
+    "name": {
+      "th": "วชิรบารมี",
+      "en": "Wachirabarami",
+      "slug": "wachirabarami"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6612",
+      "level": 2,
+      "name": {
+        "th": "วชิรบารมี",
+        "en": "Wachirabarami",
+        "slug": "wachirabarami"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "66140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.484",
+    "lon": "100.053"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bueng-bua-661202/"
+  }
+}

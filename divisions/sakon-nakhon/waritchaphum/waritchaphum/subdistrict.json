@@ -1,0 +1,61 @@
+{
+  "id": "470601",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วาริชภูมิ",
+    "en": "Waritchaphum",
+    "slug": "waritchaphum"
+  },
+  "code": {
+    "dopa": "470601"
+  },
+  "parent": {
+    "id": "4706",
+    "level": 2,
+    "name": {
+      "th": "วาริชภูมิ",
+      "en": "Waritchaphum",
+      "slug": "waritchaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "th": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon"
+      }
+    },
+    {
+      "id": "4706",
+      "level": 2,
+      "name": {
+        "th": "วาริชภูมิ",
+        "en": "Waritchaphum",
+        "slug": "waritchaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 20
+  },
+  "zip_codes": [
+    "47150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.232",
+    "lon": "103.642"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/waritchaphum-470601/"
+  }
+}

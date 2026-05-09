@@ -1,0 +1,61 @@
+{
+  "id": "670708",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังท่าดี",
+    "en": "Wang Tha Di",
+    "slug": "wang-tha-di"
+  },
+  "code": {
+    "dopa": "670708"
+  },
+  "parent": {
+    "id": "6707",
+    "level": 2,
+    "name": {
+      "th": "หนองไผ่",
+      "en": "Nong Phai",
+      "slug": "nong-phai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6707",
+      "level": 2,
+      "name": {
+        "th": "หนองไผ่",
+        "en": "Nong Phai",
+        "slug": "nong-phai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "67140"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.995",
+    "lon": "101.223"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-tha-di-670708/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "930504",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาขยาด",
+    "en": "Na Khayat",
+    "slug": "na-khayat"
+  },
+  "code": {
+    "dopa": "930504"
+  },
+  "parent": {
+    "id": "9305",
+    "level": 2,
+    "name": {
+      "th": "ควนขนุน",
+      "en": "Khuan Khanun",
+      "slug": "khuan-khanun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    },
+    {
+      "id": "9305",
+      "level": 2,
+      "name": {
+        "th": "ควนขนุน",
+        "en": "Khuan Khanun",
+        "slug": "khuan-khanun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "93110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.687",
+    "lon": "99.948"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-khayat-930504/"
+  }
+}

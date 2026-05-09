@@ -1,0 +1,185 @@
+[
+  {
+    "id": "11030901",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองหนองงูเห่า",
+      "en": "Ban Khlong Nong Ngu Hao",
+      "slug": "11030901"
+    },
+    "code": {
+      "dopa": "11030901"
+    },
+    "parent": {
+      "id": "110309",
+      "level": 3,
+      "name": {
+        "th": "หนองปรือ",
+        "en": "Nong Prue",
+        "slug": "nong-prue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "th": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "th": "บางพลี",
+          "en": "Bang Phli",
+          "slug": "bang-phli"
+        }
+      },
+      {
+        "id": "110309",
+        "level": 3,
+        "name": {
+          "th": "หนองปรือ",
+          "en": "Nong Prue",
+          "slug": "nong-prue"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.652463867308583",
+      "lon": "100.75656071305275"
+    },
+    "source": {}
+  },
+  {
+    "id": "11030902",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านคลองท้องคุ้ง",
+      "en": "Ban Khlong Thong Khung",
+      "slug": "11030902"
+    },
+    "code": {
+      "dopa": "11030902"
+    },
+    "parent": {
+      "id": "110309",
+      "level": 3,
+      "name": {
+        "th": "หนองปรือ",
+        "en": "Nong Prue",
+        "slug": "nong-prue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "th": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "th": "บางพลี",
+          "en": "Bang Phli",
+          "slug": "bang-phli"
+        }
+      },
+      {
+        "id": "110309",
+        "level": 3,
+        "name": {
+          "th": "หนองปรือ",
+          "en": "Nong Prue",
+          "slug": "nong-prue"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.672026873861201",
+      "lon": "100.79348266124725"
+    },
+    "source": {}
+  },
+  {
+    "id": "11030903",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านร่วมใจพัฒนา",
+      "en": "Ban Ruam Chai Phatthana",
+      "slug": "11030903"
+    },
+    "code": {
+      "dopa": "11030903"
+    },
+    "parent": {
+      "id": "110309",
+      "level": 3,
+      "name": {
+        "th": "หนองปรือ",
+        "en": "Nong Prue",
+        "slug": "nong-prue"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "th": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan"
+        }
+      },
+      {
+        "id": "1103",
+        "level": 2,
+        "name": {
+          "th": "บางพลี",
+          "en": "Bang Phli",
+          "slug": "bang-phli"
+        }
+      },
+      {
+        "id": "110309",
+        "level": 3,
+        "name": {
+          "th": "หนองปรือ",
+          "en": "Nong Prue",
+          "slug": "nong-prue"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "13.668021098657537",
+      "lon": "100.779028236866"
+    },
+    "source": {}
+  }
+]

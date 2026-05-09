@@ -1,0 +1,61 @@
+{
+  "id": "190703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านหลวง",
+    "en": "Ban Luang",
+    "slug": "ban-luang"
+  },
+  "code": {
+    "dopa": "190703"
+  },
+  "parent": {
+    "id": "1907",
+    "level": 2,
+    "name": {
+      "th": "ดอนพุด",
+      "en": "Don Phut",
+      "slug": "don-phut"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1907",
+      "level": 2,
+      "name": {
+        "th": "ดอนพุด",
+        "en": "Don Phut",
+        "slug": "don-phut"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "18210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.571",
+    "lon": "100.620"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-luang-190703/"
+  }
+}

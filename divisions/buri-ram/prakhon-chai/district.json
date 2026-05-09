@@ -1,0 +1,50 @@
+{
+  "id": "3107",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ประโคนชัย",
+    "en": "Prakhon Chai",
+    "slug": "prakhon-chai"
+  },
+  "code": {
+    "dopa": "3107"
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "th": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 16,
+    "villages": 182
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.569",
+    "lon": "102.962"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/prakhon-chai-3107/"
+  }
+}

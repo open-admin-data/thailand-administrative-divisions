@@ -1,0 +1,61 @@
+{
+  "id": "240805",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ลาดกระทิง",
+    "en": "Lat Krathing",
+    "slug": "lat-krathing"
+  },
+  "code": {
+    "dopa": "240805"
+  },
+  "parent": {
+    "id": "2408",
+    "level": 2,
+    "name": {
+      "th": "สนามชัยเขต",
+      "en": "Sanam Chai Khet",
+      "slug": "sanam-chai-khet"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "th": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao"
+      }
+    },
+    {
+      "id": "2408",
+      "level": 2,
+      "name": {
+        "th": "สนามชัยเขต",
+        "en": "Sanam Chai Khet",
+        "slug": "sanam-chai-khet"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "24160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.548",
+    "lon": "101.475"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/lat-krathing-240805/"
+  }
+}

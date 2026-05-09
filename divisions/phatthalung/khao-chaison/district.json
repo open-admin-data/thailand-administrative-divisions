@@ -1,0 +1,50 @@
+{
+  "id": "9303",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เขาชัยสน",
+    "en": "Khao Chaison",
+    "slug": "khao-chaison"
+  },
+  "code": {
+    "dopa": "9303"
+  },
+  "parent": {
+    "id": "93",
+    "level": 1,
+    "name": {
+      "th": "พัทลุง",
+      "en": "Phatthalung",
+      "slug": "phatthalung"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "th": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 5,
+    "villages": 58
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "7.489",
+    "lon": "100.194"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/khao-chaison-9303/"
+  }
+}

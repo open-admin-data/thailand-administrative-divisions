@@ -1,0 +1,61 @@
+{
+  "id": "401506",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองเม็ก",
+    "en": "Nong Mek",
+    "slug": "nong-mek"
+  },
+  "code": {
+    "dopa": "401506"
+  },
+  "parent": {
+    "id": "4015",
+    "level": 2,
+    "name": {
+      "th": "หนองสองห้อง",
+      "en": "Nong Song Hong",
+      "slug": "nong-song-hong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "th": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen"
+      }
+    },
+    {
+      "id": "4015",
+      "level": 2,
+      "name": {
+        "th": "หนองสองห้อง",
+        "en": "Nong Song Hong",
+        "slug": "nong-song-hong"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "40190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.787",
+    "lon": "102.724"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-mek-401506/"
+  }
+}

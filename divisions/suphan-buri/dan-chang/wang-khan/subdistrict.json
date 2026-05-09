@@ -1,0 +1,61 @@
+{
+  "id": "720305",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังคัน",
+    "en": "Wang Khan",
+    "slug": "wang-khan"
+  },
+  "code": {
+    "dopa": "720305"
+  },
+  "parent": {
+    "id": "7203",
+    "level": 2,
+    "name": {
+      "th": "ด่านช้าง",
+      "en": "Dan Chang",
+      "slug": "dan-chang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "th": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri"
+      }
+    },
+    {
+      "id": "7203",
+      "level": 2,
+      "name": {
+        "th": "ด่านช้าง",
+        "en": "Dan Chang",
+        "slug": "dan-chang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "72180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.937",
+    "lon": "99.666"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-khan-720305/"
+  }
+}

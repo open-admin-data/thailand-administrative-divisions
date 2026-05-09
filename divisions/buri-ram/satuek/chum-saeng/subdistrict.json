@@ -1,0 +1,61 @@
+{
+  "id": "311110",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ชุมแสง",
+    "en": "Chum Saeng",
+    "slug": "chum-saeng"
+  },
+  "code": {
+    "dopa": "311110"
+  },
+  "parent": {
+    "id": "3111",
+    "level": 2,
+    "name": {
+      "th": "สตึก",
+      "en": "Satuek",
+      "slug": "satuek"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3111",
+      "level": 2,
+      "name": {
+        "th": "สตึก",
+        "en": "Satuek",
+        "slug": "satuek"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "31150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.137",
+    "lon": "103.377"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/chum-saeng-311110/"
+  }
+}

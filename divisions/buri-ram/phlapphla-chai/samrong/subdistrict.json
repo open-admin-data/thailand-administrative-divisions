@@ -1,0 +1,61 @@
+{
+  "id": "311505",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สำโรง",
+    "en": "Samrong",
+    "slug": "samrong"
+  },
+  "code": {
+    "dopa": "311505"
+  },
+  "parent": {
+    "id": "3115",
+    "level": 2,
+    "name": {
+      "th": "พลับพลาชัย",
+      "en": "Phlapphla Chai",
+      "slug": "phlapphla-chai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "th": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram"
+      }
+    },
+    {
+      "id": "3115",
+      "level": 2,
+      "name": {
+        "th": "พลับพลาชัย",
+        "en": "Phlapphla Chai",
+        "slug": "phlapphla-chai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "31250"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.776",
+    "lon": "103.111"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/samrong-311505/"
+  }
+}

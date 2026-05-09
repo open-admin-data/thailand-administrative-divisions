@@ -1,0 +1,61 @@
+{
+  "id": "521005",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านบอม",
+    "en": "Ban Bom",
+    "slug": "ban-bom"
+  },
+  "code": {
+    "dopa": "521005"
+  },
+  "parent": {
+    "id": "5210",
+    "level": 2,
+    "name": {
+      "th": "แม่ทะ",
+      "en": "Mae Tha",
+      "slug": "mae-tha"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "th": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang"
+      }
+    },
+    {
+      "id": "5210",
+      "level": 2,
+      "name": {
+        "th": "แม่ทะ",
+        "en": "Mae Tha",
+        "slug": "mae-tha"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 6
+  },
+  "zip_codes": [
+    "52150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "18.054",
+    "lon": "99.489"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-bom-521005/"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "2101",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เมืองระยอง",
+    "en": "Mueang Rayong",
+    "slug": "mueang-rayong"
+  },
+  "code": {
+    "dopa": "2101"
+  },
+  "parent": {
+    "id": "21",
+    "level": 1,
+    "name": {
+      "th": "ระยอง",
+      "en": "Rayong",
+      "slug": "rayong"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "th": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 13,
+    "villages": 133
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "12.646",
+    "lon": "101.171"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/mueang-rayong-2101/"
+  }
+}

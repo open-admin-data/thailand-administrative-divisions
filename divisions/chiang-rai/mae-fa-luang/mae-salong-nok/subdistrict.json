@@ -1,0 +1,61 @@
+{
+  "id": "571503",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แม่สลองนอก",
+    "en": "Mae Salong Nok",
+    "slug": "mae-salong-nok"
+  },
+  "code": {
+    "dopa": "571503"
+  },
+  "parent": {
+    "id": "5715",
+    "level": 2,
+    "name": {
+      "th": "แม่ฟ้าหลวง",
+      "en": "Mae Fa Luang",
+      "slug": "mae-fa-luang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "th": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai"
+      }
+    },
+    {
+      "id": "5715",
+      "level": 2,
+      "name": {
+        "th": "แม่ฟ้าหลวง",
+        "en": "Mae Fa Luang",
+        "slug": "mae-fa-luang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "57110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "20.141",
+    "lon": "99.654"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/mae-salong-nok-571503/"
+  }
+}

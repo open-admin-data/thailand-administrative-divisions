@@ -1,0 +1,38 @@
+{
+  "id": "49",
+  "level": 1,
+  "level_name": {
+    "th": "จังหวัด",
+    "en": "province"
+  },
+  "name": {
+    "th": "มุกดาหาร",
+    "en": "Mukdahan",
+    "slug": "mukdahan"
+  },
+  "code": {
+    "dopa": "49",
+    "iso": "TH-49"
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "districts": 7,
+    "subdistricts": 53,
+    "villages": 553
+  },
+  "metadata": {
+    "is_special_province": false,
+    "region": {
+      "th": "ภาคตะวันออกเฉียงเหนือ",
+      "en": "Northeastern"
+    }
+  },
+  "geo": {
+    "lat": "16.530",
+    "lon": "104.724"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/province/mukdahan-49/"
+  }
+}

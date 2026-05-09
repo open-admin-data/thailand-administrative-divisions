@@ -1,0 +1,50 @@
+{
+  "id": "3707",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ลืออำนาจ",
+    "en": "Lue Amnat",
+    "slug": "lue-amnat"
+  },
+  "code": {
+    "dopa": "3707"
+  },
+  "parent": {
+    "id": "37",
+    "level": 1,
+    "name": {
+      "th": "อำนาจเจริญ",
+      "en": "Amnat Charoen",
+      "slug": "amnat-charoen"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "th": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 7,
+    "villages": 79
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.716",
+    "lon": "104.617"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/lue-amnat-3707/"
+  }
+}

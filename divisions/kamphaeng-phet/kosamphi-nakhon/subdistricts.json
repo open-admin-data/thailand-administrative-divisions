@@ -1,0 +1,185 @@
+[
+  {
+    "id": "621101",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "โกสัมพี",
+      "en": "Kosamphi",
+      "slug": "kosamphi"
+    },
+    "code": {
+      "dopa": "621101"
+    },
+    "parent": {
+      "id": "6211",
+      "level": 2,
+      "name": {
+        "th": "โกสัมพีนคร",
+        "en": "Kosamphi Nakhon",
+        "slug": "kosamphi-nakhon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "th": "กำแพงเพชร",
+          "en": "Kamphaeng Phet",
+          "slug": "kamphaeng-phet"
+        }
+      },
+      {
+        "id": "6211",
+        "level": 2,
+        "name": {
+          "th": "โกสัมพีนคร",
+          "en": "Kosamphi Nakhon",
+          "slug": "kosamphi-nakhon"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 26
+    },
+    "zip_codes": [
+      "62000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.501",
+      "lon": "99.215"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/kosamphi-621101/"
+    }
+  },
+  {
+    "id": "621103",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "ลานดอกไม้ตก",
+      "en": "Lan Dokmai Tok",
+      "slug": "lan-dokmai-tok"
+    },
+    "code": {
+      "dopa": "621103"
+    },
+    "parent": {
+      "id": "6211",
+      "level": 2,
+      "name": {
+        "th": "โกสัมพีนคร",
+        "en": "Kosamphi Nakhon",
+        "slug": "kosamphi-nakhon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "th": "กำแพงเพชร",
+          "en": "Kamphaeng Phet",
+          "slug": "kamphaeng-phet"
+        }
+      },
+      {
+        "id": "6211",
+        "level": 2,
+        "name": {
+          "th": "โกสัมพีนคร",
+          "en": "Kosamphi Nakhon",
+          "slug": "kosamphi-nakhon"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "62000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.581",
+      "lon": "99.429"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/lan-dokmai-tok-621103/"
+    }
+  },
+  {
+    "id": "621102",
+    "level": 3,
+    "level_name": {
+      "th": "ตำบล",
+      "en": "subdistrict"
+    },
+    "name": {
+      "th": "เพชรชมภู",
+      "en": "Phet Chomphu",
+      "slug": "phet-chomphu"
+    },
+    "code": {
+      "dopa": "621102"
+    },
+    "parent": {
+      "id": "6211",
+      "level": 2,
+      "name": {
+        "th": "โกสัมพีนคร",
+        "en": "Kosamphi Nakhon",
+        "slug": "kosamphi-nakhon"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "th": "กำแพงเพชร",
+          "en": "Kamphaeng Phet",
+          "slug": "kamphaeng-phet"
+        }
+      },
+      {
+        "id": "6211",
+        "level": 2,
+        "name": {
+          "th": "โกสัมพีนคร",
+          "en": "Kosamphi Nakhon",
+          "slug": "kosamphi-nakhon"
+        }
+      }
+    ],
+    "children_count": {
+      "villages": 9
+    },
+    "zip_codes": [
+      "62000"
+    ],
+    "metadata": {
+      "is_special_province": false
+    },
+    "geo": {
+      "lat": "16.580",
+      "lon": "99.361"
+    },
+    "source": {
+      "url": "https://thaiaddress.org/subdistrict/phet-chomphu-621102/"
+    }
+  }
+]

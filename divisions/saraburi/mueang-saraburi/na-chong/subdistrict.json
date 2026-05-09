@@ -1,0 +1,61 @@
+{
+  "id": "190106",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "นาโฉง",
+    "en": "Na Chong",
+    "slug": "na-chong"
+  },
+  "code": {
+    "dopa": "190106"
+  },
+  "parent": {
+    "id": "1901",
+    "level": 2,
+    "name": {
+      "th": "เมืองสระบุรี",
+      "en": "Mueang Saraburi",
+      "slug": "mueang-saraburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1901",
+      "level": 2,
+      "name": {
+        "th": "เมืองสระบุรี",
+        "en": "Mueang Saraburi",
+        "slug": "mueang-saraburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 3
+  },
+  "zip_codes": [
+    "18000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.529",
+    "lon": "100.886"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-chong-190106/"
+  }
+}

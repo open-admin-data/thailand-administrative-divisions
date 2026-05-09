@@ -1,0 +1,61 @@
+{
+  "id": "360502",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "กุดชุมแสง",
+    "en": "Kut Chum Saeng",
+    "slug": "kut-chum-saeng"
+  },
+  "code": {
+    "dopa": "360502"
+  },
+  "parent": {
+    "id": "3605",
+    "level": 2,
+    "name": {
+      "th": "หนองบัวแดง",
+      "en": "Nong Bua Daeng",
+      "slug": "nong-bua-daeng"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3605",
+      "level": 2,
+      "name": {
+        "th": "หนองบัวแดง",
+        "en": "Nong Bua Daeng",
+        "slug": "nong-bua-daeng"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 18
+  },
+  "zip_codes": [
+    "36210"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.012",
+    "lon": "101.834"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kut-chum-saeng-360502/"
+  }
+}

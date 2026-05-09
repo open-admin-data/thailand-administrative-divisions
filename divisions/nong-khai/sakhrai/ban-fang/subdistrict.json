@@ -1,0 +1,61 @@
+{
+  "id": "431403",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "บ้านฝาง",
+    "en": "Ban Fang",
+    "slug": "ban-fang"
+  },
+  "code": {
+    "dopa": "431403"
+  },
+  "parent": {
+    "id": "4314",
+    "level": 2,
+    "name": {
+      "th": "สระใคร",
+      "en": "Sakhrai",
+      "slug": "sakhrai"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "th": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai"
+      }
+    },
+    {
+      "id": "4314",
+      "level": 2,
+      "name": {
+        "th": "สระใคร",
+        "en": "Sakhrai",
+        "slug": "sakhrai"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 13
+  },
+  "zip_codes": [
+    "43100"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "17.651",
+    "lon": "102.665"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/ban-fang-431403/"
+  }
+}

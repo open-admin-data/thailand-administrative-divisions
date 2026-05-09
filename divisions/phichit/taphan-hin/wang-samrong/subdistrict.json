@@ -1,0 +1,61 @@
+{
+  "id": "660409",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังสำโรง",
+    "en": "Wang Samrong",
+    "slug": "wang-samrong"
+  },
+  "code": {
+    "dopa": "660409"
+  },
+  "parent": {
+    "id": "6604",
+    "level": 2,
+    "name": {
+      "th": "ตะพานหิน",
+      "en": "Taphan Hin",
+      "slug": "taphan-hin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "th": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit"
+      }
+    },
+    {
+      "id": "6604",
+      "level": 2,
+      "name": {
+        "th": "ตะพานหิน",
+        "en": "Taphan Hin",
+        "slug": "taphan-hin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 7
+  },
+  "zip_codes": [
+    "66110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.252",
+    "lon": "100.308"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-samrong-660409/"
+  }
+}

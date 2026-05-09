@@ -1,0 +1,61 @@
+{
+  "id": "320203",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ไพรขลา",
+    "en": "Phrai Khla",
+    "slug": "phrai-khla"
+  },
+  "code": {
+    "dopa": "320203"
+  },
+  "parent": {
+    "id": "3202",
+    "level": 2,
+    "name": {
+      "th": "ชุมพลบุรี",
+      "en": "Chumphon Buri",
+      "slug": "chumphon-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3202",
+      "level": 2,
+      "name": {
+        "th": "ชุมพลบุรี",
+        "en": "Chumphon Buri",
+        "slug": "chumphon-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "32190"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.395",
+    "lon": "103.556"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phrai-khla-320203/"
+  }
+}

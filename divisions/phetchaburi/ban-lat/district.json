@@ -1,0 +1,50 @@
+{
+  "id": "7606",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านลาด",
+    "en": "Ban Lat",
+    "slug": "ban-lat"
+  },
+  "code": {
+    "dopa": "7606"
+  },
+  "parent": {
+    "id": "76",
+    "level": 1,
+    "name": {
+      "th": "เพชรบุรี",
+      "en": "Phetchaburi",
+      "slug": "phetchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 17,
+    "villages": 112
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.102",
+    "lon": "99.895"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-lat-7606/"
+  }
+}

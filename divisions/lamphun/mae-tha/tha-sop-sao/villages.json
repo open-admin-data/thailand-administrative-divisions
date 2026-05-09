@@ -1,0 +1,978 @@
+[
+  {
+    "id": "51020201",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านสบเส้า",
+      "en": "Ban Sop Sao",
+      "slug": "51020201"
+    },
+    "code": {
+      "dopa": "51020201"
+    },
+    "parent": {
+      "id": "510202",
+      "level": 3,
+      "name": {
+        "th": "ทาสบเส้า",
+        "en": "Tha Sop Sao",
+        "slug": "tha-sop-sao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "th": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "th": "แม่ทา",
+          "en": "Mae Tha",
+          "slug": "mae-tha"
+        }
+      },
+      {
+        "id": "510202",
+        "level": 3,
+        "name": {
+          "th": "ทาสบเส้า",
+          "en": "Tha Sop Sao",
+          "slug": "tha-sop-sao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.45451032498126",
+      "lon": "99.12411198019981"
+    },
+    "source": {}
+  },
+  {
+    "id": "51020202",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านแม่สะป้วด",
+      "en": "Ban Mae Sa Puat",
+      "slug": "51020202"
+    },
+    "code": {
+      "dopa": "51020202"
+    },
+    "parent": {
+      "id": "510202",
+      "level": 3,
+      "name": {
+        "th": "ทาสบเส้า",
+        "en": "Tha Sop Sao",
+        "slug": "tha-sop-sao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "th": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "th": "แม่ทา",
+          "en": "Mae Tha",
+          "slug": "mae-tha"
+        }
+      },
+      {
+        "id": "510202",
+        "level": 3,
+        "name": {
+          "th": "ทาสบเส้า",
+          "en": "Tha Sop Sao",
+          "slug": "tha-sop-sao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.42395720019655",
+      "lon": "99.08794641494751"
+    },
+    "source": {}
+  },
+  {
+    "id": "51020203",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านศาลาแม่ทา",
+      "en": "Ban Sala Mae Tha",
+      "slug": "51020203"
+    },
+    "code": {
+      "dopa": "51020203"
+    },
+    "parent": {
+      "id": "510202",
+      "level": 3,
+      "name": {
+        "th": "ทาสบเส้า",
+        "en": "Tha Sop Sao",
+        "slug": "tha-sop-sao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "th": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "th": "แม่ทา",
+          "en": "Mae Tha",
+          "slug": "mae-tha"
+        }
+      },
+      {
+        "id": "510202",
+        "level": 3,
+        "name": {
+          "th": "ทาสบเส้า",
+          "en": "Tha Sop Sao",
+          "slug": "tha-sop-sao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.459335478813056",
+      "lon": "99.13758471608162"
+    },
+    "source": {}
+  },
+  {
+    "id": "51020204",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านทาผาตั้ง",
+      "en": "Ban Tha Pha Tang",
+      "slug": "51020204"
+    },
+    "code": {
+      "dopa": "51020204"
+    },
+    "parent": {
+      "id": "510202",
+      "level": 3,
+      "name": {
+        "th": "ทาสบเส้า",
+        "en": "Tha Sop Sao",
+        "slug": "tha-sop-sao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "th": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "th": "แม่ทา",
+          "en": "Mae Tha",
+          "slug": "mae-tha"
+        }
+      },
+      {
+        "id": "510202",
+        "level": 3,
+        "name": {
+          "th": "ทาสบเส้า",
+          "en": "Tha Sop Sao",
+          "slug": "tha-sop-sao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.46923342545372",
+      "lon": "99.165930300951"
+    },
+    "source": {}
+  },
+  {
+    "id": "51020205",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านจำตาเหิน",
+      "en": "Ban Cham Ta Thoen",
+      "slug": "51020205"
+    },
+    "code": {
+      "dopa": "51020205"
+    },
+    "parent": {
+      "id": "510202",
+      "level": 3,
+      "name": {
+        "th": "ทาสบเส้า",
+        "en": "Tha Sop Sao",
+        "slug": "tha-sop-sao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "th": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "th": "แม่ทา",
+          "en": "Mae Tha",
+          "slug": "mae-tha"
+        }
+      },
+      {
+        "id": "510202",
+        "level": 3,
+        "name": {
+          "th": "ทาสบเส้า",
+          "en": "Tha Sop Sao",
+          "slug": "tha-sop-sao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.469249961835768",
+      "lon": "99.12300288677216"
+    },
+    "source": {}
+  },
+  {
+    "id": "51020206",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านร้องเรือ",
+      "en": "Ban Rong Ruea",
+      "slug": "51020206"
+    },
+    "code": {
+      "dopa": "51020206"
+    },
+    "parent": {
+      "id": "510202",
+      "level": 3,
+      "name": {
+        "th": "ทาสบเส้า",
+        "en": "Tha Sop Sao",
+        "slug": "tha-sop-sao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "th": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "th": "แม่ทา",
+          "en": "Mae Tha",
+          "slug": "mae-tha"
+        }
+      },
+      {
+        "id": "510202",
+        "level": 3,
+        "name": {
+          "th": "ทาสบเส้า",
+          "en": "Tha Sop Sao",
+          "slug": "tha-sop-sao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.446192881504054",
+      "lon": "99.11542296409607"
+    },
+    "source": {}
+  },
+  {
+    "id": "51020207",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านดอยสารภี",
+      "en": "Ban Doi Saraphi",
+      "slug": "51020207"
+    },
+    "code": {
+      "dopa": "51020207"
+    },
+    "parent": {
+      "id": "510202",
+      "level": 3,
+      "name": {
+        "th": "ทาสบเส้า",
+        "en": "Tha Sop Sao",
+        "slug": "tha-sop-sao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "th": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "th": "แม่ทา",
+          "en": "Mae Tha",
+          "slug": "mae-tha"
+        }
+      },
+      {
+        "id": "510202",
+        "level": 3,
+        "name": {
+          "th": "ทาสบเส้า",
+          "en": "Tha Sop Sao",
+          "slug": "tha-sop-sao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.434911912029005",
+      "lon": "99.10050049424171"
+    },
+    "source": {}
+  },
+  {
+    "id": "51020208",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านดอนชัย",
+      "en": "Ban Don Chai",
+      "slug": "51020208"
+    },
+    "code": {
+      "dopa": "51020208"
+    },
+    "parent": {
+      "id": "510202",
+      "level": 3,
+      "name": {
+        "th": "ทาสบเส้า",
+        "en": "Tha Sop Sao",
+        "slug": "tha-sop-sao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "th": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "th": "แม่ทา",
+          "en": "Mae Tha",
+          "slug": "mae-tha"
+        }
+      },
+      {
+        "id": "510202",
+        "level": 3,
+        "name": {
+          "th": "ทาสบเส้า",
+          "en": "Tha Sop Sao",
+          "slug": "tha-sop-sao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.460063120086986",
+      "lon": "99.1253873705864"
+    },
+    "source": {}
+  },
+  {
+    "id": "51020209",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหล่ายทา",
+      "en": "Ban Lai Tha",
+      "slug": "51020209"
+    },
+    "code": {
+      "dopa": "51020209"
+    },
+    "parent": {
+      "id": "510202",
+      "level": 3,
+      "name": {
+        "th": "ทาสบเส้า",
+        "en": "Tha Sop Sao",
+        "slug": "tha-sop-sao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "th": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "th": "แม่ทา",
+          "en": "Mae Tha",
+          "slug": "mae-tha"
+        }
+      },
+      {
+        "id": "510202",
+        "level": 3,
+        "name": {
+          "th": "ทาสบเส้า",
+          "en": "Tha Sop Sao",
+          "slug": "tha-sop-sao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.451177289547324",
+      "lon": "99.14187759160995"
+    },
+    "source": {}
+  },
+  {
+    "id": "51020210",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านกอลุง",
+      "en": "Ban Ko Lung",
+      "slug": "51020210"
+    },
+    "code": {
+      "dopa": "51020210"
+    },
+    "parent": {
+      "id": "510202",
+      "level": 3,
+      "name": {
+        "th": "ทาสบเส้า",
+        "en": "Tha Sop Sao",
+        "slug": "tha-sop-sao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "th": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "th": "แม่ทา",
+          "en": "Mae Tha",
+          "slug": "mae-tha"
+        }
+      },
+      {
+        "id": "510202",
+        "level": 3,
+        "name": {
+          "th": "ทาสบเส้า",
+          "en": "Tha Sop Sao",
+          "slug": "tha-sop-sao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.44293092923226",
+      "lon": "99.10180941224098"
+    },
+    "source": {}
+  },
+  {
+    "id": "51020211",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านทาทุ่งยาว",
+      "en": "Ban Tha Thung Yao",
+      "slug": "51020211"
+    },
+    "code": {
+      "dopa": "51020211"
+    },
+    "parent": {
+      "id": "510202",
+      "level": 3,
+      "name": {
+        "th": "ทาสบเส้า",
+        "en": "Tha Sop Sao",
+        "slug": "tha-sop-sao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "th": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "th": "แม่ทา",
+          "en": "Mae Tha",
+          "slug": "mae-tha"
+        }
+      },
+      {
+        "id": "510202",
+        "level": 3,
+        "name": {
+          "th": "ทาสบเส้า",
+          "en": "Tha Sop Sao",
+          "slug": "tha-sop-sao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.472393117506552",
+      "lon": "99.18283492326736"
+    },
+    "source": {}
+  },
+  {
+    "id": "51020212",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านดอยแก้ว",
+      "en": "Ban Doi Kaeo",
+      "slug": "51020212"
+    },
+    "code": {
+      "dopa": "51020212"
+    },
+    "parent": {
+      "id": "510202",
+      "level": 3,
+      "name": {
+        "th": "ทาสบเส้า",
+        "en": "Tha Sop Sao",
+        "slug": "tha-sop-sao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "th": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "th": "แม่ทา",
+          "en": "Mae Tha",
+          "slug": "mae-tha"
+        }
+      },
+      {
+        "id": "510202",
+        "level": 3,
+        "name": {
+          "th": "ทาสบเส้า",
+          "en": "Tha Sop Sao",
+          "slug": "tha-sop-sao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.462884609000678",
+      "lon": "99.1619485616684"
+    },
+    "source": {}
+  },
+  {
+    "id": "51020213",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านทาดง",
+      "en": "Ban Tha Dong",
+      "slug": "51020213"
+    },
+    "code": {
+      "dopa": "51020213"
+    },
+    "parent": {
+      "id": "510202",
+      "level": 3,
+      "name": {
+        "th": "ทาสบเส้า",
+        "en": "Tha Sop Sao",
+        "slug": "tha-sop-sao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "th": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "th": "แม่ทา",
+          "en": "Mae Tha",
+          "slug": "mae-tha"
+        }
+      },
+      {
+        "id": "510202",
+        "level": 3,
+        "name": {
+          "th": "ทาสบเส้า",
+          "en": "Tha Sop Sao",
+          "slug": "tha-sop-sao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.440539130801856",
+      "lon": "104.108549803495"
+    },
+    "source": {}
+  },
+  {
+    "id": "51020214",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านสบสะป้วด",
+      "en": "Ban Sop Sa Puat",
+      "slug": "51020214"
+    },
+    "code": {
+      "dopa": "51020214"
+    },
+    "parent": {
+      "id": "510202",
+      "level": 3,
+      "name": {
+        "th": "ทาสบเส้า",
+        "en": "Tha Sop Sao",
+        "slug": "tha-sop-sao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "th": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "th": "แม่ทา",
+          "en": "Mae Tha",
+          "slug": "mae-tha"
+        }
+      },
+      {
+        "id": "510202",
+        "level": 3,
+        "name": {
+          "th": "ทาสบเส้า",
+          "en": "Tha Sop Sao",
+          "slug": "tha-sop-sao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.431887667022675",
+      "lon": "99.0850093960762"
+    },
+    "source": {}
+  },
+  {
+    "id": "51020215",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านผาสุข",
+      "en": "Ban Pha Suk",
+      "slug": "51020215"
+    },
+    "code": {
+      "dopa": "51020215"
+    },
+    "parent": {
+      "id": "510202",
+      "level": 3,
+      "name": {
+        "th": "ทาสบเส้า",
+        "en": "Tha Sop Sao",
+        "slug": "tha-sop-sao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "th": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "th": "แม่ทา",
+          "en": "Mae Tha",
+          "slug": "mae-tha"
+        }
+      },
+      {
+        "id": "510202",
+        "level": 3,
+        "name": {
+          "th": "ทาสบเส้า",
+          "en": "Tha Sop Sao",
+          "slug": "tha-sop-sao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.473464143230114",
+      "lon": "99.16222080588341"
+    },
+    "source": {}
+  },
+  {
+    "id": "51020216",
+    "level": 4,
+    "level_name": {
+      "th": "หมู่บ้าน",
+      "en": "village"
+    },
+    "name": {
+      "th": "บ้านหล่ายสาย",
+      "en": "Ban Lai Sai",
+      "slug": "51020216"
+    },
+    "code": {
+      "dopa": "51020216"
+    },
+    "parent": {
+      "id": "510202",
+      "level": 3,
+      "name": {
+        "th": "ทาสบเส้า",
+        "en": "Tha Sop Sao",
+        "slug": "tha-sop-sao"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "th": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun"
+        }
+      },
+      {
+        "id": "5102",
+        "level": 2,
+        "name": {
+          "th": "แม่ทา",
+          "en": "Mae Tha",
+          "slug": "mae-tha"
+        }
+      },
+      {
+        "id": "510202",
+        "level": 3,
+        "name": {
+          "th": "ทาสบเส้า",
+          "en": "Tha Sop Sao",
+          "slug": "tha-sop-sao"
+        }
+      }
+    ],
+    "children_count": {},
+    "metadata": {},
+    "geo": {
+      "lat": "18.452953220296532",
+      "lon": "99.11711543798447"
+    },
+    "source": {}
+  }
+]

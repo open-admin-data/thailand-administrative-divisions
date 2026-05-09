@@ -1,0 +1,61 @@
+{
+  "id": "670903",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "วังกวาง",
+    "en": "Wang Kwang",
+    "slug": "wang-kwang"
+  },
+  "code": {
+    "dopa": "670903"
+  },
+  "parent": {
+    "id": "6709",
+    "level": 2,
+    "name": {
+      "th": "น้ำหนาว",
+      "en": "Nam Nao",
+      "slug": "nam-nao"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "th": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun"
+      }
+    },
+    {
+      "id": "6709",
+      "level": 2,
+      "name": {
+        "th": "น้ำหนาว",
+        "en": "Nam Nao",
+        "slug": "nam-nao"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "67260"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.936",
+    "lon": "101.595"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/wang-kwang-670903/"
+  }
+}

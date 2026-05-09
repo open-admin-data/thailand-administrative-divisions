@@ -1,0 +1,61 @@
+{
+  "id": "300607",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองพลวง",
+    "en": "Nong Phluang",
+    "slug": "nong-phluang"
+  },
+  "code": {
+    "dopa": "300607"
+  },
+  "parent": {
+    "id": "3006",
+    "level": 2,
+    "name": {
+      "th": "จักราช",
+      "en": "Chakkarat",
+      "slug": "chakkarat"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "th": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima"
+      }
+    },
+    {
+      "id": "3006",
+      "level": 2,
+      "name": {
+        "th": "จักราช",
+        "en": "Chakkarat",
+        "slug": "chakkarat"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 16
+  },
+  "zip_codes": [
+    "30230"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.070",
+    "lon": "102.424"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-phluang-300607/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "760703",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "ปากทะเล",
+    "en": "Pak Thale",
+    "slug": "pak-thale"
+  },
+  "code": {
+    "dopa": "760703"
+  },
+  "parent": {
+    "id": "7607",
+    "level": 2,
+    "name": {
+      "th": "บ้านแหลม",
+      "en": "Ban Laem",
+      "slug": "ban-laem"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "th": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi"
+      }
+    },
+    {
+      "id": "7607",
+      "level": 2,
+      "name": {
+        "th": "บ้านแหลม",
+        "en": "Ban Laem",
+        "slug": "ban-laem"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "76110"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.144",
+    "lon": "100.040"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/pak-thale-760703/"
+  }
+}

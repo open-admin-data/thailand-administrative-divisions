@@ -1,0 +1,50 @@
+{
+  "id": "3615",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "เนินสง่า",
+    "en": "Noen Sa-nga",
+    "slug": "noen-sa-nga"
+  },
+  "code": {
+    "dopa": "3615"
+  },
+  "parent": {
+    "id": "36",
+    "level": 1,
+    "name": {
+      "th": "ชัยภูมิ",
+      "en": "Chaiyaphum",
+      "slug": "chaiyaphum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 4,
+    "villages": 48
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.527",
+    "lon": "102.016"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/noen-sa-nga-3615/"
+  }
+}

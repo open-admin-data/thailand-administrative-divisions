@@ -1,0 +1,61 @@
+{
+  "id": "360409",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองโพนงาม",
+    "en": "Nong Phon Ngam",
+    "slug": "nong-phon-ngam"
+  },
+  "code": {
+    "dopa": "360409"
+  },
+  "parent": {
+    "id": "3604",
+    "level": 2,
+    "name": {
+      "th": "เกษตรสมบูรณ์",
+      "en": "Kaset Sombun",
+      "slug": "kaset-sombun"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "th": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum"
+      }
+    },
+    {
+      "id": "3604",
+      "level": 2,
+      "name": {
+        "th": "เกษตรสมบูรณ์",
+        "en": "Kaset Sombun",
+        "slug": "kaset-sombun"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 15
+  },
+  "zip_codes": [
+    "36120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.434",
+    "lon": "101.877"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-phon-ngam-360409/"
+  }
+}

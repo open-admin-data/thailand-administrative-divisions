@@ -1,0 +1,61 @@
+{
+  "id": "620301",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คลองน้ำไหล",
+    "en": "Khlong Nam Lai",
+    "slug": "khlong-nam-lai"
+  },
+  "code": {
+    "dopa": "620301"
+  },
+  "parent": {
+    "id": "6203",
+    "level": 2,
+    "name": {
+      "th": "คลองลาน",
+      "en": "Khlong Lan",
+      "slug": "khlong-lan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "th": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet"
+      }
+    },
+    {
+      "id": "6203",
+      "level": 2,
+      "name": {
+        "th": "คลองลาน",
+        "en": "Khlong Lan",
+        "slug": "khlong-lan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 28
+  },
+  "zip_codes": [
+    "62180"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "16.157",
+    "lon": "99.144"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/khlong-nam-lai-620301/"
+  }
+}

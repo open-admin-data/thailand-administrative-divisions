@@ -1,0 +1,61 @@
+{
+  "id": "190109",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองยาว",
+    "en": "Nong Yao",
+    "slug": "nong-yao"
+  },
+  "code": {
+    "dopa": "190109"
+  },
+  "parent": {
+    "id": "1901",
+    "level": 2,
+    "name": {
+      "th": "เมืองสระบุรี",
+      "en": "Mueang Saraburi",
+      "slug": "mueang-saraburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "th": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi"
+      }
+    },
+    {
+      "id": "1901",
+      "level": 2,
+      "name": {
+        "th": "เมืองสระบุรี",
+        "en": "Mueang Saraburi",
+        "slug": "mueang-saraburi"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 10
+  },
+  "zip_codes": [
+    "18000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.472",
+    "lon": "100.890"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-yao-190109/"
+  }
+}

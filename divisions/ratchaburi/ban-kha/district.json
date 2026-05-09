@@ -1,0 +1,50 @@
+{
+  "id": "7010",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "บ้านคา",
+    "en": "Ban Kha",
+    "slug": "ban-kha"
+  },
+  "code": {
+    "dopa": "7010"
+  },
+  "parent": {
+    "id": "70",
+    "level": 1,
+    "name": {
+      "th": "ราชบุรี",
+      "en": "Ratchaburi",
+      "slug": "ratchaburi"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "th": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 3,
+    "villages": 41
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.448",
+    "lon": "99.462"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/ban-kha-7010/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "941004",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "สะนอ",
+    "en": "Sano",
+    "slug": "sano"
+  },
+  "code": {
+    "dopa": "941004"
+  },
+  "parent": {
+    "id": "9410",
+    "level": 2,
+    "name": {
+      "th": "ยะรัง",
+      "en": "Yarang",
+      "slug": "yarang"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "th": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani"
+      }
+    },
+    {
+      "id": "9410",
+      "level": 2,
+      "name": {
+        "th": "ยะรัง",
+        "en": "Yarang",
+        "slug": "yarang"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 4
+  },
+  "zip_codes": [
+    "94160"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "6.789",
+    "lon": "101.323"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/sano-941004/"
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "id": "130608",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "พืชอุดม",
+    "en": "Phuet Udom",
+    "slug": "phuet-udom"
+  },
+  "code": {
+    "dopa": "130608"
+  },
+  "parent": {
+    "id": "1306",
+    "level": 2,
+    "name": {
+      "th": "ลำลูกกา",
+      "en": "Lam Luk Ka",
+      "slug": "lam-luk-ka"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "th": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani"
+      }
+    },
+    {
+      "id": "1306",
+      "level": 2,
+      "name": {
+        "th": "ลำลูกกา",
+        "en": "Lam Luk Ka",
+        "slug": "lam-luk-ka"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "12150"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.975",
+    "lon": "100.896"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/phuet-udom-130608/"
+  }
+}

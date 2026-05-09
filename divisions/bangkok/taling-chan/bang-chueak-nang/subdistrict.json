@@ -1,0 +1,61 @@
+{
+  "id": "101907",
+  "level": 3,
+  "level_name": {
+    "th": "แขวง",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "แขวง บางเชือกหนัง",
+    "en": "Bang Chueak Nang",
+    "slug": "bang-chueak-nang"
+  },
+  "code": {
+    "dopa": "101907"
+  },
+  "parent": {
+    "id": "1019",
+    "level": 2,
+    "name": {
+      "th": "เขต ตลิ่งชัน",
+      "en": "Taling Chan",
+      "slug": "taling-chan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "th": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok"
+      }
+    },
+    {
+      "id": "1019",
+      "level": 2,
+      "name": {
+        "th": "เขต ตลิ่งชัน",
+        "en": "Taling Chan",
+        "slug": "taling-chan"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 0
+  },
+  "zip_codes": [
+    "10170"
+  ],
+  "metadata": {
+    "is_special_province": true
+  },
+  "geo": {
+    "lat": "13.751",
+    "lon": "100.419"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/bang-chueak-nang-101907/"
+  }
+}

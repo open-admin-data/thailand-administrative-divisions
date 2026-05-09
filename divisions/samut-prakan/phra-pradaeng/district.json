@@ -1,0 +1,50 @@
+{
+  "id": "1104",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "พระประแดง",
+    "en": "Phra Pradaeng",
+    "slug": "phra-pradaeng"
+  },
+  "code": {
+    "dopa": "1104"
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "th": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "th": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 15,
+    "villages": 180
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "13.656",
+    "lon": "100.533"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/phra-pradaeng-1104/"
+  }
+}

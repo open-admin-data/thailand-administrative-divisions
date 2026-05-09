@@ -1,0 +1,61 @@
+{
+  "id": "320112",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "คอโค",
+    "en": "Kho Kho",
+    "slug": "kho-kho"
+  },
+  "code": {
+    "dopa": "320112"
+  },
+  "parent": {
+    "id": "3201",
+    "level": 2,
+    "name": {
+      "th": "เมืองสุรินทร์",
+      "en": "Mueang Surin",
+      "slug": "mueang-surin"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3201",
+      "level": 2,
+      "name": {
+        "th": "เมืองสุรินทร์",
+        "en": "Mueang Surin",
+        "slug": "mueang-surin"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 12
+  },
+  "zip_codes": [
+    "32000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.903",
+    "lon": "103.425"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/kho-kho-320112/"
+  }
+}

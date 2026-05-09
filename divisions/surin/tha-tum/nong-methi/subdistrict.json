@@ -1,0 +1,61 @@
+{
+  "id": "320309",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "หนองเมธี",
+    "en": "Nong Methi",
+    "slug": "nong-methi"
+  },
+  "code": {
+    "dopa": "320309"
+  },
+  "parent": {
+    "id": "3203",
+    "level": 2,
+    "name": {
+      "th": "ท่าตูม",
+      "en": "Tha Tum",
+      "slug": "tha-tum"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "th": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin"
+      }
+    },
+    {
+      "id": "3203",
+      "level": 2,
+      "name": {
+        "th": "ท่าตูม",
+        "en": "Tha Tum",
+        "slug": "tha-tum"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 11
+  },
+  "zip_codes": [
+    "32120"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "15.232",
+    "lon": "103.615"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/nong-methi-320309/"
+  }
+}

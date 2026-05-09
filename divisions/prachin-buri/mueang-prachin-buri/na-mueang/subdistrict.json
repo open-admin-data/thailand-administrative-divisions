@@ -1,0 +1,61 @@
+{
+  "id": "250102",
+  "level": 3,
+  "level_name": {
+    "th": "ตำบล",
+    "en": "subdistrict"
+  },
+  "name": {
+    "th": "รอบเมือง",
+    "en": "Na Mueang",
+    "slug": "na-mueang"
+  },
+  "code": {
+    "dopa": "250102"
+  },
+  "parent": {
+    "id": "2501",
+    "level": 2,
+    "name": {
+      "th": "เมืองปราจีนบุรี",
+      "en": "Mueang Prachin Buri",
+      "slug": "mueang-prachin-buri"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "th": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri"
+      }
+    },
+    {
+      "id": "2501",
+      "level": 2,
+      "name": {
+        "th": "เมืองปราจีนบุรี",
+        "en": "Mueang Prachin Buri",
+        "slug": "mueang-prachin-buri"
+      }
+    }
+  ],
+  "children_count": {
+    "villages": 9
+  },
+  "zip_codes": [
+    "25000"
+  ],
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.066",
+    "lon": "101.327"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/subdistrict/na-mueang-250102/"
+  }
+}

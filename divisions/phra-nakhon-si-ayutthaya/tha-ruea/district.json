@@ -1,0 +1,50 @@
+{
+  "id": "1402",
+  "level": 2,
+  "level_name": {
+    "th": "อำเภอ",
+    "en": "district"
+  },
+  "name": {
+    "th": "ท่าเรือ",
+    "en": "Tha Ruea",
+    "slug": "tha-ruea"
+  },
+  "code": {
+    "dopa": "1402"
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "th": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "th": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistricts": 10,
+    "villages": 91
+  },
+  "metadata": {
+    "is_special_province": false
+  },
+  "geo": {
+    "lat": "14.566",
+    "lon": "100.719"
+  },
+  "source": {
+    "url": "https://thaiaddress.org/district/tha-ruea-1402/"
+  }
+}
