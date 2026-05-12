@@ -192,6 +192,13 @@ const villageNamesMap = fs.existsSync(VILLAGE_NAMES_FILE)
   : {};
 console.log(`  Village names (tambon) loaded: ${Object.keys(villageNamesMap).length}`);
 
+// Load AI-generated transliteration for villages not in tambon
+const VILLAGE_AI_FILE = path.join(__dirname, 'village-names-ai.json');
+const villageAiMap = fs.existsSync(VILLAGE_AI_FILE)
+  ? JSON.parse(fs.readFileSync(VILLAGE_AI_FILE, 'utf8'))
+  : {};
+console.log(`  Village names (AI transliteration) loaded: ${Object.keys(villageAiMap).length}`);
+
 // Load village data from Villages_Thailand (ChangSittikon)
 console.log('  Loading village data...');
 const villagesMap = new Map();
@@ -214,7 +221,7 @@ if (fs.existsSync(VILLAGES_DIR)) {
         level_name: { th: 'หมู่บ้าน', en: 'village' },
         name: {
           th: villageNamesMap[v.mcode]?.th || v.mname || '',
-          en: villageNamesMap[v.mcode]?.en || '',
+          en: villageNamesMap[v.mcode]?.en || villageAiMap[v.mcode] || '',
           slug,
         },
         code: { dopa: v.mcode },

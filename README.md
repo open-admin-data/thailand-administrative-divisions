@@ -17,7 +17,7 @@ All data is sourced from [ThaiAddress.org](https://thaiaddress.org) and publishe
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 (data) + MIT (code) |
 | Source | [ThaiAddress.org](https://thaiaddress.org) |
-| Last Updated | 2026-05-09 |
+| Last Updated | 2026-05-12 |
 
 ## Browse by Province / เรียกดูตามจังหวัด
 
