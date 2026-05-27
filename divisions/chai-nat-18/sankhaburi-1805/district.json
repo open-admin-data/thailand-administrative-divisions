@@ -1,0 +1,47 @@
+{
+  "id": "1805",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สรรคบุรี",
+    "en": "Sankhaburi",
+    "slug": "sankhaburi-1805"
+  },
+  "code": {
+    "id": "1805",
+    "iso": null
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "local": "ชัยนาท",
+      "en": "Chai Nat",
+      "slug": "chai-nat-18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat-18"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.096",
+    "lon": "100.203"
+  },
+  "metadata": {},
+  "source": {}
+}

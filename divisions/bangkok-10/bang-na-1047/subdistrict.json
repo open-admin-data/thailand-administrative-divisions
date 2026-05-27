@@ -1,0 +1,58 @@
+[
+  {
+    "id": "104701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางนา",
+      "en": "Bang Na",
+      "slug": "bang-na-104701"
+    },
+    "code": {
+      "id": "104701",
+      "iso": null
+    },
+    "parent": {
+      "id": "1047",
+      "level": 2,
+      "name": {
+        "local": "บางนา",
+        "en": "Bang Na",
+        "slug": "bang-na-1047"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1047",
+        "level": 2,
+        "name": {
+          "local": "บางนา",
+          "en": "Bang Na",
+          "slug": "bang-na-1047"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10260"
+    ],
+    "geo": {
+      "lat": "13.672",
+      "lon": "100.616"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

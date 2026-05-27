@@ -1,0 +1,47 @@
+{
+  "id": "6709",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "น้ำหนาว",
+    "en": "Nam Nao",
+    "slug": "nam-nao-6709"
+  },
+  "code": {
+    "id": "6709",
+    "iso": null
+  },
+  "parent": {
+    "id": "67",
+    "level": 1,
+    "name": {
+      "local": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun-67"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "local": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun-67"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.709",
+    "lon": "101.71"
+  },
+  "metadata": {},
+  "source": {}
+}

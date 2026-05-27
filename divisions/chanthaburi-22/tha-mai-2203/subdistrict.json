@@ -1,0 +1,786 @@
+[
+  {
+    "id": "220304",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ่อพุ",
+      "en": "Bo Phu",
+      "slug": "bo-phu-220304"
+    },
+    "code": {
+      "id": "220304",
+      "iso": null
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "local": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai-2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "local": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai-2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22120"
+    ],
+    "geo": {
+      "lat": "12.595",
+      "lon": "102.028"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220312",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โขมง",
+      "en": "Khamong",
+      "slug": "khamong-220312"
+    },
+    "code": {
+      "id": "220312",
+      "iso": null
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "local": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai-2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "local": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai-2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22170"
+    ],
+    "geo": {
+      "lat": "12.62",
+      "lon": "101.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220307",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เขาบายศรี",
+      "en": "Khao Baisi",
+      "slug": "khao-baisi-220307"
+    },
+    "code": {
+      "id": "220307",
+      "iso": null
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "local": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai-2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "local": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai-2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22120"
+    ],
+    "geo": {
+      "lat": "12.74",
+      "lon": "102.061"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220324",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เขาแก้ว",
+      "en": "Khao Kaeo",
+      "slug": "khao-kaeo-220324"
+    },
+    "code": {
+      "id": "220324",
+      "iso": null
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "local": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai-2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "local": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai-2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22170"
+    ],
+    "geo": {
+      "lat": "12.867",
+      "lon": "101.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220306",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เขาวัว",
+      "en": "Khao Wua",
+      "slug": "khao-wua-220306"
+    },
+    "code": {
+      "id": "220306",
+      "iso": null
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "local": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai-2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "local": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai-2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22120"
+    ],
+    "geo": {
+      "lat": "12.637",
+      "lon": "102.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220314",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองขุด",
+      "en": "Khlong Khut",
+      "slug": "khlong-khut-220314"
+    },
+    "code": {
+      "id": "220314",
+      "iso": null
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "local": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai-2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "local": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai-2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22120"
+    ],
+    "geo": {
+      "lat": "12.563",
+      "lon": "101.935"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220305",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "พลอยแหวน",
+      "en": "Phloi Waen",
+      "slug": "phloi-waen-220305"
+    },
+    "code": {
+      "id": "220305",
+      "iso": null
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "local": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai-2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "local": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai-2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22120"
+    ],
+    "geo": {
+      "lat": "12.617",
+      "lon": "102.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220309",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งเบญจา",
+      "en": "Ramphan",
+      "slug": "ramphan-220309"
+    },
+    "code": {
+      "id": "220309",
+      "iso": null
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "local": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai-2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "local": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai-2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22170"
+    ],
+    "geo": {
+      "lat": "12.814",
+      "lon": "102.014"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220311",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "รำพัน",
+      "en": "Ramphan",
+      "slug": "ramphan-220311"
+    },
+    "code": {
+      "id": "220311",
+      "iso": null
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "local": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai-2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "local": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai-2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22170"
+    ],
+    "geo": {
+      "lat": "12.669",
+      "lon": "101.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สีพยา",
+      "en": "Si Phaya",
+      "slug": "si-phaya-220303"
+    },
+    "code": {
+      "id": "220303",
+      "iso": null
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "local": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai-2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "local": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai-2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22120"
+    ],
+    "geo": {
+      "lat": "12.578",
+      "lon": "102.029"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220308",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สองพี่น้อง",
+      "en": "Song Phi Nong",
+      "slug": "song-phi-nong-220308"
+    },
+    "code": {
+      "id": "220308",
+      "iso": null
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "local": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai-2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "local": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai-2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22120"
+    ],
+    "geo": {
+      "lat": "12.672",
+      "lon": "101.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220313",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตะกาดเง้า",
+      "en": "Takat Ngao",
+      "slug": "takat-ngao-220313"
+    },
+    "code": {
+      "id": "220313",
+      "iso": null
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "local": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai-2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "local": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai-2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22120"
+    ],
+    "geo": {
+      "lat": "12.581",
+      "lon": "101.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าใหม่",
+      "en": "Tha Mai",
+      "slug": "tha-mai-220301"
+    },
+    "code": {
+      "id": "220301",
+      "iso": null
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "local": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai-2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "local": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai-2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22120"
+    ],
+    "geo": {
+      "lat": "12.628",
+      "lon": "101.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ยายร้า",
+      "en": "Yai Ra",
+      "slug": "yai-ra-220302"
+    },
+    "code": {
+      "id": "220302",
+      "iso": null
+    },
+    "parent": {
+      "id": "2203",
+      "level": 2,
+      "name": {
+        "local": "ท่าใหม่",
+        "en": "Tha Mai",
+        "slug": "tha-mai-2203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2203",
+        "level": 2,
+        "name": {
+          "local": "ท่าใหม่",
+          "en": "Tha Mai",
+          "slug": "tha-mai-2203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22120"
+    ],
+    "geo": {
+      "lat": "12.612",
+      "lon": "102.027"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

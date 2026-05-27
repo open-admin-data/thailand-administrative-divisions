@@ -1,0 +1,47 @@
+{
+  "id": "2306",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เกาะกูด",
+    "en": "Ko Kut",
+    "slug": "ko-kut-2306"
+  },
+  "code": {
+    "id": "2306",
+    "iso": null
+  },
+  "parent": {
+    "id": "23",
+    "level": 1,
+    "name": {
+      "local": "ตราด",
+      "en": "Trat",
+      "slug": "trat-23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "local": "ตราด",
+        "en": "Trat",
+        "slug": "trat-23"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.817",
+    "lon": "102.397"
+  },
+  "metadata": {},
+  "source": {}
+}

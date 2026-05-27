@@ -1,0 +1,47 @@
+{
+  "id": "6014",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "แม่เปิน",
+    "en": "Mae Poen",
+    "slug": "mae-poen-6014"
+  },
+  "code": {
+    "id": "6014",
+    "iso": null
+  },
+  "parent": {
+    "id": "60",
+    "level": 1,
+    "name": {
+      "local": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan-60"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "local": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan-60"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.738",
+    "lon": "99.294"
+  },
+  "metadata": {},
+  "source": {}
+}

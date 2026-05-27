@@ -1,0 +1,47 @@
+{
+  "id": "2002",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ้านบึง",
+    "en": "Ban Bueng",
+    "slug": "ban-bueng-2002"
+  },
+  "code": {
+    "id": "2002",
+    "iso": null
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "local": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri-20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri-20"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.33",
+    "lon": "101.072"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "5408",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "หนองม่วงไข่",
+    "en": "Nong Muang Khai",
+    "slug": "nong-muang-khai-5408"
+  },
+  "code": {
+    "id": "5408",
+    "iso": null
+  },
+  "parent": {
+    "id": "54",
+    "level": 1,
+    "name": {
+      "local": "แพร่",
+      "en": "Phrae",
+      "slug": "phrae-54"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "local": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae-54"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.271",
+    "lon": "100.218"
+  },
+  "metadata": {},
+  "source": {}
+}

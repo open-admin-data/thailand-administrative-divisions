@@ -1,0 +1,47 @@
+{
+  "id": "3601",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองชัยภูมิ",
+    "en": "Mueang Chaiyaphum",
+    "slug": "mueang-chaiyaphum-3601"
+  },
+  "code": {
+    "id": "3601",
+    "iso": null
+  },
+  "parent": {
+    "id": "36",
+    "level": 1,
+    "name": {
+      "local": "ชัยภูมิ",
+      "en": "Chaiyaphum",
+      "slug": "chaiyaphum-36"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum-36"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.742",
+    "lon": "102.022"
+  },
+  "metadata": {},
+  "source": {}
+}

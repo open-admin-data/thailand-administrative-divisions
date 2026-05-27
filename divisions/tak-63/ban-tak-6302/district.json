@@ -1,0 +1,47 @@
+{
+  "id": "6302",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ้านตาก",
+    "en": "Ban Tak",
+    "slug": "ban-tak-6302"
+  },
+  "code": {
+    "id": "6302",
+    "iso": null
+  },
+  "parent": {
+    "id": "63",
+    "level": 1,
+    "name": {
+      "local": "ตาก",
+      "en": "Tak",
+      "slug": "tak-63"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "ตาก",
+        "en": "Tak",
+        "slug": "tak-63"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.001",
+    "lon": "99.068"
+  },
+  "metadata": {},
+  "source": {}
+}

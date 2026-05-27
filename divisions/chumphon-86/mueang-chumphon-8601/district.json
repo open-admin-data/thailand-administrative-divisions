@@ -1,0 +1,47 @@
+{
+  "id": "8601",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองชุมพร",
+    "en": "Mueang Chumphon",
+    "slug": "mueang-chumphon-8601"
+  },
+  "code": {
+    "id": "8601",
+    "iso": null
+  },
+  "parent": {
+    "id": "86",
+    "level": 1,
+    "name": {
+      "local": "ชุมพร",
+      "en": "Chumphon",
+      "slug": "chumphon-86"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "local": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon-86"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.459",
+    "lon": "99.403"
+  },
+  "metadata": {},
+  "source": {}
+}

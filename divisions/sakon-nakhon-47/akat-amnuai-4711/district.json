@@ -1,0 +1,47 @@
+{
+  "id": "4711",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "อากาศอำนวย",
+    "en": "Akat Amnuai",
+    "slug": "akat-amnuai-4711"
+  },
+  "code": {
+    "id": "4711",
+    "iso": null
+  },
+  "parent": {
+    "id": "47",
+    "level": 1,
+    "name": {
+      "local": "สกลนคร",
+      "en": "Sakon Nakhon",
+      "slug": "sakon-nakhon-47"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "local": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon-47"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.718",
+    "lon": "103.92"
+  },
+  "metadata": {},
+  "source": {}
+}

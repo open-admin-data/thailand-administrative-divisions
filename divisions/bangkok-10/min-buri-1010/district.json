@@ -1,0 +1,47 @@
+{
+  "id": "1010",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "มีนบุรี",
+    "en": "Min Buri",
+    "slug": "min-buri-1010"
+  },
+  "code": {
+    "id": "1010",
+    "iso": null
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "local": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok-10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok-10"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.804",
+    "lon": "100.723"
+  },
+  "metadata": {},
+  "source": {}
+}

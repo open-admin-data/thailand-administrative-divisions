@@ -1,0 +1,47 @@
+{
+  "id": "8412",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ้านนาสาร",
+    "en": "Ban Na San",
+    "slug": "ban-na-san-8412"
+  },
+  "code": {
+    "id": "8412",
+    "iso": null
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "local": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani-84"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "local": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani-84"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.749",
+    "lon": "99.348"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "303003",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บัวลาย",
+      "en": "Bua Lai",
+      "slug": "bua-lai-303003"
+    },
+    "code": {
+      "id": "303003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3030",
+      "level": 2,
+      "name": {
+        "local": "บัวลาย",
+        "en": "Bua Lai",
+        "slug": "bua-lai-3030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "local": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima-30"
+        }
+      },
+      {
+        "id": "3030",
+        "level": 2,
+        "name": {
+          "local": "บัวลาย",
+          "en": "Bua Lai",
+          "slug": "bua-lai-3030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30120"
+    ],
+    "geo": {
+      "lat": "15.661",
+      "lon": "102.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "303001",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เมืองพะไล",
+      "en": "Mueang Phalai",
+      "slug": "mueang-phalai-303001"
+    },
+    "code": {
+      "id": "303001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3030",
+      "level": 2,
+      "name": {
+        "local": "บัวลาย",
+        "en": "Bua Lai",
+        "slug": "bua-lai-3030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "local": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima-30"
+        }
+      },
+      {
+        "id": "3030",
+        "level": 2,
+        "name": {
+          "local": "บัวลาย",
+          "en": "Bua Lai",
+          "slug": "bua-lai-3030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30120"
+    ],
+    "geo": {
+      "lat": "15.649",
+      "lon": "102.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "303002",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โนนจาน",
+      "en": "Non Chan",
+      "slug": "non-chan-303002"
+    },
+    "code": {
+      "id": "303002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3030",
+      "level": 2,
+      "name": {
+        "local": "บัวลาย",
+        "en": "Bua Lai",
+        "slug": "bua-lai-3030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "local": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima-30"
+        }
+      },
+      {
+        "id": "3030",
+        "level": 2,
+        "name": {
+          "local": "บัวลาย",
+          "en": "Bua Lai",
+          "slug": "bua-lai-3030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30120"
+    ],
+    "geo": {
+      "lat": "15.699",
+      "lon": "102.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "303004",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองหว้า",
+      "en": "Nong Wa",
+      "slug": "nong-wa-303004"
+    },
+    "code": {
+      "id": "303004",
+      "iso": null
+    },
+    "parent": {
+      "id": "3030",
+      "level": 2,
+      "name": {
+        "local": "บัวลาย",
+        "en": "Bua Lai",
+        "slug": "bua-lai-3030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "local": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima-30"
+        }
+      },
+      {
+        "id": "3030",
+        "level": 2,
+        "name": {
+          "local": "บัวลาย",
+          "en": "Bua Lai",
+          "slug": "bua-lai-3030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30120"
+    ],
+    "geo": {
+      "lat": "15.667",
+      "lon": "102.573"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

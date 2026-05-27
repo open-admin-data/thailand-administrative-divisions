@@ -1,0 +1,47 @@
+{
+  "id": "6013",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "แม่วงก์",
+    "en": "Mae Wong",
+    "slug": "mae-wong-6013"
+  },
+  "code": {
+    "id": "6013",
+    "iso": null
+  },
+  "parent": {
+    "id": "60",
+    "level": 1,
+    "name": {
+      "local": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan-60"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "local": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan-60"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.883",
+    "lon": "99.516"
+  },
+  "metadata": {},
+  "source": {}
+}

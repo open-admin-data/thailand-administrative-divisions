@@ -1,0 +1,47 @@
+{
+  "id": "1307",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สามโคก",
+    "en": "Sam Khok",
+    "slug": "sam-khok-1307"
+  },
+  "code": {
+    "id": "1307",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani-13"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.043",
+    "lon": "100.544"
+  },
+  "metadata": {},
+  "source": {}
+}

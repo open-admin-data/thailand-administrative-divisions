@@ -1,0 +1,47 @@
+{
+  "id": "4613",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สมเด็จ",
+    "en": "Somdet",
+    "slug": "somdet-4613"
+  },
+  "code": {
+    "id": "4613",
+    "iso": null
+  },
+  "parent": {
+    "id": "46",
+    "level": 1,
+    "name": {
+      "local": "กาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin-46"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin-46"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.759",
+    "lon": "103.679"
+  },
+  "metadata": {},
+  "source": {}
+}

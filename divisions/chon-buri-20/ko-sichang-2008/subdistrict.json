@@ -1,0 +1,58 @@
+[
+  {
+    "id": "200801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าเทววงษ์",
+      "en": "Tha Tewatong",
+      "slug": "tha-tewatong-200801"
+    },
+    "code": {
+      "id": "200801",
+      "iso": null
+    },
+    "parent": {
+      "id": "2008",
+      "level": 2,
+      "name": {
+        "local": "เกาะสีชัง",
+        "en": "Ko Sichang",
+        "slug": "ko-sichang-2008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri-20"
+        }
+      },
+      {
+        "id": "2008",
+        "level": 2,
+        "name": {
+          "local": "เกาะสีชัง",
+          "en": "Ko Sichang",
+          "slug": "ko-sichang-2008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20120"
+    ],
+    "geo": {
+      "lat": "13.151",
+      "lon": "100.809"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

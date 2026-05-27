@@ -1,0 +1,47 @@
+{
+  "id": "1607",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ท่าหลวง",
+    "en": "Tha Luang",
+    "slug": "tha-luang-1607"
+  },
+  "code": {
+    "id": "1607",
+    "iso": null
+  },
+  "parent": {
+    "id": "16",
+    "level": 1,
+    "name": {
+      "local": "ลพบุรี",
+      "en": "Loburi",
+      "slug": "loburi-16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi-16"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.023",
+    "lon": "101.184"
+  },
+  "metadata": {},
+  "source": {}
+}

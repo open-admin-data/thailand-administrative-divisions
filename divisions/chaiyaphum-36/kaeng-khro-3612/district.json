@@ -1,0 +1,47 @@
+{
+  "id": "3612",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "แก้งคร้อ",
+    "en": "Kaeng Khro",
+    "slug": "kaeng-khro-3612"
+  },
+  "code": {
+    "id": "3612",
+    "iso": null
+  },
+  "parent": {
+    "id": "36",
+    "level": 1,
+    "name": {
+      "local": "ชัยภูมิ",
+      "en": "Chaiyaphum",
+      "slug": "chaiyaphum-36"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum-36"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.056",
+    "lon": "102.074"
+  },
+  "metadata": {},
+  "source": {}
+}

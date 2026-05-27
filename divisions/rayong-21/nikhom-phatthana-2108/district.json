@@ -1,0 +1,47 @@
+{
+  "id": "2108",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "นิคมพัฒนา",
+    "en": "Nikhom Phatthana",
+    "slug": "nikhom-phatthana-2108"
+  },
+  "code": {
+    "id": "2108",
+    "iso": null
+  },
+  "parent": {
+    "id": "21",
+    "level": 1,
+    "name": {
+      "local": "ระยอง",
+      "en": "Rayong",
+      "slug": "rayong-21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong-21"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.856",
+    "lon": "101.177"
+  },
+  "metadata": {},
+  "source": {}
+}

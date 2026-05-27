@@ -1,0 +1,47 @@
+{
+  "id": "4412",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "กุดรัง",
+    "en": "Kud Rang",
+    "slug": "kud-rang-4412"
+  },
+  "code": {
+    "id": "4412",
+    "iso": null
+  },
+  "parent": {
+    "id": "44",
+    "level": 1,
+    "name": {
+      "local": "มหาสารคาม",
+      "en": "Maha Sarakham",
+      "slug": "maha-sarakham-44"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham-44"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.123",
+    "lon": "103.049"
+  },
+  "metadata": {},
+  "source": {}
+}

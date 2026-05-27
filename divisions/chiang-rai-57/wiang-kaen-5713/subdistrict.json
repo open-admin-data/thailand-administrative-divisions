@@ -1,0 +1,226 @@
+[
+  {
+    "id": "571303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หล่ายงาว",
+      "en": "Lai Ngao",
+      "slug": "lai-ngao-571303"
+    },
+    "code": {
+      "id": "571303",
+      "iso": null
+    },
+    "parent": {
+      "id": "5713",
+      "level": 2,
+      "name": {
+        "local": "เวียงแก่น",
+        "en": "Wiang Kaen",
+        "slug": "wiang-kaen-5713"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5713",
+        "level": 2,
+        "name": {
+          "local": "เวียงแก่น",
+          "en": "Wiang Kaen",
+          "slug": "wiang-kaen-5713"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57310"
+    ],
+    "geo": {
+      "lat": "20.117",
+      "lon": "100.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "571301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ม่วงยาย",
+      "en": "Muang Yai",
+      "slug": "muang-yai-571301"
+    },
+    "code": {
+      "id": "571301",
+      "iso": null
+    },
+    "parent": {
+      "id": "5713",
+      "level": 2,
+      "name": {
+        "local": "เวียงแก่น",
+        "en": "Wiang Kaen",
+        "slug": "wiang-kaen-5713"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5713",
+        "level": 2,
+        "name": {
+          "local": "เวียงแก่น",
+          "en": "Wiang Kaen",
+          "slug": "wiang-kaen-5713"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57310"
+    ],
+    "geo": {
+      "lat": "20.108",
+      "lon": "100.539"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "571302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปอ",
+      "en": "Por",
+      "slug": "por-571302"
+    },
+    "code": {
+      "id": "571302",
+      "iso": null
+    },
+    "parent": {
+      "id": "5713",
+      "level": 2,
+      "name": {
+        "local": "เวียงแก่น",
+        "en": "Wiang Kaen",
+        "slug": "wiang-kaen-5713"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5713",
+        "level": 2,
+        "name": {
+          "local": "เวียงแก่น",
+          "en": "Wiang Kaen",
+          "slug": "wiang-kaen-5713"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57310"
+    ],
+    "geo": {
+      "lat": "19.94",
+      "lon": "100.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "571304",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าข้าม",
+      "en": "Tha Kham",
+      "slug": "tha-kham-571304"
+    },
+    "code": {
+      "id": "571304",
+      "iso": null
+    },
+    "parent": {
+      "id": "5713",
+      "level": 2,
+      "name": {
+        "local": "เวียงแก่น",
+        "en": "Wiang Kaen",
+        "slug": "wiang-kaen-5713"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5713",
+        "level": 2,
+        "name": {
+          "local": "เวียงแก่น",
+          "en": "Wiang Kaen",
+          "slug": "wiang-kaen-5713"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57310"
+    ],
+    "geo": {
+      "lat": "20.042",
+      "lon": "100.52"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

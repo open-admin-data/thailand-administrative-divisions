@@ -1,0 +1,47 @@
+{
+  "id": "9602",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ตากใบ",
+    "en": "Tak Bai",
+    "slug": "tak-bai-9602"
+  },
+  "code": {
+    "id": "9602",
+    "iso": null
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "local": "นราธิวาส",
+      "en": "Narathiwat",
+      "slug": "narathiwat-96"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat-96"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.22",
+    "lon": "102.059"
+  },
+  "metadata": {},
+  "source": {}
+}

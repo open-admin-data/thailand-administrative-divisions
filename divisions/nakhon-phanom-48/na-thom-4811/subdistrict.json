@@ -1,0 +1,170 @@
+[
+  {
+    "id": "481103",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดอนเตย",
+      "en": "Don Toei",
+      "slug": "don-toei-481103"
+    },
+    "code": {
+      "id": "481103",
+      "iso": null
+    },
+    "parent": {
+      "id": "4811",
+      "level": 2,
+      "name": {
+        "local": "นาทม",
+        "en": "Na Thom",
+        "slug": "na-thom-4811"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom-48"
+        }
+      },
+      {
+        "id": "4811",
+        "level": 2,
+        "name": {
+          "local": "นาทม",
+          "en": "Na Thom",
+          "slug": "na-thom-4811"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48140"
+    ],
+    "geo": {
+      "lat": "17.798",
+      "lon": "104.108"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "481101",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาทม",
+      "en": "Na Thom",
+      "slug": "na-thom-481101"
+    },
+    "code": {
+      "id": "481101",
+      "iso": null
+    },
+    "parent": {
+      "id": "4811",
+      "level": 2,
+      "name": {
+        "local": "นาทม",
+        "en": "Na Thom",
+        "slug": "na-thom-4811"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom-48"
+        }
+      },
+      {
+        "id": "4811",
+        "level": 2,
+        "name": {
+          "local": "นาทม",
+          "en": "Na Thom",
+          "slug": "na-thom-4811"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48140"
+    ],
+    "geo": {
+      "lat": "17.845",
+      "lon": "104.037"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "481102",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองซน",
+      "en": "Nong Son",
+      "slug": "nong-son-481102"
+    },
+    "code": {
+      "id": "481102",
+      "iso": null
+    },
+    "parent": {
+      "id": "4811",
+      "level": 2,
+      "name": {
+        "local": "นาทม",
+        "en": "Na Thom",
+        "slug": "na-thom-4811"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom-48"
+        }
+      },
+      {
+        "id": "4811",
+        "level": 2,
+        "name": {
+          "local": "นาทม",
+          "en": "Na Thom",
+          "slug": "na-thom-4811"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48140"
+    ],
+    "geo": {
+      "lat": "17.866",
+      "lon": "104.147"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

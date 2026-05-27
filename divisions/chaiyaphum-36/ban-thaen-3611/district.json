@@ -1,0 +1,47 @@
+{
+  "id": "3611",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ้านแท่น",
+    "en": "Ban Thaen",
+    "slug": "ban-thaen-3611"
+  },
+  "code": {
+    "id": "3611",
+    "iso": null
+  },
+  "parent": {
+    "id": "36",
+    "level": 1,
+    "name": {
+      "local": "ชัยภูมิ",
+      "en": "Chaiyaphum",
+      "slug": "chaiyaphum-36"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum-36"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.401",
+    "lon": "102.418"
+  },
+  "metadata": {},
+  "source": {}
+}

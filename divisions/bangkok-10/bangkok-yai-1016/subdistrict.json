@@ -1,0 +1,114 @@
+[
+  {
+    "id": "101601",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วัดอรุณ",
+      "en": "Wat Arun",
+      "slug": "wat-arun-101601"
+    },
+    "code": {
+      "id": "101601",
+      "iso": null
+    },
+    "parent": {
+      "id": "1016",
+      "level": 2,
+      "name": {
+        "local": "บางกอกใหญ่",
+        "en": "Bangkok Yai",
+        "slug": "bangkok-yai-1016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1016",
+        "level": 2,
+        "name": {
+          "local": "บางกอกใหญ่",
+          "en": "Bangkok Yai",
+          "slug": "bangkok-yai-1016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10600"
+    ],
+    "geo": {
+      "lat": "13.743",
+      "lon": "100.486"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "101602",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วัดท่าพระ",
+      "en": "Wat Tha Phra",
+      "slug": "wat-tha-phra-101602"
+    },
+    "code": {
+      "id": "101602",
+      "iso": null
+    },
+    "parent": {
+      "id": "1016",
+      "level": 2,
+      "name": {
+        "local": "บางกอกใหญ่",
+        "en": "Bangkok Yai",
+        "slug": "bangkok-yai-1016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1016",
+        "level": 2,
+        "name": {
+          "local": "บางกอกใหญ่",
+          "en": "Bangkok Yai",
+          "slug": "bangkok-yai-1016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10600"
+    ],
+    "geo": {
+      "lat": "13.733",
+      "lon": "100.475"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

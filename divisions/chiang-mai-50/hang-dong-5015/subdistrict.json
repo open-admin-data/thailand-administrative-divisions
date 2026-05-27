@@ -1,0 +1,618 @@
+[
+  {
+    "id": "501510",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านปง",
+      "en": "Ban Pong",
+      "slug": "ban-pong-501510"
+    },
+    "code": {
+      "id": "501510",
+      "iso": null
+    },
+    "parent": {
+      "id": "5015",
+      "level": 2,
+      "name": {
+        "local": "หางดง",
+        "en": "Hang Dong",
+        "slug": "hang-dong-5015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5015",
+        "level": 2,
+        "name": {
+          "local": "หางดง",
+          "en": "Hang Dong",
+          "slug": "hang-dong-5015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50230"
+    ],
+    "geo": {
+      "lat": "18.769",
+      "lon": "98.868"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "501507",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านแหวน",
+      "en": "Ban Waen",
+      "slug": "ban-waen-501507"
+    },
+    "code": {
+      "id": "501507",
+      "iso": null
+    },
+    "parent": {
+      "id": "5015",
+      "level": 2,
+      "name": {
+        "local": "หางดง",
+        "en": "Hang Dong",
+        "slug": "hang-dong-5015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5015",
+        "level": 2,
+        "name": {
+          "local": "หางดง",
+          "en": "Hang Dong",
+          "slug": "hang-dong-5015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50230"
+    ],
+    "geo": {
+      "lat": "18.701",
+      "lon": "98.944"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "501503",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หารแก้ว",
+      "en": "Han Kaeo",
+      "slug": "han-kaeo-501503"
+    },
+    "code": {
+      "id": "501503",
+      "iso": null
+    },
+    "parent": {
+      "id": "5015",
+      "level": 2,
+      "name": {
+        "local": "หางดง",
+        "en": "Hang Dong",
+        "slug": "hang-dong-5015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5015",
+        "level": 2,
+        "name": {
+          "local": "หางดง",
+          "en": "Hang Dong",
+          "slug": "hang-dong-5015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50230"
+    ],
+    "geo": {
+      "lat": "18.65",
+      "lon": "98.922"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "501501",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หางดง",
+      "en": "Hang Dong",
+      "slug": "hang-dong-501501"
+    },
+    "code": {
+      "id": "501501",
+      "iso": null
+    },
+    "parent": {
+      "id": "5015",
+      "level": 2,
+      "name": {
+        "local": "หางดง",
+        "en": "Hang Dong",
+        "slug": "hang-dong-5015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5015",
+        "level": 2,
+        "name": {
+          "local": "หางดง",
+          "en": "Hang Dong",
+          "slug": "hang-dong-5015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50230"
+    ],
+    "geo": {
+      "lat": "18.692",
+      "lon": "98.915"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "501505",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ขุนคง",
+      "en": "Khun Khong",
+      "slug": "khun-khong-501505"
+    },
+    "code": {
+      "id": "501505",
+      "iso": null
+    },
+    "parent": {
+      "id": "5015",
+      "level": 2,
+      "name": {
+        "local": "หางดง",
+        "en": "Hang Dong",
+        "slug": "hang-dong-5015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5015",
+        "level": 2,
+        "name": {
+          "local": "หางดง",
+          "en": "Hang Dong",
+          "slug": "hang-dong-5015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50230"
+    ],
+    "geo": {
+      "lat": "18.673",
+      "lon": "98.956"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "501511",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "น้ำแพร่",
+      "en": "Nam Phrae",
+      "slug": "nam-phrae-501511"
+    },
+    "code": {
+      "id": "501511",
+      "iso": null
+    },
+    "parent": {
+      "id": "5015",
+      "level": 2,
+      "name": {
+        "local": "หางดง",
+        "en": "Hang Dong",
+        "slug": "hang-dong-5015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5015",
+        "level": 2,
+        "name": {
+          "local": "หางดง",
+          "en": "Hang Dong",
+          "slug": "hang-dong-5015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50230"
+    ],
+    "geo": {
+      "lat": "18.709",
+      "lon": "98.881"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "501502",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองแก๋ว",
+      "en": "Nong Kaeo",
+      "slug": "nong-kaeo-501502"
+    },
+    "code": {
+      "id": "501502",
+      "iso": null
+    },
+    "parent": {
+      "id": "5015",
+      "level": 2,
+      "name": {
+        "local": "หางดง",
+        "en": "Hang Dong",
+        "slug": "hang-dong-5015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5015",
+        "level": 2,
+        "name": {
+          "local": "หางดง",
+          "en": "Hang Dong",
+          "slug": "hang-dong-5015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50230"
+    ],
+    "geo": {
+      "lat": "18.674",
+      "lon": "98.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "501509",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองควาย",
+      "en": "Nong Khwai",
+      "slug": "nong-khwai-501509"
+    },
+    "code": {
+      "id": "501509",
+      "iso": null
+    },
+    "parent": {
+      "id": "5015",
+      "level": 2,
+      "name": {
+        "local": "หางดง",
+        "en": "Hang Dong",
+        "slug": "hang-dong-5015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5015",
+        "level": 2,
+        "name": {
+          "local": "หางดง",
+          "en": "Hang Dong",
+          "slug": "hang-dong-5015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50230"
+    ],
+    "geo": {
+      "lat": "18.731",
+      "lon": "98.923"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "501504",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองตอง",
+      "en": "Nong Tong",
+      "slug": "nong-tong-501504"
+    },
+    "code": {
+      "id": "501504",
+      "iso": null
+    },
+    "parent": {
+      "id": "5015",
+      "level": 2,
+      "name": {
+        "local": "หางดง",
+        "en": "Hang Dong",
+        "slug": "hang-dong-5015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5015",
+        "level": 2,
+        "name": {
+          "local": "หางดง",
+          "en": "Hang Dong",
+          "slug": "hang-dong-5015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50340"
+    ],
+    "geo": {
+      "lat": "18.613",
+      "lon": "98.945"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "501508",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สันผักหวาน",
+      "en": "San Phak Wan",
+      "slug": "san-phak-wan-501508"
+    },
+    "code": {
+      "id": "501508",
+      "iso": null
+    },
+    "parent": {
+      "id": "5015",
+      "level": 2,
+      "name": {
+        "local": "หางดง",
+        "en": "Hang Dong",
+        "slug": "hang-dong-5015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5015",
+        "level": 2,
+        "name": {
+          "local": "หางดง",
+          "en": "Hang Dong",
+          "slug": "hang-dong-5015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50230"
+    ],
+    "geo": {
+      "lat": "18.719",
+      "lon": "98.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "501506",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สบแม่ข่า",
+      "en": "Sop Mae Kha",
+      "slug": "sop-mae-kha-501506"
+    },
+    "code": {
+      "id": "501506",
+      "iso": null
+    },
+    "parent": {
+      "id": "5015",
+      "level": 2,
+      "name": {
+        "local": "หางดง",
+        "en": "Hang Dong",
+        "slug": "hang-dong-5015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5015",
+        "level": 2,
+        "name": {
+          "local": "หางดง",
+          "en": "Hang Dong",
+          "slug": "hang-dong-5015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50230"
+    ],
+    "geo": {
+      "lat": "18.689",
+      "lon": "98.98"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

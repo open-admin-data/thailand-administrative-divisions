@@ -1,0 +1,58 @@
+[
+  {
+    "id": "103401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สวนหลวง",
+      "en": "Suan Luang",
+      "slug": "suan-luang-103401"
+    },
+    "code": {
+      "id": "103401",
+      "iso": null
+    },
+    "parent": {
+      "id": "1034",
+      "level": 2,
+      "name": {
+        "local": "สวนหลวง",
+        "en": "Suan Luang",
+        "slug": "suan-luang-1034"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1034",
+        "level": 2,
+        "name": {
+          "local": "สวนหลวง",
+          "en": "Suan Luang",
+          "slug": "suan-luang-1034"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10250"
+    ],
+    "geo": {
+      "lat": "13.726",
+      "lon": "100.628"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

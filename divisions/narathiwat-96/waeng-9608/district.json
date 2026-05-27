@@ -1,0 +1,47 @@
+{
+  "id": "9608",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "แว้ง",
+    "en": "Waeng",
+    "slug": "waeng-9608"
+  },
+  "code": {
+    "id": "9608",
+    "iso": null
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "local": "นราธิวาส",
+      "en": "Narathiwat",
+      "slug": "narathiwat-96"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat-96"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.973",
+    "lon": "101.842"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "3318",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองจันทร์",
+    "en": "Mueang Chan",
+    "slug": "mueang-chan-3318"
+  },
+  "code": {
+    "id": "3318",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "ศรีสะเกษ",
+      "en": "Si Sa Ket",
+      "slug": "si-sa-ket-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket-33"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.198",
+    "lon": "104.035"
+  },
+  "metadata": {},
+  "source": {}
+}

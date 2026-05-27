@@ -1,0 +1,47 @@
+{
+  "id": "5605",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ดอกคำใต้",
+    "en": "Dok Khamtai",
+    "slug": "dok-khamtai-5605"
+  },
+  "code": {
+    "id": "5605",
+    "iso": null
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "local": "พะเยา",
+      "en": "Phayao",
+      "slug": "phayao-56"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao-56"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.134",
+    "lon": "99.998"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "3012",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บัวใหญ่",
+    "en": "Bua Yai",
+    "slug": "bua-yai-3012"
+  },
+  "code": {
+    "id": "3012",
+    "iso": null
+  },
+  "parent": {
+    "id": "30",
+    "level": 1,
+    "name": {
+      "local": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima-30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "local": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima-30"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.486",
+    "lon": "102.466"
+  },
+  "metadata": {},
+  "source": {}
+}

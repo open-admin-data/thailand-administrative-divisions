@@ -1,0 +1,170 @@
+[
+  {
+    "id": "230203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หาดเล็ก",
+      "en": "Hat Lek",
+      "slug": "hat-lek-230203"
+    },
+    "code": {
+      "id": "230203",
+      "iso": null
+    },
+    "parent": {
+      "id": "2302",
+      "level": 2,
+      "name": {
+        "local": "คลองใหญ่",
+        "en": "Khlong Yai",
+        "slug": "khlong-yai-2302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2302",
+        "level": 2,
+        "name": {
+          "local": "คลองใหญ่",
+          "en": "Khlong Yai",
+          "slug": "khlong-yai-2302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23110"
+    ],
+    "geo": {
+      "lat": "11.699",
+      "lon": "102.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "230201",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองใหญ่",
+      "en": "Khlong Yai",
+      "slug": "khlong-yai-230201"
+    },
+    "code": {
+      "id": "230201",
+      "iso": null
+    },
+    "parent": {
+      "id": "2302",
+      "level": 2,
+      "name": {
+        "local": "คลองใหญ่",
+        "en": "Khlong Yai",
+        "slug": "khlong-yai-2302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2302",
+        "level": 2,
+        "name": {
+          "local": "คลองใหญ่",
+          "en": "Khlong Yai",
+          "slug": "khlong-yai-2302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23110"
+    ],
+    "geo": {
+      "lat": "11.774",
+      "lon": "102.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "230202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ไม้รูด",
+      "en": "Mai Rut",
+      "slug": "mai-rut-230202"
+    },
+    "code": {
+      "id": "230202",
+      "iso": null
+    },
+    "parent": {
+      "id": "2302",
+      "level": 2,
+      "name": {
+        "local": "คลองใหญ่",
+        "en": "Khlong Yai",
+        "slug": "khlong-yai-2302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2302",
+        "level": 2,
+        "name": {
+          "local": "คลองใหญ่",
+          "en": "Khlong Yai",
+          "slug": "khlong-yai-2302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23110"
+    ],
+    "geo": {
+      "lat": "11.91",
+      "lon": "102.805"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

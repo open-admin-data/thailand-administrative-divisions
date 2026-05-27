@@ -1,0 +1,226 @@
+[
+  {
+    "id": "451904",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เด่นราษฎร์",
+      "en": "Den Rat",
+      "slug": "den-rat-451904"
+    },
+    "code": {
+      "id": "451904",
+      "iso": null
+    },
+    "parent": {
+      "id": "4519",
+      "level": 2,
+      "name": {
+        "local": "หนองฮี",
+        "en": "Nong Hi",
+        "slug": "nong-hi-4519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "45",
+        "level": 1,
+        "name": {
+          "local": "ร้อยเอ็ด",
+          "en": "Roi Et",
+          "slug": "roi-et-45"
+        }
+      },
+      {
+        "id": "4519",
+        "level": 2,
+        "name": {
+          "local": "หนองฮี",
+          "en": "Nong Hi",
+          "slug": "nong-hi-4519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45140"
+    ],
+    "geo": {
+      "lat": "15.582",
+      "lon": "103.965"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "451903",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดูกอึ่ง",
+      "en": "Duk Ueng",
+      "slug": "duk-ueng-451903"
+    },
+    "code": {
+      "id": "451903",
+      "iso": null
+    },
+    "parent": {
+      "id": "4519",
+      "level": 2,
+      "name": {
+        "local": "หนองฮี",
+        "en": "Nong Hi",
+        "slug": "nong-hi-4519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "45",
+        "level": 1,
+        "name": {
+          "local": "ร้อยเอ็ด",
+          "en": "Roi Et",
+          "slug": "roi-et-45"
+        }
+      },
+      {
+        "id": "4519",
+        "level": 2,
+        "name": {
+          "local": "หนองฮี",
+          "en": "Nong Hi",
+          "slug": "nong-hi-4519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45140"
+    ],
+    "geo": {
+      "lat": "15.559",
+      "lon": "104.016"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "451901",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองฮี",
+      "en": "Nong Hi",
+      "slug": "nong-hi-451901"
+    },
+    "code": {
+      "id": "451901",
+      "iso": null
+    },
+    "parent": {
+      "id": "4519",
+      "level": 2,
+      "name": {
+        "local": "หนองฮี",
+        "en": "Nong Hi",
+        "slug": "nong-hi-4519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "45",
+        "level": 1,
+        "name": {
+          "local": "ร้อยเอ็ด",
+          "en": "Roi Et",
+          "slug": "roi-et-45"
+        }
+      },
+      {
+        "id": "4519",
+        "level": 2,
+        "name": {
+          "local": "หนองฮี",
+          "en": "Nong Hi",
+          "slug": "nong-hi-4519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45140"
+    ],
+    "geo": {
+      "lat": "15.621",
+      "lon": "104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "451902",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สาวแห",
+      "en": "Sao Hae",
+      "slug": "sao-hae-451902"
+    },
+    "code": {
+      "id": "451902",
+      "iso": null
+    },
+    "parent": {
+      "id": "4519",
+      "level": 2,
+      "name": {
+        "local": "หนองฮี",
+        "en": "Nong Hi",
+        "slug": "nong-hi-4519"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "45",
+        "level": 1,
+        "name": {
+          "local": "ร้อยเอ็ด",
+          "en": "Roi Et",
+          "slug": "roi-et-45"
+        }
+      },
+      {
+        "id": "4519",
+        "level": 2,
+        "name": {
+          "local": "หนองฮี",
+          "en": "Nong Hi",
+          "slug": "nong-hi-4519"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "45140"
+    ],
+    "geo": {
+      "lat": "15.55",
+      "lon": "104.062"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

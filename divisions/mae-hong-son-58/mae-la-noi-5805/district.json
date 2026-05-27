@@ -1,0 +1,47 @@
+{
+  "id": "5805",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "แม่ลาน้อย",
+    "en": "Mae La Noi",
+    "slug": "mae-la-noi-5805"
+  },
+  "code": {
+    "id": "5805",
+    "iso": null
+  },
+  "parent": {
+    "id": "58",
+    "level": 1,
+    "name": {
+      "local": "แม่ฮ่องสอน",
+      "en": "Mae Hong Son",
+      "slug": "mae-hong-son-58"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "local": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son-58"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.37",
+    "lon": "98.102"
+  },
+  "metadata": {},
+  "source": {}
+}

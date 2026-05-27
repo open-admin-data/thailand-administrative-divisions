@@ -1,0 +1,47 @@
+{
+  "id": "1407",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บางปะหัน",
+    "en": "Bang Pahan",
+    "slug": "bang-pahan-1407"
+  },
+  "code": {
+    "id": "1407",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya-14"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.414",
+    "lon": "100.564"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "9310",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ป่าพยอม",
+    "en": "Pa Phayom",
+    "slug": "pa-phayom-9310"
+  },
+  "code": {
+    "id": "9310",
+    "iso": null
+  },
+  "parent": {
+    "id": "93",
+    "level": 1,
+    "name": {
+      "local": "พัทลุง",
+      "en": "Phatthalung",
+      "slug": "phatthalung-93"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "local": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung-93"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.86",
+    "lon": "99.947"
+  },
+  "metadata": {},
+  "source": {}
+}

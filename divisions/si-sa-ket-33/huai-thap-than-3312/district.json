@@ -1,0 +1,47 @@
+{
+  "id": "3312",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ห้วยทับทัน",
+    "en": "Huai Thap Than",
+    "slug": "huai-thap-than-3312"
+  },
+  "code": {
+    "id": "3312",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "ศรีสะเกษ",
+      "en": "Si Sa Ket",
+      "slug": "si-sa-ket-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket-33"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.966",
+    "lon": "104.069"
+  },
+  "metadata": {},
+  "source": {}
+}

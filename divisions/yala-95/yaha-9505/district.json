@@ -1,0 +1,47 @@
+{
+  "id": "9505",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ยะหา",
+    "en": "Yaha",
+    "slug": "yaha-9505"
+  },
+  "code": {
+    "id": "9505",
+    "iso": null
+  },
+  "parent": {
+    "id": "95",
+    "level": 1,
+    "name": {
+      "local": "ยะลา",
+      "en": "Yala",
+      "slug": "yala-95"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "local": "ยะลา",
+        "en": "Yala",
+        "slug": "yala-95"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.527",
+    "lon": "101.153"
+  },
+  "metadata": {},
+  "source": {}
+}

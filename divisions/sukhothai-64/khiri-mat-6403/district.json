@@ -1,0 +1,47 @@
+{
+  "id": "6403",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "คีรีมาศ",
+    "en": "Khiri Mat",
+    "slug": "khiri-mat-6403"
+  },
+  "code": {
+    "id": "6403",
+    "iso": null
+  },
+  "parent": {
+    "id": "64",
+    "level": 1,
+    "name": {
+      "local": "สุโขทัย",
+      "en": "Sukhothai",
+      "slug": "sukhothai-64"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai-64"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.748",
+    "lon": "99.834"
+  },
+  "metadata": {},
+  "source": {}
+}

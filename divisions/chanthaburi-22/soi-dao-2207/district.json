@@ -1,0 +1,47 @@
+{
+  "id": "2207",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สอยดาว",
+    "en": "Soi Dao",
+    "slug": "soi-dao-2207"
+  },
+  "code": {
+    "id": "2207",
+    "iso": null
+  },
+  "parent": {
+    "id": "22",
+    "level": 1,
+    "name": {
+      "local": "จันทบุรี",
+      "en": "Chanthaburi",
+      "slug": "chanthaburi-22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi-22"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.174",
+    "lon": "102.371"
+  },
+  "metadata": {},
+  "source": {}
+}

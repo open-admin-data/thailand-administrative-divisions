@@ -1,0 +1,47 @@
+{
+  "id": "3803",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "โซ่พิสัย",
+    "en": "So Phisai",
+    "slug": "so-phisai-3803"
+  },
+  "code": {
+    "id": "3803",
+    "iso": null
+  },
+  "parent": {
+    "id": "38",
+    "level": 1,
+    "name": {
+      "local": "บึงกาฬ",
+      "en": "Buogkan",
+      "slug": "buogkan-38"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan-38"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.129",
+    "lon": "103.384"
+  },
+  "metadata": {},
+  "source": {}
+}

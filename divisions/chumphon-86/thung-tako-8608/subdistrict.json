@@ -1,0 +1,226 @@
+[
+  {
+    "id": "860804",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ช่องไม้แก้ว",
+      "en": "Chong Mai Kaeo",
+      "slug": "chong-mai-kaeo-860804"
+    },
+    "code": {
+      "id": "860804",
+      "iso": null
+    },
+    "parent": {
+      "id": "8608",
+      "level": 2,
+      "name": {
+        "local": "ทุ่งตะโก",
+        "en": "Thung Tako",
+        "slug": "thung-tako-8608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "86",
+        "level": 1,
+        "name": {
+          "local": "ชุมพร",
+          "en": "Chumphon",
+          "slug": "chumphon-86"
+        }
+      },
+      {
+        "id": "8608",
+        "level": 2,
+        "name": {
+          "local": "ทุ่งตะโก",
+          "en": "Thung Tako",
+          "slug": "thung-tako-8608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86220"
+    ],
+    "geo": {
+      "lat": "10.117",
+      "lon": "99.024"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "860801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปากตะโก",
+      "en": "Pak Tako",
+      "slug": "pak-tako-860801"
+    },
+    "code": {
+      "id": "860801",
+      "iso": null
+    },
+    "parent": {
+      "id": "8608",
+      "level": 2,
+      "name": {
+        "local": "ทุ่งตะโก",
+        "en": "Thung Tako",
+        "slug": "thung-tako-8608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "86",
+        "level": 1,
+        "name": {
+          "local": "ชุมพร",
+          "en": "Chumphon",
+          "slug": "chumphon-86"
+        }
+      },
+      {
+        "id": "8608",
+        "level": 2,
+        "name": {
+          "local": "ทุ่งตะโก",
+          "en": "Thung Tako",
+          "slug": "thung-tako-8608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86220"
+    ],
+    "geo": {
+      "lat": "10.081",
+      "lon": "99.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "860803",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตะโก",
+      "en": "Tako",
+      "slug": "tako-860803"
+    },
+    "code": {
+      "id": "860803",
+      "iso": null
+    },
+    "parent": {
+      "id": "8608",
+      "level": 2,
+      "name": {
+        "local": "ทุ่งตะโก",
+        "en": "Thung Tako",
+        "slug": "thung-tako-8608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "86",
+        "level": 1,
+        "name": {
+          "local": "ชุมพร",
+          "en": "Chumphon",
+          "slug": "chumphon-86"
+        }
+      },
+      {
+        "id": "8608",
+        "level": 2,
+        "name": {
+          "local": "ทุ่งตะโก",
+          "en": "Thung Tako",
+          "slug": "thung-tako-8608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86220"
+    ],
+    "geo": {
+      "lat": "10.056",
+      "lon": "98.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "860802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งตะไคร",
+      "en": "Thung Takhrai",
+      "slug": "thung-takhrai-860802"
+    },
+    "code": {
+      "id": "860802",
+      "iso": null
+    },
+    "parent": {
+      "id": "8608",
+      "level": 2,
+      "name": {
+        "local": "ทุ่งตะโก",
+        "en": "Thung Tako",
+        "slug": "thung-tako-8608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "86",
+        "level": 1,
+        "name": {
+          "local": "ชุมพร",
+          "en": "Chumphon",
+          "slug": "chumphon-86"
+        }
+      },
+      {
+        "id": "8608",
+        "level": 2,
+        "name": {
+          "local": "ทุ่งตะโก",
+          "en": "Thung Tako",
+          "slug": "thung-tako-8608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86220"
+    ],
+    "geo": {
+      "lat": "10.131",
+      "lon": "99.097"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

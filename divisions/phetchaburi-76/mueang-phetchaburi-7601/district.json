@@ -1,0 +1,47 @@
+{
+  "id": "7601",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองเพชรบุรี",
+    "en": "Mueang Phetchaburi",
+    "slug": "mueang-phetchaburi-7601"
+  },
+  "code": {
+    "id": "7601",
+    "iso": null
+  },
+  "parent": {
+    "id": "76",
+    "level": 1,
+    "name": {
+      "local": "เพชรบุรี",
+      "en": "Phetchaburi",
+      "slug": "phetchaburi-76"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi-76"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 24
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.121",
+    "lon": "99.9"
+  },
+  "metadata": {},
+  "source": {}
+}

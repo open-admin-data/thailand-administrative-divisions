@@ -2,127 +2,98 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "title": "Thailand Administrative Division Record",
   "type": "object",
-  "required": ["id", "level", "name"],
+  "required": [
+    "id",
+    "level",
+    "name"
+  ],
   "properties": {
     "id": {
-      "type": "string",
-      "description": "Unique identifier (DOPA code)"
+      "type": "string"
     },
     "level": {
       "type": "integer",
-      "enum": [1, 2, 3, 4],
-      "description": "1=province, 2=district, 3=subdistrict, 4=village"
+      "enum": [
+        1,
+        2,
+        3
+      ]
     },
     "level_name": {
       "type": "object",
       "properties": {
-        "th": {
-          "type": "string",
-          "enum": ["จังหวัด", "อำเภอ", "เขต", "ตำบล", "แขวง", "หมู่บ้าน"]
+        "local": {
+          "type": "string"
         },
         "en": {
-          "type": "string",
-          "enum": ["province", "district", "subdistrict", "village"]
+          "type": "string"
         }
       }
     },
     "name": {
       "type": "object",
-      "required": ["th", "en"],
+      "required": [
+        "local",
+        "en"
+      ],
       "properties": {
-        "th": { "type": "string" },
-        "en": { "type": "string" },
-        "slug": { "type": "string" }
+        "local": {
+          "type": "string"
+        },
+        "en": {
+          "type": "string"
+        },
+        "slug": {
+          "type": "string"
+        }
       }
     },
     "code": {
       "type": "object",
-      "description": "Government codes",
       "properties": {
-        "dopa": { "type": "string" },
-        "iso": { "type": "string", "description": "ISO 3166-2 if applicable" }
+        "id": {
+          "type": "string"
+        },
+        "iso": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
       }
     },
     "parent": {
-      "type": ["object", "null"],
-      "description": "Parent division reference (null for province)",
-      "properties": {
-        "id": { "type": "string" },
-        "level": { "type": "integer" },
-        "name": {
-          "type": "object",
-          "properties": {
-            "th": { "type": "string" },
-            "en": { "type": "string" },
-            "slug": { "type": "string" }
-          }
-        }
-      }
+      "type": [
+        "object",
+        "null"
+      ]
     },
     "ancestors": {
-      "type": "array",
-      "description": "Full ancestor chain for easy lookup",
-      "items": {
-        "type": "object",
-        "properties": {
-          "id": { "type": "string" },
-          "level": { "type": "integer" },
-          "name": {
-            "type": "object",
-            "properties": {
-              "th": { "type": "string" },
-              "en": { "type": "string" },
-              "slug": { "type": "string" }
-            }
-          }
-        }
-      }
+      "type": "array"
     },
     "children_count": {
-      "type": "object",
-      "description": "Count of immediate children at next level",
-      "properties": {
-        "districts": { "type": "integer" },
-        "subdistricts": { "type": "integer" },
-        "villages": { "type": "integer" }
-      }
+      "type": "object"
     },
     "zip_codes": {
       "type": "array",
-      "description": "Postal/zip codes (subdistrict level only, may have multiple)",
-      "items": { "type": "string" }
+      "items": {
+        "type": "string"
+      }
     },
     "geo": {
       "type": "object",
-      "description": "Geographic coordinates (WGS84)",
       "properties": {
-        "lat": { "type": ["string", "null"], "description": "Latitude" },
-        "lon": { "type": ["string", "null"], "description": "Longitude" }
-      }
-    },
-    "metadata": {
-      "type": "object",
-      "properties": {
-        "is_special_province": {
-          "type": "boolean",
-          "description": "True for Bangkok (special administrative area)"
+        "lat": {
+          "type": [
+            "string",
+            "null"
+          ]
         },
-        "region": {
-          "type": "object",
-          "description": "Geographic region (only for provinces)",
-          "properties": {
-            "th": { "type": "string" },
-            "en": { "type": "string" }
-          }
-        }
-      }
-    },
-    "source": {
-      "type": "object",
-      "properties": {
-        "url": {
-          "type": "string",
-          "description": "Original page on ThaiAddress.org"
+        "lon": {
+          "type": [
+            "string",
+            "null"
+          ]
         }
       }
     }

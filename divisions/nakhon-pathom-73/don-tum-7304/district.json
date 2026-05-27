@@ -1,0 +1,47 @@
+{
+  "id": "7304",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ดอนตูม",
+    "en": "Don Tum",
+    "slug": "don-tum-7304"
+  },
+  "code": {
+    "id": "7304",
+    "iso": null
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "local": "นครปฐม",
+      "en": "Nakhon Pathom",
+      "slug": "nakhon-pathom-73"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom-73"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.89",
+    "lon": "100.117"
+  },
+  "metadata": {},
+  "source": {}
+}

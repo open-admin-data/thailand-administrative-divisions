@@ -1,0 +1,30 @@
+{
+  "id": "50",
+  "level": 1,
+  "level_name": {
+    "local": "จังหวัด",
+    "en": "Province"
+  },
+  "name": {
+    "local": "เชียงใหม่",
+    "en": "Chiang Mai",
+    "slug": "chiang-mai-50"
+  },
+  "code": {
+    "id": "50",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 25,
+    "subdistrict": 199
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.785",
+    "lon": "98.985"
+  },
+  "metadata": {},
+  "source": {}
+}

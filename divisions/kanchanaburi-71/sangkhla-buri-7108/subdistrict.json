@@ -1,0 +1,170 @@
+[
+  {
+    "id": "710803",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ไล่โว่",
+      "en": "Lai Wo",
+      "slug": "lai-wo-710803"
+    },
+    "code": {
+      "id": "710803",
+      "iso": null
+    },
+    "parent": {
+      "id": "7108",
+      "level": 2,
+      "name": {
+        "local": "สังขละบุรี",
+        "en": "Sangkhla Buri",
+        "slug": "sangkhla-buri-7108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      },
+      {
+        "id": "7108",
+        "level": 2,
+        "name": {
+          "local": "สังขละบุรี",
+          "en": "Sangkhla Buri",
+          "slug": "sangkhla-buri-7108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "71240"
+    ],
+    "geo": {
+      "lat": "15.345",
+      "lon": "98.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "710801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองลู",
+      "en": "Nong Lu",
+      "slug": "nong-lu-710801"
+    },
+    "code": {
+      "id": "710801",
+      "iso": null
+    },
+    "parent": {
+      "id": "7108",
+      "level": 2,
+      "name": {
+        "local": "สังขละบุรี",
+        "en": "Sangkhla Buri",
+        "slug": "sangkhla-buri-7108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      },
+      {
+        "id": "7108",
+        "level": 2,
+        "name": {
+          "local": "สังขละบุรี",
+          "en": "Sangkhla Buri",
+          "slug": "sangkhla-buri-7108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "71240"
+    ],
+    "geo": {
+      "lat": "15.112",
+      "lon": "98.341"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "710802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปรังเผล",
+      "en": "Prangphle",
+      "slug": "prangphle-710802"
+    },
+    "code": {
+      "id": "710802",
+      "iso": null
+    },
+    "parent": {
+      "id": "7108",
+      "level": 2,
+      "name": {
+        "local": "สังขละบุรี",
+        "en": "Sangkhla Buri",
+        "slug": "sangkhla-buri-7108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      },
+      {
+        "id": "7108",
+        "level": 2,
+        "name": {
+          "local": "สังขละบุรี",
+          "en": "Sangkhla Buri",
+          "slug": "sangkhla-buri-7108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "71240"
+    ],
+    "geo": {
+      "lat": "14.999",
+      "lon": "98.545"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

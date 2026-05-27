@@ -1,0 +1,394 @@
+[
+  {
+    "id": "840401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "อ่างทอง",
+      "en": "Ang Thong",
+      "slug": "ang-thong-840401"
+    },
+    "code": {
+      "id": "840401",
+      "iso": null
+    },
+    "parent": {
+      "id": "8404",
+      "level": 2,
+      "name": {
+        "local": "เกาะสมุย",
+        "en": "Ko Samui",
+        "slug": "ko-samui-8404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8404",
+        "level": 2,
+        "name": {
+          "local": "เกาะสมุย",
+          "en": "Ko Samui",
+          "slug": "ko-samui-8404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84140"
+    ],
+    "geo": {
+      "lat": "9.539",
+      "lon": "99.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "840406",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ่อผุด",
+      "en": "Bo Phut",
+      "slug": "bo-phut-840406"
+    },
+    "code": {
+      "id": "840406",
+      "iso": null
+    },
+    "parent": {
+      "id": "8404",
+      "level": 2,
+      "name": {
+        "local": "เกาะสมุย",
+        "en": "Ko Samui",
+        "slug": "ko-samui-8404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8404",
+        "level": 2,
+        "name": {
+          "local": "เกาะสมุย",
+          "en": "Ko Samui",
+          "slug": "ko-samui-8404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84320"
+    ],
+    "geo": {
+      "lat": "9.527",
+      "lon": "100.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "840402",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ลิปะน้อย",
+      "en": "Lipa Noi",
+      "slug": "lipa-noi-840402"
+    },
+    "code": {
+      "id": "840402",
+      "iso": null
+    },
+    "parent": {
+      "id": "8404",
+      "level": 2,
+      "name": {
+        "local": "เกาะสมุย",
+        "en": "Ko Samui",
+        "slug": "ko-samui-8404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8404",
+        "level": 2,
+        "name": {
+          "local": "เกาะสมุย",
+          "en": "Ko Samui",
+          "slug": "ko-samui-8404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84140"
+    ],
+    "geo": {
+      "lat": "9.502",
+      "lon": "99.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "840407",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่น้ำ",
+      "en": "Mae Nam",
+      "slug": "mae-nam-840407"
+    },
+    "code": {
+      "id": "840407",
+      "iso": null
+    },
+    "parent": {
+      "id": "8404",
+      "level": 2,
+      "name": {
+        "local": "เกาะสมุย",
+        "en": "Ko Samui",
+        "slug": "ko-samui-8404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8404",
+        "level": 2,
+        "name": {
+          "local": "เกาะสมุย",
+          "en": "Ko Samui",
+          "slug": "ko-samui-8404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84330"
+    ],
+    "geo": {
+      "lat": "9.563",
+      "lon": "99.967"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "840405",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "มะเร็ต",
+      "en": "Maret",
+      "slug": "maret-840405"
+    },
+    "code": {
+      "id": "840405",
+      "iso": null
+    },
+    "parent": {
+      "id": "8404",
+      "level": 2,
+      "name": {
+        "local": "เกาะสมุย",
+        "en": "Ko Samui",
+        "slug": "ko-samui-8404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8404",
+        "level": 2,
+        "name": {
+          "local": "เกาะสมุย",
+          "en": "Ko Samui",
+          "slug": "ko-samui-8404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84310"
+    ],
+    "geo": {
+      "lat": "9.468",
+      "lon": "100.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "840404",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หน้าเมือง",
+      "en": "Na Mueang",
+      "slug": "na-mueang-840404"
+    },
+    "code": {
+      "id": "840404",
+      "iso": null
+    },
+    "parent": {
+      "id": "8404",
+      "level": 2,
+      "name": {
+        "local": "เกาะสมุย",
+        "en": "Ko Samui",
+        "slug": "ko-samui-8404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8404",
+        "level": 2,
+        "name": {
+          "local": "เกาะสมุย",
+          "en": "Ko Samui",
+          "slug": "ko-samui-8404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84140"
+    ],
+    "geo": {
+      "lat": "9.461",
+      "lon": "99.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "840403",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตลิ่งงาม",
+      "en": "Taling Ngam",
+      "slug": "taling-ngam-840403"
+    },
+    "code": {
+      "id": "840403",
+      "iso": null
+    },
+    "parent": {
+      "id": "8404",
+      "level": 2,
+      "name": {
+        "local": "เกาะสมุย",
+        "en": "Ko Samui",
+        "slug": "ko-samui-8404"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8404",
+        "level": 2,
+        "name": {
+          "local": "เกาะสมุย",
+          "en": "Ko Samui",
+          "slug": "ko-samui-8404"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84140"
+    ],
+    "geo": {
+      "lat": "9.453",
+      "lon": "99.955"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

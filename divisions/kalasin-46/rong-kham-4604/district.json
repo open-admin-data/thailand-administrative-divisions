@@ -1,0 +1,47 @@
+{
+  "id": "4604",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ร่องคำ",
+    "en": "Rong Kham",
+    "slug": "rong-kham-4604"
+  },
+  "code": {
+    "id": "4604",
+    "iso": null
+  },
+  "parent": {
+    "id": "46",
+    "level": 1,
+    "name": {
+      "local": "กาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin-46"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin-46"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.266",
+    "lon": "103.737"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "3101",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองบุรีรัมย์",
+    "en": "Mueang Buri Ram",
+    "slug": "mueang-buri-ram-3101"
+  },
+  "code": {
+    "id": "3101",
+    "iso": null
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "local": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram-31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram-31"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.999",
+    "lon": "103.104"
+  },
+  "metadata": {},
+  "source": {}
+}

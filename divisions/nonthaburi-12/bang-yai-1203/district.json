@@ -1,0 +1,47 @@
+{
+  "id": "1203",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บางใหญ่",
+    "en": "Bang Yai",
+    "slug": "bang-yai-1203"
+  },
+  "code": {
+    "id": "1203",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "นนทบุรี",
+      "en": "Nonthaburi",
+      "slug": "nonthaburi-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi-12"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.854",
+    "lon": "100.434"
+  },
+  "metadata": {},
+  "source": {}
+}

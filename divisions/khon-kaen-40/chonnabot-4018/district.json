@@ -1,0 +1,47 @@
+{
+  "id": "4018",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ชนบท",
+    "en": "Chonnabot",
+    "slug": "chonnabot-4018"
+  },
+  "code": {
+    "id": "4018",
+    "iso": null
+  },
+  "parent": {
+    "id": "40",
+    "level": 1,
+    "name": {
+      "local": "ขอนแก่น",
+      "en": "Khon Kaen",
+      "slug": "khon-kaen-40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen-40"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.115",
+    "lon": "102.623"
+  },
+  "metadata": {},
+  "source": {}
+}

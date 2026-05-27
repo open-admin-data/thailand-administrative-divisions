@@ -1,0 +1,47 @@
+{
+  "id": "5001",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองเชียงใหม่",
+    "en": "Mueang Chiang Mai",
+    "slug": "mueang-chiang-mai-5001"
+  },
+  "code": {
+    "id": "5001",
+    "iso": null
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "local": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai-50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "local": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai-50"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.785",
+    "lon": "98.985"
+  },
+  "metadata": {},
+  "source": {}
+}

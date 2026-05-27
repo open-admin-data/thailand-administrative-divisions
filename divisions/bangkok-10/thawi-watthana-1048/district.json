@@ -1,0 +1,47 @@
+{
+  "id": "1048",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ทวีวัฒนา",
+    "en": "Thawi Watthana",
+    "slug": "thawi-watthana-1048"
+  },
+  "code": {
+    "id": "1048",
+    "iso": null
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "local": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok-10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok-10"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.758",
+    "lon": "100.348"
+  },
+  "metadata": {},
+  "source": {}
+}

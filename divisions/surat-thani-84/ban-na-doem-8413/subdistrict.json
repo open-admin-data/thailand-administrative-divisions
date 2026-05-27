@@ -1,0 +1,226 @@
+[
+  {
+    "id": "841301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านนา",
+      "en": "Ban Na",
+      "slug": "ban-na-841301"
+    },
+    "code": {
+      "id": "841301",
+      "iso": null
+    },
+    "parent": {
+      "id": "8413",
+      "level": 2,
+      "name": {
+        "local": "บ้านนาเดิม",
+        "en": "Ban Na Doem",
+        "slug": "ban-na-doem-8413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8413",
+        "level": 2,
+        "name": {
+          "local": "บ้านนาเดิม",
+          "en": "Ban Na Doem",
+          "slug": "ban-na-doem-8413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84240"
+    ],
+    "geo": {
+      "lat": "8.856",
+      "lon": "99.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "841304",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาใต้",
+      "en": "Na Tai",
+      "slug": "na-tai-841304"
+    },
+    "code": {
+      "id": "841304",
+      "iso": null
+    },
+    "parent": {
+      "id": "8413",
+      "level": 2,
+      "name": {
+        "local": "บ้านนาเดิม",
+        "en": "Ban Na Doem",
+        "slug": "ban-na-doem-8413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8413",
+        "level": 2,
+        "name": {
+          "local": "บ้านนาเดิม",
+          "en": "Ban Na Doem",
+          "slug": "ban-na-doem-8413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84240"
+    ],
+    "geo": {
+      "lat": "8.906",
+      "lon": "99.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "841303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทรัพย์ทวี",
+      "en": "Sap Thawi",
+      "slug": "sap-thawi-841303"
+    },
+    "code": {
+      "id": "841303",
+      "iso": null
+    },
+    "parent": {
+      "id": "8413",
+      "level": 2,
+      "name": {
+        "local": "บ้านนาเดิม",
+        "en": "Ban Na Doem",
+        "slug": "ban-na-doem-8413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8413",
+        "level": 2,
+        "name": {
+          "local": "บ้านนาเดิม",
+          "en": "Ban Na Doem",
+          "slug": "ban-na-doem-8413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84240"
+    ],
+    "geo": {
+      "lat": "8.914",
+      "lon": "99.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "841302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าเรือ",
+      "en": "Tha Ruea",
+      "slug": "tha-ruea-841302"
+    },
+    "code": {
+      "id": "841302",
+      "iso": null
+    },
+    "parent": {
+      "id": "8413",
+      "level": 2,
+      "name": {
+        "local": "บ้านนาเดิม",
+        "en": "Ban Na Doem",
+        "slug": "ban-na-doem-8413"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8413",
+        "level": 2,
+        "name": {
+          "local": "บ้านนาเดิม",
+          "en": "Ban Na Doem",
+          "slug": "ban-na-doem-8413"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84240"
+    ],
+    "geo": {
+      "lat": "8.947",
+      "lon": "99.269"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

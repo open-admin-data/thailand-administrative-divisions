@@ -1,0 +1,170 @@
+[
+  {
+    "id": "361601",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ซับใหญ่",
+      "en": "Sap Yai",
+      "slug": "sap-yai-361601"
+    },
+    "code": {
+      "id": "361601",
+      "iso": null
+    },
+    "parent": {
+      "id": "3616",
+      "level": 2,
+      "name": {
+        "local": "ซับใหญ่",
+        "en": "Sap Yai",
+        "slug": "sap-yai-3616"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "ชัยภูมิ",
+          "en": "Chaiyaphum",
+          "slug": "chaiyaphum-36"
+        }
+      },
+      {
+        "id": "3616",
+        "level": 2,
+        "name": {
+          "local": "ซับใหญ่",
+          "en": "Sap Yai",
+          "slug": "sap-yai-3616"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36130"
+    ],
+    "geo": {
+      "lat": "15.602",
+      "lon": "101.573"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "361603",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตะโกทอง",
+      "en": "Tako Thong",
+      "slug": "tako-thong-361603"
+    },
+    "code": {
+      "id": "361603",
+      "iso": null
+    },
+    "parent": {
+      "id": "3616",
+      "level": 2,
+      "name": {
+        "local": "ซับใหญ่",
+        "en": "Sap Yai",
+        "slug": "sap-yai-3616"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "ชัยภูมิ",
+          "en": "Chaiyaphum",
+          "slug": "chaiyaphum-36"
+        }
+      },
+      {
+        "id": "3616",
+        "level": 2,
+        "name": {
+          "local": "ซับใหญ่",
+          "en": "Sap Yai",
+          "slug": "sap-yai-3616"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36130"
+    ],
+    "geo": {
+      "lat": "15.565",
+      "lon": "101.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "361602",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่ากูบ",
+      "en": "Tha Kup",
+      "slug": "tha-kup-361602"
+    },
+    "code": {
+      "id": "361602",
+      "iso": null
+    },
+    "parent": {
+      "id": "3616",
+      "level": 2,
+      "name": {
+        "local": "ซับใหญ่",
+        "en": "Sap Yai",
+        "slug": "sap-yai-3616"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "36",
+        "level": 1,
+        "name": {
+          "local": "ชัยภูมิ",
+          "en": "Chaiyaphum",
+          "slug": "chaiyaphum-36"
+        }
+      },
+      {
+        "id": "3616",
+        "level": 2,
+        "name": {
+          "local": "ซับใหญ่",
+          "en": "Sap Yai",
+          "slug": "sap-yai-3616"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "36130"
+    ],
+    "geo": {
+      "lat": "15.623",
+      "lon": "101.708"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

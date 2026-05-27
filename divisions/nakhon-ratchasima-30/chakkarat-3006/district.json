@@ -1,0 +1,47 @@
+{
+  "id": "3006",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "จักราช",
+    "en": "Chakkarat",
+    "slug": "chakkarat-3006"
+  },
+  "code": {
+    "id": "3006",
+    "iso": null
+  },
+  "parent": {
+    "id": "30",
+    "level": 1,
+    "name": {
+      "local": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima-30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "local": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima-30"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.052",
+    "lon": "102.353"
+  },
+  "metadata": {},
+  "source": {}
+}

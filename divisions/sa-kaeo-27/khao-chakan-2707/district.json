@@ -1,0 +1,47 @@
+{
+  "id": "2707",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เขาฉกรรจ์",
+    "en": "Khao Chakan",
+    "slug": "khao-chakan-2707"
+  },
+  "code": {
+    "id": "2707",
+    "iso": null
+  },
+  "parent": {
+    "id": "27",
+    "level": 1,
+    "name": {
+      "local": "สระแก้ว",
+      "en": "Sa Kaeo",
+      "slug": "sa-kaeo-27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "local": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo-27"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.663",
+    "lon": "102.098"
+  },
+  "metadata": {},
+  "source": {}
+}

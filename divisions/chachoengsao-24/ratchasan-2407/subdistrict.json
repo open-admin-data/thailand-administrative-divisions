@@ -1,0 +1,170 @@
+[
+  {
+    "id": "240701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางคา",
+      "en": "Bang Kha",
+      "slug": "bang-kha-240701"
+    },
+    "code": {
+      "id": "240701",
+      "iso": null
+    },
+    "parent": {
+      "id": "2407",
+      "level": 2,
+      "name": {
+        "local": "ราชสาส์น",
+        "en": "Ratchasan",
+        "slug": "ratchasan-2407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao-24"
+        }
+      },
+      {
+        "id": "2407",
+        "level": 2,
+        "name": {
+          "local": "ราชสาส์น",
+          "en": "Ratchasan",
+          "slug": "ratchasan-2407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24120"
+    ],
+    "geo": {
+      "lat": "13.788",
+      "lon": "101.278"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "240703",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดงน้อย",
+      "en": "Dong Noi",
+      "slug": "dong-noi-240703"
+    },
+    "code": {
+      "id": "240703",
+      "iso": null
+    },
+    "parent": {
+      "id": "2407",
+      "level": 2,
+      "name": {
+        "local": "ราชสาส์น",
+        "en": "Ratchasan",
+        "slug": "ratchasan-2407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao-24"
+        }
+      },
+      {
+        "id": "2407",
+        "level": 2,
+        "name": {
+          "local": "ราชสาส์น",
+          "en": "Ratchasan",
+          "slug": "ratchasan-2407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24120"
+    ],
+    "geo": {
+      "lat": "13.836",
+      "lon": "101.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "240702",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เมืองใหม่",
+      "en": "Mueang Mai",
+      "slug": "mueang-mai-240702"
+    },
+    "code": {
+      "id": "240702",
+      "iso": null
+    },
+    "parent": {
+      "id": "2407",
+      "level": 2,
+      "name": {
+        "local": "ราชสาส์น",
+        "en": "Ratchasan",
+        "slug": "ratchasan-2407"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao-24"
+        }
+      },
+      {
+        "id": "2407",
+        "level": 2,
+        "name": {
+          "local": "ราชสาส์น",
+          "en": "Ratchasan",
+          "slug": "ratchasan-2407"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24120"
+    ],
+    "geo": {
+      "lat": "13.715",
+      "lon": "101.278"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

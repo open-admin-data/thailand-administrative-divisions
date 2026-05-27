@@ -1,0 +1,226 @@
+[
+  {
+    "id": "910402",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แป-ระ",
+      "en": "Paera",
+      "slug": "paera-910402"
+    },
+    "code": {
+      "id": "910402",
+      "iso": null
+    },
+    "parent": {
+      "id": "9104",
+      "level": 2,
+      "name": {
+        "local": "ท่าแพ",
+        "en": "Tha Phae",
+        "slug": "tha-phae-9104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "สตูล",
+          "en": "Satun",
+          "slug": "satun-91"
+        }
+      },
+      {
+        "id": "9104",
+        "level": 2,
+        "name": {
+          "local": "ท่าแพ",
+          "en": "Tha Phae",
+          "slug": "tha-phae-9104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91150"
+    ],
+    "geo": {
+      "lat": "6.855",
+      "lon": "99.927"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "910403",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สาคร",
+      "en": "Sakhon",
+      "slug": "sakhon-910403"
+    },
+    "code": {
+      "id": "910403",
+      "iso": null
+    },
+    "parent": {
+      "id": "9104",
+      "level": 2,
+      "name": {
+        "local": "ท่าแพ",
+        "en": "Tha Phae",
+        "slug": "tha-phae-9104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "สตูล",
+          "en": "Satun",
+          "slug": "satun-91"
+        }
+      },
+      {
+        "id": "9104",
+        "level": 2,
+        "name": {
+          "local": "ท่าแพ",
+          "en": "Tha Phae",
+          "slug": "tha-phae-9104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91150"
+    ],
+    "geo": {
+      "lat": "6.787",
+      "lon": "99.865"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "910401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าแพ",
+      "en": "Tha Phae",
+      "slug": "tha-phae-910401"
+    },
+    "code": {
+      "id": "910401",
+      "iso": null
+    },
+    "parent": {
+      "id": "9104",
+      "level": 2,
+      "name": {
+        "local": "ท่าแพ",
+        "en": "Tha Phae",
+        "slug": "tha-phae-9104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "สตูล",
+          "en": "Satun",
+          "slug": "satun-91"
+        }
+      },
+      {
+        "id": "9104",
+        "level": 2,
+        "name": {
+          "local": "ท่าแพ",
+          "en": "Tha Phae",
+          "slug": "tha-phae-9104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91150"
+    ],
+    "geo": {
+      "lat": "6.791",
+      "lon": "99.964"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "910404",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าเรือ",
+      "en": "Tha Rua",
+      "slug": "tha-rua-910404"
+    },
+    "code": {
+      "id": "910404",
+      "iso": null
+    },
+    "parent": {
+      "id": "9104",
+      "level": 2,
+      "name": {
+        "local": "ท่าแพ",
+        "en": "Tha Phae",
+        "slug": "tha-phae-9104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "สตูล",
+          "en": "Satun",
+          "slug": "satun-91"
+        }
+      },
+      {
+        "id": "9104",
+        "level": 2,
+        "name": {
+          "local": "ท่าแพ",
+          "en": "Tha Phae",
+          "slug": "tha-phae-9104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91150"
+    ],
+    "geo": {
+      "lat": "6.803",
+      "lon": "99.917"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

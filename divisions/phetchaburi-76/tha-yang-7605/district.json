@@ -1,0 +1,47 @@
+{
+  "id": "7605",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ท่ายาง",
+    "en": "Tha Yang",
+    "slug": "tha-yang-7605"
+  },
+  "code": {
+    "id": "7605",
+    "iso": null
+  },
+  "parent": {
+    "id": "76",
+    "level": 1,
+    "name": {
+      "local": "เพชรบุรี",
+      "en": "Phetchaburi",
+      "slug": "phetchaburi-76"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi-76"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.99",
+    "lon": "99.883"
+  },
+  "metadata": {},
+  "source": {}
+}

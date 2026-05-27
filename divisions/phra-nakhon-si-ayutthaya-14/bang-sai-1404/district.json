@@ -1,0 +1,47 @@
+{
+  "id": "1404",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บางไทร",
+    "en": "Bang Sai",
+    "slug": "bang-sai-1404"
+  },
+  "code": {
+    "id": "1404",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya-14"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.315",
+    "lon": "100.462"
+  },
+  "metadata": {},
+  "source": {}
+}

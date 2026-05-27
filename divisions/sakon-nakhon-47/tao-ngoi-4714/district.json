@@ -1,0 +1,47 @@
+{
+  "id": "4714",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เต่างอย",
+    "en": "Tao Ngoi",
+    "slug": "tao-ngoi-4714"
+  },
+  "code": {
+    "id": "4714",
+    "iso": null
+  },
+  "parent": {
+    "id": "47",
+    "level": 1,
+    "name": {
+      "local": "สกลนคร",
+      "en": "Sakon Nakhon",
+      "slug": "sakon-nakhon-47"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "local": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon-47"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.034",
+    "lon": "104.157"
+  },
+  "metadata": {},
+  "source": {}
+}

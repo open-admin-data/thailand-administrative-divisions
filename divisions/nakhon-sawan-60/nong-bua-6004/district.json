@@ -1,0 +1,47 @@
+{
+  "id": "6004",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "หนองบัว",
+    "en": "Nong Bua",
+    "slug": "nong-bua-6004"
+  },
+  "code": {
+    "id": "6004",
+    "iso": null
+  },
+  "parent": {
+    "id": "60",
+    "level": 1,
+    "name": {
+      "local": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan-60"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "local": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan-60"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.864",
+    "lon": "100.429"
+  },
+  "metadata": {},
+  "source": {}
+}

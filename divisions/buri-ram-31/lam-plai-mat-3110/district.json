@@ -1,0 +1,47 @@
+{
+  "id": "3110",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ลำปลายมาศ",
+    "en": "Lam Plai Mat",
+    "slug": "lam-plai-mat-3110"
+  },
+  "code": {
+    "id": "3110",
+    "iso": null
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "local": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram-31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram-31"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.019",
+    "lon": "102.834"
+  },
+  "metadata": {},
+  "source": {}
+}

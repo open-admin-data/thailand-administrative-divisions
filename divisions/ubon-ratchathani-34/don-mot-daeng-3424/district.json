@@ -1,0 +1,47 @@
+{
+  "id": "3424",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ดอนมดแดง",
+    "en": "Don Mot Daeng",
+    "slug": "don-mot-daeng-3424"
+  },
+  "code": {
+    "id": "3424",
+    "iso": null
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "local": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani-34"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani-34"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.372",
+    "lon": "104.968"
+  },
+  "metadata": {},
+  "source": {}
+}

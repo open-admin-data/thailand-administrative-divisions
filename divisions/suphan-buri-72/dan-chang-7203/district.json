@@ -1,0 +1,47 @@
+{
+  "id": "7203",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ด่านช้าง",
+    "en": "Dan Chang",
+    "slug": "dan-chang-7203"
+  },
+  "code": {
+    "id": "7203",
+    "iso": null
+  },
+  "parent": {
+    "id": "72",
+    "level": 1,
+    "name": {
+      "local": "สุพรรณบุรี",
+      "en": "Suphan Buri",
+      "slug": "suphan-buri-72"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri-72"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.937",
+    "lon": "99.666"
+  },
+  "metadata": {},
+  "source": {}
+}

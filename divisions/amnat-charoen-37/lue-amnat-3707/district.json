@@ -1,0 +1,47 @@
+{
+  "id": "3707",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ลืออำนาจ",
+    "en": "Lue Amnat",
+    "slug": "lue-amnat-3707"
+  },
+  "code": {
+    "id": "3707",
+    "iso": null
+  },
+  "parent": {
+    "id": "37",
+    "level": 1,
+    "name": {
+      "local": "อำนาจเจริญ",
+      "en": "Amnat Charoen",
+      "slug": "amnat-charoen-37"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen-37"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.716",
+    "lon": "104.617"
+  },
+  "metadata": {},
+  "source": {}
+}

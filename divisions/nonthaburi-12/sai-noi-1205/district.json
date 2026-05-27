@@ -1,0 +1,47 @@
+{
+  "id": "1205",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ไทรน้อย",
+    "en": "Sai Noi",
+    "slug": "sai-noi-1205"
+  },
+  "code": {
+    "id": "1205",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "นนทบุรี",
+      "en": "Nonthaburi",
+      "slug": "nonthaburi-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi-12"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.976",
+    "lon": "100.344"
+  },
+  "metadata": {},
+  "source": {}
+}

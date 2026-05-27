@@ -1,0 +1,47 @@
+{
+  "id": "7010",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ้านคา",
+    "en": "Ban Kha",
+    "slug": "ban-kha-7010"
+  },
+  "code": {
+    "id": "7010",
+    "iso": null
+  },
+  "parent": {
+    "id": "70",
+    "level": 1,
+    "name": {
+      "local": "ราชบุรี",
+      "en": "Ratchaburi",
+      "slug": "ratchaburi-70"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "local": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi-70"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.448",
+    "lon": "99.462"
+  },
+  "metadata": {},
+  "source": {}
+}

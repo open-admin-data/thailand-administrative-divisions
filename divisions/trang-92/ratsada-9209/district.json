@@ -1,0 +1,47 @@
+{
+  "id": "9209",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "รัษฎา",
+    "en": "Ratsada",
+    "slug": "ratsada-9209"
+  },
+  "code": {
+    "id": "9209",
+    "iso": null
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "local": "ตรัง",
+      "en": "Trang",
+      "slug": "trang-92"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "ตรัง",
+        "en": "Trang",
+        "slug": "trang-92"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.987",
+    "lon": "99.645"
+  },
+  "metadata": {},
+  "source": {}
+}

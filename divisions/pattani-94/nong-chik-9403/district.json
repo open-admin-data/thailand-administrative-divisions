@@ -1,0 +1,47 @@
+{
+  "id": "9403",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "หนองจิก",
+    "en": "Nong Chik",
+    "slug": "nong-chik-9403"
+  },
+  "code": {
+    "id": "9403",
+    "iso": null
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "local": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani-94"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani-94"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.858",
+    "lon": "101.158"
+  },
+  "metadata": {},
+  "source": {}
+}

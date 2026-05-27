@@ -1,0 +1,47 @@
+{
+  "id": "5501",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองน่าน",
+    "en": "Mueang Nan",
+    "slug": "mueang-nan-5501"
+  },
+  "code": {
+    "id": "5501",
+    "iso": null
+  },
+  "parent": {
+    "id": "55",
+    "level": 1,
+    "name": {
+      "local": "น่าน",
+      "en": "Nan",
+      "slug": "nan-55"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "local": "น่าน",
+        "en": "Nan",
+        "slug": "nan-55"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.793",
+    "lon": "100.786"
+  },
+  "metadata": {},
+  "source": {}
+}

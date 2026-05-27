@@ -1,0 +1,47 @@
+{
+  "id": "7606",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ้านลาด",
+    "en": "Ban Lat",
+    "slug": "ban-lat-7606"
+  },
+  "code": {
+    "id": "7606",
+    "iso": null
+  },
+  "parent": {
+    "id": "76",
+    "level": 1,
+    "name": {
+      "local": "เพชรบุรี",
+      "en": "Phetchaburi",
+      "slug": "phetchaburi-76"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi-76"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.102",
+    "lon": "99.895"
+  },
+  "metadata": {},
+  "source": {}
+}

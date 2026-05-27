@@ -1,0 +1,47 @@
+{
+  "id": "1007",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ปทุมวัน",
+    "en": "Pathum Wan",
+    "slug": "pathum-wan-1007"
+  },
+  "code": {
+    "id": "1007",
+    "iso": null
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "local": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok-10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok-10"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.744",
+    "lon": "100.52"
+  },
+  "metadata": {},
+  "source": {}
+}

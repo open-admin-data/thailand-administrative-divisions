@@ -1,0 +1,47 @@
+{
+  "id": "8604",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "หลังสวน",
+    "en": "Lang Suan",
+    "slug": "lang-suan-8604"
+  },
+  "code": {
+    "id": "8604",
+    "iso": null
+  },
+  "parent": {
+    "id": "86",
+    "level": 1,
+    "name": {
+      "local": "ชุมพร",
+      "en": "Chumphon",
+      "slug": "chumphon-86"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "local": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon-86"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.051",
+    "lon": "99.188"
+  },
+  "metadata": {},
+  "source": {}
+}

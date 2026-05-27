@@ -1,0 +1,47 @@
+{
+  "id": "4602",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "นามน",
+    "en": "Na Mon",
+    "slug": "na-mon-4602"
+  },
+  "code": {
+    "id": "4602",
+    "iso": null
+  },
+  "parent": {
+    "id": "46",
+    "level": 1,
+    "name": {
+      "local": "กาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin-46"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin-46"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.548",
+    "lon": "103.82"
+  },
+  "metadata": {},
+  "source": {}
+}

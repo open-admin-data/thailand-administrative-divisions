@@ -1,0 +1,47 @@
+{
+  "id": "1503",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ป่าโมก",
+    "en": "Pa Mok",
+    "slug": "pa-mok-1503"
+  },
+  "code": {
+    "id": "1503",
+    "iso": null
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "local": "อ่างทอง",
+      "en": "Ang Thong",
+      "slug": "ang-thong-15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong-15"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.509",
+    "lon": "100.461"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1009",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พระโขนง",
+    "en": "Phra Khanong",
+    "slug": "phra-khanong-1009"
+  },
+  "code": {
+    "id": "1009",
+    "iso": null
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "local": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok-10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok-10"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.692",
+    "lon": "100.626"
+  },
+  "metadata": {},
+  "source": {}
+}

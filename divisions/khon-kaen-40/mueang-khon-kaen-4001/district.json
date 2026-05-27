@@ -1,0 +1,47 @@
+{
+  "id": "4001",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองขอนแก่น",
+    "en": "Mueang Khon Kaen",
+    "slug": "mueang-khon-kaen-4001"
+  },
+  "code": {
+    "id": "4001",
+    "iso": null
+  },
+  "parent": {
+    "id": "40",
+    "level": 1,
+    "name": {
+      "local": "ขอนแก่น",
+      "en": "Khon Kaen",
+      "slug": "khon-kaen-40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen-40"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.516",
+    "lon": "102.931"
+  },
+  "metadata": {},
+  "source": {}
+}

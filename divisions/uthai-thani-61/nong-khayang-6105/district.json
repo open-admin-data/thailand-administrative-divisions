@@ -1,0 +1,47 @@
+{
+  "id": "6105",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "หนองขาหย่าง",
+    "en": "Nong Khayang",
+    "slug": "nong-khayang-6105"
+  },
+  "code": {
+    "id": "6105",
+    "iso": null
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "local": "อุทัยธานี",
+      "en": "Uthai Thani",
+      "slug": "uthai-thani-61"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani-61"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.371",
+    "lon": "99.9"
+  },
+  "metadata": {},
+  "source": {}
+}

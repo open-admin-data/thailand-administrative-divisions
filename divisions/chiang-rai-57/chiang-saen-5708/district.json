@@ -1,0 +1,47 @@
+{
+  "id": "5708",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เชียงแสน",
+    "en": "Chiang Saen",
+    "slug": "chiang-saen-5708"
+  },
+  "code": {
+    "id": "5708",
+    "iso": null
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "local": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai-57"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "local": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai-57"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.28",
+    "lon": "100.003"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "6408",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ศรีนคร",
+    "en": "Si Nakhon",
+    "slug": "si-nakhon-6408"
+  },
+  "code": {
+    "id": "6408",
+    "iso": null
+  },
+  "parent": {
+    "id": "64",
+    "level": 1,
+    "name": {
+      "local": "สุโขทัย",
+      "en": "Sukhothai",
+      "slug": "sukhothai-64"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai-64"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.285",
+    "lon": "99.958"
+  },
+  "metadata": {},
+  "source": {}
+}

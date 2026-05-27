@@ -1,0 +1,47 @@
+{
+  "id": "3411",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ตระการพืชผล",
+    "en": "Trakan Phuet Phon",
+    "slug": "trakan-phuet-phon-3411"
+  },
+  "code": {
+    "id": "3411",
+    "iso": null
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "local": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani-34"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani-34"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 23
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.601",
+    "lon": "105.021"
+  },
+  "metadata": {},
+  "source": {}
+}

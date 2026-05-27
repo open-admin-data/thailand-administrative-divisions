@@ -1,0 +1,170 @@
+[
+  {
+    "id": "470301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กุดบาก",
+      "en": "Kut Bak",
+      "slug": "kut-bak-470301"
+    },
+    "code": {
+      "id": "470301",
+      "iso": null
+    },
+    "parent": {
+      "id": "4703",
+      "level": 2,
+      "name": {
+        "local": "กุดบาก",
+        "en": "Kut Bak",
+        "slug": "kut-bak-4703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "47",
+        "level": 1,
+        "name": {
+          "local": "สกลนคร",
+          "en": "Sakon Nakhon",
+          "slug": "sakon-nakhon-47"
+        }
+      },
+      {
+        "id": "4703",
+        "level": 2,
+        "name": {
+          "local": "กุดบาก",
+          "en": "Kut Bak",
+          "slug": "kut-bak-4703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47180"
+    ],
+    "geo": {
+      "lat": "17.051",
+      "lon": "103.762"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "470305",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กุดไห",
+      "en": "Kut Hai",
+      "slug": "kut-hai-470305"
+    },
+    "code": {
+      "id": "470305",
+      "iso": null
+    },
+    "parent": {
+      "id": "4703",
+      "level": 2,
+      "name": {
+        "local": "กุดบาก",
+        "en": "Kut Bak",
+        "slug": "kut-bak-4703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "47",
+        "level": 1,
+        "name": {
+          "local": "สกลนคร",
+          "en": "Sakon Nakhon",
+          "slug": "sakon-nakhon-47"
+        }
+      },
+      {
+        "id": "4703",
+        "level": 2,
+        "name": {
+          "local": "กุดบาก",
+          "en": "Kut Bak",
+          "slug": "kut-bak-4703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47180"
+    ],
+    "geo": {
+      "lat": "17.1",
+      "lon": "103.696"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "470303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาม่อง",
+      "en": "Na Mong",
+      "slug": "na-mong-470303"
+    },
+    "code": {
+      "id": "470303",
+      "iso": null
+    },
+    "parent": {
+      "id": "4703",
+      "level": 2,
+      "name": {
+        "local": "กุดบาก",
+        "en": "Kut Bak",
+        "slug": "kut-bak-4703"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "47",
+        "level": 1,
+        "name": {
+          "local": "สกลนคร",
+          "en": "Sakon Nakhon",
+          "slug": "sakon-nakhon-47"
+        }
+      },
+      {
+        "id": "4703",
+        "level": 2,
+        "name": {
+          "local": "กุดบาก",
+          "en": "Kut Bak",
+          "slug": "kut-bak-4703"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47180"
+    ],
+    "geo": {
+      "lat": "17.093",
+      "lon": "103.906"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

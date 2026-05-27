@@ -1,0 +1,47 @@
+{
+  "id": "8402",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "กาญจนดิษฐ์",
+    "en": "Kanchanadit",
+    "slug": "kanchanadit-8402"
+  },
+  "code": {
+    "id": "8402",
+    "iso": null
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "local": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani-84"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "local": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani-84"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.181",
+    "lon": "99.465"
+  },
+  "metadata": {},
+  "source": {}
+}

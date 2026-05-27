@@ -1,0 +1,47 @@
+{
+  "id": "4703",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "กุดบาก",
+    "en": "Kut Bak",
+    "slug": "kut-bak-4703"
+  },
+  "code": {
+    "id": "4703",
+    "iso": null
+  },
+  "parent": {
+    "id": "47",
+    "level": 1,
+    "name": {
+      "local": "สกลนคร",
+      "en": "Sakon Nakhon",
+      "slug": "sakon-nakhon-47"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "local": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon-47"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.1",
+    "lon": "103.696"
+  },
+  "metadata": {},
+  "source": {}
+}

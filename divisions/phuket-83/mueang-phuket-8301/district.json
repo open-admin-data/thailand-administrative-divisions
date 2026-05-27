@@ -1,0 +1,47 @@
+{
+  "id": "8301",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองภูเก็ต",
+    "en": "Mueang Phuket",
+    "slug": "mueang-phuket-8301"
+  },
+  "code": {
+    "id": "8301",
+    "iso": null
+  },
+  "parent": {
+    "id": "83",
+    "level": 1,
+    "name": {
+      "local": "ภูเก็ต",
+      "en": "Phuket",
+      "slug": "phuket-83"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "local": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket-83"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.924",
+    "lon": "98.455"
+  },
+  "metadata": {},
+  "source": {}
+}

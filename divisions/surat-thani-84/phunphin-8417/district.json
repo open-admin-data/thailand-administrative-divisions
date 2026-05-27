@@ -1,0 +1,47 @@
+{
+  "id": "8417",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พุนพิน",
+    "en": "Phunphin",
+    "slug": "phunphin-8417"
+  },
+  "code": {
+    "id": "8417",
+    "iso": null
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "local": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani-84"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "local": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani-84"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.125",
+    "lon": "99.199"
+  },
+  "metadata": {},
+  "source": {}
+}

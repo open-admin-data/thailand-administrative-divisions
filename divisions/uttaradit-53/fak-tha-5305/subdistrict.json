@@ -1,0 +1,226 @@
+[
+  {
+    "id": "530503",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านเสี้ยว",
+      "en": "Ban Siao",
+      "slug": "ban-siao-530503"
+    },
+    "code": {
+      "id": "530503",
+      "iso": null
+    },
+    "parent": {
+      "id": "5305",
+      "level": 2,
+      "name": {
+        "local": "ฟากท่า",
+        "en": "Fak Tha",
+        "slug": "fak-tha-5305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5305",
+        "level": 2,
+        "name": {
+          "local": "ฟากท่า",
+          "en": "Fak Tha",
+          "slug": "fak-tha-5305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53160"
+    ],
+    "geo": {
+      "lat": "17.914",
+      "lon": "100.848"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530501",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ฟากท่า",
+      "en": "Fak Tha",
+      "slug": "fak-tha-530501"
+    },
+    "code": {
+      "id": "530501",
+      "iso": null
+    },
+    "parent": {
+      "id": "5305",
+      "level": 2,
+      "name": {
+        "local": "ฟากท่า",
+        "en": "Fak Tha",
+        "slug": "fak-tha-5305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5305",
+        "level": 2,
+        "name": {
+          "local": "ฟากท่า",
+          "en": "Fak Tha",
+          "slug": "fak-tha-5305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53160"
+    ],
+    "geo": {
+      "lat": "18.068",
+      "lon": "100.937"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530504",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สองห้อง",
+      "en": "Song Hong",
+      "slug": "song-hong-530504"
+    },
+    "code": {
+      "id": "530504",
+      "iso": null
+    },
+    "parent": {
+      "id": "5305",
+      "level": 2,
+      "name": {
+        "local": "ฟากท่า",
+        "en": "Fak Tha",
+        "slug": "fak-tha-5305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5305",
+        "level": 2,
+        "name": {
+          "local": "ฟากท่า",
+          "en": "Fak Tha",
+          "slug": "fak-tha-5305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53160"
+    ],
+    "geo": {
+      "lat": "17.93",
+      "lon": "100.757"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530502",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สองคอน",
+      "en": "Song Khon",
+      "slug": "song-khon-530502"
+    },
+    "code": {
+      "id": "530502",
+      "iso": null
+    },
+    "parent": {
+      "id": "5305",
+      "level": 2,
+      "name": {
+        "local": "ฟากท่า",
+        "en": "Fak Tha",
+        "slug": "fak-tha-5305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5305",
+        "level": 2,
+        "name": {
+          "local": "ฟากท่า",
+          "en": "Fak Tha",
+          "slug": "fak-tha-5305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53160"
+    ],
+    "geo": {
+      "lat": "17.955",
+      "lon": "100.906"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "6206",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พรานกระต่าย",
+    "en": "Phran Kratai",
+    "slug": "phran-kratai-6206"
+  },
+  "code": {
+    "id": "6206",
+    "iso": null
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "local": "กำแพงเพชร",
+      "en": "Kamphaeng Phet",
+      "slug": "kamphaeng-phet-62"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet-62"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.666",
+    "lon": "99.742"
+  },
+  "metadata": {},
+  "source": {}
+}

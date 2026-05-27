@@ -1,0 +1,114 @@
+[
+  {
+    "id": "230602",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เกาะกูด",
+      "en": "Ko Kut",
+      "slug": "ko-kut-230602"
+    },
+    "code": {
+      "id": "230602",
+      "iso": null
+    },
+    "parent": {
+      "id": "2306",
+      "level": 2,
+      "name": {
+        "local": "เกาะกูด",
+        "en": "Ko Kut",
+        "slug": "ko-kut-2306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2306",
+        "level": 2,
+        "name": {
+          "local": "เกาะกูด",
+          "en": "Ko Kut",
+          "slug": "ko-kut-2306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23000"
+    ],
+    "geo": {
+      "lat": "11.657",
+      "lon": "102.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "230601",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เกาะหมาก",
+      "en": "Ko Mak",
+      "slug": "ko-mak-230601"
+    },
+    "code": {
+      "id": "230601",
+      "iso": null
+    },
+    "parent": {
+      "id": "2306",
+      "level": 2,
+      "name": {
+        "local": "เกาะกูด",
+        "en": "Ko Kut",
+        "slug": "ko-kut-2306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2306",
+        "level": 2,
+        "name": {
+          "local": "เกาะกูด",
+          "en": "Ko Kut",
+          "slug": "ko-kut-2306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23000"
+    ],
+    "geo": {
+      "lat": "11.818",
+      "lon": "102.481"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

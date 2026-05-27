@@ -1,0 +1,47 @@
+{
+  "id": "5514",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ภูเพียง",
+    "en": "Phu Phiang",
+    "slug": "phu-phiang-5514"
+  },
+  "code": {
+    "id": "5514",
+    "iso": null
+  },
+  "parent": {
+    "id": "55",
+    "level": 1,
+    "name": {
+      "local": "น่าน",
+      "en": "Nan",
+      "slug": "nan-55"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "local": "น่าน",
+        "en": "Nan",
+        "slug": "nan-55"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.756",
+    "lon": "100.816"
+  },
+  "metadata": {},
+  "source": {}
+}

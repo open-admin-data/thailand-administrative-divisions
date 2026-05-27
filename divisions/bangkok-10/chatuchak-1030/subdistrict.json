@@ -1,0 +1,58 @@
+[
+  {
+    "id": "103001",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ลาดยาว",
+      "en": "Lat Yao",
+      "slug": "lat-yao-103001"
+    },
+    "code": {
+      "id": "103001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1030",
+      "level": 2,
+      "name": {
+        "local": "จตุจักร",
+        "en": "Chatuchak",
+        "slug": "chatuchak-1030"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1030",
+        "level": 2,
+        "name": {
+          "local": "จตุจักร",
+          "en": "Chatuchak",
+          "slug": "chatuchak-1030"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10900"
+    ],
+    "geo": {
+      "lat": "13.826",
+      "lon": "100.565"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

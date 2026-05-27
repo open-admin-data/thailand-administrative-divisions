@@ -1,0 +1,47 @@
+{
+  "id": "1004",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บางรัก",
+    "en": "Bang Rak",
+    "slug": "bang-rak-1004"
+  },
+  "code": {
+    "id": "1004",
+    "iso": null
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "local": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok-10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok-10"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.725",
+    "lon": "100.514"
+  },
+  "metadata": {},
+  "source": {}
+}

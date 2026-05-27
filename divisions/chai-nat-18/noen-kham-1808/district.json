@@ -1,0 +1,47 @@
+{
+  "id": "1808",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เนินขาม",
+    "en": "Noen Kham",
+    "slug": "noen-kham-1808"
+  },
+  "code": {
+    "id": "1808",
+    "iso": null
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "local": "ชัยนาท",
+      "en": "Chai Nat",
+      "slug": "chai-nat-18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat-18"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.968",
+    "lon": "99.828"
+  },
+  "metadata": {},
+  "source": {}
+}

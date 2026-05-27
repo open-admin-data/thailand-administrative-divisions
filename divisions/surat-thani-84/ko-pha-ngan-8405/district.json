@@ -1,0 +1,47 @@
+{
+  "id": "8405",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เกาะพะงัน",
+    "en": "Ko Pha-ngan",
+    "slug": "ko-pha-ngan-8405"
+  },
+  "code": {
+    "id": "8405",
+    "iso": null
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "local": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani-84"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "local": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani-84"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.802",
+    "lon": "99.979"
+  },
+  "metadata": {},
+  "source": {}
+}

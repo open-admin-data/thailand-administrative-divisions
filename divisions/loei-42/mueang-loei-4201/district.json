@@ -1,0 +1,47 @@
+{
+  "id": "4201",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองเลย",
+    "en": "Mueang Loei",
+    "slug": "mueang-loei-4201"
+  },
+  "code": {
+    "id": "4201",
+    "iso": null
+  },
+  "parent": {
+    "id": "42",
+    "level": 1,
+    "name": {
+      "local": "เลย",
+      "en": "Loei",
+      "slug": "loei-42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "เลย",
+        "en": "Loei",
+        "slug": "loei-42"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.493",
+    "lon": "101.732"
+  },
+  "metadata": {},
+  "source": {}
+}

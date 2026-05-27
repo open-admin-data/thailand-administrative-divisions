@@ -1,0 +1,58 @@
+[
+  {
+    "id": "104401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สะพานสูง",
+      "en": "Sapan Sung",
+      "slug": "sapan-sung-104401"
+    },
+    "code": {
+      "id": "104401",
+      "iso": null
+    },
+    "parent": {
+      "id": "1044",
+      "level": 2,
+      "name": {
+        "local": "สะพานสูง",
+        "en": "Saphan Sung",
+        "slug": "saphan-sung-1044"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1044",
+        "level": 2,
+        "name": {
+          "local": "สะพานสูง",
+          "en": "Saphan Sung",
+          "slug": "saphan-sung-1044"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10240"
+    ],
+    "geo": {
+      "lat": "13.761",
+      "lon": "100.688"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "3112",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ปะคำ",
+    "en": "Pakham",
+    "slug": "pakham-3112"
+  },
+  "code": {
+    "id": "3112",
+    "iso": null
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "local": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram-31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram-31"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.432",
+    "lon": "102.657"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "571702",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดงมหาวัน",
+      "en": "Dong Maha Wan",
+      "slug": "dong-maha-wan-571702"
+    },
+    "code": {
+      "id": "571702",
+      "iso": null
+    },
+    "parent": {
+      "id": "5717",
+      "level": 2,
+      "name": {
+        "local": "เวียงเชียงรุ้ง",
+        "en": "Wiang Chiang Rung",
+        "slug": "wiang-chiang-rung-5717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5717",
+        "level": 2,
+        "name": {
+          "local": "เวียงเชียงรุ้ง",
+          "en": "Wiang Chiang Rung",
+          "slug": "wiang-chiang-rung-5717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57210"
+    ],
+    "geo": {
+      "lat": "20.041",
+      "lon": "100.006"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "571703",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ป่าซาง",
+      "en": "Pa Sang",
+      "slug": "pa-sang-571703"
+    },
+    "code": {
+      "id": "571703",
+      "iso": null
+    },
+    "parent": {
+      "id": "5717",
+      "level": 2,
+      "name": {
+        "local": "เวียงเชียงรุ้ง",
+        "en": "Wiang Chiang Rung",
+        "slug": "wiang-chiang-rung-5717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5717",
+        "level": 2,
+        "name": {
+          "local": "เวียงเชียงรุ้ง",
+          "en": "Wiang Chiang Rung",
+          "slug": "wiang-chiang-rung-5717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57210"
+    ],
+    "geo": {
+      "lat": "20.048",
+      "lon": "100.12"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "571701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งก่อ",
+      "en": "Thung Ko",
+      "slug": "thung-ko-571701"
+    },
+    "code": {
+      "id": "571701",
+      "iso": null
+    },
+    "parent": {
+      "id": "5717",
+      "level": 2,
+      "name": {
+        "local": "เวียงเชียงรุ้ง",
+        "en": "Wiang Chiang Rung",
+        "slug": "wiang-chiang-rung-5717"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5717",
+        "level": 2,
+        "name": {
+          "local": "เวียงเชียงรุ้ง",
+          "en": "Wiang Chiang Rung",
+          "slug": "wiang-chiang-rung-5717"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57210"
+    ],
+    "geo": {
+      "lat": "19.984",
+      "lon": "100.049"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

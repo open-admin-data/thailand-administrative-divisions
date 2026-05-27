@@ -1,0 +1,170 @@
+[
+  {
+    "id": "560402",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านมาง",
+      "en": "Ban Mang",
+      "slug": "ban-mang-560402"
+    },
+    "code": {
+      "id": "560402",
+      "iso": null
+    },
+    "parent": {
+      "id": "5604",
+      "level": 2,
+      "name": {
+        "local": "เชียงม่วน",
+        "en": "Chiang Muan",
+        "slug": "chiang-muan-5604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao-56"
+        }
+      },
+      {
+        "id": "5604",
+        "level": 2,
+        "name": {
+          "local": "เชียงม่วน",
+          "en": "Chiang Muan",
+          "slug": "chiang-muan-5604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56160"
+    ],
+    "geo": {
+      "lat": "18.869",
+      "lon": "100.22"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "560401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เชียงม่วน",
+      "en": "Chiang Muan",
+      "slug": "chiang-muan-560401"
+    },
+    "code": {
+      "id": "560401",
+      "iso": null
+    },
+    "parent": {
+      "id": "5604",
+      "level": 2,
+      "name": {
+        "local": "เชียงม่วน",
+        "en": "Chiang Muan",
+        "slug": "chiang-muan-5604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao-56"
+        }
+      },
+      {
+        "id": "5604",
+        "level": 2,
+        "name": {
+          "local": "เชียงม่วน",
+          "en": "Chiang Muan",
+          "slug": "chiang-muan-5604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56160"
+    ],
+    "geo": {
+      "lat": "18.888",
+      "lon": "100.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "560403",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สระ",
+      "en": "Sa",
+      "slug": "sa-560403"
+    },
+    "code": {
+      "id": "560403",
+      "iso": null
+    },
+    "parent": {
+      "id": "5604",
+      "level": 2,
+      "name": {
+        "local": "เชียงม่วน",
+        "en": "Chiang Muan",
+        "slug": "chiang-muan-5604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao-56"
+        }
+      },
+      {
+        "id": "5604",
+        "level": 2,
+        "name": {
+          "local": "เชียงม่วน",
+          "en": "Chiang Muan",
+          "slug": "chiang-muan-5604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56160"
+    ],
+    "geo": {
+      "lat": "18.992",
+      "lon": "100.404"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

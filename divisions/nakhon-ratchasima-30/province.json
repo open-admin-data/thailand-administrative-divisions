@@ -1,0 +1,30 @@
+{
+  "id": "30",
+  "level": 1,
+  "level_name": {
+    "local": "จังหวัด",
+    "en": "Province"
+  },
+  "name": {
+    "local": "นครราชสีมา",
+    "en": "Nakhon Ratchasima",
+    "slug": "nakhon-ratchasima-30"
+  },
+  "code": {
+    "id": "30",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 32,
+    "subdistrict": 285
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.909",
+    "lon": "101.851"
+  },
+  "metadata": {},
+  "source": {}
+}

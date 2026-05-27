@@ -1,0 +1,47 @@
+{
+  "id": "5401",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองแพร่",
+    "en": "Mueang Phrae",
+    "slug": "mueang-phrae-5401"
+  },
+  "code": {
+    "id": "5401",
+    "iso": null
+  },
+  "parent": {
+    "id": "54",
+    "level": 1,
+    "name": {
+      "local": "แพร่",
+      "en": "Phrae",
+      "slug": "phrae-54"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "local": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae-54"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.14",
+    "lon": "100.142"
+  },
+  "metadata": {},
+  "source": {}
+}

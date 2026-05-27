@@ -1,0 +1,47 @@
+{
+  "id": "1014",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พญาไท",
+    "en": "Phaya Thai",
+    "slug": "phaya-thai-1014"
+  },
+  "code": {
+    "id": "1014",
+    "iso": null
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "local": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok-10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok-10"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 1
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.782",
+    "lon": "100.545"
+  },
+  "metadata": {},
+  "source": {}
+}

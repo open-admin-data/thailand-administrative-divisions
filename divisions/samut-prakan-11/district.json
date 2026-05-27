@@ -1,0 +1,284 @@
+[
+  {
+    "id": "1102",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "บางบ่อ",
+      "en": "Bang Bo",
+      "slug": "bang-bo-1102"
+    },
+    "code": {
+      "id": "1102",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan-11"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.659",
+      "lon": "100.925"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1103",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "บางพลี",
+      "en": "Bang Phli",
+      "slug": "bang-phli-1103"
+    },
+    "code": {
+      "id": "1103",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan-11"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.642",
+      "lon": "100.662"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1106",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "บางเสาธง",
+      "en": "Bang Sao Thong",
+      "slug": "bang-sao-thong-1106"
+    },
+    "code": {
+      "id": "1106",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan-11"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.641",
+      "lon": "100.803"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1101",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "เมืองสมุทรปราการ",
+      "en": "Mueang Samut Prakan",
+      "slug": "mueang-samut-prakan-1101"
+    },
+    "code": {
+      "id": "1101",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan-11"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.623",
+      "lon": "100.565"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1104",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "พระประแดง",
+      "en": "Phra Pradaeng",
+      "slug": "phra-pradaeng-1104"
+    },
+    "code": {
+      "id": "1104",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan-11"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.656",
+      "lon": "100.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "1105",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "พระสมุทรเจดีย์",
+      "en": "Phra Samut Chedi",
+      "slug": "phra-samut-chedi-1105"
+    },
+    "code": {
+      "id": "1105",
+      "iso": null
+    },
+    "parent": {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan-11"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan-11"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.606",
+      "lon": "100.567"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

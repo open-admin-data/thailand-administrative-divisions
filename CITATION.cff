@@ -3,10 +3,9 @@ message: "If you use this dataset, please cite as below"
 type: dataset
 authors:
   - name: "jakkrapongt"
-    website: "https://thaiaddress.org"
 title: "Thailand Administrative Divisions Dataset"
 version: "2026.05"
-date-released: "2026-05-09"
+date-released: "2026-05-27"
 url: "https://github.com/open-admin-data/thailand-administrative-divisions"
 repository-code: "https://github.com/open-admin-data/thailand-administrative-divisions"
 license: CC-BY-4.0
@@ -14,15 +13,10 @@ keywords:
   - thailand
   - administrative-divisions
   - geography
-  - thai-language
+  - open-data
   - dataset
-  - government-data
-  - hierarchical-data
-  - bilingual
-  - asean
+  - multilingual
 abstract: >
-  Open dataset of Thailand's complete 4-level administrative hierarchy
-  including 77 provinces, ~928 districts, ~7,000 subdistricts, and ~75,000
-  villages. Bilingual (Thai + English) with DOPA codes, parent references,
-  and ancestor chains. Sourced from ThaiAddress.org. Designed for AI agent
-  integration, government applications, and developer use.
+  Open dataset of Thailand's administrative hierarchy:
+  77 provinces, 928 districts, 7,364 subdistricts.
+  Bilingual with coordinates and postal codes where available.

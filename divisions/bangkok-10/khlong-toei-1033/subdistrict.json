@@ -1,0 +1,170 @@
+[
+  {
+    "id": "103302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองตัน",
+      "en": "Khlong Tan",
+      "slug": "khlong-tan-103302"
+    },
+    "code": {
+      "id": "103302",
+      "iso": null
+    },
+    "parent": {
+      "id": "1033",
+      "level": 2,
+      "name": {
+        "local": "คลองเตย",
+        "en": "Khlong Toei",
+        "slug": "khlong-toei-1033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1033",
+        "level": 2,
+        "name": {
+          "local": "คลองเตย",
+          "en": "Khlong Toei",
+          "slug": "khlong-toei-1033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10110"
+    ],
+    "geo": {
+      "lat": "13.723",
+      "lon": "100.571"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "103301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองเตย",
+      "en": "Khlong Toei",
+      "slug": "khlong-toei-103301"
+    },
+    "code": {
+      "id": "103301",
+      "iso": null
+    },
+    "parent": {
+      "id": "1033",
+      "level": 2,
+      "name": {
+        "local": "คลองเตย",
+        "en": "Khlong Toei",
+        "slug": "khlong-toei-1033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1033",
+        "level": 2,
+        "name": {
+          "local": "คลองเตย",
+          "en": "Khlong Toei",
+          "slug": "khlong-toei-1033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10110"
+    ],
+    "geo": {
+      "lat": "13.71",
+      "lon": "100.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "103303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "พระโขนง",
+      "en": "Phra Khanong",
+      "slug": "phra-khanong-103303"
+    },
+    "code": {
+      "id": "103303",
+      "iso": null
+    },
+    "parent": {
+      "id": "1033",
+      "level": 2,
+      "name": {
+        "local": "คลองเตย",
+        "en": "Khlong Toei",
+        "slug": "khlong-toei-1033"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1033",
+        "level": 2,
+        "name": {
+          "local": "คลองเตย",
+          "en": "Khlong Toei",
+          "slug": "khlong-toei-1033"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10110"
+    ],
+    "geo": {
+      "lat": "13.707",
+      "lon": "100.595"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

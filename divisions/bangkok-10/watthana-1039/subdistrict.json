@@ -1,0 +1,170 @@
+[
+  {
+    "id": "103902",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองตันเหนือ",
+      "en": "Khlong Tan Nuea",
+      "slug": "khlong-tan-nuea-103902"
+    },
+    "code": {
+      "id": "103902",
+      "iso": null
+    },
+    "parent": {
+      "id": "1039",
+      "level": 2,
+      "name": {
+        "local": "วัฒนา",
+        "en": "Watthana",
+        "slug": "watthana-1039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1039",
+        "level": 2,
+        "name": {
+          "local": "วัฒนา",
+          "en": "Watthana",
+          "slug": "watthana-1039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10110"
+    ],
+    "geo": {
+      "lat": "13.736",
+      "lon": "100.576"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "103901",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองเตยเหนือ",
+      "en": "Khlong Toei Nuea",
+      "slug": "khlong-toei-nuea-103901"
+    },
+    "code": {
+      "id": "103901",
+      "iso": null
+    },
+    "parent": {
+      "id": "1039",
+      "level": 2,
+      "name": {
+        "local": "วัฒนา",
+        "en": "Watthana",
+        "slug": "watthana-1039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1039",
+        "level": 2,
+        "name": {
+          "local": "วัฒนา",
+          "en": "Watthana",
+          "slug": "watthana-1039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10110"
+    ],
+    "geo": {
+      "lat": "13.743",
+      "lon": "100.56"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "103903",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "พระโขนงเหนือ",
+      "en": "Phra Khanong Nuea",
+      "slug": "phra-khanong-nuea-103903"
+    },
+    "code": {
+      "id": "103903",
+      "iso": null
+    },
+    "parent": {
+      "id": "1039",
+      "level": 2,
+      "name": {
+        "local": "วัฒนา",
+        "en": "Watthana",
+        "slug": "watthana-1039"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1039",
+        "level": 2,
+        "name": {
+          "local": "วัฒนา",
+          "en": "Watthana",
+          "slug": "watthana-1039"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10110"
+    ],
+    "geo": {
+      "lat": "13.719",
+      "lon": "100.596"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

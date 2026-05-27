@@ -1,0 +1,170 @@
+[
+  {
+    "id": "402608",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เขาน้อย",
+      "en": "Khao Noi",
+      "slug": "khao-noi-402608"
+    },
+    "code": {
+      "id": "402608",
+      "iso": null
+    },
+    "parent": {
+      "id": "4026",
+      "level": 2,
+      "name": {
+        "local": "เวียงเก่า",
+        "en": "Wiang Kao",
+        "slug": "wiang-kao-4026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen-40"
+        }
+      },
+      {
+        "id": "4026",
+        "level": 2,
+        "name": {
+          "local": "เวียงเก่า",
+          "en": "Wiang Kao",
+          "slug": "wiang-kao-4026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40150"
+    ],
+    "geo": {
+      "lat": "16.723",
+      "lon": "102.33"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "402615",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เมืองเก่าพัฒนา",
+      "en": "Mueang Kao Phatthana",
+      "slug": "mueang-kao-phatthana-402615"
+    },
+    "code": {
+      "id": "402615",
+      "iso": null
+    },
+    "parent": {
+      "id": "4026",
+      "level": 2,
+      "name": {
+        "local": "เวียงเก่า",
+        "en": "Wiang Kao",
+        "slug": "wiang-kao-4026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen-40"
+        }
+      },
+      {
+        "id": "4026",
+        "level": 2,
+        "name": {
+          "local": "เวียงเก่า",
+          "en": "Wiang Kao",
+          "slug": "wiang-kao-4026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40150"
+    ],
+    "geo": {
+      "lat": "16.625",
+      "lon": "102.206"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "402602",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang-402602"
+    },
+    "code": {
+      "id": "402602",
+      "iso": null
+    },
+    "parent": {
+      "id": "4026",
+      "level": 2,
+      "name": {
+        "local": "เวียงเก่า",
+        "en": "Wiang Kao",
+        "slug": "wiang-kao-4026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen-40"
+        }
+      },
+      {
+        "id": "4026",
+        "level": 2,
+        "name": {
+          "local": "เวียงเก่า",
+          "en": "Wiang Kao",
+          "slug": "wiang-kao-4026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40150"
+    ],
+    "geo": {
+      "lat": "16.742",
+      "lon": "102.259"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

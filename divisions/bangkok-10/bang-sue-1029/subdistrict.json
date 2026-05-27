@@ -1,0 +1,58 @@
+[
+  {
+    "id": "102901",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางซื่อ",
+      "en": "Bang Sue",
+      "slug": "bang-sue-102901"
+    },
+    "code": {
+      "id": "102901",
+      "iso": null
+    },
+    "parent": {
+      "id": "1029",
+      "level": 2,
+      "name": {
+        "local": "บางซื่อ",
+        "en": "Bang Sue",
+        "slug": "bang-sue-1029"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1029",
+        "level": 2,
+        "name": {
+          "local": "บางซื่อ",
+          "en": "Bang Sue",
+          "slug": "bang-sue-1029"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10800"
+    ],
+    "geo": {
+      "lat": "13.82",
+      "lon": "100.529"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

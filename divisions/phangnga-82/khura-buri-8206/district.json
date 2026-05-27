@@ -1,0 +1,47 @@
+{
+  "id": "8206",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "คุระบุรี",
+    "en": "Khura Buri",
+    "slug": "khura-buri-8206"
+  },
+  "code": {
+    "id": "8206",
+    "iso": null
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "local": "พังงา",
+      "en": "Phangnga",
+      "slug": "phangnga-82"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga-82"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.406",
+    "lon": "97.901"
+  },
+  "metadata": {},
+  "source": {}
+}

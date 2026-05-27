@@ -1,0 +1,47 @@
+{
+  "id": "1609",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "โคกเจริญ",
+    "en": "Khok Charoen",
+    "slug": "khok-charoen-1609"
+  },
+  "code": {
+    "id": "1609",
+    "iso": null
+  },
+  "parent": {
+    "id": "16",
+    "level": 1,
+    "name": {
+      "local": "ลพบุรี",
+      "en": "Loburi",
+      "slug": "loburi-16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi-16"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.469",
+    "lon": "100.811"
+  },
+  "metadata": {},
+  "source": {}
+}

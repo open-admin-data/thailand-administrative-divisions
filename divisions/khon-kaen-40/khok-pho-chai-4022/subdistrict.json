@@ -1,0 +1,226 @@
+[
+  {
+    "id": "402201",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านโคก",
+      "en": "Ban Khok",
+      "slug": "ban-khok-402201"
+    },
+    "code": {
+      "id": "402201",
+      "iso": null
+    },
+    "parent": {
+      "id": "4022",
+      "level": 2,
+      "name": {
+        "local": "โคกโพธิ์ไชย",
+        "en": "Khok Pho Chai",
+        "slug": "khok-pho-chai-4022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen-40"
+        }
+      },
+      {
+        "id": "4022",
+        "level": 2,
+        "name": {
+          "local": "โคกโพธิ์ไชย",
+          "en": "Khok Pho Chai",
+          "slug": "khok-pho-chai-4022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40160"
+    ],
+    "geo": {
+      "lat": "16.112",
+      "lon": "102.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "402204",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาแพง",
+      "en": "Na Phaeng",
+      "slug": "na-phaeng-402204"
+    },
+    "code": {
+      "id": "402204",
+      "iso": null
+    },
+    "parent": {
+      "id": "4022",
+      "level": 2,
+      "name": {
+        "local": "โคกโพธิ์ไชย",
+        "en": "Khok Pho Chai",
+        "slug": "khok-pho-chai-4022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen-40"
+        }
+      },
+      {
+        "id": "4022",
+        "level": 2,
+        "name": {
+          "local": "โคกโพธิ์ไชย",
+          "en": "Khok Pho Chai",
+          "slug": "khok-pho-chai-4022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40160"
+    ],
+    "geo": {
+      "lat": "16.078",
+      "lon": "102.472"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "402202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โพธิ์ไชย",
+      "en": "Pho Chai",
+      "slug": "pho-chai-402202"
+    },
+    "code": {
+      "id": "402202",
+      "iso": null
+    },
+    "parent": {
+      "id": "4022",
+      "level": 2,
+      "name": {
+        "local": "โคกโพธิ์ไชย",
+        "en": "Khok Pho Chai",
+        "slug": "khok-pho-chai-4022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen-40"
+        }
+      },
+      {
+        "id": "4022",
+        "level": 2,
+        "name": {
+          "local": "โคกโพธิ์ไชย",
+          "en": "Khok Pho Chai",
+          "slug": "khok-pho-chai-4022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40160"
+    ],
+    "geo": {
+      "lat": "16.027",
+      "lon": "102.399"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "402203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ซับสมบูรณ์",
+      "en": "Sap Sombun",
+      "slug": "sap-sombun-402203"
+    },
+    "code": {
+      "id": "402203",
+      "iso": null
+    },
+    "parent": {
+      "id": "4022",
+      "level": 2,
+      "name": {
+        "local": "โคกโพธิ์ไชย",
+        "en": "Khok Pho Chai",
+        "slug": "khok-pho-chai-4022"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen-40"
+        }
+      },
+      {
+        "id": "4022",
+        "level": 2,
+        "name": {
+          "local": "โคกโพธิ์ไชย",
+          "en": "Khok Pho Chai",
+          "slug": "khok-pho-chai-4022"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40160"
+    ],
+    "geo": {
+      "lat": "16.074",
+      "lon": "102.329"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

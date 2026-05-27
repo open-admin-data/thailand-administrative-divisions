@@ -1,0 +1,338 @@
+[
+  {
+    "id": "220508",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "อ่างคีรี",
+      "en": "Ang Khiri",
+      "slug": "ang-khiri-220508"
+    },
+    "code": {
+      "id": "220508",
+      "iso": null
+    },
+    "parent": {
+      "id": "2205",
+      "level": 2,
+      "name": {
+        "local": "มะขาม",
+        "en": "Makham",
+        "slug": "makham-2205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2205",
+        "level": 2,
+        "name": {
+          "local": "มะขาม",
+          "en": "Makham",
+          "slug": "makham-2205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22150"
+    ],
+    "geo": {
+      "lat": "12.644",
+      "lon": "102.226"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220506",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ฉมัน",
+      "en": "Chaman",
+      "slug": "chaman-220506"
+    },
+    "code": {
+      "id": "220506",
+      "iso": null
+    },
+    "parent": {
+      "id": "2205",
+      "level": 2,
+      "name": {
+        "local": "มะขาม",
+        "en": "Makham",
+        "slug": "makham-2205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2205",
+        "level": 2,
+        "name": {
+          "local": "มะขาม",
+          "en": "Makham",
+          "slug": "makham-2205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22150"
+    ],
+    "geo": {
+      "lat": "12.817",
+      "lon": "102.224"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220501",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "มะขาม",
+      "en": "Makham",
+      "slug": "makham-220501"
+    },
+    "code": {
+      "id": "220501",
+      "iso": null
+    },
+    "parent": {
+      "id": "2205",
+      "level": 2,
+      "name": {
+        "local": "มะขาม",
+        "en": "Makham",
+        "slug": "makham-2205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2205",
+        "level": 2,
+        "name": {
+          "local": "มะขาม",
+          "en": "Makham",
+          "slug": "makham-2205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22150"
+    ],
+    "geo": {
+      "lat": "12.677",
+      "lon": "102.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220503",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปัถวี",
+      "en": "Patthawi",
+      "slug": "patthawi-220503"
+    },
+    "code": {
+      "id": "220503",
+      "iso": null
+    },
+    "parent": {
+      "id": "2205",
+      "level": 2,
+      "name": {
+        "local": "มะขาม",
+        "en": "Makham",
+        "slug": "makham-2205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2205",
+        "level": 2,
+        "name": {
+          "local": "มะขาม",
+          "en": "Makham",
+          "slug": "makham-2205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22150"
+    ],
+    "geo": {
+      "lat": "12.743",
+      "lon": "102.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220502",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าหลวง",
+      "en": "Tha Luang",
+      "slug": "tha-luang-220502"
+    },
+    "code": {
+      "id": "220502",
+      "iso": null
+    },
+    "parent": {
+      "id": "2205",
+      "level": 2,
+      "name": {
+        "local": "มะขาม",
+        "en": "Makham",
+        "slug": "makham-2205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2205",
+        "level": 2,
+        "name": {
+          "local": "มะขาม",
+          "en": "Makham",
+          "slug": "makham-2205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22150"
+    ],
+    "geo": {
+      "lat": "12.7",
+      "lon": "102.147"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "220504",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังแซ้ม",
+      "en": "Wang Saem",
+      "slug": "wang-saem-220504"
+    },
+    "code": {
+      "id": "220504",
+      "iso": null
+    },
+    "parent": {
+      "id": "2205",
+      "level": 2,
+      "name": {
+        "local": "มะขาม",
+        "en": "Makham",
+        "slug": "makham-2205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "22",
+        "level": 1,
+        "name": {
+          "local": "จันทบุรี",
+          "en": "Chanthaburi",
+          "slug": "chanthaburi-22"
+        }
+      },
+      {
+        "id": "2205",
+        "level": 2,
+        "name": {
+          "local": "มะขาม",
+          "en": "Makham",
+          "slug": "makham-2205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22150"
+    ],
+    "geo": {
+      "lat": "12.756",
+      "lon": "102.156"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

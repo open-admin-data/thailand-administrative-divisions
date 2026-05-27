@@ -1,0 +1,170 @@
+[
+  {
+    "id": "701002",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านบึง",
+      "en": "Ban Bueng",
+      "slug": "ban-bueng-701002"
+    },
+    "code": {
+      "id": "701002",
+      "iso": null
+    },
+    "parent": {
+      "id": "7010",
+      "level": 2,
+      "name": {
+        "local": "บ้านคา",
+        "en": "Ban Kha",
+        "slug": "ban-kha-7010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "local": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi-70"
+        }
+      },
+      {
+        "id": "7010",
+        "level": 2,
+        "name": {
+          "local": "บ้านคา",
+          "en": "Ban Kha",
+          "slug": "ban-kha-7010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70180"
+    ],
+    "geo": {
+      "lat": "13.283",
+      "lon": "99.444"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "701001",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านคา",
+      "en": "Ban Kha",
+      "slug": "ban-kha-701001"
+    },
+    "code": {
+      "id": "701001",
+      "iso": null
+    },
+    "parent": {
+      "id": "7010",
+      "level": 2,
+      "name": {
+        "local": "บ้านคา",
+        "en": "Ban Kha",
+        "slug": "ban-kha-7010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "local": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi-70"
+        }
+      },
+      {
+        "id": "7010",
+        "level": 2,
+        "name": {
+          "local": "บ้านคา",
+          "en": "Ban Kha",
+          "slug": "ban-kha-7010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70180"
+    ],
+    "geo": {
+      "lat": "13.418",
+      "lon": "99.386"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "701003",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองพันจันทร์",
+      "en": "Nong Phan Chan",
+      "slug": "nong-phan-chan-701003"
+    },
+    "code": {
+      "id": "701003",
+      "iso": null
+    },
+    "parent": {
+      "id": "7010",
+      "level": 2,
+      "name": {
+        "local": "บ้านคา",
+        "en": "Ban Kha",
+        "slug": "ban-kha-7010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "local": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi-70"
+        }
+      },
+      {
+        "id": "7010",
+        "level": 2,
+        "name": {
+          "local": "บ้านคา",
+          "en": "Ban Kha",
+          "slug": "ban-kha-7010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70180"
+    ],
+    "geo": {
+      "lat": "13.448",
+      "lon": "99.462"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

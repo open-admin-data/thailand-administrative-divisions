@@ -1,0 +1,47 @@
+{
+  "id": "1913",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เฉลิมพระเกียรติ",
+    "en": "Chaloem Phra Kiat",
+    "slug": "chaloem-phra-kiat-1913"
+  },
+  "code": {
+    "id": "1913",
+    "iso": null
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "local": "สระบุรี",
+      "en": "Saraburi",
+      "slug": "saraburi-19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi-19"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.607",
+    "lon": "100.931"
+  },
+  "metadata": {},
+  "source": {}
+}

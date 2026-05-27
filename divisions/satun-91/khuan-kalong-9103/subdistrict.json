@@ -1,0 +1,170 @@
+[
+  {
+    "id": "910302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ควนกาหลง",
+      "en": "Khuan Kalong",
+      "slug": "khuan-kalong-910302"
+    },
+    "code": {
+      "id": "910302",
+      "iso": null
+    },
+    "parent": {
+      "id": "9103",
+      "level": 2,
+      "name": {
+        "local": "ควนกาหลง",
+        "en": "Khuan Kalong",
+        "slug": "khuan-kalong-9103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "สตูล",
+          "en": "Satun",
+          "slug": "satun-91"
+        }
+      },
+      {
+        "id": "9103",
+        "level": 2,
+        "name": {
+          "local": "ควนกาหลง",
+          "en": "Khuan Kalong",
+          "slug": "khuan-kalong-9103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91130"
+    ],
+    "geo": {
+      "lat": "6.953",
+      "lon": "100.03"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "910301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งนุ้ย",
+      "en": "Thung Nui",
+      "slug": "thung-nui-910301"
+    },
+    "code": {
+      "id": "910301",
+      "iso": null
+    },
+    "parent": {
+      "id": "9103",
+      "level": 2,
+      "name": {
+        "local": "ควนกาหลง",
+        "en": "Khuan Kalong",
+        "slug": "khuan-kalong-9103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "สตูล",
+          "en": "Satun",
+          "slug": "satun-91"
+        }
+      },
+      {
+        "id": "9103",
+        "level": 2,
+        "name": {
+          "local": "ควนกาหลง",
+          "en": "Khuan Kalong",
+          "slug": "khuan-kalong-9103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91130"
+    ],
+    "geo": {
+      "lat": "6.871",
+      "lon": "100.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "910303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "อุไดเจริญ",
+      "en": "Udai Charoen",
+      "slug": "udai-charoen-910303"
+    },
+    "code": {
+      "id": "910303",
+      "iso": null
+    },
+    "parent": {
+      "id": "9103",
+      "level": 2,
+      "name": {
+        "local": "ควนกาหลง",
+        "en": "Khuan Kalong",
+        "slug": "khuan-kalong-9103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "สตูล",
+          "en": "Satun",
+          "slug": "satun-91"
+        }
+      },
+      {
+        "id": "9103",
+        "level": 2,
+        "name": {
+          "local": "ควนกาหลง",
+          "en": "Khuan Kalong",
+          "slug": "khuan-kalong-9103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91130"
+    ],
+    "geo": {
+      "lat": "6.903",
+      "lon": "99.932"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "6001",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองนครสวรรค์",
+    "en": "Mueang Nakhon Sawan",
+    "slug": "mueang-nakhon-sawan-6001"
+  },
+  "code": {
+    "id": "6001",
+    "iso": null
+  },
+  "parent": {
+    "id": "60",
+    "level": 1,
+    "name": {
+      "local": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan-60"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "local": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan-60"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.734",
+    "lon": "100.14"
+  },
+  "metadata": {},
+  "source": {}
+}

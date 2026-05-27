@@ -1,0 +1,47 @@
+{
+  "id": "6009",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ไพศาลี",
+    "en": "Phaisali",
+    "slug": "phaisali-6009"
+  },
+  "code": {
+    "id": "6009",
+    "iso": null
+  },
+  "parent": {
+    "id": "60",
+    "level": 1,
+    "name": {
+      "local": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan-60"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "local": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan-60"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.622",
+    "lon": "100.604"
+  },
+  "metadata": {},
+  "source": {}
+}

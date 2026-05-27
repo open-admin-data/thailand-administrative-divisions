@@ -1,0 +1,114 @@
+[
+  {
+    "id": "104901",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางมด",
+      "en": "Bang Mot",
+      "slug": "bang-mot-104901"
+    },
+    "code": {
+      "id": "104901",
+      "iso": null
+    },
+    "parent": {
+      "id": "1049",
+      "level": 2,
+      "name": {
+        "local": "ทุ่งครุ",
+        "en": "Thung Khru",
+        "slug": "thung-khru-1049"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1049",
+        "level": 2,
+        "name": {
+          "local": "ทุ่งครุ",
+          "en": "Thung Khru",
+          "slug": "thung-khru-1049"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10140"
+    ],
+    "geo": {
+      "lat": "13.651",
+      "lon": "100.51"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "104902",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งครุ",
+      "en": "Thung Khru",
+      "slug": "thung-khru-104902"
+    },
+    "code": {
+      "id": "104902",
+      "iso": null
+    },
+    "parent": {
+      "id": "1049",
+      "level": 2,
+      "name": {
+        "local": "ทุ่งครุ",
+        "en": "Thung Khru",
+        "slug": "thung-khru-1049"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1049",
+        "level": 2,
+        "name": {
+          "local": "ทุ่งครุ",
+          "en": "Thung Khru",
+          "slug": "thung-khru-1049"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10140"
+    ],
+    "geo": {
+      "lat": "13.614",
+      "lon": "100.497"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

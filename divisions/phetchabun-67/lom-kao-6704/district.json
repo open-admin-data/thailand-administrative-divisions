@@ -1,0 +1,47 @@
+{
+  "id": "6704",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "หล่มเก่า",
+    "en": "Lom Kao",
+    "slug": "lom-kao-6704"
+  },
+  "code": {
+    "id": "6704",
+    "iso": null
+  },
+  "parent": {
+    "id": "67",
+    "level": 1,
+    "name": {
+      "local": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun-67"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "local": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun-67"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.857",
+    "lon": "101.229"
+  },
+  "metadata": {},
+  "source": {}
+}

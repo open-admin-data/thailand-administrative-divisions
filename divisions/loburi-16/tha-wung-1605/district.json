@@ -1,0 +1,47 @@
+{
+  "id": "1605",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ท่าวุ้ง",
+    "en": "Tha Wung",
+    "slug": "tha-wung-1605"
+  },
+  "code": {
+    "id": "1605",
+    "iso": null
+  },
+  "parent": {
+    "id": "16",
+    "level": 1,
+    "name": {
+      "local": "ลพบุรี",
+      "en": "Loburi",
+      "slug": "loburi-16"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "16",
+      "level": 1,
+      "name": {
+        "local": "ลพบุรี",
+        "en": "Loburi",
+        "slug": "loburi-16"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.881",
+    "lon": "100.482"
+  },
+  "metadata": {},
+  "source": {}
+}

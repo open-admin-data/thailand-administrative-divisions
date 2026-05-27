@@ -1,0 +1,47 @@
+{
+  "id": "5405",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เด่นชัย",
+    "en": "Den Chai",
+    "slug": "den-chai-5405"
+  },
+  "code": {
+    "id": "5405",
+    "iso": null
+  },
+  "parent": {
+    "id": "54",
+    "level": 1,
+    "name": {
+      "local": "แพร่",
+      "en": "Phrae",
+      "slug": "phrae-54"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "54",
+      "level": 1,
+      "name": {
+        "local": "แพร่",
+        "en": "Phrae",
+        "slug": "phrae-54"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.973",
+    "lon": "100.04"
+  },
+  "metadata": {},
+  "source": {}
+}

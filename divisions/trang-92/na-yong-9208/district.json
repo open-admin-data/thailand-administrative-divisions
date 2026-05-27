@@ -1,0 +1,47 @@
+{
+  "id": "9208",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "นาโยง",
+    "en": "Na Yong",
+    "slug": "na-yong-9208"
+  },
+  "code": {
+    "id": "9208",
+    "iso": null
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "local": "ตรัง",
+      "en": "Trang",
+      "slug": "trang-92"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "ตรัง",
+        "en": "Trang",
+        "slug": "trang-92"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.566",
+    "lon": "99.699"
+  },
+  "metadata": {},
+  "source": {}
+}

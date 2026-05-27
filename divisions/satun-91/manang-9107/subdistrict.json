@@ -1,0 +1,114 @@
+[
+  {
+    "id": "910702",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นิคมพัฒนา",
+      "en": "Nikhom Phatthana",
+      "slug": "nikhom-phatthana-910702"
+    },
+    "code": {
+      "id": "910702",
+      "iso": null
+    },
+    "parent": {
+      "id": "9107",
+      "level": 2,
+      "name": {
+        "local": "มะนัง",
+        "en": "Manang",
+        "slug": "manang-9107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "สตูล",
+          "en": "Satun",
+          "slug": "satun-91"
+        }
+      },
+      {
+        "id": "9107",
+        "level": 2,
+        "name": {
+          "local": "มะนัง",
+          "en": "Manang",
+          "slug": "manang-9107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91130"
+    ],
+    "geo": {
+      "lat": "6.95",
+      "lon": "99.931"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "910701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปาล์มพัฒนา",
+      "en": "Palm Phatthana",
+      "slug": "palm-phatthana-910701"
+    },
+    "code": {
+      "id": "910701",
+      "iso": null
+    },
+    "parent": {
+      "id": "9107",
+      "level": 2,
+      "name": {
+        "local": "มะนัง",
+        "en": "Manang",
+        "slug": "manang-9107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "91",
+        "level": 1,
+        "name": {
+          "local": "สตูล",
+          "en": "Satun",
+          "slug": "satun-91"
+        }
+      },
+      {
+        "id": "9107",
+        "level": 2,
+        "name": {
+          "local": "มะนัง",
+          "en": "Manang",
+          "slug": "manang-9107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "91130"
+    ],
+    "geo": {
+      "lat": "7.038",
+      "lon": "99.934"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

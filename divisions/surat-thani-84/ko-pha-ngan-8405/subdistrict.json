@@ -1,0 +1,114 @@
+[
+  {
+    "id": "840502",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านใต้",
+      "en": "Ban Tai",
+      "slug": "ban-tai-840502"
+    },
+    "code": {
+      "id": "840502",
+      "iso": null
+    },
+    "parent": {
+      "id": "8405",
+      "level": 2,
+      "name": {
+        "local": "เกาะพะงัน",
+        "en": "Ko Pha-ngan",
+        "slug": "ko-pha-ngan-8405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8405",
+        "level": 2,
+        "name": {
+          "local": "เกาะพะงัน",
+          "en": "Ko Pha-ngan",
+          "slug": "ko-pha-ngan-8405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84280"
+    ],
+    "geo": {
+      "lat": "9.723",
+      "lon": "100.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "840501",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เกาะพะงัน",
+      "en": "Ko Pha-ngan",
+      "slug": "ko-pha-ngan-840501"
+    },
+    "code": {
+      "id": "840501",
+      "iso": null
+    },
+    "parent": {
+      "id": "8405",
+      "level": 2,
+      "name": {
+        "local": "เกาะพะงัน",
+        "en": "Ko Pha-ngan",
+        "slug": "ko-pha-ngan-8405"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8405",
+        "level": 2,
+        "name": {
+          "local": "เกาะพะงัน",
+          "en": "Ko Pha-ngan",
+          "slug": "ko-pha-ngan-8405"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84280"
+    ],
+    "geo": {
+      "lat": "9.759",
+      "lon": "99.999"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "5201",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองลำปาง",
+    "en": "Mueang Lampang",
+    "slug": "mueang-lampang-5201"
+  },
+  "code": {
+    "id": "5201",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "ลำปาง",
+      "en": "Lampang",
+      "slug": "lampang-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang-52"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.29",
+    "lon": "99.492"
+  },
+  "metadata": {},
+  "source": {}
+}

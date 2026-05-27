@@ -1,0 +1,170 @@
+[
+  {
+    "id": "110601",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางเสาธง",
+      "en": "Bang Sao Thong",
+      "slug": "bang-sao-thong-110601"
+    },
+    "code": {
+      "id": "110601",
+      "iso": null
+    },
+    "parent": {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "บางเสาธง",
+        "en": "Bang Sao Thong",
+        "slug": "bang-sao-thong-1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan-11"
+        }
+      },
+      {
+        "id": "1106",
+        "level": 2,
+        "name": {
+          "local": "บางเสาธง",
+          "en": "Bang Sao Thong",
+          "slug": "bang-sao-thong-1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10540"
+    ],
+    "geo": {
+      "lat": "13.6",
+      "lon": "100.815"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "110602",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ศรีษะจรเข้น้อย",
+      "en": "Sisa Chorakhe Noi",
+      "slug": "sisa-chorakhe-noi-110602"
+    },
+    "code": {
+      "id": "110602",
+      "iso": null
+    },
+    "parent": {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "บางเสาธง",
+        "en": "Bang Sao Thong",
+        "slug": "bang-sao-thong-1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan-11"
+        }
+      },
+      {
+        "id": "1106",
+        "level": 2,
+        "name": {
+          "local": "บางเสาธง",
+          "en": "Bang Sao Thong",
+          "slug": "bang-sao-thong-1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10540"
+    ],
+    "geo": {
+      "lat": "13.689",
+      "lon": "100.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "110603",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ศรีษะจรเข้ใหญ่",
+      "en": "Sisa Chorakhe Yai",
+      "slug": "sisa-chorakhe-yai-110603"
+    },
+    "code": {
+      "id": "110603",
+      "iso": null
+    },
+    "parent": {
+      "id": "1106",
+      "level": 2,
+      "name": {
+        "local": "บางเสาธง",
+        "en": "Bang Sao Thong",
+        "slug": "bang-sao-thong-1106"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "11",
+        "level": 1,
+        "name": {
+          "local": "สมุทรปราการ",
+          "en": "Samut Prakan",
+          "slug": "samut-prakan-11"
+        }
+      },
+      {
+        "id": "1106",
+        "level": 2,
+        "name": {
+          "local": "บางเสาธง",
+          "en": "Bang Sao Thong",
+          "slug": "bang-sao-thong-1106"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10540"
+    ],
+    "geo": {
+      "lat": "13.641",
+      "lon": "100.803"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

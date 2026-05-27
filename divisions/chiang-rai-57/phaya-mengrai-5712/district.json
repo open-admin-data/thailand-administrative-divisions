@@ -1,0 +1,47 @@
+{
+  "id": "5712",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พญาเม็งราย",
+    "en": "Phaya Mengrai",
+    "slug": "phaya-mengrai-5712"
+  },
+  "code": {
+    "id": "5712",
+    "iso": null
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "local": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai-57"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "local": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai-57"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.926",
+    "lon": "100.239"
+  },
+  "metadata": {},
+  "source": {}
+}

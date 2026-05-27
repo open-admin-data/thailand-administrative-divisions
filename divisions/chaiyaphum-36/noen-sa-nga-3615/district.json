@@ -1,0 +1,47 @@
+{
+  "id": "3615",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เนินสง่า",
+    "en": "Noen Sa-nga",
+    "slug": "noen-sa-nga-3615"
+  },
+  "code": {
+    "id": "3615",
+    "iso": null
+  },
+  "parent": {
+    "id": "36",
+    "level": 1,
+    "name": {
+      "local": "ชัยภูมิ",
+      "en": "Chaiyaphum",
+      "slug": "chaiyaphum-36"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum-36"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.527",
+    "lon": "102.016"
+  },
+  "metadata": {},
+  "source": {}
+}

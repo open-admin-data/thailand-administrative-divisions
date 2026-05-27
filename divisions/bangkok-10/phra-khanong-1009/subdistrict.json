@@ -1,0 +1,58 @@
+[
+  {
+    "id": "100905",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางจาก",
+      "en": "Bang Chak",
+      "slug": "bang-chak-100905"
+    },
+    "code": {
+      "id": "100905",
+      "iso": null
+    },
+    "parent": {
+      "id": "1009",
+      "level": 2,
+      "name": {
+        "local": "พระโขนง",
+        "en": "Phra Khanong",
+        "slug": "phra-khanong-1009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1009",
+        "level": 2,
+        "name": {
+          "local": "พระโขนง",
+          "en": "Phra Khanong",
+          "slug": "phra-khanong-1009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10260"
+    ],
+    "geo": {
+      "lat": "13.692",
+      "lon": "100.626"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "931004",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านพร้าว",
+      "en": "Ban Phrao",
+      "slug": "ban-phrao-931004"
+    },
+    "code": {
+      "id": "931004",
+      "iso": null
+    },
+    "parent": {
+      "id": "9310",
+      "level": 2,
+      "name": {
+        "local": "ป่าพยอม",
+        "en": "Pa Phayom",
+        "slug": "pa-phayom-9310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "93",
+        "level": 1,
+        "name": {
+          "local": "พัทลุง",
+          "en": "Phatthalung",
+          "slug": "phatthalung-93"
+        }
+      },
+      {
+        "id": "9310",
+        "level": 2,
+        "name": {
+          "local": "ป่าพยอม",
+          "en": "Pa Phayom",
+          "slug": "pa-phayom-9310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93110"
+    ],
+    "geo": {
+      "lat": "7.818",
+      "lon": "99.948"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "931003",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เกาะเต่า",
+      "en": "Ko Tao",
+      "slug": "ko-tao-931003"
+    },
+    "code": {
+      "id": "931003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9310",
+      "level": 2,
+      "name": {
+        "local": "ป่าพยอม",
+        "en": "Pa Phayom",
+        "slug": "pa-phayom-9310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "93",
+        "level": 1,
+        "name": {
+          "local": "พัทลุง",
+          "en": "Phatthalung",
+          "slug": "phatthalung-93"
+        }
+      },
+      {
+        "id": "9310",
+        "level": 2,
+        "name": {
+          "local": "ป่าพยอม",
+          "en": "Pa Phayom",
+          "slug": "pa-phayom-9310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93110"
+    ],
+    "geo": {
+      "lat": "7.783",
+      "lon": "99.799"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "931002",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ลานข่อย",
+      "en": "Lan Khoi",
+      "slug": "lan-khoi-931002"
+    },
+    "code": {
+      "id": "931002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9310",
+      "level": 2,
+      "name": {
+        "local": "ป่าพยอม",
+        "en": "Pa Phayom",
+        "slug": "pa-phayom-9310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "93",
+        "level": 1,
+        "name": {
+          "local": "พัทลุง",
+          "en": "Phatthalung",
+          "slug": "phatthalung-93"
+        }
+      },
+      {
+        "id": "9310",
+        "level": 2,
+        "name": {
+          "local": "ป่าพยอม",
+          "en": "Pa Phayom",
+          "slug": "pa-phayom-9310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93110"
+    ],
+    "geo": {
+      "lat": "7.831",
+      "lon": "99.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "931001",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ป่าพะยอม",
+      "en": "Pa Phayom",
+      "slug": "pa-phayom-931001"
+    },
+    "code": {
+      "id": "931001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9310",
+      "level": 2,
+      "name": {
+        "local": "ป่าพยอม",
+        "en": "Pa Phayom",
+        "slug": "pa-phayom-9310"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "93",
+        "level": 1,
+        "name": {
+          "local": "พัทลุง",
+          "en": "Phatthalung",
+          "slug": "phatthalung-93"
+        }
+      },
+      {
+        "id": "9310",
+        "level": 2,
+        "name": {
+          "local": "ป่าพยอม",
+          "en": "Pa Phayom",
+          "slug": "pa-phayom-9310"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93110"
+    ],
+    "geo": {
+      "lat": "7.86",
+      "lon": "99.947"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

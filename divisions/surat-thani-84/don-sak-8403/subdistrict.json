@@ -1,0 +1,226 @@
+[
+  {
+    "id": "840303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ไชยคราม",
+      "en": "Chaiyakhram",
+      "slug": "chaiyakhram-840303"
+    },
+    "code": {
+      "id": "840303",
+      "iso": null
+    },
+    "parent": {
+      "id": "8403",
+      "level": 2,
+      "name": {
+        "local": "ดอนสัก",
+        "en": "Don Sak",
+        "slug": "don-sak-8403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8403",
+        "level": 2,
+        "name": {
+          "local": "ดอนสัก",
+          "en": "Don Sak",
+          "slug": "don-sak-8403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84220"
+    ],
+    "geo": {
+      "lat": "9.182",
+      "lon": "99.653"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "840302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ชลคราม",
+      "en": "Chonlakhram",
+      "slug": "chonlakhram-840302"
+    },
+    "code": {
+      "id": "840302",
+      "iso": null
+    },
+    "parent": {
+      "id": "8403",
+      "level": 2,
+      "name": {
+        "local": "ดอนสัก",
+        "en": "Don Sak",
+        "slug": "don-sak-8403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8403",
+        "level": 2,
+        "name": {
+          "local": "ดอนสัก",
+          "en": "Don Sak",
+          "slug": "don-sak-8403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84160"
+    ],
+    "geo": {
+      "lat": "9.248",
+      "lon": "99.605"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "840301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดอนสัก",
+      "en": "Don Sak",
+      "slug": "don-sak-840301"
+    },
+    "code": {
+      "id": "840301",
+      "iso": null
+    },
+    "parent": {
+      "id": "8403",
+      "level": 2,
+      "name": {
+        "local": "ดอนสัก",
+        "en": "Don Sak",
+        "slug": "don-sak-8403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8403",
+        "level": 2,
+        "name": {
+          "local": "ดอนสัก",
+          "en": "Don Sak",
+          "slug": "don-sak-8403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84220"
+    ],
+    "geo": {
+      "lat": "9.275",
+      "lon": "99.707"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "840304",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปากแพรก",
+      "en": "Pak Phraek",
+      "slug": "pak-phraek-840304"
+    },
+    "code": {
+      "id": "840304",
+      "iso": null
+    },
+    "parent": {
+      "id": "8403",
+      "level": 2,
+      "name": {
+        "local": "ดอนสัก",
+        "en": "Don Sak",
+        "slug": "don-sak-8403"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8403",
+        "level": 2,
+        "name": {
+          "local": "ดอนสัก",
+          "en": "Don Sak",
+          "slug": "don-sak-8403"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84340"
+    ],
+    "geo": {
+      "lat": "9.134",
+      "lon": "99.701"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

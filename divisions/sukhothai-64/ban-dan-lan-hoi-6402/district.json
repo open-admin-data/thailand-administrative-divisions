@@ -1,0 +1,47 @@
+{
+  "id": "6402",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ้านด่านลานหอย",
+    "en": "Ban Dan Lan Hoi",
+    "slug": "ban-dan-lan-hoi-6402"
+  },
+  "code": {
+    "id": "6402",
+    "iso": null
+  },
+  "parent": {
+    "id": "64",
+    "level": 1,
+    "name": {
+      "local": "สุโขทัย",
+      "en": "Sukhothai",
+      "slug": "sukhothai-64"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai-64"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.995",
+    "lon": "99.481"
+  },
+  "metadata": {},
+  "source": {}
+}

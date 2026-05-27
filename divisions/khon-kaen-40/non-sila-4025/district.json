@@ -1,0 +1,47 @@
+{
+  "id": "4025",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "โนนศิลา",
+    "en": "Non Sila",
+    "slug": "non-sila-4025"
+  },
+  "code": {
+    "id": "4025",
+    "iso": null
+  },
+  "parent": {
+    "id": "40",
+    "level": 1,
+    "name": {
+      "local": "ขอนแก่น",
+      "en": "Khon Kaen",
+      "slug": "khon-kaen-40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen-40"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.005",
+    "lon": "102.687"
+  },
+  "metadata": {},
+  "source": {}
+}

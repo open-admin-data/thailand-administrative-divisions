@@ -1,0 +1,47 @@
+{
+  "id": "7201",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองสุพรรณบุรี",
+    "en": "Mueang Suphan Buri",
+    "slug": "mueang-suphan-buri-7201"
+  },
+  "code": {
+    "id": "7201",
+    "iso": null
+  },
+  "parent": {
+    "id": "72",
+    "level": 1,
+    "name": {
+      "local": "สุพรรณบุรี",
+      "en": "Suphan Buri",
+      "slug": "suphan-buri-72"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri-72"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.471",
+    "lon": "100.116"
+  },
+  "metadata": {},
+  "source": {}
+}

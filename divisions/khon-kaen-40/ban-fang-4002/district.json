@@ -1,0 +1,47 @@
+{
+  "id": "4002",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ้านฝาง",
+    "en": "Ban Fang",
+    "slug": "ban-fang-4002"
+  },
+  "code": {
+    "id": "4002",
+    "iso": null
+  },
+  "parent": {
+    "id": "40",
+    "level": 1,
+    "name": {
+      "local": "ขอนแก่น",
+      "en": "Khon Kaen",
+      "slug": "khon-kaen-40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen-40"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.367",
+    "lon": "102.573"
+  },
+  "metadata": {},
+  "source": {}
+}

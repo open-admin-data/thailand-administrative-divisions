@@ -1,0 +1,954 @@
+[
+  {
+    "id": "670109",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านโคก",
+      "en": "Ban Khok",
+      "slug": "ban-khok-670109"
+    },
+    "code": {
+      "id": "670109",
+      "iso": null
+    },
+    "parent": {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "local": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun-6701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      },
+      {
+        "id": "6701",
+        "level": 2,
+        "name": {
+          "local": "เมืองเพชรบูรณ์",
+          "en": "Mueang Phetchabun",
+          "slug": "mueang-phetchabun-6701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67000"
+    ],
+    "geo": {
+      "lat": "16.471",
+      "lon": "101.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "670103",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านโตก",
+      "en": "Ban Tok",
+      "slug": "ban-tok-670103"
+    },
+    "code": {
+      "id": "670103",
+      "iso": null
+    },
+    "parent": {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "local": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun-6701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      },
+      {
+        "id": "6701",
+        "level": 2,
+        "name": {
+          "local": "เมืองเพชรบูรณ์",
+          "en": "Mueang Phetchabun",
+          "slug": "mueang-phetchabun-6701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67000"
+    ],
+    "geo": {
+      "lat": "16.347",
+      "lon": "101.056"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "670110",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ชอนไพร",
+      "en": "Chon Phrai",
+      "slug": "chon-phrai-670110"
+    },
+    "code": {
+      "id": "670110",
+      "iso": null
+    },
+    "parent": {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "local": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun-6701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      },
+      {
+        "id": "6701",
+        "level": 2,
+        "name": {
+          "local": "เมืองเพชรบูรณ์",
+          "en": "Mueang Phetchabun",
+          "slug": "mueang-phetchabun-6701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67000"
+    ],
+    "geo": {
+      "lat": "16.341",
+      "lon": "101.153"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "670108",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดงมูลเหล็ก",
+      "en": "Dong Mun Lek",
+      "slug": "dong-mun-lek-670108"
+    },
+    "code": {
+      "id": "670108",
+      "iso": null
+    },
+    "parent": {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "local": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun-6701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      },
+      {
+        "id": "6701",
+        "level": 2,
+        "name": {
+          "local": "เมืองเพชรบูรณ์",
+          "en": "Mueang Phetchabun",
+          "slug": "mueang-phetchabun-6701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67000"
+    ],
+    "geo": {
+      "lat": "16.478",
+      "lon": "101.203"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "670115",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ห้วยสะแก",
+      "en": "Huai Sakae",
+      "slug": "huai-sakae-670115"
+    },
+    "code": {
+      "id": "670115",
+      "iso": null
+    },
+    "parent": {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "local": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun-6701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      },
+      {
+        "id": "6701",
+        "level": 2,
+        "name": {
+          "local": "เมืองเพชรบูรณ์",
+          "en": "Mueang Phetchabun",
+          "slug": "mueang-phetchabun-6701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67210"
+    ],
+    "geo": {
+      "lat": "16.191",
+      "lon": "101.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "670116",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ห้วยใหญ่",
+      "en": "Huai Yai",
+      "slug": "huai-yai-670116"
+    },
+    "code": {
+      "id": "670116",
+      "iso": null
+    },
+    "parent": {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "local": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun-6701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      },
+      {
+        "id": "6701",
+        "level": 2,
+        "name": {
+          "local": "เมืองเพชรบูรณ์",
+          "en": "Mueang Phetchabun",
+          "slug": "mueang-phetchabun-6701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67000"
+    ],
+    "geo": {
+      "lat": "16.505",
+      "lon": "101.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "670106",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นางั่ว",
+      "en": "Na Ngua",
+      "slug": "na-ngua-670106"
+    },
+    "code": {
+      "id": "670106",
+      "iso": null
+    },
+    "parent": {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "local": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun-6701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      },
+      {
+        "id": "6701",
+        "level": 2,
+        "name": {
+          "local": "เมืองเพชรบูรณ์",
+          "en": "Mueang Phetchabun",
+          "slug": "mueang-phetchabun-6701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67000"
+    ],
+    "geo": {
+      "lat": "16.507",
+      "lon": "101.146"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "670111",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาป่า",
+      "en": "Na Pa",
+      "slug": "na-pa-670111"
+    },
+    "code": {
+      "id": "670111",
+      "iso": null
+    },
+    "parent": {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "local": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun-6701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      },
+      {
+        "id": "6701",
+        "level": 2,
+        "name": {
+          "local": "เมืองเพชรบูรณ์",
+          "en": "Mueang Phetchabun",
+          "slug": "mueang-phetchabun-6701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67000"
+    ],
+    "geo": {
+      "lat": "16.39",
+      "lon": "101.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "670112",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นายม",
+      "en": "Na Yom",
+      "slug": "na-yom-670112"
+    },
+    "code": {
+      "id": "670112",
+      "iso": null
+    },
+    "parent": {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "local": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun-6701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      },
+      {
+        "id": "6701",
+        "level": 2,
+        "name": {
+          "local": "เมืองเพชรบูรณ์",
+          "en": "Mueang Phetchabun",
+          "slug": "mueang-phetchabun-6701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67210"
+    ],
+    "geo": {
+      "lat": "16.229",
+      "lon": "101.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "670101",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ในเมือง",
+      "en": "Nai Mueang",
+      "slug": "nai-mueang-670101"
+    },
+    "code": {
+      "id": "670101",
+      "iso": null
+    },
+    "parent": {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "local": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun-6701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      },
+      {
+        "id": "6701",
+        "level": 2,
+        "name": {
+          "local": "เมืองเพชรบูรณ์",
+          "en": "Mueang Phetchabun",
+          "slug": "mueang-phetchabun-6701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67000"
+    ],
+    "geo": {
+      "lat": "16.42",
+      "lon": "101.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "670114",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "น้ำร้อน",
+      "en": "Nam Ron",
+      "slug": "nam-ron-670114"
+    },
+    "code": {
+      "id": "670114",
+      "iso": null
+    },
+    "parent": {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "local": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun-6701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      },
+      {
+        "id": "6701",
+        "level": 2,
+        "name": {
+          "local": "เมืองเพชรบูรณ์",
+          "en": "Mueang Phetchabun",
+          "slug": "mueang-phetchabun-6701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67000"
+    ],
+    "geo": {
+      "lat": "16.322",
+      "lon": "101.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "670105",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ป่าเลา",
+      "en": "Pa Lao",
+      "slug": "pa-lao-670105"
+    },
+    "code": {
+      "id": "670105",
+      "iso": null
+    },
+    "parent": {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "local": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun-6701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      },
+      {
+        "id": "6701",
+        "level": 2,
+        "name": {
+          "local": "เมืองเพชรบูรณ์",
+          "en": "Mueang Phetchabun",
+          "slug": "mueang-phetchabun-6701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67000"
+    ],
+    "geo": {
+      "lat": "16.449",
+      "lon": "100.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "670117",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ระวิง",
+      "en": "Rawing",
+      "slug": "rawing-670117"
+    },
+    "code": {
+      "id": "670117",
+      "iso": null
+    },
+    "parent": {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "local": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun-6701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      },
+      {
+        "id": "6701",
+        "level": 2,
+        "name": {
+          "local": "เมืองเพชรบูรณ์",
+          "en": "Mueang Phetchabun",
+          "slug": "mueang-phetchabun-6701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67210"
+    ],
+    "geo": {
+      "lat": "16.146",
+      "lon": "101.138"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "670104",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สะเดียง",
+      "en": "Sadiang",
+      "slug": "sadiang-670104"
+    },
+    "code": {
+      "id": "670104",
+      "iso": null
+    },
+    "parent": {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "local": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun-6701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      },
+      {
+        "id": "6701",
+        "level": 2,
+        "name": {
+          "local": "เมืองเพชรบูรณ์",
+          "en": "Mueang Phetchabun",
+          "slug": "mueang-phetchabun-6701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67000"
+    ],
+    "geo": {
+      "lat": "16.396",
+      "lon": "101.164"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "670102",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตะเบาะ",
+      "en": "Tabo",
+      "slug": "tabo-670102"
+    },
+    "code": {
+      "id": "670102",
+      "iso": null
+    },
+    "parent": {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "local": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun-6701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      },
+      {
+        "id": "6701",
+        "level": 2,
+        "name": {
+          "local": "เมืองเพชรบูรณ์",
+          "en": "Mueang Phetchabun",
+          "slug": "mueang-phetchabun-6701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67000"
+    ],
+    "geo": {
+      "lat": "16.322",
+      "lon": "101.299"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "670107",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าพล",
+      "en": "Tha Phon",
+      "slug": "tha-phon-670107"
+    },
+    "code": {
+      "id": "670107",
+      "iso": null
+    },
+    "parent": {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "local": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun-6701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      },
+      {
+        "id": "6701",
+        "level": 2,
+        "name": {
+          "local": "เมืองเพชรบูรณ์",
+          "en": "Mueang Phetchabun",
+          "slug": "mueang-phetchabun-6701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67250"
+    ],
+    "geo": {
+      "lat": "16.59",
+      "lon": "101.134"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "670113",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังชมภู",
+      "en": "Wang Chomphu",
+      "slug": "wang-chomphu-670113"
+    },
+    "code": {
+      "id": "670113",
+      "iso": null
+    },
+    "parent": {
+      "id": "6701",
+      "level": 2,
+      "name": {
+        "local": "เมืองเพชรบูรณ์",
+        "en": "Mueang Phetchabun",
+        "slug": "mueang-phetchabun-6701"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      },
+      {
+        "id": "6701",
+        "level": 2,
+        "name": {
+          "local": "เมืองเพชรบูรณ์",
+          "en": "Mueang Phetchabun",
+          "slug": "mueang-phetchabun-6701"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "67210"
+    ],
+    "geo": {
+      "lat": "16.266",
+      "lon": "101.027"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

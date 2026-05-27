@@ -1,0 +1,114 @@
+[
+  {
+    "id": "601501",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ชุมตาบง",
+      "en": "Chum Ta Bong",
+      "slug": "chum-ta-bong-601501"
+    },
+    "code": {
+      "id": "601501",
+      "iso": null
+    },
+    "parent": {
+      "id": "6015",
+      "level": 2,
+      "name": {
+        "local": "ชุมตาบง",
+        "en": "Chum Ta Bong",
+        "slug": "chum-ta-bong-6015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "local": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan-60"
+        }
+      },
+      {
+        "id": "6015",
+        "level": 2,
+        "name": {
+          "local": "ชุมตาบง",
+          "en": "Chum Ta Bong",
+          "slug": "chum-ta-bong-6015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60150"
+    ],
+    "geo": {
+      "lat": "15.627",
+      "lon": "99.572"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "601502",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปางสวรรค์",
+      "en": "Pang Sawan",
+      "slug": "pang-sawan-601502"
+    },
+    "code": {
+      "id": "601502",
+      "iso": null
+    },
+    "parent": {
+      "id": "6015",
+      "level": 2,
+      "name": {
+        "local": "ชุมตาบง",
+        "en": "Chum Ta Bong",
+        "slug": "chum-ta-bong-6015"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "local": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan-60"
+        }
+      },
+      {
+        "id": "6015",
+        "level": 2,
+        "name": {
+          "local": "ชุมตาบง",
+          "en": "Chum Ta Bong",
+          "slug": "chum-ta-bong-6015"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60150"
+    ],
+    "geo": {
+      "lat": "15.688",
+      "lon": "99.56"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

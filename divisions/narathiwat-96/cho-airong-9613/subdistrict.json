@@ -1,0 +1,170 @@
+[
+  {
+    "id": "961302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บูกิต",
+      "en": "Bukit",
+      "slug": "bukit-961302"
+    },
+    "code": {
+      "id": "961302",
+      "iso": null
+    },
+    "parent": {
+      "id": "9613",
+      "level": 2,
+      "name": {
+        "local": "เจาะไอร้อง",
+        "en": "Cho-airong",
+        "slug": "cho-airong-9613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat-96"
+        }
+      },
+      {
+        "id": "9613",
+        "level": 2,
+        "name": {
+          "local": "เจาะไอร้อง",
+          "en": "Cho-airong",
+          "slug": "cho-airong-9613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96130"
+    ],
+    "geo": {
+      "lat": "6.182",
+      "lon": "101.828"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "961301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "จวบ",
+      "en": "Chuap",
+      "slug": "chuap-961301"
+    },
+    "code": {
+      "id": "961301",
+      "iso": null
+    },
+    "parent": {
+      "id": "9613",
+      "level": 2,
+      "name": {
+        "local": "เจาะไอร้อง",
+        "en": "Cho-airong",
+        "slug": "cho-airong-9613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat-96"
+        }
+      },
+      {
+        "id": "9613",
+        "level": 2,
+        "name": {
+          "local": "เจาะไอร้อง",
+          "en": "Cho-airong",
+          "slug": "cho-airong-9613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96130"
+    ],
+    "geo": {
+      "lat": "6.256",
+      "lon": "101.817"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "961303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "มะรือโบออก",
+      "en": "Maruebo Ok",
+      "slug": "maruebo-ok-961303"
+    },
+    "code": {
+      "id": "961303",
+      "iso": null
+    },
+    "parent": {
+      "id": "9613",
+      "level": 2,
+      "name": {
+        "local": "เจาะไอร้อง",
+        "en": "Cho-airong",
+        "slug": "cho-airong-9613"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat-96"
+        }
+      },
+      {
+        "id": "9613",
+        "level": 2,
+        "name": {
+          "local": "เจาะไอร้อง",
+          "en": "Cho-airong",
+          "slug": "cho-airong-9613"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96130"
+    ],
+    "geo": {
+      "lat": "6.249",
+      "lon": "101.875"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

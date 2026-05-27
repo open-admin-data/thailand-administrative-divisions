@@ -1,0 +1,47 @@
+{
+  "id": "5005",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ดอยสะเก็ด",
+    "en": "Doi Saket",
+    "slug": "doi-saket-5005"
+  },
+  "code": {
+    "id": "5005",
+    "iso": null
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "local": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai-50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "local": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai-50"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.841",
+    "lon": "99.088"
+  },
+  "metadata": {},
+  "source": {}
+}

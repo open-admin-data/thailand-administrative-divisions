@@ -1,0 +1,47 @@
+{
+  "id": "3322",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ศิลาลาด",
+    "en": "Sila Lat",
+    "slug": "sila-lat-3322"
+  },
+  "code": {
+    "id": "3322",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "ศรีสะเกษ",
+      "en": "Si Sa Ket",
+      "slug": "si-sa-ket-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket-33"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.473",
+    "lon": "104.139"
+  },
+  "metadata": {},
+  "source": {}
+}

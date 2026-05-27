@@ -1,0 +1,2312 @@
+[
+  {
+    "id": "10",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok-10"
+    },
+    "code": {
+      "id": "10",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 50,
+      "subdistrict": 154
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.753",
+      "lon": "100.5"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "11",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan-11"
+    },
+    "code": {
+      "id": "11",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "subdistrict": 50
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.656",
+      "lon": "100.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "12",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "นนทบุรี",
+      "en": "Nonthaburi",
+      "slug": "nonthaburi-12"
+    },
+    "code": {
+      "id": "12",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "subdistrict": 52
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.914",
+      "lon": "100.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "13",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani-13"
+    },
+    "code": {
+      "id": "13",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "subdistrict": 60
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.031",
+      "lon": "100.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "14",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya-14"
+    },
+    "code": {
+      "id": "14",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 16,
+      "subdistrict": 207
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.328",
+      "lon": "100.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "15",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "อ่างทอง",
+      "en": "Ang Thong",
+      "slug": "ang-thong-15"
+    },
+    "code": {
+      "id": "15",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "subdistrict": 73
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.588",
+      "lon": "100.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "16",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ลพบุรี",
+      "en": "Loburi",
+      "slug": "loburi-16"
+    },
+    "code": {
+      "id": "16",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "subdistrict": 121
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.802",
+      "lon": "100.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "17",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "สิงห์บุรี",
+      "en": "Sing Buri",
+      "slug": "sing-buri-17"
+    },
+    "code": {
+      "id": "17",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "subdistrict": 43
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.89",
+      "lon": "100.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "18",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ชัยนาท",
+      "en": "Chai Nat",
+      "slug": "chai-nat-18"
+    },
+    "code": {
+      "id": "18",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "subdistrict": 53
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.263",
+      "lon": "100.041"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "19",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "สระบุรี",
+      "en": "Saraburi",
+      "slug": "saraburi-19"
+    },
+    "code": {
+      "id": "19",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 13,
+      "subdistrict": 109
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.586",
+      "lon": "101.002"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "20",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri-20"
+    },
+    "code": {
+      "id": "20",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "subdistrict": 92
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.611",
+      "lon": "100.889"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "21",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ระยอง",
+      "en": "Rayong",
+      "slug": "rayong-21"
+    },
+    "code": {
+      "id": "21",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "subdistrict": 56
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.646",
+      "lon": "101.171"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "22",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "จันทบุรี",
+      "en": "Chanthaburi",
+      "slug": "chanthaburi-22"
+    },
+    "code": {
+      "id": "22",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 10,
+      "subdistrict": 76
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "12.465",
+      "lon": "102.066"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "23",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ตราด",
+      "en": "Trat",
+      "slug": "trat-23"
+    },
+    "code": {
+      "id": "23",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "subdistrict": 37
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.817",
+      "lon": "102.397"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "24",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ฉะเชิงเทรา",
+      "en": "Chachoengsao",
+      "slug": "chachoengsao-24"
+    },
+    "code": {
+      "id": "24",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "subdistrict": 93
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.707",
+      "lon": "101.1"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "25",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ปราจีนบุรี",
+      "en": "Prachin Buri",
+      "slug": "prachin-buri-25"
+    },
+    "code": {
+      "id": "25",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "subdistrict": 64
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.057",
+      "lon": "101.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "26",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "นครนายก",
+      "en": "Nakhon Nayok",
+      "slug": "nakhon-nayok-26"
+    },
+    "code": {
+      "id": "26",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 4,
+      "subdistrict": 41
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.204",
+      "lon": "101.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "27",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "สระแก้ว",
+      "en": "Sa Kaeo",
+      "slug": "sa-kaeo-27"
+    },
+    "code": {
+      "id": "27",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "subdistrict": 59
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.68",
+      "lon": "102.517"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "30",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima-30"
+    },
+    "code": {
+      "id": "30",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 32,
+      "subdistrict": 285
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.909",
+      "lon": "101.851"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "31",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram-31"
+    },
+    "code": {
+      "id": "31",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 23,
+      "subdistrict": 189
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.999",
+      "lon": "103.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "32",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "สุรินทร์",
+      "en": "Surin",
+      "slug": "surin-32"
+    },
+    "code": {
+      "id": "32",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 17,
+      "subdistrict": 159
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.884",
+      "lon": "103.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "33",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ศรีสะเกษ",
+      "en": "Si Sa Ket",
+      "slug": "si-sa-ket-33"
+    },
+    "code": {
+      "id": "33",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 22,
+      "subdistrict": 204
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.669",
+      "lon": "104.271"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "34",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani-34"
+    },
+    "code": {
+      "id": "34",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 25,
+      "subdistrict": 219
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.244",
+      "lon": "104.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "35",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ยโสธร",
+      "en": "Yasothon",
+      "slug": "yasothon-35"
+    },
+    "code": {
+      "id": "35",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "subdistrict": 79
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.799",
+      "lon": "104.148"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "36",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ชัยภูมิ",
+      "en": "Chaiyaphum",
+      "slug": "chaiyaphum-36"
+    },
+    "code": {
+      "id": "36",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 16,
+      "subdistrict": 124
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.61",
+      "lon": "101.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "37",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "อำนาจเจริญ",
+      "en": "Amnat Charoen",
+      "slug": "amnat-charoen-37"
+    },
+    "code": {
+      "id": "37",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "subdistrict": 56
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.823",
+      "lon": "104.562"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "38",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "บึงกาฬ",
+      "en": "Buogkan",
+      "slug": "buogkan-38"
+    },
+    "code": {
+      "id": "38",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "subdistrict": 53
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.031",
+      "lon": "103.711"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "39",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "หนองบัวลำภู",
+      "en": "Nong Bua Lam Phu",
+      "slug": "nong-bua-lam-phu-39"
+    },
+    "code": {
+      "id": "39",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 6,
+      "subdistrict": 59
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.308",
+      "lon": "102.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "40",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ขอนแก่น",
+      "en": "Khon Kaen",
+      "slug": "khon-kaen-40"
+    },
+    "code": {
+      "id": "40",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 26,
+      "subdistrict": 199
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.035",
+      "lon": "102.723"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "41",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "อุดรธานี",
+      "en": "Udon Thani",
+      "slug": "udon-thani-41"
+    },
+    "code": {
+      "id": "41",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 20,
+      "subdistrict": 155
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.411",
+      "lon": "102.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "42",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "เลย",
+      "en": "Loei",
+      "slug": "loei-42"
+    },
+    "code": {
+      "id": "42",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 14,
+      "subdistrict": 90
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.493",
+      "lon": "101.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "43",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "หนองคาย",
+      "en": "Nong Khai",
+      "slug": "nong-khai-43"
+    },
+    "code": {
+      "id": "43",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "subdistrict": 62
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.89",
+      "lon": "102.761"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "44",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "มหาสารคาม",
+      "en": "Maha Sarakham",
+      "slug": "maha-sarakham-44"
+    },
+    "code": {
+      "id": "44",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 13,
+      "subdistrict": 133
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.162",
+      "lon": "103.484"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "45",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et-45"
+    },
+    "code": {
+      "id": "45",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 20,
+      "subdistrict": 192
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.6",
+      "lon": "104.139"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "46",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "กาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin-46"
+    },
+    "code": {
+      "id": "46",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 18,
+      "subdistrict": 134
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.266",
+      "lon": "103.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "47",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "สกลนคร",
+      "en": "Sakon Nakhon",
+      "slug": "sakon-nakhon-47"
+    },
+    "code": {
+      "id": "47",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 18,
+      "subdistrict": 125
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.125",
+      "lon": "104.26"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "48",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "นครพนม",
+      "en": "Nakhon Phanom",
+      "slug": "nakhon-phanom-48"
+    },
+    "code": {
+      "id": "48",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 12,
+      "subdistrict": 95
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.066",
+      "lon": "104.749"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "49",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "มุกดาหาร",
+      "en": "Mukdahan",
+      "slug": "mukdahan-49"
+    },
+    "code": {
+      "id": "49",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "subdistrict": 53
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.53",
+      "lon": "104.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "50",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai-50"
+    },
+    "code": {
+      "id": "50",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 25,
+      "subdistrict": 199
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.785",
+      "lon": "98.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "51",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun-51"
+    },
+    "code": {
+      "id": "51",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "subdistrict": 51
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.537",
+      "lon": "98.933"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "52",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ลำปาง",
+      "en": "Lampang",
+      "slug": "lampang-52"
+    },
+    "code": {
+      "id": "52",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 13,
+      "subdistrict": 97
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.752",
+      "lon": "99.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "53",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "อุตรดิตถ์",
+      "en": "Uttaradit",
+      "slug": "uttaradit-53"
+    },
+    "code": {
+      "id": "53",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "subdistrict": 67
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.652",
+      "lon": "100.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "54",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "แพร่",
+      "en": "Phrae",
+      "slug": "phrae-54"
+    },
+    "code": {
+      "id": "54",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "subdistrict": 78
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.14",
+      "lon": "100.142"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "55",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "น่าน",
+      "en": "Nan",
+      "slug": "nan-55"
+    },
+    "code": {
+      "id": "55",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 15,
+      "subdistrict": 99
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.793",
+      "lon": "100.786"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "56",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "พะเยา",
+      "en": "Phayao",
+      "slug": "phayao-56"
+    },
+    "code": {
+      "id": "56",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "subdistrict": 68
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.172",
+      "lon": "99.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "57",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai-57"
+    },
+    "code": {
+      "id": "57",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 18,
+      "subdistrict": 123
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.907",
+      "lon": "99.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "58",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "แม่ฮ่องสอน",
+      "en": "Mae Hong Son",
+      "slug": "mae-hong-son-58"
+    },
+    "code": {
+      "id": "58",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "subdistrict": 44
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.302",
+      "lon": "97.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "60",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan-60"
+    },
+    "code": {
+      "id": "60",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 15,
+      "subdistrict": 130
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.896",
+      "lon": "100.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "61",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "อุทัยธานี",
+      "en": "Uthai Thani",
+      "slug": "uthai-thani-61"
+    },
+    "code": {
+      "id": "61",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "subdistrict": 69
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.371",
+      "lon": "99.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "62",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "กำแพงเพชร",
+      "en": "Kamphaeng Phet",
+      "slug": "kamphaeng-phet-62"
+    },
+    "code": {
+      "id": "62",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "subdistrict": 78
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.473",
+      "lon": "99.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "63",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ตาก",
+      "en": "Tak",
+      "slug": "tak-63"
+    },
+    "code": {
+      "id": "63",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "subdistrict": 60
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.862",
+      "lon": "99.129"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "64",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "สุโขทัย",
+      "en": "Sukhothai",
+      "slug": "sukhothai-64"
+    },
+    "code": {
+      "id": "64",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "subdistrict": 86
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "17.012",
+      "lon": "99.822"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "65",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "พิษณุโลก",
+      "en": "Phitsanulok",
+      "slug": "phitsanulok-65"
+    },
+    "code": {
+      "id": "65",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 9,
+      "subdistrict": 93
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.789",
+      "lon": "100.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "66",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit-66"
+    },
+    "code": {
+      "id": "66",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 12,
+      "subdistrict": 88
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.222",
+      "lon": "100.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "67",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun-67"
+    },
+    "code": {
+      "id": "67",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "subdistrict": 116
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.839",
+      "lon": "101.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "70",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ราชบุรี",
+      "en": "Ratchaburi",
+      "slug": "ratchaburi-70"
+    },
+    "code": {
+      "id": "70",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 10,
+      "subdistrict": 104
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.816",
+      "lon": "99.873"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "71",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "กาญจนบุรี",
+      "en": "Kanchanaburi",
+      "slug": "kanchanaburi-71"
+    },
+    "code": {
+      "id": "71",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 13,
+      "subdistrict": 95
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.954",
+      "lon": "99.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "72",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "สุพรรณบุรี",
+      "en": "Suphan Buri",
+      "slug": "suphan-buri-72"
+    },
+    "code": {
+      "id": "72",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 10,
+      "subdistrict": 109
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.85",
+      "lon": "99.988"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "73",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "นครปฐม",
+      "en": "Nakhon Pathom",
+      "slug": "nakhon-pathom-73"
+    },
+    "code": {
+      "id": "73",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "subdistrict": 106
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.787",
+      "lon": "100.192"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "74",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "สมุทรสาคร",
+      "en": "Samut Sakhon",
+      "slug": "samut-sakhon-74"
+    },
+    "code": {
+      "id": "74",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3,
+      "subdistrict": 40
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.533",
+      "lon": "100.276"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "75",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "สมุทรสงคราม",
+      "en": "Samut Songkhram",
+      "slug": "samut-songkhram-75"
+    },
+    "code": {
+      "id": "75",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3,
+      "subdistrict": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.487",
+      "lon": "99.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "76",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "เพชรบุรี",
+      "en": "Phetchaburi",
+      "slug": "phetchaburi-76"
+    },
+    "code": {
+      "id": "76",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "subdistrict": 92
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.121",
+      "lon": "99.9"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "77",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ประจวบคีรีขันธ์",
+      "en": "Prachuap Khiri Khan",
+      "slug": "prachuap-khiri-khan-77"
+    },
+    "code": {
+      "id": "77",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "subdistrict": 48
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "11.805",
+      "lon": "99.784"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "80",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat-80"
+    },
+    "code": {
+      "id": "80",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 23,
+      "subdistrict": 169
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.324",
+      "lon": "99.775"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "81",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "กระบี่",
+      "en": "Krabi",
+      "slug": "krabi-81"
+    },
+    "code": {
+      "id": "81",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "subdistrict": 52
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.049",
+      "lon": "98.676"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "82",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "พังงา",
+      "en": "Phangnga",
+      "slug": "phangnga-82"
+    },
+    "code": {
+      "id": "82",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "subdistrict": 48
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.406",
+      "lon": "97.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "83",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ภูเก็ต",
+      "en": "Phuket",
+      "slug": "phuket-83"
+    },
+    "code": {
+      "id": "83",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 3,
+      "subdistrict": 16
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.924",
+      "lon": "98.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "84",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani-84"
+    },
+    "code": {
+      "id": "84",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 19,
+      "subdistrict": 130
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.708",
+      "lon": "99.675"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "85",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ระนอง",
+      "en": "Ranong",
+      "slug": "ranong-85"
+    },
+    "code": {
+      "id": "85",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 5,
+      "subdistrict": 30
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.401",
+      "lon": "98.392"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "86",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ชุมพร",
+      "en": "Chumphon",
+      "slug": "chumphon-86"
+    },
+    "code": {
+      "id": "86",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "subdistrict": 70
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "10.459",
+      "lon": "99.403"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "90",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla-90"
+    },
+    "code": {
+      "id": "90",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 16,
+      "subdistrict": 127
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.561",
+      "lon": "100.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "91",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "สตูล",
+      "en": "Satun",
+      "slug": "satun-91"
+    },
+    "code": {
+      "id": "91",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 7,
+      "subdistrict": 36
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.546",
+      "lon": "99.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "92",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ตรัง",
+      "en": "Trang",
+      "slug": "trang-92"
+    },
+    "code": {
+      "id": "92",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 10,
+      "subdistrict": 90
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.033",
+      "lon": "99.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "93",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "พัทลุง",
+      "en": "Phatthalung",
+      "slug": "phatthalung-93"
+    },
+    "code": {
+      "id": "93",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 11,
+      "subdistrict": 65
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.589",
+      "lon": "100.05"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "94",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani-94"
+    },
+    "code": {
+      "id": "94",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 12,
+      "subdistrict": 115
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.87",
+      "lon": "101.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "95",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "ยะลา",
+      "en": "Yala",
+      "slug": "yala-95"
+    },
+    "code": {
+      "id": "95",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 8,
+      "subdistrict": 58
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.464",
+      "lon": "101.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "96",
+    "level": 1,
+    "level_name": {
+      "local": "จังหวัด",
+      "en": "Province"
+    },
+    "name": {
+      "local": "นราธิวาส",
+      "en": "Narathiwat",
+      "slug": "narathiwat-96"
+    },
+    "code": {
+      "id": "96",
+      "iso": null
+    },
+    "parent": null,
+    "ancestors": [],
+    "children_count": {
+      "district": 13,
+      "subdistrict": 77
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.424",
+      "lon": "101.82"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

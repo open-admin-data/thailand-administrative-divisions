@@ -1,0 +1,47 @@
+{
+  "id": "3429",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "นาเยีย",
+    "en": "Na Yia",
+    "slug": "na-yia-3429"
+  },
+  "code": {
+    "id": "3429",
+    "iso": null
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "local": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani-34"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani-34"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.987",
+    "lon": "105.068"
+  },
+  "metadata": {},
+  "source": {}
+}

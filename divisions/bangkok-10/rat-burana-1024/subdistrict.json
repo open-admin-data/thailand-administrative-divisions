@@ -1,0 +1,114 @@
+[
+  {
+    "id": "102402",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางปะกอก",
+      "en": "Bang Pakok",
+      "slug": "bang-pakok-102402"
+    },
+    "code": {
+      "id": "102402",
+      "iso": null
+    },
+    "parent": {
+      "id": "1024",
+      "level": 2,
+      "name": {
+        "local": "ราษฎร์บูรณะ",
+        "en": "Rat Burana",
+        "slug": "rat-burana-1024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1024",
+        "level": 2,
+        "name": {
+          "local": "ราษฎร์บูรณะ",
+          "en": "Rat Burana",
+          "slug": "rat-burana-1024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10140"
+    ],
+    "geo": {
+      "lat": "13.675",
+      "lon": "100.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "102401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ราษฎร์บูรณะ",
+      "en": "Rat Burana",
+      "slug": "rat-burana-102401"
+    },
+    "code": {
+      "id": "102401",
+      "iso": null
+    },
+    "parent": {
+      "id": "1024",
+      "level": 2,
+      "name": {
+        "local": "ราษฎร์บูรณะ",
+        "en": "Rat Burana",
+        "slug": "rat-burana-1024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1024",
+        "level": 2,
+        "name": {
+          "local": "ราษฎร์บูรณะ",
+          "en": "Rat Burana",
+          "slug": "rat-burana-1024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10140"
+    ],
+    "geo": {
+      "lat": "13.67",
+      "lon": "100.51"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "1410",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ลาดบัวหลวง",
+    "en": "Lat Bua Luang",
+    "slug": "lat-bua-luang-1410"
+  },
+  "code": {
+    "id": "1410",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya-14"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.134",
+    "lon": "100.368"
+  },
+  "metadata": {},
+  "source": {}
+}

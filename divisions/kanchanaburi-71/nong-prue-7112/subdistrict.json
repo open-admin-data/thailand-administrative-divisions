@@ -1,0 +1,170 @@
+[
+  {
+    "id": "711202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองปลาไหล",
+      "en": "Nong Pla Lai",
+      "slug": "nong-pla-lai-711202"
+    },
+    "code": {
+      "id": "711202",
+      "iso": null
+    },
+    "parent": {
+      "id": "7112",
+      "level": 2,
+      "name": {
+        "local": "หนองปรือ",
+        "en": "Nong Prue",
+        "slug": "nong-prue-7112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      },
+      {
+        "id": "7112",
+        "level": 2,
+        "name": {
+          "local": "หนองปรือ",
+          "en": "Nong Prue",
+          "slug": "nong-prue-7112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "71220"
+    ],
+    "geo": {
+      "lat": "14.626",
+      "lon": "99.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "711201",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองปรือ",
+      "en": "Nong Prue",
+      "slug": "nong-prue-711201"
+    },
+    "code": {
+      "id": "711201",
+      "iso": null
+    },
+    "parent": {
+      "id": "7112",
+      "level": 2,
+      "name": {
+        "local": "หนองปรือ",
+        "en": "Nong Prue",
+        "slug": "nong-prue-7112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      },
+      {
+        "id": "7112",
+        "level": 2,
+        "name": {
+          "local": "หนองปรือ",
+          "en": "Nong Prue",
+          "slug": "nong-prue-7112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "71220"
+    ],
+    "geo": {
+      "lat": "14.63",
+      "lon": "99.454"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "711203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สมเด็จเจริญ",
+      "en": "Somdet Charoen",
+      "slug": "somdet-charoen-711203"
+    },
+    "code": {
+      "id": "711203",
+      "iso": null
+    },
+    "parent": {
+      "id": "7112",
+      "level": 2,
+      "name": {
+        "local": "หนองปรือ",
+        "en": "Nong Prue",
+        "slug": "nong-prue-7112"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      },
+      {
+        "id": "7112",
+        "level": 2,
+        "name": {
+          "local": "หนองปรือ",
+          "en": "Nong Prue",
+          "slug": "nong-prue-7112"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "71220"
+    ],
+    "geo": {
+      "lat": "14.746",
+      "lon": "99.338"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

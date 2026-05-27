@@ -1,0 +1,47 @@
+{
+  "id": "4204",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ปากชม",
+    "en": "Pak Chom",
+    "slug": "pak-chom-4204"
+  },
+  "code": {
+    "id": "4204",
+    "iso": null
+  },
+  "parent": {
+    "id": "42",
+    "level": 1,
+    "name": {
+      "local": "เลย",
+      "en": "Loei",
+      "slug": "loei-42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "เลย",
+        "en": "Loei",
+        "slug": "loei-42"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.7",
+    "lon": "101.922"
+  },
+  "metadata": {},
+  "source": {}
+}

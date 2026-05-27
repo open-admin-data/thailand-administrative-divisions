@@ -1,0 +1,226 @@
+[
+  {
+    "id": "520901",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่พริก",
+      "en": "Mae Phrik",
+      "slug": "mae-phrik-520901"
+    },
+    "code": {
+      "id": "520901",
+      "iso": null
+    },
+    "parent": {
+      "id": "5209",
+      "level": 2,
+      "name": {
+        "local": "แม่พริก",
+        "en": "Mae Phrik",
+        "slug": "mae-phrik-5209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5209",
+        "level": 2,
+        "name": {
+          "local": "แม่พริก",
+          "en": "Mae Phrik",
+          "slug": "mae-phrik-5209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52180"
+    ],
+    "geo": {
+      "lat": "17.513",
+      "lon": "99.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520903",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่ปุ",
+      "en": "Mae Pu",
+      "slug": "mae-pu-520903"
+    },
+    "code": {
+      "id": "520903",
+      "iso": null
+    },
+    "parent": {
+      "id": "5209",
+      "level": 2,
+      "name": {
+        "local": "แม่พริก",
+        "en": "Mae Phrik",
+        "slug": "mae-phrik-5209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5209",
+        "level": 2,
+        "name": {
+          "local": "แม่พริก",
+          "en": "Mae Phrik",
+          "slug": "mae-phrik-5209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52180"
+    ],
+    "geo": {
+      "lat": "17.539",
+      "lon": "99.152"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520902",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ผาปัง",
+      "en": "Pha Pang",
+      "slug": "pha-pang-520902"
+    },
+    "code": {
+      "id": "520902",
+      "iso": null
+    },
+    "parent": {
+      "id": "5209",
+      "level": 2,
+      "name": {
+        "local": "แม่พริก",
+        "en": "Mae Phrik",
+        "slug": "mae-phrik-5209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5209",
+        "level": 2,
+        "name": {
+          "local": "แม่พริก",
+          "en": "Mae Phrik",
+          "slug": "mae-phrik-5209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52180"
+    ],
+    "geo": {
+      "lat": "17.564",
+      "lon": "99.069"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520904",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "พระบาทวังตวง",
+      "en": "Phra Bat Wang Tuang",
+      "slug": "phra-bat-wang-tuang-520904"
+    },
+    "code": {
+      "id": "520904",
+      "iso": null
+    },
+    "parent": {
+      "id": "5209",
+      "level": 2,
+      "name": {
+        "local": "แม่พริก",
+        "en": "Mae Phrik",
+        "slug": "mae-phrik-5209"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5209",
+        "level": 2,
+        "name": {
+          "local": "แม่พริก",
+          "en": "Mae Phrik",
+          "slug": "mae-phrik-5209"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52180"
+    ],
+    "geo": {
+      "lat": "17.412",
+      "lon": "99.162"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

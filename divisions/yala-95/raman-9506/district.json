@@ -1,0 +1,47 @@
+{
+  "id": "9506",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "รามัน",
+    "en": "Raman",
+    "slug": "raman-9506"
+  },
+  "code": {
+    "id": "9506",
+    "iso": null
+  },
+  "parent": {
+    "id": "95",
+    "level": 1,
+    "name": {
+      "local": "ยะลา",
+      "en": "Yala",
+      "slug": "yala-95"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "local": "ยะลา",
+        "en": "Yala",
+        "slug": "yala-95"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.464",
+    "lon": "101.374"
+  },
+  "metadata": {},
+  "source": {}
+}

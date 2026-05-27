@@ -1,0 +1,47 @@
+{
+  "id": "8015",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ขนอม",
+    "en": "Khanom",
+    "slug": "khanom-8015"
+  },
+  "code": {
+    "id": "8015",
+    "iso": null
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "local": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat-80"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat-80"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.324",
+    "lon": "99.775"
+  },
+  "metadata": {},
+  "source": {}
+}

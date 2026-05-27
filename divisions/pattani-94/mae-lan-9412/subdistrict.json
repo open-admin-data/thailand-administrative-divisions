@@ -1,0 +1,170 @@
+[
+  {
+    "id": "941201",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่ลาน",
+      "en": "Mae Lan",
+      "slug": "mae-lan-941201"
+    },
+    "code": {
+      "id": "941201",
+      "iso": null
+    },
+    "parent": {
+      "id": "9412",
+      "level": 2,
+      "name": {
+        "local": "แม่ลาน",
+        "en": "Mae Lan",
+        "slug": "mae-lan-9412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani-94"
+        }
+      },
+      {
+        "id": "9412",
+        "level": 2,
+        "name": {
+          "local": "แม่ลาน",
+          "en": "Mae Lan",
+          "slug": "mae-lan-9412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94180"
+    ],
+    "geo": {
+      "lat": "6.647",
+      "lon": "101.231"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "941202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ม่วงเตี้ย",
+      "en": "Muang Tia",
+      "slug": "muang-tia-941202"
+    },
+    "code": {
+      "id": "941202",
+      "iso": null
+    },
+    "parent": {
+      "id": "9412",
+      "level": 2,
+      "name": {
+        "local": "แม่ลาน",
+        "en": "Mae Lan",
+        "slug": "mae-lan-9412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani-94"
+        }
+      },
+      {
+        "id": "9412",
+        "level": 2,
+        "name": {
+          "local": "แม่ลาน",
+          "en": "Mae Lan",
+          "slug": "mae-lan-9412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94180"
+    ],
+    "geo": {
+      "lat": "6.677",
+      "lon": "101.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "941203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ป่าไร่",
+      "en": "Pa Rai",
+      "slug": "pa-rai-941203"
+    },
+    "code": {
+      "id": "941203",
+      "iso": null
+    },
+    "parent": {
+      "id": "9412",
+      "level": 2,
+      "name": {
+        "local": "แม่ลาน",
+        "en": "Mae Lan",
+        "slug": "mae-lan-9412"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani-94"
+        }
+      },
+      {
+        "id": "9412",
+        "level": 2,
+        "name": {
+          "local": "แม่ลาน",
+          "en": "Mae Lan",
+          "slug": "mae-lan-9412"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94180"
+    ],
+    "geo": {
+      "lat": "6.685",
+      "lon": "101.214"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

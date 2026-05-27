@@ -1,0 +1,47 @@
+{
+  "id": "5012",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สันป่าตอง",
+    "en": "San Pa Tong",
+    "slug": "san-pa-tong-5012"
+  },
+  "code": {
+    "id": "5012",
+    "iso": null
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "local": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai-50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "local": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai-50"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.531",
+    "lon": "98.864"
+  },
+  "metadata": {},
+  "source": {}
+}

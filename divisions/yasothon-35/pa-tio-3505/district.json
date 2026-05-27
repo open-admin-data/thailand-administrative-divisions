@@ -1,0 +1,47 @@
+{
+  "id": "3505",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ป่าติ้ว",
+    "en": "Pa Tio",
+    "slug": "pa-tio-3505"
+  },
+  "code": {
+    "id": "3505",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "ยโสธร",
+      "en": "Yasothon",
+      "slug": "yasothon-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon-35"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.772",
+    "lon": "104.409"
+  },
+  "metadata": {},
+  "source": {}
+}

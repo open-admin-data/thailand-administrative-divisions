@@ -1,0 +1,47 @@
+{
+  "id": "4017",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "มัญจาคีรี",
+    "en": "Mancha Khiri",
+    "slug": "mancha-khiri-4017"
+  },
+  "code": {
+    "id": "4017",
+    "iso": null
+  },
+  "parent": {
+    "id": "40",
+    "level": 1,
+    "name": {
+      "local": "ขอนแก่น",
+      "en": "Khon Kaen",
+      "slug": "khon-kaen-40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen-40"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.269",
+    "lon": "102.615"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2508",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ศรีมหาโพธิ",
+    "en": "Si Maha Phot",
+    "slug": "si-maha-phot-2508"
+  },
+  "code": {
+    "id": "2508",
+    "iso": null
+  },
+  "parent": {
+    "id": "25",
+    "level": 1,
+    "name": {
+      "local": "ปราจีนบุรี",
+      "en": "Prachin Buri",
+      "slug": "prachin-buri-25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri-25"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.964",
+    "lon": "101.483"
+  },
+  "metadata": {},
+  "source": {}
+}

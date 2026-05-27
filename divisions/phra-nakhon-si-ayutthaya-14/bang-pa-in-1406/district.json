@@ -1,0 +1,47 @@
+{
+  "id": "1406",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บางปะอิน",
+    "en": "Bang Pa-in",
+    "slug": "bang-pa-in-1406"
+  },
+  "code": {
+    "id": "1406",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya-14"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.295",
+    "lon": "100.621"
+  },
+  "metadata": {},
+  "source": {}
+}

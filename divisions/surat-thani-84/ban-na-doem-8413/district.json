@@ -1,0 +1,47 @@
+{
+  "id": "8413",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ้านนาเดิม",
+    "en": "Ban Na Doem",
+    "slug": "ban-na-doem-8413"
+  },
+  "code": {
+    "id": "8413",
+    "iso": null
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "local": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani-84"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "local": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani-84"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.947",
+    "lon": "99.269"
+  },
+  "metadata": {},
+  "source": {}
+}

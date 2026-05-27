@@ -1,0 +1,170 @@
+[
+  {
+    "id": "830203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กมลา",
+      "en": "Kamala",
+      "slug": "kamala-830203"
+    },
+    "code": {
+      "id": "830203",
+      "iso": null
+    },
+    "parent": {
+      "id": "8302",
+      "level": 2,
+      "name": {
+        "local": "กะทู้",
+        "en": "Kathu",
+        "slug": "kathu-8302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "83",
+        "level": 1,
+        "name": {
+          "local": "ภูเก็ต",
+          "en": "Phuket",
+          "slug": "phuket-83"
+        }
+      },
+      {
+        "id": "8302",
+        "level": 2,
+        "name": {
+          "local": "กะทู้",
+          "en": "Kathu",
+          "slug": "kathu-8302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83150"
+    ],
+    "geo": {
+      "lat": "7.945",
+      "lon": "98.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "830201",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กะทู้",
+      "en": "Kathu",
+      "slug": "kathu-830201"
+    },
+    "code": {
+      "id": "830201",
+      "iso": null
+    },
+    "parent": {
+      "id": "8302",
+      "level": 2,
+      "name": {
+        "local": "กะทู้",
+        "en": "Kathu",
+        "slug": "kathu-8302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "83",
+        "level": 1,
+        "name": {
+          "local": "ภูเก็ต",
+          "en": "Phuket",
+          "slug": "phuket-83"
+        }
+      },
+      {
+        "id": "8302",
+        "level": 2,
+        "name": {
+          "local": "กะทู้",
+          "en": "Kathu",
+          "slug": "kathu-8302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83120"
+    ],
+    "geo": {
+      "lat": "7.914",
+      "lon": "98.338"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "830202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ป่าตอง",
+      "en": "Pa Tong",
+      "slug": "pa-tong-830202"
+    },
+    "code": {
+      "id": "830202",
+      "iso": null
+    },
+    "parent": {
+      "id": "8302",
+      "level": 2,
+      "name": {
+        "local": "กะทู้",
+        "en": "Kathu",
+        "slug": "kathu-8302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "83",
+        "level": 1,
+        "name": {
+          "local": "ภูเก็ต",
+          "en": "Phuket",
+          "slug": "phuket-83"
+        }
+      },
+      {
+        "id": "8302",
+        "level": 2,
+        "name": {
+          "local": "กะทู้",
+          "en": "Kathu",
+          "slug": "kathu-8302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83150"
+    ],
+    "geo": {
+      "lat": "7.904",
+      "lon": "98.308"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

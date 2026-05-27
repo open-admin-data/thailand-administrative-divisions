@@ -1,0 +1,47 @@
+{
+  "id": "6604",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ตะพานหิน",
+    "en": "Taphan Hin",
+    "slug": "taphan-hin-6604"
+  },
+  "code": {
+    "id": "6604",
+    "iso": null
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "local": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit-66"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit-66"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.222",
+    "lon": "100.427"
+  },
+  "metadata": {},
+  "source": {}
+}

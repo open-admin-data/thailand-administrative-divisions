@@ -1,0 +1,282 @@
+[
+  {
+    "id": "920703",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "อ่าวตง",
+      "en": "Ao Tong",
+      "slug": "ao-tong-920703"
+    },
+    "code": {
+      "id": "920703",
+      "iso": null
+    },
+    "parent": {
+      "id": "9207",
+      "level": 2,
+      "name": {
+        "local": "วังวิเศษ",
+        "en": "Wang Wiset",
+        "slug": "wang-wiset-9207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9207",
+        "level": 2,
+        "name": {
+          "local": "วังวิเศษ",
+          "en": "Wang Wiset",
+          "slug": "wang-wiset-9207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92220"
+    ],
+    "geo": {
+      "lat": "7.862",
+      "lon": "99.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เขาวิเศษ",
+      "en": "Khao Wiset",
+      "slug": "khao-wiset-920701"
+    },
+    "code": {
+      "id": "920701",
+      "iso": null
+    },
+    "parent": {
+      "id": "9207",
+      "level": 2,
+      "name": {
+        "local": "วังวิเศษ",
+        "en": "Wang Wiset",
+        "slug": "wang-wiset-9207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9207",
+        "level": 2,
+        "name": {
+          "local": "วังวิเศษ",
+          "en": "Wang Wiset",
+          "slug": "wang-wiset-9207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92220"
+    ],
+    "geo": {
+      "lat": "7.651",
+      "lon": "99.459"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920704",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าสะบ้า",
+      "en": "Tha Saba",
+      "slug": "tha-saba-920704"
+    },
+    "code": {
+      "id": "920704",
+      "iso": null
+    },
+    "parent": {
+      "id": "9207",
+      "level": 2,
+      "name": {
+        "local": "วังวิเศษ",
+        "en": "Wang Wiset",
+        "slug": "wang-wiset-9207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9207",
+        "level": 2,
+        "name": {
+          "local": "วังวิเศษ",
+          "en": "Wang Wiset",
+          "slug": "wang-wiset-9207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92000"
+    ],
+    "geo": {
+      "lat": "7.69",
+      "lon": "99.523"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920702",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังมะปราง",
+      "en": "Wang Maprang",
+      "slug": "wang-maprang-920702"
+    },
+    "code": {
+      "id": "920702",
+      "iso": null
+    },
+    "parent": {
+      "id": "9207",
+      "level": 2,
+      "name": {
+        "local": "วังวิเศษ",
+        "en": "Wang Wiset",
+        "slug": "wang-wiset-9207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9207",
+        "level": 2,
+        "name": {
+          "local": "วังวิเศษ",
+          "en": "Wang Wiset",
+          "slug": "wang-wiset-9207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92220"
+    ],
+    "geo": {
+      "lat": "7.656",
+      "lon": "99.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920705",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังมะปรางเหนือ",
+      "en": "Wang Maprang Nuea",
+      "slug": "wang-maprang-nuea-920705"
+    },
+    "code": {
+      "id": "920705",
+      "iso": null
+    },
+    "parent": {
+      "id": "9207",
+      "level": 2,
+      "name": {
+        "local": "วังวิเศษ",
+        "en": "Wang Wiset",
+        "slug": "wang-wiset-9207"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9207",
+        "level": 2,
+        "name": {
+          "local": "วังวิเศษ",
+          "en": "Wang Wiset",
+          "slug": "wang-wiset-9207"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92220"
+    ],
+    "geo": {
+      "lat": "7.746",
+      "lon": "99.398"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

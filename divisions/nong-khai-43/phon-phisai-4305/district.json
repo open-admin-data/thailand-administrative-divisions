@@ -1,0 +1,47 @@
+{
+  "id": "4305",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "โพนพิสัย",
+    "en": "Phon Phisai",
+    "slug": "phon-phisai-4305"
+  },
+  "code": {
+    "id": "4305",
+    "iso": null
+  },
+  "parent": {
+    "id": "43",
+    "level": 1,
+    "name": {
+      "local": "หนองคาย",
+      "en": "Nong Khai",
+      "slug": "nong-khai-43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "local": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai-43"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.899",
+    "lon": "103.01"
+  },
+  "metadata": {},
+  "source": {}
+}

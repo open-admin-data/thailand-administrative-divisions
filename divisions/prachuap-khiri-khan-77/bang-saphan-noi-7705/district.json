@@ -1,0 +1,47 @@
+{
+  "id": "7705",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บางสะพานน้อย",
+    "en": "Bang Saphan Noi",
+    "slug": "bang-saphan-noi-7705"
+  },
+  "code": {
+    "id": "7705",
+    "iso": null
+  },
+  "parent": {
+    "id": "77",
+    "level": 1,
+    "name": {
+      "local": "ประจวบคีรีขันธ์",
+      "en": "Prachuap Khiri Khan",
+      "slug": "prachuap-khiri-khan-77"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "local": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan-77"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.063",
+    "lon": "99.436"
+  },
+  "metadata": {},
+  "source": {}
+}

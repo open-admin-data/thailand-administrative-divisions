@@ -1,0 +1,450 @@
+[
+  {
+    "id": "300601",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "จักราช",
+      "en": "Chakkarat",
+      "slug": "chakkarat-300601"
+    },
+    "code": {
+      "id": "300601",
+      "iso": null
+    },
+    "parent": {
+      "id": "3006",
+      "level": 2,
+      "name": {
+        "local": "จักราช",
+        "en": "Chakkarat",
+        "slug": "chakkarat-3006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "local": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima-30"
+        }
+      },
+      {
+        "id": "3006",
+        "level": 2,
+        "name": {
+          "local": "จักราช",
+          "en": "Chakkarat",
+          "slug": "chakkarat-3006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30230"
+    ],
+    "geo": {
+      "lat": "15.027",
+      "lon": "102.432"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "300613",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หินโคน",
+      "en": "Hin Khon",
+      "slug": "hin-khon-300613"
+    },
+    "code": {
+      "id": "300613",
+      "iso": null
+    },
+    "parent": {
+      "id": "3006",
+      "level": 2,
+      "name": {
+        "local": "จักราช",
+        "en": "Chakkarat",
+        "slug": "chakkarat-3006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "local": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima-30"
+        }
+      },
+      {
+        "id": "3006",
+        "level": 2,
+        "name": {
+          "local": "จักราช",
+          "en": "Chakkarat",
+          "slug": "chakkarat-3006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30230"
+    ],
+    "geo": {
+      "lat": "15.013",
+      "lon": "102.498"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "300611",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองเมือง",
+      "en": "Khlong Mueang",
+      "slug": "khlong-mueang-300611"
+    },
+    "code": {
+      "id": "300611",
+      "iso": null
+    },
+    "parent": {
+      "id": "3006",
+      "level": 2,
+      "name": {
+        "local": "จักราช",
+        "en": "Chakkarat",
+        "slug": "chakkarat-3006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "local": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima-30"
+        }
+      },
+      {
+        "id": "3006",
+        "level": 2,
+        "name": {
+          "local": "จักราช",
+          "en": "Chakkarat",
+          "slug": "chakkarat-3006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30230"
+    ],
+    "geo": {
+      "lat": "14.852",
+      "lon": "102.502"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "300605",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองขาม",
+      "en": "Nong Kham",
+      "slug": "nong-kham-300605"
+    },
+    "code": {
+      "id": "300605",
+      "iso": null
+    },
+    "parent": {
+      "id": "3006",
+      "level": 2,
+      "name": {
+        "local": "จักราช",
+        "en": "Chakkarat",
+        "slug": "chakkarat-3006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "local": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima-30"
+        }
+      },
+      {
+        "id": "3006",
+        "level": 2,
+        "name": {
+          "local": "จักราช",
+          "en": "Chakkarat",
+          "slug": "chakkarat-3006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30230"
+    ],
+    "geo": {
+      "lat": "14.931",
+      "lon": "102.506"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "300607",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองพลวง",
+      "en": "Nong Phluang",
+      "slug": "nong-phluang-300607"
+    },
+    "code": {
+      "id": "300607",
+      "iso": null
+    },
+    "parent": {
+      "id": "3006",
+      "level": 2,
+      "name": {
+        "local": "จักราช",
+        "en": "Chakkarat",
+        "slug": "chakkarat-3006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "local": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima-30"
+        }
+      },
+      {
+        "id": "3006",
+        "level": 2,
+        "name": {
+          "local": "จักราช",
+          "en": "Chakkarat",
+          "slug": "chakkarat-3006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30230"
+    ],
+    "geo": {
+      "lat": "15.07",
+      "lon": "102.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "300610",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ศรีละกอ",
+      "en": "Si Lako",
+      "slug": "si-lako-300610"
+    },
+    "code": {
+      "id": "300610",
+      "iso": null
+    },
+    "parent": {
+      "id": "3006",
+      "level": 2,
+      "name": {
+        "local": "จักราช",
+        "en": "Chakkarat",
+        "slug": "chakkarat-3006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "local": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima-30"
+        }
+      },
+      {
+        "id": "3006",
+        "level": 2,
+        "name": {
+          "local": "จักราช",
+          "en": "Chakkarat",
+          "slug": "chakkarat-3006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30230"
+    ],
+    "geo": {
+      "lat": "14.938",
+      "lon": "102.427"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "300604",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สีสุก",
+      "en": "Si Suk",
+      "slug": "si-suk-300604"
+    },
+    "code": {
+      "id": "300604",
+      "iso": null
+    },
+    "parent": {
+      "id": "3006",
+      "level": 2,
+      "name": {
+        "local": "จักราช",
+        "en": "Chakkarat",
+        "slug": "chakkarat-3006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "local": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima-30"
+        }
+      },
+      {
+        "id": "3006",
+        "level": 2,
+        "name": {
+          "local": "จักราช",
+          "en": "Chakkarat",
+          "slug": "chakkarat-3006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30230"
+    ],
+    "geo": {
+      "lat": "14.874",
+      "lon": "102.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "300603",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทองหลาง",
+      "en": "Thonglang",
+      "slug": "thonglang-300603"
+    },
+    "code": {
+      "id": "300603",
+      "iso": null
+    },
+    "parent": {
+      "id": "3006",
+      "level": 2,
+      "name": {
+        "local": "จักราช",
+        "en": "Chakkarat",
+        "slug": "chakkarat-3006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "local": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima-30"
+        }
+      },
+      {
+        "id": "3006",
+        "level": 2,
+        "name": {
+          "local": "จักราช",
+          "en": "Chakkarat",
+          "slug": "chakkarat-3006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30230"
+    ],
+    "geo": {
+      "lat": "15.052",
+      "lon": "102.353"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

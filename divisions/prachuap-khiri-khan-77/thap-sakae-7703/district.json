@@ -1,0 +1,47 @@
+{
+  "id": "7703",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ทับสะแก",
+    "en": "Thap Sakae",
+    "slug": "thap-sakae-7703"
+  },
+  "code": {
+    "id": "7703",
+    "iso": null
+  },
+  "parent": {
+    "id": "77",
+    "level": 1,
+    "name": {
+      "local": "ประจวบคีรีขันธ์",
+      "en": "Prachuap Khiri Khan",
+      "slug": "prachuap-khiri-khan-77"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "local": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan-77"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "11.516",
+    "lon": "99.627"
+  },
+  "metadata": {},
+  "source": {}
+}

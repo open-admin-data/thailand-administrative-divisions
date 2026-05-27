@@ -1,0 +1,47 @@
+{
+  "id": "8006",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เชียรใหญ่",
+    "en": "Chian Yai",
+    "slug": "chian-yai-8006"
+  },
+  "code": {
+    "id": "8006",
+    "iso": null
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "local": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat-80"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat-80"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.156",
+    "lon": "100.197"
+  },
+  "metadata": {},
+  "source": {}
+}

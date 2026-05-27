@@ -1,0 +1,47 @@
+{
+  "id": "7003",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สวนผึ้ง",
+    "en": "Suan Phueng",
+    "slug": "suan-phueng-7003"
+  },
+  "code": {
+    "id": "7003",
+    "iso": null
+  },
+  "parent": {
+    "id": "70",
+    "level": 1,
+    "name": {
+      "local": "ราชบุรี",
+      "en": "Ratchaburi",
+      "slug": "ratchaburi-70"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "local": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi-70"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.522",
+    "lon": "99.42"
+  },
+  "metadata": {},
+  "source": {}
+}

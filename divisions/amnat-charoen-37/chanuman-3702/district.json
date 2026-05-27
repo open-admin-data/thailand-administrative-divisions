@@ -1,0 +1,47 @@
+{
+  "id": "3702",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ชานุมาน",
+    "en": "Chanuman",
+    "slug": "chanuman-3702"
+  },
+  "code": {
+    "id": "3702",
+    "iso": null
+  },
+  "parent": {
+    "id": "37",
+    "level": 1,
+    "name": {
+      "local": "อำนาจเจริญ",
+      "en": "Amnat Charoen",
+      "slug": "amnat-charoen-37"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen-37"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.156",
+    "lon": "104.996"
+  },
+  "metadata": {},
+  "source": {}
+}

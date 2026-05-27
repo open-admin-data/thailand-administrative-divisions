@@ -1,0 +1,338 @@
+[
+  {
+    "id": "500910",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่คะ",
+      "en": "Mae Kha",
+      "slug": "mae-kha-500910"
+    },
+    "code": {
+      "id": "500910",
+      "iso": null
+    },
+    "parent": {
+      "id": "5009",
+      "level": 2,
+      "name": {
+        "local": "ฝาง",
+        "en": "Fang",
+        "slug": "fang-5009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5009",
+        "level": 2,
+        "name": {
+          "local": "ฝาง",
+          "en": "Fang",
+          "slug": "fang-5009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50110"
+    ],
+    "geo": {
+      "lat": "19.821",
+      "lon": "99.213"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "500904",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่งอน",
+      "en": "Mae Ngon",
+      "slug": "mae-ngon-500904"
+    },
+    "code": {
+      "id": "500904",
+      "iso": null
+    },
+    "parent": {
+      "id": "5009",
+      "level": 2,
+      "name": {
+        "local": "ฝาง",
+        "en": "Fang",
+        "slug": "fang-5009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5009",
+        "level": 2,
+        "name": {
+          "local": "ฝาง",
+          "en": "Fang",
+          "slug": "fang-5009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50320"
+    ],
+    "geo": {
+      "lat": "19.793",
+      "lon": "99.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "500903",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ม่อนปิ่น",
+      "en": "Mon Pin",
+      "slug": "mon-pin-500903"
+    },
+    "code": {
+      "id": "500903",
+      "iso": null
+    },
+    "parent": {
+      "id": "5009",
+      "level": 2,
+      "name": {
+        "local": "ฝาง",
+        "en": "Fang",
+        "slug": "fang-5009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5009",
+        "level": 2,
+        "name": {
+          "local": "ฝาง",
+          "en": "Fang",
+          "slug": "fang-5009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50110"
+    ],
+    "geo": {
+      "lat": "19.955",
+      "lon": "99.112"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "500912",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โป่งน้ำร้อน",
+      "en": "Pong Nam Ron",
+      "slug": "pong-nam-ron-500912"
+    },
+    "code": {
+      "id": "500912",
+      "iso": null
+    },
+    "parent": {
+      "id": "5009",
+      "level": 2,
+      "name": {
+        "local": "ฝาง",
+        "en": "Fang",
+        "slug": "fang-5009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5009",
+        "level": 2,
+        "name": {
+          "local": "ฝาง",
+          "en": "Fang",
+          "slug": "fang-5009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50110"
+    ],
+    "geo": {
+      "lat": "20.061",
+      "lon": "99.121"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "500906",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สันทราย",
+      "en": "San Sai",
+      "slug": "san-sai-500906"
+    },
+    "code": {
+      "id": "500906",
+      "iso": null
+    },
+    "parent": {
+      "id": "5009",
+      "level": 2,
+      "name": {
+        "local": "ฝาง",
+        "en": "Fang",
+        "slug": "fang-5009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5009",
+        "level": 2,
+        "name": {
+          "local": "ฝาง",
+          "en": "Fang",
+          "slug": "fang-5009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50110"
+    ],
+    "geo": {
+      "lat": "19.879",
+      "lon": "99.209"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "500901",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เวียง",
+      "en": "Wiang",
+      "slug": "wiang-500901"
+    },
+    "code": {
+      "id": "500901",
+      "iso": null
+    },
+    "parent": {
+      "id": "5009",
+      "level": 2,
+      "name": {
+        "local": "ฝาง",
+        "en": "Fang",
+        "slug": "fang-5009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5009",
+        "level": 2,
+        "name": {
+          "local": "ฝาง",
+          "en": "Fang",
+          "slug": "fang-5009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50110"
+    ],
+    "geo": {
+      "lat": "19.944",
+      "lon": "99.214"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "5601",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองพะเยา",
+    "en": "Mueang Phayao",
+    "slug": "mueang-phayao-5601"
+  },
+  "code": {
+    "id": "5601",
+    "iso": null
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "local": "พะเยา",
+      "en": "Phayao",
+      "slug": "phayao-56"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao-56"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.172",
+    "lon": "99.894"
+  },
+  "metadata": {},
+  "source": {}
+}

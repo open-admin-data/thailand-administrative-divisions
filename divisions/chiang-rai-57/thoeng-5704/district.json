@@ -1,0 +1,47 @@
+{
+  "id": "5704",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เทิง",
+    "en": "Thoeng",
+    "slug": "thoeng-5704"
+  },
+  "code": {
+    "id": "5704",
+    "iso": null
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "local": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai-57"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "local": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai-57"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.717",
+    "lon": "100.18"
+  },
+  "metadata": {},
+  "source": {}
+}

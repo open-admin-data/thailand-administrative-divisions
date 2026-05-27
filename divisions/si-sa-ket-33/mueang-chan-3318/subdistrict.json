@@ -1,0 +1,170 @@
+[
+  {
+    "id": "331801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เมืองจันทร์",
+      "en": "Mueang Chan",
+      "slug": "mueang-chan-331801"
+    },
+    "code": {
+      "id": "331801",
+      "iso": null
+    },
+    "parent": {
+      "id": "3318",
+      "level": 2,
+      "name": {
+        "local": "เมืองจันทร์",
+        "en": "Mueang Chan",
+        "slug": "mueang-chan-3318"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket-33"
+        }
+      },
+      {
+        "id": "3318",
+        "level": 2,
+        "name": {
+          "local": "เมืองจันทร์",
+          "en": "Mueang Chan",
+          "slug": "mueang-chan-3318"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33120"
+    ],
+    "geo": {
+      "lat": "15.155",
+      "lon": "104.011"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "331803",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองใหญ่",
+      "en": "Nong Yai",
+      "slug": "nong-yai-331803"
+    },
+    "code": {
+      "id": "331803",
+      "iso": null
+    },
+    "parent": {
+      "id": "3318",
+      "level": 2,
+      "name": {
+        "local": "เมืองจันทร์",
+        "en": "Mueang Chan",
+        "slug": "mueang-chan-3318"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket-33"
+        }
+      },
+      {
+        "id": "3318",
+        "level": 2,
+        "name": {
+          "local": "เมืองจันทร์",
+          "en": "Mueang Chan",
+          "slug": "mueang-chan-3318"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33120"
+    ],
+    "geo": {
+      "lat": "15.198",
+      "lon": "104.035"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "331802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตาโกน",
+      "en": "Takon",
+      "slug": "takon-331802"
+    },
+    "code": {
+      "id": "331802",
+      "iso": null
+    },
+    "parent": {
+      "id": "3318",
+      "level": 2,
+      "name": {
+        "local": "เมืองจันทร์",
+        "en": "Mueang Chan",
+        "slug": "mueang-chan-3318"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket-33"
+        }
+      },
+      {
+        "id": "3318",
+        "level": 2,
+        "name": {
+          "local": "เมืองจันทร์",
+          "en": "Mueang Chan",
+          "slug": "mueang-chan-3318"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33120"
+    ],
+    "geo": {
+      "lat": "15.205",
+      "lon": "103.996"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

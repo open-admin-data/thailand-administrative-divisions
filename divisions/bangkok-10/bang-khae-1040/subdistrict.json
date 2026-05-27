@@ -1,0 +1,226 @@
+[
+  {
+    "id": "104001",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางแค",
+      "en": "Bang Khae",
+      "slug": "bang-khae-104001"
+    },
+    "code": {
+      "id": "104001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1040",
+      "level": 2,
+      "name": {
+        "local": "บางแค",
+        "en": "Bang Khae",
+        "slug": "bang-khae-1040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1040",
+        "level": 2,
+        "name": {
+          "local": "บางแค",
+          "en": "Bang Khae",
+          "slug": "bang-khae-1040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10160"
+    ],
+    "geo": {
+      "lat": "13.698",
+      "lon": "100.409"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "104002",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางแคเหนือ",
+      "en": "Bang Khae Nuea",
+      "slug": "bang-khae-nuea-104002"
+    },
+    "code": {
+      "id": "104002",
+      "iso": null
+    },
+    "parent": {
+      "id": "1040",
+      "level": 2,
+      "name": {
+        "local": "บางแค",
+        "en": "Bang Khae",
+        "slug": "bang-khae-1040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1040",
+        "level": 2,
+        "name": {
+          "local": "บางแค",
+          "en": "Bang Khae",
+          "slug": "bang-khae-1040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10160"
+    ],
+    "geo": {
+      "lat": "13.72",
+      "lon": "100.4"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "104003",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางไผ่",
+      "en": "Bang Phai",
+      "slug": "bang-phai-104003"
+    },
+    "code": {
+      "id": "104003",
+      "iso": null
+    },
+    "parent": {
+      "id": "1040",
+      "level": 2,
+      "name": {
+        "local": "บางแค",
+        "en": "Bang Khae",
+        "slug": "bang-khae-1040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1040",
+        "level": 2,
+        "name": {
+          "local": "บางแค",
+          "en": "Bang Khae",
+          "slug": "bang-khae-1040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10160"
+    ],
+    "geo": {
+      "lat": "13.741",
+      "lon": "100.385"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "104004",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หลักสอง",
+      "en": "Lak Song",
+      "slug": "lak-song-104004"
+    },
+    "code": {
+      "id": "104004",
+      "iso": null
+    },
+    "parent": {
+      "id": "1040",
+      "level": 2,
+      "name": {
+        "local": "บางแค",
+        "en": "Bang Khae",
+        "slug": "bang-khae-1040"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1040",
+        "level": 2,
+        "name": {
+          "local": "บางแค",
+          "en": "Bang Khae",
+          "slug": "bang-khae-1040"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10160"
+    ],
+    "geo": {
+      "lat": "13.683",
+      "lon": "100.396"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

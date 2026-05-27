@@ -1,0 +1,47 @@
+{
+  "id": "4111",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ้านดุง",
+    "en": "Ban Dung",
+    "slug": "ban-dung-4111"
+  },
+  "code": {
+    "id": "4111",
+    "iso": null
+  },
+  "parent": {
+    "id": "41",
+    "level": 1,
+    "name": {
+      "local": "อุดรธานี",
+      "en": "Udon Thani",
+      "slug": "udon-thani-41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "local": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani-41"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.684",
+    "lon": "103.259"
+  },
+  "metadata": {},
+  "source": {}
+}

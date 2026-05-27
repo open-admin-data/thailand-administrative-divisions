@@ -1,0 +1,47 @@
+{
+  "id": "7209",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "อู่ทอง",
+    "en": "U Thong",
+    "slug": "u-thong-7209"
+  },
+  "code": {
+    "id": "7209",
+    "iso": null
+  },
+  "parent": {
+    "id": "72",
+    "level": 1,
+    "name": {
+      "local": "สุพรรณบุรี",
+      "en": "Suphan Buri",
+      "slug": "suphan-buri-72"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri-72"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.322",
+    "lon": "99.898"
+  },
+  "metadata": {},
+  "source": {}
+}

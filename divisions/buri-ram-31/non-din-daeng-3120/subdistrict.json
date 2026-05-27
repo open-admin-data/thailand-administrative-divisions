@@ -1,0 +1,170 @@
+[
+  {
+    "id": "312003",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ลำนางรอง",
+      "en": "Lam Nang Rong",
+      "slug": "lam-nang-rong-312003"
+    },
+    "code": {
+      "id": "312003",
+      "iso": null
+    },
+    "parent": {
+      "id": "3120",
+      "level": 2,
+      "name": {
+        "local": "โนนดินแดง",
+        "en": "Non Din Daeng",
+        "slug": "non-din-daeng-3120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram-31"
+        }
+      },
+      {
+        "id": "3120",
+        "level": 2,
+        "name": {
+          "local": "โนนดินแดง",
+          "en": "Non Din Daeng",
+          "slug": "non-din-daeng-3120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31260"
+    ],
+    "geo": {
+      "lat": "14.213",
+      "lon": "102.698"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "312001",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โนนดินแดง",
+      "en": "Non Din Daeng",
+      "slug": "non-din-daeng-312001"
+    },
+    "code": {
+      "id": "312001",
+      "iso": null
+    },
+    "parent": {
+      "id": "3120",
+      "level": 2,
+      "name": {
+        "local": "โนนดินแดง",
+        "en": "Non Din Daeng",
+        "slug": "non-din-daeng-3120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram-31"
+        }
+      },
+      {
+        "id": "3120",
+        "level": 2,
+        "name": {
+          "local": "โนนดินแดง",
+          "en": "Non Din Daeng",
+          "slug": "non-din-daeng-3120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31260"
+    ],
+    "geo": {
+      "lat": "14.316",
+      "lon": "102.721"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "312002",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ส้มป่อย",
+      "en": "Som Poi",
+      "slug": "som-poi-312002"
+    },
+    "code": {
+      "id": "312002",
+      "iso": null
+    },
+    "parent": {
+      "id": "3120",
+      "level": 2,
+      "name": {
+        "local": "โนนดินแดง",
+        "en": "Non Din Daeng",
+        "slug": "non-din-daeng-3120"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram-31"
+        }
+      },
+      {
+        "id": "3120",
+        "level": 2,
+        "name": {
+          "local": "โนนดินแดง",
+          "en": "Non Din Daeng",
+          "slug": "non-din-daeng-3120"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31260"
+    ],
+    "geo": {
+      "lat": "14.346",
+      "lon": "102.764"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

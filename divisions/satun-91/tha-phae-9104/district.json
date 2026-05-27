@@ -1,0 +1,47 @@
+{
+  "id": "9104",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ท่าแพ",
+    "en": "Tha Phae",
+    "slug": "tha-phae-9104"
+  },
+  "code": {
+    "id": "9104",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "สตูล",
+      "en": "Satun",
+      "slug": "satun-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "สตูล",
+        "en": "Satun",
+        "slug": "satun-91"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.855",
+    "lon": "99.927"
+  },
+  "metadata": {},
+  "source": {}
+}

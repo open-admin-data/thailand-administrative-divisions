@@ -1,0 +1,47 @@
+{
+  "id": "2202",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ขลุง",
+    "en": "Khlung",
+    "slug": "khlung-2202"
+  },
+  "code": {
+    "id": "2202",
+    "iso": null
+  },
+  "parent": {
+    "id": "22",
+    "level": 1,
+    "name": {
+      "local": "จันทบุรี",
+      "en": "Chanthaburi",
+      "slug": "chanthaburi-22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi-22"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.288",
+    "lon": "102.251"
+  },
+  "metadata": {},
+  "source": {}
+}

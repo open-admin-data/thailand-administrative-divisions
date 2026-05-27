@@ -1,0 +1,226 @@
+[
+  {
+    "id": "270801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โคกสูง",
+      "en": "Khok Sung",
+      "slug": "khok-sung-270801"
+    },
+    "code": {
+      "id": "270801",
+      "iso": null
+    },
+    "parent": {
+      "id": "2708",
+      "level": 2,
+      "name": {
+        "local": "โคกสูง",
+        "en": "Khok Sung",
+        "slug": "khok-sung-2708"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "local": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo-27"
+        }
+      },
+      {
+        "id": "2708",
+        "level": 2,
+        "name": {
+          "local": "โคกสูง",
+          "en": "Khok Sung",
+          "slug": "khok-sung-2708"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27120"
+    ],
+    "geo": {
+      "lat": "13.831",
+      "lon": "102.719"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "270804",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โนนหมากมุ่น",
+      "en": "Non Mak Mun",
+      "slug": "non-mak-mun-270804"
+    },
+    "code": {
+      "id": "270804",
+      "iso": null
+    },
+    "parent": {
+      "id": "2708",
+      "level": 2,
+      "name": {
+        "local": "โคกสูง",
+        "en": "Khok Sung",
+        "slug": "khok-sung-2708"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "local": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo-27"
+        }
+      },
+      {
+        "id": "2708",
+        "level": 2,
+        "name": {
+          "local": "โคกสูง",
+          "en": "Khok Sung",
+          "slug": "khok-sung-2708"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27120"
+    ],
+    "geo": {
+      "lat": "13.774",
+      "lon": "102.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "270802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองม่วง",
+      "en": "Nong Muang",
+      "slug": "nong-muang-270802"
+    },
+    "code": {
+      "id": "270802",
+      "iso": null
+    },
+    "parent": {
+      "id": "2708",
+      "level": 2,
+      "name": {
+        "local": "โคกสูง",
+        "en": "Khok Sung",
+        "slug": "khok-sung-2708"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "local": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo-27"
+        }
+      },
+      {
+        "id": "2708",
+        "level": 2,
+        "name": {
+          "local": "โคกสูง",
+          "en": "Khok Sung",
+          "slug": "khok-sung-2708"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27180"
+    ],
+    "geo": {
+      "lat": "13.874",
+      "lon": "102.582"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "270803",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองแวง",
+      "en": "Nong Waeng",
+      "slug": "nong-waeng-270803"
+    },
+    "code": {
+      "id": "270803",
+      "iso": null
+    },
+    "parent": {
+      "id": "2708",
+      "level": 2,
+      "name": {
+        "local": "โคกสูง",
+        "en": "Khok Sung",
+        "slug": "khok-sung-2708"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "local": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo-27"
+        }
+      },
+      {
+        "id": "2708",
+        "level": 2,
+        "name": {
+          "local": "โคกสูง",
+          "en": "Khok Sung",
+          "slug": "khok-sung-2708"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27180"
+    ],
+    "geo": {
+      "lat": "13.866",
+      "lon": "102.674"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

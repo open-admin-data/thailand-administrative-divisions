@@ -1,0 +1,47 @@
+{
+  "id": "2006",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พนัสนิคม",
+    "en": "Phanat Nikhom",
+    "slug": "phanat-nikhom-2006"
+  },
+  "code": {
+    "id": "2006",
+    "iso": null
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "local": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri-20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri-20"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.45",
+    "lon": "101.18"
+  },
+  "metadata": {},
+  "source": {}
+}

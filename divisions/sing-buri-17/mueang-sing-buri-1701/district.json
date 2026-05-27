@@ -1,0 +1,47 @@
+{
+  "id": "1701",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองสิงห์บุรี",
+    "en": "Mueang Sing Buri",
+    "slug": "mueang-sing-buri-1701"
+  },
+  "code": {
+    "id": "1701",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "สิงห์บุรี",
+      "en": "Sing Buri",
+      "slug": "sing-buri-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri-17"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.89",
+    "lon": "100.404"
+  },
+  "metadata": {},
+  "source": {}
+}

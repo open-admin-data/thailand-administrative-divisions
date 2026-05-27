@@ -1,0 +1,47 @@
+{
+  "id": "5801",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองแม่ฮ่องสอน",
+    "en": "Mueang Mae Hong Son",
+    "slug": "mueang-mae-hong-son-5801"
+  },
+  "code": {
+    "id": "5801",
+    "iso": null
+  },
+  "parent": {
+    "id": "58",
+    "level": 1,
+    "name": {
+      "local": "แม่ฮ่องสอน",
+      "en": "Mae Hong Son",
+      "slug": "mae-hong-son-58"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "local": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son-58"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.302",
+    "lon": "97.97"
+  },
+  "metadata": {},
+  "source": {}
+}

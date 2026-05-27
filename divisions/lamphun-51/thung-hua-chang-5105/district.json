@@ -1,0 +1,47 @@
+{
+  "id": "5105",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ทุ่งหัวช้าง",
+    "en": "Thung Hua Chang",
+    "slug": "thung-hua-chang-5105"
+  },
+  "code": {
+    "id": "5105",
+    "iso": null
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "local": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun-51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun-51"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.983",
+    "lon": "99.048"
+  },
+  "metadata": {},
+  "source": {}
+}

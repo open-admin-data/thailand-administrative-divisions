@@ -1,0 +1,898 @@
+[
+  {
+    "id": "920203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางหมาก",
+      "en": "Bang Mak",
+      "slug": "bang-mak-920203"
+    },
+    "code": {
+      "id": "920203",
+      "iso": null
+    },
+    "parent": {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "local": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang-9202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9202",
+        "level": 2,
+        "name": {
+          "local": "กันตัง",
+          "en": "Kantang",
+          "slug": "kantang-9202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92110"
+    ],
+    "geo": {
+      "lat": "7.465",
+      "lon": "99.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920204",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางเป้า",
+      "en": "Bang Pao",
+      "slug": "bang-pao-920204"
+    },
+    "code": {
+      "id": "920204",
+      "iso": null
+    },
+    "parent": {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "local": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang-9202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9202",
+        "level": 2,
+        "name": {
+          "local": "กันตัง",
+          "en": "Kantang",
+          "slug": "kantang-9202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92110"
+    ],
+    "geo": {
+      "lat": "7.402",
+      "lon": "99.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920211",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางสัก",
+      "en": "Bang Sak",
+      "slug": "bang-sak-920211"
+    },
+    "code": {
+      "id": "920211",
+      "iso": null
+    },
+    "parent": {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "local": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang-9202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9202",
+        "level": 2,
+        "name": {
+          "local": "กันตัง",
+          "en": "Kantang",
+          "slug": "kantang-9202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92110"
+    ],
+    "geo": {
+      "lat": "7.397",
+      "lon": "99.383"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920210",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ่อน้ำร้อน",
+      "en": "Bo Nam Ron",
+      "slug": "bo-nam-ron-920210"
+    },
+    "code": {
+      "id": "920210",
+      "iso": null
+    },
+    "parent": {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "local": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang-9202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9202",
+        "level": 2,
+        "name": {
+          "local": "กันตัง",
+          "en": "Kantang",
+          "slug": "kantang-9202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92110"
+    ],
+    "geo": {
+      "lat": "7.425",
+      "lon": "99.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920201",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กันตัง",
+      "en": "Kantang",
+      "slug": "kantang-920201"
+    },
+    "code": {
+      "id": "920201",
+      "iso": null
+    },
+    "parent": {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "local": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang-9202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9202",
+        "level": 2,
+        "name": {
+          "local": "กันตัง",
+          "en": "Kantang",
+          "slug": "kantang-9202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92110"
+    ],
+    "geo": {
+      "lat": "7.41",
+      "lon": "99.519"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920206",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กันตังใต้",
+      "en": "Kantang Tai",
+      "slug": "kantang-tai-920206"
+    },
+    "code": {
+      "id": "920206",
+      "iso": null
+    },
+    "parent": {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "local": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang-9202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9202",
+        "level": 2,
+        "name": {
+          "local": "กันตัง",
+          "en": "Kantang",
+          "slug": "kantang-9202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92110"
+    ],
+    "geo": {
+      "lat": "7.338",
+      "lon": "99.515"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920214",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองชีล้อม",
+      "en": "Khlong Chi Lom",
+      "slug": "khlong-chi-lom-920214"
+    },
+    "code": {
+      "id": "920214",
+      "iso": null
+    },
+    "parent": {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "local": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang-9202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9202",
+        "level": 2,
+        "name": {
+          "local": "กันตัง",
+          "en": "Kantang",
+          "slug": "kantang-9202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92110"
+    ],
+    "geo": {
+      "lat": "7.433",
+      "lon": "99.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920208",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองลุ",
+      "en": "Khlong Lu",
+      "slug": "khlong-lu-920208"
+    },
+    "code": {
+      "id": "920208",
+      "iso": null
+    },
+    "parent": {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "local": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang-9202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9202",
+        "level": 2,
+        "name": {
+          "local": "กันตัง",
+          "en": "Kantang",
+          "slug": "kantang-9202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92110"
+    ],
+    "geo": {
+      "lat": "7.482",
+      "lon": "99.495"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920207",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โคกยาง",
+      "en": "Khok Yang",
+      "slug": "khok-yang-920207"
+    },
+    "code": {
+      "id": "920207",
+      "iso": null
+    },
+    "parent": {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "local": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang-9202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9202",
+        "level": 2,
+        "name": {
+          "local": "กันตัง",
+          "en": "Kantang",
+          "slug": "kantang-9202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92110"
+    ],
+    "geo": {
+      "lat": "7.509",
+      "lon": "99.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ควนธานี",
+      "en": "Khuan Thani",
+      "slug": "khuan-thani-920202"
+    },
+    "code": {
+      "id": "920202",
+      "iso": null
+    },
+    "parent": {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "local": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang-9202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9202",
+        "level": 2,
+        "name": {
+          "local": "กันตัง",
+          "en": "Kantang",
+          "slug": "kantang-9202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92110"
+    ],
+    "geo": {
+      "lat": "7.512",
+      "lon": "99.563"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920213",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เกาะลิบง",
+      "en": "Ko Libong",
+      "slug": "ko-libong-920213"
+    },
+    "code": {
+      "id": "920213",
+      "iso": null
+    },
+    "parent": {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "local": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang-9202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9202",
+        "level": 2,
+        "name": {
+          "local": "กันตัง",
+          "en": "Kantang",
+          "slug": "kantang-9202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92110"
+    ],
+    "geo": {
+      "lat": "7.333",
+      "lon": "99.389"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920221",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เกาะลูกไม้",
+      "en": "Ko Luk Mai",
+      "slug": "ko-luk-mai-920221"
+    },
+    "code": {
+      "id": "920221",
+      "iso": null
+    },
+    "parent": {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "local": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang-9202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9202",
+        "level": 2,
+        "name": {
+          "local": "กันตัง",
+          "en": "Kantang",
+          "slug": "kantang-9202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92110"
+    ],
+    "geo": {
+      "lat": "7.291",
+      "lon": "99.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920222",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เกาะนก",
+      "en": "Ko Nok",
+      "slug": "ko-nok-920222"
+    },
+    "code": {
+      "id": "920222",
+      "iso": null
+    },
+    "parent": {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "local": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang-9202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9202",
+        "level": 2,
+        "name": {
+          "local": "กันตัง",
+          "en": "Kantang",
+          "slug": "kantang-9202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92110"
+    ],
+    "geo": {
+      "lat": "7.272",
+      "lon": "99.475"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920212",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาเกลือ",
+      "en": "Na Kluea",
+      "slug": "na-kluea-920212"
+    },
+    "code": {
+      "id": "920212",
+      "iso": null
+    },
+    "parent": {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "local": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang-9202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9202",
+        "level": 2,
+        "name": {
+          "local": "กันตัง",
+          "en": "Kantang",
+          "slug": "kantang-9202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92110"
+    ],
+    "geo": {
+      "lat": "7.326",
+      "lon": "99.466"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920205",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังวน",
+      "en": "Wang Won",
+      "slug": "wang-won-920205"
+    },
+    "code": {
+      "id": "920205",
+      "iso": null
+    },
+    "parent": {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "local": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang-9202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9202",
+        "level": 2,
+        "name": {
+          "local": "กันตัง",
+          "en": "Kantang",
+          "slug": "kantang-9202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92110"
+    ],
+    "geo": {
+      "lat": "7.358",
+      "lon": "99.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920209",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ย่านซื่อ",
+      "en": "Yan Sue",
+      "slug": "yan-sue-920209"
+    },
+    "code": {
+      "id": "920209",
+      "iso": null
+    },
+    "parent": {
+      "id": "9202",
+      "level": 2,
+      "name": {
+        "local": "กันตัง",
+        "en": "Kantang",
+        "slug": "kantang-9202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9202",
+        "level": 2,
+        "name": {
+          "local": "กันตัง",
+          "en": "Kantang",
+          "slug": "kantang-9202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92110"
+    ],
+    "geo": {
+      "lat": "7.473",
+      "lon": "99.541"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

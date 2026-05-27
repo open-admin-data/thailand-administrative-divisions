@@ -1,0 +1,47 @@
+{
+  "id": "5718",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ดอยหลวง",
+    "en": "Doi Luang",
+    "slug": "doi-luang-5718"
+  },
+  "code": {
+    "id": "5718",
+    "iso": null
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "local": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai-57"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "local": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai-57"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.181",
+    "lon": "100.124"
+  },
+  "metadata": {},
+  "source": {}
+}

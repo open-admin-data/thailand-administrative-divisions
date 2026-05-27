@@ -1,0 +1,226 @@
+[
+  {
+    "id": "401103",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ขามป้อม",
+      "en": "Kham Pom",
+      "slug": "kham-pom-401103"
+    },
+    "code": {
+      "id": "401103",
+      "iso": null
+    },
+    "parent": {
+      "id": "4011",
+      "level": 2,
+      "name": {
+        "local": "เปือยน้อย",
+        "en": "Pueai Noi",
+        "slug": "pueai-noi-4011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen-40"
+        }
+      },
+      {
+        "id": "4011",
+        "level": 2,
+        "name": {
+          "local": "เปือยน้อย",
+          "en": "Pueai Noi",
+          "slug": "pueai-noi-4011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40340"
+    ],
+    "geo": {
+      "lat": "15.938",
+      "lon": "102.874"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "401101",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เปือยน้อย",
+      "en": "Pueai Noi",
+      "slug": "pueai-noi-401101"
+    },
+    "code": {
+      "id": "401101",
+      "iso": null
+    },
+    "parent": {
+      "id": "4011",
+      "level": 2,
+      "name": {
+        "local": "เปือยน้อย",
+        "en": "Pueai Noi",
+        "slug": "pueai-noi-4011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen-40"
+        }
+      },
+      {
+        "id": "4011",
+        "level": 2,
+        "name": {
+          "local": "เปือยน้อย",
+          "en": "Pueai Noi",
+          "slug": "pueai-noi-4011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40340"
+    ],
+    "geo": {
+      "lat": "15.879",
+      "lon": "102.904"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "401104",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สระแก้ว",
+      "en": "Sa Kaeo",
+      "slug": "sa-kaeo-401104"
+    },
+    "code": {
+      "id": "401104",
+      "iso": null
+    },
+    "parent": {
+      "id": "4011",
+      "level": 2,
+      "name": {
+        "local": "เปือยน้อย",
+        "en": "Pueai Noi",
+        "slug": "pueai-noi-4011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen-40"
+        }
+      },
+      {
+        "id": "4011",
+        "level": 2,
+        "name": {
+          "local": "เปือยน้อย",
+          "en": "Pueai Noi",
+          "slug": "pueai-noi-4011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40340"
+    ],
+    "geo": {
+      "lat": "15.85",
+      "lon": "102.895"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "401102",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังม่วง",
+      "en": "Wang Muang",
+      "slug": "wang-muang-401102"
+    },
+    "code": {
+      "id": "401102",
+      "iso": null
+    },
+    "parent": {
+      "id": "4011",
+      "level": 2,
+      "name": {
+        "local": "เปือยน้อย",
+        "en": "Pueai Noi",
+        "slug": "pueai-noi-4011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen-40"
+        }
+      },
+      {
+        "id": "4011",
+        "level": 2,
+        "name": {
+          "local": "เปือยน้อย",
+          "en": "Pueai Noi",
+          "slug": "pueai-noi-4011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40340"
+    ],
+    "geo": {
+      "lat": "15.884",
+      "lon": "102.829"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

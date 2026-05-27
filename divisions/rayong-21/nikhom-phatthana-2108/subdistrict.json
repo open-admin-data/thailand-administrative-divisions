@@ -1,0 +1,226 @@
+[
+  {
+    "id": "210804",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "มะขามคู่",
+      "en": "Makham Khu",
+      "slug": "makham-khu-210804"
+    },
+    "code": {
+      "id": "210804",
+      "iso": null
+    },
+    "parent": {
+      "id": "2108",
+      "level": 2,
+      "name": {
+        "local": "นิคมพัฒนา",
+        "en": "Nikhom Phatthana",
+        "slug": "nikhom-phatthana-2108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2108",
+        "level": 2,
+        "name": {
+          "local": "นิคมพัฒนา",
+          "en": "Nikhom Phatthana",
+          "slug": "nikhom-phatthana-2108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21180"
+    ],
+    "geo": {
+      "lat": "12.847",
+      "lon": "101.101"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "มาบข่า",
+      "en": "Map Kha",
+      "slug": "map-kha-210802"
+    },
+    "code": {
+      "id": "210802",
+      "iso": null
+    },
+    "parent": {
+      "id": "2108",
+      "level": 2,
+      "name": {
+        "local": "นิคมพัฒนา",
+        "en": "Nikhom Phatthana",
+        "slug": "nikhom-phatthana-2108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2108",
+        "level": 2,
+        "name": {
+          "local": "นิคมพัฒนา",
+          "en": "Nikhom Phatthana",
+          "slug": "nikhom-phatthana-2108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21180"
+    ],
+    "geo": {
+      "lat": "12.782",
+      "lon": "101.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นิคมพัฒนา",
+      "en": "Nikhom Phatthana",
+      "slug": "nikhom-phatthana-210801"
+    },
+    "code": {
+      "id": "210801",
+      "iso": null
+    },
+    "parent": {
+      "id": "2108",
+      "level": 2,
+      "name": {
+        "local": "นิคมพัฒนา",
+        "en": "Nikhom Phatthana",
+        "slug": "nikhom-phatthana-2108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2108",
+        "level": 2,
+        "name": {
+          "local": "นิคมพัฒนา",
+          "en": "Nikhom Phatthana",
+          "slug": "nikhom-phatthana-2108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21180"
+    ],
+    "geo": {
+      "lat": "12.856",
+      "lon": "101.177"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210803",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "พนานิคม",
+      "en": "Phana Nikhom",
+      "slug": "phana-nikhom-210803"
+    },
+    "code": {
+      "id": "210803",
+      "iso": null
+    },
+    "parent": {
+      "id": "2108",
+      "level": 2,
+      "name": {
+        "local": "นิคมพัฒนา",
+        "en": "Nikhom Phatthana",
+        "slug": "nikhom-phatthana-2108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2108",
+        "level": 2,
+        "name": {
+          "local": "นิคมพัฒนา",
+          "en": "Nikhom Phatthana",
+          "slug": "nikhom-phatthana-2108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21180"
+    ],
+    "geo": {
+      "lat": "12.902",
+      "lon": "101.135"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,562 @@
+[
+  {
+    "id": "900402",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ฉาง",
+      "en": "Chang",
+      "slug": "chang-900402"
+    },
+    "code": {
+      "id": "900402",
+      "iso": null
+    },
+    "parent": {
+      "id": "9004",
+      "level": 2,
+      "name": {
+        "local": "นาทวี",
+        "en": "Na Thawi",
+        "slug": "na-thawi-9004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9004",
+        "level": 2,
+        "name": {
+          "local": "นาทวี",
+          "en": "Na Thawi",
+          "slug": "na-thawi-9004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90160"
+    ],
+    "geo": {
+      "lat": "6.762",
+      "lon": "100.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900410",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองกวาง",
+      "en": "Khlong Kwang",
+      "slug": "khlong-kwang-900410"
+    },
+    "code": {
+      "id": "900410",
+      "iso": null
+    },
+    "parent": {
+      "id": "9004",
+      "level": 2,
+      "name": {
+        "local": "นาทวี",
+        "en": "Na Thawi",
+        "slug": "na-thawi-9004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9004",
+        "level": 2,
+        "name": {
+          "local": "นาทวี",
+          "en": "Na Thawi",
+          "slug": "na-thawi-9004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90160"
+    ],
+    "geo": {
+      "lat": "6.636",
+      "lon": "100.61"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900404",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองทราย",
+      "en": "Khlong Sai",
+      "slug": "khlong-sai-900404"
+    },
+    "code": {
+      "id": "900404",
+      "iso": null
+    },
+    "parent": {
+      "id": "9004",
+      "level": 2,
+      "name": {
+        "local": "นาทวี",
+        "en": "Na Thawi",
+        "slug": "na-thawi-9004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9004",
+        "level": 2,
+        "name": {
+          "local": "นาทวี",
+          "en": "Na Thawi",
+          "slug": "na-thawi-9004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90160"
+    ],
+    "geo": {
+      "lat": "6.741",
+      "lon": "100.603"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900403",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาหมอศรี",
+      "en": "Na Mo Si",
+      "slug": "na-mo-si-900403"
+    },
+    "code": {
+      "id": "900403",
+      "iso": null
+    },
+    "parent": {
+      "id": "9004",
+      "level": 2,
+      "name": {
+        "local": "นาทวี",
+        "en": "Na Thawi",
+        "slug": "na-thawi-9004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9004",
+        "level": 2,
+        "name": {
+          "local": "นาทวี",
+          "en": "Na Thawi",
+          "slug": "na-thawi-9004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90160"
+    ],
+    "geo": {
+      "lat": "6.781",
+      "lon": "100.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาทวี",
+      "en": "Na Thawi",
+      "slug": "na-thawi-900401"
+    },
+    "code": {
+      "id": "900401",
+      "iso": null
+    },
+    "parent": {
+      "id": "9004",
+      "level": 2,
+      "name": {
+        "local": "นาทวี",
+        "en": "Na Thawi",
+        "slug": "na-thawi-9004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9004",
+        "level": 2,
+        "name": {
+          "local": "นาทวี",
+          "en": "Na Thawi",
+          "slug": "na-thawi-9004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90160"
+    ],
+    "geo": {
+      "lat": "6.693",
+      "lon": "100.777"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900405",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปลักหนู",
+      "en": "Plak Nu",
+      "slug": "plak-nu-900405"
+    },
+    "code": {
+      "id": "900405",
+      "iso": null
+    },
+    "parent": {
+      "id": "9004",
+      "level": 2,
+      "name": {
+        "local": "นาทวี",
+        "en": "Na Thawi",
+        "slug": "na-thawi-9004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9004",
+        "level": 2,
+        "name": {
+          "local": "นาทวี",
+          "en": "Na Thawi",
+          "slug": "na-thawi-9004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90160"
+    ],
+    "geo": {
+      "lat": "6.676",
+      "lon": "100.663"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900409",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ประกอบ",
+      "en": "Prakop",
+      "slug": "prakop-900409"
+    },
+    "code": {
+      "id": "900409",
+      "iso": null
+    },
+    "parent": {
+      "id": "9004",
+      "level": 2,
+      "name": {
+        "local": "นาทวี",
+        "en": "Na Thawi",
+        "slug": "na-thawi-9004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9004",
+        "level": 2,
+        "name": {
+          "local": "นาทวี",
+          "en": "Na Thawi",
+          "slug": "na-thawi-9004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90160"
+    ],
+    "geo": {
+      "lat": "6.483",
+      "lon": "100.643"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900407",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สะท้อน",
+      "en": "Sathon",
+      "slug": "sathon-900407"
+    },
+    "code": {
+      "id": "900407",
+      "iso": null
+    },
+    "parent": {
+      "id": "9004",
+      "level": 2,
+      "name": {
+        "local": "นาทวี",
+        "en": "Na Thawi",
+        "slug": "na-thawi-9004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9004",
+        "level": 2,
+        "name": {
+          "local": "นาทวี",
+          "en": "Na Thawi",
+          "slug": "na-thawi-9004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90160"
+    ],
+    "geo": {
+      "lat": "6.622",
+      "lon": "100.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900406",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าประดู่",
+      "en": "Tha Pradu",
+      "slug": "tha-pradu-900406"
+    },
+    "code": {
+      "id": "900406",
+      "iso": null
+    },
+    "parent": {
+      "id": "9004",
+      "level": 2,
+      "name": {
+        "local": "นาทวี",
+        "en": "Na Thawi",
+        "slug": "na-thawi-9004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9004",
+        "level": 2,
+        "name": {
+          "local": "นาทวี",
+          "en": "Na Thawi",
+          "slug": "na-thawi-9004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90160"
+    ],
+    "geo": {
+      "lat": "6.681",
+      "lon": "100.73"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900408",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทับช้าง",
+      "en": "Thap Chang",
+      "slug": "thap-chang-900408"
+    },
+    "code": {
+      "id": "900408",
+      "iso": null
+    },
+    "parent": {
+      "id": "9004",
+      "level": 2,
+      "name": {
+        "local": "นาทวี",
+        "en": "Na Thawi",
+        "slug": "na-thawi-9004"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9004",
+        "level": 2,
+        "name": {
+          "local": "นาทวี",
+          "en": "Na Thawi",
+          "slug": "na-thawi-9004"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90160"
+    ],
+    "geo": {
+      "lat": "6.586",
+      "lon": "100.695"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

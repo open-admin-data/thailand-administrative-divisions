@@ -1,0 +1,114 @@
+[
+  {
+    "id": "850502",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กำพวน",
+      "en": "Kamphuan",
+      "slug": "kamphuan-850502"
+    },
+    "code": {
+      "id": "850502",
+      "iso": null
+    },
+    "parent": {
+      "id": "8505",
+      "level": 2,
+      "name": {
+        "local": "สุขสำราญ",
+        "en": "Suk Samran",
+        "slug": "suk-samran-8505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "85",
+        "level": 1,
+        "name": {
+          "local": "ระนอง",
+          "en": "Ranong",
+          "slug": "ranong-85"
+        }
+      },
+      {
+        "id": "8505",
+        "level": 2,
+        "name": {
+          "local": "สุขสำราญ",
+          "en": "Suk Samran",
+          "slug": "suk-samran-8505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85120"
+    ],
+    "geo": {
+      "lat": "9.364",
+      "lon": "98.424"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "850501",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาคา",
+      "en": "Nakha",
+      "slug": "nakha-850501"
+    },
+    "code": {
+      "id": "850501",
+      "iso": null
+    },
+    "parent": {
+      "id": "8505",
+      "level": 2,
+      "name": {
+        "local": "สุขสำราญ",
+        "en": "Suk Samran",
+        "slug": "suk-samran-8505"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "85",
+        "level": 1,
+        "name": {
+          "local": "ระนอง",
+          "en": "Ranong",
+          "slug": "ranong-85"
+        }
+      },
+      {
+        "id": "8505",
+        "level": 2,
+        "name": {
+          "local": "สุขสำราญ",
+          "en": "Suk Samran",
+          "slug": "suk-samran-8505"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85120"
+    ],
+    "geo": {
+      "lat": "9.424",
+      "lon": "98.54"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

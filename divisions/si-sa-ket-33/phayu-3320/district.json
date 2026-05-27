@@ -1,0 +1,47 @@
+{
+  "id": "3320",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พยุห์",
+    "en": "Phayu",
+    "slug": "phayu-3320"
+  },
+  "code": {
+    "id": "3320",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "ศรีสะเกษ",
+      "en": "Si Sa Ket",
+      "slug": "si-sa-ket-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket-33"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.898",
+    "lon": "104.334"
+  },
+  "metadata": {},
+  "source": {}
+}

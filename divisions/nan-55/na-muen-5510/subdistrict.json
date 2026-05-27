@@ -1,0 +1,226 @@
+[
+  {
+    "id": "551002",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ่อแก้ว",
+      "en": "Bo Kaeo",
+      "slug": "bo-kaeo-551002"
+    },
+    "code": {
+      "id": "551002",
+      "iso": null
+    },
+    "parent": {
+      "id": "5510",
+      "level": 2,
+      "name": {
+        "local": "นาหมื่น",
+        "en": "Na Muen",
+        "slug": "na-muen-5510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5510",
+        "level": 2,
+        "name": {
+          "local": "นาหมื่น",
+          "en": "Na Muen",
+          "slug": "na-muen-5510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55180"
+    ],
+    "geo": {
+      "lat": "18.139",
+      "lon": "100.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "551003",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เมืองลี่",
+      "en": "Mueang Li",
+      "slug": "mueang-li-551003"
+    },
+    "code": {
+      "id": "551003",
+      "iso": null
+    },
+    "parent": {
+      "id": "5510",
+      "level": 2,
+      "name": {
+        "local": "นาหมื่น",
+        "en": "Na Muen",
+        "slug": "na-muen-5510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5510",
+        "level": 2,
+        "name": {
+          "local": "นาหมื่น",
+          "en": "Na Muen",
+          "slug": "na-muen-5510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55180"
+    ],
+    "geo": {
+      "lat": "18.226",
+      "lon": "100.505"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "551001",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาทะนุง",
+      "en": "Na Thanung",
+      "slug": "na-thanung-551001"
+    },
+    "code": {
+      "id": "551001",
+      "iso": null
+    },
+    "parent": {
+      "id": "5510",
+      "level": 2,
+      "name": {
+        "local": "นาหมื่น",
+        "en": "Na Muen",
+        "slug": "na-muen-5510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5510",
+        "level": 2,
+        "name": {
+          "local": "นาหมื่น",
+          "en": "Na Muen",
+          "slug": "na-muen-5510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55180"
+    ],
+    "geo": {
+      "lat": "18.117",
+      "lon": "100.615"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "551004",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปิงหลวง",
+      "en": "Ping Luang",
+      "slug": "ping-luang-551004"
+    },
+    "code": {
+      "id": "551004",
+      "iso": null
+    },
+    "parent": {
+      "id": "5510",
+      "level": 2,
+      "name": {
+        "local": "นาหมื่น",
+        "en": "Na Muen",
+        "slug": "na-muen-5510"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5510",
+        "level": 2,
+        "name": {
+          "local": "นาหมื่น",
+          "en": "Na Muen",
+          "slug": "na-muen-5510"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55180"
+    ],
+    "geo": {
+      "lat": "18.115",
+      "lon": "100.486"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

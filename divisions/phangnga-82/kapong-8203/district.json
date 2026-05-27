@@ -1,0 +1,47 @@
+{
+  "id": "8203",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "กะปง",
+    "en": "Kapong",
+    "slug": "kapong-8203"
+  },
+  "code": {
+    "id": "8203",
+    "iso": null
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "local": "พังงา",
+      "en": "Phangnga",
+      "slug": "phangnga-82"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga-82"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.713",
+    "lon": "98.419"
+  },
+  "metadata": {},
+  "source": {}
+}

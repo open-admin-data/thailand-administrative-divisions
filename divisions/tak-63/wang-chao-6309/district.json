@@ -1,0 +1,47 @@
+{
+  "id": "6309",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "วังเจ้า",
+    "en": "Wang Chao",
+    "slug": "wang-chao-6309"
+  },
+  "code": {
+    "id": "6309",
+    "iso": null
+  },
+  "parent": {
+    "id": "63",
+    "level": 1,
+    "name": {
+      "local": "ตาก",
+      "en": "Tak",
+      "slug": "tak-63"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "ตาก",
+        "en": "Tak",
+        "slug": "tak-63"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.748",
+    "lon": "99.184"
+  },
+  "metadata": {},
+  "source": {}
+}

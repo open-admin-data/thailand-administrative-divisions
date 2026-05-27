@@ -1,0 +1,47 @@
+{
+  "id": "6003",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ชุมแสง",
+    "en": "Chum Saeng",
+    "slug": "chum-saeng-6003"
+  },
+  "code": {
+    "id": "6003",
+    "iso": null
+  },
+  "parent": {
+    "id": "60",
+    "level": 1,
+    "name": {
+      "local": "นครสวรรค์",
+      "en": "Nakhon Sawan",
+      "slug": "nakhon-sawan-60"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "60",
+      "level": 1,
+      "name": {
+        "local": "นครสวรรค์",
+        "en": "Nakhon Sawan",
+        "slug": "nakhon-sawan-60"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.896",
+    "lon": "100.315"
+  },
+  "metadata": {},
+  "source": {}
+}

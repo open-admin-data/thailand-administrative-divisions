@@ -1,0 +1,47 @@
+{
+  "id": "4315",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เฝ้าไร่",
+    "en": "Fao Rai",
+    "slug": "fao-rai-4315"
+  },
+  "code": {
+    "id": "4315",
+    "iso": null
+  },
+  "parent": {
+    "id": "43",
+    "level": 1,
+    "name": {
+      "local": "หนองคาย",
+      "en": "Nong Khai",
+      "slug": "nong-khai-43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "local": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai-43"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.999",
+    "lon": "103.366"
+  },
+  "metadata": {},
+  "source": {}
+}

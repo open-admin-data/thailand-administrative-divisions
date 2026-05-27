@@ -1,0 +1,170 @@
+[
+  {
+    "id": "421401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองหิน",
+      "en": "Nong Hin",
+      "slug": "nong-hin-421401"
+    },
+    "code": {
+      "id": "421401",
+      "iso": null
+    },
+    "parent": {
+      "id": "4214",
+      "level": 2,
+      "name": {
+        "local": "หนองหิน",
+        "en": "Nong Hin",
+        "slug": "nong-hin-4214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "เลย",
+          "en": "Loei",
+          "slug": "loei-42"
+        }
+      },
+      {
+        "id": "4214",
+        "level": 2,
+        "name": {
+          "local": "หนองหิน",
+          "en": "Nong Hin",
+          "slug": "nong-hin-4214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42190"
+    ],
+    "geo": {
+      "lat": "17.112",
+      "lon": "101.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "421403",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปวนพุ",
+      "en": "Puan Phu",
+      "slug": "puan-phu-421403"
+    },
+    "code": {
+      "id": "421403",
+      "iso": null
+    },
+    "parent": {
+      "id": "4214",
+      "level": 2,
+      "name": {
+        "local": "หนองหิน",
+        "en": "Nong Hin",
+        "slug": "nong-hin-4214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "เลย",
+          "en": "Loei",
+          "slug": "loei-42"
+        }
+      },
+      {
+        "id": "4214",
+        "level": 2,
+        "name": {
+          "local": "หนองหิน",
+          "en": "Nong Hin",
+          "slug": "nong-hin-4214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42190"
+    ],
+    "geo": {
+      "lat": "17.031",
+      "lon": "101.741"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "421402",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตาดข่า",
+      "en": "Tat Kha",
+      "slug": "tat-kha-421402"
+    },
+    "code": {
+      "id": "421402",
+      "iso": null
+    },
+    "parent": {
+      "id": "4214",
+      "level": 2,
+      "name": {
+        "local": "หนองหิน",
+        "en": "Nong Hin",
+        "slug": "nong-hin-4214"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "เลย",
+          "en": "Loei",
+          "slug": "loei-42"
+        }
+      },
+      {
+        "id": "4214",
+        "level": 2,
+        "name": {
+          "local": "หนองหิน",
+          "en": "Nong Hin",
+          "slug": "nong-hin-4214"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42190"
+    ],
+    "geo": {
+      "lat": "17.033",
+      "lon": "101.879"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

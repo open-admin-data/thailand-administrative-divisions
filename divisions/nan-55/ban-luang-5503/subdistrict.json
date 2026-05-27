@@ -1,0 +1,226 @@
+[
+  {
+    "id": "550301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านฟ้า",
+      "en": "Ban Fa",
+      "slug": "ban-fa-550301"
+    },
+    "code": {
+      "id": "550301",
+      "iso": null
+    },
+    "parent": {
+      "id": "5503",
+      "level": 2,
+      "name": {
+        "local": "บ้านหลวง",
+        "en": "Ban Luang",
+        "slug": "ban-luang-5503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5503",
+        "level": 2,
+        "name": {
+          "local": "บ้านหลวง",
+          "en": "Ban Luang",
+          "slug": "ban-luang-5503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55190"
+    ],
+    "geo": {
+      "lat": "18.782",
+      "lon": "100.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550304",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านพี้",
+      "en": "Ban Phi",
+      "slug": "ban-phi-550304"
+    },
+    "code": {
+      "id": "550304",
+      "iso": null
+    },
+    "parent": {
+      "id": "5503",
+      "level": 2,
+      "name": {
+        "local": "บ้านหลวง",
+        "en": "Ban Luang",
+        "slug": "ban-luang-5503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5503",
+        "level": 2,
+        "name": {
+          "local": "บ้านหลวง",
+          "en": "Ban Luang",
+          "slug": "ban-luang-5503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55190"
+    ],
+    "geo": {
+      "lat": "18.907",
+      "lon": "100.425"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ป่าคาหลวง",
+      "en": "Pa Kha Luang",
+      "slug": "pa-kha-luang-550302"
+    },
+    "code": {
+      "id": "550302",
+      "iso": null
+    },
+    "parent": {
+      "id": "5503",
+      "level": 2,
+      "name": {
+        "local": "บ้านหลวง",
+        "en": "Ban Luang",
+        "slug": "ban-luang-5503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5503",
+        "level": 2,
+        "name": {
+          "local": "บ้านหลวง",
+          "en": "Ban Luang",
+          "slug": "ban-luang-5503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55190"
+    ],
+    "geo": {
+      "lat": "18.858",
+      "lon": "100.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สวด",
+      "en": "Suat",
+      "slug": "suat-550303"
+    },
+    "code": {
+      "id": "550303",
+      "iso": null
+    },
+    "parent": {
+      "id": "5503",
+      "level": 2,
+      "name": {
+        "local": "บ้านหลวง",
+        "en": "Ban Luang",
+        "slug": "ban-luang-5503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5503",
+        "level": 2,
+        "name": {
+          "local": "บ้านหลวง",
+          "en": "Ban Luang",
+          "slug": "ban-luang-5503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55190"
+    ],
+    "geo": {
+      "lat": "18.849",
+      "lon": "100.484"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

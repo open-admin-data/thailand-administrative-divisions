@@ -1,0 +1,47 @@
+{
+  "id": "8603",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ปะทิว",
+    "en": "Pathio",
+    "slug": "pathio-8603"
+  },
+  "code": {
+    "id": "8603",
+    "iso": null
+  },
+  "parent": {
+    "id": "86",
+    "level": 1,
+    "name": {
+      "local": "ชุมพร",
+      "en": "Chumphon",
+      "slug": "chumphon-86"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "local": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon-86"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.862",
+    "lon": "99.486"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "420202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาดอกคำ",
+      "en": "Na Dok Kham",
+      "slug": "na-dok-kham-420202"
+    },
+    "code": {
+      "id": "420202",
+      "iso": null
+    },
+    "parent": {
+      "id": "4202",
+      "level": 2,
+      "name": {
+        "local": "นาด้วง",
+        "en": "Na Duang",
+        "slug": "na-duang-4202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "เลย",
+          "en": "Loei",
+          "slug": "loei-42"
+        }
+      },
+      {
+        "id": "4202",
+        "level": 2,
+        "name": {
+          "local": "นาด้วง",
+          "en": "Na Duang",
+          "slug": "na-duang-4202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42210"
+    ],
+    "geo": {
+      "lat": "17.591",
+      "lon": "101.99"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "420201",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาด้วง",
+      "en": "Na Duang",
+      "slug": "na-duang-420201"
+    },
+    "code": {
+      "id": "420201",
+      "iso": null
+    },
+    "parent": {
+      "id": "4202",
+      "level": 2,
+      "name": {
+        "local": "นาด้วง",
+        "en": "Na Duang",
+        "slug": "na-duang-4202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "เลย",
+          "en": "Loei",
+          "slug": "loei-42"
+        }
+      },
+      {
+        "id": "4202",
+        "level": 2,
+        "name": {
+          "local": "นาด้วง",
+          "en": "Na Duang",
+          "slug": "na-duang-4202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42210"
+    ],
+    "geo": {
+      "lat": "17.5",
+      "lon": "102.043"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "420203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าสะอาด",
+      "en": "Tha Sa-at",
+      "slug": "tha-sa-at-420203"
+    },
+    "code": {
+      "id": "420203",
+      "iso": null
+    },
+    "parent": {
+      "id": "4202",
+      "level": 2,
+      "name": {
+        "local": "นาด้วง",
+        "en": "Na Duang",
+        "slug": "na-duang-4202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "เลย",
+          "en": "Loei",
+          "slug": "loei-42"
+        }
+      },
+      {
+        "id": "4202",
+        "level": 2,
+        "name": {
+          "local": "นาด้วง",
+          "en": "Na Duang",
+          "slug": "na-duang-4202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42210"
+    ],
+    "geo": {
+      "lat": "17.497",
+      "lon": "101.917"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "420204",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าสวรรค์",
+      "en": "Tha Sawan",
+      "slug": "tha-sawan-420204"
+    },
+    "code": {
+      "id": "420204",
+      "iso": null
+    },
+    "parent": {
+      "id": "4202",
+      "level": 2,
+      "name": {
+        "local": "นาด้วง",
+        "en": "Na Duang",
+        "slug": "na-duang-4202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "เลย",
+          "en": "Loei",
+          "slug": "loei-42"
+        }
+      },
+      {
+        "id": "4202",
+        "level": 2,
+        "name": {
+          "local": "นาด้วง",
+          "en": "Na Duang",
+          "slug": "na-duang-4202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42210"
+    ],
+    "geo": {
+      "lat": "17.432",
+      "lon": "101.94"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

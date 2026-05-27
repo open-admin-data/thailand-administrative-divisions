@@ -1,0 +1,47 @@
+{
+  "id": "2305",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "แหลมงอบ",
+    "en": "Laem Ngop",
+    "slug": "laem-ngop-2305"
+  },
+  "code": {
+    "id": "2305",
+    "iso": null
+  },
+  "parent": {
+    "id": "23",
+    "level": 1,
+    "name": {
+      "local": "ตราด",
+      "en": "Trat",
+      "slug": "trat-23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "local": "ตราด",
+        "en": "Trat",
+        "slug": "trat-23"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.209",
+    "lon": "102.436"
+  },
+  "metadata": {},
+  "source": {}
+}

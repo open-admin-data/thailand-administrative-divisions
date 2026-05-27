@@ -1,0 +1,47 @@
+{
+  "id": "3201",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองสุรินทร์",
+    "en": "Mueang Surin",
+    "slug": "mueang-surin-3201"
+  },
+  "code": {
+    "id": "3201",
+    "iso": null
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "local": "สุรินทร์",
+      "en": "Surin",
+      "slug": "surin-32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin-32"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.884",
+    "lon": "103.49"
+  },
+  "metadata": {},
+  "source": {}
+}

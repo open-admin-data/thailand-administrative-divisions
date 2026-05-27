@@ -1,0 +1,170 @@
+[
+  {
+    "id": "921002",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้าหวี",
+      "en": "Ba Wi",
+      "slug": "ba-wi-921002"
+    },
+    "code": {
+      "id": "921002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9210",
+      "level": 2,
+      "name": {
+        "local": "หาดสำราญ",
+        "en": "Hat Samran",
+        "slug": "hat-samran-9210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9210",
+        "level": 2,
+        "name": {
+          "local": "หาดสำราญ",
+          "en": "Hat Samran",
+          "slug": "hat-samran-9210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92120"
+    ],
+    "geo": {
+      "lat": "7.283",
+      "lon": "99.597"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "921001",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หาดสำราญ",
+      "en": "Hat Samran",
+      "slug": "hat-samran-921001"
+    },
+    "code": {
+      "id": "921001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9210",
+      "level": 2,
+      "name": {
+        "local": "หาดสำราญ",
+        "en": "Hat Samran",
+        "slug": "hat-samran-9210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9210",
+        "level": 2,
+        "name": {
+          "local": "หาดสำราญ",
+          "en": "Hat Samran",
+          "slug": "hat-samran-9210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92120"
+    ],
+    "geo": {
+      "lat": "7.256",
+      "lon": "99.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "921003",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตะเสะ",
+      "en": "Ta Se",
+      "slug": "ta-se-921003"
+    },
+    "code": {
+      "id": "921003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9210",
+      "level": 2,
+      "name": {
+        "local": "หาดสำราญ",
+        "en": "Hat Samran",
+        "slug": "hat-samran-9210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9210",
+        "level": 2,
+        "name": {
+          "local": "หาดสำราญ",
+          "en": "Hat Samran",
+          "slug": "hat-samran-9210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92120"
+    ],
+    "geo": {
+      "lat": "7.183",
+      "lon": "99.599"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

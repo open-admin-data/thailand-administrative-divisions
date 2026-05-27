@@ -1,0 +1,47 @@
+{
+  "id": "5307",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พิชัย",
+    "en": "Phichai",
+    "slug": "phichai-5307"
+  },
+  "code": {
+    "id": "5307",
+    "iso": null
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "local": "อุตรดิตถ์",
+      "en": "Uttaradit",
+      "slug": "uttaradit-53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit-53"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.301",
+    "lon": "100.107"
+  },
+  "metadata": {},
+  "source": {}
+}

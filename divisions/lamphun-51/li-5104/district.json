@@ -1,0 +1,47 @@
+{
+  "id": "5104",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ลี้",
+    "en": "Li",
+    "slug": "li-5104"
+  },
+  "code": {
+    "id": "5104",
+    "iso": null
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "local": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun-51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun-51"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.742",
+    "lon": "99.062"
+  },
+  "metadata": {},
+  "source": {}
+}

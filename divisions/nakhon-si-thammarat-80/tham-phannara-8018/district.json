@@ -1,0 +1,47 @@
+{
+  "id": "8018",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ถ้ำพรรณรา",
+    "en": "Tham Phannara",
+    "slug": "tham-phannara-8018"
+  },
+  "code": {
+    "id": "8018",
+    "iso": null
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "local": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat-80"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat-80"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.414",
+    "lon": "99.373"
+  },
+  "metadata": {},
+  "source": {}
+}

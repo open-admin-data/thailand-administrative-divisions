@@ -1,0 +1,506 @@
+[
+  {
+    "id": "960605",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บาตง",
+      "en": "Batong",
+      "slug": "batong-960605"
+    },
+    "code": {
+      "id": "960605",
+      "iso": null
+    },
+    "parent": {
+      "id": "9606",
+      "level": 2,
+      "name": {
+        "local": "รือเสาะ",
+        "en": "Rueso",
+        "slug": "rueso-9606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat-96"
+        }
+      },
+      {
+        "id": "9606",
+        "level": 2,
+        "name": {
+          "local": "รือเสาะ",
+          "en": "Rueso",
+          "slug": "rueso-9606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96150"
+    ],
+    "geo": {
+      "lat": "6.336",
+      "lon": "101.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "960608",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โคกสะตอ",
+      "en": "Khok Sato",
+      "slug": "khok-sato-960608"
+    },
+    "code": {
+      "id": "960608",
+      "iso": null
+    },
+    "parent": {
+      "id": "9606",
+      "level": 2,
+      "name": {
+        "local": "รือเสาะ",
+        "en": "Rueso",
+        "slug": "rueso-9606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat-96"
+        }
+      },
+      {
+        "id": "9606",
+        "level": 2,
+        "name": {
+          "local": "รือเสาะ",
+          "en": "Rueso",
+          "slug": "rueso-9606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96150"
+    ],
+    "geo": {
+      "lat": "6.282",
+      "lon": "101.449"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "960606",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ลาโละ",
+      "en": "Lalo",
+      "slug": "lalo-960606"
+    },
+    "code": {
+      "id": "960606",
+      "iso": null
+    },
+    "parent": {
+      "id": "9606",
+      "level": 2,
+      "name": {
+        "local": "รือเสาะ",
+        "en": "Rueso",
+        "slug": "rueso-9606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat-96"
+        }
+      },
+      {
+        "id": "9606",
+        "level": 2,
+        "name": {
+          "local": "รือเสาะ",
+          "en": "Rueso",
+          "slug": "rueso-9606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96150"
+    ],
+    "geo": {
+      "lat": "6.343",
+      "lon": "101.59"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "960603",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เรียง",
+      "en": "Riang",
+      "slug": "riang-960603"
+    },
+    "code": {
+      "id": "960603",
+      "iso": null
+    },
+    "parent": {
+      "id": "9606",
+      "level": 2,
+      "name": {
+        "local": "รือเสาะ",
+        "en": "Rueso",
+        "slug": "rueso-9606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat-96"
+        }
+      },
+      {
+        "id": "9606",
+        "level": 2,
+        "name": {
+          "local": "รือเสาะ",
+          "en": "Rueso",
+          "slug": "rueso-9606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96150"
+    ],
+    "geo": {
+      "lat": "6.398",
+      "lon": "101.445"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "960601",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "รือเสาะ",
+      "en": "Rueso",
+      "slug": "rueso-960601"
+    },
+    "code": {
+      "id": "960601",
+      "iso": null
+    },
+    "parent": {
+      "id": "9606",
+      "level": 2,
+      "name": {
+        "local": "รือเสาะ",
+        "en": "Rueso",
+        "slug": "rueso-9606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat-96"
+        }
+      },
+      {
+        "id": "9606",
+        "level": 2,
+        "name": {
+          "local": "รือเสาะ",
+          "en": "Rueso",
+          "slug": "rueso-9606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96150"
+    ],
+    "geo": {
+      "lat": "6.369",
+      "lon": "101.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "960607",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "รือเสาะออก",
+      "en": "Rueso Ok",
+      "slug": "rueso-ok-960607"
+    },
+    "code": {
+      "id": "960607",
+      "iso": null
+    },
+    "parent": {
+      "id": "9606",
+      "level": 2,
+      "name": {
+        "local": "รือเสาะ",
+        "en": "Rueso",
+        "slug": "rueso-9606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat-96"
+        }
+      },
+      {
+        "id": "9606",
+        "level": 2,
+        "name": {
+          "local": "รือเสาะ",
+          "en": "Rueso",
+          "slug": "rueso-9606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96150"
+    ],
+    "geo": {
+      "lat": "6.394",
+      "lon": "101.554"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "960604",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สามัคคี",
+      "en": "Samakkhi",
+      "slug": "samakkhi-960604"
+    },
+    "code": {
+      "id": "960604",
+      "iso": null
+    },
+    "parent": {
+      "id": "9606",
+      "level": 2,
+      "name": {
+        "local": "รือเสาะ",
+        "en": "Rueso",
+        "slug": "rueso-9606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat-96"
+        }
+      },
+      {
+        "id": "9606",
+        "level": 2,
+        "name": {
+          "local": "รือเสาะ",
+          "en": "Rueso",
+          "slug": "rueso-9606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96150"
+    ],
+    "geo": {
+      "lat": "6.423",
+      "lon": "101.587"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "960602",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สาวอ",
+      "en": "Sawo",
+      "slug": "sawo-960602"
+    },
+    "code": {
+      "id": "960602",
+      "iso": null
+    },
+    "parent": {
+      "id": "9606",
+      "level": 2,
+      "name": {
+        "local": "รือเสาะ",
+        "en": "Rueso",
+        "slug": "rueso-9606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat-96"
+        }
+      },
+      {
+        "id": "9606",
+        "level": 2,
+        "name": {
+          "local": "รือเสาะ",
+          "en": "Rueso",
+          "slug": "rueso-9606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96150"
+    ],
+    "geo": {
+      "lat": "6.434",
+      "lon": "101.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "960609",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สุวารี",
+      "en": "Suwari",
+      "slug": "suwari-960609"
+    },
+    "code": {
+      "id": "960609",
+      "iso": null
+    },
+    "parent": {
+      "id": "9606",
+      "level": 2,
+      "name": {
+        "local": "รือเสาะ",
+        "en": "Rueso",
+        "slug": "rueso-9606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat-96"
+        }
+      },
+      {
+        "id": "9606",
+        "level": 2,
+        "name": {
+          "local": "รือเสาะ",
+          "en": "Rueso",
+          "slug": "rueso-9606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96150"
+    ],
+    "geo": {
+      "lat": "6.458",
+      "lon": "101.611"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

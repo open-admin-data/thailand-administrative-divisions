@@ -1,0 +1,47 @@
+{
+  "id": "4110",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "วังสามหมอ",
+    "en": "Wang Sam Mo",
+    "slug": "wang-sam-mo-4110"
+  },
+  "code": {
+    "id": "4110",
+    "iso": null
+  },
+  "parent": {
+    "id": "41",
+    "level": 1,
+    "name": {
+      "local": "อุดรธานี",
+      "en": "Udon Thani",
+      "slug": "udon-thani-41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "local": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani-41"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.941",
+    "lon": "103.456"
+  },
+  "metadata": {},
+  "source": {}
+}

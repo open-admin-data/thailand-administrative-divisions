@@ -1,0 +1,47 @@
+{
+  "id": "7602",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เขาย้อย",
+    "en": "Khao Yoi",
+    "slug": "khao-yoi-7602"
+  },
+  "code": {
+    "id": "7602",
+    "iso": null
+  },
+  "parent": {
+    "id": "76",
+    "level": 1,
+    "name": {
+      "local": "เพชรบุรี",
+      "en": "Phetchaburi",
+      "slug": "phetchaburi-76"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi-76"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.284",
+    "lon": "99.838"
+  },
+  "metadata": {},
+  "source": {}
+}

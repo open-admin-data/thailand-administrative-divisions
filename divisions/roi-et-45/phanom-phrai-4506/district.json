@@ -1,0 +1,47 @@
+{
+  "id": "4506",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พนมไพร",
+    "en": "Phanom Phrai",
+    "slug": "phanom-phrai-4506"
+  },
+  "code": {
+    "id": "4506",
+    "iso": null
+  },
+  "parent": {
+    "id": "45",
+    "level": 1,
+    "name": {
+      "local": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et-45"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "local": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et-45"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.6",
+    "lon": "104.139"
+  },
+  "metadata": {},
+  "source": {}
+}

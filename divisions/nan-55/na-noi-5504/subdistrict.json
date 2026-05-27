@@ -1,0 +1,394 @@
+[
+  {
+    "id": "550406",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บัวใหญ่",
+      "en": "Bua Yai",
+      "slug": "bua-yai-550406"
+    },
+    "code": {
+      "id": "550406",
+      "iso": null
+    },
+    "parent": {
+      "id": "5504",
+      "level": 2,
+      "name": {
+        "local": "นาน้อย",
+        "en": "Na Noi",
+        "slug": "na-noi-5504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5504",
+        "level": 2,
+        "name": {
+          "local": "นาน้อย",
+          "en": "Na Noi",
+          "slug": "na-noi-5504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55150"
+    ],
+    "geo": {
+      "lat": "18.35",
+      "lon": "100.57"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550402",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เชียงของ",
+      "en": "Chiang Khong",
+      "slug": "chiang-khong-550402"
+    },
+    "code": {
+      "id": "550402",
+      "iso": null
+    },
+    "parent": {
+      "id": "5504",
+      "level": 2,
+      "name": {
+        "local": "นาน้อย",
+        "en": "Na Noi",
+        "slug": "na-noi-5504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5504",
+        "level": 2,
+        "name": {
+          "local": "นาน้อย",
+          "en": "Na Noi",
+          "slug": "na-noi-5504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55150"
+    ],
+    "geo": {
+      "lat": "18.273",
+      "lon": "100.884"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาน้อย",
+      "en": "Na Noi",
+      "slug": "na-noi-550401"
+    },
+    "code": {
+      "id": "550401",
+      "iso": null
+    },
+    "parent": {
+      "id": "5504",
+      "level": 2,
+      "name": {
+        "local": "นาน้อย",
+        "en": "Na Noi",
+        "slug": "na-noi-5504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5504",
+        "level": 2,
+        "name": {
+          "local": "นาน้อย",
+          "en": "Na Noi",
+          "slug": "na-noi-5504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55150"
+    ],
+    "geo": {
+      "lat": "18.313",
+      "lon": "100.681"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550407",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "น้ำตก",
+      "en": "Nam Tok",
+      "slug": "nam-tok-550407"
+    },
+    "code": {
+      "id": "550407",
+      "iso": null
+    },
+    "parent": {
+      "id": "5504",
+      "level": 2,
+      "name": {
+        "local": "นาน้อย",
+        "en": "Na Noi",
+        "slug": "na-noi-5504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5504",
+        "level": 2,
+        "name": {
+          "local": "นาน้อย",
+          "en": "Na Noi",
+          "slug": "na-noi-5504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55150"
+    ],
+    "geo": {
+      "lat": "18.394",
+      "lon": "100.629"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550405",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สันทะ",
+      "en": "Santha",
+      "slug": "santha-550405"
+    },
+    "code": {
+      "id": "550405",
+      "iso": null
+    },
+    "parent": {
+      "id": "5504",
+      "level": 2,
+      "name": {
+        "local": "นาน้อย",
+        "en": "Na Noi",
+        "slug": "na-noi-5504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5504",
+        "level": 2,
+        "name": {
+          "local": "นาน้อย",
+          "en": "Na Noi",
+          "slug": "na-noi-5504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55150"
+    ],
+    "geo": {
+      "lat": "18.276",
+      "lon": "100.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550404",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สถาน",
+      "en": "Sathan",
+      "slug": "sathan-550404"
+    },
+    "code": {
+      "id": "550404",
+      "iso": null
+    },
+    "parent": {
+      "id": "5504",
+      "level": 2,
+      "name": {
+        "local": "นาน้อย",
+        "en": "Na Noi",
+        "slug": "na-noi-5504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5504",
+        "level": 2,
+        "name": {
+          "local": "นาน้อย",
+          "en": "Na Noi",
+          "slug": "na-noi-5504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55150"
+    ],
+    "geo": {
+      "lat": "18.236",
+      "lon": "100.745"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550403",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ศรีษะเกษ",
+      "en": "Sisaket",
+      "slug": "sisaket-550403"
+    },
+    "code": {
+      "id": "550403",
+      "iso": null
+    },
+    "parent": {
+      "id": "5504",
+      "level": 2,
+      "name": {
+        "local": "นาน้อย",
+        "en": "Na Noi",
+        "slug": "na-noi-5504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5504",
+        "level": 2,
+        "name": {
+          "local": "นาน้อย",
+          "en": "Na Noi",
+          "slug": "na-noi-5504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55150"
+    ],
+    "geo": {
+      "lat": "18.369",
+      "lon": "100.771"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

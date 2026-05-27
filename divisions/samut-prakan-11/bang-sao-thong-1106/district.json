@@ -1,0 +1,47 @@
+{
+  "id": "1106",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บางเสาธง",
+    "en": "Bang Sao Thong",
+    "slug": "bang-sao-thong-1106"
+  },
+  "code": {
+    "id": "1106",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan-11"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.641",
+    "lon": "100.803"
+  },
+  "metadata": {},
+  "source": {}
+}

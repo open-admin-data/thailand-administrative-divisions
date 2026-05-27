@@ -1,0 +1,47 @@
+{
+  "id": "6708",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บึงสามพัน",
+    "en": "Bueng Sam Phan",
+    "slug": "bueng-sam-phan-6708"
+  },
+  "code": {
+    "id": "6708",
+    "iso": null
+  },
+  "parent": {
+    "id": "67",
+    "level": 1,
+    "name": {
+      "local": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun-67"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "local": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun-67"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.791",
+    "lon": "101.022"
+  },
+  "metadata": {},
+  "source": {}
+}

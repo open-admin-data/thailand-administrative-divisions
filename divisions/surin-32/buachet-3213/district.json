@@ -1,0 +1,47 @@
+{
+  "id": "3213",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บัวเชด",
+    "en": "Buachet",
+    "slug": "buachet-3213"
+  },
+  "code": {
+    "id": "3213",
+    "iso": null
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "local": "สุรินทร์",
+      "en": "Surin",
+      "slug": "surin-32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin-32"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.532",
+    "lon": "104.014"
+  },
+  "metadata": {},
+  "source": {}
+}

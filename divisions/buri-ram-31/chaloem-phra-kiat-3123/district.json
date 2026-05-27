@@ -1,0 +1,47 @@
+{
+  "id": "3123",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เฉลิมพระเกียรติ",
+    "en": "Chaloem Phra Kiat",
+    "slug": "chaloem-phra-kiat-3123"
+  },
+  "code": {
+    "id": "3123",
+    "iso": null
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "local": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram-31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram-31"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.505",
+    "lon": "102.918"
+  },
+  "metadata": {},
+  "source": {}
+}

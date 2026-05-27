@@ -1,0 +1,47 @@
+{
+  "id": "8020",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พระพรหม",
+    "en": "Phra Phrom",
+    "slug": "phra-phrom-8020"
+  },
+  "code": {
+    "id": "8020",
+    "iso": null
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "local": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat-80"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat-80"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.331",
+    "lon": "99.907"
+  },
+  "metadata": {},
+  "source": {}
+}

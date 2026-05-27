@@ -1,0 +1,47 @@
+{
+  "id": "7106",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ท่าม่วง",
+    "en": "Tha Muang",
+    "slug": "tha-muang-7106"
+  },
+  "code": {
+    "id": "7106",
+    "iso": null
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "local": "กาญจนบุรี",
+      "en": "Kanchanaburi",
+      "slug": "kanchanaburi-71"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi-71"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.974",
+    "lon": "99.625"
+  },
+  "metadata": {},
+  "source": {}
+}

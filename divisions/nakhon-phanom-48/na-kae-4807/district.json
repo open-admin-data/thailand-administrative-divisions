@@ -1,0 +1,47 @@
+{
+  "id": "4807",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "นาแก",
+    "en": "Na Kae",
+    "slug": "na-kae-4807"
+  },
+  "code": {
+    "id": "4807",
+    "iso": null
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "local": "นครพนม",
+      "en": "Nakhon Phanom",
+      "slug": "nakhon-phanom-48"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom-48"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.918",
+    "lon": "104.575"
+  },
+  "metadata": {},
+  "source": {}
+}

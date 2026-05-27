@@ -1,0 +1,47 @@
+{
+  "id": "2403",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บางน้ำเปรี้ยว",
+    "en": "Bang Nam Priao",
+    "slug": "bang-nam-priao-2403"
+  },
+  "code": {
+    "id": "2403",
+    "iso": null
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "local": "ฉะเชิงเทรา",
+      "en": "Chachoengsao",
+      "slug": "chachoengsao-24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao-24"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.858",
+    "lon": "101.115"
+  },
+  "metadata": {},
+  "source": {}
+}

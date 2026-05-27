@@ -1,0 +1,47 @@
+{
+  "id": "6304",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "แม่ระมาด",
+    "en": "Mae Ramat",
+    "slug": "mae-ramat-6304"
+  },
+  "code": {
+    "id": "6304",
+    "iso": null
+  },
+  "parent": {
+    "id": "63",
+    "level": 1,
+    "name": {
+      "local": "ตาก",
+      "en": "Tak",
+      "slug": "tak-63"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "ตาก",
+        "en": "Tak",
+        "slug": "tak-63"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.971",
+    "lon": "98.525"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "901304",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางเหรียง",
+      "en": "Bang Rieang",
+      "slug": "bang-rieang-901304"
+    },
+    "code": {
+      "id": "901304",
+      "iso": null
+    },
+    "parent": {
+      "id": "9013",
+      "level": 2,
+      "name": {
+        "local": "ควนเนียง",
+        "en": "Khuan Niang",
+        "slug": "khuan-niang-9013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9013",
+        "level": 2,
+        "name": {
+          "local": "ควนเนียง",
+          "en": "Khuan Niang",
+          "slug": "khuan-niang-9013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90220"
+    ],
+    "geo": {
+      "lat": "7.112",
+      "lon": "100.364"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ห้วยลึก",
+      "en": "Huai Luek",
+      "slug": "huai-luek-901303"
+    },
+    "code": {
+      "id": "901303",
+      "iso": null
+    },
+    "parent": {
+      "id": "9013",
+      "level": 2,
+      "name": {
+        "local": "ควนเนียง",
+        "en": "Khuan Niang",
+        "slug": "khuan-niang-9013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9013",
+        "level": 2,
+        "name": {
+          "local": "ควนเนียง",
+          "en": "Khuan Niang",
+          "slug": "khuan-niang-9013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90220"
+    ],
+    "geo": {
+      "lat": "7.267",
+      "lon": "100.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ควนโส",
+      "en": "Khuan So",
+      "slug": "khuan-so-901302"
+    },
+    "code": {
+      "id": "901302",
+      "iso": null
+    },
+    "parent": {
+      "id": "9013",
+      "level": 2,
+      "name": {
+        "local": "ควนเนียง",
+        "en": "Khuan Niang",
+        "slug": "khuan-niang-9013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9013",
+        "level": 2,
+        "name": {
+          "local": "ควนเนียง",
+          "en": "Khuan Niang",
+          "slug": "khuan-niang-9013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90220"
+    ],
+    "geo": {
+      "lat": "7.229",
+      "lon": "100.402"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "รัตภูมิ",
+      "en": "Rattaphum",
+      "slug": "rattaphum-901301"
+    },
+    "code": {
+      "id": "901301",
+      "iso": null
+    },
+    "parent": {
+      "id": "9013",
+      "level": 2,
+      "name": {
+        "local": "ควนเนียง",
+        "en": "Khuan Niang",
+        "slug": "khuan-niang-9013"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9013",
+        "level": 2,
+        "name": {
+          "local": "ควนเนียง",
+          "en": "Khuan Niang",
+          "slug": "khuan-niang-9013"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90220"
+    ],
+    "geo": {
+      "lat": "7.182",
+      "lon": "100.37"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

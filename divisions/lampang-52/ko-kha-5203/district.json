@@ -1,0 +1,47 @@
+{
+  "id": "5203",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เกาะคา",
+    "en": "Ko Kha",
+    "slug": "ko-kha-5203"
+  },
+  "code": {
+    "id": "5203",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "ลำปาง",
+      "en": "Lampang",
+      "slug": "lampang-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang-52"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.196",
+    "lon": "99.413"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "530602",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านโคก",
+      "en": "Ban Khok",
+      "slug": "ban-khok-530602"
+    },
+    "code": {
+      "id": "530602",
+      "iso": null
+    },
+    "parent": {
+      "id": "5306",
+      "level": 2,
+      "name": {
+        "local": "บ้านโคก",
+        "en": "Ban Khok",
+        "slug": "ban-khok-5306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5306",
+        "level": 2,
+        "name": {
+          "local": "บ้านโคก",
+          "en": "Ban Khok",
+          "slug": "ban-khok-5306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53180"
+    ],
+    "geo": {
+      "lat": "18.008",
+      "lon": "101.084"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530604",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ่อเบี้ย",
+      "en": "Bo Bia",
+      "slug": "bo-bia-530604"
+    },
+    "code": {
+      "id": "530604",
+      "iso": null
+    },
+    "parent": {
+      "id": "5306",
+      "level": 2,
+      "name": {
+        "local": "บ้านโคก",
+        "en": "Ban Khok",
+        "slug": "ban-khok-5306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5306",
+        "level": 2,
+        "name": {
+          "local": "บ้านโคก",
+          "en": "Ban Khok",
+          "slug": "ban-khok-5306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53180"
+    ],
+    "geo": {
+      "lat": "18.253",
+      "lon": "101.044"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530601",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ม่วงเจ็ดต้น",
+      "en": "Muang Chet Ton",
+      "slug": "muang-chet-ton-530601"
+    },
+    "code": {
+      "id": "530601",
+      "iso": null
+    },
+    "parent": {
+      "id": "5306",
+      "level": 2,
+      "name": {
+        "local": "บ้านโคก",
+        "en": "Ban Khok",
+        "slug": "ban-khok-5306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5306",
+        "level": 2,
+        "name": {
+          "local": "บ้านโคก",
+          "en": "Ban Khok",
+          "slug": "ban-khok-5306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53180"
+    ],
+    "geo": {
+      "lat": "18.115",
+      "lon": "101.062"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530603",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาขุม",
+      "en": "Na Khum",
+      "slug": "na-khum-530603"
+    },
+    "code": {
+      "id": "530603",
+      "iso": null
+    },
+    "parent": {
+      "id": "5306",
+      "level": 2,
+      "name": {
+        "local": "บ้านโคก",
+        "en": "Ban Khok",
+        "slug": "ban-khok-5306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5306",
+        "level": 2,
+        "name": {
+          "local": "บ้านโคก",
+          "en": "Ban Khok",
+          "slug": "ban-khok-5306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53180"
+    ],
+    "geo": {
+      "lat": "17.951",
+      "lon": "100.998"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

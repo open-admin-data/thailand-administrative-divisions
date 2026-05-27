@@ -1,0 +1,170 @@
+[
+  {
+    "id": "930403",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองใหญ่",
+      "en": "Khlong Yai",
+      "slug": "khlong-yai-930403"
+    },
+    "code": {
+      "id": "930403",
+      "iso": null
+    },
+    "parent": {
+      "id": "9304",
+      "level": 2,
+      "name": {
+        "local": "ตะโหมด",
+        "en": "Tamod",
+        "slug": "tamod-9304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "93",
+        "level": 1,
+        "name": {
+          "local": "พัทลุง",
+          "en": "Phatthalung",
+          "slug": "phatthalung-93"
+        }
+      },
+      {
+        "id": "9304",
+        "level": 2,
+        "name": {
+          "local": "ตะโหมด",
+          "en": "Tamod",
+          "slug": "tamod-9304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93160"
+    ],
+    "geo": {
+      "lat": "7.26",
+      "lon": "100.074"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "930401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่ขรี",
+      "en": "Mae Khari",
+      "slug": "mae-khari-930401"
+    },
+    "code": {
+      "id": "930401",
+      "iso": null
+    },
+    "parent": {
+      "id": "9304",
+      "level": 2,
+      "name": {
+        "local": "ตะโหมด",
+        "en": "Tamod",
+        "slug": "tamod-9304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "93",
+        "level": 1,
+        "name": {
+          "local": "พัทลุง",
+          "en": "Phatthalung",
+          "slug": "phatthalung-93"
+        }
+      },
+      {
+        "id": "9304",
+        "level": 2,
+        "name": {
+          "local": "ตะโหมด",
+          "en": "Tamod",
+          "slug": "tamod-9304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93160"
+    ],
+    "geo": {
+      "lat": "7.338",
+      "lon": "100.097"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "930402",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตะโหมด",
+      "en": "Tamod",
+      "slug": "tamod-930402"
+    },
+    "code": {
+      "id": "930402",
+      "iso": null
+    },
+    "parent": {
+      "id": "9304",
+      "level": 2,
+      "name": {
+        "local": "ตะโหมด",
+        "en": "Tamod",
+        "slug": "tamod-9304"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "93",
+        "level": 1,
+        "name": {
+          "local": "พัทลุง",
+          "en": "Phatthalung",
+          "slug": "phatthalung-93"
+        }
+      },
+      {
+        "id": "9304",
+        "level": 2,
+        "name": {
+          "local": "ตะโหมด",
+          "en": "Tamod",
+          "slug": "tamod-9304"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93160"
+    ],
+    "geo": {
+      "lat": "7.278",
+      "lon": "100.007"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

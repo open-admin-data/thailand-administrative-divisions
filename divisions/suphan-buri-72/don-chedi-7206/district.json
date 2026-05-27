@@ -1,0 +1,47 @@
+{
+  "id": "7206",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ดอนเจดีย์",
+    "en": "Don Chedi",
+    "slug": "don-chedi-7206"
+  },
+  "code": {
+    "id": "7206",
+    "iso": null
+  },
+  "parent": {
+    "id": "72",
+    "level": 1,
+    "name": {
+      "local": "สุพรรณบุรี",
+      "en": "Suphan Buri",
+      "slug": "suphan-buri-72"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri-72"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.603",
+    "lon": "99.955"
+  },
+  "metadata": {},
+  "source": {}
+}

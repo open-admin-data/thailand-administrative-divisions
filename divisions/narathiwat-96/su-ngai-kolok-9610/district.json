@@ -1,0 +1,47 @@
+{
+  "id": "9610",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สุไหงโก-ลก",
+    "en": "Su-ngai Kolok",
+    "slug": "su-ngai-kolok-9610"
+  },
+  "code": {
+    "id": "9610",
+    "iso": null
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "local": "นราธิวาส",
+      "en": "Narathiwat",
+      "slug": "narathiwat-96"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat-96"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.008",
+    "lon": "101.949"
+  },
+  "metadata": {},
+  "source": {}
+}

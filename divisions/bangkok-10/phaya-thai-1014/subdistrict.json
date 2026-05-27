@@ -1,0 +1,58 @@
+[
+  {
+    "id": "101401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สามเสนใน",
+      "en": "Samsen Nai",
+      "slug": "samsen-nai-101401"
+    },
+    "code": {
+      "id": "101401",
+      "iso": null
+    },
+    "parent": {
+      "id": "1014",
+      "level": 2,
+      "name": {
+        "local": "พญาไท",
+        "en": "Phaya Thai",
+        "slug": "phaya-thai-1014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1014",
+        "level": 2,
+        "name": {
+          "local": "พญาไท",
+          "en": "Phaya Thai",
+          "slug": "phaya-thai-1014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10400"
+    ],
+    "geo": {
+      "lat": "13.782",
+      "lon": "100.545"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

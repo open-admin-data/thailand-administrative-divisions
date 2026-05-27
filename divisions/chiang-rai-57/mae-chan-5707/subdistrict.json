@@ -1,0 +1,618 @@
+[
+  {
+    "id": "570702",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "จันจว้า",
+      "en": "Chan Chwa",
+      "slug": "chan-chwa-570702"
+    },
+    "code": {
+      "id": "570702",
+      "iso": null
+    },
+    "parent": {
+      "id": "5707",
+      "level": 2,
+      "name": {
+        "local": "แม่จัน",
+        "en": "Mae Chan",
+        "slug": "mae-chan-5707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5707",
+        "level": 2,
+        "name": {
+          "local": "แม่จัน",
+          "en": "Mae Chan",
+          "slug": "mae-chan-5707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57270"
+    ],
+    "geo": {
+      "lat": "20.239",
+      "lon": "99.982"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "570712",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "จันจว้าใต้",
+      "en": "Chan Chwa Tai",
+      "slug": "chan-chwa-tai-570712"
+    },
+    "code": {
+      "id": "570712",
+      "iso": null
+    },
+    "parent": {
+      "id": "5707",
+      "level": 2,
+      "name": {
+        "local": "แม่จัน",
+        "en": "Mae Chan",
+        "slug": "mae-chan-5707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5707",
+        "level": 2,
+        "name": {
+          "local": "แม่จัน",
+          "en": "Mae Chan",
+          "slug": "mae-chan-5707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57270"
+    ],
+    "geo": {
+      "lat": "20.239",
+      "lon": "99.936"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "570713",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "จอมสวรรค์",
+      "en": "Chom Sawan",
+      "slug": "chom-sawan-570713"
+    },
+    "code": {
+      "id": "570713",
+      "iso": null
+    },
+    "parent": {
+      "id": "5707",
+      "level": 2,
+      "name": {
+        "local": "แม่จัน",
+        "en": "Mae Chan",
+        "slug": "mae-chan-5707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5707",
+        "level": 2,
+        "name": {
+          "local": "แม่จัน",
+          "en": "Mae Chan",
+          "slug": "mae-chan-5707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57110"
+    ],
+    "geo": {
+      "lat": "20.17",
+      "lon": "99.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "570701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่จัน",
+      "en": "Mae Chan",
+      "slug": "mae-chan-570701"
+    },
+    "code": {
+      "id": "570701",
+      "iso": null
+    },
+    "parent": {
+      "id": "5707",
+      "level": 2,
+      "name": {
+        "local": "แม่จัน",
+        "en": "Mae Chan",
+        "slug": "mae-chan-5707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5707",
+        "level": 2,
+        "name": {
+          "local": "แม่จัน",
+          "en": "Mae Chan",
+          "slug": "mae-chan-5707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57110"
+    ],
+    "geo": {
+      "lat": "20.112",
+      "lon": "99.813"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "570703",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่คำ",
+      "en": "Mae Kham",
+      "slug": "mae-kham-570703"
+    },
+    "code": {
+      "id": "570703",
+      "iso": null
+    },
+    "parent": {
+      "id": "5707",
+      "level": 2,
+      "name": {
+        "local": "แม่จัน",
+        "en": "Mae Chan",
+        "slug": "mae-chan-5707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5707",
+        "level": 2,
+        "name": {
+          "local": "แม่จัน",
+          "en": "Mae Chan",
+          "slug": "mae-chan-5707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57240"
+    ],
+    "geo": {
+      "lat": "20.251",
+      "lon": "99.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "570710",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่ไร่",
+      "en": "Mae Rai",
+      "slug": "mae-rai-570710"
+    },
+    "code": {
+      "id": "570710",
+      "iso": null
+    },
+    "parent": {
+      "id": "5707",
+      "level": 2,
+      "name": {
+        "local": "แม่จัน",
+        "en": "Mae Chan",
+        "slug": "mae-chan-5707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5707",
+        "level": 2,
+        "name": {
+          "local": "แม่จัน",
+          "en": "Mae Chan",
+          "slug": "mae-chan-5707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57240"
+    ],
+    "geo": {
+      "lat": "20.256",
+      "lon": "99.864"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "570704",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ป่าซาง",
+      "en": "Pa Sang",
+      "slug": "pa-sang-570704"
+    },
+    "code": {
+      "id": "570704",
+      "iso": null
+    },
+    "parent": {
+      "id": "5707",
+      "level": 2,
+      "name": {
+        "local": "แม่จัน",
+        "en": "Mae Chan",
+        "slug": "mae-chan-5707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5707",
+        "level": 2,
+        "name": {
+          "local": "แม่จัน",
+          "en": "Mae Chan",
+          "slug": "mae-chan-5707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57110"
+    ],
+    "geo": {
+      "lat": "20.181",
+      "lon": "99.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "570708",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ป่าตึง",
+      "en": "Pa Tueng",
+      "slug": "pa-tueng-570708"
+    },
+    "code": {
+      "id": "570708",
+      "iso": null
+    },
+    "parent": {
+      "id": "5707",
+      "level": 2,
+      "name": {
+        "local": "แม่จัน",
+        "en": "Mae Chan",
+        "slug": "mae-chan-5707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5707",
+        "level": 2,
+        "name": {
+          "local": "แม่จัน",
+          "en": "Mae Chan",
+          "slug": "mae-chan-5707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57110"
+    ],
+    "geo": {
+      "lat": "20.134",
+      "lon": "99.77"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "570705",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สันทราย",
+      "en": "San Sai",
+      "slug": "san-sai-570705"
+    },
+    "code": {
+      "id": "570705",
+      "iso": null
+    },
+    "parent": {
+      "id": "5707",
+      "level": 2,
+      "name": {
+        "local": "แม่จัน",
+        "en": "Mae Chan",
+        "slug": "mae-chan-5707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5707",
+        "level": 2,
+        "name": {
+          "local": "แม่จัน",
+          "en": "Mae Chan",
+          "slug": "mae-chan-5707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57110"
+    ],
+    "geo": {
+      "lat": "20.171",
+      "lon": "99.891"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "570711",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ศรีค้ำ",
+      "en": "Si Kham",
+      "slug": "si-kham-570711"
+    },
+    "code": {
+      "id": "570711",
+      "iso": null
+    },
+    "parent": {
+      "id": "5707",
+      "level": 2,
+      "name": {
+        "local": "แม่จัน",
+        "en": "Mae Chan",
+        "slug": "mae-chan-5707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5707",
+        "level": 2,
+        "name": {
+          "local": "แม่จัน",
+          "en": "Mae Chan",
+          "slug": "mae-chan-5707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57110"
+    ],
+    "geo": {
+      "lat": "20.221",
+      "lon": "99.797"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "570706",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าข้าวเปลือก",
+      "en": "Tha Khao Plueak",
+      "slug": "tha-khao-plueak-570706"
+    },
+    "code": {
+      "id": "570706",
+      "iso": null
+    },
+    "parent": {
+      "id": "5707",
+      "level": 2,
+      "name": {
+        "local": "แม่จัน",
+        "en": "Mae Chan",
+        "slug": "mae-chan-5707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5707",
+        "level": 2,
+        "name": {
+          "local": "แม่จัน",
+          "en": "Mae Chan",
+          "slug": "mae-chan-5707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57110"
+    ],
+    "geo": {
+      "lat": "20.163",
+      "lon": "100.018"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

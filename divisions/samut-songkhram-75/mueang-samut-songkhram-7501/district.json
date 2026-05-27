@@ -1,0 +1,47 @@
+{
+  "id": "7501",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองสมุทรสงคราม",
+    "en": "Mueang Samut Songkhram",
+    "slug": "mueang-samut-songkhram-7501"
+  },
+  "code": {
+    "id": "7501",
+    "iso": null
+  },
+  "parent": {
+    "id": "75",
+    "level": 1,
+    "name": {
+      "local": "สมุทรสงคราม",
+      "en": "Samut Songkhram",
+      "slug": "samut-songkhram-75"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "75",
+      "level": 1,
+      "name": {
+        "local": "สมุทรสงคราม",
+        "en": "Samut Songkhram",
+        "slug": "samut-songkhram-75"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.399",
+    "lon": "99.976"
+  },
+  "metadata": {},
+  "source": {}
+}

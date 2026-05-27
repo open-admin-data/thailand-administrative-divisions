@@ -1,0 +1,47 @@
+{
+  "id": "6103",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สว่างอารมณ์",
+    "en": "Sawang Arom",
+    "slug": "sawang-arom-6103"
+  },
+  "code": {
+    "id": "6103",
+    "iso": null
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "local": "อุทัยธานี",
+      "en": "Uthai Thani",
+      "slug": "uthai-thani-61"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani-61"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.548",
+    "lon": "99.844"
+  },
+  "metadata": {},
+  "source": {}
+}

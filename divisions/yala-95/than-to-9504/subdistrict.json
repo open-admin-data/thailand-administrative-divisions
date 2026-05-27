@@ -1,0 +1,226 @@
+[
+  {
+    "id": "950402",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านแหร",
+      "en": "Ban Rae",
+      "slug": "ban-rae-950402"
+    },
+    "code": {
+      "id": "950402",
+      "iso": null
+    },
+    "parent": {
+      "id": "9504",
+      "level": 2,
+      "name": {
+        "local": "ธารโต",
+        "en": "Than To",
+        "slug": "than-to-9504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9504",
+        "level": 2,
+        "name": {
+          "local": "ธารโต",
+          "en": "Than To",
+          "slug": "than-to-9504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95150"
+    ],
+    "geo": {
+      "lat": "6.105",
+      "lon": "101.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950404",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คีรีเขต",
+      "en": "Khiri Khet",
+      "slug": "khiri-khet-950404"
+    },
+    "code": {
+      "id": "950404",
+      "iso": null
+    },
+    "parent": {
+      "id": "9504",
+      "level": 2,
+      "name": {
+        "local": "ธารโต",
+        "en": "Than To",
+        "slug": "than-to-9504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9504",
+        "level": 2,
+        "name": {
+          "local": "ธารโต",
+          "en": "Than To",
+          "slug": "than-to-9504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95150"
+    ],
+    "geo": {
+      "lat": "6.153",
+      "lon": "101.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950403",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่หวาด",
+      "en": "Mae Wat",
+      "slug": "mae-wat-950403"
+    },
+    "code": {
+      "id": "950403",
+      "iso": null
+    },
+    "parent": {
+      "id": "9504",
+      "level": 2,
+      "name": {
+        "local": "ธารโต",
+        "en": "Than To",
+        "slug": "than-to-9504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9504",
+        "level": 2,
+        "name": {
+          "local": "ธารโต",
+          "en": "Than To",
+          "slug": "than-to-9504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95170"
+    ],
+    "geo": {
+      "lat": "6.102",
+      "lon": "101.384"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ธารโต",
+      "en": "Than To",
+      "slug": "than-to-950401"
+    },
+    "code": {
+      "id": "950401",
+      "iso": null
+    },
+    "parent": {
+      "id": "9504",
+      "level": 2,
+      "name": {
+        "local": "ธารโต",
+        "en": "Than To",
+        "slug": "than-to-9504"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9504",
+        "level": 2,
+        "name": {
+          "local": "ธารโต",
+          "en": "Than To",
+          "slug": "than-to-9504"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95150"
+    ],
+    "geo": {
+      "lat": "6.167",
+      "lon": "101.187"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

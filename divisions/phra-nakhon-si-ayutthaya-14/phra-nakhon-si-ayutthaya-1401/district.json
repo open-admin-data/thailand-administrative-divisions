@@ -1,0 +1,47 @@
+{
+  "id": "1401",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พระนครศรีอยุธยา",
+    "en": "Phra Nakhon Si Ayutthaya",
+    "slug": "phra-nakhon-si-ayutthaya-1401"
+  },
+  "code": {
+    "id": "1401",
+    "iso": null
+  },
+  "parent": {
+    "id": "14",
+    "level": 1,
+    "name": {
+      "local": "พระนครศรีอยุธยา",
+      "en": "Phra Nakhon Si Ayutthaya",
+      "slug": "phra-nakhon-si-ayutthaya-14"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "14",
+      "level": 1,
+      "name": {
+        "local": "พระนครศรีอยุธยา",
+        "en": "Phra Nakhon Si Ayutthaya",
+        "slug": "phra-nakhon-si-ayutthaya-14"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 21
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.341",
+    "lon": "100.581"
+  },
+  "metadata": {},
+  "source": {}
+}

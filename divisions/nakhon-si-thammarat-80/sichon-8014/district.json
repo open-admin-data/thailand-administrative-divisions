@@ -1,0 +1,47 @@
+{
+  "id": "8014",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สิชล",
+    "en": "Sichon",
+    "slug": "sichon-8014"
+  },
+  "code": {
+    "id": "8014",
+    "iso": null
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "local": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat-80"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat-80"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.008",
+    "lon": "99.902"
+  },
+  "metadata": {},
+  "source": {}
+}

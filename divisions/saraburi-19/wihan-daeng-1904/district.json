@@ -1,0 +1,47 @@
+{
+  "id": "1904",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "วิหารแดง",
+    "en": "Wihan Daeng",
+    "slug": "wihan-daeng-1904"
+  },
+  "code": {
+    "id": "1904",
+    "iso": null
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "local": "สระบุรี",
+      "en": "Saraburi",
+      "slug": "saraburi-19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi-19"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.313",
+    "lon": "100.99"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "2204",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "โป่งน้ำร้อน",
+    "en": "Pong Nam Ron",
+    "slug": "pong-nam-ron-2204"
+  },
+  "code": {
+    "id": "2204",
+    "iso": null
+  },
+  "parent": {
+    "id": "22",
+    "level": 1,
+    "name": {
+      "local": "จันทบุรี",
+      "en": "Chanthaburi",
+      "slug": "chanthaburi-22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi-22"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.044",
+    "lon": "102.453"
+  },
+  "metadata": {},
+  "source": {}
+}

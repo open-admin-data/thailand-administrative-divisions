@@ -1,0 +1,47 @@
+{
+  "id": "9410",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ยะรัง",
+    "en": "Yarang",
+    "slug": "yarang-9410"
+  },
+  "code": {
+    "id": "9410",
+    "iso": null
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "local": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani-94"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani-94"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.717",
+    "lon": "101.299"
+  },
+  "metadata": {},
+  "source": {}
+}

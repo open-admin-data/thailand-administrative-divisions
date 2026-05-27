@@ -1,0 +1,47 @@
+{
+  "id": "9004",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "นาทวี",
+    "en": "Na Thawi",
+    "slug": "na-thawi-9004"
+  },
+  "code": {
+    "id": "9004",
+    "iso": null
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "local": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla-90"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.781",
+    "lon": "100.67"
+  },
+  "metadata": {},
+  "source": {}
+}

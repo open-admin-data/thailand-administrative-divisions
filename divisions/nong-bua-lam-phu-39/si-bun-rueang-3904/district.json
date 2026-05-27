@@ -1,0 +1,47 @@
+{
+  "id": "3904",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ศรีบุญเรือง",
+    "en": "Si Bun Rueang",
+    "slug": "si-bun-rueang-3904"
+  },
+  "code": {
+    "id": "3904",
+    "iso": null
+  },
+  "parent": {
+    "id": "39",
+    "level": 1,
+    "name": {
+      "local": "หนองบัวลำภู",
+      "en": "Nong Bua Lam Phu",
+      "slug": "nong-bua-lam-phu-39"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "local": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu-39"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.985",
+    "lon": "102.246"
+  },
+  "metadata": {},
+  "source": {}
+}

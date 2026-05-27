@@ -1,0 +1,786 @@
+[
+  {
+    "id": "900301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านนา",
+      "en": "Ban Na",
+      "slug": "ban-na-900301"
+    },
+    "code": {
+      "id": "900301",
+      "iso": null
+    },
+    "parent": {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "local": "จะนะ",
+        "en": "Chana",
+        "slug": "chana-9003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9003",
+        "level": 2,
+        "name": {
+          "local": "จะนะ",
+          "en": "Chana",
+          "slug": "chana-9003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90130"
+    ],
+    "geo": {
+      "lat": "6.901",
+      "lon": "100.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900310",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "จะโหนง",
+      "en": "Chanong",
+      "slug": "chanong-900310"
+    },
+    "code": {
+      "id": "900310",
+      "iso": null
+    },
+    "parent": {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "local": "จะนะ",
+        "en": "Chana",
+        "slug": "chana-9003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9003",
+        "level": 2,
+        "name": {
+          "local": "จะนะ",
+          "en": "Chana",
+          "slug": "chana-9003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90130"
+    ],
+    "geo": {
+      "lat": "7.006",
+      "lon": "100.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900312",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แค",
+      "en": "Khae",
+      "slug": "khae-900312"
+    },
+    "code": {
+      "id": "900312",
+      "iso": null
+    },
+    "parent": {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "local": "จะนะ",
+        "en": "Chana",
+        "slug": "chana-9003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9003",
+        "level": 2,
+        "name": {
+          "local": "จะนะ",
+          "en": "Chana",
+          "slug": "chana-9003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90130"
+    ],
+    "geo": {
+      "lat": "6.853",
+      "lon": "100.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900313",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองเปียะ",
+      "en": "Khlong Pia",
+      "slug": "khlong-pia-900313"
+    },
+    "code": {
+      "id": "900313",
+      "iso": null
+    },
+    "parent": {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "local": "จะนะ",
+        "en": "Chana",
+        "slug": "chana-9003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9003",
+        "level": 2,
+        "name": {
+          "local": "จะนะ",
+          "en": "Chana",
+          "slug": "chana-9003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90130"
+    ],
+    "geo": {
+      "lat": "6.952",
+      "lon": "100.632"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900311",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คู",
+      "en": "Khu",
+      "slug": "khu-900311"
+    },
+    "code": {
+      "id": "900311",
+      "iso": null
+    },
+    "parent": {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "local": "จะนะ",
+        "en": "Chana",
+        "slug": "chana-9003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9003",
+        "level": 2,
+        "name": {
+          "local": "จะนะ",
+          "en": "Chana",
+          "slug": "chana-9003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90130"
+    ],
+    "geo": {
+      "lat": "6.842",
+      "lon": "100.695"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900308",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ขุนตัดหวาย",
+      "en": "Khun Tat Wai",
+      "slug": "khun-tat-wai-900308"
+    },
+    "code": {
+      "id": "900308",
+      "iso": null
+    },
+    "parent": {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "local": "จะนะ",
+        "en": "Chana",
+        "slug": "chana-9003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9003",
+        "level": 2,
+        "name": {
+          "local": "จะนะ",
+          "en": "Chana",
+          "slug": "chana-9003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90130"
+    ],
+    "geo": {
+      "lat": "6.794",
+      "lon": "100.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900306",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาทับ",
+      "en": "Na Thap",
+      "slug": "na-thap-900306"
+    },
+    "code": {
+      "id": "900306",
+      "iso": null
+    },
+    "parent": {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "local": "จะนะ",
+        "en": "Chana",
+        "slug": "chana-9003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9003",
+        "level": 2,
+        "name": {
+          "local": "จะนะ",
+          "en": "Chana",
+          "slug": "chana-9003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90130"
+    ],
+    "geo": {
+      "lat": "7.035",
+      "lon": "100.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900305",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาหว้า",
+      "en": "Na Wa",
+      "slug": "na-wa-900305"
+    },
+    "code": {
+      "id": "900305",
+      "iso": null
+    },
+    "parent": {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "local": "จะนะ",
+        "en": "Chana",
+        "slug": "chana-9003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9003",
+        "level": 2,
+        "name": {
+          "local": "จะนะ",
+          "en": "Chana",
+          "slug": "chana-9003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90130"
+    ],
+    "geo": {
+      "lat": "6.896",
+      "lon": "100.655"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900307",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "น้ำขาว",
+      "en": "Nam Khao",
+      "slug": "nam-khao-900307"
+    },
+    "code": {
+      "id": "900307",
+      "iso": null
+    },
+    "parent": {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "local": "จะนะ",
+        "en": "Chana",
+        "slug": "chana-9003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9003",
+        "level": 2,
+        "name": {
+          "local": "จะนะ",
+          "en": "Chana",
+          "slug": "chana-9003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90130"
+    ],
+    "geo": {
+      "lat": "6.805",
+      "lon": "100.609"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ป่าชิง",
+      "en": "Pa Ching",
+      "slug": "pa-ching-900302"
+    },
+    "code": {
+      "id": "900302",
+      "iso": null
+    },
+    "parent": {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "local": "จะนะ",
+        "en": "Chana",
+        "slug": "chana-9003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9003",
+        "level": 2,
+        "name": {
+          "local": "จะนะ",
+          "en": "Chana",
+          "slug": "chana-9003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90130"
+    ],
+    "geo": {
+      "lat": "6.939",
+      "lon": "100.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900304",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สะกอม",
+      "en": "Sakom",
+      "slug": "sakom-900304"
+    },
+    "code": {
+      "id": "900304",
+      "iso": null
+    },
+    "parent": {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "local": "จะนะ",
+        "en": "Chana",
+        "slug": "chana-9003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9003",
+        "level": 2,
+        "name": {
+          "local": "จะนะ",
+          "en": "Chana",
+          "slug": "chana-9003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90130"
+    ],
+    "geo": {
+      "lat": "6.935",
+      "lon": "100.794"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สะพานไม้แก่น",
+      "en": "Saphan Mai Kaen",
+      "slug": "saphan-mai-kaen-900303"
+    },
+    "code": {
+      "id": "900303",
+      "iso": null
+    },
+    "parent": {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "local": "จะนะ",
+        "en": "Chana",
+        "slug": "chana-9003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9003",
+        "level": 2,
+        "name": {
+          "local": "จะนะ",
+          "en": "Chana",
+          "slug": "chana-9003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90130"
+    ],
+    "geo": {
+      "lat": "6.826",
+      "lon": "100.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900314",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตลิ่งชัน",
+      "en": "Taling Chan",
+      "slug": "taling-chan-900314"
+    },
+    "code": {
+      "id": "900314",
+      "iso": null
+    },
+    "parent": {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "local": "จะนะ",
+        "en": "Chana",
+        "slug": "chana-9003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9003",
+        "level": 2,
+        "name": {
+          "local": "จะนะ",
+          "en": "Chana",
+          "slug": "chana-9003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90130"
+    ],
+    "geo": {
+      "lat": "6.969",
+      "lon": "100.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900309",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าหมอไทร",
+      "en": "Tha Mo Sai",
+      "slug": "tha-mo-sai-900309"
+    },
+    "code": {
+      "id": "900309",
+      "iso": null
+    },
+    "parent": {
+      "id": "9003",
+      "level": 2,
+      "name": {
+        "local": "จะนะ",
+        "en": "Chana",
+        "slug": "chana-9003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9003",
+        "level": 2,
+        "name": {
+          "local": "จะนะ",
+          "en": "Chana",
+          "slug": "chana-9003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90130"
+    ],
+    "geo": {
+      "lat": "6.794",
+      "lon": "100.751"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

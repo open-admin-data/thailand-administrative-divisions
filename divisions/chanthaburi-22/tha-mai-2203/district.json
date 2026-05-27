@@ -1,0 +1,47 @@
+{
+  "id": "2203",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ท่าใหม่",
+    "en": "Tha Mai",
+    "slug": "tha-mai-2203"
+  },
+  "code": {
+    "id": "2203",
+    "iso": null
+  },
+  "parent": {
+    "id": "22",
+    "level": 1,
+    "name": {
+      "local": "จันทบุรี",
+      "en": "Chanthaburi",
+      "slug": "chanthaburi-22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi-22"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.512",
+    "lon": "101.95"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "102503",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางบำหรุ",
+      "en": "Bang Bamru",
+      "slug": "bang-bamru-102503"
+    },
+    "code": {
+      "id": "102503",
+      "iso": null
+    },
+    "parent": {
+      "id": "1025",
+      "level": 2,
+      "name": {
+        "local": "บางพลัด",
+        "en": "Bang Phlat",
+        "slug": "bang-phlat-1025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1025",
+        "level": 2,
+        "name": {
+          "local": "บางพลัด",
+          "en": "Bang Phlat",
+          "slug": "bang-phlat-1025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10700"
+    ],
+    "geo": {
+      "lat": "13.781",
+      "lon": "100.482"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "102502",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางอ้อ",
+      "en": "Bang O",
+      "slug": "bang-o-102502"
+    },
+    "code": {
+      "id": "102502",
+      "iso": null
+    },
+    "parent": {
+      "id": "1025",
+      "level": 2,
+      "name": {
+        "local": "บางพลัด",
+        "en": "Bang Phlat",
+        "slug": "bang-phlat-1025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1025",
+        "level": 2,
+        "name": {
+          "local": "บางพลัด",
+          "en": "Bang Phlat",
+          "slug": "bang-phlat-1025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10700"
+    ],
+    "geo": {
+      "lat": "13.802",
+      "lon": "100.512"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "102501",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางพลัด",
+      "en": "Bang Phlat",
+      "slug": "bang-phlat-102501"
+    },
+    "code": {
+      "id": "102501",
+      "iso": null
+    },
+    "parent": {
+      "id": "1025",
+      "level": 2,
+      "name": {
+        "local": "บางพลัด",
+        "en": "Bang Phlat",
+        "slug": "bang-phlat-1025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1025",
+        "level": 2,
+        "name": {
+          "local": "บางพลัด",
+          "en": "Bang Phlat",
+          "slug": "bang-phlat-1025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10700"
+    ],
+    "geo": {
+      "lat": "13.791",
+      "lon": "100.487"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "102504",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางยี่ขัน",
+      "en": "Bang Yi Khan",
+      "slug": "bang-yi-khan-102504"
+    },
+    "code": {
+      "id": "102504",
+      "iso": null
+    },
+    "parent": {
+      "id": "1025",
+      "level": 2,
+      "name": {
+        "local": "บางพลัด",
+        "en": "Bang Phlat",
+        "slug": "bang-phlat-1025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1025",
+        "level": 2,
+        "name": {
+          "local": "บางพลัด",
+          "en": "Bang Phlat",
+          "slug": "bang-phlat-1025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10700"
+    ],
+    "geo": {
+      "lat": "13.774",
+      "lon": "100.492"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

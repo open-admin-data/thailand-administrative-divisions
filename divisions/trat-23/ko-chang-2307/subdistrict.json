@@ -1,0 +1,114 @@
+[
+  {
+    "id": "230701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เกาะช้าง",
+      "en": "Ko Chang",
+      "slug": "ko-chang-230701"
+    },
+    "code": {
+      "id": "230701",
+      "iso": null
+    },
+    "parent": {
+      "id": "2307",
+      "level": 2,
+      "name": {
+        "local": "เกาะช้าง",
+        "en": "Ko Chang",
+        "slug": "ko-chang-2307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2307",
+        "level": 2,
+        "name": {
+          "local": "เกาะช้าง",
+          "en": "Ko Chang",
+          "slug": "ko-chang-2307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23170"
+    ],
+    "geo": {
+      "lat": "12.07",
+      "lon": "102.321"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "230702",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เกาะช้างใต้",
+      "en": "Ko Chang Tai",
+      "slug": "ko-chang-tai-230702"
+    },
+    "code": {
+      "id": "230702",
+      "iso": null
+    },
+    "parent": {
+      "id": "2307",
+      "level": 2,
+      "name": {
+        "local": "เกาะช้าง",
+        "en": "Ko Chang",
+        "slug": "ko-chang-2307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2307",
+        "level": 2,
+        "name": {
+          "local": "เกาะช้าง",
+          "en": "Ko Chang",
+          "slug": "ko-chang-2307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23170"
+    ],
+    "geo": {
+      "lat": "11.996",
+      "lon": "102.331"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

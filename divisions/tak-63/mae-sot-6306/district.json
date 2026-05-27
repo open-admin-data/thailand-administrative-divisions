@@ -1,0 +1,47 @@
+{
+  "id": "6306",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "แม่สอด",
+    "en": "Mae Sot",
+    "slug": "mae-sot-6306"
+  },
+  "code": {
+    "id": "6306",
+    "iso": null
+  },
+  "parent": {
+    "id": "63",
+    "level": 1,
+    "name": {
+      "local": "ตาก",
+      "en": "Tak",
+      "slug": "tak-63"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "ตาก",
+        "en": "Tak",
+        "slug": "tak-63"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.716",
+    "lon": "98.573"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1304",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "หนองเสือ",
+    "en": "Nong Suea",
+    "slug": "nong-suea-1304"
+  },
+  "code": {
+    "id": "1304",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani-13"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.087",
+    "lon": "100.778"
+  },
+  "metadata": {},
+  "source": {}
+}

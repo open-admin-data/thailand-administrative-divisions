@@ -1,0 +1,58 @@
+[
+  {
+    "id": "102701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองกุ่ม",
+      "en": "Khlong Kum",
+      "slug": "khlong-kum-102701"
+    },
+    "code": {
+      "id": "102701",
+      "iso": null
+    },
+    "parent": {
+      "id": "1027",
+      "level": 2,
+      "name": {
+        "local": "บึงกุ่ม",
+        "en": "Bueng Kum",
+        "slug": "bueng-kum-1027"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1027",
+        "level": 2,
+        "name": {
+          "local": "บึงกุ่ม",
+          "en": "Bueng Kum",
+          "slug": "bueng-kum-1027"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10240"
+    ],
+    "geo": {
+      "lat": "13.808",
+      "lon": "100.65"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

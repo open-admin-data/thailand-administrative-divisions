@@ -1,0 +1,47 @@
+{
+  "id": "7402",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "กระทุ่มแบน",
+    "en": "Krathum Baen",
+    "slug": "krathum-baen-7402"
+  },
+  "code": {
+    "id": "7402",
+    "iso": null
+  },
+  "parent": {
+    "id": "74",
+    "level": 1,
+    "name": {
+      "local": "สมุทรสาคร",
+      "en": "Samut Sakhon",
+      "slug": "samut-sakhon-74"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "สมุทรสาคร",
+        "en": "Samut Sakhon",
+        "slug": "samut-sakhon-74"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.654",
+    "lon": "100.25"
+  },
+  "metadata": {},
+  "source": {}
+}

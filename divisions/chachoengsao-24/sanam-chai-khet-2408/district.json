@@ -1,0 +1,47 @@
+{
+  "id": "2408",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สนามชัยเขต",
+    "en": "Sanam Chai Khet",
+    "slug": "sanam-chai-khet-2408"
+  },
+  "code": {
+    "id": "2408",
+    "iso": null
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "local": "ฉะเชิงเทรา",
+      "en": "Chachoengsao",
+      "slug": "chachoengsao-24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao-24"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.644",
+    "lon": "101.461"
+  },
+  "metadata": {},
+  "source": {}
+}

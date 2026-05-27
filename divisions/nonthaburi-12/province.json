@@ -1,0 +1,30 @@
+{
+  "id": "12",
+  "level": 1,
+  "level_name": {
+    "local": "จังหวัด",
+    "en": "Province"
+  },
+  "name": {
+    "local": "นนทบุรี",
+    "en": "Nonthaburi",
+    "slug": "nonthaburi-12"
+  },
+  "code": {
+    "id": "12",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "subdistrict": 52
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.914",
+    "lon": "100.422"
+  },
+  "metadata": {},
+  "source": {}
+}

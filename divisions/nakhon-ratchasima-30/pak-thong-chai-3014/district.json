@@ -1,0 +1,47 @@
+{
+  "id": "3014",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ปักธงชัย",
+    "en": "Pak Thong Chai",
+    "slug": "pak-thong-chai-3014"
+  },
+  "code": {
+    "id": "3014",
+    "iso": null
+  },
+  "parent": {
+    "id": "30",
+    "level": 1,
+    "name": {
+      "local": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima-30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "local": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima-30"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.663",
+    "lon": "102.046"
+  },
+  "metadata": {},
+  "source": {}
+}

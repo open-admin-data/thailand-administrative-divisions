@@ -1,0 +1,47 @@
+{
+  "id": "6710",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "วังโป่ง",
+    "en": "Wang Pong",
+    "slug": "wang-pong-6710"
+  },
+  "code": {
+    "id": "6710",
+    "iso": null
+  },
+  "parent": {
+    "id": "67",
+    "level": 1,
+    "name": {
+      "local": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun-67"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "local": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun-67"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.297",
+    "lon": "100.678"
+  },
+  "metadata": {},
+  "source": {}
+}

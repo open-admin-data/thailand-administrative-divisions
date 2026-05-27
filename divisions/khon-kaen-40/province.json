@@ -1,0 +1,30 @@
+{
+  "id": "40",
+  "level": 1,
+  "level_name": {
+    "local": "จังหวัด",
+    "en": "Province"
+  },
+  "name": {
+    "local": "ขอนแก่น",
+    "en": "Khon Kaen",
+    "slug": "khon-kaen-40"
+  },
+  "code": {
+    "id": "40",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 26,
+    "subdistrict": 199
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.035",
+    "lon": "102.723"
+  },
+  "metadata": {},
+  "source": {}
+}

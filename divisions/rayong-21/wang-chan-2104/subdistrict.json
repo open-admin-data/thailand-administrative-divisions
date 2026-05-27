@@ -1,0 +1,226 @@
+[
+  {
+    "id": "210402",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ชุมแสง",
+      "en": "Chum Saeng",
+      "slug": "chum-saeng-210402"
+    },
+    "code": {
+      "id": "210402",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "วังจันทร์",
+        "en": "Wang Chan",
+        "slug": "wang-chan-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "วังจันทร์",
+          "en": "Wang Chan",
+          "slug": "wang-chan-2104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21210"
+    ],
+    "geo": {
+      "lat": "12.956",
+      "lon": "101.526"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210403",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ป่ายุบใน",
+      "en": "Pa Yup Nai",
+      "slug": "pa-yup-nai-210403"
+    },
+    "code": {
+      "id": "210403",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "วังจันทร์",
+        "en": "Wang Chan",
+        "slug": "wang-chan-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "วังจันทร์",
+          "en": "Wang Chan",
+          "slug": "wang-chan-2104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21210"
+    ],
+    "geo": {
+      "lat": "13.005",
+      "lon": "101.479"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210404",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "พลงตาเอี่ยม",
+      "en": "Phlong Ta Iam",
+      "slug": "phlong-ta-iam-210404"
+    },
+    "code": {
+      "id": "210404",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "วังจันทร์",
+        "en": "Wang Chan",
+        "slug": "wang-chan-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "วังจันทร์",
+          "en": "Wang Chan",
+          "slug": "wang-chan-2104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21210"
+    ],
+    "geo": {
+      "lat": "12.912",
+      "lon": "101.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังจันทร์",
+      "en": "Wang Chan",
+      "slug": "wang-chan-210401"
+    },
+    "code": {
+      "id": "210401",
+      "iso": null
+    },
+    "parent": {
+      "id": "2104",
+      "level": 2,
+      "name": {
+        "local": "วังจันทร์",
+        "en": "Wang Chan",
+        "slug": "wang-chan-2104"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2104",
+        "level": 2,
+        "name": {
+          "local": "วังจันทร์",
+          "en": "Wang Chan",
+          "slug": "wang-chan-2104"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21210"
+    ],
+    "geo": {
+      "lat": "12.858",
+      "lon": "101.528"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

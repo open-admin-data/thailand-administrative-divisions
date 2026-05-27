@@ -1,0 +1,47 @@
+{
+  "id": "1903",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "หนองแค",
+    "en": "Nong Khae",
+    "slug": "nong-khae-1903"
+  },
+  "code": {
+    "id": "1903",
+    "iso": null
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "local": "สระบุรี",
+      "en": "Saraburi",
+      "slug": "saraburi-19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi-19"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.337",
+    "lon": "100.869"
+  },
+  "metadata": {},
+  "source": {}
+}

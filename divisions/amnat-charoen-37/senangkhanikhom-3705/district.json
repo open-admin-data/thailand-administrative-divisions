@@ -1,0 +1,47 @@
+{
+  "id": "3705",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เสนางคนิคม",
+    "en": "Senangkhanikhom",
+    "slug": "senangkhanikhom-3705"
+  },
+  "code": {
+    "id": "3705",
+    "iso": null
+  },
+  "parent": {
+    "id": "37",
+    "level": 1,
+    "name": {
+      "local": "อำนาจเจริญ",
+      "en": "Amnat Charoen",
+      "slug": "amnat-charoen-37"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen-37"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.05",
+    "lon": "104.616"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "5006",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "แม่แตง",
+    "en": "Mae Taeng",
+    "slug": "mae-taeng-5006"
+  },
+  "code": {
+    "id": "5006",
+    "iso": null
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "local": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai-50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "local": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai-50"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.144",
+    "lon": "99.024"
+  },
+  "metadata": {},
+  "source": {}
+}

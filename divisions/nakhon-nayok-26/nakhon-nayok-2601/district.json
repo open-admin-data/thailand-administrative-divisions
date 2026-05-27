@@ -1,0 +1,47 @@
+{
+  "id": "2601",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองนครนายก",
+    "en": "Nakhon Nayok",
+    "slug": "nakhon-nayok-2601"
+  },
+  "code": {
+    "id": "2601",
+    "iso": null
+  },
+  "parent": {
+    "id": "26",
+    "level": 1,
+    "name": {
+      "local": "นครนายก",
+      "en": "Nakhon Nayok",
+      "slug": "nakhon-nayok-26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "local": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok-26"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.204",
+    "lon": "101.219"
+  },
+  "metadata": {},
+  "source": {}
+}

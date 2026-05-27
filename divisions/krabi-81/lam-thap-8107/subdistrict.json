@@ -1,0 +1,226 @@
+[
+  {
+    "id": "810704",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดินแดง",
+      "en": "Din Daeng",
+      "slug": "din-daeng-810704"
+    },
+    "code": {
+      "id": "810704",
+      "iso": null
+    },
+    "parent": {
+      "id": "8107",
+      "level": 2,
+      "name": {
+        "local": "ลำทับ",
+        "en": "Lam Thap",
+        "slug": "lam-thap-8107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "กระบี่",
+          "en": "Krabi",
+          "slug": "krabi-81"
+        }
+      },
+      {
+        "id": "8107",
+        "level": 2,
+        "name": {
+          "local": "ลำทับ",
+          "en": "Lam Thap",
+          "slug": "lam-thap-8107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81120"
+    ],
+    "geo": {
+      "lat": "8.011",
+      "lon": "99.373"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "810702",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดินอุดม",
+      "en": "Din Udom",
+      "slug": "din-udom-810702"
+    },
+    "code": {
+      "id": "810702",
+      "iso": null
+    },
+    "parent": {
+      "id": "8107",
+      "level": 2,
+      "name": {
+        "local": "ลำทับ",
+        "en": "Lam Thap",
+        "slug": "lam-thap-8107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "กระบี่",
+          "en": "Krabi",
+          "slug": "krabi-81"
+        }
+      },
+      {
+        "id": "8107",
+        "level": 2,
+        "name": {
+          "local": "ลำทับ",
+          "en": "Lam Thap",
+          "slug": "lam-thap-8107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81120"
+    ],
+    "geo": {
+      "lat": "8.1",
+      "lon": "99.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "810701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ลำทับ",
+      "en": "Lam Thap",
+      "slug": "lam-thap-810701"
+    },
+    "code": {
+      "id": "810701",
+      "iso": null
+    },
+    "parent": {
+      "id": "8107",
+      "level": 2,
+      "name": {
+        "local": "ลำทับ",
+        "en": "Lam Thap",
+        "slug": "lam-thap-8107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "กระบี่",
+          "en": "Krabi",
+          "slug": "krabi-81"
+        }
+      },
+      {
+        "id": "8107",
+        "level": 2,
+        "name": {
+          "local": "ลำทับ",
+          "en": "Lam Thap",
+          "slug": "lam-thap-8107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81120"
+    ],
+    "geo": {
+      "lat": "7.96",
+      "lon": "99.348"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "810703",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งไทรทอง",
+      "en": "Thung Sai Thong",
+      "slug": "thung-sai-thong-810703"
+    },
+    "code": {
+      "id": "810703",
+      "iso": null
+    },
+    "parent": {
+      "id": "8107",
+      "level": 2,
+      "name": {
+        "local": "ลำทับ",
+        "en": "Lam Thap",
+        "slug": "lam-thap-8107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "81",
+        "level": 1,
+        "name": {
+          "local": "กระบี่",
+          "en": "Krabi",
+          "slug": "krabi-81"
+        }
+      },
+      {
+        "id": "8107",
+        "level": 2,
+        "name": {
+          "local": "ลำทับ",
+          "en": "Lam Thap",
+          "slug": "lam-thap-8107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "81120"
+    ],
+    "geo": {
+      "lat": "8.004",
+      "lon": "99.311"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

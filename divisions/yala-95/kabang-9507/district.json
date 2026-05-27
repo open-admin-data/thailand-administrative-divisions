@@ -1,0 +1,47 @@
+{
+  "id": "9507",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "กาบัง",
+    "en": "Kabang",
+    "slug": "kabang-9507"
+  },
+  "code": {
+    "id": "9507",
+    "iso": null
+  },
+  "parent": {
+    "id": "95",
+    "level": 1,
+    "name": {
+      "local": "ยะลา",
+      "en": "Yala",
+      "slug": "yala-95"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "local": "ยะลา",
+        "en": "Yala",
+        "slug": "yala-95"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.449",
+    "lon": "101"
+  },
+  "metadata": {},
+  "source": {}
+}

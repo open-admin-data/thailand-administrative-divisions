@@ -1,0 +1,954 @@
+[
+  {
+    "id": "530111",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านด่าน",
+      "en": "Ban Dan",
+      "slug": "ban-dan-530111"
+    },
+    "code": {
+      "id": "530111",
+      "iso": null
+    },
+    "parent": {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit-5301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5301",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุตรดิตถ์",
+          "en": "Mueang Uttaradit",
+          "slug": "mueang-uttaradit-5301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53000"
+    ],
+    "geo": {
+      "lat": "17.663",
+      "lon": "100.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530110",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านด่านนาขาม",
+      "en": "Ban Dan Na Kham",
+      "slug": "ban-dan-na-kham-530110"
+    },
+    "code": {
+      "id": "530110",
+      "iso": null
+    },
+    "parent": {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit-5301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5301",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุตรดิตถ์",
+          "en": "Mueang Uttaradit",
+          "slug": "mueang-uttaradit-5301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53000"
+    ],
+    "geo": {
+      "lat": "17.784",
+      "lon": "100.161"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530103",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านเกาะ",
+      "en": "Ban Ko",
+      "slug": "ban-ko-530103"
+    },
+    "code": {
+      "id": "530103",
+      "iso": null
+    },
+    "parent": {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit-5301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5301",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุตรดิตถ์",
+          "en": "Mueang Uttaradit",
+          "slug": "mueang-uttaradit-5301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53000"
+    ],
+    "geo": {
+      "lat": "17.579",
+      "lon": "100.117"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530107",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หาดกรวด",
+      "en": "Hat Kruat",
+      "slug": "hat-kruat-530107"
+    },
+    "code": {
+      "id": "530107",
+      "iso": null
+    },
+    "parent": {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit-5301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5301",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุตรดิตถ์",
+          "en": "Mueang Uttaradit",
+          "slug": "mueang-uttaradit-5301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53000"
+    ],
+    "geo": {
+      "lat": "17.562",
+      "lon": "100.199"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530115",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หาดงิ้ว",
+      "en": "Hat Ngio",
+      "slug": "hat-ngio-530115"
+    },
+    "code": {
+      "id": "530115",
+      "iso": null
+    },
+    "parent": {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit-5301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5301",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุตรดิตถ์",
+          "en": "Mueang Uttaradit",
+          "slug": "mueang-uttaradit-5301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53000"
+    ],
+    "geo": {
+      "lat": "17.681",
+      "lon": "100.337"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530116",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ขุนฝาง",
+      "en": "Khun Fang",
+      "slug": "khun-fang-530116"
+    },
+    "code": {
+      "id": "530116",
+      "iso": null
+    },
+    "parent": {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit-5301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5301",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุตรดิตถ์",
+          "en": "Mueang Uttaradit",
+          "slug": "mueang-uttaradit-5301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53000"
+    ],
+    "geo": {
+      "lat": "17.76",
+      "lon": "100.223"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530105",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คุ้งตะเภา",
+      "en": "Khung Taphao",
+      "slug": "khung-taphao-530105"
+    },
+    "code": {
+      "id": "530105",
+      "iso": null
+    },
+    "parent": {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit-5301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5301",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุตรดิตถ์",
+          "en": "Mueang Uttaradit",
+          "slug": "mueang-uttaradit-5301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53000"
+    ],
+    "geo": {
+      "lat": "17.641",
+      "lon": "100.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530108",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "น้ำริด",
+      "en": "Nam Rit",
+      "slug": "nam-rit-530108"
+    },
+    "code": {
+      "id": "530108",
+      "iso": null
+    },
+    "parent": {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit-5301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5301",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุตรดิตถ์",
+          "en": "Mueang Uttaradit",
+          "slug": "mueang-uttaradit-5301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53000"
+    ],
+    "geo": {
+      "lat": "17.684",
+      "lon": "100.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530109",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "งิ้วงาม",
+      "en": "Ngio Ngam",
+      "slug": "ngio-ngam-530109"
+    },
+    "code": {
+      "id": "530109",
+      "iso": null
+    },
+    "parent": {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit-5301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5301",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุตรดิตถ์",
+          "en": "Mueang Uttaradit",
+          "slug": "mueang-uttaradit-5301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53000"
+    ],
+    "geo": {
+      "lat": "17.702",
+      "lon": "100.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530104",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ป่าเซ่า",
+      "en": "Pa Sao",
+      "slug": "pa-sao-530104"
+    },
+    "code": {
+      "id": "530104",
+      "iso": null
+    },
+    "parent": {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit-5301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5301",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุตรดิตถ์",
+          "en": "Mueang Uttaradit",
+          "slug": "mueang-uttaradit-5301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53000"
+    ],
+    "geo": {
+      "lat": "17.6",
+      "lon": "100.16"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530112",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ผาจุก",
+      "en": "Pha Chuk",
+      "slug": "pha-chuk-530112"
+    },
+    "code": {
+      "id": "530112",
+      "iso": null
+    },
+    "parent": {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit-5301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5301",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุตรดิตถ์",
+          "en": "Mueang Uttaradit",
+          "slug": "mueang-uttaradit-5301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53000"
+    ],
+    "geo": {
+      "lat": "17.639",
+      "lon": "100.243"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530114",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แสนตอ",
+      "en": "Saen To",
+      "slug": "saen-to-530114"
+    },
+    "code": {
+      "id": "530114",
+      "iso": null
+    },
+    "parent": {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit-5301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5301",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุตรดิตถ์",
+          "en": "Mueang Uttaradit",
+          "slug": "mueang-uttaradit-5301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53000"
+    ],
+    "geo": {
+      "lat": "17.651",
+      "lon": "100.365"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530101",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าอิฐ",
+      "en": "Tha It",
+      "slug": "tha-it-530101"
+    },
+    "code": {
+      "id": "530101",
+      "iso": null
+    },
+    "parent": {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit-5301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5301",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุตรดิตถ์",
+          "en": "Mueang Uttaradit",
+          "slug": "mueang-uttaradit-5301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53000"
+    ],
+    "geo": {
+      "lat": "17.613",
+      "lon": "100.079"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530102",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าเสา",
+      "en": "Tha Sao",
+      "slug": "tha-sao-530102"
+    },
+    "code": {
+      "id": "530102",
+      "iso": null
+    },
+    "parent": {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit-5301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5301",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุตรดิตถ์",
+          "en": "Mueang Uttaradit",
+          "slug": "mueang-uttaradit-5301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53000"
+    ],
+    "geo": {
+      "lat": "17.652",
+      "lon": "100.086"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530117",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ถ้ำฉลอง",
+      "en": "Tham Chalong",
+      "slug": "tham-chalong-530117"
+    },
+    "code": {
+      "id": "530117",
+      "iso": null
+    },
+    "parent": {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit-5301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5301",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุตรดิตถ์",
+          "en": "Mueang Uttaradit",
+          "slug": "mueang-uttaradit-5301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53000"
+    ],
+    "geo": {
+      "lat": "17.606",
+      "lon": "100.36"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530113",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังดิน",
+      "en": "Wang Din",
+      "slug": "wang-din-530113"
+    },
+    "code": {
+      "id": "530113",
+      "iso": null
+    },
+    "parent": {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit-5301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5301",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุตรดิตถ์",
+          "en": "Mueang Uttaradit",
+          "slug": "mueang-uttaradit-5301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53000"
+    ],
+    "geo": {
+      "lat": "17.737",
+      "lon": "100.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "530106",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังกะพี้",
+      "en": "Wang Kaphi",
+      "slug": "wang-kaphi-530106"
+    },
+    "code": {
+      "id": "530106",
+      "iso": null
+    },
+    "parent": {
+      "id": "5301",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุตรดิตถ์",
+        "en": "Mueang Uttaradit",
+        "slug": "mueang-uttaradit-5301"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "53",
+        "level": 1,
+        "name": {
+          "local": "อุตรดิตถ์",
+          "en": "Uttaradit",
+          "slug": "uttaradit-53"
+        }
+      },
+      {
+        "id": "5301",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุตรดิตถ์",
+          "en": "Mueang Uttaradit",
+          "slug": "mueang-uttaradit-5301"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "53170"
+    ],
+    "geo": {
+      "lat": "17.545",
+      "lon": "100.079"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

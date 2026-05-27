@@ -1,0 +1,450 @@
+[
+  {
+    "id": "230301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เขาสมิง",
+      "en": "Khao Saming",
+      "slug": "khao-saming-230301"
+    },
+    "code": {
+      "id": "230301",
+      "iso": null
+    },
+    "parent": {
+      "id": "2303",
+      "level": 2,
+      "name": {
+        "local": "เขาสมิง",
+        "en": "Khao Saming",
+        "slug": "khao-saming-2303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2303",
+        "level": 2,
+        "name": {
+          "local": "เขาสมิง",
+          "en": "Khao Saming",
+          "slug": "khao-saming-2303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23130"
+    ],
+    "geo": {
+      "lat": "12.34",
+      "lon": "102.437"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "230306",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ประณีต",
+      "en": "Pranit",
+      "slug": "pranit-230306"
+    },
+    "code": {
+      "id": "230306",
+      "iso": null
+    },
+    "parent": {
+      "id": "2303",
+      "level": 2,
+      "name": {
+        "local": "เขาสมิง",
+        "en": "Khao Saming",
+        "slug": "khao-saming-2303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2303",
+        "level": 2,
+        "name": {
+          "local": "เขาสมิง",
+          "en": "Khao Saming",
+          "slug": "khao-saming-2303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23150"
+    ],
+    "geo": {
+      "lat": "12.525",
+      "lon": "102.359"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "230302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แสนตุ้ง",
+      "en": "Saen Tung",
+      "slug": "saen-tung-230302"
+    },
+    "code": {
+      "id": "230302",
+      "iso": null
+    },
+    "parent": {
+      "id": "2303",
+      "level": 2,
+      "name": {
+        "local": "เขาสมิง",
+        "en": "Khao Saming",
+        "slug": "khao-saming-2303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2303",
+        "level": 2,
+        "name": {
+          "local": "เขาสมิง",
+          "en": "Khao Saming",
+          "slug": "khao-saming-2303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23150"
+    ],
+    "geo": {
+      "lat": "12.398",
+      "lon": "102.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "230305",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สะตอ",
+      "en": "Sato",
+      "slug": "sato-230305"
+    },
+    "code": {
+      "id": "230305",
+      "iso": null
+    },
+    "parent": {
+      "id": "2303",
+      "level": 2,
+      "name": {
+        "local": "เขาสมิง",
+        "en": "Khao Saming",
+        "slug": "khao-saming-2303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2303",
+        "level": 2,
+        "name": {
+          "local": "เขาสมิง",
+          "en": "Khao Saming",
+          "slug": "khao-saming-2303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23150"
+    ],
+    "geo": {
+      "lat": "12.553",
+      "lon": "102.434"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "230304",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าโสม",
+      "en": "Tha Som",
+      "slug": "tha-som-230304"
+    },
+    "code": {
+      "id": "230304",
+      "iso": null
+    },
+    "parent": {
+      "id": "2303",
+      "level": 2,
+      "name": {
+        "local": "เขาสมิง",
+        "en": "Khao Saming",
+        "slug": "khao-saming-2303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2303",
+        "level": 2,
+        "name": {
+          "local": "เขาสมิง",
+          "en": "Khao Saming",
+          "slug": "khao-saming-2303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23150"
+    ],
+    "geo": {
+      "lat": "12.296",
+      "lon": "102.346"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "230307",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เทพนิมิต",
+      "en": "Thep Nimit",
+      "slug": "thep-nimit-230307"
+    },
+    "code": {
+      "id": "230307",
+      "iso": null
+    },
+    "parent": {
+      "id": "2303",
+      "level": 2,
+      "name": {
+        "local": "เขาสมิง",
+        "en": "Khao Saming",
+        "slug": "khao-saming-2303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2303",
+        "level": 2,
+        "name": {
+          "local": "เขาสมิง",
+          "en": "Khao Saming",
+          "slug": "khao-saming-2303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23150"
+    ],
+    "geo": {
+      "lat": "12.469",
+      "lon": "102.435"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "230308",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งนนทรี",
+      "en": "Thung Nonsi",
+      "slug": "thung-nonsi-230308"
+    },
+    "code": {
+      "id": "230308",
+      "iso": null
+    },
+    "parent": {
+      "id": "2303",
+      "level": 2,
+      "name": {
+        "local": "เขาสมิง",
+        "en": "Khao Saming",
+        "slug": "khao-saming-2303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2303",
+        "level": 2,
+        "name": {
+          "local": "เขาสมิง",
+          "en": "Khao Saming",
+          "slug": "khao-saming-2303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23130"
+    ],
+    "geo": {
+      "lat": "12.405",
+      "lon": "102.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "230303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังตะเคียน",
+      "en": "Wang Takhian",
+      "slug": "wang-takhian-230303"
+    },
+    "code": {
+      "id": "230303",
+      "iso": null
+    },
+    "parent": {
+      "id": "2303",
+      "level": 2,
+      "name": {
+        "local": "เขาสมิง",
+        "en": "Khao Saming",
+        "slug": "khao-saming-2303"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2303",
+        "level": 2,
+        "name": {
+          "local": "เขาสมิง",
+          "en": "Khao Saming",
+          "slug": "khao-saming-2303"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23130"
+    ],
+    "geo": {
+      "lat": "12.478",
+      "lon": "102.531"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

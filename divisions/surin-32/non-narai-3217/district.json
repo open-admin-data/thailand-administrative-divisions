@@ -1,0 +1,47 @@
+{
+  "id": "3217",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "โนนนารายณ์",
+    "en": "Non Narai",
+    "slug": "non-narai-3217"
+  },
+  "code": {
+    "id": "3217",
+    "iso": null
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "local": "สุรินทร์",
+      "en": "Surin",
+      "slug": "surin-32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin-32"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.228",
+    "lon": "103.927"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "3116",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ห้วยราช",
+    "en": "Huai Rat",
+    "slug": "huai-rat-3116"
+  },
+  "code": {
+    "id": "3116",
+    "iso": null
+  },
+  "parent": {
+    "id": "31",
+    "level": 1,
+    "name": {
+      "local": "บุรีรัมย์",
+      "en": "Buri Ram",
+      "slug": "buri-ram-31"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "31",
+      "level": 1,
+      "name": {
+        "local": "บุรีรัมย์",
+        "en": "Buri Ram",
+        "slug": "buri-ram-31"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.982",
+    "lon": "103.203"
+  },
+  "metadata": {},
+  "source": {}
+}

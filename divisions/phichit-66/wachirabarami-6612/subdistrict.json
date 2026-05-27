@@ -1,0 +1,226 @@
+[
+  {
+    "id": "661201",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านนา",
+      "en": "Ban Na",
+      "slug": "ban-na-661201"
+    },
+    "code": {
+      "id": "661201",
+      "iso": null
+    },
+    "parent": {
+      "id": "6612",
+      "level": 2,
+      "name": {
+        "local": "วชิรบารมี",
+        "en": "Wachirabarami",
+        "slug": "wachirabarami-6612"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "พิจิตร",
+          "en": "Phichit",
+          "slug": "phichit-66"
+        }
+      },
+      {
+        "id": "6612",
+        "level": 2,
+        "name": {
+          "local": "วชิรบารมี",
+          "en": "Wachirabarami",
+          "slug": "wachirabarami-6612"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66140"
+    ],
+    "geo": {
+      "lat": "16.495",
+      "lon": "100.128"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "661202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บึงบัว",
+      "en": "Bueng Bua",
+      "slug": "bueng-bua-661202"
+    },
+    "code": {
+      "id": "661202",
+      "iso": null
+    },
+    "parent": {
+      "id": "6612",
+      "level": 2,
+      "name": {
+        "local": "วชิรบารมี",
+        "en": "Wachirabarami",
+        "slug": "wachirabarami-6612"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "พิจิตร",
+          "en": "Phichit",
+          "slug": "phichit-66"
+        }
+      },
+      {
+        "id": "6612",
+        "level": 2,
+        "name": {
+          "local": "วชิรบารมี",
+          "en": "Wachirabarami",
+          "slug": "wachirabarami-6612"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66140"
+    ],
+    "geo": {
+      "lat": "16.484",
+      "lon": "100.053"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "661204",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองหลุม",
+      "en": "Nong Lum",
+      "slug": "nong-lum-661204"
+    },
+    "code": {
+      "id": "661204",
+      "iso": null
+    },
+    "parent": {
+      "id": "6612",
+      "level": 2,
+      "name": {
+        "local": "วชิรบารมี",
+        "en": "Wachirabarami",
+        "slug": "wachirabarami-6612"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "พิจิตร",
+          "en": "Phichit",
+          "slug": "phichit-66"
+        }
+      },
+      {
+        "id": "6612",
+        "level": 2,
+        "name": {
+          "local": "วชิรบารมี",
+          "en": "Wachirabarami",
+          "slug": "wachirabarami-6612"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66220"
+    ],
+    "geo": {
+      "lat": "16.597",
+      "lon": "100.114"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "661203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังโมกข์",
+      "en": "Wang Mok",
+      "slug": "wang-mok-661203"
+    },
+    "code": {
+      "id": "661203",
+      "iso": null
+    },
+    "parent": {
+      "id": "6612",
+      "level": 2,
+      "name": {
+        "local": "วชิรบารมี",
+        "en": "Wachirabarami",
+        "slug": "wachirabarami-6612"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "พิจิตร",
+          "en": "Phichit",
+          "slug": "phichit-66"
+        }
+      },
+      {
+        "id": "6612",
+        "level": 2,
+        "name": {
+          "local": "วชิรบารมี",
+          "en": "Wachirabarami",
+          "slug": "wachirabarami-6612"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66140"
+    ],
+    "geo": {
+      "lat": "16.563",
+      "lon": "100.091"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

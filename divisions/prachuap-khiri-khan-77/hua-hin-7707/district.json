@@ -1,0 +1,47 @@
+{
+  "id": "7707",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "หัวหิน",
+    "en": "Hua Hin",
+    "slug": "hua-hin-7707"
+  },
+  "code": {
+    "id": "7707",
+    "iso": null
+  },
+  "parent": {
+    "id": "77",
+    "level": 1,
+    "name": {
+      "local": "ประจวบคีรีขันธ์",
+      "en": "Prachuap Khiri Khan",
+      "slug": "prachuap-khiri-khan-77"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "local": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan-77"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.592",
+    "lon": "99.94"
+  },
+  "metadata": {},
+  "source": {}
+}

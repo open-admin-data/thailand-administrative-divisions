@@ -1,0 +1,47 @@
+{
+  "id": "9201",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองตรัง",
+    "en": "Mueang Trang",
+    "slug": "mueang-trang-9201"
+  },
+  "code": {
+    "id": "9201",
+    "iso": null
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "local": "ตรัง",
+      "en": "Trang",
+      "slug": "trang-92"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "ตรัง",
+        "en": "Trang",
+        "slug": "trang-92"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.599",
+    "lon": "99.664"
+  },
+  "metadata": {},
+  "source": {}
+}

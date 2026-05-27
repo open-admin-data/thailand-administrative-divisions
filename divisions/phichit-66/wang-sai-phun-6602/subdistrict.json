@@ -1,0 +1,226 @@
+[
+  {
+    "id": "660203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองพระ",
+      "en": "Nong Phra",
+      "slug": "nong-phra-660203"
+    },
+    "code": {
+      "id": "660203",
+      "iso": null
+    },
+    "parent": {
+      "id": "6602",
+      "level": 2,
+      "name": {
+        "local": "วังทรายพูน",
+        "en": "Wang Sai Phun",
+        "slug": "wang-sai-phun-6602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "พิจิตร",
+          "en": "Phichit",
+          "slug": "phichit-66"
+        }
+      },
+      {
+        "id": "6602",
+        "level": 2,
+        "name": {
+          "local": "วังทรายพูน",
+          "en": "Wang Sai Phun",
+          "slug": "wang-sai-phun-6602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66180"
+    ],
+    "geo": {
+      "lat": "16.342",
+      "lon": "100.566"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "660202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองปลาไหล",
+      "en": "Nong Pla Lai",
+      "slug": "nong-pla-lai-660202"
+    },
+    "code": {
+      "id": "660202",
+      "iso": null
+    },
+    "parent": {
+      "id": "6602",
+      "level": 2,
+      "name": {
+        "local": "วังทรายพูน",
+        "en": "Wang Sai Phun",
+        "slug": "wang-sai-phun-6602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "พิจิตร",
+          "en": "Phichit",
+          "slug": "phichit-66"
+        }
+      },
+      {
+        "id": "6602",
+        "level": 2,
+        "name": {
+          "local": "วังทรายพูน",
+          "en": "Wang Sai Phun",
+          "slug": "wang-sai-phun-6602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66180"
+    ],
+    "geo": {
+      "lat": "16.443",
+      "lon": "100.535"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "660204",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองปล้อง",
+      "en": "Nong Plong",
+      "slug": "nong-plong-660204"
+    },
+    "code": {
+      "id": "660204",
+      "iso": null
+    },
+    "parent": {
+      "id": "6602",
+      "level": 2,
+      "name": {
+        "local": "วังทรายพูน",
+        "en": "Wang Sai Phun",
+        "slug": "wang-sai-phun-6602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "พิจิตร",
+          "en": "Phichit",
+          "slug": "phichit-66"
+        }
+      },
+      {
+        "id": "6602",
+        "level": 2,
+        "name": {
+          "local": "วังทรายพูน",
+          "en": "Wang Sai Phun",
+          "slug": "wang-sai-phun-6602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66180"
+    ],
+    "geo": {
+      "lat": "16.339",
+      "lon": "100.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "660201",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังทรายพูน",
+      "en": "Wang Sai Phun",
+      "slug": "wang-sai-phun-660201"
+    },
+    "code": {
+      "id": "660201",
+      "iso": null
+    },
+    "parent": {
+      "id": "6602",
+      "level": 2,
+      "name": {
+        "local": "วังทรายพูน",
+        "en": "Wang Sai Phun",
+        "slug": "wang-sai-phun-6602"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "พิจิตร",
+          "en": "Phichit",
+          "slug": "phichit-66"
+        }
+      },
+      {
+        "id": "6602",
+        "level": 2,
+        "name": {
+          "local": "วังทรายพูน",
+          "en": "Wang Sai Phun",
+          "slug": "wang-sai-phun-6602"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66180"
+    ],
+    "geo": {
+      "lat": "16.383",
+      "lon": "100.605"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

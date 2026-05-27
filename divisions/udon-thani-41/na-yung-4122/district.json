@@ -1,0 +1,47 @@
+{
+  "id": "4122",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "นายูง",
+    "en": "Na Yung",
+    "slug": "na-yung-4122"
+  },
+  "code": {
+    "id": "4122",
+    "iso": null
+  },
+  "parent": {
+    "id": "41",
+    "level": 1,
+    "name": {
+      "local": "อุดรธานี",
+      "en": "Udon Thani",
+      "slug": "udon-thani-41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "local": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani-41"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.916",
+    "lon": "102.213"
+  },
+  "metadata": {},
+  "source": {}
+}

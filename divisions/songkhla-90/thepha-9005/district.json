@@ -1,0 +1,47 @@
+{
+  "id": "9005",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เทพา",
+    "en": "Thepha",
+    "slug": "thepha-9005"
+  },
+  "code": {
+    "id": "9005",
+    "iso": null
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "local": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla-90"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.82",
+    "lon": "100.94"
+  },
+  "metadata": {},
+  "source": {}
+}

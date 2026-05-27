@@ -1,0 +1,47 @@
+{
+  "id": "9003",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "จะนะ",
+    "en": "Chana",
+    "slug": "chana-9003"
+  },
+  "code": {
+    "id": "9003",
+    "iso": null
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "local": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla-90"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.794",
+    "lon": "100.7"
+  },
+  "metadata": {},
+  "source": {}
+}

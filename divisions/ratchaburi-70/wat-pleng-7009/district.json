@@ -1,0 +1,47 @@
+{
+  "id": "7009",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "วัดเพลง",
+    "en": "Wat Pleng",
+    "slug": "wat-pleng-7009"
+  },
+  "code": {
+    "id": "7009",
+    "iso": null
+  },
+  "parent": {
+    "id": "70",
+    "level": 1,
+    "name": {
+      "local": "ราชบุรี",
+      "en": "Ratchaburi",
+      "slug": "ratchaburi-70"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "local": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi-70"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.449",
+    "lon": "99.872"
+  },
+  "metadata": {},
+  "source": {}
+}

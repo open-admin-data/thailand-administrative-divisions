@@ -1,0 +1,226 @@
+[
+  {
+    "id": "270405",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองหินปูน",
+      "en": "Khlong Hin Pun",
+      "slug": "khlong-hin-pun-270405"
+    },
+    "code": {
+      "id": "270405",
+      "iso": null
+    },
+    "parent": {
+      "id": "2704",
+      "level": 2,
+      "name": {
+        "local": "วังน้ำเย็น",
+        "en": "Wang Nam Yen",
+        "slug": "wang-nam-yen-2704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "local": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo-27"
+        }
+      },
+      {
+        "id": "2704",
+        "level": 2,
+        "name": {
+          "local": "วังน้ำเย็น",
+          "en": "Wang Nam Yen",
+          "slug": "wang-nam-yen-2704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27210"
+    ],
+    "geo": {
+      "lat": "13.606",
+      "lon": "102.104"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "270403",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตาหลังใน",
+      "en": "Ta Lang Nai",
+      "slug": "ta-lang-nai-270403"
+    },
+    "code": {
+      "id": "270403",
+      "iso": null
+    },
+    "parent": {
+      "id": "2704",
+      "level": 2,
+      "name": {
+        "local": "วังน้ำเย็น",
+        "en": "Wang Nam Yen",
+        "slug": "wang-nam-yen-2704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "local": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo-27"
+        }
+      },
+      {
+        "id": "2704",
+        "level": 2,
+        "name": {
+          "local": "วังน้ำเย็น",
+          "en": "Wang Nam Yen",
+          "slug": "wang-nam-yen-2704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27210"
+    ],
+    "geo": {
+      "lat": "13.471",
+      "lon": "102.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "270406",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งมหาเจริญ",
+      "en": "Thung Maha Charoen",
+      "slug": "thung-maha-charoen-270406"
+    },
+    "code": {
+      "id": "270406",
+      "iso": null
+    },
+    "parent": {
+      "id": "2704",
+      "level": 2,
+      "name": {
+        "local": "วังน้ำเย็น",
+        "en": "Wang Nam Yen",
+        "slug": "wang-nam-yen-2704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "local": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo-27"
+        }
+      },
+      {
+        "id": "2704",
+        "level": 2,
+        "name": {
+          "local": "วังน้ำเย็น",
+          "en": "Wang Nam Yen",
+          "slug": "wang-nam-yen-2704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27210"
+    ],
+    "geo": {
+      "lat": "13.482",
+      "lon": "102.009"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "270401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังน้ำเย็น",
+      "en": "Wang Nam Yen",
+      "slug": "wang-nam-yen-270401"
+    },
+    "code": {
+      "id": "270401",
+      "iso": null
+    },
+    "parent": {
+      "id": "2704",
+      "level": 2,
+      "name": {
+        "local": "วังน้ำเย็น",
+        "en": "Wang Nam Yen",
+        "slug": "wang-nam-yen-2704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "local": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo-27"
+        }
+      },
+      {
+        "id": "2704",
+        "level": 2,
+        "name": {
+          "local": "วังน้ำเย็น",
+          "en": "Wang Nam Yen",
+          "slug": "wang-nam-yen-2704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27210"
+    ],
+    "geo": {
+      "lat": "13.517",
+      "lon": "102.166"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

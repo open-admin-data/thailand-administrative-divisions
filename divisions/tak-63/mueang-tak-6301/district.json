@@ -1,0 +1,47 @@
+{
+  "id": "6301",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองตาก",
+    "en": "Mueang Tak",
+    "slug": "mueang-tak-6301"
+  },
+  "code": {
+    "id": "6301",
+    "iso": null
+  },
+  "parent": {
+    "id": "63",
+    "level": 1,
+    "name": {
+      "local": "ตาก",
+      "en": "Tak",
+      "slug": "tak-63"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "ตาก",
+        "en": "Tak",
+        "slug": "tak-63"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.862",
+    "lon": "99.129"
+  },
+  "metadata": {},
+  "source": {}
+}

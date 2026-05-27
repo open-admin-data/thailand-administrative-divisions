@@ -1,0 +1,58 @@
+[
+  {
+    "id": "103602",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สีกัน",
+      "en": "Si Kan",
+      "slug": "si-kan-103602"
+    },
+    "code": {
+      "id": "103602",
+      "iso": null
+    },
+    "parent": {
+      "id": "1036",
+      "level": 2,
+      "name": {
+        "local": "ดอนเมือง",
+        "en": "Don Mueang",
+        "slug": "don-mueang-1036"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1036",
+        "level": 2,
+        "name": {
+          "local": "ดอนเมือง",
+          "en": "Don Mueang",
+          "slug": "don-mueang-1036"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10210"
+    ],
+    "geo": {
+      "lat": "13.925",
+      "lon": "100.593"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "551201",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ่อเกลือเหนือ",
+      "en": "Bo Kluea Nuea",
+      "slug": "bo-kluea-nuea-551201"
+    },
+    "code": {
+      "id": "551201",
+      "iso": null
+    },
+    "parent": {
+      "id": "5512",
+      "level": 2,
+      "name": {
+        "local": "บ่อเกลือ",
+        "en": "Bo Kluea",
+        "slug": "bo-kluea-5512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5512",
+        "level": 2,
+        "name": {
+          "local": "บ่อเกลือ",
+          "en": "Bo Kluea",
+          "slug": "bo-kluea-5512"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55220"
+    ],
+    "geo": {
+      "lat": "19.297",
+      "lon": "101.176"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "551202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ่อเกลือใต้",
+      "en": "Bo Kluea Tai",
+      "slug": "bo-kluea-tai-551202"
+    },
+    "code": {
+      "id": "551202",
+      "iso": null
+    },
+    "parent": {
+      "id": "5512",
+      "level": 2,
+      "name": {
+        "local": "บ่อเกลือ",
+        "en": "Bo Kluea",
+        "slug": "bo-kluea-5512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5512",
+        "level": 2,
+        "name": {
+          "local": "บ่อเกลือ",
+          "en": "Bo Kluea",
+          "slug": "bo-kluea-5512"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55220"
+    ],
+    "geo": {
+      "lat": "19.127",
+      "lon": "101.13"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "551205",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดงพญา",
+      "en": "Dong Phaya",
+      "slug": "dong-phaya-551205"
+    },
+    "code": {
+      "id": "551205",
+      "iso": null
+    },
+    "parent": {
+      "id": "5512",
+      "level": 2,
+      "name": {
+        "local": "บ่อเกลือ",
+        "en": "Bo Kluea",
+        "slug": "bo-kluea-5512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5512",
+        "level": 2,
+        "name": {
+          "local": "บ่อเกลือ",
+          "en": "Bo Kluea",
+          "slug": "bo-kluea-5512"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55220"
+    ],
+    "geo": {
+      "lat": "19.22",
+      "lon": "101.198"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "551204",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ภูฟ้า",
+      "en": "Phu Fa",
+      "slug": "phu-fa-551204"
+    },
+    "code": {
+      "id": "551204",
+      "iso": null
+    },
+    "parent": {
+      "id": "5512",
+      "level": 2,
+      "name": {
+        "local": "บ่อเกลือ",
+        "en": "Bo Kluea",
+        "slug": "bo-kluea-5512"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5512",
+        "level": 2,
+        "name": {
+          "local": "บ่อเกลือ",
+          "en": "Bo Kluea",
+          "slug": "bo-kluea-5512"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55220"
+    ],
+    "geo": {
+      "lat": "18.973",
+      "lon": "101.201"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

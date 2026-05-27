@@ -1,0 +1,47 @@
+{
+  "id": "6509",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เนินมะปราง",
+    "en": "Noen Maprang",
+    "slug": "noen-maprang-6509"
+  },
+  "code": {
+    "id": "6509",
+    "iso": null
+  },
+  "parent": {
+    "id": "65",
+    "level": 1,
+    "name": {
+      "local": "พิษณุโลก",
+      "en": "Phitsanulok",
+      "slug": "phitsanulok-65"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "local": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok-65"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.542",
+    "lon": "100.596"
+  },
+  "metadata": {},
+  "source": {}
+}

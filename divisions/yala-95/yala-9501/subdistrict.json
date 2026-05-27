@@ -1,0 +1,786 @@
+[
+  {
+    "id": "950115",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บันนังสาเรง",
+      "en": "Bannang Sareng",
+      "slug": "bannang-sareng-950115"
+    },
+    "code": {
+      "id": "950115",
+      "iso": null
+    },
+    "parent": {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "local": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala-9501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9501",
+        "level": 2,
+        "name": {
+          "local": "เมืองยะลา",
+          "en": "Yala",
+          "slug": "yala-9501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95000"
+    ],
+    "geo": {
+      "lat": "6.48",
+      "lon": "101.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950102",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บุดี",
+      "en": "Budi",
+      "slug": "budi-950102"
+    },
+    "code": {
+      "id": "950102",
+      "iso": null
+    },
+    "parent": {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "local": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala-9501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9501",
+        "level": 2,
+        "name": {
+          "local": "เมืองยะลา",
+          "en": "Yala",
+          "slug": "yala-9501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95000"
+    ],
+    "geo": {
+      "lat": "6.487",
+      "lon": "101.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950109",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ลำใหม่",
+      "en": "Lam Mai",
+      "slug": "lam-mai-950109"
+    },
+    "code": {
+      "id": "950109",
+      "iso": null
+    },
+    "parent": {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "local": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala-9501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9501",
+        "level": 2,
+        "name": {
+          "local": "เมืองยะลา",
+          "en": "Yala",
+          "slug": "yala-9501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95160"
+    ],
+    "geo": {
+      "lat": "6.583",
+      "lon": "101.205"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950111",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ลำพะยา",
+      "en": "Lam Phaya",
+      "slug": "lam-phaya-950111"
+    },
+    "code": {
+      "id": "950111",
+      "iso": null
+    },
+    "parent": {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "local": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala-9501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9501",
+        "level": 2,
+        "name": {
+          "local": "เมืองยะลา",
+          "en": "Yala",
+          "slug": "yala-9501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95160"
+    ],
+    "geo": {
+      "lat": "6.584",
+      "lon": "101.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950104",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ลิดล",
+      "en": "Lidon",
+      "slug": "lidon-950104"
+    },
+    "code": {
+      "id": "950104",
+      "iso": null
+    },
+    "parent": {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "local": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala-9501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9501",
+        "level": 2,
+        "name": {
+          "local": "เมืองยะลา",
+          "en": "Yala",
+          "slug": "yala-9501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95160"
+    ],
+    "geo": {
+      "lat": "6.551",
+      "lon": "101.166"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950110",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หน้าถ้ำ",
+      "en": "Na Tham",
+      "slug": "na-tham-950110"
+    },
+    "code": {
+      "id": "950110",
+      "iso": null
+    },
+    "parent": {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "local": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala-9501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9501",
+        "level": 2,
+        "name": {
+          "local": "เมืองยะลา",
+          "en": "Yala",
+          "slug": "yala-9501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95000"
+    ],
+    "geo": {
+      "lat": "6.525",
+      "lon": "101.225"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950114",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "พร่อน",
+      "en": "Phron",
+      "slug": "phron-950114"
+    },
+    "code": {
+      "id": "950114",
+      "iso": null
+    },
+    "parent": {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "local": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala-9501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9501",
+        "level": 2,
+        "name": {
+          "local": "เมืองยะลา",
+          "en": "Yala",
+          "slug": "yala-9501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95160"
+    ],
+    "geo": {
+      "lat": "6.563",
+      "lon": "101.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950112",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เปาะเส้ง",
+      "en": "Po Seng",
+      "slug": "po-seng-950112"
+    },
+    "code": {
+      "id": "950112",
+      "iso": null
+    },
+    "parent": {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "local": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala-9501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9501",
+        "level": 2,
+        "name": {
+          "local": "เมืองยะลา",
+          "en": "Yala",
+          "slug": "yala-9501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95000"
+    ],
+    "geo": {
+      "lat": "6.511",
+      "lon": "101.201"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950101",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สะเตง",
+      "en": "Sateng",
+      "slug": "sateng-950101"
+    },
+    "code": {
+      "id": "950101",
+      "iso": null
+    },
+    "parent": {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "local": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala-9501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9501",
+        "level": 2,
+        "name": {
+          "local": "เมืองยะลา",
+          "en": "Yala",
+          "slug": "yala-9501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95000"
+    ],
+    "geo": {
+      "lat": "6.547",
+      "lon": "101.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950116",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สะเตงนอก",
+      "en": "Sateng Nok",
+      "slug": "sateng-nok-950116"
+    },
+    "code": {
+      "id": "950116",
+      "iso": null
+    },
+    "parent": {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "local": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala-9501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9501",
+        "level": 2,
+        "name": {
+          "local": "เมืองยะลา",
+          "en": "Yala",
+          "slug": "yala-9501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95000"
+    ],
+    "geo": {
+      "lat": "6.552",
+      "lon": "101.324"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950118",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตาเซะ",
+      "en": "Ta Se",
+      "slug": "ta-se-950118"
+    },
+    "code": {
+      "id": "950118",
+      "iso": null
+    },
+    "parent": {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "local": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala-9501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9501",
+        "level": 2,
+        "name": {
+          "local": "เมืองยะลา",
+          "en": "Yala",
+          "slug": "yala-9501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95000"
+    ],
+    "geo": {
+      "lat": "6.62",
+      "lon": "101.253"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950108",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าสาป",
+      "en": "Tha Sap",
+      "slug": "tha-sap-950108"
+    },
+    "code": {
+      "id": "950108",
+      "iso": null
+    },
+    "parent": {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "local": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala-9501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9501",
+        "level": 2,
+        "name": {
+          "local": "เมืองยะลา",
+          "en": "Yala",
+          "slug": "yala-9501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95000"
+    ],
+    "geo": {
+      "lat": "6.538",
+      "lon": "101.235"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950106",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ยะลา",
+      "en": "Yala",
+      "slug": "yala-950106"
+    },
+    "code": {
+      "id": "950106",
+      "iso": null
+    },
+    "parent": {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "local": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala-9501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9501",
+        "level": 2,
+        "name": {
+          "local": "เมืองยะลา",
+          "en": "Yala",
+          "slug": "yala-9501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95000"
+    ],
+    "geo": {
+      "lat": "6.523",
+      "lon": "101.181"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950103",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ยุโป",
+      "en": "Yopo",
+      "slug": "yopo-950103"
+    },
+    "code": {
+      "id": "950103",
+      "iso": null
+    },
+    "parent": {
+      "id": "9501",
+      "level": 2,
+      "name": {
+        "local": "เมืองยะลา",
+        "en": "Yala",
+        "slug": "yala-9501"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9501",
+        "level": 2,
+        "name": {
+          "local": "เมืองยะลา",
+          "en": "Yala",
+          "slug": "yala-9501"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95000"
+    ],
+    "geo": {
+      "lat": "6.597",
+      "lon": "101.283"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

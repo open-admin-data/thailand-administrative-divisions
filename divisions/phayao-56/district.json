@@ -1,0 +1,425 @@
+[
+  {
+    "id": "5603",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "เชียงคำ",
+      "en": "Chiang Kham",
+      "slug": "chiang-kham-5603"
+    },
+    "code": {
+      "id": "5603",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao-56"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.495",
+      "lon": "100.327"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5604",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "เชียงม่วน",
+      "en": "Chiang Muan",
+      "slug": "chiang-muan-5604"
+    },
+    "code": {
+      "id": "5604",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao-56"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.888",
+      "lon": "100.334"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5602",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "จุน",
+      "en": "Chun",
+      "slug": "chun-5602"
+    },
+    "code": {
+      "id": "5602",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao-56"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.378",
+      "lon": "100.163"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5605",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ดอกคำใต้",
+      "en": "Dok Khamtai",
+      "slug": "dok-khamtai-5605"
+    },
+    "code": {
+      "id": "5605",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao-56"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.134",
+      "lon": "99.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5607",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "แม่ใจ",
+      "en": "Mae Chai",
+      "slug": "mae-chai-5607"
+    },
+    "code": {
+      "id": "5607",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao-56"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.33",
+      "lon": "99.846"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5601",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "เมืองพะเยา",
+      "en": "Mueang Phayao",
+      "slug": "mueang-phayao-5601"
+    },
+    "code": {
+      "id": "5601",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao-56"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 15
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.172",
+      "lon": "99.894"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5609",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ภูกามยาว",
+      "en": "Phu Kamyao",
+      "slug": "phu-kamyao-5609"
+    },
+    "code": {
+      "id": "5609",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao-56"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.241",
+      "lon": "99.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5608",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ภูซาง",
+      "en": "Phu Sang",
+      "slug": "phu-sang-5608"
+    },
+    "code": {
+      "id": "5608",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao-56"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.622",
+      "lon": "100.37"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5606",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ปง",
+      "en": "Pong",
+      "slug": "pong-5606"
+    },
+    "code": {
+      "id": "5606",
+      "iso": null
+    },
+    "parent": {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao-56"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao-56"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.182",
+      "lon": "100.374"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "2102",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ้านฉาง",
+    "en": "Ban Chang",
+    "slug": "ban-chang-2102"
+  },
+  "code": {
+    "id": "2102",
+    "iso": null
+  },
+  "parent": {
+    "id": "21",
+    "level": 1,
+    "name": {
+      "local": "ระยอง",
+      "en": "Rayong",
+      "slug": "rayong-21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong-21"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.688",
+    "lon": "101.025"
+  },
+  "metadata": {},
+  "source": {}
+}

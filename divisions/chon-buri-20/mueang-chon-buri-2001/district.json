@@ -1,0 +1,47 @@
+{
+  "id": "2001",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองชลบุรี",
+    "en": "Mueang Chon Buri",
+    "slug": "mueang-chon-buri-2001"
+  },
+  "code": {
+    "id": "2001",
+    "iso": null
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "local": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri-20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri-20"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.376",
+    "lon": "100.99"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "230503",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางปิด",
+      "en": "Bang Pit",
+      "slug": "bang-pit-230503"
+    },
+    "code": {
+      "id": "230503",
+      "iso": null
+    },
+    "parent": {
+      "id": "2305",
+      "level": 2,
+      "name": {
+        "local": "แหลมงอบ",
+        "en": "Laem Ngop",
+        "slug": "laem-ngop-2305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2305",
+        "level": 2,
+        "name": {
+          "local": "แหลมงอบ",
+          "en": "Laem Ngop",
+          "slug": "laem-ngop-2305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23120"
+    ],
+    "geo": {
+      "lat": "12.241",
+      "lon": "102.301"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "230507",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองใหญ่",
+      "en": "Khlong Yai",
+      "slug": "khlong-yai-230507"
+    },
+    "code": {
+      "id": "230507",
+      "iso": null
+    },
+    "parent": {
+      "id": "2305",
+      "level": 2,
+      "name": {
+        "local": "แหลมงอบ",
+        "en": "Laem Ngop",
+        "slug": "laem-ngop-2305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2305",
+        "level": 2,
+        "name": {
+          "local": "แหลมงอบ",
+          "en": "Laem Ngop",
+          "slug": "laem-ngop-2305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23120"
+    ],
+    "geo": {
+      "lat": "12.226",
+      "lon": "102.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "230501",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แหลมงอบ",
+      "en": "Laem Ngop",
+      "slug": "laem-ngop-230501"
+    },
+    "code": {
+      "id": "230501",
+      "iso": null
+    },
+    "parent": {
+      "id": "2305",
+      "level": 2,
+      "name": {
+        "local": "แหลมงอบ",
+        "en": "Laem Ngop",
+        "slug": "laem-ngop-2305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2305",
+        "level": 2,
+        "name": {
+          "local": "แหลมงอบ",
+          "en": "Laem Ngop",
+          "slug": "laem-ngop-2305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23120"
+    ],
+    "geo": {
+      "lat": "12.186",
+      "lon": "102.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "230502",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "น้ำเชี่ยว",
+      "en": "Nam Chiao",
+      "slug": "nam-chiao-230502"
+    },
+    "code": {
+      "id": "230502",
+      "iso": null
+    },
+    "parent": {
+      "id": "2305",
+      "level": 2,
+      "name": {
+        "local": "แหลมงอบ",
+        "en": "Laem Ngop",
+        "slug": "laem-ngop-2305"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "23",
+        "level": 1,
+        "name": {
+          "local": "ตราด",
+          "en": "Trat",
+          "slug": "trat-23"
+        }
+      },
+      {
+        "id": "2305",
+        "level": 2,
+        "name": {
+          "local": "แหลมงอบ",
+          "en": "Laem Ngop",
+          "slug": "laem-ngop-2305"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "23120"
+    ],
+    "geo": {
+      "lat": "12.209",
+      "lon": "102.436"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,613 @@
+[
+  {
+    "id": "7103",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "บ่อพลอย",
+      "en": "Bo Phloi",
+      "slug": "bo-phloi-7103"
+    },
+    "code": {
+      "id": "7103",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.485",
+      "lon": "99.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7111",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ด่านมะขามเตี้ย",
+      "en": "Dan Makham Tia",
+      "slug": "dan-makham-tia-7111"
+    },
+    "code": {
+      "id": "7111",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.808",
+      "lon": "99.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7113",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ห้วยกระเจา",
+      "en": "Huai Krachao",
+      "slug": "huai-krachao-7113"
+    },
+    "code": {
+      "id": "7113",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.357",
+      "lon": "99.764"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7110",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "เลาขวัญ",
+      "en": "Lao Khwan",
+      "slug": "lao-khwan-7110"
+    },
+    "code": {
+      "id": "7110",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.648",
+      "lon": "99.758"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7101",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "เมืองกาญจนบุรี",
+      "en": "Mueang Kanchanaburi",
+      "slug": "mueang-kanchanaburi-7101"
+    },
+    "code": {
+      "id": "7101",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.035",
+      "lon": "99.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7112",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "หนองปรือ",
+      "en": "Nong Prue",
+      "slug": "nong-prue-7112"
+    },
+    "code": {
+      "id": "7112",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.626",
+      "lon": "99.527"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7107",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ทองผาภูมิ",
+      "en": "Pha Phum",
+      "slug": "pha-phum-7107"
+    },
+    "code": {
+      "id": "7107",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.735",
+      "lon": "98.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7109",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "พนมทวน",
+      "en": "Phanom Thuan",
+      "slug": "phanom-thuan-7109"
+    },
+    "code": {
+      "id": "7109",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.076",
+      "lon": "99.667"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7102",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ไทรโยค",
+      "en": "Sai Yok",
+      "slug": "sai-yok-7102"
+    },
+    "code": {
+      "id": "7102",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.035",
+      "lon": "99.287"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7108",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "สังขละบุรี",
+      "en": "Sangkhla Buri",
+      "slug": "sangkhla-buri-7108"
+    },
+    "code": {
+      "id": "7108",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.999",
+      "lon": "98.545"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7104",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ศรีสวัสดิ์",
+      "en": "Si Sawat",
+      "slug": "si-sawat-7104"
+    },
+    "code": {
+      "id": "7104",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "14.464",
+      "lon": "99.232"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7105",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ท่ามะกา",
+      "en": "Tha Maka",
+      "slug": "tha-maka-7105"
+    },
+    "code": {
+      "id": "7105",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.954",
+      "lon": "99.752"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "7106",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ท่าม่วง",
+      "en": "Tha Muang",
+      "slug": "tha-muang-7106"
+    },
+    "code": {
+      "id": "7106",
+      "iso": null
+    },
+    "parent": {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi-71"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "13.974",
+      "lon": "99.625"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

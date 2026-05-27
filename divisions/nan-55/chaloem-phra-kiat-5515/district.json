@@ -1,0 +1,47 @@
+{
+  "id": "5515",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เฉลิมพระเกียรติ",
+    "en": "Chaloem Phra Kiat",
+    "slug": "chaloem-phra-kiat-5515"
+  },
+  "code": {
+    "id": "5515",
+    "iso": null
+  },
+  "parent": {
+    "id": "55",
+    "level": 1,
+    "name": {
+      "local": "น่าน",
+      "en": "Nan",
+      "slug": "nan-55"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "local": "น่าน",
+        "en": "Nan",
+        "slug": "nan-55"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.559",
+    "lon": "101.046"
+  },
+  "metadata": {},
+  "source": {}
+}

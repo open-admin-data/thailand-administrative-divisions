@@ -1,0 +1,47 @@
+{
+  "id": "3305",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ขุขันธ์",
+    "en": "Khukhan",
+    "slug": "khukhan-3305"
+  },
+  "code": {
+    "id": "3305",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "ศรีสะเกษ",
+      "en": "Si Sa Ket",
+      "slug": "si-sa-ket-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket-33"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.669",
+    "lon": "104.271"
+  },
+  "metadata": {},
+  "source": {}
+}

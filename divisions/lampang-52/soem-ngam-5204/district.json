@@ -1,0 +1,47 @@
+{
+  "id": "5204",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เสริมงาม",
+    "en": "Soem Ngam",
+    "slug": "soem-ngam-5204"
+  },
+  "code": {
+    "id": "5204",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "ลำปาง",
+      "en": "Lampang",
+      "slug": "lampang-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang-52"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.071",
+    "lon": "99.244"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "412301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านแดง",
+      "en": "Ban Daeng",
+      "slug": "ban-daeng-412301"
+    },
+    "code": {
+      "id": "412301",
+      "iso": null
+    },
+    "parent": {
+      "id": "4123",
+      "level": 2,
+      "name": {
+        "local": "พิบูลย์รักษ์",
+        "en": "Phibun Rak",
+        "slug": "phibun-rak-4123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "41",
+        "level": 1,
+        "name": {
+          "local": "อุดรธานี",
+          "en": "Udon Thani",
+          "slug": "udon-thani-41"
+        }
+      },
+      {
+        "id": "4123",
+        "level": 2,
+        "name": {
+          "local": "พิบูลย์รักษ์",
+          "en": "Phibun Rak",
+          "slug": "phibun-rak-4123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41130"
+    ],
+    "geo": {
+      "lat": "17.539",
+      "lon": "103.072"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "412303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดอนกลอย",
+      "en": "Don Kloi",
+      "slug": "don-kloi-412303"
+    },
+    "code": {
+      "id": "412303",
+      "iso": null
+    },
+    "parent": {
+      "id": "4123",
+      "level": 2,
+      "name": {
+        "local": "พิบูลย์รักษ์",
+        "en": "Phibun Rak",
+        "slug": "phibun-rak-4123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "41",
+        "level": 1,
+        "name": {
+          "local": "อุดรธานี",
+          "en": "Udon Thani",
+          "slug": "udon-thani-41"
+        }
+      },
+      {
+        "id": "4123",
+        "level": 2,
+        "name": {
+          "local": "พิบูลย์รักษ์",
+          "en": "Phibun Rak",
+          "slug": "phibun-rak-4123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41130"
+    ],
+    "geo": {
+      "lat": "17.48",
+      "lon": "103.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "412302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาทราย",
+      "en": "Na Sai",
+      "slug": "na-sai-412302"
+    },
+    "code": {
+      "id": "412302",
+      "iso": null
+    },
+    "parent": {
+      "id": "4123",
+      "level": 2,
+      "name": {
+        "local": "พิบูลย์รักษ์",
+        "en": "Phibun Rak",
+        "slug": "phibun-rak-4123"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "41",
+        "level": 1,
+        "name": {
+          "local": "อุดรธานี",
+          "en": "Udon Thani",
+          "slug": "udon-thani-41"
+        }
+      },
+      {
+        "id": "4123",
+        "level": 2,
+        "name": {
+          "local": "พิบูลย์รักษ์",
+          "en": "Phibun Rak",
+          "slug": "phibun-rak-4123"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "41130"
+    ],
+    "geo": {
+      "lat": "17.563",
+      "lon": "103.123"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

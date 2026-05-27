@@ -1,0 +1,47 @@
+{
+  "id": "4907",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "หนองสูง",
+    "en": "Nong Sung",
+    "slug": "nong-sung-4907"
+  },
+  "code": {
+    "id": "4907",
+    "iso": null
+  },
+  "parent": {
+    "id": "49",
+    "level": 1,
+    "name": {
+      "local": "มุกดาหาร",
+      "en": "Mukdahan",
+      "slug": "mukdahan-49"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "49",
+      "level": 1,
+      "name": {
+        "local": "มุกดาหาร",
+        "en": "Mukdahan",
+        "slug": "mukdahan-49"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.491",
+    "lon": "104.36"
+  },
+  "metadata": {},
+  "source": {}
+}

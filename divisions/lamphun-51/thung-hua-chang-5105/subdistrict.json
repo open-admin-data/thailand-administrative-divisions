@@ -1,0 +1,170 @@
+[
+  {
+    "id": "510502",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านปวง",
+      "en": "Ban Puang",
+      "slug": "ban-puang-510502"
+    },
+    "code": {
+      "id": "510502",
+      "iso": null
+    },
+    "parent": {
+      "id": "5105",
+      "level": 2,
+      "name": {
+        "local": "ทุ่งหัวช้าง",
+        "en": "Thung Hua Chang",
+        "slug": "thung-hua-chang-5105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun-51"
+        }
+      },
+      {
+        "id": "5105",
+        "level": 2,
+        "name": {
+          "local": "ทุ่งหัวช้าง",
+          "en": "Thung Hua Chang",
+          "slug": "thung-hua-chang-5105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51160"
+    ],
+    "geo": {
+      "lat": "17.87",
+      "lon": "99.089"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "510503",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตะเคียนปม",
+      "en": "Takhian Pom",
+      "slug": "takhian-pom-510503"
+    },
+    "code": {
+      "id": "510503",
+      "iso": null
+    },
+    "parent": {
+      "id": "5105",
+      "level": 2,
+      "name": {
+        "local": "ทุ่งหัวช้าง",
+        "en": "Thung Hua Chang",
+        "slug": "thung-hua-chang-5105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun-51"
+        }
+      },
+      {
+        "id": "5105",
+        "level": 2,
+        "name": {
+          "local": "ทุ่งหัวช้าง",
+          "en": "Thung Hua Chang",
+          "slug": "thung-hua-chang-5105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51160"
+    ],
+    "geo": {
+      "lat": "18.106",
+      "lon": "99.025"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "510501",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งหัวช้าง",
+      "en": "Thung Hua Chang",
+      "slug": "thung-hua-chang-510501"
+    },
+    "code": {
+      "id": "510501",
+      "iso": null
+    },
+    "parent": {
+      "id": "5105",
+      "level": 2,
+      "name": {
+        "local": "ทุ่งหัวช้าง",
+        "en": "Thung Hua Chang",
+        "slug": "thung-hua-chang-5105"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun-51"
+        }
+      },
+      {
+        "id": "5105",
+        "level": 2,
+        "name": {
+          "local": "ทุ่งหัวช้าง",
+          "en": "Thung Hua Chang",
+          "slug": "thung-hua-chang-5105"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51160"
+    ],
+    "geo": {
+      "lat": "17.983",
+      "lon": "99.048"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

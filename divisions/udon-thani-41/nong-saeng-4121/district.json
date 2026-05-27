@@ -1,0 +1,47 @@
+{
+  "id": "4121",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "หนองแสง",
+    "en": "Nong Saeng",
+    "slug": "nong-saeng-4121"
+  },
+  "code": {
+    "id": "4121",
+    "iso": null
+  },
+  "parent": {
+    "id": "41",
+    "level": 1,
+    "name": {
+      "local": "อุดรธานี",
+      "en": "Udon Thani",
+      "slug": "udon-thani-41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "local": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani-41"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.172",
+    "lon": "102.842"
+  },
+  "metadata": {},
+  "source": {}
+}

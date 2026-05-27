@@ -1,0 +1,47 @@
+{
+  "id": "1909",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พระพุทธบาท",
+    "en": "Phra Phutthabat",
+    "slug": "phra-phutthabat-1909"
+  },
+  "code": {
+    "id": "1909",
+    "iso": null
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "local": "สระบุรี",
+      "en": "Saraburi",
+      "slug": "saraburi-19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi-19"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.713",
+    "lon": "100.831"
+  },
+  "metadata": {},
+  "source": {}
+}

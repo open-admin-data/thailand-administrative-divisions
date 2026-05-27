@@ -1,0 +1,47 @@
+{
+  "id": "1906",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ้านหมอ",
+    "en": "Ban Mo",
+    "slug": "ban-mo-1906"
+  },
+  "code": {
+    "id": "1906",
+    "iso": null
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "local": "สระบุรี",
+      "en": "Saraburi",
+      "slug": "saraburi-19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi-19"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.584",
+    "lon": "100.767"
+  },
+  "metadata": {},
+  "source": {}
+}

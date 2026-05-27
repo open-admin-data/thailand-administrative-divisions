@@ -1,0 +1,47 @@
+{
+  "id": "1104",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พระประแดง",
+    "en": "Phra Pradaeng",
+    "slug": "phra-pradaeng-1104"
+  },
+  "code": {
+    "id": "1104",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan-11"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.656",
+    "lon": "100.533"
+  },
+  "metadata": {},
+  "source": {}
+}

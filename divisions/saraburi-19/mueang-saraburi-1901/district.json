@@ -1,0 +1,47 @@
+{
+  "id": "1901",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองสระบุรี",
+    "en": "Mueang Saraburi",
+    "slug": "mueang-saraburi-1901"
+  },
+  "code": {
+    "id": "1901",
+    "iso": null
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "local": "สระบุรี",
+      "en": "Saraburi",
+      "slug": "saraburi-19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi-19"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.529",
+    "lon": "100.886"
+  },
+  "metadata": {},
+  "source": {}
+}

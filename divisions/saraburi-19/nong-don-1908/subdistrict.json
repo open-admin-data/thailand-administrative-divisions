@@ -1,0 +1,226 @@
+[
+  {
+    "id": "190802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านกลับ",
+      "en": "Ban Klap",
+      "slug": "ban-klap-190802"
+    },
+    "code": {
+      "id": "190802",
+      "iso": null
+    },
+    "parent": {
+      "id": "1908",
+      "level": 2,
+      "name": {
+        "local": "หนองโดน",
+        "en": "Nong Don",
+        "slug": "nong-don-1908"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1908",
+        "level": 2,
+        "name": {
+          "local": "หนองโดน",
+          "en": "Nong Don",
+          "slug": "nong-don-1908"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18190"
+    ],
+    "geo": {
+      "lat": "14.73",
+      "lon": "100.684"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190804",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านโปร่ง",
+      "en": "Ban Prong",
+      "slug": "ban-prong-190804"
+    },
+    "code": {
+      "id": "190804",
+      "iso": null
+    },
+    "parent": {
+      "id": "1908",
+      "level": 2,
+      "name": {
+        "local": "หนองโดน",
+        "en": "Nong Don",
+        "slug": "nong-don-1908"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1908",
+        "level": 2,
+        "name": {
+          "local": "หนองโดน",
+          "en": "Nong Don",
+          "slug": "nong-don-1908"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18190"
+    ],
+    "geo": {
+      "lat": "14.716",
+      "lon": "100.734"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190803",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดอนทอง",
+      "en": "Don Thong",
+      "slug": "don-thong-190803"
+    },
+    "code": {
+      "id": "190803",
+      "iso": null
+    },
+    "parent": {
+      "id": "1908",
+      "level": 2,
+      "name": {
+        "local": "หนองโดน",
+        "en": "Nong Don",
+        "slug": "nong-don-1908"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1908",
+        "level": 2,
+        "name": {
+          "local": "หนองโดน",
+          "en": "Nong Don",
+          "slug": "nong-don-1908"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18190"
+    ],
+    "geo": {
+      "lat": "14.664",
+      "lon": "100.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองโดน",
+      "en": "Nong Don",
+      "slug": "nong-don-190801"
+    },
+    "code": {
+      "id": "190801",
+      "iso": null
+    },
+    "parent": {
+      "id": "1908",
+      "level": 2,
+      "name": {
+        "local": "หนองโดน",
+        "en": "Nong Don",
+        "slug": "nong-don-1908"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1908",
+        "level": 2,
+        "name": {
+          "local": "หนองโดน",
+          "en": "Nong Don",
+          "slug": "nong-don-1908"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18190"
+    ],
+    "geo": {
+      "lat": "14.688",
+      "lon": "100.693"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

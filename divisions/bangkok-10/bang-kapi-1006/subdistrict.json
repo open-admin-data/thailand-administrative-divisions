@@ -1,0 +1,114 @@
+[
+  {
+    "id": "100608",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หัวหมาก",
+      "en": "Hua Mak",
+      "slug": "hua-mak-100608"
+    },
+    "code": {
+      "id": "100608",
+      "iso": null
+    },
+    "parent": {
+      "id": "1006",
+      "level": 2,
+      "name": {
+        "local": "บางกะปิ",
+        "en": "Bang Kapi",
+        "slug": "bang-kapi-1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1006",
+        "level": 2,
+        "name": {
+          "local": "บางกะปิ",
+          "en": "Bang Kapi",
+          "slug": "bang-kapi-1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10240"
+    ],
+    "geo": {
+      "lat": "13.756",
+      "lon": "100.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100601",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองจั่น",
+      "en": "Khlong Chan",
+      "slug": "khlong-chan-100601"
+    },
+    "code": {
+      "id": "100601",
+      "iso": null
+    },
+    "parent": {
+      "id": "1006",
+      "level": 2,
+      "name": {
+        "local": "บางกะปิ",
+        "en": "Bang Kapi",
+        "slug": "bang-kapi-1006"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1006",
+        "level": 2,
+        "name": {
+          "local": "บางกะปิ",
+          "en": "Bang Kapi",
+          "slug": "bang-kapi-1006"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10240"
+    ],
+    "geo": {
+      "lat": "13.786",
+      "lon": "100.635"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

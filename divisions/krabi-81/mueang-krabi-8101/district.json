@@ -1,0 +1,47 @@
+{
+  "id": "8101",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองกระบี่",
+    "en": "Mueang Krabi",
+    "slug": "mueang-krabi-8101"
+  },
+  "code": {
+    "id": "8101",
+    "iso": null
+  },
+  "parent": {
+    "id": "81",
+    "level": 1,
+    "name": {
+      "local": "กระบี่",
+      "en": "Krabi",
+      "slug": "krabi-81"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi-81"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.049",
+    "lon": "98.676"
+  },
+  "metadata": {},
+  "source": {}
+}

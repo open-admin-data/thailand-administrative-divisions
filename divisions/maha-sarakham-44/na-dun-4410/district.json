@@ -1,0 +1,47 @@
+{
+  "id": "4410",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "นาดูน",
+    "en": "Na Dun",
+    "slug": "na-dun-4410"
+  },
+  "code": {
+    "id": "4410",
+    "iso": null
+  },
+  "parent": {
+    "id": "44",
+    "level": 1,
+    "name": {
+      "local": "มหาสารคาม",
+      "en": "Maha Sarakham",
+      "slug": "maha-sarakham-44"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham-44"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.719",
+    "lon": "103.277"
+  },
+  "metadata": {},
+  "source": {}
+}

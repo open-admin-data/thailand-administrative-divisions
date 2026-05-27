@@ -1,0 +1,170 @@
+[
+  {
+    "id": "510801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองล่อง",
+      "en": "Nong Long",
+      "slug": "nong-long-510801"
+    },
+    "code": {
+      "id": "510801",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108",
+      "level": 2,
+      "name": {
+        "local": "เวียงหนองล่อง",
+        "en": "Wiang Nong Long",
+        "slug": "wiang-nong-long-5108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "เวียงหนองล่อง",
+          "en": "Wiang Nong Long",
+          "slug": "wiang-nong-long-5108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51120"
+    ],
+    "geo": {
+      "lat": "18.404",
+      "lon": "98.732"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "510802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองยวง",
+      "en": "Nong Yuang",
+      "slug": "nong-yuang-510802"
+    },
+    "code": {
+      "id": "510802",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108",
+      "level": 2,
+      "name": {
+        "local": "เวียงหนองล่อง",
+        "en": "Wiang Nong Long",
+        "slug": "wiang-nong-long-5108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "เวียงหนองล่อง",
+          "en": "Wiang Nong Long",
+          "slug": "wiang-nong-long-5108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51120"
+    ],
+    "geo": {
+      "lat": "18.415",
+      "lon": "98.78"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "510803",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังผาง",
+      "en": "Wang Phang",
+      "slug": "wang-phang-510803"
+    },
+    "code": {
+      "id": "510803",
+      "iso": null
+    },
+    "parent": {
+      "id": "5108",
+      "level": 2,
+      "name": {
+        "local": "เวียงหนองล่อง",
+        "en": "Wiang Nong Long",
+        "slug": "wiang-nong-long-5108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun-51"
+        }
+      },
+      {
+        "id": "5108",
+        "level": 2,
+        "name": {
+          "local": "เวียงหนองล่อง",
+          "en": "Wiang Nong Long",
+          "slug": "wiang-nong-long-5108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51120"
+    ],
+    "geo": {
+      "lat": "18.422",
+      "lon": "98.744"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

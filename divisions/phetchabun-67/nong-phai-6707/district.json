@@ -1,0 +1,47 @@
+{
+  "id": "6707",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "หนองไผ่",
+    "en": "Nong Phai",
+    "slug": "nong-phai-6707"
+  },
+  "code": {
+    "id": "6707",
+    "iso": null
+  },
+  "parent": {
+    "id": "67",
+    "level": 1,
+    "name": {
+      "local": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun-67"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "local": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun-67"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.956",
+    "lon": "101.103"
+  },
+  "metadata": {},
+  "source": {}
+}

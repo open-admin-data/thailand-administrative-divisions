@@ -1,0 +1,47 @@
+{
+  "id": "4102",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "กุดจับ",
+    "en": "Kut Chap",
+    "slug": "kut-chap-4102"
+  },
+  "code": {
+    "id": "4102",
+    "iso": null
+  },
+  "parent": {
+    "id": "41",
+    "level": 1,
+    "name": {
+      "local": "อุดรธานี",
+      "en": "Udon Thani",
+      "slug": "udon-thani-41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "local": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani-41"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.44",
+    "lon": "102.429"
+  },
+  "metadata": {},
+  "source": {}
+}

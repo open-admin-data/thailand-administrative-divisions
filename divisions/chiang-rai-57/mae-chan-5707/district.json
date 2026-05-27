@@ -1,0 +1,47 @@
+{
+  "id": "5707",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "แม่จัน",
+    "en": "Mae Chan",
+    "slug": "mae-chan-5707"
+  },
+  "code": {
+    "id": "5707",
+    "iso": null
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "local": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai-57"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "local": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai-57"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "20.256",
+    "lon": "99.864"
+  },
+  "metadata": {},
+  "source": {}
+}

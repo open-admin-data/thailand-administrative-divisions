@@ -1,0 +1,226 @@
+[
+  {
+    "id": "621001",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บึงสามัคคี",
+      "en": "Bueng Samakkhi",
+      "slug": "bueng-samakkhi-621001"
+    },
+    "code": {
+      "id": "621001",
+      "iso": null
+    },
+    "parent": {
+      "id": "6210",
+      "level": 2,
+      "name": {
+        "local": "บึงสามัคคี",
+        "en": "Bueng Samakkhi",
+        "slug": "bueng-samakkhi-6210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "กำแพงเพชร",
+          "en": "Kamphaeng Phet",
+          "slug": "kamphaeng-phet-62"
+        }
+      },
+      {
+        "id": "6210",
+        "level": 2,
+        "name": {
+          "local": "บึงสามัคคี",
+          "en": "Bueng Samakkhi",
+          "slug": "bueng-samakkhi-6210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62210"
+    ],
+    "geo": {
+      "lat": "16.285",
+      "lon": "99.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "621003",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ระหาน",
+      "en": "Rahan",
+      "slug": "rahan-621003"
+    },
+    "code": {
+      "id": "621003",
+      "iso": null
+    },
+    "parent": {
+      "id": "6210",
+      "level": 2,
+      "name": {
+        "local": "บึงสามัคคี",
+        "en": "Bueng Samakkhi",
+        "slug": "bueng-samakkhi-6210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "กำแพงเพชร",
+          "en": "Kamphaeng Phet",
+          "slug": "kamphaeng-phet-62"
+        }
+      },
+      {
+        "id": "6210",
+        "level": 2,
+        "name": {
+          "local": "บึงสามัคคี",
+          "en": "Bueng Samakkhi",
+          "slug": "bueng-samakkhi-6210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62210"
+    ],
+    "geo": {
+      "lat": "16.158",
+      "lon": "99.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "621004",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เทพนิมิต",
+      "en": "Thep Nimit",
+      "slug": "thep-nimit-621004"
+    },
+    "code": {
+      "id": "621004",
+      "iso": null
+    },
+    "parent": {
+      "id": "6210",
+      "level": 2,
+      "name": {
+        "local": "บึงสามัคคี",
+        "en": "Bueng Samakkhi",
+        "slug": "bueng-samakkhi-6210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "กำแพงเพชร",
+          "en": "Kamphaeng Phet",
+          "slug": "kamphaeng-phet-62"
+        }
+      },
+      {
+        "id": "6210",
+        "level": 2,
+        "name": {
+          "local": "บึงสามัคคี",
+          "en": "Bueng Samakkhi",
+          "slug": "bueng-samakkhi-6210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62210"
+    ],
+    "geo": {
+      "lat": "16.182",
+      "lon": "99.914"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "621002",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังชะโอน",
+      "en": "Wang Cha-on",
+      "slug": "wang-cha-on-621002"
+    },
+    "code": {
+      "id": "621002",
+      "iso": null
+    },
+    "parent": {
+      "id": "6210",
+      "level": 2,
+      "name": {
+        "local": "บึงสามัคคี",
+        "en": "Bueng Samakkhi",
+        "slug": "bueng-samakkhi-6210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "กำแพงเพชร",
+          "en": "Kamphaeng Phet",
+          "slug": "kamphaeng-phet-62"
+        }
+      },
+      {
+        "id": "6210",
+        "level": 2,
+        "name": {
+          "local": "บึงสามัคคี",
+          "en": "Bueng Samakkhi",
+          "slug": "bueng-samakkhi-6210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62210"
+    ],
+    "geo": {
+      "lat": "16.233",
+      "lon": "99.926"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,519 @@
+[
+  {
+    "id": "6708",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "บึงสามพัน",
+      "en": "Bueng Sam Phan",
+      "slug": "bueng-sam-phan-6708"
+    },
+    "code": {
+      "id": "6708",
+      "iso": null
+    },
+    "parent": {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "local": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun-67"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.791",
+      "lon": "101.022"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6702",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ชนแดน",
+      "en": "Chon Daen",
+      "slug": "chon-daen-6702"
+    },
+    "code": {
+      "id": "6702",
+      "iso": null
+    },
+    "parent": {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "local": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun-67"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.092",
+      "lon": "100.832"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6704",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "หล่มเก่า",
+      "en": "Lom Kao",
+      "slug": "lom-kao-6704"
+    },
+    "code": {
+      "id": "6704",
+      "iso": null
+    },
+    "parent": {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "local": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun-67"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.857",
+      "lon": "101.229"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6703",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "หล่มสัก",
+      "en": "Lom Sak",
+      "slug": "lom-sak-6703"
+    },
+    "code": {
+      "id": "6703",
+      "iso": null
+    },
+    "parent": {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "local": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun-67"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 22
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.839",
+      "lon": "101.239"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6701",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "เมืองเพชรบูรณ์",
+      "en": "Mueang Phetchabun",
+      "slug": "mueang-phetchabun-6701"
+    },
+    "code": {
+      "id": "6701",
+      "iso": null
+    },
+    "parent": {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "local": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun-67"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 17
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.42",
+      "lon": "101.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6709",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "น้ำหนาว",
+      "en": "Nam Nao",
+      "slug": "nam-nao-6709"
+    },
+    "code": {
+      "id": "6709",
+      "iso": null
+    },
+    "parent": {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "local": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun-67"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.709",
+      "lon": "101.71"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6707",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "หนองไผ่",
+      "en": "Nong Phai",
+      "slug": "nong-phai-6707"
+    },
+    "code": {
+      "id": "6707",
+      "iso": null
+    },
+    "parent": {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "local": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun-67"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.956",
+      "lon": "101.103"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6706",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ศรีเทพ",
+      "en": "Si Thep",
+      "slug": "si-thep-6706"
+    },
+    "code": {
+      "id": "6706",
+      "iso": null
+    },
+    "parent": {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "local": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun-67"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.436",
+      "lon": "100.971"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6711",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "เขาค้อ",
+      "en": "Thung Samo",
+      "slug": "thung-samo-6711"
+    },
+    "code": {
+      "id": "6711",
+      "iso": null
+    },
+    "parent": {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "local": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun-67"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.545",
+      "lon": "100.968"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6710",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "วังโป่ง",
+      "en": "Wang Pong",
+      "slug": "wang-pong-6710"
+    },
+    "code": {
+      "id": "6710",
+      "iso": null
+    },
+    "parent": {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "local": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun-67"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "16.297",
+      "lon": "100.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "6705",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "วิเชียรบุรี",
+      "en": "Wichian Buri",
+      "slug": "wichian-buri-6705"
+    },
+    "code": {
+      "id": "6705",
+      "iso": null
+    },
+    "parent": {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "local": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun-67"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "67",
+        "level": 1,
+        "name": {
+          "local": "เพชรบูรณ์",
+          "en": "Phetchabun",
+          "slug": "phetchabun-67"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "15.628",
+      "lon": "101.061"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "6208",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ทรายทองวัฒนา",
+    "en": "Sai Thong Watthana",
+    "slug": "sai-thong-watthana-6208"
+  },
+  "code": {
+    "id": "6208",
+    "iso": null
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "local": "กำแพงเพชร",
+      "en": "Kamphaeng Phet",
+      "slug": "kamphaeng-phet-62"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet-62"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.341",
+    "lon": "99.899"
+  },
+  "metadata": {},
+  "source": {}
+}

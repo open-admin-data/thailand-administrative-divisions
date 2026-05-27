@@ -1,0 +1,226 @@
+[
+  {
+    "id": "550803",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "และ",
+      "en": "Lae",
+      "slug": "lae-550803"
+    },
+    "code": {
+      "id": "550803",
+      "iso": null
+    },
+    "parent": {
+      "id": "5508",
+      "level": 2,
+      "name": {
+        "local": "ทุ่งช้าง",
+        "en": "Thung Chang",
+        "slug": "thung-chang-5508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5508",
+        "level": 2,
+        "name": {
+          "local": "ทุ่งช้าง",
+          "en": "Thung Chang",
+          "slug": "thung-chang-5508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55130"
+    ],
+    "geo": {
+      "lat": "19.447",
+      "lon": "100.811"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "งอบ",
+      "en": "Ngop",
+      "slug": "ngop-550802"
+    },
+    "code": {
+      "id": "550802",
+      "iso": null
+    },
+    "parent": {
+      "id": "5508",
+      "level": 2,
+      "name": {
+        "local": "ทุ่งช้าง",
+        "en": "Thung Chang",
+        "slug": "thung-chang-5508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5508",
+        "level": 2,
+        "name": {
+          "local": "ทุ่งช้าง",
+          "en": "Thung Chang",
+          "slug": "thung-chang-5508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55130"
+    ],
+    "geo": {
+      "lat": "19.514",
+      "lon": "100.849"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปอน",
+      "en": "Pon",
+      "slug": "pon-550801"
+    },
+    "code": {
+      "id": "550801",
+      "iso": null
+    },
+    "parent": {
+      "id": "5508",
+      "level": 2,
+      "name": {
+        "local": "ทุ่งช้าง",
+        "en": "Thung Chang",
+        "slug": "thung-chang-5508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5508",
+        "level": 2,
+        "name": {
+          "local": "ทุ่งช้าง",
+          "en": "Thung Chang",
+          "slug": "thung-chang-5508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55130"
+    ],
+    "geo": {
+      "lat": "19.535",
+      "lon": "100.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550804",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งช้าง",
+      "en": "Thung Chang",
+      "slug": "thung-chang-550804"
+    },
+    "code": {
+      "id": "550804",
+      "iso": null
+    },
+    "parent": {
+      "id": "5508",
+      "level": 2,
+      "name": {
+        "local": "ทุ่งช้าง",
+        "en": "Thung Chang",
+        "slug": "thung-chang-5508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5508",
+        "level": 2,
+        "name": {
+          "local": "ทุ่งช้าง",
+          "en": "Thung Chang",
+          "slug": "thung-chang-5508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55130"
+    ],
+    "geo": {
+      "lat": "19.39",
+      "lon": "100.834"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

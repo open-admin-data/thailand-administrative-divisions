@@ -1,0 +1,282 @@
+[
+  {
+    "id": "930202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ชะรัด",
+      "en": "Charat",
+      "slug": "charat-930202"
+    },
+    "code": {
+      "id": "930202",
+      "iso": null
+    },
+    "parent": {
+      "id": "9302",
+      "level": 2,
+      "name": {
+        "local": "กงหรา",
+        "en": "Kong Ra",
+        "slug": "kong-ra-9302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "93",
+        "level": 1,
+        "name": {
+          "local": "พัทลุง",
+          "en": "Phatthalung",
+          "slug": "phatthalung-93"
+        }
+      },
+      {
+        "id": "9302",
+        "level": 2,
+        "name": {
+          "local": "กงหรา",
+          "en": "Kong Ra",
+          "slug": "kong-ra-9302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93000"
+    ],
+    "geo": {
+      "lat": "7.473",
+      "lon": "99.989"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "930203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองเฉลิม",
+      "en": "Khlong Chaloem",
+      "slug": "khlong-chaloem-930203"
+    },
+    "code": {
+      "id": "930203",
+      "iso": null
+    },
+    "parent": {
+      "id": "9302",
+      "level": 2,
+      "name": {
+        "local": "กงหรา",
+        "en": "Kong Ra",
+        "slug": "kong-ra-9302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "93",
+        "level": 1,
+        "name": {
+          "local": "พัทลุง",
+          "en": "Phatthalung",
+          "slug": "phatthalung-93"
+        }
+      },
+      {
+        "id": "9302",
+        "level": 2,
+        "name": {
+          "local": "กงหรา",
+          "en": "Kong Ra",
+          "slug": "kong-ra-9302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93180"
+    ],
+    "geo": {
+      "lat": "7.349",
+      "lon": "99.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "930204",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองทรายขาว",
+      "en": "Khlong Sai Khao",
+      "slug": "khlong-sai-khao-930204"
+    },
+    "code": {
+      "id": "930204",
+      "iso": null
+    },
+    "parent": {
+      "id": "9302",
+      "level": 2,
+      "name": {
+        "local": "กงหรา",
+        "en": "Kong Ra",
+        "slug": "kong-ra-9302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "93",
+        "level": 1,
+        "name": {
+          "local": "พัทลุง",
+          "en": "Phatthalung",
+          "slug": "phatthalung-93"
+        }
+      },
+      {
+        "id": "9302",
+        "level": 2,
+        "name": {
+          "local": "กงหรา",
+          "en": "Kong Ra",
+          "slug": "kong-ra-9302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93180"
+    ],
+    "geo": {
+      "lat": "7.423",
+      "lon": "99.921"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "930201",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กงหรา",
+      "en": "Kong Ra",
+      "slug": "kong-ra-930201"
+    },
+    "code": {
+      "id": "930201",
+      "iso": null
+    },
+    "parent": {
+      "id": "9302",
+      "level": 2,
+      "name": {
+        "local": "กงหรา",
+        "en": "Kong Ra",
+        "slug": "kong-ra-9302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "93",
+        "level": 1,
+        "name": {
+          "local": "พัทลุง",
+          "en": "Phatthalung",
+          "slug": "phatthalung-93"
+        }
+      },
+      {
+        "id": "9302",
+        "level": 2,
+        "name": {
+          "local": "กงหรา",
+          "en": "Kong Ra",
+          "slug": "kong-ra-9302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93180"
+    ],
+    "geo": {
+      "lat": "7.463",
+      "lon": "99.877"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "930205",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สมหวัง",
+      "en": "Som Wang",
+      "slug": "som-wang-930205"
+    },
+    "code": {
+      "id": "930205",
+      "iso": null
+    },
+    "parent": {
+      "id": "9302",
+      "level": 2,
+      "name": {
+        "local": "กงหรา",
+        "en": "Kong Ra",
+        "slug": "kong-ra-9302"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "93",
+        "level": 1,
+        "name": {
+          "local": "พัทลุง",
+          "en": "Phatthalung",
+          "slug": "phatthalung-93"
+        }
+      },
+      {
+        "id": "9302",
+        "level": 2,
+        "name": {
+          "local": "กงหรา",
+          "en": "Kong Ra",
+          "slug": "kong-ra-9302"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "93000"
+    ],
+    "geo": {
+      "lat": "7.509",
+      "lon": "99.99"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

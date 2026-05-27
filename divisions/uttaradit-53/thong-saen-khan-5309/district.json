@@ -1,0 +1,47 @@
+{
+  "id": "5309",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ทองแสนขัน",
+    "en": "Thong Saen Khan",
+    "slug": "thong-saen-khan-5309"
+  },
+  "code": {
+    "id": "5309",
+    "iso": null
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "local": "อุตรดิตถ์",
+      "en": "Uttaradit",
+      "slug": "uttaradit-53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit-53"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.581",
+    "lon": "100.299"
+  },
+  "metadata": {},
+  "source": {}
+}

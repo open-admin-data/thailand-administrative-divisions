@@ -1,0 +1,47 @@
+{
+  "id": "6202",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ไทรงาม",
+    "en": "Sai Ngam",
+    "slug": "sai-ngam-6202"
+  },
+  "code": {
+    "id": "6202",
+    "iso": null
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "local": "กำแพงเพชร",
+      "en": "Kamphaeng Phet",
+      "slug": "kamphaeng-phet-62"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet-62"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.452",
+    "lon": "99.827"
+  },
+  "metadata": {},
+  "source": {}
+}

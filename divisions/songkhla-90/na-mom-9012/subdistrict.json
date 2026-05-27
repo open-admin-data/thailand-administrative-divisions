@@ -1,0 +1,226 @@
+[
+  {
+    "id": "901204",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองหรัง",
+      "en": "Khlong Rhang",
+      "slug": "khlong-rhang-901204"
+    },
+    "code": {
+      "id": "901204",
+      "iso": null
+    },
+    "parent": {
+      "id": "9012",
+      "level": 2,
+      "name": {
+        "local": "นาหม่อม",
+        "en": "Na Mom",
+        "slug": "na-mom-9012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9012",
+        "level": 2,
+        "name": {
+          "local": "นาหม่อม",
+          "en": "Na Mom",
+          "slug": "na-mom-9012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90310"
+    ],
+    "geo": {
+      "lat": "6.924",
+      "lon": "100.591"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901201",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาหม่อม",
+      "en": "Na Mom",
+      "slug": "na-mom-901201"
+    },
+    "code": {
+      "id": "901201",
+      "iso": null
+    },
+    "parent": {
+      "id": "9012",
+      "level": 2,
+      "name": {
+        "local": "นาหม่อม",
+        "en": "Na Mom",
+        "slug": "na-mom-9012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9012",
+        "level": 2,
+        "name": {
+          "local": "นาหม่อม",
+          "en": "Na Mom",
+          "slug": "na-mom-9012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90310"
+    ],
+    "geo": {
+      "lat": "6.965",
+      "lon": "100.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit-901202"
+    },
+    "code": {
+      "id": "901202",
+      "iso": null
+    },
+    "parent": {
+      "id": "9012",
+      "level": 2,
+      "name": {
+        "local": "นาหม่อม",
+        "en": "Na Mom",
+        "slug": "na-mom-9012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9012",
+        "level": 2,
+        "name": {
+          "local": "นาหม่อม",
+          "en": "Na Mom",
+          "slug": "na-mom-9012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90310"
+    ],
+    "geo": {
+      "lat": "6.991",
+      "lon": "100.561"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งขมิ้น",
+      "en": "Thung Khamin",
+      "slug": "thung-khamin-901203"
+    },
+    "code": {
+      "id": "901203",
+      "iso": null
+    },
+    "parent": {
+      "id": "9012",
+      "level": 2,
+      "name": {
+        "local": "นาหม่อม",
+        "en": "Na Mom",
+        "slug": "na-mom-9012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9012",
+        "level": 2,
+        "name": {
+          "local": "นาหม่อม",
+          "en": "Na Mom",
+          "slug": "na-mom-9012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90310"
+    ],
+    "geo": {
+      "lat": "6.916",
+      "lon": "100.547"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

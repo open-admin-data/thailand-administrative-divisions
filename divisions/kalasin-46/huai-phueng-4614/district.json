@@ -1,0 +1,47 @@
+{
+  "id": "4614",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ห้วยผึ้ง",
+    "en": "Huai Phueng",
+    "slug": "huai-phueng-4614"
+  },
+  "code": {
+    "id": "4614",
+    "iso": null
+  },
+  "parent": {
+    "id": "46",
+    "level": 1,
+    "name": {
+      "local": "กาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin-46"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin-46"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.597",
+    "lon": "103.873"
+  },
+  "metadata": {},
+  "source": {}
+}

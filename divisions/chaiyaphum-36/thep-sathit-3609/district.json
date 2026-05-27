@@ -1,0 +1,47 @@
+{
+  "id": "3609",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เทพสถิต",
+    "en": "Thep Sathit",
+    "slug": "thep-sathit-3609"
+  },
+  "code": {
+    "id": "3609",
+    "iso": null
+  },
+  "parent": {
+    "id": "36",
+    "level": 1,
+    "name": {
+      "local": "ชัยภูมิ",
+      "en": "Chaiyaphum",
+      "slug": "chaiyaphum-36"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "36",
+      "level": 1,
+      "name": {
+        "local": "ชัยภูมิ",
+        "en": "Chaiyaphum",
+        "slug": "chaiyaphum-36"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.432",
+    "lon": "101.547"
+  },
+  "metadata": {},
+  "source": {}
+}

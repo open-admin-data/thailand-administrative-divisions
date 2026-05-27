@@ -1,0 +1,170 @@
+[
+  {
+    "id": "730702",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองโยง",
+      "en": "Khlong Yong",
+      "slug": "khlong-yong-730702"
+    },
+    "code": {
+      "id": "730702",
+      "iso": null
+    },
+    "parent": {
+      "id": "7307",
+      "level": 2,
+      "name": {
+        "local": "พุทธมณฑล",
+        "en": "Phutthamonthon",
+        "slug": "phutthamonthon-7307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7307",
+        "level": 2,
+        "name": {
+          "local": "พุทธมณฑล",
+          "en": "Phutthamonthon",
+          "slug": "phutthamonthon-7307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73170"
+    ],
+    "geo": {
+      "lat": "13.862",
+      "lon": "100.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "730703",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "มหาสวัสดิ์",
+      "en": "Maha Sawat",
+      "slug": "maha-sawat-730703"
+    },
+    "code": {
+      "id": "730703",
+      "iso": null
+    },
+    "parent": {
+      "id": "7307",
+      "level": 2,
+      "name": {
+        "local": "พุทธมณฑล",
+        "en": "Phutthamonthon",
+        "slug": "phutthamonthon-7307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7307",
+        "level": 2,
+        "name": {
+          "local": "พุทธมณฑล",
+          "en": "Phutthamonthon",
+          "slug": "phutthamonthon-7307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73170"
+    ],
+    "geo": {
+      "lat": "13.815",
+      "lon": "100.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "730701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ศาลายา",
+      "en": "Sala Ya",
+      "slug": "sala-ya-730701"
+    },
+    "code": {
+      "id": "730701",
+      "iso": null
+    },
+    "parent": {
+      "id": "7307",
+      "level": 2,
+      "name": {
+        "local": "พุทธมณฑล",
+        "en": "Phutthamonthon",
+        "slug": "phutthamonthon-7307"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7307",
+        "level": 2,
+        "name": {
+          "local": "พุทธมณฑล",
+          "en": "Phutthamonthon",
+          "slug": "phutthamonthon-7307"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73170"
+    ],
+    "geo": {
+      "lat": "13.813",
+      "lon": "100.305"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

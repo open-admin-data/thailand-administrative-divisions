@@ -1,0 +1,47 @@
+{
+  "id": "2410",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ท่าตะเกียบ",
+    "en": "Tha Takiap",
+    "slug": "tha-takiap-2410"
+  },
+  "code": {
+    "id": "2410",
+    "iso": null
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "local": "ฉะเชิงเทรา",
+      "en": "Chachoengsao",
+      "slug": "chachoengsao-24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao-24"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.508",
+    "lon": "101.639"
+  },
+  "metadata": {},
+  "source": {}
+}

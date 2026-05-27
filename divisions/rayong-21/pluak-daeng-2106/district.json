@@ -1,0 +1,47 @@
+{
+  "id": "2106",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ปลวกแดง",
+    "en": "Pluak Daeng",
+    "slug": "pluak-daeng-2106"
+  },
+  "code": {
+    "id": "2106",
+    "iso": null
+  },
+  "parent": {
+    "id": "21",
+    "level": 1,
+    "name": {
+      "local": "ระยอง",
+      "en": "Rayong",
+      "slug": "rayong-21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong-21"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.038",
+    "lon": "101.225"
+  },
+  "metadata": {},
+  "source": {}
+}

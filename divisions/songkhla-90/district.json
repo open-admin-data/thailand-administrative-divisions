@@ -1,0 +1,754 @@
+[
+  {
+    "id": "9014",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "บางกล่ำ",
+      "en": "Bang Klam",
+      "slug": "bang-klam-9014"
+    },
+    "code": {
+      "id": "9014",
+      "iso": null
+    },
+    "parent": {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.075",
+      "lon": "100.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9003",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "จะนะ",
+      "en": "Chana",
+      "slug": "chana-9003"
+    },
+    "code": {
+      "id": "9003",
+      "iso": null
+    },
+    "parent": {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 14
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.794",
+      "lon": "100.7"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9011",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "หาดใหญ่",
+      "en": "Hat Yai",
+      "slug": "hat-yai-9011"
+    },
+    "code": {
+      "id": "9011",
+      "iso": null
+    },
+    "parent": {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 13
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.045",
+      "lon": "100.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9016",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "คลองหอยโข่ง",
+      "en": "Khlong Hoi Khong",
+      "slug": "khlong-hoi-khong-9016"
+    },
+    "code": {
+      "id": "9016",
+      "iso": null
+    },
+    "parent": {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.886",
+      "lon": "100.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9013",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ควนเนียง",
+      "en": "Khuan Niang",
+      "slug": "khuan-niang-9013"
+    },
+    "code": {
+      "id": "9013",
+      "iso": null
+    },
+    "parent": {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.267",
+      "lon": "100.366"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9008",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "กระแสสินธุ์",
+      "en": "Krasae Sin",
+      "slug": "krasae-sin-9008"
+    },
+    "code": {
+      "id": "9008",
+      "iso": null
+    },
+    "parent": {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.561",
+      "lon": "100.356"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9001",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "เมืองสงขลา",
+      "en": "Mueang Songkhla",
+      "slug": "mueang-songkhla-9001"
+    },
+    "code": {
+      "id": "9001",
+      "iso": null
+    },
+    "parent": {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.163",
+      "lon": "100.542"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9012",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "นาหม่อม",
+      "en": "Na Mom",
+      "slug": "na-mom-9012"
+    },
+    "code": {
+      "id": "9012",
+      "iso": null
+    },
+    "parent": {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.965",
+      "lon": "100.529"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9004",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "นาทวี",
+      "en": "Na Thawi",
+      "slug": "na-thawi-9004"
+    },
+    "code": {
+      "id": "9004",
+      "iso": null
+    },
+    "parent": {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 10
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.781",
+      "lon": "100.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9007",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ระโนด",
+      "en": "Ranot",
+      "slug": "ranot-9007"
+    },
+    "code": {
+      "id": "9007",
+      "iso": null
+    },
+    "parent": {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 12
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.789",
+      "lon": "100.269"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9009",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "รัตภูมิ",
+      "en": "Rattaphum",
+      "slug": "rattaphum-9009"
+    },
+    "code": {
+      "id": "9009",
+      "iso": null
+    },
+    "parent": {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.183",
+      "lon": "100.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9006",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "สะบ้าย้อย",
+      "en": "Saba Yoi",
+      "slug": "saba-yoi-9006"
+    },
+    "code": {
+      "id": "9006",
+      "iso": null
+    },
+    "parent": {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.624",
+      "lon": "101.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9010",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "สะเดา",
+      "en": "Sadao",
+      "slug": "sadao-9010"
+    },
+    "code": {
+      "id": "9010",
+      "iso": null
+    },
+    "parent": {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.636",
+      "lon": "100.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9002",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "สทิงพระ",
+      "en": "Sathing Phra",
+      "slug": "sathing-phra-9002"
+    },
+    "code": {
+      "id": "9002",
+      "iso": null
+    },
+    "parent": {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.58",
+      "lon": "100.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9015",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "สิงหนคร",
+      "en": "Singhanakhon",
+      "slug": "singhanakhon-9015"
+    },
+    "code": {
+      "id": "9015",
+      "iso": null
+    },
+    "parent": {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 11
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.214",
+      "lon": "100.567"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "9005",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "เทพา",
+      "en": "Thepha",
+      "slug": "thepha-9005"
+    },
+    "code": {
+      "id": "9005",
+      "iso": null
+    },
+    "parent": {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "6.82",
+      "lon": "100.94"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

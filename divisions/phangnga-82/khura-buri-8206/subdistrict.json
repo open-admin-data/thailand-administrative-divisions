@@ -1,0 +1,226 @@
+[
+  {
+    "id": "820602",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางวัน",
+      "en": "Bang Wan",
+      "slug": "bang-wan-820602"
+    },
+    "code": {
+      "id": "820602",
+      "iso": null
+    },
+    "parent": {
+      "id": "8206",
+      "level": 2,
+      "name": {
+        "local": "คุระบุรี",
+        "en": "Khura Buri",
+        "slug": "khura-buri-8206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga-82"
+        }
+      },
+      {
+        "id": "8206",
+        "level": 2,
+        "name": {
+          "local": "คุระบุรี",
+          "en": "Khura Buri",
+          "slug": "khura-buri-8206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "82150"
+    ],
+    "geo": {
+      "lat": "9.046",
+      "lon": "98.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "820601",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คุระ",
+      "en": "Khura",
+      "slug": "khura-820601"
+    },
+    "code": {
+      "id": "820601",
+      "iso": null
+    },
+    "parent": {
+      "id": "8206",
+      "level": 2,
+      "name": {
+        "local": "คุระบุรี",
+        "en": "Khura Buri",
+        "slug": "khura-buri-8206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga-82"
+        }
+      },
+      {
+        "id": "8206",
+        "level": 2,
+        "name": {
+          "local": "คุระบุรี",
+          "en": "Khura Buri",
+          "slug": "khura-buri-8206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "82150"
+    ],
+    "geo": {
+      "lat": "9.262",
+      "lon": "98.414"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "820603",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เกาะพระทอง",
+      "en": "Ko Phra Thong",
+      "slug": "ko-phra-thong-820603"
+    },
+    "code": {
+      "id": "820603",
+      "iso": null
+    },
+    "parent": {
+      "id": "8206",
+      "level": 2,
+      "name": {
+        "local": "คุระบุรี",
+        "en": "Khura Buri",
+        "slug": "khura-buri-8206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga-82"
+        }
+      },
+      {
+        "id": "8206",
+        "level": 2,
+        "name": {
+          "local": "คุระบุรี",
+          "en": "Khura Buri",
+          "slug": "khura-buri-8206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "82150"
+    ],
+    "geo": {
+      "lat": "9.127",
+      "lon": "98.294"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "820605",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่นางขาว",
+      "en": "Mae Nang Khao",
+      "slug": "mae-nang-khao-820605"
+    },
+    "code": {
+      "id": "820605",
+      "iso": null
+    },
+    "parent": {
+      "id": "8206",
+      "level": 2,
+      "name": {
+        "local": "คุระบุรี",
+        "en": "Khura Buri",
+        "slug": "khura-buri-8206"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga-82"
+        }
+      },
+      {
+        "id": "8206",
+        "level": 2,
+        "name": {
+          "local": "คุระบุรี",
+          "en": "Khura Buri",
+          "slug": "khura-buri-8206"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "82150"
+    ],
+    "geo": {
+      "lat": "9.154",
+      "lon": "98.404"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

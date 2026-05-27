@@ -1,0 +1,47 @@
+{
+  "id": "3701",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองอำนาจเจริญ",
+    "en": "Mueang Amnat Charoen",
+    "slug": "mueang-amnat-charoen-3701"
+  },
+  "code": {
+    "id": "3701",
+    "iso": null
+  },
+  "parent": {
+    "id": "37",
+    "level": 1,
+    "name": {
+      "local": "อำนาจเจริญ",
+      "en": "Amnat Charoen",
+      "slug": "amnat-charoen-37"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen-37"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.823",
+    "lon": "104.562"
+  },
+  "metadata": {},
+  "source": {}
+}

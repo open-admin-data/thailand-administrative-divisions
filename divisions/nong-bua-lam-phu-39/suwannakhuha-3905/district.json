@@ -1,0 +1,47 @@
+{
+  "id": "3905",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สุวรรณคูหา",
+    "en": "Suwannakhuha",
+    "slug": "suwannakhuha-3905"
+  },
+  "code": {
+    "id": "3905",
+    "iso": null
+  },
+  "parent": {
+    "id": "39",
+    "level": 1,
+    "name": {
+      "local": "หนองบัวลำภู",
+      "en": "Nong Bua Lam Phu",
+      "slug": "nong-bua-lam-phu-39"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "local": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu-39"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.551",
+    "lon": "102.277"
+  },
+  "metadata": {},
+  "source": {}
+}

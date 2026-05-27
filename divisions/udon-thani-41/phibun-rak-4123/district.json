@@ -1,0 +1,47 @@
+{
+  "id": "4123",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พิบูลย์รักษ์",
+    "en": "Phibun Rak",
+    "slug": "phibun-rak-4123"
+  },
+  "code": {
+    "id": "4123",
+    "iso": null
+  },
+  "parent": {
+    "id": "41",
+    "level": 1,
+    "name": {
+      "local": "อุดรธานี",
+      "en": "Udon Thani",
+      "slug": "udon-thani-41"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "41",
+      "level": 1,
+      "name": {
+        "local": "อุดรธานี",
+        "en": "Udon Thani",
+        "slug": "udon-thani-41"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.563",
+    "lon": "103.123"
+  },
+  "metadata": {},
+  "source": {}
+}

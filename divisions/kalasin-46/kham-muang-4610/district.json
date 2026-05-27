@@ -1,0 +1,47 @@
+{
+  "id": "4610",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "คำม่วง",
+    "en": "Kham Muang",
+    "slug": "kham-muang-4610"
+  },
+  "code": {
+    "id": "4610",
+    "iso": null
+  },
+  "parent": {
+    "id": "46",
+    "level": 1,
+    "name": {
+      "local": "กาฬสินธุ์",
+      "en": "Kalasin",
+      "slug": "kalasin-46"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "46",
+      "level": 1,
+      "name": {
+        "local": "กาฬสินธุ์",
+        "en": "Kalasin",
+        "slug": "kalasin-46"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.803",
+    "lon": "103.655"
+  },
+  "metadata": {},
+  "source": {}
+}

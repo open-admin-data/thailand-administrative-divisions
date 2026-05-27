@@ -1,0 +1,47 @@
+{
+  "id": "5508",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ทุ่งช้าง",
+    "en": "Thung Chang",
+    "slug": "thung-chang-5508"
+  },
+  "code": {
+    "id": "5508",
+    "iso": null
+  },
+  "parent": {
+    "id": "55",
+    "level": 1,
+    "name": {
+      "local": "น่าน",
+      "en": "Nan",
+      "slug": "nan-55"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "local": "น่าน",
+        "en": "Nan",
+        "slug": "nan-55"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.447",
+    "lon": "100.811"
+  },
+  "metadata": {},
+  "source": {}
+}

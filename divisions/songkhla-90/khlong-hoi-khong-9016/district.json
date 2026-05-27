@@ -1,0 +1,47 @@
+{
+  "id": "9016",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "คลองหอยโข่ง",
+    "en": "Khlong Hoi Khong",
+    "slug": "khlong-hoi-khong-9016"
+  },
+  "code": {
+    "id": "9016",
+    "iso": null
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "local": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla-90"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.886",
+    "lon": "100.442"
+  },
+  "metadata": {},
+  "source": {}
+}

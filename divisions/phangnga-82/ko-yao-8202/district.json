@@ -1,0 +1,47 @@
+{
+  "id": "8202",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เกาะยาว",
+    "en": "Ko Yao",
+    "slug": "ko-yao-8202"
+  },
+  "code": {
+    "id": "8202",
+    "iso": null
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "local": "พังงา",
+      "en": "Phangnga",
+      "slug": "phangnga-82"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga-82"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.892",
+    "lon": "98.581"
+  },
+  "metadata": {},
+  "source": {}
+}

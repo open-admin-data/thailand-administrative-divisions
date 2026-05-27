@@ -1,0 +1,47 @@
+{
+  "id": "6108",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ห้วยคต",
+    "en": "Huai Khot",
+    "slug": "huai-khot-6108"
+  },
+  "code": {
+    "id": "6108",
+    "iso": null
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "local": "อุทัยธานี",
+      "en": "Uthai Thani",
+      "slug": "uthai-thani-61"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani-61"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.274",
+    "lon": "99.646"
+  },
+  "metadata": {},
+  "source": {}
+}

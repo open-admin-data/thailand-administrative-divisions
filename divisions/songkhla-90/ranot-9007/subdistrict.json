@@ -1,0 +1,674 @@
+[
+  {
+    "id": "900711",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านขาว",
+      "en": "Ban Khao",
+      "slug": "ban-khao-900711"
+    },
+    "code": {
+      "id": "900711",
+      "iso": null
+    },
+    "parent": {
+      "id": "9007",
+      "level": 2,
+      "name": {
+        "local": "ระโนด",
+        "en": "Ranot",
+        "slug": "ranot-9007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9007",
+        "level": 2,
+        "name": {
+          "local": "ระโนด",
+          "en": "Ranot",
+          "slug": "ranot-9007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90140"
+    ],
+    "geo": {
+      "lat": "7.833",
+      "lon": "100.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900705",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านใหม่",
+      "en": "Ban Mai",
+      "slug": "ban-mai-900705"
+    },
+    "code": {
+      "id": "900705",
+      "iso": null
+    },
+    "parent": {
+      "id": "9007",
+      "level": 2,
+      "name": {
+        "local": "ระโนด",
+        "en": "Ranot",
+        "slug": "ranot-9007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9007",
+        "level": 2,
+        "name": {
+          "local": "ระโนด",
+          "en": "Ranot",
+          "slug": "ranot-9007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90140"
+    ],
+    "geo": {
+      "lat": "7.821",
+      "lon": "100.3"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900706",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ่อตรุ",
+      "en": "Bo Tru",
+      "slug": "bo-tru-900706"
+    },
+    "code": {
+      "id": "900706",
+      "iso": null
+    },
+    "parent": {
+      "id": "9007",
+      "level": 2,
+      "name": {
+        "local": "ระโนด",
+        "en": "Ranot",
+        "slug": "ranot-9007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9007",
+        "level": 2,
+        "name": {
+          "local": "ระโนด",
+          "en": "Ranot",
+          "slug": "ranot-9007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90140"
+    ],
+    "geo": {
+      "lat": "7.631",
+      "lon": "100.374"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900712",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แดนสงวน",
+      "en": "Daen Sa-nguan",
+      "slug": "daen-sa-nguan-900712"
+    },
+    "code": {
+      "id": "900712",
+      "iso": null
+    },
+    "parent": {
+      "id": "9007",
+      "level": 2,
+      "name": {
+        "local": "ระโนด",
+        "en": "Ranot",
+        "slug": "ranot-9007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9007",
+        "level": 2,
+        "name": {
+          "local": "ระโนด",
+          "en": "Ranot",
+          "slug": "ranot-9007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90140"
+    ],
+    "geo": {
+      "lat": "7.878",
+      "lon": "100.291"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900702",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองแดน",
+      "en": "Khlong Daen",
+      "slug": "khlong-daen-900702"
+    },
+    "code": {
+      "id": "900702",
+      "iso": null
+    },
+    "parent": {
+      "id": "9007",
+      "level": 2,
+      "name": {
+        "local": "ระโนด",
+        "en": "Ranot",
+        "slug": "ranot-9007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9007",
+        "level": 2,
+        "name": {
+          "local": "ระโนด",
+          "en": "Ranot",
+          "slug": "ranot-9007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90140"
+    ],
+    "geo": {
+      "lat": "7.912",
+      "lon": "100.319"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900707",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปากแตระ",
+      "en": "Pak Trae",
+      "slug": "pak-trae-900707"
+    },
+    "code": {
+      "id": "900707",
+      "iso": null
+    },
+    "parent": {
+      "id": "9007",
+      "level": 2,
+      "name": {
+        "local": "ระโนด",
+        "en": "Ranot",
+        "slug": "ranot-9007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9007",
+        "level": 2,
+        "name": {
+          "local": "ระโนด",
+          "en": "Ranot",
+          "slug": "ranot-9007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90140"
+    ],
+    "geo": {
+      "lat": "7.766",
+      "lon": "100.358"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900708",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "พังยาง",
+      "en": "Phang Yang",
+      "slug": "phang-yang-900708"
+    },
+    "code": {
+      "id": "900708",
+      "iso": null
+    },
+    "parent": {
+      "id": "9007",
+      "level": 2,
+      "name": {
+        "local": "ระโนด",
+        "en": "Ranot",
+        "slug": "ranot-9007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9007",
+        "level": 2,
+        "name": {
+          "local": "ระโนด",
+          "en": "Ranot",
+          "slug": "ranot-9007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90140"
+    ],
+    "geo": {
+      "lat": "7.721",
+      "lon": "100.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ระโนด",
+      "en": "Ranot",
+      "slug": "ranot-900701"
+    },
+    "code": {
+      "id": "900701",
+      "iso": null
+    },
+    "parent": {
+      "id": "9007",
+      "level": 2,
+      "name": {
+        "local": "ระโนด",
+        "en": "Ranot",
+        "slug": "ranot-9007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9007",
+        "level": 2,
+        "name": {
+          "local": "ระโนด",
+          "en": "Ranot",
+          "slug": "ranot-9007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90140"
+    ],
+    "geo": {
+      "lat": "7.728",
+      "lon": "100.267"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900709",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ระวะ",
+      "en": "Rawa",
+      "slug": "rawa-900709"
+    },
+    "code": {
+      "id": "900709",
+      "iso": null
+    },
+    "parent": {
+      "id": "9007",
+      "level": 2,
+      "name": {
+        "local": "ระโนด",
+        "en": "Ranot",
+        "slug": "ranot-9007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9007",
+        "level": 2,
+        "name": {
+          "local": "ระโนด",
+          "en": "Ranot",
+          "slug": "ranot-9007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90140"
+    ],
+    "geo": {
+      "lat": "7.713",
+      "lon": "100.378"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900703",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตาเครียะ",
+      "en": "Takhria",
+      "slug": "takhria-900703"
+    },
+    "code": {
+      "id": "900703",
+      "iso": null
+    },
+    "parent": {
+      "id": "9007",
+      "level": 2,
+      "name": {
+        "local": "ระโนด",
+        "en": "Ranot",
+        "slug": "ranot-9007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9007",
+        "level": 2,
+        "name": {
+          "local": "ระโนด",
+          "en": "Ranot",
+          "slug": "ranot-9007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90140"
+    ],
+    "geo": {
+      "lat": "7.848",
+      "lon": "100.256"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900704",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าบอน",
+      "en": "Tha Bon",
+      "slug": "tha-bon-900704"
+    },
+    "code": {
+      "id": "900704",
+      "iso": null
+    },
+    "parent": {
+      "id": "9007",
+      "level": 2,
+      "name": {
+        "local": "ระโนด",
+        "en": "Ranot",
+        "slug": "ranot-9007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9007",
+        "level": 2,
+        "name": {
+          "local": "ระโนด",
+          "en": "Ranot",
+          "slug": "ranot-9007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90140"
+    ],
+    "geo": {
+      "lat": "7.842",
+      "lon": "100.342"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900710",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วัดสน",
+      "en": "Wat Son",
+      "slug": "wat-son-900710"
+    },
+    "code": {
+      "id": "900710",
+      "iso": null
+    },
+    "parent": {
+      "id": "9007",
+      "level": 2,
+      "name": {
+        "local": "ระโนด",
+        "en": "Ranot",
+        "slug": "ranot-9007"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9007",
+        "level": 2,
+        "name": {
+          "local": "ระโนด",
+          "en": "Ranot",
+          "slug": "ranot-9007"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90140"
+    ],
+    "geo": {
+      "lat": "7.668",
+      "lon": "100.372"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

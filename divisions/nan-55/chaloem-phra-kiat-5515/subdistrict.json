@@ -1,0 +1,114 @@
+[
+  {
+    "id": "551501",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ห้วยโก๋น",
+      "en": "Huai Kon",
+      "slug": "huai-kon-551501"
+    },
+    "code": {
+      "id": "551501",
+      "iso": null
+    },
+    "parent": {
+      "id": "5515",
+      "level": 2,
+      "name": {
+        "local": "เฉลิมพระเกียรติ",
+        "en": "Chaloem Phra Kiat",
+        "slug": "chaloem-phra-kiat-5515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5515",
+        "level": 2,
+        "name": {
+          "local": "เฉลิมพระเกียรติ",
+          "en": "Chaloem Phra Kiat",
+          "slug": "chaloem-phra-kiat-5515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55130"
+    ],
+    "geo": {
+      "lat": "19.559",
+      "lon": "101.046"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "551502",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ขุนน่าน",
+      "en": "Khun Nan",
+      "slug": "khun-nan-551502"
+    },
+    "code": {
+      "id": "551502",
+      "iso": null
+    },
+    "parent": {
+      "id": "5515",
+      "level": 2,
+      "name": {
+        "local": "เฉลิมพระเกียรติ",
+        "en": "Chaloem Phra Kiat",
+        "slug": "chaloem-phra-kiat-5515"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5515",
+        "level": 2,
+        "name": {
+          "local": "เฉลิมพระเกียรติ",
+          "en": "Chaloem Phra Kiat",
+          "slug": "chaloem-phra-kiat-5515"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55130"
+    ],
+    "geo": {
+      "lat": "19.45",
+      "lon": "101.128"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

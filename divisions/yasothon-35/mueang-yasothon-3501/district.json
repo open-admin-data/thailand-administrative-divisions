@@ -1,0 +1,47 @@
+{
+  "id": "3501",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองยโสธร",
+    "en": "Mueang Yasothon",
+    "slug": "mueang-yasothon-3501"
+  },
+  "code": {
+    "id": "3501",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "ยโสธร",
+      "en": "Yasothon",
+      "slug": "yasothon-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon-35"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.799",
+    "lon": "104.148"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "6401",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองสุโขทัย",
+    "en": "Mueang Sukhothai",
+    "slug": "mueang-sukhothai-6401"
+  },
+  "code": {
+    "id": "6401",
+    "iso": null
+  },
+  "parent": {
+    "id": "64",
+    "level": 1,
+    "name": {
+      "local": "สุโขทัย",
+      "en": "Sukhothai",
+      "slug": "sukhothai-64"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai-64"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.012",
+    "lon": "99.822"
+  },
+  "metadata": {},
+  "source": {}
+}

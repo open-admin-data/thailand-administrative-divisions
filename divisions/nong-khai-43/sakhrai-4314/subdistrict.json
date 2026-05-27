@@ -1,0 +1,170 @@
+[
+  {
+    "id": "431403",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านฝาง",
+      "en": "Ban Fang",
+      "slug": "ban-fang-431403"
+    },
+    "code": {
+      "id": "431403",
+      "iso": null
+    },
+    "parent": {
+      "id": "4314",
+      "level": 2,
+      "name": {
+        "local": "สระใคร",
+        "en": "Sakhrai",
+        "slug": "sakhrai-4314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "43",
+        "level": 1,
+        "name": {
+          "local": "หนองคาย",
+          "en": "Nong Khai",
+          "slug": "nong-khai-43"
+        }
+      },
+      {
+        "id": "4314",
+        "level": 2,
+        "name": {
+          "local": "สระใคร",
+          "en": "Sakhrai",
+          "slug": "sakhrai-4314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43100"
+    ],
+    "geo": {
+      "lat": "17.651",
+      "lon": "102.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "431402",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คอกช้าง",
+      "en": "Khok Chang",
+      "slug": "khok-chang-431402"
+    },
+    "code": {
+      "id": "431402",
+      "iso": null
+    },
+    "parent": {
+      "id": "4314",
+      "level": 2,
+      "name": {
+        "local": "สระใคร",
+        "en": "Sakhrai",
+        "slug": "sakhrai-4314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "43",
+        "level": 1,
+        "name": {
+          "local": "หนองคาย",
+          "en": "Nong Khai",
+          "slug": "nong-khai-43"
+        }
+      },
+      {
+        "id": "4314",
+        "level": 2,
+        "name": {
+          "local": "สระใคร",
+          "en": "Sakhrai",
+          "slug": "sakhrai-4314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43100"
+    ],
+    "geo": {
+      "lat": "17.638",
+      "lon": "102.736"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "431401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สระใคร",
+      "en": "Sakhrai",
+      "slug": "sakhrai-431401"
+    },
+    "code": {
+      "id": "431401",
+      "iso": null
+    },
+    "parent": {
+      "id": "4314",
+      "level": 2,
+      "name": {
+        "local": "สระใคร",
+        "en": "Sakhrai",
+        "slug": "sakhrai-4314"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "43",
+        "level": 1,
+        "name": {
+          "local": "หนองคาย",
+          "en": "Nong Khai",
+          "slug": "nong-khai-43"
+        }
+      },
+      {
+        "id": "4314",
+        "level": 2,
+        "name": {
+          "local": "สระใคร",
+          "en": "Sakhrai",
+          "slug": "sakhrai-4314"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43100"
+    ],
+    "geo": {
+      "lat": "17.703",
+      "lon": "102.75"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

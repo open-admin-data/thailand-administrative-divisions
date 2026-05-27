@@ -1,0 +1,47 @@
+{
+  "id": "9306",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ปากพะยูน",
+    "en": "Pak Phayun",
+    "slug": "pak-phayun-9306"
+  },
+  "code": {
+    "id": "9306",
+    "iso": null
+  },
+  "parent": {
+    "id": "93",
+    "level": 1,
+    "name": {
+      "local": "พัทลุง",
+      "en": "Phatthalung",
+      "slug": "phatthalung-93"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "local": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung-93"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.244",
+    "lon": "100.321"
+  },
+  "metadata": {},
+  "source": {}
+}

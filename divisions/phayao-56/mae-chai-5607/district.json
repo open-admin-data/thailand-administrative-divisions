@@ -1,0 +1,47 @@
+{
+  "id": "5607",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "แม่ใจ",
+    "en": "Mae Chai",
+    "slug": "mae-chai-5607"
+  },
+  "code": {
+    "id": "5607",
+    "iso": null
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "local": "พะเยา",
+      "en": "Phayao",
+      "slug": "phayao-56"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao-56"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.33",
+    "lon": "99.846"
+  },
+  "metadata": {},
+  "source": {}
+}

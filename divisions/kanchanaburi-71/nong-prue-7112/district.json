@@ -1,0 +1,47 @@
+{
+  "id": "7112",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "หนองปรือ",
+    "en": "Nong Prue",
+    "slug": "nong-prue-7112"
+  },
+  "code": {
+    "id": "7112",
+    "iso": null
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "local": "กาญจนบุรี",
+      "en": "Kanchanaburi",
+      "slug": "kanchanaburi-71"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi-71"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.626",
+    "lon": "99.527"
+  },
+  "metadata": {},
+  "source": {}
+}

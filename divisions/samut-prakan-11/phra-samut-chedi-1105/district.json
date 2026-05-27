@@ -1,0 +1,47 @@
+{
+  "id": "1105",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พระสมุทรเจดีย์",
+    "en": "Phra Samut Chedi",
+    "slug": "phra-samut-chedi-1105"
+  },
+  "code": {
+    "id": "1105",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan-11"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.606",
+    "lon": "100.567"
+  },
+  "metadata": {},
+  "source": {}
+}

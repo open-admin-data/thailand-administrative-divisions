@@ -1,0 +1,47 @@
+{
+  "id": "8108",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เหนือคลอง",
+    "en": "Nuea Khlong",
+    "slug": "nuea-khlong-8108"
+  },
+  "code": {
+    "id": "8108",
+    "iso": null
+  },
+  "parent": {
+    "id": "81",
+    "level": 1,
+    "name": {
+      "local": "กระบี่",
+      "en": "Krabi",
+      "slug": "krabi-81"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi-81"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.801",
+    "lon": "98.995"
+  },
+  "metadata": {},
+  "source": {}
+}

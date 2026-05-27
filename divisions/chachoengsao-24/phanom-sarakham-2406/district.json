@@ -1,0 +1,47 @@
+{
+  "id": "2406",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พนมสารคาม",
+    "en": "Phanom Sarakham",
+    "slug": "phanom-sarakham-2406"
+  },
+  "code": {
+    "id": "2406",
+    "iso": null
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "local": "ฉะเชิงเทรา",
+      "en": "Chachoengsao",
+      "slug": "chachoengsao-24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao-24"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.76",
+    "lon": "101.383"
+  },
+  "metadata": {},
+  "source": {}
+}

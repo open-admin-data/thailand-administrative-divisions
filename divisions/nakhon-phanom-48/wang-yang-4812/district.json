@@ -1,0 +1,47 @@
+{
+  "id": "4812",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "วังยาง",
+    "en": "Wang Yang",
+    "slug": "wang-yang-4812"
+  },
+  "code": {
+    "id": "4812",
+    "iso": null
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "local": "นครพนม",
+      "en": "Nakhon Phanom",
+      "slug": "nakhon-phanom-48"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom-48"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.065",
+    "lon": "104.482"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "102803",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งมหาเมฆ",
+      "en": "Thung Maha Mek",
+      "slug": "thung-maha-mek-102803"
+    },
+    "code": {
+      "id": "102803",
+      "iso": null
+    },
+    "parent": {
+      "id": "1028",
+      "level": 2,
+      "name": {
+        "local": "สาทร",
+        "en": "Sathon",
+        "slug": "sathon-1028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1028",
+        "level": 2,
+        "name": {
+          "local": "สาทร",
+          "en": "Sathon",
+          "slug": "sathon-1028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10120"
+    ],
+    "geo": {
+      "lat": "13.718",
+      "lon": "100.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "102801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งวัดดอน",
+      "en": "Thung Wat Don",
+      "slug": "thung-wat-don-102801"
+    },
+    "code": {
+      "id": "102801",
+      "iso": null
+    },
+    "parent": {
+      "id": "1028",
+      "level": 2,
+      "name": {
+        "local": "สาทร",
+        "en": "Sathon",
+        "slug": "sathon-1028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1028",
+        "level": 2,
+        "name": {
+          "local": "สาทร",
+          "en": "Sathon",
+          "slug": "sathon-1028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10120"
+    ],
+    "geo": {
+      "lat": "13.71",
+      "lon": "100.532"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "102802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ยานนาวา",
+      "en": "Yan Nawa",
+      "slug": "yan-nawa-102802"
+    },
+    "code": {
+      "id": "102802",
+      "iso": null
+    },
+    "parent": {
+      "id": "1028",
+      "level": 2,
+      "name": {
+        "local": "สาทร",
+        "en": "Sathon",
+        "slug": "sathon-1028"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1028",
+        "level": 2,
+        "name": {
+          "local": "สาทร",
+          "en": "Sathon",
+          "slug": "sathon-1028"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10120"
+    ],
+    "geo": {
+      "lat": "13.714",
+      "lon": "100.514"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

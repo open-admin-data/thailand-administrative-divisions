@@ -1,0 +1,47 @@
+{
+  "id": "7205",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ศรีประจันต์",
+    "en": "Si Prachan",
+    "slug": "si-prachan-7205"
+  },
+  "code": {
+    "id": "7205",
+    "iso": null
+  },
+  "parent": {
+    "id": "72",
+    "level": 1,
+    "name": {
+      "local": "สุพรรณบุรี",
+      "en": "Suphan Buri",
+      "slug": "suphan-buri-72"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "72",
+      "level": 1,
+      "name": {
+        "local": "สุพรรณบุรี",
+        "en": "Suphan Buri",
+        "slug": "suphan-buri-72"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.661",
+    "lon": "100.095"
+  },
+  "metadata": {},
+  "source": {}
+}

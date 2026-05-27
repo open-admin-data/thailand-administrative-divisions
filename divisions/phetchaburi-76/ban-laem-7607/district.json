@@ -1,0 +1,47 @@
+{
+  "id": "7607",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ้านแหลม",
+    "en": "Ban Laem",
+    "slug": "ban-laem-7607"
+  },
+  "code": {
+    "id": "7607",
+    "iso": null
+  },
+  "parent": {
+    "id": "76",
+    "level": 1,
+    "name": {
+      "local": "เพชรบุรี",
+      "en": "Phetchaburi",
+      "slug": "phetchaburi-76"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "76",
+      "level": 1,
+      "name": {
+        "local": "เพชรบุรี",
+        "en": "Phetchaburi",
+        "slug": "phetchaburi-76"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.155",
+    "lon": "99.976"
+  },
+  "metadata": {},
+  "source": {}
+}

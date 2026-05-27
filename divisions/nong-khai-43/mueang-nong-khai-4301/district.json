@@ -1,0 +1,47 @@
+{
+  "id": "4301",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองหนองคาย",
+    "en": "Mueang Nong Khai",
+    "slug": "mueang-nong-khai-4301"
+  },
+  "code": {
+    "id": "4301",
+    "iso": null
+  },
+  "parent": {
+    "id": "43",
+    "level": 1,
+    "name": {
+      "local": "หนองคาย",
+      "en": "Nong Khai",
+      "slug": "nong-khai-43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "local": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai-43"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.89",
+    "lon": "102.761"
+  },
+  "metadata": {},
+  "source": {}
+}

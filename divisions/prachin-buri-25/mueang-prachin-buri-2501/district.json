@@ -1,0 +1,47 @@
+{
+  "id": "2501",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองปราจีนบุรี",
+    "en": "Mueang Prachin Buri",
+    "slug": "mueang-prachin-buri-2501"
+  },
+  "code": {
+    "id": "2501",
+    "iso": null
+  },
+  "parent": {
+    "id": "25",
+    "level": 1,
+    "name": {
+      "local": "ปราจีนบุรี",
+      "en": "Prachin Buri",
+      "slug": "prachin-buri-25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri-25"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.057",
+    "lon": "101.374"
+  },
+  "metadata": {},
+  "source": {}
+}

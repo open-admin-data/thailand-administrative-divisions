@@ -1,0 +1,170 @@
+[
+  {
+    "id": "502001",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เมืองแหง",
+      "en": "Mueang Haeng",
+      "slug": "mueang-haeng-502001"
+    },
+    "code": {
+      "id": "502001",
+      "iso": null
+    },
+    "parent": {
+      "id": "5020",
+      "level": 2,
+      "name": {
+        "local": "เวียงแหง",
+        "en": "Wiang Haeng",
+        "slug": "wiang-haeng-5020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5020",
+        "level": 2,
+        "name": {
+          "local": "เวียงแหง",
+          "en": "Wiang Haeng",
+          "slug": "wiang-haeng-5020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50350"
+    ],
+    "geo": {
+      "lat": "19.515",
+      "lon": "98.639"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "502002",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เปียงหลวง",
+      "en": "Piang Luang",
+      "slug": "piang-luang-502002"
+    },
+    "code": {
+      "id": "502002",
+      "iso": null
+    },
+    "parent": {
+      "id": "5020",
+      "level": 2,
+      "name": {
+        "local": "เวียงแหง",
+        "en": "Wiang Haeng",
+        "slug": "wiang-haeng-5020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5020",
+        "level": 2,
+        "name": {
+          "local": "เวียงแหง",
+          "en": "Wiang Haeng",
+          "slug": "wiang-haeng-5020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50350"
+    ],
+    "geo": {
+      "lat": "19.692",
+      "lon": "98.693"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "502003",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แสนไห",
+      "en": "Saen Hai",
+      "slug": "saen-hai-502003"
+    },
+    "code": {
+      "id": "502003",
+      "iso": null
+    },
+    "parent": {
+      "id": "5020",
+      "level": 2,
+      "name": {
+        "local": "เวียงแหง",
+        "en": "Wiang Haeng",
+        "slug": "wiang-haeng-5020"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5020",
+        "level": 2,
+        "name": {
+          "local": "เวียงแหง",
+          "en": "Wiang Haeng",
+          "slug": "wiang-haeng-5020"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50350"
+    ],
+    "geo": {
+      "lat": "19.615",
+      "lon": "98.632"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

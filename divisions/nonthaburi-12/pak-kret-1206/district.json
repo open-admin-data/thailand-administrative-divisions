@@ -1,0 +1,47 @@
+{
+  "id": "1206",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ปากเกร็ด",
+    "en": "Pak Kret",
+    "slug": "pak-kret-1206"
+  },
+  "code": {
+    "id": "1206",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "นนทบุรี",
+      "en": "Nonthaburi",
+      "slug": "nonthaburi-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi-12"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.902",
+    "lon": "100.55"
+  },
+  "metadata": {},
+  "source": {}
+}

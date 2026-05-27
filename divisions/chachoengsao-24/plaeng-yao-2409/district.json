@@ -1,0 +1,47 @@
+{
+  "id": "2409",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "แปลงยาว",
+    "en": "Plaeng Yao",
+    "slug": "plaeng-yao-2409"
+  },
+  "code": {
+    "id": "2409",
+    "iso": null
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "local": "ฉะเชิงเทรา",
+      "en": "Chachoengsao",
+      "slug": "chachoengsao-24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao-24"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.599",
+    "lon": "101.293"
+  },
+  "metadata": {},
+  "source": {}
+}

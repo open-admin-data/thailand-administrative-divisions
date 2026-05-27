@@ -1,0 +1,47 @@
+{
+  "id": "6210",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บึงสามัคคี",
+    "en": "Bueng Samakkhi",
+    "slug": "bueng-samakkhi-6210"
+  },
+  "code": {
+    "id": "6210",
+    "iso": null
+  },
+  "parent": {
+    "id": "62",
+    "level": 1,
+    "name": {
+      "local": "กำแพงเพชร",
+      "en": "Kamphaeng Phet",
+      "slug": "kamphaeng-phet-62"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "62",
+      "level": 1,
+      "name": {
+        "local": "กำแพงเพชร",
+        "en": "Kamphaeng Phet",
+        "slug": "kamphaeng-phet-62"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.158",
+    "lon": "99.941"
+  },
+  "metadata": {},
+  "source": {}
+}

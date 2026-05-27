@@ -1,0 +1,47 @@
+{
+  "id": "7007",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "โพธาราม",
+    "en": "Photharam",
+    "slug": "photharam-7007"
+  },
+  "code": {
+    "id": "7007",
+    "iso": null
+  },
+  "parent": {
+    "id": "70",
+    "level": 1,
+    "name": {
+      "local": "ราชบุรี",
+      "en": "Ratchaburi",
+      "slug": "ratchaburi-70"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "local": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi-70"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.695",
+    "lon": "99.853"
+  },
+  "metadata": {},
+  "source": {}
+}

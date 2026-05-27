@@ -1,0 +1,47 @@
+{
+  "id": "8501",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองระนอง",
+    "en": "Mueang Ranong",
+    "slug": "mueang-ranong-8501"
+  },
+  "code": {
+    "id": "8501",
+    "iso": null
+  },
+  "parent": {
+    "id": "85",
+    "level": 1,
+    "name": {
+      "local": "ระนอง",
+      "en": "Ranong",
+      "slug": "ranong-85"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "85",
+      "level": 1,
+      "name": {
+        "local": "ระนอง",
+        "en": "Ranong",
+        "slug": "ranong-85"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.877",
+    "lon": "98.442"
+  },
+  "metadata": {},
+  "source": {}
+}

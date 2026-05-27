@@ -1,0 +1,226 @@
+[
+  {
+    "id": "190703",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านหลวง",
+      "en": "Ban Luang",
+      "slug": "ban-luang-190703"
+    },
+    "code": {
+      "id": "190703",
+      "iso": null
+    },
+    "parent": {
+      "id": "1907",
+      "level": 2,
+      "name": {
+        "local": "ดอนพุด",
+        "en": "Don Phut",
+        "slug": "don-phut-1907"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1907",
+        "level": 2,
+        "name": {
+          "local": "ดอนพุด",
+          "en": "Don Phut",
+          "slug": "don-phut-1907"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18210"
+    ],
+    "geo": {
+      "lat": "14.571",
+      "lon": "100.62"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดอนพุด",
+      "en": "Don Phut",
+      "slug": "don-phut-190701"
+    },
+    "code": {
+      "id": "190701",
+      "iso": null
+    },
+    "parent": {
+      "id": "1907",
+      "level": 2,
+      "name": {
+        "local": "ดอนพุด",
+        "en": "Don Phut",
+        "slug": "don-phut-1907"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1907",
+        "level": 2,
+        "name": {
+          "local": "ดอนพุด",
+          "en": "Don Phut",
+          "slug": "don-phut-1907"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18210"
+    ],
+    "geo": {
+      "lat": "14.596",
+      "lon": "100.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190704",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดงตะงาว",
+      "en": "Dong Ta-ngao",
+      "slug": "dong-ta-ngao-190704"
+    },
+    "code": {
+      "id": "190704",
+      "iso": null
+    },
+    "parent": {
+      "id": "1907",
+      "level": 2,
+      "name": {
+        "local": "ดอนพุด",
+        "en": "Don Phut",
+        "slug": "don-phut-1907"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1907",
+        "level": 2,
+        "name": {
+          "local": "ดอนพุด",
+          "en": "Don Phut",
+          "slug": "don-phut-1907"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18210"
+    ],
+    "geo": {
+      "lat": "14.624",
+      "lon": "100.599"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190702",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ไผ่หลิ่ว",
+      "en": "Phai Lio",
+      "slug": "phai-lio-190702"
+    },
+    "code": {
+      "id": "190702",
+      "iso": null
+    },
+    "parent": {
+      "id": "1907",
+      "level": 2,
+      "name": {
+        "local": "ดอนพุด",
+        "en": "Don Phut",
+        "slug": "don-phut-1907"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1907",
+        "level": 2,
+        "name": {
+          "local": "ดอนพุด",
+          "en": "Don Phut",
+          "slug": "don-phut-1907"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18210"
+    ],
+    "geo": {
+      "lat": "14.625",
+      "lon": "100.632"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

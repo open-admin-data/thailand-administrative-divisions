@@ -1,0 +1,730 @@
+[
+  {
+    "id": "901116",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านพรุ",
+      "en": "Ban Phru",
+      "slug": "ban-phru-901116"
+    },
+    "code": {
+      "id": "901116",
+      "iso": null
+    },
+    "parent": {
+      "id": "9011",
+      "level": 2,
+      "name": {
+        "local": "หาดใหญ่",
+        "en": "Hat Yai",
+        "slug": "hat-yai-9011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9011",
+        "level": 2,
+        "name": {
+          "local": "หาดใหญ่",
+          "en": "Hat Yai",
+          "slug": "hat-yai-9011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90250"
+    ],
+    "geo": {
+      "lat": "6.929",
+      "lon": "100.49"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901108",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ฉลุง",
+      "en": "Chalung",
+      "slug": "chalung-901108"
+    },
+    "code": {
+      "id": "901108",
+      "iso": null
+    },
+    "parent": {
+      "id": "9011",
+      "level": 2,
+      "name": {
+        "local": "หาดใหญ่",
+        "en": "Hat Yai",
+        "slug": "hat-yai-9011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9011",
+        "level": 2,
+        "name": {
+          "local": "หาดใหญ่",
+          "en": "Hat Yai",
+          "slug": "hat-yai-9011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90110"
+    ],
+    "geo": {
+      "lat": "7.007",
+      "lon": "100.296"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901101",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หาดใหญ่",
+      "en": "Hat Yai",
+      "slug": "hat-yai-901101"
+    },
+    "code": {
+      "id": "901101",
+      "iso": null
+    },
+    "parent": {
+      "id": "9011",
+      "level": 2,
+      "name": {
+        "local": "หาดใหญ่",
+        "en": "Hat Yai",
+        "slug": "hat-yai-9011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9011",
+        "level": 2,
+        "name": {
+          "local": "หาดใหญ่",
+          "en": "Hat Yai",
+          "slug": "hat-yai-9011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90110"
+    ],
+    "geo": {
+      "lat": "7.01",
+      "lon": "100.474"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901105",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองแห",
+      "en": "Khlong Hae",
+      "slug": "khlong-hae-901105"
+    },
+    "code": {
+      "id": "901105",
+      "iso": null
+    },
+    "parent": {
+      "id": "9011",
+      "level": 2,
+      "name": {
+        "local": "หาดใหญ่",
+        "en": "Hat Yai",
+        "slug": "hat-yai-9011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9011",
+        "level": 2,
+        "name": {
+          "local": "หาดใหญ่",
+          "en": "Hat Yai",
+          "slug": "hat-yai-9011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90110"
+    ],
+    "geo": {
+      "lat": "7.055",
+      "lon": "100.48"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901107",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองอู่ตะเภา",
+      "en": "Khlong U Taphao",
+      "slug": "khlong-u-taphao-901107"
+    },
+    "code": {
+      "id": "901107",
+      "iso": null
+    },
+    "parent": {
+      "id": "9011",
+      "level": 2,
+      "name": {
+        "local": "หาดใหญ่",
+        "en": "Hat Yai",
+        "slug": "hat-yai-9011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9011",
+        "level": 2,
+        "name": {
+          "local": "หาดใหญ่",
+          "en": "Hat Yai",
+          "slug": "hat-yai-9011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90110"
+    ],
+    "geo": {
+      "lat": "7.045",
+      "lon": "100.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901104",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คอหงส์",
+      "en": "Kho Hong",
+      "slug": "kho-hong-901104"
+    },
+    "code": {
+      "id": "901104",
+      "iso": null
+    },
+    "parent": {
+      "id": "9011",
+      "level": 2,
+      "name": {
+        "local": "หาดใหญ่",
+        "en": "Hat Yai",
+        "slug": "hat-yai-9011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9011",
+        "level": 2,
+        "name": {
+          "local": "หาดใหญ่",
+          "en": "Hat Yai",
+          "slug": "hat-yai-9011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90110"
+    ],
+    "geo": {
+      "lat": "7.006",
+      "lon": "100.503"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901103",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คูเต่า",
+      "en": "Khu Tao",
+      "slug": "khu-tao-901103"
+    },
+    "code": {
+      "id": "901103",
+      "iso": null
+    },
+    "parent": {
+      "id": "9011",
+      "level": 2,
+      "name": {
+        "local": "หาดใหญ่",
+        "en": "Hat Yai",
+        "slug": "hat-yai-9011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9011",
+        "level": 2,
+        "name": {
+          "local": "หาดใหญ่",
+          "en": "Hat Yai",
+          "slug": "hat-yai-9011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90110"
+    ],
+    "geo": {
+      "lat": "7.133",
+      "lon": "100.481"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901102",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ควนลัง",
+      "en": "Khuan Lang",
+      "slug": "khuan-lang-901102"
+    },
+    "code": {
+      "id": "901102",
+      "iso": null
+    },
+    "parent": {
+      "id": "9011",
+      "level": 2,
+      "name": {
+        "local": "หาดใหญ่",
+        "en": "Hat Yai",
+        "slug": "hat-yai-9011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9011",
+        "level": 2,
+        "name": {
+          "local": "หาดใหญ่",
+          "en": "Hat Yai",
+          "slug": "hat-yai-9011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90110"
+    ],
+    "geo": {
+      "lat": "6.973",
+      "lon": "100.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901114",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "น้ำน้อย",
+      "en": "Nam Noi",
+      "slug": "nam-noi-901114"
+    },
+    "code": {
+      "id": "901114",
+      "iso": null
+    },
+    "parent": {
+      "id": "9011",
+      "level": 2,
+      "name": {
+        "local": "หาดใหญ่",
+        "en": "Hat Yai",
+        "slug": "hat-yai-9011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9011",
+        "level": 2,
+        "name": {
+          "local": "หาดใหญ่",
+          "en": "Hat Yai",
+          "slug": "hat-yai-9011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90110"
+    ],
+    "geo": {
+      "lat": "7.108",
+      "lon": "100.53"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901118",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "พะตง",
+      "en": "Phatong",
+      "slug": "phatong-901118"
+    },
+    "code": {
+      "id": "901118",
+      "iso": null
+    },
+    "parent": {
+      "id": "9011",
+      "level": 2,
+      "name": {
+        "local": "หาดใหญ่",
+        "en": "Hat Yai",
+        "slug": "hat-yai-9011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9011",
+        "level": 2,
+        "name": {
+          "local": "หาดใหญ่",
+          "en": "Hat Yai",
+          "slug": "hat-yai-9011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90230"
+    ],
+    "geo": {
+      "lat": "6.837",
+      "lon": "100.558"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901113",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าข้าม",
+      "en": "Tha Kham",
+      "slug": "tha-kham-901113"
+    },
+    "code": {
+      "id": "901113",
+      "iso": null
+    },
+    "parent": {
+      "id": "9011",
+      "level": 2,
+      "name": {
+        "local": "หาดใหญ่",
+        "en": "Hat Yai",
+        "slug": "hat-yai-9011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9011",
+        "level": 2,
+        "name": {
+          "local": "หาดใหญ่",
+          "en": "Hat Yai",
+          "slug": "hat-yai-9011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90110"
+    ],
+    "geo": {
+      "lat": "7.041",
+      "lon": "100.574"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901112",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งตำเสา",
+      "en": "Thung Tamsao",
+      "slug": "thung-tamsao-901112"
+    },
+    "code": {
+      "id": "901112",
+      "iso": null
+    },
+    "parent": {
+      "id": "9011",
+      "level": 2,
+      "name": {
+        "local": "หาดใหญ่",
+        "en": "Hat Yai",
+        "slug": "hat-yai-9011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9011",
+        "level": 2,
+        "name": {
+          "local": "หาดใหญ่",
+          "en": "Hat Yai",
+          "slug": "hat-yai-9011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90110"
+    ],
+    "geo": {
+      "lat": "6.9",
+      "lon": "100.244"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901111",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งใหญ่",
+      "en": "Thung Yai",
+      "slug": "thung-yai-901111"
+    },
+    "code": {
+      "id": "901111",
+      "iso": null
+    },
+    "parent": {
+      "id": "9011",
+      "level": 2,
+      "name": {
+        "local": "หาดใหญ่",
+        "en": "Hat Yai",
+        "slug": "hat-yai-9011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9011",
+        "level": 2,
+        "name": {
+          "local": "หาดใหญ่",
+          "en": "Hat Yai",
+          "slug": "hat-yai-9011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90110"
+    ],
+    "geo": {
+      "lat": "7.03",
+      "lon": "100.537"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

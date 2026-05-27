@@ -1,0 +1,47 @@
+{
+  "id": "9013",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ควนเนียง",
+    "en": "Khuan Niang",
+    "slug": "khuan-niang-9013"
+  },
+  "code": {
+    "id": "9013",
+    "iso": null
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "local": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla-90"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.267",
+    "lon": "100.366"
+  },
+  "metadata": {},
+  "source": {}
+}

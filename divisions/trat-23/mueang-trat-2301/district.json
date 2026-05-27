@@ -1,0 +1,47 @@
+{
+  "id": "2301",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองตราด",
+    "en": "Mueang Trat",
+    "slug": "mueang-trat-2301"
+  },
+  "code": {
+    "id": "2301",
+    "iso": null
+  },
+  "parent": {
+    "id": "23",
+    "level": 1,
+    "name": {
+      "local": "ตราด",
+      "en": "Trat",
+      "slug": "trat-23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "local": "ตราด",
+        "en": "Trat",
+        "slug": "trat-23"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.078",
+    "lon": "102.562"
+  },
+  "metadata": {},
+  "source": {}
+}

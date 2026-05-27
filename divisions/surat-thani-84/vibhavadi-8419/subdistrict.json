@@ -1,0 +1,114 @@
+[
+  {
+    "id": "841902",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตะกุกเหนือ",
+      "en": "Takuk Nuea",
+      "slug": "takuk-nuea-841902"
+    },
+    "code": {
+      "id": "841902",
+      "iso": null
+    },
+    "parent": {
+      "id": "8419",
+      "level": 2,
+      "name": {
+        "local": "วิภาวดี",
+        "en": "Vibhavadi",
+        "slug": "vibhavadi-8419"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8419",
+        "level": 2,
+        "name": {
+          "local": "วิภาวดี",
+          "en": "Vibhavadi",
+          "slug": "vibhavadi-8419"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84180"
+    ],
+    "geo": {
+      "lat": "9.252",
+      "lon": "98.909"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "841901",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตะกุกใต้",
+      "en": "Takuk Tai",
+      "slug": "takuk-tai-841901"
+    },
+    "code": {
+      "id": "841901",
+      "iso": null
+    },
+    "parent": {
+      "id": "8419",
+      "level": 2,
+      "name": {
+        "local": "วิภาวดี",
+        "en": "Vibhavadi",
+        "slug": "vibhavadi-8419"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "84",
+        "level": 1,
+        "name": {
+          "local": "สุราษฎร์ธานี",
+          "en": "Surat Thani",
+          "slug": "surat-thani-84"
+        }
+      },
+      {
+        "id": "8419",
+        "level": 2,
+        "name": {
+          "local": "วิภาวดี",
+          "en": "Vibhavadi",
+          "slug": "vibhavadi-8419"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "84180"
+    ],
+    "geo": {
+      "lat": "9.227",
+      "lon": "98.807"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

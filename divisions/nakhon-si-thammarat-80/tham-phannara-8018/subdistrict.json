@@ -1,0 +1,170 @@
+[
+  {
+    "id": "801803",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดุสิต",
+      "en": "Dusit",
+      "slug": "dusit-801803"
+    },
+    "code": {
+      "id": "801803",
+      "iso": null
+    },
+    "parent": {
+      "id": "8018",
+      "level": 2,
+      "name": {
+        "local": "ถ้ำพรรณรา",
+        "en": "Tham Phannara",
+        "slug": "tham-phannara-8018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat-80"
+        }
+      },
+      {
+        "id": "8018",
+        "level": 2,
+        "name": {
+          "local": "ถ้ำพรรณรา",
+          "en": "Tham Phannara",
+          "slug": "tham-phannara-8018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80260"
+    ],
+    "geo": {
+      "lat": "8.466",
+      "lon": "99.347"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "801802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองเส",
+      "en": "Khlong Se",
+      "slug": "khlong-se-801802"
+    },
+    "code": {
+      "id": "801802",
+      "iso": null
+    },
+    "parent": {
+      "id": "8018",
+      "level": 2,
+      "name": {
+        "local": "ถ้ำพรรณรา",
+        "en": "Tham Phannara",
+        "slug": "tham-phannara-8018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat-80"
+        }
+      },
+      {
+        "id": "8018",
+        "level": 2,
+        "name": {
+          "local": "ถ้ำพรรณรา",
+          "en": "Tham Phannara",
+          "slug": "tham-phannara-8018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80260"
+    ],
+    "geo": {
+      "lat": "8.491",
+      "lon": "99.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "801801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ถ้ำพรรณรา",
+      "en": "Tham Phannara",
+      "slug": "tham-phannara-801801"
+    },
+    "code": {
+      "id": "801801",
+      "iso": null
+    },
+    "parent": {
+      "id": "8018",
+      "level": 2,
+      "name": {
+        "local": "ถ้ำพรรณรา",
+        "en": "Tham Phannara",
+        "slug": "tham-phannara-8018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat-80"
+        }
+      },
+      {
+        "id": "8018",
+        "level": 2,
+        "name": {
+          "local": "ถ้ำพรรณรา",
+          "en": "Tham Phannara",
+          "slug": "tham-phannara-8018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80260"
+    ],
+    "geo": {
+      "lat": "8.414",
+      "lon": "99.373"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

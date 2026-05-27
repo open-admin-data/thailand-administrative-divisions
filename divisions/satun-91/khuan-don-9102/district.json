@@ -1,0 +1,47 @@
+{
+  "id": "9102",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ควนโดน",
+    "en": "Khuan Don",
+    "slug": "khuan-don-9102"
+  },
+  "code": {
+    "id": "9102",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "สตูล",
+      "en": "Satun",
+      "slug": "satun-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "สตูล",
+        "en": "Satun",
+        "slug": "satun-91"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.767",
+    "lon": "100.065"
+  },
+  "metadata": {},
+  "source": {}
+}

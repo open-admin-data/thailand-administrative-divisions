@@ -1,0 +1,47 @@
+{
+  "id": "9508",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "กรงปีนัง",
+    "en": "Krong Pinang",
+    "slug": "krong-pinang-9508"
+  },
+  "code": {
+    "id": "9508",
+    "iso": null
+  },
+  "parent": {
+    "id": "95",
+    "level": 1,
+    "name": {
+      "local": "ยะลา",
+      "en": "Yala",
+      "slug": "yala-95"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "local": "ยะลา",
+        "en": "Yala",
+        "slug": "yala-95"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.456",
+    "lon": "101.23"
+  },
+  "metadata": {},
+  "source": {}
+}

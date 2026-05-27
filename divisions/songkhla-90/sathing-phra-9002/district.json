@@ -1,0 +1,47 @@
+{
+  "id": "9002",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สทิงพระ",
+    "en": "Sathing Phra",
+    "slug": "sathing-phra-9002"
+  },
+  "code": {
+    "id": "9002",
+    "iso": null
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "local": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla-90"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.58",
+    "lon": "100.406"
+  },
+  "metadata": {},
+  "source": {}
+}

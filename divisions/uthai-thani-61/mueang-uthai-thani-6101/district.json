@@ -1,0 +1,47 @@
+{
+  "id": "6101",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองอุทัยธานี",
+    "en": "Mueang Uthai Thani",
+    "slug": "mueang-uthai-thani-6101"
+  },
+  "code": {
+    "id": "6101",
+    "iso": null
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "local": "อุทัยธานี",
+      "en": "Uthai Thani",
+      "slug": "uthai-thani-61"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani-61"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.455",
+    "lon": "99.963"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "700902",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "จอมประทัด",
+      "en": "Chom Prathat",
+      "slug": "chom-prathat-700902"
+    },
+    "code": {
+      "id": "700902",
+      "iso": null
+    },
+    "parent": {
+      "id": "7009",
+      "level": 2,
+      "name": {
+        "local": "วัดเพลง",
+        "en": "Wat Pleng",
+        "slug": "wat-pleng-7009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "local": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi-70"
+        }
+      },
+      {
+        "id": "7009",
+        "level": 2,
+        "name": {
+          "local": "วัดเพลง",
+          "en": "Wat Pleng",
+          "slug": "wat-pleng-7009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70170"
+    ],
+    "geo": {
+      "lat": "13.424",
+      "lon": "99.863"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "700901",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เกาะศาลพระ",
+      "en": "Ko San Phra",
+      "slug": "ko-san-phra-700901"
+    },
+    "code": {
+      "id": "700901",
+      "iso": null
+    },
+    "parent": {
+      "id": "7009",
+      "level": 2,
+      "name": {
+        "local": "วัดเพลง",
+        "en": "Wat Pleng",
+        "slug": "wat-pleng-7009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "local": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi-70"
+        }
+      },
+      {
+        "id": "7009",
+        "level": 2,
+        "name": {
+          "local": "วัดเพลง",
+          "en": "Wat Pleng",
+          "slug": "wat-pleng-7009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70170"
+    ],
+    "geo": {
+      "lat": "13.473",
+      "lon": "99.86"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "700903",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วัดเพลง",
+      "en": "Wat Pleng",
+      "slug": "wat-pleng-700903"
+    },
+    "code": {
+      "id": "700903",
+      "iso": null
+    },
+    "parent": {
+      "id": "7009",
+      "level": 2,
+      "name": {
+        "local": "วัดเพลง",
+        "en": "Wat Pleng",
+        "slug": "wat-pleng-7009"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "local": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi-70"
+        }
+      },
+      {
+        "id": "7009",
+        "level": 2,
+        "name": {
+          "local": "วัดเพลง",
+          "en": "Wat Pleng",
+          "slug": "wat-pleng-7009"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70170"
+    ],
+    "geo": {
+      "lat": "13.449",
+      "lon": "99.872"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

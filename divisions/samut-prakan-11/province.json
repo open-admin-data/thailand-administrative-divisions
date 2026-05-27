@@ -1,0 +1,30 @@
+{
+  "id": "11",
+  "level": 1,
+  "level_name": {
+    "local": "จังหวัด",
+    "en": "Province"
+  },
+  "name": {
+    "local": "สมุทรปราการ",
+    "en": "Samut Prakan",
+    "slug": "samut-prakan-11"
+  },
+  "code": {
+    "id": "11",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 6,
+    "subdistrict": 50
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.656",
+    "lon": "100.533"
+  },
+  "metadata": {},
+  "source": {}
+}

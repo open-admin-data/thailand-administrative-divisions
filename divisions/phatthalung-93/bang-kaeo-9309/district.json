@@ -1,0 +1,47 @@
+{
+  "id": "9309",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บางแก้ว",
+    "en": "Bang Kaeo",
+    "slug": "bang-kaeo-9309"
+  },
+  "code": {
+    "id": "9309",
+    "iso": null
+  },
+  "parent": {
+    "id": "93",
+    "level": 1,
+    "name": {
+      "local": "พัทลุง",
+      "en": "Phatthalung",
+      "slug": "phatthalung-93"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "local": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung-93"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.451",
+    "lon": "100.157"
+  },
+  "metadata": {},
+  "source": {}
+}

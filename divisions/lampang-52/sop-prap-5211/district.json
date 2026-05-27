@@ -1,0 +1,47 @@
+{
+  "id": "5211",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สบปราบ",
+    "en": "Sop Prap",
+    "slug": "sop-prap-5211"
+  },
+  "code": {
+    "id": "5211",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "ลำปาง",
+      "en": "Lampang",
+      "slug": "lampang-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang-52"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.9",
+    "lon": "99.421"
+  },
+  "metadata": {},
+  "source": {}
+}

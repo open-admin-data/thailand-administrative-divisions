@@ -1,0 +1,170 @@
+[
+  {
+    "id": "502501",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านจันทร์",
+      "en": "Ban Chan",
+      "slug": "ban-chan-502501"
+    },
+    "code": {
+      "id": "502501",
+      "iso": null
+    },
+    "parent": {
+      "id": "5025",
+      "level": 2,
+      "name": {
+        "local": "กัลยาณิวัฒนา",
+        "en": "Galyani Vadhana",
+        "slug": "galyani-vadhana-5025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5025",
+        "level": 2,
+        "name": {
+          "local": "กัลยาณิวัฒนา",
+          "en": "Galyani Vadhana",
+          "slug": "galyani-vadhana-5025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "58130"
+    ],
+    "geo": {
+      "lat": "19.11",
+      "lon": "98.281"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "502503",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แจ่มหลวง",
+      "en": "Chaem Luang",
+      "slug": "chaem-luang-502503"
+    },
+    "code": {
+      "id": "502503",
+      "iso": null
+    },
+    "parent": {
+      "id": "5025",
+      "level": 2,
+      "name": {
+        "local": "กัลยาณิวัฒนา",
+        "en": "Galyani Vadhana",
+        "slug": "galyani-vadhana-5025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5025",
+        "level": 2,
+        "name": {
+          "local": "กัลยาณิวัฒนา",
+          "en": "Galyani Vadhana",
+          "slug": "galyani-vadhana-5025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "58130"
+    ],
+    "geo": {
+      "lat": "19.011",
+      "lon": "98.218"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "502502",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่แดด",
+      "en": "Mae Daet",
+      "slug": "mae-daet-502502"
+    },
+    "code": {
+      "id": "502502",
+      "iso": null
+    },
+    "parent": {
+      "id": "5025",
+      "level": 2,
+      "name": {
+        "local": "กัลยาณิวัฒนา",
+        "en": "Galyani Vadhana",
+        "slug": "galyani-vadhana-5025"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5025",
+        "level": 2,
+        "name": {
+          "local": "กัลยาณิวัฒนา",
+          "en": "Galyani Vadhana",
+          "slug": "galyani-vadhana-5025"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "58130"
+    ],
+    "geo": {
+      "lat": "18.936",
+      "lon": "98.38"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

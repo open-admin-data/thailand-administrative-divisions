@@ -1,0 +1,30 @@
+{
+  "id": "42",
+  "level": 1,
+  "level_name": {
+    "local": "จังหวัด",
+    "en": "Province"
+  },
+  "name": {
+    "local": "เลย",
+    "en": "Loei",
+    "slug": "loei-42"
+  },
+  "code": {
+    "id": "42",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 14,
+    "subdistrict": 90
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.493",
+    "lon": "101.732"
+  },
+  "metadata": {},
+  "source": {}
+}

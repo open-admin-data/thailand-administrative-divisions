@@ -1,0 +1,47 @@
+{
+  "id": "4210",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ภูกระดึง",
+    "en": "Phu Kradueng",
+    "slug": "phu-kradueng-4210"
+  },
+  "code": {
+    "id": "4210",
+    "iso": null
+  },
+  "parent": {
+    "id": "42",
+    "level": 1,
+    "name": {
+      "local": "เลย",
+      "en": "Loei",
+      "slug": "loei-42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "เลย",
+        "en": "Loei",
+        "slug": "loei-42"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.937",
+    "lon": "101.939"
+  },
+  "metadata": {},
+  "source": {}
+}

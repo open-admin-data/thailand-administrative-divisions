@@ -1,0 +1,47 @@
+{
+  "id": "1803",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "วัดสิงห์",
+    "en": "Wat Sing",
+    "slug": "wat-sing-1803"
+  },
+  "code": {
+    "id": "1803",
+    "iso": null
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "local": "ชัยนาท",
+      "en": "Chai Nat",
+      "slug": "chai-nat-18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat-18"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.263",
+    "lon": "100.041"
+  },
+  "metadata": {},
+  "source": {}
+}

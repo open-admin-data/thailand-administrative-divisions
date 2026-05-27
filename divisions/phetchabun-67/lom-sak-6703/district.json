@@ -1,0 +1,47 @@
+{
+  "id": "6703",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "หล่มสัก",
+    "en": "Lom Sak",
+    "slug": "lom-sak-6703"
+  },
+  "code": {
+    "id": "6703",
+    "iso": null
+  },
+  "parent": {
+    "id": "67",
+    "level": 1,
+    "name": {
+      "local": "เพชรบูรณ์",
+      "en": "Phetchabun",
+      "slug": "phetchabun-67"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "67",
+      "level": 1,
+      "name": {
+        "local": "เพชรบูรณ์",
+        "en": "Phetchabun",
+        "slug": "phetchabun-67"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.839",
+    "lon": "101.239"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "8104",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "คลองท่อม",
+    "en": "Khlong Thom",
+    "slug": "khlong-thom-8104"
+  },
+  "code": {
+    "id": "8104",
+    "iso": null
+  },
+  "parent": {
+    "id": "81",
+    "level": 1,
+    "name": {
+      "local": "กระบี่",
+      "en": "Krabi",
+      "slug": "krabi-81"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi-81"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.933",
+    "lon": "99.172"
+  },
+  "metadata": {},
+  "source": {}
+}

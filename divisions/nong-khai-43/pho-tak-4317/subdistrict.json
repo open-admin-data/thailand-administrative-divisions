@@ -1,0 +1,170 @@
+[
+  {
+    "id": "431703",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ด่านศรีสุข",
+      "en": "Dan Si Suk",
+      "slug": "dan-si-suk-431703"
+    },
+    "code": {
+      "id": "431703",
+      "iso": null
+    },
+    "parent": {
+      "id": "4317",
+      "level": 2,
+      "name": {
+        "local": "โพธิ์ตาก",
+        "en": "Pho Tak",
+        "slug": "pho-tak-4317"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "43",
+        "level": 1,
+        "name": {
+          "local": "หนองคาย",
+          "en": "Nong Khai",
+          "slug": "nong-khai-43"
+        }
+      },
+      {
+        "id": "4317",
+        "level": 2,
+        "name": {
+          "local": "โพธิ์ตาก",
+          "en": "Pho Tak",
+          "slug": "pho-tak-4317"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43130"
+    ],
+    "geo": {
+      "lat": "17.925",
+      "lon": "102.398"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "431701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โพธิ์ตาก",
+      "en": "Pho Tak",
+      "slug": "pho-tak-431701"
+    },
+    "code": {
+      "id": "431701",
+      "iso": null
+    },
+    "parent": {
+      "id": "4317",
+      "level": 2,
+      "name": {
+        "local": "โพธิ์ตาก",
+        "en": "Pho Tak",
+        "slug": "pho-tak-4317"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "43",
+        "level": 1,
+        "name": {
+          "local": "หนองคาย",
+          "en": "Nong Khai",
+          "slug": "nong-khai-43"
+        }
+      },
+      {
+        "id": "4317",
+        "level": 2,
+        "name": {
+          "local": "โพธิ์ตาก",
+          "en": "Pho Tak",
+          "slug": "pho-tak-4317"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43130"
+    ],
+    "geo": {
+      "lat": "17.846",
+      "lon": "102.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "431702",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โพนทอง",
+      "en": "Phon Thong",
+      "slug": "phon-thong-431702"
+    },
+    "code": {
+      "id": "431702",
+      "iso": null
+    },
+    "parent": {
+      "id": "4317",
+      "level": 2,
+      "name": {
+        "local": "โพธิ์ตาก",
+        "en": "Pho Tak",
+        "slug": "pho-tak-4317"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "43",
+        "level": 1,
+        "name": {
+          "local": "หนองคาย",
+          "en": "Nong Khai",
+          "slug": "nong-khai-43"
+        }
+      },
+      {
+        "id": "4317",
+        "level": 2,
+        "name": {
+          "local": "โพธิ์ตาก",
+          "en": "Pho Tak",
+          "slug": "pho-tak-4317"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "43130"
+    ],
+    "geo": {
+      "lat": "17.881",
+      "lon": "102.454"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

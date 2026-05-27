@@ -1,0 +1,47 @@
+{
+  "id": "8408",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "คีรีรัฐนิคม",
+    "en": "Khiri Rat Nikhom",
+    "slug": "khiri-rat-nikhom-8408"
+  },
+  "code": {
+    "id": "8408",
+    "iso": null
+  },
+  "parent": {
+    "id": "84",
+    "level": 1,
+    "name": {
+      "local": "สุราษฎร์ธานี",
+      "en": "Surat Thani",
+      "slug": "surat-thani-84"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "84",
+      "level": 1,
+      "name": {
+        "local": "สุราษฎร์ธานี",
+        "en": "Surat Thani",
+        "slug": "surat-thani-84"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.063",
+    "lon": "99.025"
+  },
+  "metadata": {},
+  "source": {}
+}

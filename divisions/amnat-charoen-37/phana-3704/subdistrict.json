@@ -1,0 +1,226 @@
+[
+  {
+    "id": "370402",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "จานลาน",
+      "en": "Chan Lan",
+      "slug": "chan-lan-370402"
+    },
+    "code": {
+      "id": "370402",
+      "iso": null
+    },
+    "parent": {
+      "id": "3704",
+      "level": 2,
+      "name": {
+        "local": "พนา",
+        "en": "Phana",
+        "slug": "phana-3704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "อำนาจเจริญ",
+          "en": "Amnat Charoen",
+          "slug": "amnat-charoen-37"
+        }
+      },
+      {
+        "id": "3704",
+        "level": 2,
+        "name": {
+          "local": "พนา",
+          "en": "Phana",
+          "slug": "phana-3704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "37180"
+    ],
+    "geo": {
+      "lat": "15.619",
+      "lon": "104.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "370403",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ไม้กลอน",
+      "en": "Mai Klon",
+      "slug": "mai-klon-370403"
+    },
+    "code": {
+      "id": "370403",
+      "iso": null
+    },
+    "parent": {
+      "id": "3704",
+      "level": 2,
+      "name": {
+        "local": "พนา",
+        "en": "Phana",
+        "slug": "phana-3704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "อำนาจเจริญ",
+          "en": "Amnat Charoen",
+          "slug": "amnat-charoen-37"
+        }
+      },
+      {
+        "id": "3704",
+        "level": 2,
+        "name": {
+          "local": "พนา",
+          "en": "Phana",
+          "slug": "phana-3704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "37180"
+    ],
+    "geo": {
+      "lat": "15.731",
+      "lon": "104.818"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "370401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "พนา",
+      "en": "Phana",
+      "slug": "phana-370401"
+    },
+    "code": {
+      "id": "370401",
+      "iso": null
+    },
+    "parent": {
+      "id": "3704",
+      "level": 2,
+      "name": {
+        "local": "พนา",
+        "en": "Phana",
+        "slug": "phana-3704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "อำนาจเจริญ",
+          "en": "Amnat Charoen",
+          "slug": "amnat-charoen-37"
+        }
+      },
+      {
+        "id": "3704",
+        "level": 2,
+        "name": {
+          "local": "พนา",
+          "en": "Phana",
+          "slug": "phana-3704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "37180"
+    ],
+    "geo": {
+      "lat": "15.678",
+      "lon": "104.882"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "370404",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "พระเหลา",
+      "en": "Phra Lao",
+      "slug": "phra-lao-370404"
+    },
+    "code": {
+      "id": "370404",
+      "iso": null
+    },
+    "parent": {
+      "id": "3704",
+      "level": 2,
+      "name": {
+        "local": "พนา",
+        "en": "Phana",
+        "slug": "phana-3704"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "37",
+        "level": 1,
+        "name": {
+          "local": "อำนาจเจริญ",
+          "en": "Amnat Charoen",
+          "slug": "amnat-charoen-37"
+        }
+      },
+      {
+        "id": "3704",
+        "level": 2,
+        "name": {
+          "local": "พนา",
+          "en": "Phana",
+          "slug": "phana-3704"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "37180"
+    ],
+    "geo": {
+      "lat": "15.737",
+      "lon": "104.882"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

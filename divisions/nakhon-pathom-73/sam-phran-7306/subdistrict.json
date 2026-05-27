@@ -1,0 +1,898 @@
+[
+  {
+    "id": "730615",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านใหม่",
+      "en": "Ban Mai",
+      "slug": "ban-mai-730615"
+    },
+    "code": {
+      "id": "730615",
+      "iso": null
+    },
+    "parent": {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "local": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran-7306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7306",
+        "level": 2,
+        "name": {
+          "local": "สามพราน",
+          "en": "Sam Phran",
+          "slug": "sam-phran-7306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73110"
+    ],
+    "geo": {
+      "lat": "13.69",
+      "lon": "100.242"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "730607",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางช้าง",
+      "en": "Bang Chang",
+      "slug": "bang-chang-730607"
+    },
+    "code": {
+      "id": "730607",
+      "iso": null
+    },
+    "parent": {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "local": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran-7306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7306",
+        "level": 2,
+        "name": {
+          "local": "สามพราน",
+          "en": "Sam Phran",
+          "slug": "sam-phran-7306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73110"
+    ],
+    "geo": {
+      "lat": "13.702",
+      "lon": "100.2"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "730604",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางกระทึก",
+      "en": "Bang Krathuek",
+      "slug": "bang-krathuek-730604"
+    },
+    "code": {
+      "id": "730604",
+      "iso": null
+    },
+    "parent": {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "local": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran-7306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7306",
+        "level": 2,
+        "name": {
+          "local": "สามพราน",
+          "en": "Sam Phran",
+          "slug": "sam-phran-7306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73210"
+    ],
+    "geo": {
+      "lat": "13.772",
+      "lon": "100.305"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "730605",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางเตย",
+      "en": "Bang Toei",
+      "slug": "bang-toei-730605"
+    },
+    "code": {
+      "id": "730605",
+      "iso": null
+    },
+    "parent": {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "local": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran-7306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7306",
+        "level": 2,
+        "name": {
+          "local": "สามพราน",
+          "en": "Sam Phran",
+          "slug": "sam-phran-7306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73210"
+    ],
+    "geo": {
+      "lat": "13.787",
+      "lon": "100.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "730603",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หอมเกร็ด",
+      "en": "Hom Kret",
+      "slug": "hom-kret-730603"
+    },
+    "code": {
+      "id": "730603",
+      "iso": null
+    },
+    "parent": {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "local": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran-7306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7306",
+        "level": 2,
+        "name": {
+          "local": "สามพราน",
+          "en": "Sam Phran",
+          "slug": "sam-phran-7306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73110"
+    ],
+    "geo": {
+      "lat": "13.779",
+      "lon": "100.24"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "730613",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองจินดา",
+      "en": "Khlong Chinda",
+      "slug": "khlong-chinda-730613"
+    },
+    "code": {
+      "id": "730613",
+      "iso": null
+    },
+    "parent": {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "local": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran-7306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7306",
+        "level": 2,
+        "name": {
+          "local": "สามพราน",
+          "en": "Sam Phran",
+          "slug": "sam-phran-7306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73110"
+    ],
+    "geo": {
+      "lat": "13.677",
+      "lon": "100.092"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "730611",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองใหม่",
+      "en": "Khlong Mai",
+      "slug": "khlong-mai-730611"
+    },
+    "code": {
+      "id": "730611",
+      "iso": null
+    },
+    "parent": {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "local": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran-7306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7306",
+        "level": 2,
+        "name": {
+          "local": "สามพราน",
+          "en": "Sam Phran",
+          "slug": "sam-phran-7306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73110"
+    ],
+    "geo": {
+      "lat": "13.734",
+      "lon": "100.174"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "730610",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กระทุ่มล้ม",
+      "en": "Krathum Lom",
+      "slug": "krathum-lom-730610"
+    },
+    "code": {
+      "id": "730610",
+      "iso": null
+    },
+    "parent": {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "local": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran-7306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7306",
+        "level": 2,
+        "name": {
+          "local": "สามพราน",
+          "en": "Sam Phran",
+          "slug": "sam-phran-7306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73220"
+    ],
+    "geo": {
+      "lat": "13.737",
+      "lon": "100.322"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "730616",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "อ้อมใหญ่",
+      "en": "Om Yai",
+      "slug": "om-yai-730616"
+    },
+    "code": {
+      "id": "730616",
+      "iso": null
+    },
+    "parent": {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "local": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran-7306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7306",
+        "level": 2,
+        "name": {
+          "local": "สามพราน",
+          "en": "Sam Phran",
+          "slug": "sam-phran-7306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73160"
+    ],
+    "geo": {
+      "lat": "13.7",
+      "lon": "100.268"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "730608",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ไร่ขิง",
+      "en": "Rai Khing",
+      "slug": "rai-khing-730608"
+    },
+    "code": {
+      "id": "730608",
+      "iso": null
+    },
+    "parent": {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "local": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran-7306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7306",
+        "level": 2,
+        "name": {
+          "local": "สามพราน",
+          "en": "Sam Phran",
+          "slug": "sam-phran-7306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73210"
+    ],
+    "geo": {
+      "lat": "13.737",
+      "lon": "100.283"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "730606",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สามพราน",
+      "en": "Sam Phran",
+      "slug": "sam-phran-730606"
+    },
+    "code": {
+      "id": "730606",
+      "iso": null
+    },
+    "parent": {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "local": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran-7306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7306",
+        "level": 2,
+        "name": {
+          "local": "สามพราน",
+          "en": "Sam Phran",
+          "slug": "sam-phran-7306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73110"
+    ],
+    "geo": {
+      "lat": "13.716",
+      "lon": "100.219"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "730602",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทรงคนอง",
+      "en": "Song Khanong",
+      "slug": "song-khanong-730602"
+    },
+    "code": {
+      "id": "730602",
+      "iso": null
+    },
+    "parent": {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "local": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran-7306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7306",
+        "level": 2,
+        "name": {
+          "local": "สามพราน",
+          "en": "Sam Phran",
+          "slug": "sam-phran-7306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73210"
+    ],
+    "geo": {
+      "lat": "13.78",
+      "lon": "100.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "730612",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตลาดจินดา",
+      "en": "Talat Chinda",
+      "slug": "talat-chinda-730612"
+    },
+    "code": {
+      "id": "730612",
+      "iso": null
+    },
+    "parent": {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "local": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran-7306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7306",
+        "level": 2,
+        "name": {
+          "local": "สามพราน",
+          "en": "Sam Phran",
+          "slug": "sam-phran-7306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73110"
+    ],
+    "geo": {
+      "lat": "13.698",
+      "lon": "100.15"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "730601",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าข้าม",
+      "en": "Tha Kham",
+      "slug": "tha-kham-730601"
+    },
+    "code": {
+      "id": "730601",
+      "iso": null
+    },
+    "parent": {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "local": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran-7306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7306",
+        "level": 2,
+        "name": {
+          "local": "สามพราน",
+          "en": "Sam Phran",
+          "slug": "sam-phran-7306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73110"
+    ],
+    "geo": {
+      "lat": "13.714",
+      "lon": "100.247"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "730609",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าตลาด",
+      "en": "Tha Talat",
+      "slug": "tha-talat-730609"
+    },
+    "code": {
+      "id": "730609",
+      "iso": null
+    },
+    "parent": {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "local": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran-7306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7306",
+        "level": 2,
+        "name": {
+          "local": "สามพราน",
+          "en": "Sam Phran",
+          "slug": "sam-phran-7306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73110"
+    ],
+    "geo": {
+      "lat": "13.751",
+      "lon": "100.234"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "730614",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ยายชา",
+      "en": "Yai Cha",
+      "slug": "yai-cha-730614"
+    },
+    "code": {
+      "id": "730614",
+      "iso": null
+    },
+    "parent": {
+      "id": "7306",
+      "level": 2,
+      "name": {
+        "local": "สามพราน",
+        "en": "Sam Phran",
+        "slug": "sam-phran-7306"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "73",
+        "level": 1,
+        "name": {
+          "local": "นครปฐม",
+          "en": "Nakhon Pathom",
+          "slug": "nakhon-pathom-73"
+        }
+      },
+      {
+        "id": "7306",
+        "level": 2,
+        "name": {
+          "local": "สามพราน",
+          "en": "Sam Phran",
+          "slug": "sam-phran-7306"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "73110"
+    ],
+    "geo": {
+      "lat": "13.733",
+      "lon": "100.235"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

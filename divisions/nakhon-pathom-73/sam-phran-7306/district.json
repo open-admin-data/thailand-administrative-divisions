@@ -1,0 +1,47 @@
+{
+  "id": "7306",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สามพราน",
+    "en": "Sam Phran",
+    "slug": "sam-phran-7306"
+  },
+  "code": {
+    "id": "7306",
+    "iso": null
+  },
+  "parent": {
+    "id": "73",
+    "level": 1,
+    "name": {
+      "local": "นครปฐม",
+      "en": "Nakhon Pathom",
+      "slug": "nakhon-pathom-73"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "73",
+      "level": 1,
+      "name": {
+        "local": "นครปฐม",
+        "en": "Nakhon Pathom",
+        "slug": "nakhon-pathom-73"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.714",
+    "lon": "100.247"
+  },
+  "metadata": {},
+  "source": {}
+}

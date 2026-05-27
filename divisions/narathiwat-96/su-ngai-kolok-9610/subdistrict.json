@@ -1,0 +1,226 @@
+[
+  {
+    "id": "961003",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "มูโนะ",
+      "en": "Muno",
+      "slug": "muno-961003"
+    },
+    "code": {
+      "id": "961003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9610",
+      "level": 2,
+      "name": {
+        "local": "สุไหงโก-ลก",
+        "en": "Su-ngai Kolok",
+        "slug": "su-ngai-kolok-9610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat-96"
+        }
+      },
+      {
+        "id": "9610",
+        "level": 2,
+        "name": {
+          "local": "สุไหงโก-ลก",
+          "en": "Su-ngai Kolok",
+          "slug": "su-ngai-kolok-9610"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96120"
+    ],
+    "geo": {
+      "lat": "6.108",
+      "lon": "102.052"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "961002",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ป่าเสมัส",
+      "en": "Pa Semat",
+      "slug": "pa-semat-961002"
+    },
+    "code": {
+      "id": "961002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9610",
+      "level": 2,
+      "name": {
+        "local": "สุไหงโก-ลก",
+        "en": "Su-ngai Kolok",
+        "slug": "su-ngai-kolok-9610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat-96"
+        }
+      },
+      {
+        "id": "9610",
+        "level": 2,
+        "name": {
+          "local": "สุไหงโก-ลก",
+          "en": "Su-ngai Kolok",
+          "slug": "su-ngai-kolok-9610"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96120"
+    ],
+    "geo": {
+      "lat": "6.054",
+      "lon": "101.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "961004",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปูโยะ",
+      "en": "Puyo",
+      "slug": "puyo-961004"
+    },
+    "code": {
+      "id": "961004",
+      "iso": null
+    },
+    "parent": {
+      "id": "9610",
+      "level": 2,
+      "name": {
+        "local": "สุไหงโก-ลก",
+        "en": "Su-ngai Kolok",
+        "slug": "su-ngai-kolok-9610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat-96"
+        }
+      },
+      {
+        "id": "9610",
+        "level": 2,
+        "name": {
+          "local": "สุไหงโก-ลก",
+          "en": "Su-ngai Kolok",
+          "slug": "su-ngai-kolok-9610"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96120"
+    ],
+    "geo": {
+      "lat": "6.109",
+      "lon": "101.993"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "961001",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สุไหงโกลก",
+      "en": "Su-Ngai Ko-Lok",
+      "slug": "su-ngai-ko-lok-961001"
+    },
+    "code": {
+      "id": "961001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9610",
+      "level": 2,
+      "name": {
+        "local": "สุไหงโก-ลก",
+        "en": "Su-ngai Kolok",
+        "slug": "su-ngai-kolok-9610"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "96",
+        "level": 1,
+        "name": {
+          "local": "นราธิวาส",
+          "en": "Narathiwat",
+          "slug": "narathiwat-96"
+        }
+      },
+      {
+        "id": "9610",
+        "level": 2,
+        "name": {
+          "local": "สุไหงโก-ลก",
+          "en": "Su-ngai Kolok",
+          "slug": "su-ngai-kolok-9610"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "96120"
+    ],
+    "geo": {
+      "lat": "6.008",
+      "lon": "101.949"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "5301",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองอุตรดิตถ์",
+    "en": "Mueang Uttaradit",
+    "slug": "mueang-uttaradit-5301"
+  },
+  "code": {
+    "id": "5301",
+    "iso": null
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "local": "อุตรดิตถ์",
+      "en": "Uttaradit",
+      "slug": "uttaradit-53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit-53"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.613",
+    "lon": "100.079"
+  },
+  "metadata": {},
+  "source": {}
+}

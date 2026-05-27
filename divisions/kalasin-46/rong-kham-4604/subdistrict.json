@@ -1,0 +1,170 @@
+[
+  {
+    "id": "460403",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เหล่าอ้อย",
+      "en": "Lao Oi",
+      "slug": "lao-oi-460403"
+    },
+    "code": {
+      "id": "460403",
+      "iso": null
+    },
+    "parent": {
+      "id": "4604",
+      "level": 2,
+      "name": {
+        "local": "ร่องคำ",
+        "en": "Rong Kham",
+        "slug": "rong-kham-4604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "กาฬสินธุ์",
+          "en": "Kalasin",
+          "slug": "kalasin-46"
+        }
+      },
+      {
+        "id": "4604",
+        "level": 2,
+        "name": {
+          "local": "ร่องคำ",
+          "en": "Rong Kham",
+          "slug": "rong-kham-4604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46210"
+    ],
+    "geo": {
+      "lat": "16.254",
+      "lon": "103.708"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "460401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ร่องคำ",
+      "en": "Rong Kham",
+      "slug": "rong-kham-460401"
+    },
+    "code": {
+      "id": "460401",
+      "iso": null
+    },
+    "parent": {
+      "id": "4604",
+      "level": 2,
+      "name": {
+        "local": "ร่องคำ",
+        "en": "Rong Kham",
+        "slug": "rong-kham-4604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "กาฬสินธุ์",
+          "en": "Kalasin",
+          "slug": "kalasin-46"
+        }
+      },
+      {
+        "id": "4604",
+        "level": 2,
+        "name": {
+          "local": "ร่องคำ",
+          "en": "Rong Kham",
+          "slug": "rong-kham-4604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46210"
+    ],
+    "geo": {
+      "lat": "16.266",
+      "lon": "103.737"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "460402",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สามัคคี",
+      "en": "Samakkhi",
+      "slug": "samakkhi-460402"
+    },
+    "code": {
+      "id": "460402",
+      "iso": null
+    },
+    "parent": {
+      "id": "4604",
+      "level": 2,
+      "name": {
+        "local": "ร่องคำ",
+        "en": "Rong Kham",
+        "slug": "rong-kham-4604"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "46",
+        "level": 1,
+        "name": {
+          "local": "กาฬสินธุ์",
+          "en": "Kalasin",
+          "slug": "kalasin-46"
+        }
+      },
+      {
+        "id": "4604",
+        "level": 2,
+        "name": {
+          "local": "ร่องคำ",
+          "en": "Rong Kham",
+          "slug": "rong-kham-4604"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "46210"
+    ],
+    "geo": {
+      "lat": "16.318",
+      "lon": "103.713"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

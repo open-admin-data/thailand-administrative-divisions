@@ -1,0 +1,47 @@
+{
+  "id": "9308",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ป่าบอน",
+    "en": "Pa Bon",
+    "slug": "pa-bon-9308"
+  },
+  "code": {
+    "id": "9308",
+    "iso": null
+  },
+  "parent": {
+    "id": "93",
+    "level": 1,
+    "name": {
+      "local": "พัทลุง",
+      "en": "Phatthalung",
+      "slug": "phatthalung-93"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "local": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung-93"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.318",
+    "lon": "100.23"
+  },
+  "metadata": {},
+  "source": {}
+}

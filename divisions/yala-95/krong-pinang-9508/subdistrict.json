@@ -1,0 +1,226 @@
+[
+  {
+    "id": "950803",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ห้วยกระทิง",
+      "en": "Huai Krathing",
+      "slug": "huai-krathing-950803"
+    },
+    "code": {
+      "id": "950803",
+      "iso": null
+    },
+    "parent": {
+      "id": "9508",
+      "level": 2,
+      "name": {
+        "local": "กรงปีนัง",
+        "en": "Krong Pinang",
+        "slug": "krong-pinang-9508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9508",
+        "level": 2,
+        "name": {
+          "local": "กรงปีนัง",
+          "en": "Krong Pinang",
+          "slug": "krong-pinang-9508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95000"
+    ],
+    "geo": {
+      "lat": "6.344",
+      "lon": "101.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กรงปินัง",
+      "en": "Krong Pinang",
+      "slug": "krong-pinang-950801"
+    },
+    "code": {
+      "id": "950801",
+      "iso": null
+    },
+    "parent": {
+      "id": "9508",
+      "level": 2,
+      "name": {
+        "local": "กรงปีนัง",
+        "en": "Krong Pinang",
+        "slug": "krong-pinang-9508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9508",
+        "level": 2,
+        "name": {
+          "local": "กรงปีนัง",
+          "en": "Krong Pinang",
+          "slug": "krong-pinang-9508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95000"
+    ],
+    "geo": {
+      "lat": "6.423",
+      "lon": "101.285"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950804",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปุโรง",
+      "en": "Pu Rong",
+      "slug": "pu-rong-950804"
+    },
+    "code": {
+      "id": "950804",
+      "iso": null
+    },
+    "parent": {
+      "id": "9508",
+      "level": 2,
+      "name": {
+        "local": "กรงปีนัง",
+        "en": "Krong Pinang",
+        "slug": "krong-pinang-9508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9508",
+        "level": 2,
+        "name": {
+          "local": "กรงปีนัง",
+          "en": "Krong Pinang",
+          "slug": "krong-pinang-9508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95000"
+    ],
+    "geo": {
+      "lat": "6.456",
+      "lon": "101.23"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สะเอะ",
+      "en": "Sa-Ae",
+      "slug": "sa-ae-950802"
+    },
+    "code": {
+      "id": "950802",
+      "iso": null
+    },
+    "parent": {
+      "id": "9508",
+      "level": 2,
+      "name": {
+        "local": "กรงปีนัง",
+        "en": "Krong Pinang",
+        "slug": "krong-pinang-9508"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9508",
+        "level": 2,
+        "name": {
+          "local": "กรงปีนัง",
+          "en": "Krong Pinang",
+          "slug": "krong-pinang-9508"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95000"
+    ],
+    "geo": {
+      "lat": "6.398",
+      "lon": "101.202"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

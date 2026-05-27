@@ -1,0 +1,47 @@
+{
+  "id": "8102",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เขาพนม",
+    "en": "Khao Phanom",
+    "slug": "khao-phanom-8102"
+  },
+  "code": {
+    "id": "8102",
+    "iso": null
+  },
+  "parent": {
+    "id": "81",
+    "level": 1,
+    "name": {
+      "local": "กระบี่",
+      "en": "Krabi",
+      "slug": "krabi-81"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi-81"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.227",
+    "lon": "99.045"
+  },
+  "metadata": {},
+  "source": {}
+}

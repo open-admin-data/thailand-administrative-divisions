@@ -1,0 +1,47 @@
+{
+  "id": "5608",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ภูซาง",
+    "en": "Phu Sang",
+    "slug": "phu-sang-5608"
+  },
+  "code": {
+    "id": "5608",
+    "iso": null
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "local": "พะเยา",
+      "en": "Phayao",
+      "slug": "phayao-56"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao-56"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.622",
+    "lon": "100.37"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,114 @@
+[
+  {
+    "id": "101204",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางโพงพาง",
+      "en": "Bang Phongphang",
+      "slug": "bang-phongphang-101204"
+    },
+    "code": {
+      "id": "101204",
+      "iso": null
+    },
+    "parent": {
+      "id": "1012",
+      "level": 2,
+      "name": {
+        "local": "ยานนาวา",
+        "en": "Yan Nawa",
+        "slug": "yan-nawa-1012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1012",
+        "level": 2,
+        "name": {
+          "local": "ยานนาวา",
+          "en": "Yan Nawa",
+          "slug": "yan-nawa-1012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10120"
+    ],
+    "geo": {
+      "lat": "13.697",
+      "lon": "100.544"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "101203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ช่องนนทรี",
+      "en": "Chong Nonsi",
+      "slug": "chong-nonsi-101203"
+    },
+    "code": {
+      "id": "101203",
+      "iso": null
+    },
+    "parent": {
+      "id": "1012",
+      "level": 2,
+      "name": {
+        "local": "ยานนาวา",
+        "en": "Yan Nawa",
+        "slug": "yan-nawa-1012"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1012",
+        "level": 2,
+        "name": {
+          "local": "ยานนาวา",
+          "en": "Yan Nawa",
+          "slug": "yan-nawa-1012"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10120"
+    ],
+    "geo": {
+      "lat": "13.682",
+      "lon": "100.533"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

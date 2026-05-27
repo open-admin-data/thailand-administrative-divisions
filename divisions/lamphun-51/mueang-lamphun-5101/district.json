@@ -1,0 +1,47 @@
+{
+  "id": "5101",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองลำพูน",
+    "en": "Mueang Lamphun",
+    "slug": "mueang-lamphun-5101"
+  },
+  "code": {
+    "id": "5101",
+    "iso": null
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "local": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun-51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun-51"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.573",
+    "lon": "99.002"
+  },
+  "metadata": {},
+  "source": {}
+}

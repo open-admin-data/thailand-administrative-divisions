@@ -1,0 +1,47 @@
+{
+  "id": "9204",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ปะเหลียน",
+    "en": "Palian",
+    "slug": "palian-9204"
+  },
+  "code": {
+    "id": "9204",
+    "iso": null
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "local": "ตรัง",
+      "en": "Trang",
+      "slug": "trang-92"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "ตรัง",
+        "en": "Trang",
+        "slug": "trang-92"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.152",
+    "lon": "99.651"
+  },
+  "metadata": {},
+  "source": {}
+}

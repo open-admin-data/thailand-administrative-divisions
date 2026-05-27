@@ -1,0 +1,226 @@
+[
+  {
+    "id": "901404",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านหาร",
+      "en": "Ban Han",
+      "slug": "ban-han-901404"
+    },
+    "code": {
+      "id": "901404",
+      "iso": null
+    },
+    "parent": {
+      "id": "9014",
+      "level": 2,
+      "name": {
+        "local": "บางกล่ำ",
+        "en": "Bang Klam",
+        "slug": "bang-klam-9014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9014",
+        "level": 2,
+        "name": {
+          "local": "บางกล่ำ",
+          "en": "Bang Klam",
+          "slug": "bang-klam-9014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90110"
+    ],
+    "geo": {
+      "lat": "7.075",
+      "lon": "100.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางกล่ำ",
+      "en": "Bang Klam",
+      "slug": "bang-klam-901401"
+    },
+    "code": {
+      "id": "901401",
+      "iso": null
+    },
+    "parent": {
+      "id": "9014",
+      "level": 2,
+      "name": {
+        "local": "บางกล่ำ",
+        "en": "Bang Klam",
+        "slug": "bang-klam-9014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9014",
+        "level": 2,
+        "name": {
+          "local": "บางกล่ำ",
+          "en": "Bang Klam",
+          "slug": "bang-klam-9014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90110"
+    ],
+    "geo": {
+      "lat": "7.135",
+      "lon": "100.446"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901403",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่ทอม",
+      "en": "Mae Thom",
+      "slug": "mae-thom-901403"
+    },
+    "code": {
+      "id": "901403",
+      "iso": null
+    },
+    "parent": {
+      "id": "9014",
+      "level": 2,
+      "name": {
+        "local": "บางกล่ำ",
+        "en": "Bang Klam",
+        "slug": "bang-klam-9014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9014",
+        "level": 2,
+        "name": {
+          "local": "บางกล่ำ",
+          "en": "Bang Klam",
+          "slug": "bang-klam-9014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90110"
+    ],
+    "geo": {
+      "lat": "7.1",
+      "lon": "100.456"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901402",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าช้าง",
+      "en": "Tha Chang",
+      "slug": "tha-chang-901402"
+    },
+    "code": {
+      "id": "901402",
+      "iso": null
+    },
+    "parent": {
+      "id": "9014",
+      "level": 2,
+      "name": {
+        "local": "บางกล่ำ",
+        "en": "Bang Klam",
+        "slug": "bang-klam-9014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9014",
+        "level": 2,
+        "name": {
+          "local": "บางกล่ำ",
+          "en": "Bang Klam",
+          "slug": "bang-klam-9014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90110"
+    ],
+    "geo": {
+      "lat": "7.048",
+      "lon": "100.378"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "6107",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ลานสัก",
+    "en": "Lan Sak",
+    "slug": "lan-sak-6107"
+  },
+  "code": {
+    "id": "6107",
+    "iso": null
+  },
+  "parent": {
+    "id": "61",
+    "level": 1,
+    "name": {
+      "local": "อุทัยธานี",
+      "en": "Uthai Thani",
+      "slug": "uthai-thani-61"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "61",
+      "level": 1,
+      "name": {
+        "local": "อุทัยธานี",
+        "en": "Uthai Thani",
+        "slug": "uthai-thani-61"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.452",
+    "lon": "99.643"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "7706",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ปราณบุรี",
+    "en": "Pran Buri",
+    "slug": "pran-buri-7706"
+  },
+  "code": {
+    "id": "7706",
+    "iso": null
+  },
+  "parent": {
+    "id": "77",
+    "level": 1,
+    "name": {
+      "local": "ประจวบคีรีขันธ์",
+      "en": "Prachuap Khiri Khan",
+      "slug": "prachuap-khiri-khan-77"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "77",
+      "level": 1,
+      "name": {
+        "local": "ประจวบคีรีขันธ์",
+        "en": "Prachuap Khiri Khan",
+        "slug": "prachuap-khiri-khan-77"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.354",
+    "lon": "99.932"
+  },
+  "metadata": {},
+  "source": {}
+}

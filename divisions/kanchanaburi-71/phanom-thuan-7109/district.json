@@ -1,0 +1,47 @@
+{
+  "id": "7109",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พนมทวน",
+    "en": "Phanom Thuan",
+    "slug": "phanom-thuan-7109"
+  },
+  "code": {
+    "id": "7109",
+    "iso": null
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "local": "กาญจนบุรี",
+      "en": "Kanchanaburi",
+      "slug": "kanchanaburi-71"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi-71"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.076",
+    "lon": "99.667"
+  },
+  "metadata": {},
+  "source": {}
+}

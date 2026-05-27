@@ -1,0 +1,47 @@
+{
+  "id": "2007",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ศรีราชา",
+    "en": "Si Racha",
+    "slug": "si-racha-2007"
+  },
+  "code": {
+    "id": "2007",
+    "iso": null
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "local": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri-20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri-20"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.174",
+    "lon": "100.92"
+  },
+  "metadata": {},
+  "source": {}
+}

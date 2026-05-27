@@ -1,0 +1,226 @@
+[
+  {
+    "id": "210703",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ชำฆ้อ",
+      "en": "Cham Kho",
+      "slug": "cham-kho-210703"
+    },
+    "code": {
+      "id": "210703",
+      "iso": null
+    },
+    "parent": {
+      "id": "2107",
+      "level": 2,
+      "name": {
+        "local": "เขาชะเมา",
+        "en": "Khao Chamao",
+        "slug": "khao-chamao-2107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2107",
+        "level": 2,
+        "name": {
+          "local": "เขาชะเมา",
+          "en": "Khao Chamao",
+          "slug": "khao-chamao-2107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21110"
+    ],
+    "geo": {
+      "lat": "12.933",
+      "lon": "101.641"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210702",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ห้วยทับมอญ",
+      "en": "Huai Thap Mon",
+      "slug": "huai-thap-mon-210702"
+    },
+    "code": {
+      "id": "210702",
+      "iso": null
+    },
+    "parent": {
+      "id": "2107",
+      "level": 2,
+      "name": {
+        "local": "เขาชะเมา",
+        "en": "Khao Chamao",
+        "slug": "khao-chamao-2107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2107",
+        "level": 2,
+        "name": {
+          "local": "เขาชะเมา",
+          "en": "Khao Chamao",
+          "slug": "khao-chamao-2107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21110"
+    ],
+    "geo": {
+      "lat": "13.027",
+      "lon": "101.686"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210704",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เขาน้อย",
+      "en": "Khao Noy",
+      "slug": "khao-noy-210704"
+    },
+    "code": {
+      "id": "210704",
+      "iso": null
+    },
+    "parent": {
+      "id": "2107",
+      "level": 2,
+      "name": {
+        "local": "เขาชะเมา",
+        "en": "Khao Chamao",
+        "slug": "khao-chamao-2107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2107",
+        "level": 2,
+        "name": {
+          "local": "เขาชะเมา",
+          "en": "Khao Chamao",
+          "slug": "khao-chamao-2107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21110"
+    ],
+    "geo": {
+      "lat": "13.062",
+      "lon": "101.617"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "น้ำเป็น",
+      "en": "Nam Pen",
+      "slug": "nam-pen-210701"
+    },
+    "code": {
+      "id": "210701",
+      "iso": null
+    },
+    "parent": {
+      "id": "2107",
+      "level": 2,
+      "name": {
+        "local": "เขาชะเมา",
+        "en": "Khao Chamao",
+        "slug": "khao-chamao-2107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2107",
+        "level": 2,
+        "name": {
+          "local": "เขาชะเมา",
+          "en": "Khao Chamao",
+          "slug": "khao-chamao-2107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21110"
+    ],
+    "geo": {
+      "lat": "12.901",
+      "lon": "101.749"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

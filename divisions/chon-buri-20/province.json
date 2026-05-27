@@ -1,0 +1,30 @@
+{
+  "id": "20",
+  "level": 1,
+  "level_name": {
+    "local": "จังหวัด",
+    "en": "Province"
+  },
+  "name": {
+    "local": "ชลบุรี",
+    "en": "Chon Buri",
+    "slug": "chon-buri-20"
+  },
+  "code": {
+    "id": "20",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 11,
+    "subdistrict": 92
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.611",
+    "lon": "100.889"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,450 @@
+[
+  {
+    "id": "180602",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านเชี่ยน",
+      "en": "Ban Chian",
+      "slug": "ban-chian-180602"
+    },
+    "code": {
+      "id": "180602",
+      "iso": null
+    },
+    "parent": {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "local": "หันคา",
+        "en": "Hankha",
+        "slug": "hankha-1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat-18"
+        }
+      },
+      {
+        "id": "1806",
+        "level": 2,
+        "name": {
+          "local": "หันคา",
+          "en": "Hankha",
+          "slug": "hankha-1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17130"
+    ],
+    "geo": {
+      "lat": "14.942",
+      "lon": "99.997"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180609",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เด่นใหญ่",
+      "en": "Den Yai",
+      "slug": "den-yai-180609"
+    },
+    "code": {
+      "id": "180609",
+      "iso": null
+    },
+    "parent": {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "local": "หันคา",
+        "en": "Hankha",
+        "slug": "hankha-1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat-18"
+        }
+      },
+      {
+        "id": "1806",
+        "level": 2,
+        "name": {
+          "local": "หันคา",
+          "en": "Hankha",
+          "slug": "hankha-1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17130"
+    ],
+    "geo": {
+      "lat": "15.017",
+      "lon": "99.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180601",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หันคา",
+      "en": "Hankha",
+      "slug": "hankha-180601"
+    },
+    "code": {
+      "id": "180601",
+      "iso": null
+    },
+    "parent": {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "local": "หันคา",
+        "en": "Hankha",
+        "slug": "hankha-1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat-18"
+        }
+      },
+      {
+        "id": "1806",
+        "level": 2,
+        "name": {
+          "local": "หันคา",
+          "en": "Hankha",
+          "slug": "hankha-1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17130"
+    ],
+    "geo": {
+      "lat": "15.016",
+      "lon": "99.998"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180607",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ห้วยงู",
+      "en": "Huai Ngu",
+      "slug": "huai-ngu-180607"
+    },
+    "code": {
+      "id": "180607",
+      "iso": null
+    },
+    "parent": {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "local": "หันคา",
+        "en": "Hankha",
+        "slug": "hankha-1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat-18"
+        }
+      },
+      {
+        "id": "1806",
+        "level": 2,
+        "name": {
+          "local": "หันคา",
+          "en": "Hankha",
+          "slug": "hankha-1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17160"
+    ],
+    "geo": {
+      "lat": "15.072",
+      "lon": "100.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180606",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองแซง",
+      "en": "Nong Saeng",
+      "slug": "nong-saeng-180606"
+    },
+    "code": {
+      "id": "180606",
+      "iso": null
+    },
+    "parent": {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "local": "หันคา",
+        "en": "Hankha",
+        "slug": "hankha-1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat-18"
+        }
+      },
+      {
+        "id": "1806",
+        "level": 2,
+        "name": {
+          "local": "หันคา",
+          "en": "Hankha",
+          "slug": "hankha-1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17160"
+    ],
+    "geo": {
+      "lat": "15.107",
+      "lon": "99.973"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180605",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ไพรนกยูง",
+      "en": "Phrai Nok Yung",
+      "slug": "phrai-nok-yung-180605"
+    },
+    "code": {
+      "id": "180605",
+      "iso": null
+    },
+    "parent": {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "local": "หันคา",
+        "en": "Hankha",
+        "slug": "hankha-1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat-18"
+        }
+      },
+      {
+        "id": "1806",
+        "level": 2,
+        "name": {
+          "local": "หันคา",
+          "en": "Hankha",
+          "slug": "hankha-1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17130"
+    ],
+    "geo": {
+      "lat": "15.081",
+      "lon": "99.856"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180611",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สามง่ามท่าโบสถ์",
+      "en": "Sam Ngam Tha Bot",
+      "slug": "sam-ngam-tha-bot-180611"
+    },
+    "code": {
+      "id": "180611",
+      "iso": null
+    },
+    "parent": {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "local": "หันคา",
+        "en": "Hankha",
+        "slug": "hankha-1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat-18"
+        }
+      },
+      {
+        "id": "1806",
+        "level": 2,
+        "name": {
+          "local": "หันคา",
+          "en": "Hankha",
+          "slug": "hankha-1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17160"
+    ],
+    "geo": {
+      "lat": "15.065",
+      "lon": "100.026"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "180608",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังไก่เถื่อน",
+      "en": "Wang Kai Thuean",
+      "slug": "wang-kai-thuean-180608"
+    },
+    "code": {
+      "id": "180608",
+      "iso": null
+    },
+    "parent": {
+      "id": "1806",
+      "level": 2,
+      "name": {
+        "local": "หันคา",
+        "en": "Hankha",
+        "slug": "hankha-1806"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "18",
+        "level": 1,
+        "name": {
+          "local": "ชัยนาท",
+          "en": "Chai Nat",
+          "slug": "chai-nat-18"
+        }
+      },
+      {
+        "id": "1806",
+        "level": 2,
+        "name": {
+          "local": "หันคา",
+          "en": "Hankha",
+          "slug": "hankha-1806"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "17130"
+    ],
+    "geo": {
+      "lat": "15.004",
+      "lon": "100.056"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

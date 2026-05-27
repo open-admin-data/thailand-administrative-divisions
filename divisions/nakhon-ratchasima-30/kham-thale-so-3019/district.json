@@ -1,0 +1,47 @@
+{
+  "id": "3019",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ขามทะเลสอ",
+    "en": "Kham Thale So",
+    "slug": "kham-thale-so-3019"
+  },
+  "code": {
+    "id": "3019",
+    "iso": null
+  },
+  "parent": {
+    "id": "30",
+    "level": 1,
+    "name": {
+      "local": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima-30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "local": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima-30"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.97",
+    "lon": "101.916"
+  },
+  "metadata": {},
+  "source": {}
+}

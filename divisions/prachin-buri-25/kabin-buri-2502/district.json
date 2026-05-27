@@ -1,0 +1,47 @@
+{
+  "id": "2502",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "กบินทร์บุรี",
+    "en": "Kabin Buri",
+    "slug": "kabin-buri-2502"
+  },
+  "code": {
+    "id": "2502",
+    "iso": null
+  },
+  "parent": {
+    "id": "25",
+    "level": 1,
+    "name": {
+      "local": "ปราจีนบุรี",
+      "en": "Prachin Buri",
+      "slug": "prachin-buri-25"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "25",
+      "level": 1,
+      "name": {
+        "local": "ปราจีนบุรี",
+        "en": "Prachin Buri",
+        "slug": "prachin-buri-25"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.963",
+    "lon": "101.642"
+  },
+  "metadata": {},
+  "source": {}
+}

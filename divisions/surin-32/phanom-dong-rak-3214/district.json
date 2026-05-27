@@ -1,0 +1,47 @@
+{
+  "id": "3214",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พนมดงรัก",
+    "en": "Phanom Dong Rak",
+    "slug": "phanom-dong-rak-3214"
+  },
+  "code": {
+    "id": "3214",
+    "iso": null
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "local": "สุรินทร์",
+      "en": "Surin",
+      "slug": "surin-32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin-32"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.49",
+    "lon": "103.249"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "801003",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แก้วแสน",
+      "en": "Kaeo Saen",
+      "slug": "kaeo-saen-801003"
+    },
+    "code": {
+      "id": "801003",
+      "iso": null
+    },
+    "parent": {
+      "id": "8010",
+      "level": 2,
+      "name": {
+        "local": "นาบอน",
+        "en": "Na Bon",
+        "slug": "na-bon-8010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat-80"
+        }
+      },
+      {
+        "id": "8010",
+        "level": 2,
+        "name": {
+          "local": "นาบอน",
+          "en": "Na Bon",
+          "slug": "na-bon-8010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80220"
+    ],
+    "geo": {
+      "lat": "8.282",
+      "lon": "99.528"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "801001",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาบอน",
+      "en": "Na Bon",
+      "slug": "na-bon-801001"
+    },
+    "code": {
+      "id": "801001",
+      "iso": null
+    },
+    "parent": {
+      "id": "8010",
+      "level": 2,
+      "name": {
+        "local": "นาบอน",
+        "en": "Na Bon",
+        "slug": "na-bon-8010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat-80"
+        }
+      },
+      {
+        "id": "8010",
+        "level": 2,
+        "name": {
+          "local": "นาบอน",
+          "en": "Na Bon",
+          "slug": "na-bon-8010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80220"
+    ],
+    "geo": {
+      "lat": "8.243",
+      "lon": "99.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "801002",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งสง",
+      "en": "Thung Song",
+      "slug": "thung-song-801002"
+    },
+    "code": {
+      "id": "801002",
+      "iso": null
+    },
+    "parent": {
+      "id": "8010",
+      "level": 2,
+      "name": {
+        "local": "นาบอน",
+        "en": "Na Bon",
+        "slug": "na-bon-8010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat-80"
+        }
+      },
+      {
+        "id": "8010",
+        "level": 2,
+        "name": {
+          "local": "นาบอน",
+          "en": "Na Bon",
+          "slug": "na-bon-8010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80220"
+    ],
+    "geo": {
+      "lat": "8.255",
+      "lon": "99.487"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

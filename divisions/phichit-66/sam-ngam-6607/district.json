@@ -1,0 +1,47 @@
+{
+  "id": "6607",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สามง่าม",
+    "en": "Sam Ngam",
+    "slug": "sam-ngam-6607"
+  },
+  "code": {
+    "id": "6607",
+    "iso": null
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "local": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit-66"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit-66"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.432",
+    "lon": "100.212"
+  },
+  "metadata": {},
+  "source": {}
+}

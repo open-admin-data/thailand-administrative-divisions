@@ -1,0 +1,47 @@
+{
+  "id": "5305",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ฟากท่า",
+    "en": "Fak Tha",
+    "slug": "fak-tha-5305"
+  },
+  "code": {
+    "id": "5305",
+    "iso": null
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "local": "อุตรดิตถ์",
+      "en": "Uttaradit",
+      "slug": "uttaradit-53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit-53"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.914",
+    "lon": "100.848"
+  },
+  "metadata": {},
+  "source": {}
+}

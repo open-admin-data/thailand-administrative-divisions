@@ -1,0 +1,47 @@
+{
+  "id": "2304",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ่อไร่",
+    "en": "Bo Rai",
+    "slug": "bo-rai-2304"
+  },
+  "code": {
+    "id": "2304",
+    "iso": null
+  },
+  "parent": {
+    "id": "23",
+    "level": 1,
+    "name": {
+      "local": "ตราด",
+      "en": "Trat",
+      "slug": "trat-23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "local": "ตราด",
+        "en": "Trat",
+        "slug": "trat-23"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.585",
+    "lon": "102.469"
+  },
+  "metadata": {},
+  "source": {}
+}

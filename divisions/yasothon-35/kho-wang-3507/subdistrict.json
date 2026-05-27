@@ -1,0 +1,226 @@
+[
+  {
+    "id": "350701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ฟ้าห่วน",
+      "en": "Fa Huan",
+      "slug": "fa-huan-350701"
+    },
+    "code": {
+      "id": "350701",
+      "iso": null
+    },
+    "parent": {
+      "id": "3507",
+      "level": 2,
+      "name": {
+        "local": "ค้อวัง",
+        "en": "Kho Wang",
+        "slug": "kho-wang-3507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "ยโสธร",
+          "en": "Yasothon",
+          "slug": "yasothon-35"
+        }
+      },
+      {
+        "id": "3507",
+        "level": 2,
+        "name": {
+          "local": "ค้อวัง",
+          "en": "Kho Wang",
+          "slug": "kho-wang-3507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35160"
+    ],
+    "geo": {
+      "lat": "15.339",
+      "lon": "104.405"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "350704",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ค้อวัง",
+      "en": "Kho Wang",
+      "slug": "kho-wang-350704"
+    },
+    "code": {
+      "id": "350704",
+      "iso": null
+    },
+    "parent": {
+      "id": "3507",
+      "level": 2,
+      "name": {
+        "local": "ค้อวัง",
+        "en": "Kho Wang",
+        "slug": "kho-wang-3507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "ยโสธร",
+          "en": "Yasothon",
+          "slug": "yasothon-35"
+        }
+      },
+      {
+        "id": "3507",
+        "level": 2,
+        "name": {
+          "local": "ค้อวัง",
+          "en": "Kho Wang",
+          "slug": "kho-wang-3507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35160"
+    ],
+    "geo": {
+      "lat": "15.363",
+      "lon": "104.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "350702",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กุดน้ำใส",
+      "en": "Kut Nam Sai",
+      "slug": "kut-nam-sai-350702"
+    },
+    "code": {
+      "id": "350702",
+      "iso": null
+    },
+    "parent": {
+      "id": "3507",
+      "level": 2,
+      "name": {
+        "local": "ค้อวัง",
+        "en": "Kho Wang",
+        "slug": "kho-wang-3507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "ยโสธร",
+          "en": "Yasothon",
+          "slug": "yasothon-35"
+        }
+      },
+      {
+        "id": "3507",
+        "level": 2,
+        "name": {
+          "local": "ค้อวัง",
+          "en": "Kho Wang",
+          "slug": "kho-wang-3507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35160"
+    ],
+    "geo": {
+      "lat": "15.415",
+      "lon": "104.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "350703",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "น้ำอ้อม",
+      "en": "Nam Om",
+      "slug": "nam-om-350703"
+    },
+    "code": {
+      "id": "350703",
+      "iso": null
+    },
+    "parent": {
+      "id": "3507",
+      "level": 2,
+      "name": {
+        "local": "ค้อวัง",
+        "en": "Kho Wang",
+        "slug": "kho-wang-3507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "35",
+        "level": 1,
+        "name": {
+          "local": "ยโสธร",
+          "en": "Yasothon",
+          "slug": "yasothon-35"
+        }
+      },
+      {
+        "id": "3507",
+        "level": 2,
+        "name": {
+          "local": "ค้อวัง",
+          "en": "Kho Wang",
+          "slug": "kho-wang-3507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "35160"
+    ],
+    "geo": {
+      "lat": "15.397",
+      "lon": "104.28"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

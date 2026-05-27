@@ -1,0 +1,47 @@
+{
+  "id": "5008",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สะเมิง",
+    "en": "Samoeng",
+    "slug": "samoeng-5008"
+  },
+  "code": {
+    "id": "5008",
+    "iso": null
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "local": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai-50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "local": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai-50"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.977",
+    "lon": "98.739"
+  },
+  "metadata": {},
+  "source": {}
+}

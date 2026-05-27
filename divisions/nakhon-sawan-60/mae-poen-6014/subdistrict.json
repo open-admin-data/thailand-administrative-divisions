@@ -1,0 +1,58 @@
+[
+  {
+    "id": "601401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่เปิน",
+      "en": "Mae Poen",
+      "slug": "mae-poen-601401"
+    },
+    "code": {
+      "id": "601401",
+      "iso": null
+    },
+    "parent": {
+      "id": "6014",
+      "level": 2,
+      "name": {
+        "local": "แม่เปิน",
+        "en": "Mae Poen",
+        "slug": "mae-poen-6014"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "60",
+        "level": 1,
+        "name": {
+          "local": "นครสวรรค์",
+          "en": "Nakhon Sawan",
+          "slug": "nakhon-sawan-60"
+        }
+      },
+      {
+        "id": "6014",
+        "level": 2,
+        "name": {
+          "local": "แม่เปิน",
+          "en": "Mae Poen",
+          "slug": "mae-poen-6014"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "60150"
+    ],
+    "geo": {
+      "lat": "15.738",
+      "lon": "99.294"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "4512",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองสรวง",
+    "en": "Mueang Suang",
+    "slug": "mueang-suang-4512"
+  },
+  "code": {
+    "id": "4512",
+    "iso": null
+  },
+  "parent": {
+    "id": "45",
+    "level": 1,
+    "name": {
+      "local": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et-45"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "local": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et-45"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.817",
+    "lon": "103.755"
+  },
+  "metadata": {},
+  "source": {}
+}

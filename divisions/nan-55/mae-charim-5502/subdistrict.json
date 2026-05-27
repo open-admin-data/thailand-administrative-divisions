@@ -1,0 +1,282 @@
+[
+  {
+    "id": "550206",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่จริม",
+      "en": "Mae Charim",
+      "slug": "mae-charim-550206"
+    },
+    "code": {
+      "id": "550206",
+      "iso": null
+    },
+    "parent": {
+      "id": "5502",
+      "level": 2,
+      "name": {
+        "local": "แม่จริม",
+        "en": "Mae Charim",
+        "slug": "mae-charim-5502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5502",
+        "level": 2,
+        "name": {
+          "local": "แม่จริม",
+          "en": "Mae Charim",
+          "slug": "mae-charim-5502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55170"
+    ],
+    "geo": {
+      "lat": "18.824",
+      "lon": "101.045"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หมอเมือง",
+      "en": "Mo Mueang",
+      "slug": "mo-mueang-550203"
+    },
+    "code": {
+      "id": "550203",
+      "iso": null
+    },
+    "parent": {
+      "id": "5502",
+      "level": 2,
+      "name": {
+        "local": "แม่จริม",
+        "en": "Mae Charim",
+        "slug": "mae-charim-5502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5502",
+        "level": 2,
+        "name": {
+          "local": "แม่จริม",
+          "en": "Mae Charim",
+          "slug": "mae-charim-5502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55170"
+    ],
+    "geo": {
+      "lat": "18.687",
+      "lon": "100.975"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550205",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "น้ำปาย",
+      "en": "Nam Pai",
+      "slug": "nam-pai-550205"
+    },
+    "code": {
+      "id": "550205",
+      "iso": null
+    },
+    "parent": {
+      "id": "5502",
+      "level": 2,
+      "name": {
+        "local": "แม่จริม",
+        "en": "Mae Charim",
+        "slug": "mae-charim-5502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5502",
+        "level": 2,
+        "name": {
+          "local": "แม่จริม",
+          "en": "Mae Charim",
+          "slug": "mae-charim-5502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55170"
+    ],
+    "geo": {
+      "lat": "18.641",
+      "lon": "100.961"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550204",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "น้ำพาง",
+      "en": "Nam Phang",
+      "slug": "nam-phang-550204"
+    },
+    "code": {
+      "id": "550204",
+      "iso": null
+    },
+    "parent": {
+      "id": "5502",
+      "level": 2,
+      "name": {
+        "local": "แม่จริม",
+        "en": "Mae Charim",
+        "slug": "mae-charim-5502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5502",
+        "level": 2,
+        "name": {
+          "local": "แม่จริม",
+          "en": "Mae Charim",
+          "slug": "mae-charim-5502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55170"
+    ],
+    "geo": {
+      "lat": "18.611",
+      "lon": "101.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองแดง",
+      "en": "Nong Daeng",
+      "slug": "nong-daeng-550202"
+    },
+    "code": {
+      "id": "550202",
+      "iso": null
+    },
+    "parent": {
+      "id": "5502",
+      "level": 2,
+      "name": {
+        "local": "แม่จริม",
+        "en": "Mae Charim",
+        "slug": "mae-charim-5502"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5502",
+        "level": 2,
+        "name": {
+          "local": "แม่จริม",
+          "en": "Mae Charim",
+          "slug": "mae-charim-5502"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55170"
+    ],
+    "geo": {
+      "lat": "18.736",
+      "lon": "101.025"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

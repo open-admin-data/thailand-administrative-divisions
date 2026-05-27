@@ -1,0 +1,47 @@
+{
+  "id": "5213",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองปาน",
+    "en": "Mueang Pan",
+    "slug": "mueang-pan-5213"
+  },
+  "code": {
+    "id": "5213",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "ลำปาง",
+      "en": "Lampang",
+      "slug": "lampang-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang-52"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.797",
+    "lon": "99.446"
+  },
+  "metadata": {},
+  "source": {}
+}

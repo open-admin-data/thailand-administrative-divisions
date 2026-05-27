@@ -1,0 +1,47 @@
+{
+  "id": "3804",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เซกา",
+    "en": "Seka",
+    "slug": "seka-3804"
+  },
+  "code": {
+    "id": "3804",
+    "iso": null
+  },
+  "parent": {
+    "id": "38",
+    "level": 1,
+    "name": {
+      "local": "บึงกาฬ",
+      "en": "Buogkan",
+      "slug": "buogkan-38"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan-38"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.914",
+    "lon": "103.891"
+  },
+  "metadata": {},
+  "source": {}
+}

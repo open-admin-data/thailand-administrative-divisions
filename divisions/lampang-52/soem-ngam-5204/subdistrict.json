@@ -1,0 +1,226 @@
+[
+  {
+    "id": "520402",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เสริมขวา",
+      "en": "Soem Khwa",
+      "slug": "soem-khwa-520402"
+    },
+    "code": {
+      "id": "520402",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204",
+      "level": 2,
+      "name": {
+        "local": "เสริมงาม",
+        "en": "Soem Ngam",
+        "slug": "soem-ngam-5204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "เสริมงาม",
+          "en": "Soem Ngam",
+          "slug": "soem-ngam-5204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52210"
+    ],
+    "geo": {
+      "lat": "18.138",
+      "lon": "99.196"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520404",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เสริมกลาง",
+      "en": "Soem Klang",
+      "slug": "soem-klang-520404"
+    },
+    "code": {
+      "id": "520404",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204",
+      "level": 2,
+      "name": {
+        "local": "เสริมงาม",
+        "en": "Soem Ngam",
+        "slug": "soem-ngam-5204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "เสริมงาม",
+          "en": "Soem Ngam",
+          "slug": "soem-ngam-5204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52210"
+    ],
+    "geo": {
+      "lat": "18.132",
+      "lon": "99.087"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520403",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เสริมซ้าย",
+      "en": "Soem Sai",
+      "slug": "soem-sai-520403"
+    },
+    "code": {
+      "id": "520403",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204",
+      "level": 2,
+      "name": {
+        "local": "เสริมงาม",
+        "en": "Soem Ngam",
+        "slug": "soem-ngam-5204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "เสริมงาม",
+          "en": "Soem Ngam",
+          "slug": "soem-ngam-5204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52210"
+    ],
+    "geo": {
+      "lat": "17.975",
+      "lon": "99.165"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งงาม",
+      "en": "Thung Ngam",
+      "slug": "thung-ngam-520401"
+    },
+    "code": {
+      "id": "520401",
+      "iso": null
+    },
+    "parent": {
+      "id": "5204",
+      "level": 2,
+      "name": {
+        "local": "เสริมงาม",
+        "en": "Soem Ngam",
+        "slug": "soem-ngam-5204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5204",
+        "level": 2,
+        "name": {
+          "local": "เสริมงาม",
+          "en": "Soem Ngam",
+          "slug": "soem-ngam-5204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52210"
+    ],
+    "geo": {
+      "lat": "18.071",
+      "lon": "99.244"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

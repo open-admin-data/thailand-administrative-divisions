@@ -1,0 +1,226 @@
+[
+  {
+    "id": "900803",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เชิงแส",
+      "en": "Choeng Sae",
+      "slug": "choeng-sae-900803"
+    },
+    "code": {
+      "id": "900803",
+      "iso": null
+    },
+    "parent": {
+      "id": "9008",
+      "level": 2,
+      "name": {
+        "local": "กระแสสินธุ์",
+        "en": "Krasae Sin",
+        "slug": "krasae-sin-9008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9008",
+        "level": 2,
+        "name": {
+          "local": "กระแสสินธุ์",
+          "en": "Krasae Sin",
+          "slug": "krasae-sin-9008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90270"
+    ],
+    "geo": {
+      "lat": "7.634",
+      "lon": "100.332"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เกาะใหญ่",
+      "en": "Ko Yai",
+      "slug": "ko-yai-900801"
+    },
+    "code": {
+      "id": "900801",
+      "iso": null
+    },
+    "parent": {
+      "id": "9008",
+      "level": 2,
+      "name": {
+        "local": "กระแสสินธุ์",
+        "en": "Krasae Sin",
+        "slug": "krasae-sin-9008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9008",
+        "level": 2,
+        "name": {
+          "local": "กระแสสินธุ์",
+          "en": "Krasae Sin",
+          "slug": "krasae-sin-9008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90270"
+    ],
+    "geo": {
+      "lat": "7.54",
+      "lon": "100.323"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900804",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กระแสสินธุ์",
+      "en": "Krasae Sin",
+      "slug": "krasae-sin-900804"
+    },
+    "code": {
+      "id": "900804",
+      "iso": null
+    },
+    "parent": {
+      "id": "9008",
+      "level": 2,
+      "name": {
+        "local": "กระแสสินธุ์",
+        "en": "Krasae Sin",
+        "slug": "krasae-sin-9008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9008",
+        "level": 2,
+        "name": {
+          "local": "กระแสสินธุ์",
+          "en": "Krasae Sin",
+          "slug": "krasae-sin-9008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90270"
+    ],
+    "geo": {
+      "lat": "7.594",
+      "lon": "100.326"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "900802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โรง",
+      "en": "Rong",
+      "slug": "rong-900802"
+    },
+    "code": {
+      "id": "900802",
+      "iso": null
+    },
+    "parent": {
+      "id": "9008",
+      "level": 2,
+      "name": {
+        "local": "กระแสสินธุ์",
+        "en": "Krasae Sin",
+        "slug": "krasae-sin-9008"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9008",
+        "level": 2,
+        "name": {
+          "local": "กระแสสินธุ์",
+          "en": "Krasae Sin",
+          "slug": "krasae-sin-9008"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90270"
+    ],
+    "geo": {
+      "lat": "7.677",
+      "lon": "100.271"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

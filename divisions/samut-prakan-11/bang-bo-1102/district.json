@@ -1,0 +1,47 @@
+{
+  "id": "1102",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บางบ่อ",
+    "en": "Bang Bo",
+    "slug": "bang-bo-1102"
+  },
+  "code": {
+    "id": "1102",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan-11"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.659",
+    "lon": "100.925"
+  },
+  "metadata": {},
+  "source": {}
+}

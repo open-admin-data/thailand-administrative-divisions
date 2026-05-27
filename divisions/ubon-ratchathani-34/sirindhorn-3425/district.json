@@ -1,0 +1,47 @@
+{
+  "id": "3425",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สิรินธร",
+    "en": "Sirindhorn",
+    "slug": "sirindhorn-3425"
+  },
+  "code": {
+    "id": "3425",
+    "iso": null
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "local": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani-34"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani-34"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.134",
+    "lon": "105.364"
+  },
+  "metadata": {},
+  "source": {}
+}

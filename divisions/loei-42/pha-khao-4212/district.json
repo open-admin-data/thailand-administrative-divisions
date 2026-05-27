@@ -1,0 +1,47 @@
+{
+  "id": "4212",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ผาขาว",
+    "en": "Pha Khao",
+    "slug": "pha-khao-4212"
+  },
+  "code": {
+    "id": "4212",
+    "iso": null
+  },
+  "parent": {
+    "id": "42",
+    "level": 1,
+    "name": {
+      "local": "เลย",
+      "en": "Loei",
+      "slug": "loei-42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "เลย",
+        "en": "Loei",
+        "slug": "loei-42"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.102",
+    "lon": "102.052"
+  },
+  "metadata": {},
+  "source": {}
+}

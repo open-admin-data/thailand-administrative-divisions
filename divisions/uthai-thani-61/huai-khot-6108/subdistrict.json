@@ -1,0 +1,170 @@
+[
+  {
+    "id": "610803",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ห้วยคต",
+      "en": "Huai Khot",
+      "slug": "huai-khot-610803"
+    },
+    "code": {
+      "id": "610803",
+      "iso": null
+    },
+    "parent": {
+      "id": "6108",
+      "level": 2,
+      "name": {
+        "local": "ห้วยคต",
+        "en": "Huai Khot",
+        "slug": "huai-khot-6108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani-61"
+        }
+      },
+      {
+        "id": "6108",
+        "level": 2,
+        "name": {
+          "local": "ห้วยคต",
+          "en": "Huai Khot",
+          "slug": "huai-khot-6108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61170"
+    ],
+    "geo": {
+      "lat": "15.272",
+      "lon": "99.568"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "610801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สุขฤทัย",
+      "en": "Suk Ruethai",
+      "slug": "suk-ruethai-610801"
+    },
+    "code": {
+      "id": "610801",
+      "iso": null
+    },
+    "parent": {
+      "id": "6108",
+      "level": 2,
+      "name": {
+        "local": "ห้วยคต",
+        "en": "Huai Khot",
+        "slug": "huai-khot-6108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani-61"
+        }
+      },
+      {
+        "id": "6108",
+        "level": 2,
+        "name": {
+          "local": "ห้วยคต",
+          "en": "Huai Khot",
+          "slug": "huai-khot-6108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61170"
+    ],
+    "geo": {
+      "lat": "15.274",
+      "lon": "99.646"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "610802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทองหลาง",
+      "en": "Thonglang",
+      "slug": "thonglang-610802"
+    },
+    "code": {
+      "id": "610802",
+      "iso": null
+    },
+    "parent": {
+      "id": "6108",
+      "level": 2,
+      "name": {
+        "local": "ห้วยคต",
+        "en": "Huai Khot",
+        "slug": "huai-khot-6108"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani-61"
+        }
+      },
+      {
+        "id": "6108",
+        "level": 2,
+        "name": {
+          "local": "ห้วยคต",
+          "en": "Huai Khot",
+          "slug": "huai-khot-6108"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61170"
+    ],
+    "geo": {
+      "lat": "15.316",
+      "lon": "99.481"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

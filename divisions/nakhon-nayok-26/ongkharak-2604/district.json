@@ -1,0 +1,47 @@
+{
+  "id": "2604",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "องครักษ์",
+    "en": "Ongkharak",
+    "slug": "ongkharak-2604"
+  },
+  "code": {
+    "id": "2604",
+    "iso": null
+  },
+  "parent": {
+    "id": "26",
+    "level": 1,
+    "name": {
+      "local": "นครนายก",
+      "en": "Nakhon Nayok",
+      "slug": "nakhon-nayok-26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "local": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok-26"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.99",
+    "lon": "100.937"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "700302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ป่าหวาย",
+      "en": "Pa Wai",
+      "slug": "pa-wai-700302"
+    },
+    "code": {
+      "id": "700302",
+      "iso": null
+    },
+    "parent": {
+      "id": "7003",
+      "level": 2,
+      "name": {
+        "local": "สวนผึ้ง",
+        "en": "Suan Phueng",
+        "slug": "suan-phueng-7003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "local": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi-70"
+        }
+      },
+      {
+        "id": "7003",
+        "level": 2,
+        "name": {
+          "local": "สวนผึ้ง",
+          "en": "Suan Phueng",
+          "slug": "suan-phueng-7003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70180"
+    ],
+    "geo": {
+      "lat": "13.578",
+      "lon": "99.423"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "700301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สวนผึ้ง",
+      "en": "Suan Phueng",
+      "slug": "suan-phueng-700301"
+    },
+    "code": {
+      "id": "700301",
+      "iso": null
+    },
+    "parent": {
+      "id": "7003",
+      "level": 2,
+      "name": {
+        "local": "สวนผึ้ง",
+        "en": "Suan Phueng",
+        "slug": "suan-phueng-7003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "local": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi-70"
+        }
+      },
+      {
+        "id": "7003",
+        "level": 2,
+        "name": {
+          "local": "สวนผึ้ง",
+          "en": "Suan Phueng",
+          "slug": "suan-phueng-7003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70180"
+    ],
+    "geo": {
+      "lat": "13.612",
+      "lon": "99.249"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "700307",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตะนาวศรี",
+      "en": "Tanao Si",
+      "slug": "tanao-si-700307"
+    },
+    "code": {
+      "id": "700307",
+      "iso": null
+    },
+    "parent": {
+      "id": "7003",
+      "level": 2,
+      "name": {
+        "local": "สวนผึ้ง",
+        "en": "Suan Phueng",
+        "slug": "suan-phueng-7003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "local": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi-70"
+        }
+      },
+      {
+        "id": "7003",
+        "level": 2,
+        "name": {
+          "local": "สวนผึ้ง",
+          "en": "Suan Phueng",
+          "slug": "suan-phueng-7003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70180"
+    ],
+    "geo": {
+      "lat": "13.418",
+      "lon": "99.273"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "700304",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าเคย",
+      "en": "Tha Khoei",
+      "slug": "tha-khoei-700304"
+    },
+    "code": {
+      "id": "700304",
+      "iso": null
+    },
+    "parent": {
+      "id": "7003",
+      "level": 2,
+      "name": {
+        "local": "สวนผึ้ง",
+        "en": "Suan Phueng",
+        "slug": "suan-phueng-7003"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "70",
+        "level": 1,
+        "name": {
+          "local": "ราชบุรี",
+          "en": "Ratchaburi",
+          "slug": "ratchaburi-70"
+        }
+      },
+      {
+        "id": "7003",
+        "level": 2,
+        "name": {
+          "local": "สวนผึ้ง",
+          "en": "Suan Phueng",
+          "slug": "suan-phueng-7003"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "70180"
+    ],
+    "geo": {
+      "lat": "13.522",
+      "lon": "99.42"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

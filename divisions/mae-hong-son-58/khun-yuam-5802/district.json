@@ -1,0 +1,47 @@
+{
+  "id": "5802",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ขุนยวม",
+    "en": "Khun Yuam",
+    "slug": "khun-yuam-5802"
+  },
+  "code": {
+    "id": "5802",
+    "iso": null
+  },
+  "parent": {
+    "id": "58",
+    "level": 1,
+    "name": {
+      "local": "แม่ฮ่องสอน",
+      "en": "Mae Hong Son",
+      "slug": "mae-hong-son-58"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "local": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son-58"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.742",
+    "lon": "98.051"
+  },
+  "metadata": {},
+  "source": {}
+}

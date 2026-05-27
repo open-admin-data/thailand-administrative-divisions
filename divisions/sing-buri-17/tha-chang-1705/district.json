@@ -1,0 +1,47 @@
+{
+  "id": "1705",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ท่าช้าง",
+    "en": "Tha Chang",
+    "slug": "tha-chang-1705"
+  },
+  "code": {
+    "id": "1705",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "สิงห์บุรี",
+      "en": "Sing Buri",
+      "slug": "sing-buri-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri-17"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.801",
+    "lon": "100.409"
+  },
+  "metadata": {},
+  "source": {}
+}

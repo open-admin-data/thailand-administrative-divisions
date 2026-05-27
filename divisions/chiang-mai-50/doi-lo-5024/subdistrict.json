@@ -1,0 +1,226 @@
+[
+  {
+    "id": "502401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดอยหล่อ",
+      "en": "Doi Lo",
+      "slug": "doi-lo-502401"
+    },
+    "code": {
+      "id": "502401",
+      "iso": null
+    },
+    "parent": {
+      "id": "5024",
+      "level": 2,
+      "name": {
+        "local": "ดอยหล่อ",
+        "en": "Doi Lo",
+        "slug": "doi-lo-5024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5024",
+        "level": 2,
+        "name": {
+          "local": "ดอยหล่อ",
+          "en": "Doi Lo",
+          "slug": "doi-lo-5024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50160"
+    ],
+    "geo": {
+      "lat": "18.488",
+      "lon": "98.798"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "502404",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สันติสุข",
+      "en": "Santi Suk",
+      "slug": "santi-suk-502404"
+    },
+    "code": {
+      "id": "502404",
+      "iso": null
+    },
+    "parent": {
+      "id": "5024",
+      "level": 2,
+      "name": {
+        "local": "ดอยหล่อ",
+        "en": "Doi Lo",
+        "slug": "doi-lo-5024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5024",
+        "level": 2,
+        "name": {
+          "local": "ดอยหล่อ",
+          "en": "Doi Lo",
+          "slug": "doi-lo-5024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57120"
+    ],
+    "geo": {
+      "lat": "18.581",
+      "lon": "98.682"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "502402",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สองแคว",
+      "en": "Song Khwae",
+      "slug": "song-khwae-502402"
+    },
+    "code": {
+      "id": "502402",
+      "iso": null
+    },
+    "parent": {
+      "id": "5024",
+      "level": 2,
+      "name": {
+        "local": "ดอยหล่อ",
+        "en": "Doi Lo",
+        "slug": "doi-lo-5024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5024",
+        "level": 2,
+        "name": {
+          "local": "ดอยหล่อ",
+          "en": "Doi Lo",
+          "slug": "doi-lo-5024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50160"
+    ],
+    "geo": {
+      "lat": "18.504",
+      "lon": "98.841"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "502403",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ยางคราม",
+      "en": "Yang Khram",
+      "slug": "yang-khram-502403"
+    },
+    "code": {
+      "id": "502403",
+      "iso": null
+    },
+    "parent": {
+      "id": "5024",
+      "level": 2,
+      "name": {
+        "local": "ดอยหล่อ",
+        "en": "Doi Lo",
+        "slug": "doi-lo-5024"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5024",
+        "level": 2,
+        "name": {
+          "local": "ดอยหล่อ",
+          "en": "Doi Lo",
+          "slug": "doi-lo-5024"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50160"
+    ],
+    "geo": {
+      "lat": "18.56",
+      "lon": "98.782"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

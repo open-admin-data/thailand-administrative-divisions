@@ -1,0 +1,47 @@
+{
+  "id": "3703",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ปทุมราชวงศา",
+    "en": "Pathum Ratchawongsa",
+    "slug": "pathum-ratchawongsa-3703"
+  },
+  "code": {
+    "id": "3703",
+    "iso": null
+  },
+  "parent": {
+    "id": "37",
+    "level": 1,
+    "name": {
+      "local": "อำนาจเจริญ",
+      "en": "Amnat Charoen",
+      "slug": "amnat-charoen-37"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "37",
+      "level": 1,
+      "name": {
+        "local": "อำนาจเจริญ",
+        "en": "Amnat Charoen",
+        "slug": "amnat-charoen-37"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.862",
+    "lon": "104.828"
+  },
+  "metadata": {},
+  "source": {}
+}

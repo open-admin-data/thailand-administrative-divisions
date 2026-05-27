@@ -1,0 +1,282 @@
+[
+  {
+    "id": "520201",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านดง",
+      "en": "Ban Dong",
+      "slug": "ban-dong-520201"
+    },
+    "code": {
+      "id": "520201",
+      "iso": null
+    },
+    "parent": {
+      "id": "5202",
+      "level": 2,
+      "name": {
+        "local": "แม่เมาะ",
+        "en": "Mae Mo",
+        "slug": "mae-mo-5202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5202",
+        "level": 2,
+        "name": {
+          "local": "แม่เมาะ",
+          "en": "Mae Mo",
+          "slug": "mae-mo-5202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52220"
+    ],
+    "geo": {
+      "lat": "18.374",
+      "lon": "99.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "จางเหนือ",
+      "en": "Chang Nuea",
+      "slug": "chang-nuea-520203"
+    },
+    "code": {
+      "id": "520203",
+      "iso": null
+    },
+    "parent": {
+      "id": "5202",
+      "level": 2,
+      "name": {
+        "local": "แม่เมาะ",
+        "en": "Mae Mo",
+        "slug": "mae-mo-5202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5202",
+        "level": 2,
+        "name": {
+          "local": "แม่เมาะ",
+          "en": "Mae Mo",
+          "slug": "mae-mo-5202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52220"
+    ],
+    "geo": {
+      "lat": "18.456",
+      "lon": "99.941"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520204",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่เมาะ",
+      "en": "Mae Mo",
+      "slug": "mae-mo-520204"
+    },
+    "code": {
+      "id": "520204",
+      "iso": null
+    },
+    "parent": {
+      "id": "5202",
+      "level": 2,
+      "name": {
+        "local": "แม่เมาะ",
+        "en": "Mae Mo",
+        "slug": "mae-mo-5202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5202",
+        "level": 2,
+        "name": {
+          "local": "แม่เมาะ",
+          "en": "Mae Mo",
+          "slug": "mae-mo-5202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52220"
+    ],
+    "geo": {
+      "lat": "18.297",
+      "lon": "99.668"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาสัก",
+      "en": "Na Sak",
+      "slug": "na-sak-520202"
+    },
+    "code": {
+      "id": "520202",
+      "iso": null
+    },
+    "parent": {
+      "id": "5202",
+      "level": 2,
+      "name": {
+        "local": "แม่เมาะ",
+        "en": "Mae Mo",
+        "slug": "mae-mo-5202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5202",
+        "level": 2,
+        "name": {
+          "local": "แม่เมาะ",
+          "en": "Mae Mo",
+          "slug": "mae-mo-5202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52220"
+    ],
+    "geo": {
+      "lat": "18.343",
+      "lon": "99.836"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520205",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สบป้าน",
+      "en": "Sop Pat",
+      "slug": "sop-pat-520205"
+    },
+    "code": {
+      "id": "520205",
+      "iso": null
+    },
+    "parent": {
+      "id": "5202",
+      "level": 2,
+      "name": {
+        "local": "แม่เมาะ",
+        "en": "Mae Mo",
+        "slug": "mae-mo-5202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5202",
+        "level": 2,
+        "name": {
+          "local": "แม่เมาะ",
+          "en": "Mae Mo",
+          "slug": "mae-mo-5202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52220"
+    ],
+    "geo": {
+      "lat": "18.25",
+      "lon": "99.807"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

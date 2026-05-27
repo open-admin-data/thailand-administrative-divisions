@@ -1,0 +1,226 @@
+[
+  {
+    "id": "860602",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปากทรง",
+      "en": "Pak Song",
+      "slug": "pak-song-860602"
+    },
+    "code": {
+      "id": "860602",
+      "iso": null
+    },
+    "parent": {
+      "id": "8606",
+      "level": 2,
+      "name": {
+        "local": "พะโต๊ะ",
+        "en": "Phato",
+        "slug": "phato-8606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "86",
+        "level": 1,
+        "name": {
+          "local": "ชุมพร",
+          "en": "Chumphon",
+          "slug": "chumphon-86"
+        }
+      },
+      {
+        "id": "8606",
+        "level": 2,
+        "name": {
+          "local": "พะโต๊ะ",
+          "en": "Phato",
+          "slug": "phato-8606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86180"
+    ],
+    "geo": {
+      "lat": "9.741",
+      "lon": "98.703"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "860603",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปังหวาน",
+      "en": "Pang Wan",
+      "slug": "pang-wan-860603"
+    },
+    "code": {
+      "id": "860603",
+      "iso": null
+    },
+    "parent": {
+      "id": "8606",
+      "level": 2,
+      "name": {
+        "local": "พะโต๊ะ",
+        "en": "Phato",
+        "slug": "phato-8606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "86",
+        "level": 1,
+        "name": {
+          "local": "ชุมพร",
+          "en": "Chumphon",
+          "slug": "chumphon-86"
+        }
+      },
+      {
+        "id": "8606",
+        "level": 2,
+        "name": {
+          "local": "พะโต๊ะ",
+          "en": "Phato",
+          "slug": "phato-8606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86180"
+    ],
+    "geo": {
+      "lat": "9.951",
+      "lon": "98.866"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "860601",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "พะโต๊ะ",
+      "en": "Phato",
+      "slug": "phato-860601"
+    },
+    "code": {
+      "id": "860601",
+      "iso": null
+    },
+    "parent": {
+      "id": "8606",
+      "level": 2,
+      "name": {
+        "local": "พะโต๊ะ",
+        "en": "Phato",
+        "slug": "phato-8606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "86",
+        "level": 1,
+        "name": {
+          "local": "ชุมพร",
+          "en": "Chumphon",
+          "slug": "chumphon-86"
+        }
+      },
+      {
+        "id": "8606",
+        "level": 2,
+        "name": {
+          "local": "พะโต๊ะ",
+          "en": "Phato",
+          "slug": "phato-8606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86180"
+    ],
+    "geo": {
+      "lat": "9.816",
+      "lon": "98.8"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "860604",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "พระรักษ์",
+      "en": "Phra Rak",
+      "slug": "phra-rak-860604"
+    },
+    "code": {
+      "id": "860604",
+      "iso": null
+    },
+    "parent": {
+      "id": "8606",
+      "level": 2,
+      "name": {
+        "local": "พะโต๊ะ",
+        "en": "Phato",
+        "slug": "phato-8606"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "86",
+        "level": 1,
+        "name": {
+          "local": "ชุมพร",
+          "en": "Chumphon",
+          "slug": "chumphon-86"
+        }
+      },
+      {
+        "id": "8606",
+        "level": 2,
+        "name": {
+          "local": "พะโต๊ะ",
+          "en": "Phato",
+          "slug": "phato-8606"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86180"
+    ],
+    "geo": {
+      "lat": "9.852",
+      "lon": "98.923"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

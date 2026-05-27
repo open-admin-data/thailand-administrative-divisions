@@ -1,0 +1,47 @@
+{
+  "id": "9612",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "จะแนะ",
+    "en": "Chanae",
+    "slug": "chanae-9612"
+  },
+  "code": {
+    "id": "9612",
+    "iso": null
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "local": "นราธิวาส",
+      "en": "Narathiwat",
+      "slug": "narathiwat-96"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat-96"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.132",
+    "lon": "101.728"
+  },
+  "metadata": {},
+  "source": {}
+}

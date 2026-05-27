@@ -1,0 +1,47 @@
+{
+  "id": "9411",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "กะพ้อ",
+    "en": "Kapho",
+    "slug": "kapho-9411"
+  },
+  "code": {
+    "id": "9411",
+    "iso": null
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "local": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani-94"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani-94"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.603",
+    "lon": "101.554"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "8302",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "กะทู้",
+    "en": "Kathu",
+    "slug": "kathu-8302"
+  },
+  "code": {
+    "id": "8302",
+    "iso": null
+  },
+  "parent": {
+    "id": "83",
+    "level": 1,
+    "name": {
+      "local": "ภูเก็ต",
+      "en": "Phuket",
+      "slug": "phuket-83"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "local": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket-83"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.945",
+    "lon": "98.289"
+  },
+  "metadata": {},
+  "source": {}
+}

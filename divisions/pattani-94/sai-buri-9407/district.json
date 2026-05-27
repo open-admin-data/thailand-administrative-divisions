@@ -1,0 +1,47 @@
+{
+  "id": "9407",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สายบุรี",
+    "en": "Sai Buri",
+    "slug": "sai-buri-9407"
+  },
+  "code": {
+    "id": "9407",
+    "iso": null
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "local": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani-94"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani-94"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.764",
+    "lon": "101.591"
+  },
+  "metadata": {},
+  "source": {}
+}

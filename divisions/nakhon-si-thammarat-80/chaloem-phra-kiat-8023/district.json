@@ -1,0 +1,47 @@
+{
+  "id": "8023",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เฉลิมพระเกียรติ",
+    "en": "Chaloem Phra Kiat",
+    "slug": "chaloem-phra-kiat-8023"
+  },
+  "code": {
+    "id": "8023",
+    "iso": null
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "local": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat-80"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat-80"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.213",
+    "lon": "100.039"
+  },
+  "metadata": {},
+  "source": {}
+}

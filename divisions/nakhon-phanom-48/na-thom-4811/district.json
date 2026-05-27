@@ -1,0 +1,47 @@
+{
+  "id": "4811",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "นาทม",
+    "en": "Na Thom",
+    "slug": "na-thom-4811"
+  },
+  "code": {
+    "id": "4811",
+    "iso": null
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "local": "นครพนม",
+      "en": "Nakhon Phanom",
+      "slug": "nakhon-phanom-48"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom-48"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.798",
+    "lon": "104.108"
+  },
+  "metadata": {},
+  "source": {}
+}

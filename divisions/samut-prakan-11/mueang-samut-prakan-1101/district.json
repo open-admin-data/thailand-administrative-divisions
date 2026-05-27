@@ -1,0 +1,47 @@
+{
+  "id": "1101",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองสมุทรปราการ",
+    "en": "Mueang Samut Prakan",
+    "slug": "mueang-samut-prakan-1101"
+  },
+  "code": {
+    "id": "1101",
+    "iso": null
+  },
+  "parent": {
+    "id": "11",
+    "level": 1,
+    "name": {
+      "local": "สมุทรปราการ",
+      "en": "Samut Prakan",
+      "slug": "samut-prakan-11"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "11",
+      "level": 1,
+      "name": {
+        "local": "สมุทรปราการ",
+        "en": "Samut Prakan",
+        "slug": "samut-prakan-11"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.623",
+    "lon": "100.565"
+  },
+  "metadata": {},
+  "source": {}
+}

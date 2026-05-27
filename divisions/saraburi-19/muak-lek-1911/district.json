@@ -1,0 +1,47 @@
+{
+  "id": "1911",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "มวกเหล็ก",
+    "en": "Muak Lek",
+    "slug": "muak-lek-1911"
+  },
+  "code": {
+    "id": "1911",
+    "iso": null
+  },
+  "parent": {
+    "id": "19",
+    "level": 1,
+    "name": {
+      "local": "สระบุรี",
+      "en": "Saraburi",
+      "slug": "saraburi-19"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "19",
+      "level": 1,
+      "name": {
+        "local": "สระบุรี",
+        "en": "Saraburi",
+        "slug": "saraburi-19"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.932",
+    "lon": "101.309"
+  },
+  "metadata": {},
+  "source": {}
+}

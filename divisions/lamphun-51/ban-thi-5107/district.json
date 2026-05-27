@@ -1,0 +1,47 @@
+{
+  "id": "5107",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ้านธิ",
+    "en": "Ban Thi",
+    "slug": "ban-thi-5107"
+  },
+  "code": {
+    "id": "5107",
+    "iso": null
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "local": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun-51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun-51"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.679",
+    "lon": "99.163"
+  },
+  "metadata": {},
+  "source": {}
+}

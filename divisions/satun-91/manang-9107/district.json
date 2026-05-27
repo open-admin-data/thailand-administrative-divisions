@@ -1,0 +1,47 @@
+{
+  "id": "9107",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "มะนัง",
+    "en": "Manang",
+    "slug": "manang-9107"
+  },
+  "code": {
+    "id": "9107",
+    "iso": null
+  },
+  "parent": {
+    "id": "91",
+    "level": 1,
+    "name": {
+      "local": "สตูล",
+      "en": "Satun",
+      "slug": "satun-91"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "91",
+      "level": 1,
+      "name": {
+        "local": "สตูล",
+        "en": "Satun",
+        "slug": "satun-91"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.95",
+    "lon": "99.931"
+  },
+  "metadata": {},
+  "source": {}
+}

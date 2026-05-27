@@ -1,0 +1,47 @@
+{
+  "id": "6409",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ทุ่งเสลี่ยม",
+    "en": "Thung Saliam",
+    "slug": "thung-saliam-6409"
+  },
+  "code": {
+    "id": "6409",
+    "iso": null
+  },
+  "parent": {
+    "id": "64",
+    "level": 1,
+    "name": {
+      "local": "สุโขทัย",
+      "en": "Sukhothai",
+      "slug": "sukhothai-64"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "64",
+      "level": 1,
+      "name": {
+        "local": "สุโขทัย",
+        "en": "Sukhothai",
+        "slug": "sukhothai-64"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.32",
+    "lon": "99.643"
+  },
+  "metadata": {},
+  "source": {}
+}

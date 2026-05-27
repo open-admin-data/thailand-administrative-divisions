@@ -1,0 +1,226 @@
+[
+  {
+    "id": "801702",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านลำนาว",
+      "en": "Ban Lamnao",
+      "slug": "ban-lamnao-801702"
+    },
+    "code": {
+      "id": "801702",
+      "iso": null
+    },
+    "parent": {
+      "id": "8017",
+      "level": 2,
+      "name": {
+        "local": "บางขัน",
+        "en": "Bang Khan",
+        "slug": "bang-khan-8017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat-80"
+        }
+      },
+      {
+        "id": "8017",
+        "level": 2,
+        "name": {
+          "local": "บางขัน",
+          "en": "Bang Khan",
+          "slug": "bang-khan-8017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80360"
+    ],
+    "geo": {
+      "lat": "7.968",
+      "lon": "99.417"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "801704",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านนิคม",
+      "en": "Ban Nikhom",
+      "slug": "ban-nikhom-801704"
+    },
+    "code": {
+      "id": "801704",
+      "iso": null
+    },
+    "parent": {
+      "id": "8017",
+      "level": 2,
+      "name": {
+        "local": "บางขัน",
+        "en": "Bang Khan",
+        "slug": "bang-khan-8017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat-80"
+        }
+      },
+      {
+        "id": "8017",
+        "level": 2,
+        "name": {
+          "local": "บางขัน",
+          "en": "Bang Khan",
+          "slug": "bang-khan-8017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80360"
+    ],
+    "geo": {
+      "lat": "7.933",
+      "lon": "99.507"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "801701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางขัน",
+      "en": "Bang Khan",
+      "slug": "bang-khan-801701"
+    },
+    "code": {
+      "id": "801701",
+      "iso": null
+    },
+    "parent": {
+      "id": "8017",
+      "level": 2,
+      "name": {
+        "local": "บางขัน",
+        "en": "Bang Khan",
+        "slug": "bang-khan-8017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat-80"
+        }
+      },
+      {
+        "id": "8017",
+        "level": 2,
+        "name": {
+          "local": "บางขัน",
+          "en": "Bang Khan",
+          "slug": "bang-khan-8017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80360"
+    ],
+    "geo": {
+      "lat": "8.069",
+      "lon": "99.422"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "801703",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังหิน",
+      "en": "Wang Hin",
+      "slug": "wang-hin-801703"
+    },
+    "code": {
+      "id": "801703",
+      "iso": null
+    },
+    "parent": {
+      "id": "8017",
+      "level": 2,
+      "name": {
+        "local": "บางขัน",
+        "en": "Bang Khan",
+        "slug": "bang-khan-8017"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "80",
+        "level": 1,
+        "name": {
+          "local": "นครศรีธรรมราช",
+          "en": "Nakhon Si Thammarat",
+          "slug": "nakhon-si-thammarat-80"
+        }
+      },
+      {
+        "id": "8017",
+        "level": 2,
+        "name": {
+          "local": "บางขัน",
+          "en": "Bang Khan",
+          "slug": "bang-khan-8017"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "80360"
+    ],
+    "geo": {
+      "lat": "7.984",
+      "lon": "99.554"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

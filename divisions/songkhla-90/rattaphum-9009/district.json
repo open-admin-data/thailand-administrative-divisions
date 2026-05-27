@@ -1,0 +1,47 @@
+{
+  "id": "9009",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "รัตภูมิ",
+    "en": "Rattaphum",
+    "slug": "rattaphum-9009"
+  },
+  "code": {
+    "id": "9009",
+    "iso": null
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "local": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla-90"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.183",
+    "lon": "100.313"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "3504",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "คำเขื่อนแก้ว",
+    "en": "Kham Khuean Kaeo",
+    "slug": "kham-khuean-kaeo-3504"
+  },
+  "code": {
+    "id": "3504",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "ยโสธร",
+      "en": "Yasothon",
+      "slug": "yasothon-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon-35"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.665",
+    "lon": "104.282"
+  },
+  "metadata": {},
+  "source": {}
+}

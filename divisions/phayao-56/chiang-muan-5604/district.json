@@ -1,0 +1,47 @@
+{
+  "id": "5604",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เชียงม่วน",
+    "en": "Chiang Muan",
+    "slug": "chiang-muan-5604"
+  },
+  "code": {
+    "id": "5604",
+    "iso": null
+  },
+  "parent": {
+    "id": "56",
+    "level": 1,
+    "name": {
+      "local": "พะเยา",
+      "en": "Phayao",
+      "slug": "phayao-56"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "56",
+      "level": 1,
+      "name": {
+        "local": "พะเยา",
+        "en": "Phayao",
+        "slug": "phayao-56"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.888",
+    "lon": "100.334"
+  },
+  "metadata": {},
+  "source": {}
+}

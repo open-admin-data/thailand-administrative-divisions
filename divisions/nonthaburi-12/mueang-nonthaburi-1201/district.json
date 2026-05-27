@@ -1,0 +1,47 @@
+{
+  "id": "1201",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองนนทบุรี",
+    "en": "Mueang Nonthaburi",
+    "slug": "mueang-nonthaburi-1201"
+  },
+  "code": {
+    "id": "1201",
+    "iso": null
+  },
+  "parent": {
+    "id": "12",
+    "level": 1,
+    "name": {
+      "local": "นนทบุรี",
+      "en": "Nonthaburi",
+      "slug": "nonthaburi-12"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "12",
+      "level": 1,
+      "name": {
+        "local": "นนทบุรี",
+        "en": "Nonthaburi",
+        "slug": "nonthaburi-12"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.823",
+    "lon": "100.492"
+  },
+  "metadata": {},
+  "source": {}
+}

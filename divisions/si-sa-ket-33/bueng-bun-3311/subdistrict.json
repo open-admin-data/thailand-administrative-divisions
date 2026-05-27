@@ -1,0 +1,114 @@
+[
+  {
+    "id": "331102",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บึงบูรพ์",
+      "en": "Bueng Bun",
+      "slug": "bueng-bun-331102"
+    },
+    "code": {
+      "id": "331102",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311",
+      "level": 2,
+      "name": {
+        "local": "บึงบูรพ์",
+        "en": "Bueng Bun",
+        "slug": "bueng-bun-3311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "บึงบูรพ์",
+          "en": "Bueng Bun",
+          "slug": "bueng-bun-3311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33220"
+    ],
+    "geo": {
+      "lat": "15.328",
+      "lon": "104.067"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "331101",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เป๊าะ",
+      "en": "Po",
+      "slug": "po-331101"
+    },
+    "code": {
+      "id": "331101",
+      "iso": null
+    },
+    "parent": {
+      "id": "3311",
+      "level": 2,
+      "name": {
+        "local": "บึงบูรพ์",
+        "en": "Bueng Bun",
+        "slug": "bueng-bun-3311"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "33",
+        "level": 1,
+        "name": {
+          "local": "ศรีสะเกษ",
+          "en": "Si Sa Ket",
+          "slug": "si-sa-ket-33"
+        }
+      },
+      {
+        "id": "3311",
+        "level": 2,
+        "name": {
+          "local": "บึงบูรพ์",
+          "en": "Bueng Bun",
+          "slug": "bueng-bun-3311"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "33220"
+    ],
+    "geo": {
+      "lat": "15.297",
+      "lon": "104.06"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

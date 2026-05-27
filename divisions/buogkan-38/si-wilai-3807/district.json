@@ -1,0 +1,47 @@
+{
+  "id": "3807",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ศรีวิไล",
+    "en": "Si Wilai",
+    "slug": "si-wilai-3807"
+  },
+  "code": {
+    "id": "3807",
+    "iso": null
+  },
+  "parent": {
+    "id": "38",
+    "level": 1,
+    "name": {
+      "local": "บึงกาฬ",
+      "en": "Buogkan",
+      "slug": "buogkan-38"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan-38"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.225",
+    "lon": "103.732"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "481203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โคกสี",
+      "en": "Khok Si",
+      "slug": "khok-si-481203"
+    },
+    "code": {
+      "id": "481203",
+      "iso": null
+    },
+    "parent": {
+      "id": "4812",
+      "level": 2,
+      "name": {
+        "local": "วังยาง",
+        "en": "Wang Yang",
+        "slug": "wang-yang-4812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom-48"
+        }
+      },
+      {
+        "id": "4812",
+        "level": 2,
+        "name": {
+          "local": "วังยาง",
+          "en": "Wang Yang",
+          "slug": "wang-yang-4812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48130"
+    ],
+    "geo": {
+      "lat": "17.081",
+      "lon": "104.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "481204",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองโพธิ์",
+      "en": "Nong Pho",
+      "slug": "nong-pho-481204"
+    },
+    "code": {
+      "id": "481204",
+      "iso": null
+    },
+    "parent": {
+      "id": "4812",
+      "level": 2,
+      "name": {
+        "local": "วังยาง",
+        "en": "Wang Yang",
+        "slug": "wang-yang-4812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom-48"
+        }
+      },
+      {
+        "id": "4812",
+        "level": 2,
+        "name": {
+          "local": "วังยาง",
+          "en": "Wang Yang",
+          "slug": "wang-yang-4812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48130"
+    ],
+    "geo": {
+      "lat": "17.091",
+      "lon": "104.491"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "481201",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังยาง",
+      "en": "Wang Yang",
+      "slug": "wang-yang-481201"
+    },
+    "code": {
+      "id": "481201",
+      "iso": null
+    },
+    "parent": {
+      "id": "4812",
+      "level": 2,
+      "name": {
+        "local": "วังยาง",
+        "en": "Wang Yang",
+        "slug": "wang-yang-4812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom-48"
+        }
+      },
+      {
+        "id": "4812",
+        "level": 2,
+        "name": {
+          "local": "วังยาง",
+          "en": "Wang Yang",
+          "slug": "wang-yang-4812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48130"
+    ],
+    "geo": {
+      "lat": "17.063",
+      "lon": "104.442"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "481202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ยอดชาด",
+      "en": "Yot Chat",
+      "slug": "yot-chat-481202"
+    },
+    "code": {
+      "id": "481202",
+      "iso": null
+    },
+    "parent": {
+      "id": "4812",
+      "level": 2,
+      "name": {
+        "local": "วังยาง",
+        "en": "Wang Yang",
+        "slug": "wang-yang-4812"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "48",
+        "level": 1,
+        "name": {
+          "local": "นครพนม",
+          "en": "Nakhon Phanom",
+          "slug": "nakhon-phanom-48"
+        }
+      },
+      {
+        "id": "4812",
+        "level": 2,
+        "name": {
+          "local": "วังยาง",
+          "en": "Wang Yang",
+          "slug": "wang-yang-4812"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "48130"
+    ],
+    "geo": {
+      "lat": "17.065",
+      "lon": "104.482"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,954 @@
+[
+  {
+    "id": "550711",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "อ่ายนาไลย",
+      "en": "Ai Na Lai",
+      "slug": "ai-na-lai-550711"
+    },
+    "code": {
+      "id": "550711",
+      "iso": null
+    },
+    "parent": {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "local": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa-5507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5507",
+        "level": 2,
+        "name": {
+          "local": "เวียงสา",
+          "en": "Wiang Sa",
+          "slug": "wiang-sa-5507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55110"
+    ],
+    "geo": {
+      "lat": "18.514",
+      "lon": "100.541"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550715",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "จอมจันทร์",
+      "en": "Chom Chan",
+      "slug": "chom-chan-550715"
+    },
+    "code": {
+      "id": "550715",
+      "iso": null
+    },
+    "parent": {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "local": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa-5507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5507",
+        "level": 2,
+        "name": {
+          "local": "เวียงสา",
+          "en": "Wiang Sa",
+          "slug": "wiang-sa-5507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55110"
+    ],
+    "geo": {
+      "lat": "18.637",
+      "lon": "100.896"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550702",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ขึ่ง",
+      "en": "Khueng",
+      "slug": "khueng-550702"
+    },
+    "code": {
+      "id": "550702",
+      "iso": null
+    },
+    "parent": {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "local": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa-5507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5507",
+        "level": 2,
+        "name": {
+          "local": "เวียงสา",
+          "en": "Wiang Sa",
+          "slug": "wiang-sa-5507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55110"
+    ],
+    "geo": {
+      "lat": "18.53",
+      "lon": "100.834"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กลางเวียง",
+      "en": "Klang Wiang",
+      "slug": "klang-wiang-550701"
+    },
+    "code": {
+      "id": "550701",
+      "iso": null
+    },
+    "parent": {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "local": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa-5507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5507",
+        "level": 2,
+        "name": {
+          "local": "เวียงสา",
+          "en": "Wiang Sa",
+          "slug": "wiang-sa-5507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55110"
+    ],
+    "geo": {
+      "lat": "18.577",
+      "lon": "100.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550703",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ไหล่น่าน",
+      "en": "Lai Nan",
+      "slug": "lai-nan-550703"
+    },
+    "code": {
+      "id": "550703",
+      "iso": null
+    },
+    "parent": {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "local": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa-5507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5507",
+        "level": 2,
+        "name": {
+          "local": "เวียงสา",
+          "en": "Wiang Sa",
+          "slug": "wiang-sa-5507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55110"
+    ],
+    "geo": {
+      "lat": "18.59",
+      "lon": "100.93"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550713",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่ขะนิง",
+      "en": "Mae Khaning",
+      "slug": "mae-khaning-550713"
+    },
+    "code": {
+      "id": "550713",
+      "iso": null
+    },
+    "parent": {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "local": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa-5507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5507",
+        "level": 2,
+        "name": {
+          "local": "เวียงสา",
+          "en": "Wiang Sa",
+          "slug": "wiang-sa-5507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55110"
+    ],
+    "geo": {
+      "lat": "18.718",
+      "lon": "100.552"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550716",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่สา",
+      "en": "Mae Sa",
+      "slug": "mae-sa-550716"
+    },
+    "code": {
+      "id": "550716",
+      "iso": null
+    },
+    "parent": {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "local": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa-5507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5507",
+        "level": 2,
+        "name": {
+          "local": "เวียงสา",
+          "en": "Wiang Sa",
+          "slug": "wiang-sa-5507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55110"
+    ],
+    "geo": {
+      "lat": "18.564",
+      "lon": "100.66"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550714",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่สาคร",
+      "en": "Mae Sakhon",
+      "slug": "mae-sakhon-550714"
+    },
+    "code": {
+      "id": "550714",
+      "iso": null
+    },
+    "parent": {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "local": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa-5507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5507",
+        "level": 2,
+        "name": {
+          "local": "เวียงสา",
+          "en": "Wiang Sa",
+          "slug": "wiang-sa-5507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55110"
+    ],
+    "geo": {
+      "lat": "18.474",
+      "lon": "100.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550705",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาเหลือง",
+      "en": "Na Lueang",
+      "slug": "na-lueang-550705"
+    },
+    "code": {
+      "id": "550705",
+      "iso": null
+    },
+    "parent": {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "local": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa-5507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5507",
+        "level": 2,
+        "name": {
+          "local": "เวียงสา",
+          "en": "Wiang Sa",
+          "slug": "wiang-sa-5507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55110"
+    ],
+    "geo": {
+      "lat": "18.679",
+      "lon": "100.837"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550707",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "น้ำมวบ",
+      "en": "Nam Muap",
+      "slug": "nam-muap-550707"
+    },
+    "code": {
+      "id": "550707",
+      "iso": null
+    },
+    "parent": {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "local": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa-5507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5507",
+        "level": 2,
+        "name": {
+          "local": "เวียงสา",
+          "en": "Wiang Sa",
+          "slug": "wiang-sa-5507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55110"
+    ],
+    "geo": {
+      "lat": "18.444",
+      "lon": "100.94"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550708",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "น้ำปั้ว",
+      "en": "Nam Pua",
+      "slug": "nam-pua-550708"
+    },
+    "code": {
+      "id": "550708",
+      "iso": null
+    },
+    "parent": {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "local": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa-5507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5507",
+        "level": 2,
+        "name": {
+          "local": "เวียงสา",
+          "en": "Wiang Sa",
+          "slug": "wiang-sa-5507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55110"
+    ],
+    "geo": {
+      "lat": "18.639",
+      "lon": "100.725"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550710",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปงสนุก",
+      "en": "Pong Sanuk",
+      "slug": "pong-sanuk-550710"
+    },
+    "code": {
+      "id": "550710",
+      "iso": null
+    },
+    "parent": {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "local": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa-5507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5507",
+        "level": 2,
+        "name": {
+          "local": "เวียงสา",
+          "en": "Wiang Sa",
+          "slug": "wiang-sa-5507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55110"
+    ],
+    "geo": {
+      "lat": "18.6",
+      "lon": "100.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550706",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ส้าน",
+      "en": "San",
+      "slug": "san-550706"
+    },
+    "code": {
+      "id": "550706",
+      "iso": null
+    },
+    "parent": {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "local": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa-5507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5507",
+        "level": 2,
+        "name": {
+          "local": "เวียงสา",
+          "en": "Wiang Sa",
+          "slug": "wiang-sa-5507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55110"
+    ],
+    "geo": {
+      "lat": "18.464",
+      "lon": "100.729"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550712",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ส้านนาหนองใหม่",
+      "en": "San Na Nong Mai",
+      "slug": "san-na-nong-mai-550712"
+    },
+    "code": {
+      "id": "550712",
+      "iso": null
+    },
+    "parent": {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "local": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa-5507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5507",
+        "level": 2,
+        "name": {
+          "local": "เวียงสา",
+          "en": "Wiang Sa",
+          "slug": "wiang-sa-5507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55110"
+    ],
+    "geo": {
+      "lat": "18.531",
+      "lon": "100.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550704",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตาลชุม",
+      "en": "Tan Chum",
+      "slug": "tan-chum-550704"
+    },
+    "code": {
+      "id": "550704",
+      "iso": null
+    },
+    "parent": {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "local": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa-5507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5507",
+        "level": 2,
+        "name": {
+          "local": "เวียงสา",
+          "en": "Wiang Sa",
+          "slug": "wiang-sa-5507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55110"
+    ],
+    "geo": {
+      "lat": "18.637",
+      "lon": "100.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550717",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งศรีทอง",
+      "en": "Thung Si Thong",
+      "slug": "thung-si-thong-550717"
+    },
+    "code": {
+      "id": "550717",
+      "iso": null
+    },
+    "parent": {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "local": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa-5507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5507",
+        "level": 2,
+        "name": {
+          "local": "เวียงสา",
+          "en": "Wiang Sa",
+          "slug": "wiang-sa-5507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55110"
+    ],
+    "geo": {
+      "lat": "18.661",
+      "lon": "100.694"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "550709",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ยาบหัวนา",
+      "en": "Yap Hua Na",
+      "slug": "yap-hua-na-550709"
+    },
+    "code": {
+      "id": "550709",
+      "iso": null
+    },
+    "parent": {
+      "id": "5507",
+      "level": 2,
+      "name": {
+        "local": "เวียงสา",
+        "en": "Wiang Sa",
+        "slug": "wiang-sa-5507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5507",
+        "level": 2,
+        "name": {
+          "local": "เวียงสา",
+          "en": "Wiang Sa",
+          "slug": "wiang-sa-5507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55110"
+    ],
+    "geo": {
+      "lat": "18.611",
+      "lon": "100.471"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

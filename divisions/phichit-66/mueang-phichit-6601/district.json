@@ -1,0 +1,47 @@
+{
+  "id": "6601",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองพิจิตร",
+    "en": "Mueang Phichit",
+    "slug": "mueang-phichit-6601"
+  },
+  "code": {
+    "id": "6601",
+    "iso": null
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "local": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit-66"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit-66"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.443",
+    "lon": "100.343"
+  },
+  "metadata": {},
+  "source": {}
+}

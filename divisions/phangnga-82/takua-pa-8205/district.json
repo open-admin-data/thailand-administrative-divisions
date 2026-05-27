@@ -1,0 +1,47 @@
+{
+  "id": "8205",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ตะกั่วป่า",
+    "en": "Takua Pa",
+    "slug": "takua-pa-8205"
+  },
+  "code": {
+    "id": "8205",
+    "iso": null
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "local": "พังงา",
+      "en": "Phangnga",
+      "slug": "phangnga-82"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga-82"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.829",
+    "lon": "98.362"
+  },
+  "metadata": {},
+  "source": {}
+}

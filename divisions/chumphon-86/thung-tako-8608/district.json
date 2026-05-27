@@ -1,0 +1,47 @@
+{
+  "id": "8608",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ทุ่งตะโก",
+    "en": "Thung Tako",
+    "slug": "thung-tako-8608"
+  },
+  "code": {
+    "id": "8608",
+    "iso": null
+  },
+  "parent": {
+    "id": "86",
+    "level": 1,
+    "name": {
+      "local": "ชุมพร",
+      "en": "Chumphon",
+      "slug": "chumphon-86"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "local": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon-86"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.165",
+    "lon": "99.176"
+  },
+  "metadata": {},
+  "source": {}
+}

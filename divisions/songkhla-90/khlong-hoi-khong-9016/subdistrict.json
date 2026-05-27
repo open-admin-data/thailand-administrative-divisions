@@ -1,0 +1,226 @@
+[
+  {
+    "id": "901601",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองหอยโข่ง",
+      "en": "Khlong Hoi Khong",
+      "slug": "khlong-hoi-khong-901601"
+    },
+    "code": {
+      "id": "901601",
+      "iso": null
+    },
+    "parent": {
+      "id": "9016",
+      "level": 2,
+      "name": {
+        "local": "คลองหอยโข่ง",
+        "en": "Khlong Hoi Khong",
+        "slug": "khlong-hoi-khong-9016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9016",
+        "level": 2,
+        "name": {
+          "local": "คลองหอยโข่ง",
+          "en": "Khlong Hoi Khong",
+          "slug": "khlong-hoi-khong-9016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90230"
+    ],
+    "geo": {
+      "lat": "6.83",
+      "lon": "100.313"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901604",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองหลา",
+      "en": "Khlong La",
+      "slug": "khlong-la-901604"
+    },
+    "code": {
+      "id": "901604",
+      "iso": null
+    },
+    "parent": {
+      "id": "9016",
+      "level": 2,
+      "name": {
+        "local": "คลองหอยโข่ง",
+        "en": "Khlong Hoi Khong",
+        "slug": "khlong-hoi-khong-9016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9016",
+        "level": 2,
+        "name": {
+          "local": "คลองหอยโข่ง",
+          "en": "Khlong Hoi Khong",
+          "slug": "khlong-hoi-khong-9016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90115"
+    ],
+    "geo": {
+      "lat": "6.882",
+      "lon": "100.31"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901603",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โคกม่วง",
+      "en": "Khok Muang",
+      "slug": "khok-muang-901603"
+    },
+    "code": {
+      "id": "901603",
+      "iso": null
+    },
+    "parent": {
+      "id": "9016",
+      "level": 2,
+      "name": {
+        "local": "คลองหอยโข่ง",
+        "en": "Khlong Hoi Khong",
+        "slug": "khlong-hoi-khong-9016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9016",
+        "level": 2,
+        "name": {
+          "local": "คลองหอยโข่ง",
+          "en": "Khlong Hoi Khong",
+          "slug": "khlong-hoi-khong-9016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90230"
+    ],
+    "geo": {
+      "lat": "6.875",
+      "lon": "100.406"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901602",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งลาน",
+      "en": "Thung Lan",
+      "slug": "thung-lan-901602"
+    },
+    "code": {
+      "id": "901602",
+      "iso": null
+    },
+    "parent": {
+      "id": "9016",
+      "level": 2,
+      "name": {
+        "local": "คลองหอยโข่ง",
+        "en": "Khlong Hoi Khong",
+        "slug": "khlong-hoi-khong-9016"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9016",
+        "level": 2,
+        "name": {
+          "local": "คลองหอยโข่ง",
+          "en": "Khlong Hoi Khong",
+          "slug": "khlong-hoi-khong-9016"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90230"
+    ],
+    "geo": {
+      "lat": "6.886",
+      "lon": "100.442"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

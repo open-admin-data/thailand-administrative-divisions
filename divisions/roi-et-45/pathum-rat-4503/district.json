@@ -1,0 +1,47 @@
+{
+  "id": "4503",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ปทุมรัตต์",
+    "en": "Pathum Rat",
+    "slug": "pathum-rat-4503"
+  },
+  "code": {
+    "id": "4503",
+    "iso": null
+  },
+  "parent": {
+    "id": "45",
+    "level": 1,
+    "name": {
+      "local": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et-45"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "local": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et-45"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.65",
+    "lon": "103.359"
+  },
+  "metadata": {},
+  "source": {}
+}

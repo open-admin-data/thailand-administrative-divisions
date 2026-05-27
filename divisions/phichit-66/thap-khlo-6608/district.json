@@ -1,0 +1,47 @@
+{
+  "id": "6608",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ทับคล้อ",
+    "en": "Thap Khlo",
+    "slug": "thap-khlo-6608"
+  },
+  "code": {
+    "id": "6608",
+    "iso": null
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "local": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit-66"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit-66"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.189",
+    "lon": "100.568"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "5807",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ปางมะผ้า",
+    "en": "Pang Mapha",
+    "slug": "pang-mapha-5807"
+  },
+  "code": {
+    "id": "5807",
+    "iso": null
+  },
+  "parent": {
+    "id": "58",
+    "level": 1,
+    "name": {
+      "local": "แม่ฮ่องสอน",
+      "en": "Mae Hong Son",
+      "slug": "mae-hong-son-58"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "local": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son-58"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.615",
+    "lon": "98.204"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "300501",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านเหลื่อม",
+      "en": "Ban Lueam",
+      "slug": "ban-lueam-300501"
+    },
+    "code": {
+      "id": "300501",
+      "iso": null
+    },
+    "parent": {
+      "id": "3005",
+      "level": 2,
+      "name": {
+        "local": "บ้านเหลื่อม",
+        "en": "Ban Lueam",
+        "slug": "ban-lueam-3005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "local": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima-30"
+        }
+      },
+      {
+        "id": "3005",
+        "level": 2,
+        "name": {
+          "local": "บ้านเหลื่อม",
+          "en": "Ban Lueam",
+          "slug": "ban-lueam-3005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30350"
+    ],
+    "geo": {
+      "lat": "15.625",
+      "lon": "102.136"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "300504",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ช่อระกา",
+      "en": "Cho Raka",
+      "slug": "cho-raka-300504"
+    },
+    "code": {
+      "id": "300504",
+      "iso": null
+    },
+    "parent": {
+      "id": "3005",
+      "level": 2,
+      "name": {
+        "local": "บ้านเหลื่อม",
+        "en": "Ban Lueam",
+        "slug": "ban-lueam-3005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "local": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima-30"
+        }
+      },
+      {
+        "id": "3005",
+        "level": 2,
+        "name": {
+          "local": "บ้านเหลื่อม",
+          "en": "Ban Lueam",
+          "slug": "ban-lueam-3005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30350"
+    ],
+    "geo": {
+      "lat": "15.54",
+      "lon": "102.057"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "300503",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โคกกระเบื้อง",
+      "en": "Khok Krabueang",
+      "slug": "khok-krabueang-300503"
+    },
+    "code": {
+      "id": "300503",
+      "iso": null
+    },
+    "parent": {
+      "id": "3005",
+      "level": 2,
+      "name": {
+        "local": "บ้านเหลื่อม",
+        "en": "Ban Lueam",
+        "slug": "ban-lueam-3005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "local": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima-30"
+        }
+      },
+      {
+        "id": "3005",
+        "level": 2,
+        "name": {
+          "local": "บ้านเหลื่อม",
+          "en": "Ban Lueam",
+          "slug": "ban-lueam-3005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30350"
+    ],
+    "geo": {
+      "lat": "15.571",
+      "lon": "102.187"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "300502",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังโพธิ์",
+      "en": "Wang Pho",
+      "slug": "wang-pho-300502"
+    },
+    "code": {
+      "id": "300502",
+      "iso": null
+    },
+    "parent": {
+      "id": "3005",
+      "level": 2,
+      "name": {
+        "local": "บ้านเหลื่อม",
+        "en": "Ban Lueam",
+        "slug": "ban-lueam-3005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "30",
+        "level": 1,
+        "name": {
+          "local": "นครราชสีมา",
+          "en": "Nakhon Ratchasima",
+          "slug": "nakhon-ratchasima-30"
+        }
+      },
+      {
+        "id": "3005",
+        "level": 2,
+        "name": {
+          "local": "บ้านเหลื่อม",
+          "en": "Ban Lueam",
+          "slug": "ban-lueam-3005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "30350"
+    ],
+    "geo": {
+      "lat": "15.571",
+      "lon": "102.103"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

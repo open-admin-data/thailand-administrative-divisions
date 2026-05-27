@@ -1,0 +1,226 @@
+[
+  {
+    "id": "660803",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เขาเจ็ดลูก",
+      "en": "Khao Chet Luk",
+      "slug": "khao-chet-luk-660803"
+    },
+    "code": {
+      "id": "660803",
+      "iso": null
+    },
+    "parent": {
+      "id": "6608",
+      "level": 2,
+      "name": {
+        "local": "ทับคล้อ",
+        "en": "Thap Khlo",
+        "slug": "thap-khlo-6608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "พิจิตร",
+          "en": "Phichit",
+          "slug": "phichit-66"
+        }
+      },
+      {
+        "id": "6608",
+        "level": 2,
+        "name": {
+          "local": "ทับคล้อ",
+          "en": "Thap Khlo",
+          "slug": "thap-khlo-6608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66230"
+    ],
+    "geo": {
+      "lat": "16.274",
+      "lon": "100.569"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "660802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เขาทราย",
+      "en": "Khao Sai",
+      "slug": "khao-sai-660802"
+    },
+    "code": {
+      "id": "660802",
+      "iso": null
+    },
+    "parent": {
+      "id": "6608",
+      "level": 2,
+      "name": {
+        "local": "ทับคล้อ",
+        "en": "Thap Khlo",
+        "slug": "thap-khlo-6608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "พิจิตร",
+          "en": "Phichit",
+          "slug": "phichit-66"
+        }
+      },
+      {
+        "id": "6608",
+        "level": 2,
+        "name": {
+          "local": "ทับคล้อ",
+          "en": "Thap Khlo",
+          "slug": "thap-khlo-6608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66230"
+    ],
+    "geo": {
+      "lat": "16.193",
+      "lon": "100.637"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "660804",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท้ายทุ่ง",
+      "en": "Tai Toong",
+      "slug": "tai-toong-660804"
+    },
+    "code": {
+      "id": "660804",
+      "iso": null
+    },
+    "parent": {
+      "id": "6608",
+      "level": 2,
+      "name": {
+        "local": "ทับคล้อ",
+        "en": "Thap Khlo",
+        "slug": "thap-khlo-6608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "พิจิตร",
+          "en": "Phichit",
+          "slug": "phichit-66"
+        }
+      },
+      {
+        "id": "6608",
+        "level": 2,
+        "name": {
+          "local": "ทับคล้อ",
+          "en": "Thap Khlo",
+          "slug": "thap-khlo-6608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66150"
+    ],
+    "geo": {
+      "lat": "16.086",
+      "lon": "100.618"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "660801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทับคล้อ",
+      "en": "Thap Khlo",
+      "slug": "thap-khlo-660801"
+    },
+    "code": {
+      "id": "660801",
+      "iso": null
+    },
+    "parent": {
+      "id": "6608",
+      "level": 2,
+      "name": {
+        "local": "ทับคล้อ",
+        "en": "Thap Khlo",
+        "slug": "thap-khlo-6608"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "66",
+        "level": 1,
+        "name": {
+          "local": "พิจิตร",
+          "en": "Phichit",
+          "slug": "phichit-66"
+        }
+      },
+      {
+        "id": "6608",
+        "level": 2,
+        "name": {
+          "local": "ทับคล้อ",
+          "en": "Thap Khlo",
+          "slug": "thap-khlo-6608"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "66150"
+    ],
+    "geo": {
+      "lat": "16.189",
+      "lon": "100.568"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

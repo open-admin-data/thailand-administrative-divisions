@@ -1,0 +1,170 @@
+[
+  {
+    "id": "560902",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดงเจน",
+      "en": "Dong Chen",
+      "slug": "dong-chen-560902"
+    },
+    "code": {
+      "id": "560902",
+      "iso": null
+    },
+    "parent": {
+      "id": "5609",
+      "level": 2,
+      "name": {
+        "local": "ภูกามยาว",
+        "en": "Phu Kamyao",
+        "slug": "phu-kamyao-5609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao-56"
+        }
+      },
+      {
+        "id": "5609",
+        "level": 2,
+        "name": {
+          "local": "ภูกามยาว",
+          "en": "Phu Kamyao",
+          "slug": "phu-kamyao-5609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56000"
+    ],
+    "geo": {
+      "lat": "19.24",
+      "lon": "99.952"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "560901",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ห้วยแก้ว",
+      "en": "Huai Kaeo",
+      "slug": "huai-kaeo-560901"
+    },
+    "code": {
+      "id": "560901",
+      "iso": null
+    },
+    "parent": {
+      "id": "5609",
+      "level": 2,
+      "name": {
+        "local": "ภูกามยาว",
+        "en": "Phu Kamyao",
+        "slug": "phu-kamyao-5609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao-56"
+        }
+      },
+      {
+        "id": "5609",
+        "level": 2,
+        "name": {
+          "local": "ภูกามยาว",
+          "en": "Phu Kamyao",
+          "slug": "phu-kamyao-5609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56000"
+    ],
+    "geo": {
+      "lat": "19.311",
+      "lon": "99.999"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "560903",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่อิง",
+      "en": "Mae Ing",
+      "slug": "mae-ing-560903"
+    },
+    "code": {
+      "id": "560903",
+      "iso": null
+    },
+    "parent": {
+      "id": "5609",
+      "level": 2,
+      "name": {
+        "local": "ภูกามยาว",
+        "en": "Phu Kamyao",
+        "slug": "phu-kamyao-5609"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "56",
+        "level": 1,
+        "name": {
+          "local": "พะเยา",
+          "en": "Phayao",
+          "slug": "phayao-56"
+        }
+      },
+      {
+        "id": "5609",
+        "level": 2,
+        "name": {
+          "local": "ภูกามยาว",
+          "en": "Phu Kamyao",
+          "slug": "phu-kamyao-5609"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "56000"
+    ],
+    "geo": {
+      "lat": "19.241",
+      "lon": "99.989"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

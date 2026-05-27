@@ -1,0 +1,47 @@
+{
+  "id": "3901",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองหนองบัวลำภู",
+    "en": "Mueang Nong Bua Lam Phu",
+    "slug": "mueang-nong-bua-lam-phu-3901"
+  },
+  "code": {
+    "id": "3901",
+    "iso": null
+  },
+  "parent": {
+    "id": "39",
+    "level": 1,
+    "name": {
+      "local": "หนองบัวลำภู",
+      "en": "Nong Bua Lam Phu",
+      "slug": "nong-bua-lam-phu-39"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "local": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu-39"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 15
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.243",
+    "lon": "102.44"
+  },
+  "metadata": {},
+  "source": {}
+}

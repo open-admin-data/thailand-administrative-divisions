@@ -1,0 +1,47 @@
+{
+  "id": "6503",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ชาติตระการ",
+    "en": "Chat Trakan",
+    "slug": "chat-trakan-6503"
+  },
+  "code": {
+    "id": "6503",
+    "iso": null
+  },
+  "parent": {
+    "id": "65",
+    "level": 1,
+    "name": {
+      "local": "พิษณุโลก",
+      "en": "Phitsanulok",
+      "slug": "phitsanulok-65"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "local": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok-65"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.285",
+    "lon": "100.561"
+  },
+  "metadata": {},
+  "source": {}
+}

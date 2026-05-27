@@ -1,0 +1,47 @@
+{
+  "id": "9502",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เบตง",
+    "en": "Betong",
+    "slug": "betong-9502"
+  },
+  "code": {
+    "id": "9502",
+    "iso": null
+  },
+  "parent": {
+    "id": "95",
+    "level": 1,
+    "name": {
+      "local": "ยะลา",
+      "en": "Yala",
+      "slug": "yala-95"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "local": "ยะลา",
+        "en": "Yala",
+        "slug": "yala-95"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "5.803",
+    "lon": "101.009"
+  },
+  "metadata": {},
+  "source": {}
+}

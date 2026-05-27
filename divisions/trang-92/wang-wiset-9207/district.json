@@ -1,0 +1,47 @@
+{
+  "id": "9207",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "วังวิเศษ",
+    "en": "Wang Wiset",
+    "slug": "wang-wiset-9207"
+  },
+  "code": {
+    "id": "9207",
+    "iso": null
+  },
+  "parent": {
+    "id": "92",
+    "level": 1,
+    "name": {
+      "local": "ตรัง",
+      "en": "Trang",
+      "slug": "trang-92"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "92",
+      "level": 1,
+      "name": {
+        "local": "ตรัง",
+        "en": "Trang",
+        "slug": "trang-92"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.69",
+    "lon": "99.523"
+  },
+  "metadata": {},
+  "source": {}
+}

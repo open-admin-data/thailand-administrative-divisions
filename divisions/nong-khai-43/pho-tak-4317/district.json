@@ -1,0 +1,47 @@
+{
+  "id": "4317",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "โพธิ์ตาก",
+    "en": "Pho Tak",
+    "slug": "pho-tak-4317"
+  },
+  "code": {
+    "id": "4317",
+    "iso": null
+  },
+  "parent": {
+    "id": "43",
+    "level": 1,
+    "name": {
+      "local": "หนองคาย",
+      "en": "Nong Khai",
+      "slug": "nong-khai-43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "local": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai-43"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.846",
+    "lon": "102.422"
+  },
+  "metadata": {},
+  "source": {}
+}

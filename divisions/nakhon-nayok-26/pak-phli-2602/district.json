@@ -1,0 +1,47 @@
+{
+  "id": "2602",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ปากพลี",
+    "en": "Pak Phli",
+    "slug": "pak-phli-2602"
+  },
+  "code": {
+    "id": "2602",
+    "iso": null
+  },
+  "parent": {
+    "id": "26",
+    "level": 1,
+    "name": {
+      "local": "นครนายก",
+      "en": "Nakhon Nayok",
+      "slug": "nakhon-nayok-26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "local": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok-26"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.18",
+    "lon": "101.306"
+  },
+  "metadata": {},
+  "source": {}
+}

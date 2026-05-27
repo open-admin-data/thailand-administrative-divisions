@@ -1,0 +1,47 @@
+{
+  "id": "9412",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "แม่ลาน",
+    "en": "Mae Lan",
+    "slug": "mae-lan-9412"
+  },
+  "code": {
+    "id": "9412",
+    "iso": null
+  },
+  "parent": {
+    "id": "94",
+    "level": 1,
+    "name": {
+      "local": "ปัตตานี",
+      "en": "Pattani",
+      "slug": "pattani-94"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "94",
+      "level": 1,
+      "name": {
+        "local": "ปัตตานี",
+        "en": "Pattani",
+        "slug": "pattani-94"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.677",
+    "lon": "101.266"
+  },
+  "metadata": {},
+  "source": {}
+}

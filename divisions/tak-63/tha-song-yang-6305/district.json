@@ -1,0 +1,47 @@
+{
+  "id": "6305",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ท่าสองยาง",
+    "en": "Tha Song Yang",
+    "slug": "tha-song-yang-6305"
+  },
+  "code": {
+    "id": "6305",
+    "iso": null
+  },
+  "parent": {
+    "id": "63",
+    "level": 1,
+    "name": {
+      "local": "ตาก",
+      "en": "Tak",
+      "slug": "tak-63"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "ตาก",
+        "en": "Tak",
+        "slug": "tak-63"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.268",
+    "lon": "98.275"
+  },
+  "metadata": {},
+  "source": {}
+}

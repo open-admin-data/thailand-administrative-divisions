@@ -1,0 +1,170 @@
+[
+  {
+    "id": "630901",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เชียงทอง",
+      "en": "Chiang Thong",
+      "slug": "chiang-thong-630901"
+    },
+    "code": {
+      "id": "630901",
+      "iso": null
+    },
+    "parent": {
+      "id": "6309",
+      "level": 2,
+      "name": {
+        "local": "วังเจ้า",
+        "en": "Wang Chao",
+        "slug": "wang-chao-6309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "ตาก",
+          "en": "Tak",
+          "slug": "tak-63"
+        }
+      },
+      {
+        "id": "6309",
+        "level": 2,
+        "name": {
+          "local": "วังเจ้า",
+          "en": "Wang Chao",
+          "slug": "wang-chao-6309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63000"
+    ],
+    "geo": {
+      "lat": "16.571",
+      "lon": "99.122"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "630902",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาโบสถ์",
+      "en": "Na Bot",
+      "slug": "na-bot-630902"
+    },
+    "code": {
+      "id": "630902",
+      "iso": null
+    },
+    "parent": {
+      "id": "6309",
+      "level": 2,
+      "name": {
+        "local": "วังเจ้า",
+        "en": "Wang Chao",
+        "slug": "wang-chao-6309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "ตาก",
+          "en": "Tak",
+          "slug": "tak-63"
+        }
+      },
+      {
+        "id": "6309",
+        "level": 2,
+        "name": {
+          "local": "วังเจ้า",
+          "en": "Wang Chao",
+          "slug": "wang-chao-6309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63000"
+    ],
+    "geo": {
+      "lat": "16.705",
+      "lon": "99.156"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "630903",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ประดาง",
+      "en": "Pradang",
+      "slug": "pradang-630903"
+    },
+    "code": {
+      "id": "630903",
+      "iso": null
+    },
+    "parent": {
+      "id": "6309",
+      "level": 2,
+      "name": {
+        "local": "วังเจ้า",
+        "en": "Wang Chao",
+        "slug": "wang-chao-6309"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "63",
+        "level": 1,
+        "name": {
+          "local": "ตาก",
+          "en": "Tak",
+          "slug": "tak-63"
+        }
+      },
+      {
+        "id": "6309",
+        "level": 2,
+        "name": {
+          "local": "วังเจ้า",
+          "en": "Wang Chao",
+          "slug": "wang-chao-6309"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "63000"
+    ],
+    "geo": {
+      "lat": "16.748",
+      "lon": "99.184"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

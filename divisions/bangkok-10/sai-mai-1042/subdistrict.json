@@ -1,0 +1,170 @@
+[
+  {
+    "id": "104203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองถนน",
+      "en": "Khlong Thanon",
+      "slug": "khlong-thanon-104203"
+    },
+    "code": {
+      "id": "104203",
+      "iso": null
+    },
+    "parent": {
+      "id": "1042",
+      "level": 2,
+      "name": {
+        "local": "สายไหม",
+        "en": "Sai Mai",
+        "slug": "sai-mai-1042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1042",
+        "level": 2,
+        "name": {
+          "local": "สายไหม",
+          "en": "Sai Mai",
+          "slug": "sai-mai-1042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10220"
+    ],
+    "geo": {
+      "lat": "13.898",
+      "lon": "100.63"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "104202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ออเงิน",
+      "en": "O Ngoen",
+      "slug": "o-ngoen-104202"
+    },
+    "code": {
+      "id": "104202",
+      "iso": null
+    },
+    "parent": {
+      "id": "1042",
+      "level": 2,
+      "name": {
+        "local": "สายไหม",
+        "en": "Sai Mai",
+        "slug": "sai-mai-1042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1042",
+        "level": 2,
+        "name": {
+          "local": "สายไหม",
+          "en": "Sai Mai",
+          "slug": "sai-mai-1042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10220"
+    ],
+    "geo": {
+      "lat": "13.896",
+      "lon": "100.672"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "104201",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สายไหม",
+      "en": "Sai Mai",
+      "slug": "sai-mai-104201"
+    },
+    "code": {
+      "id": "104201",
+      "iso": null
+    },
+    "parent": {
+      "id": "1042",
+      "level": 2,
+      "name": {
+        "local": "สายไหม",
+        "en": "Sai Mai",
+        "slug": "sai-mai-1042"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1042",
+        "level": 2,
+        "name": {
+          "local": "สายไหม",
+          "en": "Sai Mai",
+          "slug": "sai-mai-1042"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10220"
+    ],
+    "geo": {
+      "lat": "13.921",
+      "lon": "100.654"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

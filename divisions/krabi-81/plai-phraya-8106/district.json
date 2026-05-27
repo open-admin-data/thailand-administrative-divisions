@@ -1,0 +1,47 @@
+{
+  "id": "8106",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ปลายพระยา",
+    "en": "Plai Phraya",
+    "slug": "plai-phraya-8106"
+  },
+  "code": {
+    "id": "8106",
+    "iso": null
+  },
+  "parent": {
+    "id": "81",
+    "level": 1,
+    "name": {
+      "local": "กระบี่",
+      "en": "Krabi",
+      "slug": "krabi-81"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi-81"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.445",
+    "lon": "98.841"
+  },
+  "metadata": {},
+  "source": {}
+}

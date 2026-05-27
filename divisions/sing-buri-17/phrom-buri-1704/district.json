@@ -1,0 +1,47 @@
+{
+  "id": "1704",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พรหมบุรี",
+    "en": "Phrom Buri",
+    "slug": "phrom-buri-1704"
+  },
+  "code": {
+    "id": "1704",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "สิงห์บุรี",
+      "en": "Sing Buri",
+      "slug": "sing-buri-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri-17"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.811",
+    "lon": "100.458"
+  },
+  "metadata": {},
+  "source": {}
+}

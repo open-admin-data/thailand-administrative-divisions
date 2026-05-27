@@ -1,0 +1,170 @@
+[
+  {
+    "id": "571402",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ป่าตาล",
+      "en": "Pa Tan",
+      "slug": "pa-tan-571402"
+    },
+    "code": {
+      "id": "571402",
+      "iso": null
+    },
+    "parent": {
+      "id": "5714",
+      "level": 2,
+      "name": {
+        "local": "ขุนตาล",
+        "en": "Khun Tan",
+        "slug": "khun-tan-5714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5714",
+        "level": 2,
+        "name": {
+          "local": "ขุนตาล",
+          "en": "Khun Tan",
+          "slug": "khun-tan-5714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57340"
+    ],
+    "geo": {
+      "lat": "19.847",
+      "lon": "100.272"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "571401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ต้า",
+      "en": "Ta",
+      "slug": "ta-571401"
+    },
+    "code": {
+      "id": "571401",
+      "iso": null
+    },
+    "parent": {
+      "id": "5714",
+      "level": 2,
+      "name": {
+        "local": "ขุนตาล",
+        "en": "Khun Tan",
+        "slug": "khun-tan-5714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5714",
+        "level": 2,
+        "name": {
+          "local": "ขุนตาล",
+          "en": "Khun Tan",
+          "slug": "khun-tan-5714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57340"
+    ],
+    "geo": {
+      "lat": "19.804",
+      "lon": "100.233"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "571403",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ยางฮอม",
+      "en": "Yang Hom",
+      "slug": "yang-hom-571403"
+    },
+    "code": {
+      "id": "571403",
+      "iso": null
+    },
+    "parent": {
+      "id": "5714",
+      "level": 2,
+      "name": {
+        "local": "ขุนตาล",
+        "en": "Khun Tan",
+        "slug": "khun-tan-5714"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5714",
+        "level": 2,
+        "name": {
+          "local": "ขุนตาล",
+          "en": "Khun Tan",
+          "slug": "khun-tan-5714"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57340"
+    ],
+    "geo": {
+      "lat": "19.924",
+      "lon": "100.306"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

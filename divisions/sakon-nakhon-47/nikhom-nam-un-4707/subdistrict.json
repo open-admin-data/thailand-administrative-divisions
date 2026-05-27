@@ -1,0 +1,226 @@
+[
+  {
+    "id": "470704",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สุวรรณคาม",
+      "en": "*Suwannakarm",
+      "slug": "suwannakarm-470704"
+    },
+    "code": {
+      "id": "470704",
+      "iso": null
+    },
+    "parent": {
+      "id": "4707",
+      "level": 2,
+      "name": {
+        "local": "นิคมน้ำอูน",
+        "en": "Nikhom Nam Un",
+        "slug": "nikhom-nam-un-4707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "47",
+        "level": 1,
+        "name": {
+          "local": "สกลนคร",
+          "en": "Sakon Nakhon",
+          "slug": "sakon-nakhon-47"
+        }
+      },
+      {
+        "id": "4707",
+        "level": 2,
+        "name": {
+          "local": "นิคมน้ำอูน",
+          "en": "Nikhom Nam Un",
+          "slug": "nikhom-nam-un-4707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47270"
+    ],
+    "geo": {
+      "lat": "17.155",
+      "lon": "103.712"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "470701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นิคมน้ำอูน",
+      "en": "Nikhom Nam Un",
+      "slug": "nikhom-nam-un-470701"
+    },
+    "code": {
+      "id": "470701",
+      "iso": null
+    },
+    "parent": {
+      "id": "4707",
+      "level": 2,
+      "name": {
+        "local": "นิคมน้ำอูน",
+        "en": "Nikhom Nam Un",
+        "slug": "nikhom-nam-un-4707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "47",
+        "level": 1,
+        "name": {
+          "local": "สกลนคร",
+          "en": "Sakon Nakhon",
+          "slug": "sakon-nakhon-47"
+        }
+      },
+      {
+        "id": "4707",
+        "level": 2,
+        "name": {
+          "local": "นิคมน้ำอูน",
+          "en": "Nikhom Nam Un",
+          "slug": "nikhom-nam-un-4707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47270"
+    ],
+    "geo": {
+      "lat": "17.142",
+      "lon": "103.645"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "470703",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองบัว",
+      "en": "Nong Bua",
+      "slug": "nong-bua-470703"
+    },
+    "code": {
+      "id": "470703",
+      "iso": null
+    },
+    "parent": {
+      "id": "4707",
+      "level": 2,
+      "name": {
+        "local": "นิคมน้ำอูน",
+        "en": "Nikhom Nam Un",
+        "slug": "nikhom-nam-un-4707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "47",
+        "level": 1,
+        "name": {
+          "local": "สกลนคร",
+          "en": "Sakon Nakhon",
+          "slug": "sakon-nakhon-47"
+        }
+      },
+      {
+        "id": "4707",
+        "level": 2,
+        "name": {
+          "local": "นิคมน้ำอูน",
+          "en": "Nikhom Nam Un",
+          "slug": "nikhom-nam-un-4707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47270"
+    ],
+    "geo": {
+      "lat": "17.148",
+      "lon": "103.827"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "470702",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองปลิง",
+      "en": "Nong Pling",
+      "slug": "nong-pling-470702"
+    },
+    "code": {
+      "id": "470702",
+      "iso": null
+    },
+    "parent": {
+      "id": "4707",
+      "level": 2,
+      "name": {
+        "local": "นิคมน้ำอูน",
+        "en": "Nikhom Nam Un",
+        "slug": "nikhom-nam-un-4707"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "47",
+        "level": 1,
+        "name": {
+          "local": "สกลนคร",
+          "en": "Sakon Nakhon",
+          "slug": "sakon-nakhon-47"
+        }
+      },
+      {
+        "id": "4707",
+        "level": 2,
+        "name": {
+          "local": "นิคมน้ำอูน",
+          "en": "Nikhom Nam Un",
+          "slug": "nikhom-nam-un-4707"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "47270"
+    ],
+    "geo": {
+      "lat": "17.18",
+      "lon": "103.749"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "1306",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ลำลูกกา",
+    "en": "Lam Luk Ka",
+    "slug": "lam-luk-ka-1306"
+  },
+  "code": {
+    "id": "1306",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani-13"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.955",
+    "lon": "100.641"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,30 @@
+{
+  "id": "10",
+  "level": 1,
+  "level_name": {
+    "local": "จังหวัด",
+    "en": "Province"
+  },
+  "name": {
+    "local": "กรุงเทพมหานคร",
+    "en": "Bangkok",
+    "slug": "bangkok-10"
+  },
+  "code": {
+    "id": "10",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 50,
+    "subdistrict": 154
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.753",
+    "lon": "100.5"
+  },
+  "metadata": {},
+  "source": {}
+}

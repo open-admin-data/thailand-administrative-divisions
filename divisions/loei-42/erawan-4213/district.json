@@ -1,0 +1,47 @@
+{
+  "id": "4213",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เอราวัณ",
+    "en": "Erawan",
+    "slug": "erawan-4213"
+  },
+  "code": {
+    "id": "4213",
+    "iso": null
+  },
+  "parent": {
+    "id": "42",
+    "level": 1,
+    "name": {
+      "local": "เลย",
+      "en": "Loei",
+      "slug": "loei-42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "เลย",
+        "en": "Loei",
+        "slug": "loei-42"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.193",
+    "lon": "101.994"
+  },
+  "metadata": {},
+  "source": {}
+}

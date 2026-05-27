@@ -1,0 +1,47 @@
+{
+  "id": "2401",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองฉะเชิงเทรา",
+    "en": "Mueang Chachoengsao",
+    "slug": "mueang-chachoengsao-2401"
+  },
+  "code": {
+    "id": "2401",
+    "iso": null
+  },
+  "parent": {
+    "id": "24",
+    "level": 1,
+    "name": {
+      "local": "ฉะเชิงเทรา",
+      "en": "Chachoengsao",
+      "slug": "chachoengsao-24"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "24",
+      "level": 1,
+      "name": {
+        "local": "ฉะเชิงเทรา",
+        "en": "Chachoengsao",
+        "slug": "chachoengsao-24"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 19
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.707",
+    "lon": "101.1"
+  },
+  "metadata": {},
+  "source": {}
+}

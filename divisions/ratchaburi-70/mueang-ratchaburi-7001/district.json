@@ -1,0 +1,47 @@
+{
+  "id": "7001",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองราชบุรี",
+    "en": "Mueang Ratchaburi",
+    "slug": "mueang-ratchaburi-7001"
+  },
+  "code": {
+    "id": "7001",
+    "iso": null
+  },
+  "parent": {
+    "id": "70",
+    "level": 1,
+    "name": {
+      "local": "ราชบุรี",
+      "en": "Ratchaburi",
+      "slug": "ratchaburi-70"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "local": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi-70"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 22
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.593",
+    "lon": "99.796"
+  },
+  "metadata": {},
+  "source": {}
+}

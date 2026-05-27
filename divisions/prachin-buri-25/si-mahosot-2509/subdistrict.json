@@ -1,0 +1,226 @@
+[
+  {
+    "id": "250901",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โคกปีบ",
+      "en": "Khok Pip",
+      "slug": "khok-pip-250901"
+    },
+    "code": {
+      "id": "250901",
+      "iso": null
+    },
+    "parent": {
+      "id": "2509",
+      "level": 2,
+      "name": {
+        "local": "ศรีมโหสถ",
+        "en": "Si Mahosot",
+        "slug": "si-mahosot-2509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ปราจีนบุรี",
+          "en": "Prachin Buri",
+          "slug": "prachin-buri-25"
+        }
+      },
+      {
+        "id": "2509",
+        "level": 2,
+        "name": {
+          "local": "ศรีมโหสถ",
+          "en": "Si Mahosot",
+          "slug": "si-mahosot-2509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25190"
+    ],
+    "geo": {
+      "lat": "13.88",
+      "lon": "101.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250902",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โคกไทย",
+      "en": "Khok Thai",
+      "slug": "khok-thai-250902"
+    },
+    "code": {
+      "id": "250902",
+      "iso": null
+    },
+    "parent": {
+      "id": "2509",
+      "level": 2,
+      "name": {
+        "local": "ศรีมโหสถ",
+        "en": "Si Mahosot",
+        "slug": "si-mahosot-2509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ปราจีนบุรี",
+          "en": "Prachin Buri",
+          "slug": "prachin-buri-25"
+        }
+      },
+      {
+        "id": "2509",
+        "level": 2,
+        "name": {
+          "local": "ศรีมโหสถ",
+          "en": "Si Mahosot",
+          "slug": "si-mahosot-2509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25190"
+    ],
+    "geo": {
+      "lat": "13.845",
+      "lon": "101.448"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250903",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คู้ลำพัน",
+      "en": "Khu Lam Phan",
+      "slug": "khu-lam-phan-250903"
+    },
+    "code": {
+      "id": "250903",
+      "iso": null
+    },
+    "parent": {
+      "id": "2509",
+      "level": 2,
+      "name": {
+        "local": "ศรีมโหสถ",
+        "en": "Si Mahosot",
+        "slug": "si-mahosot-2509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ปราจีนบุรี",
+          "en": "Prachin Buri",
+          "slug": "prachin-buri-25"
+        }
+      },
+      {
+        "id": "2509",
+        "level": 2,
+        "name": {
+          "local": "ศรีมโหสถ",
+          "en": "Si Mahosot",
+          "slug": "si-mahosot-2509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25190"
+    ],
+    "geo": {
+      "lat": "13.926",
+      "lon": "101.41"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250904",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ไผ่ชะเลือด",
+      "en": "Phai Cha Lueat",
+      "slug": "phai-cha-lueat-250904"
+    },
+    "code": {
+      "id": "250904",
+      "iso": null
+    },
+    "parent": {
+      "id": "2509",
+      "level": 2,
+      "name": {
+        "local": "ศรีมโหสถ",
+        "en": "Si Mahosot",
+        "slug": "si-mahosot-2509"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ปราจีนบุรี",
+          "en": "Prachin Buri",
+          "slug": "prachin-buri-25"
+        }
+      },
+      {
+        "id": "2509",
+        "level": 2,
+        "name": {
+          "local": "ศรีมโหสถ",
+          "en": "Si Mahosot",
+          "slug": "si-mahosot-2509"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25190"
+    ],
+    "geo": {
+      "lat": "13.919",
+      "lon": "101.372"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

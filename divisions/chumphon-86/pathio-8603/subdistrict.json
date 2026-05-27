@@ -1,0 +1,394 @@
+[
+  {
+    "id": "860301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางสน",
+      "en": "Bang Song",
+      "slug": "bang-song-860301"
+    },
+    "code": {
+      "id": "860301",
+      "iso": null
+    },
+    "parent": {
+      "id": "8603",
+      "level": 2,
+      "name": {
+        "local": "ปะทิว",
+        "en": "Pathio",
+        "slug": "pathio-8603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "86",
+        "level": 1,
+        "name": {
+          "local": "ชุมพร",
+          "en": "Chumphon",
+          "slug": "chumphon-86"
+        }
+      },
+      {
+        "id": "8603",
+        "level": 2,
+        "name": {
+          "local": "ปะทิว",
+          "en": "Pathio",
+          "slug": "pathio-8603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86160"
+    ],
+    "geo": {
+      "lat": "10.658",
+      "lon": "99.264"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "860304",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ชุมโค",
+      "en": "Chum Kho",
+      "slug": "chum-kho-860304"
+    },
+    "code": {
+      "id": "860304",
+      "iso": null
+    },
+    "parent": {
+      "id": "8603",
+      "level": 2,
+      "name": {
+        "local": "ปะทิว",
+        "en": "Pathio",
+        "slug": "pathio-8603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "86",
+        "level": 1,
+        "name": {
+          "local": "ชุมพร",
+          "en": "Chumphon",
+          "slug": "chumphon-86"
+        }
+      },
+      {
+        "id": "8603",
+        "level": 2,
+        "name": {
+          "local": "ปะทิว",
+          "en": "Pathio",
+          "slug": "pathio-8603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86160"
+    ],
+    "geo": {
+      "lat": "10.767",
+      "lon": "99.336"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "860305",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดอนยาง",
+      "en": "Don Yang",
+      "slug": "don-yang-860305"
+    },
+    "code": {
+      "id": "860305",
+      "iso": null
+    },
+    "parent": {
+      "id": "8603",
+      "level": 2,
+      "name": {
+        "local": "ปะทิว",
+        "en": "Pathio",
+        "slug": "pathio-8603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "86",
+        "level": 1,
+        "name": {
+          "local": "ชุมพร",
+          "en": "Chumphon",
+          "slug": "chumphon-86"
+        }
+      },
+      {
+        "id": "8603",
+        "level": 2,
+        "name": {
+          "local": "ปะทิว",
+          "en": "Pathio",
+          "slug": "pathio-8603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86210"
+    ],
+    "geo": {
+      "lat": "10.861",
+      "lon": "99.354"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "860307",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เขาไชยราช",
+      "en": "Khao Chai Rat",
+      "slug": "khao-chai-rat-860307"
+    },
+    "code": {
+      "id": "860307",
+      "iso": null
+    },
+    "parent": {
+      "id": "8603",
+      "level": 2,
+      "name": {
+        "local": "ปะทิว",
+        "en": "Pathio",
+        "slug": "pathio-8603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "86",
+        "level": 1,
+        "name": {
+          "local": "ชุมพร",
+          "en": "Chumphon",
+          "slug": "chumphon-86"
+        }
+      },
+      {
+        "id": "8603",
+        "level": 2,
+        "name": {
+          "local": "ปะทิว",
+          "en": "Pathio",
+          "slug": "pathio-8603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86210"
+    ],
+    "geo": {
+      "lat": "10.939",
+      "lon": "99.349"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "860306",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปากคลอง",
+      "en": "Pak Khlong",
+      "slug": "pak-khlong-860306"
+    },
+    "code": {
+      "id": "860306",
+      "iso": null
+    },
+    "parent": {
+      "id": "8603",
+      "level": 2,
+      "name": {
+        "local": "ปะทิว",
+        "en": "Pathio",
+        "slug": "pathio-8603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "86",
+        "level": 1,
+        "name": {
+          "local": "ชุมพร",
+          "en": "Chumphon",
+          "slug": "chumphon-86"
+        }
+      },
+      {
+        "id": "8603",
+        "level": 2,
+        "name": {
+          "local": "ปะทิว",
+          "en": "Pathio",
+          "slug": "pathio-8603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86210"
+    ],
+    "geo": {
+      "lat": "10.91",
+      "lon": "99.463"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "860303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สะพลี",
+      "en": "Saphli",
+      "slug": "saphli-860303"
+    },
+    "code": {
+      "id": "860303",
+      "iso": null
+    },
+    "parent": {
+      "id": "8603",
+      "level": 2,
+      "name": {
+        "local": "ปะทิว",
+        "en": "Pathio",
+        "slug": "pathio-8603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "86",
+        "level": 1,
+        "name": {
+          "local": "ชุมพร",
+          "en": "Chumphon",
+          "slug": "chumphon-86"
+        }
+      },
+      {
+        "id": "8603",
+        "level": 2,
+        "name": {
+          "local": "ปะทิว",
+          "en": "Pathio",
+          "slug": "pathio-8603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86230"
+    ],
+    "geo": {
+      "lat": "10.608",
+      "lon": "99.25"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "860302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทะเลทรัพย์",
+      "en": "Thale Sap",
+      "slug": "thale-sap-860302"
+    },
+    "code": {
+      "id": "860302",
+      "iso": null
+    },
+    "parent": {
+      "id": "8603",
+      "level": 2,
+      "name": {
+        "local": "ปะทิว",
+        "en": "Pathio",
+        "slug": "pathio-8603"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "86",
+        "level": 1,
+        "name": {
+          "local": "ชุมพร",
+          "en": "Chumphon",
+          "slug": "chumphon-86"
+        }
+      },
+      {
+        "id": "8603",
+        "level": 2,
+        "name": {
+          "local": "ปะทิว",
+          "en": "Pathio",
+          "slug": "pathio-8603"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "86160"
+    ],
+    "geo": {
+      "lat": "10.727",
+      "lon": "99.267"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

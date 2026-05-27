@@ -1,0 +1,226 @@
+[
+  {
+    "id": "940804",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คอนทราย",
+      "en": "Don Sai",
+      "slug": "don-sai-940804"
+    },
+    "code": {
+      "id": "940804",
+      "iso": null
+    },
+    "parent": {
+      "id": "9408",
+      "level": 2,
+      "name": {
+        "local": "ไม้แก่น",
+        "en": "Mai Kaen",
+        "slug": "mai-kaen-9408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani-94"
+        }
+      },
+      {
+        "id": "9408",
+        "level": 2,
+        "name": {
+          "local": "ไม้แก่น",
+          "en": "Mai Kaen",
+          "slug": "mai-kaen-9408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94220"
+    ],
+    "geo": {
+      "lat": "6.597",
+      "lon": "101.701"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "940802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ไม้แก่น",
+      "en": "Mai Kaen",
+      "slug": "mai-kaen-940802"
+    },
+    "code": {
+      "id": "940802",
+      "iso": null
+    },
+    "parent": {
+      "id": "9408",
+      "level": 2,
+      "name": {
+        "local": "ไม้แก่น",
+        "en": "Mai Kaen",
+        "slug": "mai-kaen-9408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani-94"
+        }
+      },
+      {
+        "id": "9408",
+        "level": 2,
+        "name": {
+          "local": "ไม้แก่น",
+          "en": "Mai Kaen",
+          "slug": "mai-kaen-9408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94220"
+    ],
+    "geo": {
+      "lat": "6.647",
+      "lon": "101.669"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "940801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ไทรทอง",
+      "en": "Sai Thong",
+      "slug": "sai-thong-940801"
+    },
+    "code": {
+      "id": "940801",
+      "iso": null
+    },
+    "parent": {
+      "id": "9408",
+      "level": 2,
+      "name": {
+        "local": "ไม้แก่น",
+        "en": "Mai Kaen",
+        "slug": "mai-kaen-9408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani-94"
+        }
+      },
+      {
+        "id": "9408",
+        "level": 2,
+        "name": {
+          "local": "ไม้แก่น",
+          "en": "Mai Kaen",
+          "slug": "mai-kaen-9408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94220"
+    ],
+    "geo": {
+      "lat": "6.604",
+      "lon": "101.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "940803",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตะโละไกรทอง",
+      "en": "Talo Krai Thong",
+      "slug": "talo-krai-thong-940803"
+    },
+    "code": {
+      "id": "940803",
+      "iso": null
+    },
+    "parent": {
+      "id": "9408",
+      "level": 2,
+      "name": {
+        "local": "ไม้แก่น",
+        "en": "Mai Kaen",
+        "slug": "mai-kaen-9408"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "94",
+        "level": 1,
+        "name": {
+          "local": "ปัตตานี",
+          "en": "Pattani",
+          "slug": "pattani-94"
+        }
+      },
+      {
+        "id": "9408",
+        "level": 2,
+        "name": {
+          "local": "ไม้แก่น",
+          "en": "Mai Kaen",
+          "slug": "mai-kaen-9408"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "94220"
+    ],
+    "geo": {
+      "lat": "6.627",
+      "lon": "101.64"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

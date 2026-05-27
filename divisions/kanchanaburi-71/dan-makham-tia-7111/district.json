@@ -1,0 +1,47 @@
+{
+  "id": "7111",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ด่านมะขามเตี้ย",
+    "en": "Dan Makham Tia",
+    "slug": "dan-makham-tia-7111"
+  },
+  "code": {
+    "id": "7111",
+    "iso": null
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "local": "กาญจนบุรี",
+      "en": "Kanchanaburi",
+      "slug": "kanchanaburi-71"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi-71"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.808",
+    "lon": "99.44"
+  },
+  "metadata": {},
+  "source": {}
+}

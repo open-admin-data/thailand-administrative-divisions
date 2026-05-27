@@ -1,0 +1,47 @@
+{
+  "id": "1302",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "คลองหลวง",
+    "en": "Khlong Luang",
+    "slug": "khlong-luang-1302"
+  },
+  "code": {
+    "id": "1302",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani-13"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.125",
+    "lon": "100.75"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "312101",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านด่าน",
+      "en": "Ban Dan",
+      "slug": "ban-dan-312101"
+    },
+    "code": {
+      "id": "312101",
+      "iso": null
+    },
+    "parent": {
+      "id": "3121",
+      "level": 2,
+      "name": {
+        "local": "บ้านด่าน",
+        "en": "Ban Dan",
+        "slug": "ban-dan-3121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram-31"
+        }
+      },
+      {
+        "id": "3121",
+        "level": 2,
+        "name": {
+          "local": "บ้านด่าน",
+          "en": "Ban Dan",
+          "slug": "ban-dan-3121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31000"
+    ],
+    "geo": {
+      "lat": "15.112",
+      "lon": "103.162"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "312104",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โนนขวาง",
+      "en": "Non Khwang",
+      "slug": "non-khwang-312104"
+    },
+    "code": {
+      "id": "312104",
+      "iso": null
+    },
+    "parent": {
+      "id": "3121",
+      "level": 2,
+      "name": {
+        "local": "บ้านด่าน",
+        "en": "Ban Dan",
+        "slug": "ban-dan-3121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram-31"
+        }
+      },
+      {
+        "id": "3121",
+        "level": 2,
+        "name": {
+          "local": "บ้านด่าน",
+          "en": "Ban Dan",
+          "slug": "ban-dan-3121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31000"
+    ],
+    "geo": {
+      "lat": "15.191",
+      "lon": "103.157"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "312102",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปราสาท",
+      "en": "Prasat",
+      "slug": "prasat-312102"
+    },
+    "code": {
+      "id": "312102",
+      "iso": null
+    },
+    "parent": {
+      "id": "3121",
+      "level": 2,
+      "name": {
+        "local": "บ้านด่าน",
+        "en": "Ban Dan",
+        "slug": "ban-dan-3121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram-31"
+        }
+      },
+      {
+        "id": "3121",
+        "level": 2,
+        "name": {
+          "local": "บ้านด่าน",
+          "en": "Ban Dan",
+          "slug": "ban-dan-3121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31000"
+    ],
+    "geo": {
+      "lat": "15.081",
+      "lon": "103.217"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "312103",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังเหนือ",
+      "en": "Wang Nuea",
+      "slug": "wang-nuea-312103"
+    },
+    "code": {
+      "id": "312103",
+      "iso": null
+    },
+    "parent": {
+      "id": "3121",
+      "level": 2,
+      "name": {
+        "local": "บ้านด่าน",
+        "en": "Ban Dan",
+        "slug": "ban-dan-3121"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram-31"
+        }
+      },
+      {
+        "id": "3121",
+        "level": 2,
+        "name": {
+          "local": "บ้านด่าน",
+          "en": "Ban Dan",
+          "slug": "ban-dan-3121"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31000"
+    ],
+    "geo": {
+      "lat": "15.138",
+      "lon": "103.219"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

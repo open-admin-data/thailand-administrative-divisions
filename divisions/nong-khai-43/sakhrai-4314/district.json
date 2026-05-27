@@ -1,0 +1,47 @@
+{
+  "id": "4314",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สระใคร",
+    "en": "Sakhrai",
+    "slug": "sakhrai-4314"
+  },
+  "code": {
+    "id": "4314",
+    "iso": null
+  },
+  "parent": {
+    "id": "43",
+    "level": 1,
+    "name": {
+      "local": "หนองคาย",
+      "en": "Nong Khai",
+      "slug": "nong-khai-43"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "43",
+      "level": 1,
+      "name": {
+        "local": "หนองคาย",
+        "en": "Nong Khai",
+        "slug": "nong-khai-43"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.638",
+    "lon": "102.736"
+  },
+  "metadata": {},
+  "source": {}
+}

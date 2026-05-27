@@ -1,0 +1,47 @@
+{
+  "id": "3410",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บุณฑริก",
+    "en": "Buntharik",
+    "slug": "buntharik-3410"
+  },
+  "code": {
+    "id": "3410",
+    "iso": null
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "local": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani-34"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani-34"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.672",
+    "lon": "105.307"
+  },
+  "metadata": {},
+  "source": {}
+}

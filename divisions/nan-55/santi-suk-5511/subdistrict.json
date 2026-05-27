@@ -1,0 +1,170 @@
+[
+  {
+    "id": "551101",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดู่พงษ์",
+      "en": "Du Phong",
+      "slug": "du-phong-551101"
+    },
+    "code": {
+      "id": "551101",
+      "iso": null
+    },
+    "parent": {
+      "id": "5511",
+      "level": 2,
+      "name": {
+        "local": "สันติสุข",
+        "en": "Santi Suk",
+        "slug": "santi-suk-5511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5511",
+        "level": 2,
+        "name": {
+          "local": "สันติสุข",
+          "en": "Santi Suk",
+          "slug": "santi-suk-5511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55210"
+    ],
+    "geo": {
+      "lat": "18.898",
+      "lon": "100.902"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "551102",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ป่าแลวหลวง",
+      "en": "Pa Laeo Luang",
+      "slug": "pa-laeo-luang-551102"
+    },
+    "code": {
+      "id": "551102",
+      "iso": null
+    },
+    "parent": {
+      "id": "5511",
+      "level": 2,
+      "name": {
+        "local": "สันติสุข",
+        "en": "Santi Suk",
+        "slug": "santi-suk-5511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5511",
+        "level": 2,
+        "name": {
+          "local": "สันติสุข",
+          "en": "Santi Suk",
+          "slug": "santi-suk-5511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55210"
+    ],
+    "geo": {
+      "lat": "18.957",
+      "lon": "100.95"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "551103",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "พงษ์",
+      "en": "Phong",
+      "slug": "phong-551103"
+    },
+    "code": {
+      "id": "551103",
+      "iso": null
+    },
+    "parent": {
+      "id": "5511",
+      "level": 2,
+      "name": {
+        "local": "สันติสุข",
+        "en": "Santi Suk",
+        "slug": "santi-suk-5511"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5511",
+        "level": 2,
+        "name": {
+          "local": "สันติสุข",
+          "en": "Santi Suk",
+          "slug": "santi-suk-5511"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55210"
+    ],
+    "geo": {
+      "lat": "18.899",
+      "lon": "100.983"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

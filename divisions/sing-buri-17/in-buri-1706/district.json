@@ -1,0 +1,47 @@
+{
+  "id": "1706",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "อินทร์บุรี",
+    "en": "In Buri",
+    "slug": "in-buri-1706"
+  },
+  "code": {
+    "id": "1706",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "สิงห์บุรี",
+      "en": "Sing Buri",
+      "slug": "sing-buri-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri-17"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.009",
+    "lon": "100.329"
+  },
+  "metadata": {},
+  "source": {}
+}

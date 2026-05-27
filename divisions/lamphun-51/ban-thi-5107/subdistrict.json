@@ -1,0 +1,114 @@
+[
+  {
+    "id": "510701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านธิ",
+      "en": "Ban Thi",
+      "slug": "ban-thi-510701"
+    },
+    "code": {
+      "id": "510701",
+      "iso": null
+    },
+    "parent": {
+      "id": "5107",
+      "level": 2,
+      "name": {
+        "local": "บ้านธิ",
+        "en": "Ban Thi",
+        "slug": "ban-thi-5107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun-51"
+        }
+      },
+      {
+        "id": "5107",
+        "level": 2,
+        "name": {
+          "local": "บ้านธิ",
+          "en": "Ban Thi",
+          "slug": "ban-thi-5107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51180"
+    ],
+    "geo": {
+      "lat": "18.614",
+      "lon": "99.19"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "510702",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ห้วยยาบ",
+      "en": "Huai Yap",
+      "slug": "huai-yap-510702"
+    },
+    "code": {
+      "id": "510702",
+      "iso": null
+    },
+    "parent": {
+      "id": "5107",
+      "level": 2,
+      "name": {
+        "local": "บ้านธิ",
+        "en": "Ban Thi",
+        "slug": "ban-thi-5107"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "51",
+        "level": 1,
+        "name": {
+          "local": "ลำพูน",
+          "en": "Lamphun",
+          "slug": "lamphun-51"
+        }
+      },
+      {
+        "id": "5107",
+        "level": 2,
+        "name": {
+          "local": "บ้านธิ",
+          "en": "Ban Thi",
+          "slug": "ban-thi-5107"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "51180"
+    ],
+    "geo": {
+      "lat": "18.679",
+      "lon": "99.163"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

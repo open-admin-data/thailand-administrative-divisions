@@ -1,0 +1,226 @@
+[
+  {
+    "id": "312202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดงพลอง",
+      "en": "Dong Phlong",
+      "slug": "dong-phlong-312202"
+    },
+    "code": {
+      "id": "312202",
+      "iso": null
+    },
+    "parent": {
+      "id": "3122",
+      "level": 2,
+      "name": {
+        "local": "แคนดง",
+        "en": "Khaen Dong",
+        "slug": "khaen-dong-3122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram-31"
+        }
+      },
+      {
+        "id": "3122",
+        "level": 2,
+        "name": {
+          "local": "แคนดง",
+          "en": "Khaen Dong",
+          "slug": "khaen-dong-3122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31150"
+    ],
+    "geo": {
+      "lat": "15.321",
+      "lon": "103.172"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "312204",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หัวฝาย",
+      "en": "Hua Fai",
+      "slug": "hua-fai-312204"
+    },
+    "code": {
+      "id": "312204",
+      "iso": null
+    },
+    "parent": {
+      "id": "3122",
+      "level": 2,
+      "name": {
+        "local": "แคนดง",
+        "en": "Khaen Dong",
+        "slug": "khaen-dong-3122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram-31"
+        }
+      },
+      {
+        "id": "3122",
+        "level": 2,
+        "name": {
+          "local": "แคนดง",
+          "en": "Khaen Dong",
+          "slug": "khaen-dong-3122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31150"
+    ],
+    "geo": {
+      "lat": "15.267",
+      "lon": "103.18"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "312201",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แคนดง",
+      "en": "Khaen Dong",
+      "slug": "khaen-dong-312201"
+    },
+    "code": {
+      "id": "312201",
+      "iso": null
+    },
+    "parent": {
+      "id": "3122",
+      "level": 2,
+      "name": {
+        "local": "แคนดง",
+        "en": "Khaen Dong",
+        "slug": "khaen-dong-3122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram-31"
+        }
+      },
+      {
+        "id": "3122",
+        "level": 2,
+        "name": {
+          "local": "แคนดง",
+          "en": "Khaen Dong",
+          "slug": "khaen-dong-3122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31150"
+    ],
+    "geo": {
+      "lat": "15.317",
+      "lon": "103.123"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "312203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สระบัว",
+      "en": "Sa Bua",
+      "slug": "sa-bua-312203"
+    },
+    "code": {
+      "id": "312203",
+      "iso": null
+    },
+    "parent": {
+      "id": "3122",
+      "level": 2,
+      "name": {
+        "local": "แคนดง",
+        "en": "Khaen Dong",
+        "slug": "khaen-dong-3122"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "31",
+        "level": 1,
+        "name": {
+          "local": "บุรีรัมย์",
+          "en": "Buri Ram",
+          "slug": "buri-ram-31"
+        }
+      },
+      {
+        "id": "3122",
+        "level": 2,
+        "name": {
+          "local": "แคนดง",
+          "en": "Khaen Dong",
+          "slug": "khaen-dong-3122"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "31150"
+    ],
+    "geo": {
+      "lat": "15.32",
+      "lon": "103.077"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

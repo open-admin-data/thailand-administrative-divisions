@@ -1,0 +1,47 @@
+{
+  "id": "9503",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บันนังสตา",
+    "en": "Bannang Sata",
+    "slug": "bannang-sata-9503"
+  },
+  "code": {
+    "id": "9503",
+    "iso": null
+  },
+  "parent": {
+    "id": "95",
+    "level": 1,
+    "name": {
+      "local": "ยะลา",
+      "en": "Yala",
+      "slug": "yala-95"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "95",
+      "level": 1,
+      "name": {
+        "local": "ยะลา",
+        "en": "Yala",
+        "slug": "yala-95"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.355",
+    "lon": "101.327"
+  },
+  "metadata": {},
+  "source": {}
+}

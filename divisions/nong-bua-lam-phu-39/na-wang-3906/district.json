@@ -1,0 +1,47 @@
+{
+  "id": "3906",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "นาวัง",
+    "en": "Na Wang",
+    "slug": "na-wang-3906"
+  },
+  "code": {
+    "id": "3906",
+    "iso": null
+  },
+  "parent": {
+    "id": "39",
+    "level": 1,
+    "name": {
+      "local": "หนองบัวลำภู",
+      "en": "Nong Bua Lam Phu",
+      "slug": "nong-bua-lam-phu-39"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "local": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu-39"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.308",
+    "lon": "102.117"
+  },
+  "metadata": {},
+  "source": {}
+}

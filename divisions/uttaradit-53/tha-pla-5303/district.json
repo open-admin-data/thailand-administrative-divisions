@@ -1,0 +1,47 @@
+{
+  "id": "5303",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ท่าปลา",
+    "en": "Tha Pla",
+    "slug": "tha-pla-5303"
+  },
+  "code": {
+    "id": "5303",
+    "iso": null
+  },
+  "parent": {
+    "id": "53",
+    "level": 1,
+    "name": {
+      "local": "อุตรดิตถ์",
+      "en": "Uttaradit",
+      "slug": "uttaradit-53"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "53",
+      "level": 1,
+      "name": {
+        "local": "อุตรดิตถ์",
+        "en": "Uttaradit",
+        "slug": "uttaradit-53"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.76",
+    "lon": "100.333"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "7113",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ห้วยกระเจา",
+    "en": "Huai Krachao",
+    "slug": "huai-krachao-7113"
+  },
+  "code": {
+    "id": "7113",
+    "iso": null
+  },
+  "parent": {
+    "id": "71",
+    "level": 1,
+    "name": {
+      "local": "กาญจนบุรี",
+      "en": "Kanchanaburi",
+      "slug": "kanchanaburi-71"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "71",
+      "level": 1,
+      "name": {
+        "local": "กาญจนบุรี",
+        "en": "Kanchanaburi",
+        "slug": "kanchanaburi-71"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.357",
+    "lon": "99.764"
+  },
+  "metadata": {},
+  "source": {}
+}

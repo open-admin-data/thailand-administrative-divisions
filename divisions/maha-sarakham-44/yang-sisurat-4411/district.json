@@ -1,0 +1,47 @@
+{
+  "id": "4411",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ยางสีสุราช",
+    "en": "Yang Sisurat",
+    "slug": "yang-sisurat-4411"
+  },
+  "code": {
+    "id": "4411",
+    "iso": null
+  },
+  "parent": {
+    "id": "44",
+    "level": 1,
+    "name": {
+      "local": "มหาสารคาม",
+      "en": "Maha Sarakham",
+      "slug": "maha-sarakham-44"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham-44"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.649",
+    "lon": "103.146"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1505",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "แสวงหา",
+    "en": "Sawaeng Ha",
+    "slug": "sawaeng-ha-1505"
+  },
+  "code": {
+    "id": "1505",
+    "iso": null
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "local": "อ่างทอง",
+      "en": "Ang Thong",
+      "slug": "ang-thong-15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong-15"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.741",
+    "lon": "100.364"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "5207",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "วังเหนือ",
+    "en": "Wang Nuea",
+    "slug": "wang-nuea-5207"
+  },
+  "code": {
+    "id": "5207",
+    "iso": null
+  },
+  "parent": {
+    "id": "52",
+    "level": 1,
+    "name": {
+      "local": "ลำปาง",
+      "en": "Lampang",
+      "slug": "lampang-52"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "52",
+      "level": 1,
+      "name": {
+        "local": "ลำปาง",
+        "en": "Lampang",
+        "slug": "lampang-52"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.08",
+    "lon": "99.649"
+  },
+  "metadata": {},
+  "source": {}
+}

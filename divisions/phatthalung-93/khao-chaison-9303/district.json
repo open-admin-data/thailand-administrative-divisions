@@ -1,0 +1,47 @@
+{
+  "id": "9303",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เขาชัยสน",
+    "en": "Khao Chaison",
+    "slug": "khao-chaison-9303"
+  },
+  "code": {
+    "id": "9303",
+    "iso": null
+  },
+  "parent": {
+    "id": "93",
+    "level": 1,
+    "name": {
+      "local": "พัทลุง",
+      "en": "Phatthalung",
+      "slug": "phatthalung-93"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "93",
+      "level": 1,
+      "name": {
+        "local": "พัทลุง",
+        "en": "Phatthalung",
+        "slug": "phatthalung-93"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.489",
+    "lon": "100.194"
+  },
+  "metadata": {},
+  "source": {}
+}

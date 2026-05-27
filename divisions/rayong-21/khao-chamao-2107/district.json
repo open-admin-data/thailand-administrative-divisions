@@ -1,0 +1,47 @@
+{
+  "id": "2107",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เขาชะเมา",
+    "en": "Khao Chamao",
+    "slug": "khao-chamao-2107"
+  },
+  "code": {
+    "id": "2107",
+    "iso": null
+  },
+  "parent": {
+    "id": "21",
+    "level": 1,
+    "name": {
+      "local": "ระยอง",
+      "en": "Rayong",
+      "slug": "rayong-21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong-21"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.062",
+    "lon": "101.617"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "8607",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สวี",
+    "en": "Sawi",
+    "slug": "sawi-8607"
+  },
+  "code": {
+    "id": "8607",
+    "iso": null
+  },
+  "parent": {
+    "id": "86",
+    "level": 1,
+    "name": {
+      "local": "ชุมพร",
+      "en": "Chumphon",
+      "slug": "chumphon-86"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "86",
+      "level": 1,
+      "name": {
+        "local": "ชุมพร",
+        "en": "Chumphon",
+        "slug": "chumphon-86"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "10.291",
+    "lon": "99.241"
+  },
+  "metadata": {},
+  "source": {}
+}

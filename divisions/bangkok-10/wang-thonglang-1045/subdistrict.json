@@ -1,0 +1,58 @@
+[
+  {
+    "id": "104501",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังทองหลาง",
+      "en": "Wang Thonglang",
+      "slug": "wang-thonglang-104501"
+    },
+    "code": {
+      "id": "104501",
+      "iso": null
+    },
+    "parent": {
+      "id": "1045",
+      "level": 2,
+      "name": {
+        "local": "วังทองหลาง",
+        "en": "Wang Thonglang",
+        "slug": "wang-thonglang-1045"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1045",
+        "level": 2,
+        "name": {
+          "local": "วังทองหลาง",
+          "en": "Wang Thonglang",
+          "slug": "wang-thonglang-1045"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10310"
+    ],
+    "geo": {
+      "lat": "13.779",
+      "lon": "100.609"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

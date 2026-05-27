@@ -1,0 +1,47 @@
+{
+  "id": "4716",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เจริญศิลป์",
+    "en": "Charoen Sin",
+    "slug": "charoen-sin-4716"
+  },
+  "code": {
+    "id": "4716",
+    "iso": null
+  },
+  "parent": {
+    "id": "47",
+    "level": 1,
+    "name": {
+      "local": "สกลนคร",
+      "en": "Sakon Nakhon",
+      "slug": "sakon-nakhon-47"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "local": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon-47"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.536",
+    "lon": "103.605"
+  },
+  "metadata": {},
+  "source": {}
+}

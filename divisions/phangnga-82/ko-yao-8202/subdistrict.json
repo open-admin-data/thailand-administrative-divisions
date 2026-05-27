@@ -1,0 +1,170 @@
+[
+  {
+    "id": "820201",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เกาะยาวน้อย",
+      "en": "Ko Yao Noi",
+      "slug": "ko-yao-noi-820201"
+    },
+    "code": {
+      "id": "820201",
+      "iso": null
+    },
+    "parent": {
+      "id": "8202",
+      "level": 2,
+      "name": {
+        "local": "เกาะยาว",
+        "en": "Ko Yao",
+        "slug": "ko-yao-8202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga-82"
+        }
+      },
+      {
+        "id": "8202",
+        "level": 2,
+        "name": {
+          "local": "เกาะยาว",
+          "en": "Ko Yao",
+          "slug": "ko-yao-8202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "82160"
+    ],
+    "geo": {
+      "lat": "8.19",
+      "lon": "98.547"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "820202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เกาะยาวใหญ่",
+      "en": "Ko Yao Yai",
+      "slug": "ko-yao-yai-820202"
+    },
+    "code": {
+      "id": "820202",
+      "iso": null
+    },
+    "parent": {
+      "id": "8202",
+      "level": 2,
+      "name": {
+        "local": "เกาะยาว",
+        "en": "Ko Yao",
+        "slug": "ko-yao-8202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga-82"
+        }
+      },
+      {
+        "id": "8202",
+        "level": 2,
+        "name": {
+          "local": "เกาะยาว",
+          "en": "Ko Yao",
+          "slug": "ko-yao-8202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "82160"
+    ],
+    "geo": {
+      "lat": "8.04",
+      "lon": "98.638"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "820203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "พรุใน",
+      "en": "Pru Nai",
+      "slug": "pru-nai-820203"
+    },
+    "code": {
+      "id": "820203",
+      "iso": null
+    },
+    "parent": {
+      "id": "8202",
+      "level": 2,
+      "name": {
+        "local": "เกาะยาว",
+        "en": "Ko Yao",
+        "slug": "ko-yao-8202"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga-82"
+        }
+      },
+      {
+        "id": "8202",
+        "level": 2,
+        "name": {
+          "local": "เกาะยาว",
+          "en": "Ko Yao",
+          "slug": "ko-yao-8202"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "83000"
+    ],
+    "geo": {
+      "lat": "7.83",
+      "lon": "98.6"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

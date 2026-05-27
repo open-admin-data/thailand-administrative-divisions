@@ -1,0 +1,47 @@
+{
+  "id": "4718",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ภูพาน",
+    "en": "Phu Phan",
+    "slug": "phu-phan-4718"
+  },
+  "code": {
+    "id": "4718",
+    "iso": null
+  },
+  "parent": {
+    "id": "47",
+    "level": 1,
+    "name": {
+      "local": "สกลนคร",
+      "en": "Sakon Nakhon",
+      "slug": "sakon-nakhon-47"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "47",
+      "level": 1,
+      "name": {
+        "local": "สกลนคร",
+        "en": "Sakon Nakhon",
+        "slug": "sakon-nakhon-47"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.881",
+    "lon": "104.022"
+  },
+  "metadata": {},
+  "source": {}
+}

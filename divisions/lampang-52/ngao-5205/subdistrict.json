@@ -1,0 +1,562 @@
+[
+  {
+    "id": "520508",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านแหง",
+      "en": "Ban Haeng",
+      "slug": "ban-haeng-520508"
+    },
+    "code": {
+      "id": "520508",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205",
+      "level": 2,
+      "name": {
+        "local": "งาว",
+        "en": "Ngao",
+        "slug": "ngao-5205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "งาว",
+          "en": "Ngao",
+          "slug": "ngao-5205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52110"
+    ],
+    "geo": {
+      "lat": "18.782",
+      "lon": "100.054"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520509",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านหวด",
+      "en": "Ban Huat",
+      "slug": "ban-huat-520509"
+    },
+    "code": {
+      "id": "520509",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205",
+      "level": 2,
+      "name": {
+        "local": "งาว",
+        "en": "Ngao",
+        "slug": "ngao-5205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "งาว",
+          "en": "Ngao",
+          "slug": "ngao-5205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52110"
+    ],
+    "geo": {
+      "lat": "18.609",
+      "lon": "99.888"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520507",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านอ้อน",
+      "en": "Ban On",
+      "slug": "ban-on-520507"
+    },
+    "code": {
+      "id": "520507",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205",
+      "level": 2,
+      "name": {
+        "local": "งาว",
+        "en": "Ngao",
+        "slug": "ngao-5205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "งาว",
+          "en": "Ngao",
+          "slug": "ngao-5205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52110"
+    ],
+    "geo": {
+      "lat": "18.788",
+      "lon": "99.852"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520503",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านโป่ง",
+      "en": "Ban Pong",
+      "slug": "ban-pong-520503"
+    },
+    "code": {
+      "id": "520503",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205",
+      "level": 2,
+      "name": {
+        "local": "งาว",
+        "en": "Ngao",
+        "slug": "ngao-5205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "งาว",
+          "en": "Ngao",
+          "slug": "ngao-5205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52110"
+    ],
+    "geo": {
+      "lat": "18.726",
+      "lon": "99.886"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520504",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านร้อง",
+      "en": "Ban Rong",
+      "slug": "ban-rong-520504"
+    },
+    "code": {
+      "id": "520504",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205",
+      "level": 2,
+      "name": {
+        "local": "งาว",
+        "en": "Ngao",
+        "slug": "ngao-5205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "งาว",
+          "en": "Ngao",
+          "slug": "ngao-5205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52110"
+    ],
+    "geo": {
+      "lat": "18.972",
+      "lon": "99.824"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520501",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หลวงเหนือ",
+      "en": "Luang Nuea",
+      "slug": "luang-nuea-520501"
+    },
+    "code": {
+      "id": "520501",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205",
+      "level": 2,
+      "name": {
+        "local": "งาว",
+        "en": "Ngao",
+        "slug": "ngao-5205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "งาว",
+          "en": "Ngao",
+          "slug": "ngao-5205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52110"
+    ],
+    "geo": {
+      "lat": "18.752",
+      "lon": "99.996"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520502",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หลวงใต้",
+      "en": "Luang Tai",
+      "slug": "luang-tai-520502"
+    },
+    "code": {
+      "id": "520502",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205",
+      "level": 2,
+      "name": {
+        "local": "งาว",
+        "en": "Ngao",
+        "slug": "ngao-5205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "งาว",
+          "en": "Ngao",
+          "slug": "ngao-5205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52110"
+    ],
+    "geo": {
+      "lat": "18.743",
+      "lon": "99.958"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520510",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่ตีบ",
+      "en": "Mae Tip",
+      "slug": "mae-tip-520510"
+    },
+    "code": {
+      "id": "520510",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205",
+      "level": 2,
+      "name": {
+        "local": "งาว",
+        "en": "Ngao",
+        "slug": "ngao-5205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "งาว",
+          "en": "Ngao",
+          "slug": "ngao-5205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52110"
+    ],
+    "geo": {
+      "lat": "18.634",
+      "lon": "100.038"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520506",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาแก",
+      "en": "Na Kae",
+      "slug": "na-kae-520506"
+    },
+    "code": {
+      "id": "520506",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205",
+      "level": 2,
+      "name": {
+        "local": "งาว",
+        "en": "Ngao",
+        "slug": "ngao-5205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "งาว",
+          "en": "Ngao",
+          "slug": "ngao-5205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52110"
+    ],
+    "geo": {
+      "lat": "18.817",
+      "lon": "99.885"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "520505",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปงเตา",
+      "en": "Pong Tao",
+      "slug": "pong-tao-520505"
+    },
+    "code": {
+      "id": "520505",
+      "iso": null
+    },
+    "parent": {
+      "id": "5205",
+      "level": 2,
+      "name": {
+        "local": "งาว",
+        "en": "Ngao",
+        "slug": "ngao-5205"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5205",
+        "level": 2,
+        "name": {
+          "local": "งาว",
+          "en": "Ngao",
+          "slug": "ngao-5205"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52110"
+    ],
+    "geo": {
+      "lat": "18.839",
+      "lon": "99.927"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

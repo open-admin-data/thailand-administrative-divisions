@@ -1,0 +1,47 @@
+{
+  "id": "2208",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "แก่งหางแมว",
+    "en": "Kaeng Hang Maeo",
+    "slug": "kaeng-hang-maeo-2208"
+  },
+  "code": {
+    "id": "2208",
+    "iso": null
+  },
+  "parent": {
+    "id": "22",
+    "level": 1,
+    "name": {
+      "local": "จันทบุรี",
+      "en": "Chanthaburi",
+      "slug": "chanthaburi-22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi-22"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.881",
+    "lon": "101.848"
+  },
+  "metadata": {},
+  "source": {}
+}

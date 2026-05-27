@@ -1,0 +1,331 @@
+[
+  {
+    "id": "5802",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ขุนยวม",
+      "en": "Khun Yuam",
+      "slug": "khun-yuam-5802"
+    },
+    "code": {
+      "id": "5802",
+      "iso": null
+    },
+    "parent": {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "local": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son-58"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "58",
+        "level": 1,
+        "name": {
+          "local": "แม่ฮ่องสอน",
+          "en": "Mae Hong Son",
+          "slug": "mae-hong-son-58"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.742",
+      "lon": "98.051"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5805",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "แม่ลาน้อย",
+      "en": "Mae La Noi",
+      "slug": "mae-la-noi-5805"
+    },
+    "code": {
+      "id": "5805",
+      "iso": null
+    },
+    "parent": {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "local": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son-58"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "58",
+        "level": 1,
+        "name": {
+          "local": "แม่ฮ่องสอน",
+          "en": "Mae Hong Son",
+          "slug": "mae-hong-son-58"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.37",
+      "lon": "98.102"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5804",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "แม่สะเรียง",
+      "en": "Mae Sariang",
+      "slug": "mae-sariang-5804"
+    },
+    "code": {
+      "id": "5804",
+      "iso": null
+    },
+    "parent": {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "local": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son-58"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "58",
+        "level": 1,
+        "name": {
+          "local": "แม่ฮ่องสอน",
+          "en": "Mae Hong Son",
+          "slug": "mae-hong-son-58"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.148",
+      "lon": "97.972"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5801",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "เมืองแม่ฮ่องสอน",
+      "en": "Mueang Mae Hong Son",
+      "slug": "mueang-mae-hong-son-5801"
+    },
+    "code": {
+      "id": "5801",
+      "iso": null
+    },
+    "parent": {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "local": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son-58"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "58",
+        "level": 1,
+        "name": {
+          "local": "แม่ฮ่องสอน",
+          "en": "Mae Hong Son",
+          "slug": "mae-hong-son-58"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.302",
+      "lon": "97.97"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5803",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ปาย",
+      "en": "Pai",
+      "slug": "pai-5803"
+    },
+    "code": {
+      "id": "5803",
+      "iso": null
+    },
+    "parent": {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "local": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son-58"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "58",
+        "level": 1,
+        "name": {
+          "local": "แม่ฮ่องสอน",
+          "en": "Mae Hong Son",
+          "slug": "mae-hong-son-58"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.362",
+      "lon": "98.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5807",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ปางมะผ้า",
+      "en": "Pang Mapha",
+      "slug": "pang-mapha-5807"
+    },
+    "code": {
+      "id": "5807",
+      "iso": null
+    },
+    "parent": {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "local": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son-58"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "58",
+        "level": 1,
+        "name": {
+          "local": "แม่ฮ่องสอน",
+          "en": "Mae Hong Son",
+          "slug": "mae-hong-son-58"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "19.615",
+      "lon": "98.204"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "5806",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "สบเมย",
+      "en": "Sop Moei",
+      "slug": "sop-moei-5806"
+    },
+    "code": {
+      "id": "5806",
+      "iso": null
+    },
+    "parent": {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "local": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son-58"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "58",
+        "level": 1,
+        "name": {
+          "local": "แม่ฮ่องสอน",
+          "en": "Mae Hong Son",
+          "slug": "mae-hong-son-58"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "18.113",
+      "lon": "98.166"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

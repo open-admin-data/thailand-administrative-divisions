@@ -1,0 +1,47 @@
+{
+  "id": "2603",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ้านนา",
+    "en": "Ban Na",
+    "slug": "ban-na-2603"
+  },
+  "code": {
+    "id": "2603",
+    "iso": null
+  },
+  "parent": {
+    "id": "26",
+    "level": 1,
+    "name": {
+      "local": "นครนายก",
+      "en": "Nakhon Nayok",
+      "slug": "nakhon-nayok-26"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "26",
+      "level": 1,
+      "name": {
+        "local": "นครนายก",
+        "en": "Nakhon Nayok",
+        "slug": "nakhon-nayok-26"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.226",
+    "lon": "101.009"
+  },
+  "metadata": {},
+  "source": {}
+}

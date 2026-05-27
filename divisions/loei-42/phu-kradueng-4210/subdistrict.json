@@ -1,0 +1,226 @@
+[
+  {
+    "id": "421010",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ห้วยส้ม",
+      "en": "Huai Som",
+      "slug": "huai-som-421010"
+    },
+    "code": {
+      "id": "421010",
+      "iso": null
+    },
+    "parent": {
+      "id": "4210",
+      "level": 2,
+      "name": {
+        "local": "ภูกระดึง",
+        "en": "Phu Kradueng",
+        "slug": "phu-kradueng-4210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "เลย",
+          "en": "Loei",
+          "slug": "loei-42"
+        }
+      },
+      {
+        "id": "4210",
+        "level": 2,
+        "name": {
+          "local": "ภูกระดึง",
+          "en": "Phu Kradueng",
+          "slug": "phu-kradueng-4210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42180"
+    ],
+    "geo": {
+      "lat": "16.937",
+      "lon": "101.939"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "421005",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ผานกเค้า",
+      "en": "Pha Nok Khao",
+      "slug": "pha-nok-khao-421005"
+    },
+    "code": {
+      "id": "421005",
+      "iso": null
+    },
+    "parent": {
+      "id": "4210",
+      "level": 2,
+      "name": {
+        "local": "ภูกระดึง",
+        "en": "Phu Kradueng",
+        "slug": "phu-kradueng-4210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "เลย",
+          "en": "Loei",
+          "slug": "loei-42"
+        }
+      },
+      {
+        "id": "4210",
+        "level": 2,
+        "name": {
+          "local": "ภูกระดึง",
+          "en": "Phu Kradueng",
+          "slug": "phu-kradueng-4210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42180"
+    ],
+    "geo": {
+      "lat": "16.896",
+      "lon": "101.986"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "421007",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ภูกระดึง",
+      "en": "Phu Kradueng",
+      "slug": "phu-kradueng-421007"
+    },
+    "code": {
+      "id": "421007",
+      "iso": null
+    },
+    "parent": {
+      "id": "4210",
+      "level": 2,
+      "name": {
+        "local": "ภูกระดึง",
+        "en": "Phu Kradueng",
+        "slug": "phu-kradueng-4210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "เลย",
+          "en": "Loei",
+          "slug": "loei-42"
+        }
+      },
+      {
+        "id": "4210",
+        "level": 2,
+        "name": {
+          "local": "ภูกระดึง",
+          "en": "Phu Kradueng",
+          "slug": "phu-kradueng-4210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42180"
+    ],
+    "geo": {
+      "lat": "16.971",
+      "lon": "101.85"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "421001",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ศรีฐาน",
+      "en": "Si Than",
+      "slug": "si-than-421001"
+    },
+    "code": {
+      "id": "421001",
+      "iso": null
+    },
+    "parent": {
+      "id": "4210",
+      "level": 2,
+      "name": {
+        "local": "ภูกระดึง",
+        "en": "Phu Kradueng",
+        "slug": "phu-kradueng-4210"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "42",
+        "level": 1,
+        "name": {
+          "local": "เลย",
+          "en": "Loei",
+          "slug": "loei-42"
+        }
+      },
+      {
+        "id": "4210",
+        "level": 2,
+        "name": {
+          "local": "ภูกระดึง",
+          "en": "Phu Kradueng",
+          "slug": "phu-kradueng-4210"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "42180"
+    ],
+    "geo": {
+      "lat": "16.88",
+      "lon": "101.771"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

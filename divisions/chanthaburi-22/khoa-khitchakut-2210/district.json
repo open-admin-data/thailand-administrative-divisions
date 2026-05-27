@@ -1,0 +1,47 @@
+{
+  "id": "2210",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เขาคิชฌกูฏ",
+    "en": "Khoa Khitchakut",
+    "slug": "khoa-khitchakut-2210"
+  },
+  "code": {
+    "id": "2210",
+    "iso": null
+  },
+  "parent": {
+    "id": "22",
+    "level": 1,
+    "name": {
+      "local": "จันทบุรี",
+      "en": "Chanthaburi",
+      "slug": "chanthaburi-22"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "22",
+      "level": 1,
+      "name": {
+        "local": "จันทบุรี",
+        "en": "Chanthaburi",
+        "slug": "chanthaburi-22"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.765",
+    "lon": "102.101"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,170 @@
+[
+  {
+    "id": "402302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านโคก",
+      "en": "Ban Khok",
+      "slug": "ban-khok-402302"
+    },
+    "code": {
+      "id": "402302",
+      "iso": null
+    },
+    "parent": {
+      "id": "4023",
+      "level": 2,
+      "name": {
+        "local": "หนองนาคำ",
+        "en": "Nong Na Kham",
+        "slug": "nong-na-kham-4023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen-40"
+        }
+      },
+      {
+        "id": "4023",
+        "level": 2,
+        "name": {
+          "local": "หนองนาคำ",
+          "en": "Nong Na Kham",
+          "slug": "nong-na-kham-4023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40150"
+    ],
+    "geo": {
+      "lat": "16.791",
+      "lon": "102.335"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "402303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ขนวน",
+      "en": "Khanuan",
+      "slug": "khanuan-402303"
+    },
+    "code": {
+      "id": "402303",
+      "iso": null
+    },
+    "parent": {
+      "id": "4023",
+      "level": 2,
+      "name": {
+        "local": "หนองนาคำ",
+        "en": "Nong Na Kham",
+        "slug": "nong-na-kham-4023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen-40"
+        }
+      },
+      {
+        "id": "4023",
+        "level": 2,
+        "name": {
+          "local": "หนองนาคำ",
+          "en": "Nong Na Kham",
+          "slug": "nong-na-kham-4023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40150"
+    ],
+    "geo": {
+      "lat": "16.774",
+      "lon": "102.387"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "402301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กุดธาตุ",
+      "en": "Kut That",
+      "slug": "kut-that-402301"
+    },
+    "code": {
+      "id": "402301",
+      "iso": null
+    },
+    "parent": {
+      "id": "4023",
+      "level": 2,
+      "name": {
+        "local": "หนองนาคำ",
+        "en": "Nong Na Kham",
+        "slug": "nong-na-kham-4023"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "40",
+        "level": 1,
+        "name": {
+          "local": "ขอนแก่น",
+          "en": "Khon Kaen",
+          "slug": "khon-kaen-40"
+        }
+      },
+      {
+        "id": "4023",
+        "level": 2,
+        "name": {
+          "local": "หนองนาคำ",
+          "en": "Nong Na Kham",
+          "slug": "nong-na-kham-4023"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "40150"
+    ],
+    "geo": {
+      "lat": "16.834",
+      "lon": "102.308"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "4203",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เชียงคาน",
+    "en": "Chiang Khan",
+    "slug": "chiang-khan-4203"
+  },
+  "code": {
+    "id": "4203",
+    "iso": null
+  },
+  "parent": {
+    "id": "42",
+    "level": 1,
+    "name": {
+      "local": "เลย",
+      "en": "Loei",
+      "slug": "loei-42"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "42",
+      "level": 1,
+      "name": {
+        "local": "เลย",
+        "en": "Loei",
+        "slug": "loei-42"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.763",
+    "lon": "101.735"
+  },
+  "metadata": {},
+  "source": {}
+}

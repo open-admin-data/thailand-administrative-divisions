@@ -1,0 +1,47 @@
+{
+  "id": "3404",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เขื่องใน",
+    "en": "Khueang Nai",
+    "slug": "khueang-nai-3404"
+  },
+  "code": {
+    "id": "3404",
+    "iso": null
+  },
+  "parent": {
+    "id": "34",
+    "level": 1,
+    "name": {
+      "local": "อุบลราชธานี",
+      "en": "Ubon Ratchathani",
+      "slug": "ubon-ratchathani-34"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "34",
+      "level": 1,
+      "name": {
+        "local": "อุบลราชธานี",
+        "en": "Ubon Ratchathani",
+        "slug": "ubon-ratchathani-34"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.489",
+    "lon": "104.464"
+  },
+  "metadata": {},
+  "source": {}
+}

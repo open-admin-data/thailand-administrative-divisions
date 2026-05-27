@@ -1,0 +1,47 @@
+{
+  "id": "2011",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เกาะจันทร์",
+    "en": "Ko Chan",
+    "slug": "ko-chan-2011"
+  },
+  "code": {
+    "id": "2011",
+    "iso": null
+  },
+  "parent": {
+    "id": "20",
+    "level": 1,
+    "name": {
+      "local": "ชลบุรี",
+      "en": "Chon Buri",
+      "slug": "chon-buri-20"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "20",
+      "level": 1,
+      "name": {
+        "local": "ชลบุรี",
+        "en": "Chon Buri",
+        "slug": "chon-buri-20"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.389",
+    "lon": "101.288"
+  },
+  "metadata": {},
+  "source": {}
+}

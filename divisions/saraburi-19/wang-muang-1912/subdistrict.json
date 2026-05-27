@@ -1,0 +1,170 @@
+[
+  {
+    "id": "191202",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คำพราน",
+      "en": "Kham Phran",
+      "slug": "kham-phran-191202"
+    },
+    "code": {
+      "id": "191202",
+      "iso": null
+    },
+    "parent": {
+      "id": "1912",
+      "level": 2,
+      "name": {
+        "local": "วังม่วง",
+        "en": "Wang Muang",
+        "slug": "wang-muang-1912"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1912",
+        "level": 2,
+        "name": {
+          "local": "วังม่วง",
+          "en": "Wang Muang",
+          "slug": "wang-muang-1912"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18220"
+    ],
+    "geo": {
+      "lat": "14.818",
+      "lon": "101.132"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "191201",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แสลงพัน",
+      "en": "Salaeng Phan",
+      "slug": "salaeng-phan-191201"
+    },
+    "code": {
+      "id": "191201",
+      "iso": null
+    },
+    "parent": {
+      "id": "1912",
+      "level": 2,
+      "name": {
+        "local": "วังม่วง",
+        "en": "Wang Muang",
+        "slug": "wang-muang-1912"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1912",
+        "level": 2,
+        "name": {
+          "local": "วังม่วง",
+          "en": "Wang Muang",
+          "slug": "wang-muang-1912"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18220"
+    ],
+    "geo": {
+      "lat": "14.745",
+      "lon": "101.116"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "191203",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังม่วง",
+      "en": "Wang Muang",
+      "slug": "wang-muang-191203"
+    },
+    "code": {
+      "id": "191203",
+      "iso": null
+    },
+    "parent": {
+      "id": "1912",
+      "level": 2,
+      "name": {
+        "local": "วังม่วง",
+        "en": "Wang Muang",
+        "slug": "wang-muang-1912"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1912",
+        "level": 2,
+        "name": {
+          "local": "วังม่วง",
+          "en": "Wang Muang",
+          "slug": "wang-muang-1912"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18220"
+    ],
+    "geo": {
+      "lat": "14.861",
+      "lon": "101.151"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

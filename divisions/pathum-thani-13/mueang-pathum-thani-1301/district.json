@@ -1,0 +1,47 @@
+{
+  "id": "1301",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองปทุมธานี",
+    "en": "Mueang Pathum Thani",
+    "slug": "mueang-pathum-thani-1301"
+  },
+  "code": {
+    "id": "1301",
+    "iso": null
+  },
+  "parent": {
+    "id": "13",
+    "level": 1,
+    "name": {
+      "local": "ปทุมธานี",
+      "en": "Pathum Thani",
+      "slug": "pathum-thani-13"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "13",
+      "level": 1,
+      "name": {
+        "local": "ปทุมธานี",
+        "en": "Pathum Thani",
+        "slug": "pathum-thani-13"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.031",
+    "lon": "100.552"
+  },
+  "metadata": {},
+  "source": {}
+}

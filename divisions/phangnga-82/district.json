@@ -1,0 +1,378 @@
+[
+  {
+    "id": "8203",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "กะปง",
+      "en": "Kapong",
+      "slug": "kapong-8203"
+    },
+    "code": {
+      "id": "8203",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga-82"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 5
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.713",
+      "lon": "98.419"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8206",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "คุระบุรี",
+      "en": "Khura Buri",
+      "slug": "khura-buri-8206"
+    },
+    "code": {
+      "id": "8206",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga-82"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 4
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "9.406",
+      "lon": "97.901"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8202",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "เกาะยาว",
+      "en": "Ko Yao",
+      "slug": "ko-yao-8202"
+    },
+    "code": {
+      "id": "8202",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga-82"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.892",
+      "lon": "98.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8201",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "เมืองพังงา",
+      "en": "Mueang Phang-nga",
+      "slug": "mueang-phang-nga-8201"
+    },
+    "code": {
+      "id": "8201",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga-82"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 9
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.446",
+      "lon": "98.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8205",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ตะกั่วป่า",
+      "en": "Takua Pa",
+      "slug": "takua-pa-8205"
+    },
+    "code": {
+      "id": "8205",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga-82"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 8
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.829",
+      "lon": "98.362"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8204",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ตะกั่วทุ่ง",
+      "en": "Takua Thung",
+      "slug": "takua-thung-8204"
+    },
+    "code": {
+      "id": "8204",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga-82"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.409",
+      "lon": "98.412"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8208",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ท้ายเหมือง",
+      "en": "Thai Mueang",
+      "slug": "thai-mueang-8208"
+    },
+    "code": {
+      "id": "8208",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga-82"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.344",
+      "lon": "98.303"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8207",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ทับปุด",
+      "en": "Thap Put",
+      "slug": "thap-put-8207"
+    },
+    "code": {
+      "id": "8207",
+      "iso": null
+    },
+    "parent": {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga-82"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "82",
+        "level": 1,
+        "name": {
+          "local": "พังงา",
+          "en": "Phangnga",
+          "slug": "phangnga-82"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.543",
+      "lon": "98.664"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

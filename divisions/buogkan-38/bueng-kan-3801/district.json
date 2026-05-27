@@ -1,0 +1,47 @@
+{
+  "id": "3801",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บึงกาฬ",
+    "en": "Bueng Kan",
+    "slug": "bueng-kan-3801"
+  },
+  "code": {
+    "id": "3801",
+    "iso": null
+  },
+  "parent": {
+    "id": "38",
+    "level": 1,
+    "name": {
+      "local": "บึงกาฬ",
+      "en": "Buogkan",
+      "slug": "buogkan-38"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan-38"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 12
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.332",
+    "lon": "103.531"
+  },
+  "metadata": {},
+  "source": {}
+}

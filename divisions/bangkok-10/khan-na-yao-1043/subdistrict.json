@@ -1,0 +1,58 @@
+[
+  {
+    "id": "104301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คันนายาว",
+      "en": "Khan Na Yao",
+      "slug": "khan-na-yao-104301"
+    },
+    "code": {
+      "id": "104301",
+      "iso": null
+    },
+    "parent": {
+      "id": "1043",
+      "level": 2,
+      "name": {
+        "local": "คันนายาว",
+        "en": "Khan Na Yao",
+        "slug": "khan-na-yao-1043"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1043",
+        "level": 2,
+        "name": {
+          "local": "คันนายาว",
+          "en": "Khan Na Yao",
+          "slug": "khan-na-yao-1043"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10230"
+    ],
+    "geo": {
+      "lat": "13.821",
+      "lon": "100.677"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

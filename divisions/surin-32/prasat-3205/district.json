@@ -1,0 +1,47 @@
+{
+  "id": "3205",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ปราสาท",
+    "en": "Prasat",
+    "slug": "prasat-3205"
+  },
+  "code": {
+    "id": "3205",
+    "iso": null
+  },
+  "parent": {
+    "id": "32",
+    "level": 1,
+    "name": {
+      "local": "สุรินทร์",
+      "en": "Surin",
+      "slug": "surin-32"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "32",
+      "level": 1,
+      "name": {
+        "local": "สุรินทร์",
+        "en": "Surin",
+        "slug": "surin-32"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.688",
+    "lon": "103.377"
+  },
+  "metadata": {},
+  "source": {}
+}

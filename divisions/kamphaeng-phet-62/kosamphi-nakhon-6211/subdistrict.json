@@ -1,0 +1,170 @@
+[
+  {
+    "id": "621101",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โกสัมพี",
+      "en": "Kosamphi",
+      "slug": "kosamphi-621101"
+    },
+    "code": {
+      "id": "621101",
+      "iso": null
+    },
+    "parent": {
+      "id": "6211",
+      "level": 2,
+      "name": {
+        "local": "โกสัมพีนคร",
+        "en": "Kosamphi Nakhon",
+        "slug": "kosamphi-nakhon-6211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "กำแพงเพชร",
+          "en": "Kamphaeng Phet",
+          "slug": "kamphaeng-phet-62"
+        }
+      },
+      {
+        "id": "6211",
+        "level": 2,
+        "name": {
+          "local": "โกสัมพีนคร",
+          "en": "Kosamphi Nakhon",
+          "slug": "kosamphi-nakhon-6211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62000"
+    ],
+    "geo": {
+      "lat": "16.501",
+      "lon": "99.215"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "621103",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ลานดอกไม้ตก",
+      "en": "Lan Dokmai Tok",
+      "slug": "lan-dokmai-tok-621103"
+    },
+    "code": {
+      "id": "621103",
+      "iso": null
+    },
+    "parent": {
+      "id": "6211",
+      "level": 2,
+      "name": {
+        "local": "โกสัมพีนคร",
+        "en": "Kosamphi Nakhon",
+        "slug": "kosamphi-nakhon-6211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "กำแพงเพชร",
+          "en": "Kamphaeng Phet",
+          "slug": "kamphaeng-phet-62"
+        }
+      },
+      {
+        "id": "6211",
+        "level": 2,
+        "name": {
+          "local": "โกสัมพีนคร",
+          "en": "Kosamphi Nakhon",
+          "slug": "kosamphi-nakhon-6211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62000"
+    ],
+    "geo": {
+      "lat": "16.581",
+      "lon": "99.429"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "621102",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เพชรชมภู",
+      "en": "Phet Chomphu",
+      "slug": "phet-chomphu-621102"
+    },
+    "code": {
+      "id": "621102",
+      "iso": null
+    },
+    "parent": {
+      "id": "6211",
+      "level": 2,
+      "name": {
+        "local": "โกสัมพีนคร",
+        "en": "Kosamphi Nakhon",
+        "slug": "kosamphi-nakhon-6211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "กำแพงเพชร",
+          "en": "Kamphaeng Phet",
+          "slug": "kamphaeng-phet-62"
+        }
+      },
+      {
+        "id": "6211",
+        "level": 2,
+        "name": {
+          "local": "โกสัมพีนคร",
+          "en": "Kosamphi Nakhon",
+          "slug": "kosamphi-nakhon-6211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62000"
+    ],
+    "geo": {
+      "lat": "16.58",
+      "lon": "99.361"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

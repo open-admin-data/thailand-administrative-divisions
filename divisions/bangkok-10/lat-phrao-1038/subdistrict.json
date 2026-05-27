@@ -1,0 +1,114 @@
+[
+  {
+    "id": "103802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "จรเข้บัว",
+      "en": "Chorakhe Bua",
+      "slug": "chorakhe-bua-103802"
+    },
+    "code": {
+      "id": "103802",
+      "iso": null
+    },
+    "parent": {
+      "id": "1038",
+      "level": 2,
+      "name": {
+        "local": "ลาดพร้าว",
+        "en": "Lat Phrao",
+        "slug": "lat-phrao-1038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1038",
+        "level": 2,
+        "name": {
+          "local": "ลาดพร้าว",
+          "en": "Lat Phrao",
+          "slug": "lat-phrao-1038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10230"
+    ],
+    "geo": {
+      "lat": "13.84",
+      "lon": "100.6"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "103801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ลาดพร้าว",
+      "en": "Lat Phrao",
+      "slug": "lat-phrao-103801"
+    },
+    "code": {
+      "id": "103801",
+      "iso": null
+    },
+    "parent": {
+      "id": "1038",
+      "level": 2,
+      "name": {
+        "local": "ลาดพร้าว",
+        "en": "Lat Phrao",
+        "slug": "lat-phrao-1038"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1038",
+        "level": 2,
+        "name": {
+          "local": "ลาดพร้าว",
+          "en": "Lat Phrao",
+          "slug": "lat-phrao-1038"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10230"
+    ],
+    "geo": {
+      "lat": "13.811",
+      "lon": "100.612"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

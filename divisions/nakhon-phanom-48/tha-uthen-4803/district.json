@@ -1,0 +1,47 @@
+{
+  "id": "4803",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ท่าอุเทน",
+    "en": "Tha Uthen",
+    "slug": "tha-uthen-4803"
+  },
+  "code": {
+    "id": "4803",
+    "iso": null
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "local": "นครพนม",
+      "en": "Nakhon Phanom",
+      "slug": "nakhon-phanom-48"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom-48"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.576",
+    "lon": "104.591"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "5503",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ้านหลวง",
+    "en": "Ban Luang",
+    "slug": "ban-luang-5503"
+  },
+  "code": {
+    "id": "5503",
+    "iso": null
+  },
+  "parent": {
+    "id": "55",
+    "level": 1,
+    "name": {
+      "local": "น่าน",
+      "en": "Nan",
+      "slug": "nan-55"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "local": "น่าน",
+        "en": "Nan",
+        "slug": "nan-55"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.858",
+    "lon": "100.405"
+  },
+  "metadata": {},
+  "source": {}
+}

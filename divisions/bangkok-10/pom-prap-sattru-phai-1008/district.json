@@ -1,0 +1,47 @@
+{
+  "id": "1008",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ป้อมปราบศัตรูพ่าย",
+    "en": "Pom Prap Sattru Phai",
+    "slug": "pom-prap-sattru-phai-1008"
+  },
+  "code": {
+    "id": "1008",
+    "iso": null
+  },
+  "parent": {
+    "id": "10",
+    "level": 1,
+    "name": {
+      "local": "กรุงเทพมหานคร",
+      "en": "Bangkok",
+      "slug": "bangkok-10"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "10",
+      "level": 1,
+      "name": {
+        "local": "กรุงเทพมหานคร",
+        "en": "Bangkok",
+        "slug": "bangkok-10"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.752",
+    "lon": "100.507"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,842 @@
+[
+  {
+    "id": "210308",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านนา",
+      "en": "Ban Na",
+      "slug": "ban-na-210308"
+    },
+    "code": {
+      "id": "210308",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "แกลง",
+          "en": "Klaeng",
+          "slug": "klaeng-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21110"
+    ],
+    "geo": {
+      "lat": "12.846",
+      "lon": "101.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ชากโดน",
+      "en": "Chak Don",
+      "slug": "chak-don-210303"
+    },
+    "code": {
+      "id": "210303",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "แกลง",
+          "en": "Klaeng",
+          "slug": "klaeng-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21110"
+    ],
+    "geo": {
+      "lat": "12.7",
+      "lon": "101.604"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210306",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ชากพง",
+      "en": "Chak Phong",
+      "slug": "chak-phong-210306"
+    },
+    "code": {
+      "id": "210306",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "แกลง",
+          "en": "Klaeng",
+          "slug": "klaeng-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21190"
+    ],
+    "geo": {
+      "lat": "12.668",
+      "lon": "101.549"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210317",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ห้วยยาง",
+      "en": "Huai Yang",
+      "slug": "huai-yang-210317"
+    },
+    "code": {
+      "id": "210317",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "แกลง",
+          "en": "Klaeng",
+          "slug": "klaeng-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21110"
+    ],
+    "geo": {
+      "lat": "12.812",
+      "lon": "101.533"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210311",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองปูน",
+      "en": "Khlong Pun",
+      "slug": "khlong-pun-210311"
+    },
+    "code": {
+      "id": "210311",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "แกลง",
+          "en": "Klaeng",
+          "slug": "klaeng-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21170"
+    ],
+    "geo": {
+      "lat": "12.765",
+      "lon": "101.75"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210310",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กองดิน",
+      "en": "Kong Din",
+      "slug": "kong-din-210310"
+    },
+    "code": {
+      "id": "210310",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "แกลง",
+          "en": "Klaeng",
+          "slug": "klaeng-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "22160"
+    ],
+    "geo": {
+      "lat": "12.815",
+      "lon": "101.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210305",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กร่ำ",
+      "en": "Kram",
+      "slug": "kram-210305"
+    },
+    "code": {
+      "id": "210305",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "แกลง",
+          "en": "Klaeng",
+          "slug": "klaeng-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21190"
+    ],
+    "geo": {
+      "lat": "12.668",
+      "lon": "101.631"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210307",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กระแสบน",
+      "en": "Krasae Bon",
+      "slug": "krasae-bon-210307"
+    },
+    "code": {
+      "id": "210307",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "แกลง",
+          "en": "Klaeng",
+          "slug": "klaeng-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21110"
+    ],
+    "geo": {
+      "lat": "12.871",
+      "lon": "101.611"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210304",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เนินฆ้อ",
+      "en": "Noen Kho",
+      "slug": "noen-kho-210304"
+    },
+    "code": {
+      "id": "210304",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "แกลง",
+          "en": "Klaeng",
+          "slug": "klaeng-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21110"
+    ],
+    "geo": {
+      "lat": "12.704",
+      "lon": "101.678"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210313",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปากน้ำกระแส",
+      "en": "Pak Nam Krasae",
+      "slug": "pak-nam-krasae-210313"
+    },
+    "code": {
+      "id": "210313",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "แกลง",
+          "en": "Klaeng",
+          "slug": "klaeng-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21170"
+    ],
+    "geo": {
+      "lat": "12.717",
+      "lon": "101.709"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210312",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "พังราด",
+      "en": "Phang Rat",
+      "slug": "phang-rat-210312"
+    },
+    "code": {
+      "id": "210312",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "แกลง",
+          "en": "Klaeng",
+          "slug": "klaeng-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21110"
+    ],
+    "geo": {
+      "lat": "12.729",
+      "lon": "101.772"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210318",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สองสลึง",
+      "en": "Song Salueng",
+      "slug": "song-salueng-210318"
+    },
+    "code": {
+      "id": "210318",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "แกลง",
+          "en": "Klaeng",
+          "slug": "klaeng-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21110"
+    ],
+    "geo": {
+      "lat": "12.743",
+      "lon": "101.548"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทางเกวียน",
+      "en": "Thang Kwian",
+      "slug": "thang-kwian-210301"
+    },
+    "code": {
+      "id": "210301",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "แกลง",
+          "en": "Klaeng",
+          "slug": "klaeng-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21110"
+    ],
+    "geo": {
+      "lat": "12.807",
+      "lon": "101.625"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210309",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งควายกิน",
+      "en": "Thung Khwai Kin",
+      "slug": "thung-khwai-kin-210309"
+    },
+    "code": {
+      "id": "210309",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "แกลง",
+          "en": "Klaeng",
+          "slug": "klaeng-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21110"
+    ],
+    "geo": {
+      "lat": "12.808",
+      "lon": "101.733"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "210302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังหว้า",
+      "en": "Wang Wa",
+      "slug": "wang-wa-210302"
+    },
+    "code": {
+      "id": "210302",
+      "iso": null
+    },
+    "parent": {
+      "id": "2103",
+      "level": 2,
+      "name": {
+        "local": "แกลง",
+        "en": "Klaeng",
+        "slug": "klaeng-2103"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "21",
+        "level": 1,
+        "name": {
+          "local": "ระยอง",
+          "en": "Rayong",
+          "slug": "rayong-21"
+        }
+      },
+      {
+        "id": "2103",
+        "level": 2,
+        "name": {
+          "local": "แกลง",
+          "en": "Klaeng",
+          "slug": "klaeng-2103"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "21110"
+    ],
+    "geo": {
+      "lat": "12.763",
+      "lon": "101.624"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

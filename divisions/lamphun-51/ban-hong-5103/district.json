@@ -1,0 +1,47 @@
+{
+  "id": "5103",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ้านโฮ่ง",
+    "en": "Ban Hong",
+    "slug": "ban-hong-5103"
+  },
+  "code": {
+    "id": "5103",
+    "iso": null
+  },
+  "parent": {
+    "id": "51",
+    "level": 1,
+    "name": {
+      "local": "ลำพูน",
+      "en": "Lamphun",
+      "slug": "lamphun-51"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "51",
+      "level": 1,
+      "name": {
+        "local": "ลำพูน",
+        "en": "Lamphun",
+        "slug": "lamphun-51"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.383",
+    "lon": "98.75"
+  },
+  "metadata": {},
+  "source": {}
+}

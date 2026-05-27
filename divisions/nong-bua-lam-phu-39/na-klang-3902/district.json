@@ -1,0 +1,47 @@
+{
+  "id": "3902",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "นากลาง",
+    "en": "Na Klang",
+    "slug": "na-klang-3902"
+  },
+  "code": {
+    "id": "3902",
+    "iso": null
+  },
+  "parent": {
+    "id": "39",
+    "level": 1,
+    "name": {
+      "local": "หนองบัวลำภู",
+      "en": "Nong Bua Lam Phu",
+      "slug": "nong-bua-lam-phu-39"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "39",
+      "level": 1,
+      "name": {
+        "local": "หนองบัวลำภู",
+        "en": "Nong Bua Lam Phu",
+        "slug": "nong-bua-lam-phu-39"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.181",
+    "lon": "102.154"
+  },
+  "metadata": {},
+  "source": {}
+}

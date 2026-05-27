@@ -1,0 +1,47 @@
+{
+  "id": "4806",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เรณูนคร",
+    "en": "Renu Nakhon",
+    "slug": "renu-nakhon-4806"
+  },
+  "code": {
+    "id": "4806",
+    "iso": null
+  },
+  "parent": {
+    "id": "48",
+    "level": 1,
+    "name": {
+      "local": "นครพนม",
+      "en": "Nakhon Phanom",
+      "slug": "nakhon-phanom-48"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "48",
+      "level": 1,
+      "name": {
+        "local": "นครพนม",
+        "en": "Nakhon Phanom",
+        "slug": "nakhon-phanom-48"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.019",
+    "lon": "104.698"
+  },
+  "metadata": {},
+  "source": {}
+}

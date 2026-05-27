@@ -1,0 +1,114 @@
+[
+  {
+    "id": "104102",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตลาดบางเขน",
+      "en": "Talat Bang Khen",
+      "slug": "talat-bang-khen-104102"
+    },
+    "code": {
+      "id": "104102",
+      "iso": null
+    },
+    "parent": {
+      "id": "1041",
+      "level": 2,
+      "name": {
+        "local": "หลักสี่",
+        "en": "Lak Si",
+        "slug": "lak-si-1041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1041",
+        "level": 2,
+        "name": {
+          "local": "หลักสี่",
+          "en": "Lak Si",
+          "slug": "lak-si-1041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10210"
+    ],
+    "geo": {
+      "lat": "13.871",
+      "lon": "100.58"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "104101",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งสองห้อง",
+      "en": "Thung Song Hong",
+      "slug": "thung-song-hong-104101"
+    },
+    "code": {
+      "id": "104101",
+      "iso": null
+    },
+    "parent": {
+      "id": "1041",
+      "level": 2,
+      "name": {
+        "local": "หลักสี่",
+        "en": "Lak Si",
+        "slug": "lak-si-1041"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1041",
+        "level": 2,
+        "name": {
+          "local": "หลักสี่",
+          "en": "Lak Si",
+          "slug": "lak-si-1041"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10210"
+    ],
+    "geo": {
+      "lat": "13.883",
+      "lon": "100.564"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

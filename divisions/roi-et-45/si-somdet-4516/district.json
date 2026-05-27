@@ -1,0 +1,47 @@
+{
+  "id": "4516",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ศรีสมเด็จ",
+    "en": "Si Somdet",
+    "slug": "si-somdet-4516"
+  },
+  "code": {
+    "id": "4516",
+    "iso": null
+  },
+  "parent": {
+    "id": "45",
+    "level": 1,
+    "name": {
+      "local": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et-45"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "local": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et-45"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.973",
+    "lon": "103.535"
+  },
+  "metadata": {},
+  "source": {}
+}

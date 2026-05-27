@@ -1,0 +1,47 @@
+{
+  "id": "1501",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองอ่างทอง",
+    "en": "Mueang Ang Thong",
+    "slug": "mueang-ang-thong-1501"
+  },
+  "code": {
+    "id": "1501",
+    "iso": null
+  },
+  "parent": {
+    "id": "15",
+    "level": 1,
+    "name": {
+      "local": "อ่างทอง",
+      "en": "Ang Thong",
+      "slug": "ang-thong-15"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "15",
+      "level": 1,
+      "name": {
+        "local": "อ่างทอง",
+        "en": "Ang Thong",
+        "slug": "ang-thong-15"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.588",
+    "lon": "100.459"
+  },
+  "metadata": {},
+  "source": {}
+}

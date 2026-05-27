@@ -1,0 +1,47 @@
+{
+  "id": "8001",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองนครศรีธรรมราช",
+    "en": "Mueang Nakhon Si Thammarat",
+    "slug": "mueang-nakhon-si-thammarat-8001"
+  },
+  "code": {
+    "id": "8001",
+    "iso": null
+  },
+  "parent": {
+    "id": "80",
+    "level": 1,
+    "name": {
+      "local": "นครศรีธรรมราช",
+      "en": "Nakhon Si Thammarat",
+      "slug": "nakhon-si-thammarat-80"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "80",
+      "level": 1,
+      "name": {
+        "local": "นครศรีธรรมราช",
+        "en": "Nakhon Si Thammarat",
+        "slug": "nakhon-si-thammarat-80"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 16
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.434",
+    "lon": "99.966"
+  },
+  "metadata": {},
+  "source": {}
+}

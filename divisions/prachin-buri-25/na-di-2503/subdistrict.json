@@ -1,0 +1,338 @@
+[
+  {
+    "id": "250306",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บุพราหมณ์",
+      "en": "Bu Phram",
+      "slug": "bu-phram-250306"
+    },
+    "code": {
+      "id": "250306",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "นาดี",
+        "en": "Na Di",
+        "slug": "na-di-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ปราจีนบุรี",
+          "en": "Prachin Buri",
+          "slug": "prachin-buri-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "นาดี",
+          "en": "Na Di",
+          "slug": "na-di-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25220"
+    ],
+    "geo": {
+      "lat": "14.268",
+      "lon": "101.872"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250305",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แก่งดินสอ",
+      "en": "Kaeng Dinso",
+      "slug": "kaeng-dinso-250305"
+    },
+    "code": {
+      "id": "250305",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "นาดี",
+        "en": "Na Di",
+        "slug": "na-di-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ปราจีนบุรี",
+          "en": "Prachin Buri",
+          "slug": "prachin-buri-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "นาดี",
+          "en": "Na Di",
+          "slug": "na-di-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25220"
+    ],
+    "geo": {
+      "lat": "14.095",
+      "lon": "101.984"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาดี",
+      "en": "Na Di",
+      "slug": "na-di-250301"
+    },
+    "code": {
+      "id": "250301",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "นาดี",
+        "en": "Na Di",
+        "slug": "na-di-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ปราจีนบุรี",
+          "en": "Prachin Buri",
+          "slug": "prachin-buri-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "นาดี",
+          "en": "Na Di",
+          "slug": "na-di-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25220"
+    ],
+    "geo": {
+      "lat": "14.189",
+      "lon": "101.792"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สำพันตา",
+      "en": "Samphan Ta",
+      "slug": "samphan-ta-250302"
+    },
+    "code": {
+      "id": "250302",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "นาดี",
+        "en": "Na Di",
+        "slug": "na-di-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ปราจีนบุรี",
+          "en": "Prachin Buri",
+          "slug": "prachin-buri-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "นาดี",
+          "en": "Na Di",
+          "slug": "na-di-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25220"
+    ],
+    "geo": {
+      "lat": "14.081",
+      "lon": "101.766"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สะพานหิน",
+      "en": "Saphan Hin",
+      "slug": "saphan-hin-250303"
+    },
+    "code": {
+      "id": "250303",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "นาดี",
+        "en": "Na Di",
+        "slug": "na-di-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ปราจีนบุรี",
+          "en": "Prachin Buri",
+          "slug": "prachin-buri-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "นาดี",
+          "en": "Na Di",
+          "slug": "na-di-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25220"
+    ],
+    "geo": {
+      "lat": "14.152",
+      "lon": "101.665"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "250304",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งโพธิ์",
+      "en": "Thung Pho",
+      "slug": "thung-pho-250304"
+    },
+    "code": {
+      "id": "250304",
+      "iso": null
+    },
+    "parent": {
+      "id": "2503",
+      "level": 2,
+      "name": {
+        "local": "นาดี",
+        "en": "Na Di",
+        "slug": "na-di-2503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "25",
+        "level": 1,
+        "name": {
+          "local": "ปราจีนบุรี",
+          "en": "Prachin Buri",
+          "slug": "prachin-buri-25"
+        }
+      },
+      {
+        "id": "2503",
+        "level": 2,
+        "name": {
+          "local": "นาดี",
+          "en": "Na Di",
+          "slug": "na-di-2503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "25220"
+    ],
+    "geo": {
+      "lat": "14.141",
+      "lon": "101.889"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

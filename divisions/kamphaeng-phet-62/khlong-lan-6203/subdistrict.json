@@ -1,0 +1,226 @@
+[
+  {
+    "id": "620303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองลานพัฒนา",
+      "en": "Khlong Lan Phatthana",
+      "slug": "khlong-lan-phatthana-620303"
+    },
+    "code": {
+      "id": "620303",
+      "iso": null
+    },
+    "parent": {
+      "id": "6203",
+      "level": 2,
+      "name": {
+        "local": "คลองลาน",
+        "en": "Khlong Lan",
+        "slug": "khlong-lan-6203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "กำแพงเพชร",
+          "en": "Kamphaeng Phet",
+          "slug": "kamphaeng-phet-62"
+        }
+      },
+      {
+        "id": "6203",
+        "level": 2,
+        "name": {
+          "local": "คลองลาน",
+          "en": "Khlong Lan",
+          "slug": "khlong-lan-6203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62180"
+    ],
+    "geo": {
+      "lat": "16.096",
+      "lon": "99.252"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "620301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองน้ำไหล",
+      "en": "Khlong Nam Lai",
+      "slug": "khlong-nam-lai-620301"
+    },
+    "code": {
+      "id": "620301",
+      "iso": null
+    },
+    "parent": {
+      "id": "6203",
+      "level": 2,
+      "name": {
+        "local": "คลองลาน",
+        "en": "Khlong Lan",
+        "slug": "khlong-lan-6203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "กำแพงเพชร",
+          "en": "Kamphaeng Phet",
+          "slug": "kamphaeng-phet-62"
+        }
+      },
+      {
+        "id": "6203",
+        "level": 2,
+        "name": {
+          "local": "คลองลาน",
+          "en": "Khlong Lan",
+          "slug": "khlong-lan-6203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62180"
+    ],
+    "geo": {
+      "lat": "16.157",
+      "lon": "99.144"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "620302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โป่งน้ำร้อน",
+      "en": "Pong Nam Ron",
+      "slug": "pong-nam-ron-620302"
+    },
+    "code": {
+      "id": "620302",
+      "iso": null
+    },
+    "parent": {
+      "id": "6203",
+      "level": 2,
+      "name": {
+        "local": "คลองลาน",
+        "en": "Khlong Lan",
+        "slug": "khlong-lan-6203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "กำแพงเพชร",
+          "en": "Kamphaeng Phet",
+          "slug": "kamphaeng-phet-62"
+        }
+      },
+      {
+        "id": "6203",
+        "level": 2,
+        "name": {
+          "local": "คลองลาน",
+          "en": "Khlong Lan",
+          "slug": "khlong-lan-6203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62180"
+    ],
+    "geo": {
+      "lat": "16.389",
+      "lon": "99.258"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "620304",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สักงาม",
+      "en": "Sak Ngam",
+      "slug": "sak-ngam-620304"
+    },
+    "code": {
+      "id": "620304",
+      "iso": null
+    },
+    "parent": {
+      "id": "6203",
+      "level": 2,
+      "name": {
+        "local": "คลองลาน",
+        "en": "Khlong Lan",
+        "slug": "khlong-lan-6203"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "62",
+        "level": 1,
+        "name": {
+          "local": "กำแพงเพชร",
+          "en": "Kamphaeng Phet",
+          "slug": "kamphaeng-phet-62"
+        }
+      },
+      {
+        "id": "6203",
+        "level": 2,
+        "name": {
+          "local": "คลองลาน",
+          "en": "Khlong Lan",
+          "slug": "khlong-lan-6203"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "62180"
+    ],
+    "geo": {
+      "lat": "16.324",
+      "lon": "99.348"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

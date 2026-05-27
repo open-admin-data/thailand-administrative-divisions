@@ -1,0 +1,47 @@
+{
+  "id": "6605",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บางมูลนาก",
+    "en": "Bang Mun Nak",
+    "slug": "bang-mun-nak-6605"
+  },
+  "code": {
+    "id": "6605",
+    "iso": null
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "local": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit-66"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit-66"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.033",
+    "lon": "100.479"
+  },
+  "metadata": {},
+  "source": {}
+}

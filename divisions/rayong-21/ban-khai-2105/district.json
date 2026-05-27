@@ -1,0 +1,47 @@
+{
+  "id": "2105",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ้านค่าย",
+    "en": "Ban Khai",
+    "slug": "ban-khai-2105"
+  },
+  "code": {
+    "id": "2105",
+    "iso": null
+  },
+  "parent": {
+    "id": "21",
+    "level": 1,
+    "name": {
+      "local": "ระยอง",
+      "en": "Rayong",
+      "slug": "rayong-21"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "21",
+      "level": 1,
+      "name": {
+        "local": "ระยอง",
+        "en": "Rayong",
+        "slug": "rayong-21"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.775",
+    "lon": "101.304"
+  },
+  "metadata": {},
+  "source": {}
+}

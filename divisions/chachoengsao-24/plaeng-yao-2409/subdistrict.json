@@ -1,0 +1,226 @@
+[
+  {
+    "id": "240903",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หัวสำโรง",
+      "en": "Hua Samrong",
+      "slug": "hua-samrong-240903"
+    },
+    "code": {
+      "id": "240903",
+      "iso": null
+    },
+    "parent": {
+      "id": "2409",
+      "level": 2,
+      "name": {
+        "local": "แปลงยาว",
+        "en": "Plaeng Yao",
+        "slug": "plaeng-yao-2409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao-24"
+        }
+      },
+      {
+        "id": "2409",
+        "level": 2,
+        "name": {
+          "local": "แปลงยาว",
+          "en": "Plaeng Yao",
+          "slug": "plaeng-yao-2409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24190"
+    ],
+    "geo": {
+      "lat": "13.624",
+      "lon": "101.315"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "240904",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองไม้แก่น",
+      "en": "Nong Mai Kaen",
+      "slug": "nong-mai-kaen-240904"
+    },
+    "code": {
+      "id": "240904",
+      "iso": null
+    },
+    "parent": {
+      "id": "2409",
+      "level": 2,
+      "name": {
+        "local": "แปลงยาว",
+        "en": "Plaeng Yao",
+        "slug": "plaeng-yao-2409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao-24"
+        }
+      },
+      {
+        "id": "2409",
+        "level": 2,
+        "name": {
+          "local": "แปลงยาว",
+          "en": "Plaeng Yao",
+          "slug": "plaeng-yao-2409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24190"
+    ],
+    "geo": {
+      "lat": "13.504",
+      "lon": "101.404"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "240901",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แปลงยาว",
+      "en": "Plaeng Yao",
+      "slug": "plaeng-yao-240901"
+    },
+    "code": {
+      "id": "240901",
+      "iso": null
+    },
+    "parent": {
+      "id": "2409",
+      "level": 2,
+      "name": {
+        "local": "แปลงยาว",
+        "en": "Plaeng Yao",
+        "slug": "plaeng-yao-2409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao-24"
+        }
+      },
+      {
+        "id": "2409",
+        "level": 2,
+        "name": {
+          "local": "แปลงยาว",
+          "en": "Plaeng Yao",
+          "slug": "plaeng-yao-2409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24190"
+    ],
+    "geo": {
+      "lat": "13.599",
+      "lon": "101.293"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "240902",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังเย็น",
+      "en": "Wang Yen",
+      "slug": "wang-yen-240902"
+    },
+    "code": {
+      "id": "240902",
+      "iso": null
+    },
+    "parent": {
+      "id": "2409",
+      "level": 2,
+      "name": {
+        "local": "แปลงยาว",
+        "en": "Plaeng Yao",
+        "slug": "plaeng-yao-2409"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "24",
+        "level": 1,
+        "name": {
+          "local": "ฉะเชิงเทรา",
+          "en": "Chachoengsao",
+          "slug": "chachoengsao-24"
+        }
+      },
+      {
+        "id": "2409",
+        "level": 2,
+        "name": {
+          "local": "แปลงยาว",
+          "en": "Plaeng Yao",
+          "slug": "plaeng-yao-2409"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "24190"
+    ],
+    "geo": {
+      "lat": "13.536",
+      "lon": "101.334"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

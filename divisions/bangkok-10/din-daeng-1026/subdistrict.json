@@ -1,0 +1,58 @@
+[
+  {
+    "id": "102601",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดินแดง",
+      "en": "Din Daeng",
+      "slug": "din-daeng-102601"
+    },
+    "code": {
+      "id": "102601",
+      "iso": null
+    },
+    "parent": {
+      "id": "1026",
+      "level": 2,
+      "name": {
+        "local": "ดินแดง",
+        "en": "Din Daeng",
+        "slug": "din-daeng-1026"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1026",
+        "level": 2,
+        "name": {
+          "local": "ดินแดง",
+          "en": "Din Daeng",
+          "slug": "din-daeng-1026"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10400"
+    ],
+    "geo": {
+      "lat": "13.778",
+      "lon": "100.567"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "3506",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "มหาชนะชัย",
+    "en": "Maha Chana Chai",
+    "slug": "maha-chana-chai-3506"
+  },
+  "code": {
+    "id": "3506",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "ยโสธร",
+      "en": "Yasothon",
+      "slug": "yasothon-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon-35"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.552",
+    "lon": "104.329"
+  },
+  "metadata": {},
+  "source": {}
+}

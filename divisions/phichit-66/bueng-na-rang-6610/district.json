@@ -1,0 +1,47 @@
+{
+  "id": "6610",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บึงนาราง",
+    "en": "Bueng Na Rang",
+    "slug": "bueng-na-rang-6610"
+  },
+  "code": {
+    "id": "6610",
+    "iso": null
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "local": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit-66"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit-66"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.208",
+    "lon": "100.231"
+  },
+  "metadata": {},
+  "source": {}
+}

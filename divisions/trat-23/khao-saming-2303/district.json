@@ -1,0 +1,47 @@
+{
+  "id": "2303",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เขาสมิง",
+    "en": "Khao Saming",
+    "slug": "khao-saming-2303"
+  },
+  "code": {
+    "id": "2303",
+    "iso": null
+  },
+  "parent": {
+    "id": "23",
+    "level": 1,
+    "name": {
+      "local": "ตราด",
+      "en": "Trat",
+      "slug": "trat-23"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "23",
+      "level": 1,
+      "name": {
+        "local": "ตราด",
+        "en": "Trat",
+        "slug": "trat-23"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "12.469",
+    "lon": "102.435"
+  },
+  "metadata": {},
+  "source": {}
+}

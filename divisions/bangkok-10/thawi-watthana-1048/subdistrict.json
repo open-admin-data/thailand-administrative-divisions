@@ -1,0 +1,114 @@
+[
+  {
+    "id": "104802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ศาลาธรรมสพน์",
+      "en": "Sala Thammasop",
+      "slug": "sala-thammasop-104802"
+    },
+    "code": {
+      "id": "104802",
+      "iso": null
+    },
+    "parent": {
+      "id": "1048",
+      "level": 2,
+      "name": {
+        "local": "ทวีวัฒนา",
+        "en": "Thawi Watthana",
+        "slug": "thawi-watthana-1048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1048",
+        "level": 2,
+        "name": {
+          "local": "ทวีวัฒนา",
+          "en": "Thawi Watthana",
+          "slug": "thawi-watthana-1048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10170"
+    ],
+    "geo": {
+      "lat": "13.783",
+      "lon": "100.39"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "104801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทวีวัฒนา",
+      "en": "Thawi Watthana",
+      "slug": "thawi-watthana-104801"
+    },
+    "code": {
+      "id": "104801",
+      "iso": null
+    },
+    "parent": {
+      "id": "1048",
+      "level": 2,
+      "name": {
+        "local": "ทวีวัฒนา",
+        "en": "Thawi Watthana",
+        "slug": "thawi-watthana-1048"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1048",
+        "level": 2,
+        "name": {
+          "local": "ทวีวัฒนา",
+          "en": "Thawi Watthana",
+          "slug": "thawi-watthana-1048"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10170"
+    ],
+    "geo": {
+      "lat": "13.758",
+      "lon": "100.348"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

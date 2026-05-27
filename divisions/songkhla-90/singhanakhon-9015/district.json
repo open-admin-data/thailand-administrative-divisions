@@ -1,0 +1,47 @@
+{
+  "id": "9015",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สิงหนคร",
+    "en": "Singhanakhon",
+    "slug": "singhanakhon-9015"
+  },
+  "code": {
+    "id": "9015",
+    "iso": null
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "local": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla-90"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.214",
+    "lon": "100.567"
+  },
+  "metadata": {},
+  "source": {}
+}

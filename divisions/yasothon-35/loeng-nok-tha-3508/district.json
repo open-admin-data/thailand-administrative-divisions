@@ -1,0 +1,47 @@
+{
+  "id": "3508",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เลิงนกทา",
+    "en": "Loeng Nok Tha",
+    "slug": "loeng-nok-tha-3508"
+  },
+  "code": {
+    "id": "3508",
+    "iso": null
+  },
+  "parent": {
+    "id": "35",
+    "level": 1,
+    "name": {
+      "local": "ยโสธร",
+      "en": "Yasothon",
+      "slug": "yasothon-35"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "35",
+      "level": 1,
+      "name": {
+        "local": "ยโสธร",
+        "en": "Yasothon",
+        "slug": "yasothon-35"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 10
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.095",
+    "lon": "104.506"
+  },
+  "metadata": {},
+  "source": {}
+}

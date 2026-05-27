@@ -1,0 +1,47 @@
+{
+  "id": "5025",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "กัลยาณิวัฒนา",
+    "en": "Galyani Vadhana",
+    "slug": "galyani-vadhana-5025"
+  },
+  "code": {
+    "id": "5025",
+    "iso": null
+  },
+  "parent": {
+    "id": "50",
+    "level": 1,
+    "name": {
+      "local": "เชียงใหม่",
+      "en": "Chiang Mai",
+      "slug": "chiang-mai-50"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "50",
+      "level": 1,
+      "name": {
+        "local": "เชียงใหม่",
+        "en": "Chiang Mai",
+        "slug": "chiang-mai-50"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.936",
+    "lon": "98.38"
+  },
+  "metadata": {},
+  "source": {}
+}

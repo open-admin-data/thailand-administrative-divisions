@@ -1,0 +1,170 @@
+[
+  {
+    "id": "103103",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางโคล่",
+      "en": "Bang Khlo",
+      "slug": "bang-khlo-103103"
+    },
+    "code": {
+      "id": "103103",
+      "iso": null
+    },
+    "parent": {
+      "id": "1031",
+      "level": 2,
+      "name": {
+        "local": "บางคอแหลม",
+        "en": "Bang Kho Laem",
+        "slug": "bang-kho-laem-1031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1031",
+        "level": 2,
+        "name": {
+          "local": "บางคอแหลม",
+          "en": "Bang Kho Laem",
+          "slug": "bang-kho-laem-1031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10120"
+    ],
+    "geo": {
+      "lat": "13.694",
+      "lon": "100.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "103101",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางคอแหลม",
+      "en": "Bang Kho Laem",
+      "slug": "bang-kho-laem-103101"
+    },
+    "code": {
+      "id": "103101",
+      "iso": null
+    },
+    "parent": {
+      "id": "1031",
+      "level": 2,
+      "name": {
+        "local": "บางคอแหลม",
+        "en": "Bang Kho Laem",
+        "slug": "bang-kho-laem-1031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1031",
+        "level": 2,
+        "name": {
+          "local": "บางคอแหลม",
+          "en": "Bang Kho Laem",
+          "slug": "bang-kho-laem-1031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10120"
+    ],
+    "geo": {
+      "lat": "13.696",
+      "lon": "100.494"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "103102",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วัดพระยาไกร",
+      "en": "Wat Phraya Krai",
+      "slug": "wat-phraya-krai-103102"
+    },
+    "code": {
+      "id": "103102",
+      "iso": null
+    },
+    "parent": {
+      "id": "1031",
+      "level": 2,
+      "name": {
+        "local": "บางคอแหลม",
+        "en": "Bang Kho Laem",
+        "slug": "bang-kho-laem-1031"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1031",
+        "level": 2,
+        "name": {
+          "local": "บางคอแหลม",
+          "en": "Bang Kho Laem",
+          "slug": "bang-kho-laem-1031"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10120"
+    ],
+    "geo": {
+      "lat": "13.706",
+      "lon": "100.508"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

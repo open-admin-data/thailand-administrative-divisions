@@ -1,0 +1,143 @@
+[
+  {
+    "id": "8302",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "กะทู้",
+      "en": "Kathu",
+      "slug": "kathu-8302"
+    },
+    "code": {
+      "id": "8302",
+      "iso": null
+    },
+    "parent": {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "local": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket-83"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "83",
+        "level": 1,
+        "name": {
+          "local": "ภูเก็ต",
+          "en": "Phuket",
+          "slug": "phuket-83"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 3
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.945",
+      "lon": "98.289"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8301",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "เมืองภูเก็ต",
+      "en": "Mueang Phuket",
+      "slug": "mueang-phuket-8301"
+    },
+    "code": {
+      "id": "8301",
+      "iso": null
+    },
+    "parent": {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "local": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket-83"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "83",
+        "level": 1,
+        "name": {
+          "local": "ภูเก็ต",
+          "en": "Phuket",
+          "slug": "phuket-83"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 7
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "7.924",
+      "lon": "98.455"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "8303",
+    "level": 2,
+    "level_name": {
+      "local": "อำเภอ",
+      "en": "District"
+    },
+    "name": {
+      "local": "ถลาง",
+      "en": "Thalang",
+      "slug": "thalang-8303"
+    },
+    "code": {
+      "id": "8303",
+      "iso": null
+    },
+    "parent": {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "local": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket-83"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "83",
+        "level": 1,
+        "name": {
+          "local": "ภูเก็ต",
+          "en": "Phuket",
+          "slug": "phuket-83"
+        }
+      }
+    ],
+    "children_count": {
+      "subdistrict": 6
+    },
+    "zip_codes": [],
+    "geo": {
+      "lat": "8.116",
+      "lon": "98.425"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

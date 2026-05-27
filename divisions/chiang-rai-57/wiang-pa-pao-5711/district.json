@@ -1,0 +1,47 @@
+{
+  "id": "5711",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เวียงป่าเป้า",
+    "en": "Wiang Pa Pao",
+    "slug": "wiang-pa-pao-5711"
+  },
+  "code": {
+    "id": "5711",
+    "iso": null
+  },
+  "parent": {
+    "id": "57",
+    "level": 1,
+    "name": {
+      "local": "เชียงราย",
+      "en": "Chiang Rai",
+      "slug": "chiang-rai-57"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "57",
+      "level": 1,
+      "name": {
+        "local": "เชียงราย",
+        "en": "Chiang Rai",
+        "slug": "chiang-rai-57"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 7
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.241",
+    "lon": "99.525"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,506 @@
+[
+  {
+    "id": "901009",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เขามีเกียรติ",
+      "en": "Khao Mi Kiat",
+      "slug": "khao-mi-kiat-901009"
+    },
+    "code": {
+      "id": "901009",
+      "iso": null
+    },
+    "parent": {
+      "id": "9010",
+      "level": 2,
+      "name": {
+        "local": "สะเดา",
+        "en": "Sadao",
+        "slug": "sadao-9010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9010",
+        "level": 2,
+        "name": {
+          "local": "สะเดา",
+          "en": "Sadao",
+          "slug": "sadao-9010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90170"
+    ],
+    "geo": {
+      "lat": "6.774",
+      "lon": "100.524"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901007",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปาดังเบซาร์",
+      "en": "Padang Besa",
+      "slug": "padang-besa-901007"
+    },
+    "code": {
+      "id": "901007",
+      "iso": null
+    },
+    "parent": {
+      "id": "9010",
+      "level": 2,
+      "name": {
+        "local": "สะเดา",
+        "en": "Sadao",
+        "slug": "sadao-9010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9010",
+        "level": 2,
+        "name": {
+          "local": "สะเดา",
+          "en": "Sadao",
+          "slug": "sadao-9010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90240"
+    ],
+    "geo": {
+      "lat": "6.74",
+      "lon": "100.241"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901003",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "พังลา",
+      "en": "Phang La",
+      "slug": "phang-la-901003"
+    },
+    "code": {
+      "id": "901003",
+      "iso": null
+    },
+    "parent": {
+      "id": "9010",
+      "level": 2,
+      "name": {
+        "local": "สะเดา",
+        "en": "Sadao",
+        "slug": "sadao-9010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9010",
+        "level": 2,
+        "name": {
+          "local": "สะเดา",
+          "en": "Sadao",
+          "slug": "sadao-9010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90170"
+    ],
+    "geo": {
+      "lat": "6.773",
+      "lon": "100.464"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901002",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปริก",
+      "en": "Prik",
+      "slug": "prik-901002"
+    },
+    "code": {
+      "id": "901002",
+      "iso": null
+    },
+    "parent": {
+      "id": "9010",
+      "level": 2,
+      "name": {
+        "local": "สะเดา",
+        "en": "Sadao",
+        "slug": "sadao-9010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9010",
+        "level": 2,
+        "name": {
+          "local": "สะเดา",
+          "en": "Sadao",
+          "slug": "sadao-9010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90120"
+    ],
+    "geo": {
+      "lat": "6.694",
+      "lon": "100.473"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901001",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สะเดา",
+      "en": "Sadao",
+      "slug": "sadao-901001"
+    },
+    "code": {
+      "id": "901001",
+      "iso": null
+    },
+    "parent": {
+      "id": "9010",
+      "level": 2,
+      "name": {
+        "local": "สะเดา",
+        "en": "Sadao",
+        "slug": "sadao-9010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9010",
+        "level": 2,
+        "name": {
+          "local": "สะเดา",
+          "en": "Sadao",
+          "slug": "sadao-9010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90120"
+    ],
+    "geo": {
+      "lat": "6.636",
+      "lon": "100.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901008",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สำนักขาม",
+      "en": "Samnak Kham",
+      "slug": "samnak-kham-901008"
+    },
+    "code": {
+      "id": "901008",
+      "iso": null
+    },
+    "parent": {
+      "id": "9010",
+      "level": 2,
+      "name": {
+        "local": "สะเดา",
+        "en": "Sadao",
+        "slug": "sadao-9010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9010",
+        "level": 2,
+        "name": {
+          "local": "สะเดา",
+          "en": "Sadao",
+          "slug": "sadao-9010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90320"
+    ],
+    "geo": {
+      "lat": "6.584",
+      "lon": "100.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901004",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สำนักแต้ว",
+      "en": "Samnak Taeo",
+      "slug": "samnak-taeo-901004"
+    },
+    "code": {
+      "id": "901004",
+      "iso": null
+    },
+    "parent": {
+      "id": "9010",
+      "level": 2,
+      "name": {
+        "local": "สะเดา",
+        "en": "Sadao",
+        "slug": "sadao-9010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9010",
+        "level": 2,
+        "name": {
+          "local": "สะเดา",
+          "en": "Sadao",
+          "slug": "sadao-9010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90120"
+    ],
+    "geo": {
+      "lat": "6.567",
+      "lon": "100.516"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901006",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าโพธิ์",
+      "en": "Tha Pho",
+      "slug": "tha-pho-901006"
+    },
+    "code": {
+      "id": "901006",
+      "iso": null
+    },
+    "parent": {
+      "id": "9010",
+      "level": 2,
+      "name": {
+        "local": "สะเดา",
+        "en": "Sadao",
+        "slug": "sadao-9010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9010",
+        "level": 2,
+        "name": {
+          "local": "สะเดา",
+          "en": "Sadao",
+          "slug": "sadao-9010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90170"
+    ],
+    "geo": {
+      "lat": "6.796",
+      "lon": "100.416"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "901005",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งหมอ",
+      "en": "Thung Mo",
+      "slug": "thung-mo-901005"
+    },
+    "code": {
+      "id": "901005",
+      "iso": null
+    },
+    "parent": {
+      "id": "9010",
+      "level": 2,
+      "name": {
+        "local": "สะเดา",
+        "en": "Sadao",
+        "slug": "sadao-9010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "90",
+        "level": 1,
+        "name": {
+          "local": "สงขลา",
+          "en": "Songkhla",
+          "slug": "songkhla-90"
+        }
+      },
+      {
+        "id": "9010",
+        "level": 2,
+        "name": {
+          "local": "สะเดา",
+          "en": "Sadao",
+          "slug": "sadao-9010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "90240"
+    ],
+    "geo": {
+      "lat": "6.745",
+      "lon": "100.378"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

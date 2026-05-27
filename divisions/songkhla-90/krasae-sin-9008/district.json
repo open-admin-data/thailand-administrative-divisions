@@ -1,0 +1,47 @@
+{
+  "id": "9008",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "กระแสสินธุ์",
+    "en": "Krasae Sin",
+    "slug": "krasae-sin-9008"
+  },
+  "code": {
+    "id": "9008",
+    "iso": null
+  },
+  "parent": {
+    "id": "90",
+    "level": 1,
+    "name": {
+      "local": "สงขลา",
+      "en": "Songkhla",
+      "slug": "songkhla-90"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "90",
+      "level": 1,
+      "name": {
+        "local": "สงขลา",
+        "en": "Songkhla",
+        "slug": "songkhla-90"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "7.561",
+    "lon": "100.356"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "1703",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ค่ายบางระจัน",
+    "en": "Khai Bang Rachan",
+    "slug": "khai-bang-rachan-1703"
+  },
+  "code": {
+    "id": "1703",
+    "iso": null
+  },
+  "parent": {
+    "id": "17",
+    "level": 1,
+    "name": {
+      "local": "สิงห์บุรี",
+      "en": "Sing Buri",
+      "slug": "sing-buri-17"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "17",
+      "level": 1,
+      "name": {
+        "local": "สิงห์บุรี",
+        "en": "Sing Buri",
+        "slug": "sing-buri-17"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.827",
+    "lon": "100.368"
+  },
+  "metadata": {},
+  "source": {}
+}

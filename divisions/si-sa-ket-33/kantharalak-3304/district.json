@@ -1,0 +1,47 @@
+{
+  "id": "3304",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "กันทรลักษ์",
+    "en": "Kantharalak",
+    "slug": "kantharalak-3304"
+  },
+  "code": {
+    "id": "3304",
+    "iso": null
+  },
+  "parent": {
+    "id": "33",
+    "level": 1,
+    "name": {
+      "local": "ศรีสะเกษ",
+      "en": "Si Sa Ket",
+      "slug": "si-sa-ket-33"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "33",
+      "level": 1,
+      "name": {
+        "local": "ศรีสะเกษ",
+        "en": "Si Sa Ket",
+        "slug": "si-sa-ket-33"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 20
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.66",
+    "lon": "104.657"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "711103",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "จรเข้เผือก",
+      "en": "Chorakhe Phueak",
+      "slug": "chorakhe-phueak-711103"
+    },
+    "code": {
+      "id": "711103",
+      "iso": null
+    },
+    "parent": {
+      "id": "7111",
+      "level": 2,
+      "name": {
+        "local": "ด่านมะขามเตี้ย",
+        "en": "Dan Makham Tia",
+        "slug": "dan-makham-tia-7111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      },
+      {
+        "id": "7111",
+        "level": 2,
+        "name": {
+          "local": "ด่านมะขามเตี้ย",
+          "en": "Dan Makham Tia",
+          "slug": "dan-makham-tia-7111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "71260"
+    ],
+    "geo": {
+      "lat": "13.811",
+      "lon": "99.21"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "711101",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ด่านมะขามเตี้ย",
+      "en": "Dan Makham Tia",
+      "slug": "dan-makham-tia-711101"
+    },
+    "code": {
+      "id": "711101",
+      "iso": null
+    },
+    "parent": {
+      "id": "7111",
+      "level": 2,
+      "name": {
+        "local": "ด่านมะขามเตี้ย",
+        "en": "Dan Makham Tia",
+        "slug": "dan-makham-tia-7111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      },
+      {
+        "id": "7111",
+        "level": 2,
+        "name": {
+          "local": "ด่านมะขามเตี้ย",
+          "en": "Dan Makham Tia",
+          "slug": "dan-makham-tia-7111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "71260"
+    ],
+    "geo": {
+      "lat": "13.836",
+      "lon": "99.388"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "711102",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กลอนโด",
+      "en": "Klondo",
+      "slug": "klondo-711102"
+    },
+    "code": {
+      "id": "711102",
+      "iso": null
+    },
+    "parent": {
+      "id": "7111",
+      "level": 2,
+      "name": {
+        "local": "ด่านมะขามเตี้ย",
+        "en": "Dan Makham Tia",
+        "slug": "dan-makham-tia-7111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      },
+      {
+        "id": "7111",
+        "level": 2,
+        "name": {
+          "local": "ด่านมะขามเตี้ย",
+          "en": "Dan Makham Tia",
+          "slug": "dan-makham-tia-7111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "71260"
+    ],
+    "geo": {
+      "lat": "13.88",
+      "lon": "99.44"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "711104",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองไผ่",
+      "en": "Nong Phai",
+      "slug": "nong-phai-711104"
+    },
+    "code": {
+      "id": "711104",
+      "iso": null
+    },
+    "parent": {
+      "id": "7111",
+      "level": 2,
+      "name": {
+        "local": "ด่านมะขามเตี้ย",
+        "en": "Dan Makham Tia",
+        "slug": "dan-makham-tia-7111"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "71",
+        "level": 1,
+        "name": {
+          "local": "กาญจนบุรี",
+          "en": "Kanchanaburi",
+          "slug": "kanchanaburi-71"
+        }
+      },
+      {
+        "id": "7111",
+        "level": 2,
+        "name": {
+          "local": "ด่านมะขามเตี้ย",
+          "en": "Dan Makham Tia",
+          "slug": "dan-makham-tia-7111"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "71260"
+    ],
+    "geo": {
+      "lat": "13.808",
+      "lon": "99.44"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

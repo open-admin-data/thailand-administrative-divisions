@@ -1,0 +1,226 @@
+[
+  {
+    "id": "521103",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่กัวะ",
+      "en": "Mae Kua",
+      "slug": "mae-kua-521103"
+    },
+    "code": {
+      "id": "521103",
+      "iso": null
+    },
+    "parent": {
+      "id": "5211",
+      "level": 2,
+      "name": {
+        "local": "สบปราบ",
+        "en": "Sop Prap",
+        "slug": "sop-prap-5211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5211",
+        "level": 2,
+        "name": {
+          "local": "สบปราบ",
+          "en": "Sop Prap",
+          "slug": "sop-prap-5211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52170"
+    ],
+    "geo": {
+      "lat": "17.956",
+      "lon": "99.353"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "521104",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นายาง",
+      "en": "Na Yang",
+      "slug": "na-yang-521104"
+    },
+    "code": {
+      "id": "521104",
+      "iso": null
+    },
+    "parent": {
+      "id": "5211",
+      "level": 2,
+      "name": {
+        "local": "สบปราบ",
+        "en": "Sop Prap",
+        "slug": "sop-prap-5211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5211",
+        "level": 2,
+        "name": {
+          "local": "สบปราบ",
+          "en": "Sop Prap",
+          "slug": "sop-prap-5211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52170"
+    ],
+    "geo": {
+      "lat": "17.904",
+      "lon": "99.266"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "521102",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สมัย",
+      "en": "Samai",
+      "slug": "samai-521102"
+    },
+    "code": {
+      "id": "521102",
+      "iso": null
+    },
+    "parent": {
+      "id": "5211",
+      "level": 2,
+      "name": {
+        "local": "สบปราบ",
+        "en": "Sop Prap",
+        "slug": "sop-prap-5211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5211",
+        "level": 2,
+        "name": {
+          "local": "สบปราบ",
+          "en": "Sop Prap",
+          "slug": "sop-prap-5211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52170"
+    ],
+    "geo": {
+      "lat": "17.9",
+      "lon": "99.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "521101",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สบปราบ",
+      "en": "Sop Prap",
+      "slug": "sop-prap-521101"
+    },
+    "code": {
+      "id": "521101",
+      "iso": null
+    },
+    "parent": {
+      "id": "5211",
+      "level": 2,
+      "name": {
+        "local": "สบปราบ",
+        "en": "Sop Prap",
+        "slug": "sop-prap-5211"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "52",
+        "level": 1,
+        "name": {
+          "local": "ลำปาง",
+          "en": "Lampang",
+          "slug": "lampang-52"
+        }
+      },
+      {
+        "id": "5211",
+        "level": 2,
+        "name": {
+          "local": "สบปราบ",
+          "en": "Sop Prap",
+          "slug": "sop-prap-5211"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "52170"
+    ],
+    "geo": {
+      "lat": "17.835",
+      "lon": "99.344"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

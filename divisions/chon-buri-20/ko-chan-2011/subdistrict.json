@@ -1,0 +1,114 @@
+[
+  {
+    "id": "201101",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เกาะจันทร์",
+      "en": "Ko Chan",
+      "slug": "ko-chan-201101"
+    },
+    "code": {
+      "id": "201101",
+      "iso": null
+    },
+    "parent": {
+      "id": "2011",
+      "level": 2,
+      "name": {
+        "local": "เกาะจันทร์",
+        "en": "Ko Chan",
+        "slug": "ko-chan-2011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri-20"
+        }
+      },
+      {
+        "id": "2011",
+        "level": 2,
+        "name": {
+          "local": "เกาะจันทร์",
+          "en": "Ko Chan",
+          "slug": "ko-chan-2011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20240"
+    ],
+    "geo": {
+      "lat": "13.403",
+      "lon": "101.421"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "201102",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าบุญมี",
+      "en": "Tha Bun Mi",
+      "slug": "tha-bun-mi-201102"
+    },
+    "code": {
+      "id": "201102",
+      "iso": null
+    },
+    "parent": {
+      "id": "2011",
+      "level": 2,
+      "name": {
+        "local": "เกาะจันทร์",
+        "en": "Ko Chan",
+        "slug": "ko-chan-2011"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "20",
+        "level": 1,
+        "name": {
+          "local": "ชลบุรี",
+          "en": "Chon Buri",
+          "slug": "chon-buri-20"
+        }
+      },
+      {
+        "id": "2011",
+        "level": 2,
+        "name": {
+          "local": "เกาะจันทร์",
+          "en": "Ko Chan",
+          "slug": "ko-chan-2011"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "20240"
+    ],
+    "geo": {
+      "lat": "13.389",
+      "lon": "101.288"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

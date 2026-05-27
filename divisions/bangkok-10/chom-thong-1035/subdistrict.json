@@ -1,0 +1,226 @@
+[
+  {
+    "id": "103502",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางค้อ",
+      "en": "Bang Kho",
+      "slug": "bang-kho-103502"
+    },
+    "code": {
+      "id": "103502",
+      "iso": null
+    },
+    "parent": {
+      "id": "1035",
+      "level": 2,
+      "name": {
+        "local": "จอมทอง",
+        "en": "Chom Thong",
+        "slug": "chom-thong-1035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1035",
+        "level": 2,
+        "name": {
+          "local": "จอมทอง",
+          "en": "Chom Thong",
+          "slug": "chom-thong-1035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10150"
+    ],
+    "geo": {
+      "lat": "13.702",
+      "lon": "100.476"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "103501",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางขุนเทียน",
+      "en": "Bang Khun Thian",
+      "slug": "bang-khun-thian-103501"
+    },
+    "code": {
+      "id": "103501",
+      "iso": null
+    },
+    "parent": {
+      "id": "1035",
+      "level": 2,
+      "name": {
+        "local": "จอมทอง",
+        "en": "Chom Thong",
+        "slug": "chom-thong-1035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1035",
+        "level": 2,
+        "name": {
+          "local": "จอมทอง",
+          "en": "Chom Thong",
+          "slug": "chom-thong-1035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10150"
+    ],
+    "geo": {
+      "lat": "13.694",
+      "lon": "100.45"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "103503",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางมด",
+      "en": "Bang Mot",
+      "slug": "bang-mot-103503"
+    },
+    "code": {
+      "id": "103503",
+      "iso": null
+    },
+    "parent": {
+      "id": "1035",
+      "level": 2,
+      "name": {
+        "local": "จอมทอง",
+        "en": "Chom Thong",
+        "slug": "chom-thong-1035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1035",
+        "level": 2,
+        "name": {
+          "local": "จอมทอง",
+          "en": "Chom Thong",
+          "slug": "chom-thong-1035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10150"
+    ],
+    "geo": {
+      "lat": "13.672",
+      "lon": "100.468"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "103504",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "จอมทอง",
+      "en": "Chom Thong",
+      "slug": "chom-thong-103504"
+    },
+    "code": {
+      "id": "103504",
+      "iso": null
+    },
+    "parent": {
+      "id": "1035",
+      "level": 2,
+      "name": {
+        "local": "จอมทอง",
+        "en": "Chom Thong",
+        "slug": "chom-thong-1035"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1035",
+        "level": 2,
+        "name": {
+          "local": "จอมทอง",
+          "en": "Chom Thong",
+          "slug": "chom-thong-1035"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10150"
+    ],
+    "geo": {
+      "lat": "13.693",
+      "lon": "100.468"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,226 @@
+[
+  {
+    "id": "101803",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางลำภูล่าง",
+      "en": "Bang Lamphu Lang",
+      "slug": "bang-lamphu-lang-101803"
+    },
+    "code": {
+      "id": "101803",
+      "iso": null
+    },
+    "parent": {
+      "id": "1018",
+      "level": 2,
+      "name": {
+        "local": "คลองสาน",
+        "en": "Khlong San",
+        "slug": "khlong-san-1018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1018",
+        "level": 2,
+        "name": {
+          "local": "คลองสาน",
+          "en": "Khlong San",
+          "slug": "khlong-san-1018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10600"
+    ],
+    "geo": {
+      "lat": "13.715",
+      "lon": "100.501"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "101802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองสาน",
+      "en": "Khlong San",
+      "slug": "khlong-san-101802"
+    },
+    "code": {
+      "id": "101802",
+      "iso": null
+    },
+    "parent": {
+      "id": "1018",
+      "level": 2,
+      "name": {
+        "local": "คลองสาน",
+        "en": "Khlong San",
+        "slug": "khlong-san-1018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1018",
+        "level": 2,
+        "name": {
+          "local": "คลองสาน",
+          "en": "Khlong San",
+          "slug": "khlong-san-1018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10600"
+    ],
+    "geo": {
+      "lat": "13.735",
+      "lon": "100.504"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "101804",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "คลองต้นไทร",
+      "en": "Khlong Ton Sai",
+      "slug": "khlong-ton-sai-101804"
+    },
+    "code": {
+      "id": "101804",
+      "iso": null
+    },
+    "parent": {
+      "id": "1018",
+      "level": 2,
+      "name": {
+        "local": "คลองสาน",
+        "en": "Khlong San",
+        "slug": "khlong-san-1018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1018",
+        "level": 2,
+        "name": {
+          "local": "คลองสาน",
+          "en": "Khlong San",
+          "slug": "khlong-san-1018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10600"
+    ],
+    "geo": {
+      "lat": "13.725",
+      "lon": "100.508"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "101801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สมเด็จเจ้าพระยา",
+      "en": "Somdet Chao Phraya",
+      "slug": "somdet-chao-phraya-101801"
+    },
+    "code": {
+      "id": "101801",
+      "iso": null
+    },
+    "parent": {
+      "id": "1018",
+      "level": 2,
+      "name": {
+        "local": "คลองสาน",
+        "en": "Khlong San",
+        "slug": "khlong-san-1018"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1018",
+        "level": 2,
+        "name": {
+          "local": "คลองสาน",
+          "en": "Khlong San",
+          "slug": "khlong-san-1018"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10600"
+    ],
+    "geo": {
+      "lat": "13.731",
+      "lon": "100.497"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

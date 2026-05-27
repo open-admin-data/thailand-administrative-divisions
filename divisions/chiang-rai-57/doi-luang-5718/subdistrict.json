@@ -1,0 +1,170 @@
+[
+  {
+    "id": "571802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โชคชัย",
+      "en": "Chok Chai",
+      "slug": "chok-chai-571802"
+    },
+    "code": {
+      "id": "571802",
+      "iso": null
+    },
+    "parent": {
+      "id": "5718",
+      "level": 2,
+      "name": {
+        "local": "ดอยหลวง",
+        "en": "Doi Luang",
+        "slug": "doi-luang-5718"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5718",
+        "level": 2,
+        "name": {
+          "local": "ดอยหลวง",
+          "en": "Doi Luang",
+          "slug": "doi-luang-5718"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57110"
+    ],
+    "geo": {
+      "lat": "20.134",
+      "lon": "100.193"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "571803",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองป่าก่อ",
+      "en": "Nong Pa Ko",
+      "slug": "nong-pa-ko-571803"
+    },
+    "code": {
+      "id": "571803",
+      "iso": null
+    },
+    "parent": {
+      "id": "5718",
+      "level": 2,
+      "name": {
+        "local": "ดอยหลวง",
+        "en": "Doi Luang",
+        "slug": "doi-luang-5718"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5718",
+        "level": 2,
+        "name": {
+          "local": "ดอยหลวง",
+          "en": "Doi Luang",
+          "slug": "doi-luang-5718"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57110"
+    ],
+    "geo": {
+      "lat": "20.181",
+      "lon": "100.124"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "571801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปงน้อย",
+      "en": "Pong Noi",
+      "slug": "pong-noi-571801"
+    },
+    "code": {
+      "id": "571801",
+      "iso": null
+    },
+    "parent": {
+      "id": "5718",
+      "level": 2,
+      "name": {
+        "local": "ดอยหลวง",
+        "en": "Doi Luang",
+        "slug": "doi-luang-5718"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5718",
+        "level": 2,
+        "name": {
+          "local": "ดอยหลวง",
+          "en": "Doi Luang",
+          "slug": "doi-luang-5718"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57110"
+    ],
+    "geo": {
+      "lat": "20.104",
+      "lon": "100.068"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

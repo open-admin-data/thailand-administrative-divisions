@@ -1,0 +1,47 @@
+{
+  "id": "3808",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บุ่งคล้า",
+    "en": "Bung Khla",
+    "slug": "bung-khla-3808"
+  },
+  "code": {
+    "id": "3808",
+    "iso": null
+  },
+  "parent": {
+    "id": "38",
+    "level": 1,
+    "name": {
+      "local": "บึงกาฬ",
+      "en": "Buogkan",
+      "slug": "buogkan-38"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "38",
+      "level": 1,
+      "name": {
+        "local": "บึงกาฬ",
+        "en": "Buogkan",
+        "slug": "buogkan-38"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.294",
+    "lon": "103.925"
+  },
+  "metadata": {},
+  "source": {}
+}

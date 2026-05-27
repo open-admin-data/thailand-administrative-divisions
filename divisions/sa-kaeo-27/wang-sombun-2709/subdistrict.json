@@ -1,0 +1,170 @@
+[
+  {
+    "id": "270902",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังใหม่",
+      "en": "Wang Mai",
+      "slug": "wang-mai-270902"
+    },
+    "code": {
+      "id": "270902",
+      "iso": null
+    },
+    "parent": {
+      "id": "2709",
+      "level": 2,
+      "name": {
+        "local": "วังสมบูรณ์",
+        "en": "Wang Sombun",
+        "slug": "wang-sombun-2709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "local": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo-27"
+        }
+      },
+      {
+        "id": "2709",
+        "level": 2,
+        "name": {
+          "local": "วังสมบูรณ์",
+          "en": "Wang Sombun",
+          "slug": "wang-sombun-2709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27250"
+    ],
+    "geo": {
+      "lat": "13.413",
+      "lon": "102.039"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "270901",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังสมบูรณ์",
+      "en": "Wang Sombun",
+      "slug": "wang-sombun-270901"
+    },
+    "code": {
+      "id": "270901",
+      "iso": null
+    },
+    "parent": {
+      "id": "2709",
+      "level": 2,
+      "name": {
+        "local": "วังสมบูรณ์",
+        "en": "Wang Sombun",
+        "slug": "wang-sombun-2709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "local": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo-27"
+        }
+      },
+      {
+        "id": "2709",
+        "level": 2,
+        "name": {
+          "local": "วังสมบูรณ์",
+          "en": "Wang Sombun",
+          "slug": "wang-sombun-2709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27250"
+    ],
+    "geo": {
+      "lat": "13.344",
+      "lon": "102.207"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "270903",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "วังทอง",
+      "en": "Wang Thong",
+      "slug": "wang-thong-270903"
+    },
+    "code": {
+      "id": "270903",
+      "iso": null
+    },
+    "parent": {
+      "id": "2709",
+      "level": 2,
+      "name": {
+        "local": "วังสมบูรณ์",
+        "en": "Wang Sombun",
+        "slug": "wang-sombun-2709"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "27",
+        "level": 1,
+        "name": {
+          "local": "สระแก้ว",
+          "en": "Sa Kaeo",
+          "slug": "sa-kaeo-27"
+        }
+      },
+      {
+        "id": "2709",
+        "level": 2,
+        "name": {
+          "local": "วังสมบูรณ์",
+          "en": "Wang Sombun",
+          "slug": "wang-sombun-2709"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "27250"
+    ],
+    "geo": {
+      "lat": "13.338",
+      "lon": "102.081"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

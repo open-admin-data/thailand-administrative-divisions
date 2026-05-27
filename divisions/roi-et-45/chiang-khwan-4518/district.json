@@ -1,0 +1,47 @@
+{
+  "id": "4518",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เชียงขวัญ",
+    "en": "Chiang Khwan",
+    "slug": "chiang-khwan-4518"
+  },
+  "code": {
+    "id": "4518",
+    "iso": null
+  },
+  "parent": {
+    "id": "45",
+    "level": 1,
+    "name": {
+      "local": "ร้อยเอ็ด",
+      "en": "Roi Et",
+      "slug": "roi-et-45"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "45",
+      "level": 1,
+      "name": {
+        "local": "ร้อยเอ็ด",
+        "en": "Roi Et",
+        "slug": "roi-et-45"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.128",
+    "lon": "103.741"
+  },
+  "metadata": {},
+  "source": {}
+}

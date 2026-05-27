@@ -1,0 +1,282 @@
+[
+  {
+    "id": "850304",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านนา",
+      "en": "Ban Na",
+      "slug": "ban-na-850304"
+    },
+    "code": {
+      "id": "850304",
+      "iso": null
+    },
+    "parent": {
+      "id": "8503",
+      "level": 2,
+      "name": {
+        "local": "กะเปอร์",
+        "en": "Kapoe",
+        "slug": "kapoe-8503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "85",
+        "level": 1,
+        "name": {
+          "local": "ระนอง",
+          "en": "Ranong",
+          "slug": "ranong-85"
+        }
+      },
+      {
+        "id": "8503",
+        "level": 2,
+        "name": {
+          "local": "กะเปอร์",
+          "en": "Kapoe",
+          "slug": "kapoe-8503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85120"
+    ],
+    "geo": {
+      "lat": "9.553",
+      "lon": "98.74"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "850305",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางหิน",
+      "en": "Bang Hin",
+      "slug": "bang-hin-850305"
+    },
+    "code": {
+      "id": "850305",
+      "iso": null
+    },
+    "parent": {
+      "id": "8503",
+      "level": 2,
+      "name": {
+        "local": "กะเปอร์",
+        "en": "Kapoe",
+        "slug": "kapoe-8503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "85",
+        "level": 1,
+        "name": {
+          "local": "ระนอง",
+          "en": "Ranong",
+          "slug": "ranong-85"
+        }
+      },
+      {
+        "id": "8503",
+        "level": 2,
+        "name": {
+          "local": "กะเปอร์",
+          "en": "Kapoe",
+          "slug": "kapoe-8503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85120"
+    ],
+    "geo": {
+      "lat": "9.525",
+      "lon": "98.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "850303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เชี่ยวเหลียง",
+      "en": "Chiao Liang",
+      "slug": "chiao-liang-850303"
+    },
+    "code": {
+      "id": "850303",
+      "iso": null
+    },
+    "parent": {
+      "id": "8503",
+      "level": 2,
+      "name": {
+        "local": "กะเปอร์",
+        "en": "Kapoe",
+        "slug": "kapoe-8503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "85",
+        "level": 1,
+        "name": {
+          "local": "ระนอง",
+          "en": "Ranong",
+          "slug": "ranong-85"
+        }
+      },
+      {
+        "id": "8503",
+        "level": 2,
+        "name": {
+          "local": "กะเปอร์",
+          "en": "Kapoe",
+          "slug": "kapoe-8503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85120"
+    ],
+    "geo": {
+      "lat": "9.562",
+      "lon": "98.664"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "850302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กะเปอร์",
+      "en": "Kapoe",
+      "slug": "kapoe-850302"
+    },
+    "code": {
+      "id": "850302",
+      "iso": null
+    },
+    "parent": {
+      "id": "8503",
+      "level": 2,
+      "name": {
+        "local": "กะเปอร์",
+        "en": "Kapoe",
+        "slug": "kapoe-8503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "85",
+        "level": 1,
+        "name": {
+          "local": "ระนอง",
+          "en": "Ranong",
+          "slug": "ranong-85"
+        }
+      },
+      {
+        "id": "8503",
+        "level": 2,
+        "name": {
+          "local": "กะเปอร์",
+          "en": "Kapoe",
+          "slug": "kapoe-8503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85120"
+    ],
+    "geo": {
+      "lat": "9.623",
+      "lon": "98.621"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "850301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ม่วงกลวง",
+      "en": "Muang Kluang",
+      "slug": "muang-kluang-850301"
+    },
+    "code": {
+      "id": "850301",
+      "iso": null
+    },
+    "parent": {
+      "id": "8503",
+      "level": 2,
+      "name": {
+        "local": "กะเปอร์",
+        "en": "Kapoe",
+        "slug": "kapoe-8503"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "85",
+        "level": 1,
+        "name": {
+          "local": "ระนอง",
+          "en": "Ranong",
+          "slug": "ranong-85"
+        }
+      },
+      {
+        "id": "8503",
+        "level": 2,
+        "name": {
+          "local": "กะเปอร์",
+          "en": "Kapoe",
+          "slug": "kapoe-8503"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "85120"
+    ],
+    "geo": {
+      "lat": "9.606",
+      "lon": "98.515"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "5509",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เชียงกลาง",
+    "en": "Chiang Klang",
+    "slug": "chiang-klang-5509"
+  },
+  "code": {
+    "id": "5509",
+    "iso": null
+  },
+  "parent": {
+    "id": "55",
+    "level": 1,
+    "name": {
+      "local": "น่าน",
+      "en": "Nan",
+      "slug": "nan-55"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "local": "น่าน",
+        "en": "Nan",
+        "slug": "nan-55"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.246",
+    "lon": "100.855"
+  },
+  "metadata": {},
+  "source": {}
+}

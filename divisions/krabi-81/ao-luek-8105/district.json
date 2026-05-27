@@ -1,0 +1,47 @@
+{
+  "id": "8105",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "อ่าวลึก",
+    "en": "Ao Luek",
+    "slug": "ao-luek-8105"
+  },
+  "code": {
+    "id": "8105",
+    "iso": null
+  },
+  "parent": {
+    "id": "81",
+    "level": 1,
+    "name": {
+      "local": "กระบี่",
+      "en": "Krabi",
+      "slug": "krabi-81"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "81",
+      "level": 1,
+      "name": {
+        "local": "กระบี่",
+        "en": "Krabi",
+        "slug": "krabi-81"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 9
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.211",
+    "lon": "98.687"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "9603",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บาเจาะ",
+    "en": "Bacho",
+    "slug": "bacho-9603"
+  },
+  "code": {
+    "id": "9603",
+    "iso": null
+  },
+  "parent": {
+    "id": "96",
+    "level": 1,
+    "name": {
+      "local": "นราธิวาส",
+      "en": "Narathiwat",
+      "slug": "narathiwat-96"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "96",
+      "level": 1,
+      "name": {
+        "local": "นราธิวาส",
+        "en": "Narathiwat",
+        "slug": "narathiwat-96"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "6.545",
+    "lon": "101.625"
+  },
+  "metadata": {},
+  "source": {}
+}

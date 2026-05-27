@@ -1,0 +1,170 @@
+[
+  {
+    "id": "551302",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ชนแดน",
+      "en": "Chon Daen",
+      "slug": "chon-daen-551302"
+    },
+    "code": {
+      "id": "551302",
+      "iso": null
+    },
+    "parent": {
+      "id": "5513",
+      "level": 2,
+      "name": {
+        "local": "สองแคว",
+        "en": "Song Khwae",
+        "slug": "song-khwae-5513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5513",
+        "level": 2,
+        "name": {
+          "local": "สองแคว",
+          "en": "Song Khwae",
+          "slug": "song-khwae-5513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55160"
+    ],
+    "geo": {
+      "lat": "19.462",
+      "lon": "100.691"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "551301",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "นาไร่หลวง",
+      "en": "Na Rai Luang",
+      "slug": "na-rai-luang-551301"
+    },
+    "code": {
+      "id": "551301",
+      "iso": null
+    },
+    "parent": {
+      "id": "5513",
+      "level": 2,
+      "name": {
+        "local": "สองแคว",
+        "en": "Song Khwae",
+        "slug": "song-khwae-5513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5513",
+        "level": 2,
+        "name": {
+          "local": "สองแคว",
+          "en": "Song Khwae",
+          "slug": "song-khwae-5513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55160"
+    ],
+    "geo": {
+      "lat": "19.339",
+      "lon": "100.704"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "551303",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ยอด",
+      "en": "Yot",
+      "slug": "yot-551303"
+    },
+    "code": {
+      "id": "551303",
+      "iso": null
+    },
+    "parent": {
+      "id": "5513",
+      "level": 2,
+      "name": {
+        "local": "สองแคว",
+        "en": "Song Khwae",
+        "slug": "song-khwae-5513"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "55",
+        "level": 1,
+        "name": {
+          "local": "น่าน",
+          "en": "Nan",
+          "slug": "nan-55"
+        }
+      },
+      {
+        "id": "5513",
+        "level": 2,
+        "name": {
+          "local": "สองแคว",
+          "en": "Song Khwae",
+          "slug": "song-khwae-5513"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "55160"
+    ],
+    "geo": {
+      "lat": "19.384",
+      "lon": "100.567"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

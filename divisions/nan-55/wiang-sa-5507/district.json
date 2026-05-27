@@ -1,0 +1,47 @@
+{
+  "id": "5507",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เวียงสา",
+    "en": "Wiang Sa",
+    "slug": "wiang-sa-5507"
+  },
+  "code": {
+    "id": "5507",
+    "iso": null
+  },
+  "parent": {
+    "id": "55",
+    "level": 1,
+    "name": {
+      "local": "น่าน",
+      "en": "Nan",
+      "slug": "nan-55"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "local": "น่าน",
+        "en": "Nan",
+        "slug": "nan-55"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 17
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.679",
+    "lon": "100.837"
+  },
+  "metadata": {},
+  "source": {}
+}

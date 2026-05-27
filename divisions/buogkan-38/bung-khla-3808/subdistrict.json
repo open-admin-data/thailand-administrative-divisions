@@ -1,0 +1,170 @@
+[
+  {
+    "id": "380801",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บุ่งคล้า",
+      "en": "Bung Khla",
+      "slug": "bung-khla-380801"
+    },
+    "code": {
+      "id": "380801",
+      "iso": null
+    },
+    "parent": {
+      "id": "3808",
+      "level": 2,
+      "name": {
+        "local": "บุ่งคล้า",
+        "en": "Bung Khla",
+        "slug": "bung-khla-3808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "บึงกาฬ",
+          "en": "Buogkan",
+          "slug": "buogkan-38"
+        }
+      },
+      {
+        "id": "3808",
+        "level": 2,
+        "name": {
+          "local": "บุ่งคล้า",
+          "en": "Bung Khla",
+          "slug": "bung-khla-3808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38000"
+    ],
+    "geo": {
+      "lat": "18.252",
+      "lon": "103.962"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "380803",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โคกกว้าง",
+      "en": "Khok Kwang",
+      "slug": "khok-kwang-380803"
+    },
+    "code": {
+      "id": "380803",
+      "iso": null
+    },
+    "parent": {
+      "id": "3808",
+      "level": 2,
+      "name": {
+        "local": "บุ่งคล้า",
+        "en": "Bung Khla",
+        "slug": "bung-khla-3808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "บึงกาฬ",
+          "en": "Buogkan",
+          "slug": "buogkan-38"
+        }
+      },
+      {
+        "id": "3808",
+        "level": 2,
+        "name": {
+          "local": "บุ่งคล้า",
+          "en": "Bung Khla",
+          "slug": "bung-khla-3808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38000"
+    ],
+    "geo": {
+      "lat": "18.218",
+      "lon": "104.01"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "380802",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองเดิ่น",
+      "en": "Nong Doen",
+      "slug": "nong-doen-380802"
+    },
+    "code": {
+      "id": "380802",
+      "iso": null
+    },
+    "parent": {
+      "id": "3808",
+      "level": 2,
+      "name": {
+        "local": "บุ่งคล้า",
+        "en": "Bung Khla",
+        "slug": "bung-khla-3808"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "38",
+        "level": 1,
+        "name": {
+          "local": "บึงกาฬ",
+          "en": "Buogkan",
+          "slug": "buogkan-38"
+        }
+      },
+      {
+        "id": "3808",
+        "level": 2,
+        "name": {
+          "local": "บุ่งคล้า",
+          "en": "Bung Khla",
+          "slug": "bung-khla-3808"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "38000"
+    ],
+    "geo": {
+      "lat": "18.294",
+      "lon": "103.925"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

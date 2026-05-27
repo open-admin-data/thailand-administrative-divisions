@@ -1,0 +1,47 @@
+{
+  "id": "1806",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "หันคา",
+    "en": "Hankha",
+    "slug": "hankha-1806"
+  },
+  "code": {
+    "id": "1806",
+    "iso": null
+  },
+  "parent": {
+    "id": "18",
+    "level": 1,
+    "name": {
+      "local": "ชัยนาท",
+      "en": "Chai Nat",
+      "slug": "chai-nat-18"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "18",
+      "level": 1,
+      "name": {
+        "local": "ชัยนาท",
+        "en": "Chai Nat",
+        "slug": "chai-nat-18"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 8
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.065",
+    "lon": "100.026"
+  },
+  "metadata": {},
+  "source": {}
+}

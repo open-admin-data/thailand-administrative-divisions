@@ -1,0 +1,47 @@
+{
+  "id": "4022",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "โคกโพธิ์ไชย",
+    "en": "Khok Pho Chai",
+    "slug": "khok-pho-chai-4022"
+  },
+  "code": {
+    "id": "4022",
+    "iso": null
+  },
+  "parent": {
+    "id": "40",
+    "level": 1,
+    "name": {
+      "local": "ขอนแก่น",
+      "en": "Khon Kaen",
+      "slug": "khon-kaen-40"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "40",
+      "level": 1,
+      "name": {
+        "local": "ขอนแก่น",
+        "en": "Khon Kaen",
+        "slug": "khon-kaen-40"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.078",
+    "lon": "102.472"
+  },
+  "metadata": {},
+  "source": {}
+}

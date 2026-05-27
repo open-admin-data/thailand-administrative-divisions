@@ -1,0 +1,506 @@
+[
+  {
+    "id": "190608",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านครัว",
+      "en": "Ban Khrua",
+      "slug": "ban-khrua-190608"
+    },
+    "code": {
+      "id": "190608",
+      "iso": null
+    },
+    "parent": {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "local": "บ้านหมอ",
+        "en": "Ban Mo",
+        "slug": "ban-mo-1906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1906",
+        "level": 2,
+        "name": {
+          "local": "บ้านหมอ",
+          "en": "Ban Mo",
+          "slug": "ban-mo-1906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18270"
+    ],
+    "geo": {
+      "lat": "14.584",
+      "lon": "100.767"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190601",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านหมอ",
+      "en": "Ban Mo",
+      "slug": "ban-mo-190601"
+    },
+    "code": {
+      "id": "190601",
+      "iso": null
+    },
+    "parent": {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "local": "บ้านหมอ",
+        "en": "Ban Mo",
+        "slug": "ban-mo-1906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1906",
+        "level": 2,
+        "name": {
+          "local": "บ้านหมอ",
+          "en": "Ban Mo",
+          "slug": "ban-mo-1906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18130"
+    ],
+    "geo": {
+      "lat": "14.616",
+      "lon": "100.724"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190602",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางโขมด",
+      "en": "Bang Khamot",
+      "slug": "bang-khamot-190602"
+    },
+    "code": {
+      "id": "190602",
+      "iso": null
+    },
+    "parent": {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "local": "บ้านหมอ",
+        "en": "Ban Mo",
+        "slug": "ban-mo-1906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1906",
+        "level": 2,
+        "name": {
+          "local": "บ้านหมอ",
+          "en": "Ban Mo",
+          "slug": "ban-mo-1906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18130"
+    ],
+    "geo": {
+      "lat": "14.591",
+      "lon": "100.742"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190605",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หรเทพ",
+      "en": "Horathep",
+      "slug": "horathep-190605"
+    },
+    "code": {
+      "id": "190605",
+      "iso": null
+    },
+    "parent": {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "local": "บ้านหมอ",
+        "en": "Ban Mo",
+        "slug": "ban-mo-1906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1906",
+        "level": 2,
+        "name": {
+          "local": "บ้านหมอ",
+          "en": "Ban Mo",
+          "slug": "ban-mo-1906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18130"
+    ],
+    "geo": {
+      "lat": "14.628",
+      "lon": "100.67"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190606",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โคกใหญ่",
+      "en": "Khok Yai",
+      "slug": "khok-yai-190606"
+    },
+    "code": {
+      "id": "190606",
+      "iso": null
+    },
+    "parent": {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "local": "บ้านหมอ",
+        "en": "Ban Mo",
+        "slug": "ban-mo-1906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1906",
+        "level": 2,
+        "name": {
+          "local": "บ้านหมอ",
+          "en": "Ban Mo",
+          "slug": "ban-mo-1906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18130"
+    ],
+    "geo": {
+      "lat": "14.606",
+      "lon": "100.677"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190609",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองบัว",
+      "en": "Nong Bua",
+      "slug": "nong-bua-190609"
+    },
+    "code": {
+      "id": "190609",
+      "iso": null
+    },
+    "parent": {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "local": "บ้านหมอ",
+        "en": "Ban Mo",
+        "slug": "ban-mo-1906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1906",
+        "level": 2,
+        "name": {
+          "local": "บ้านหมอ",
+          "en": "Ban Mo",
+          "slug": "ban-mo-1906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18130"
+    ],
+    "geo": {
+      "lat": "14.618",
+      "lon": "100.774"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190607",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ไผ่ขวาง",
+      "en": "Phai Khwang",
+      "slug": "phai-khwang-190607"
+    },
+    "code": {
+      "id": "190607",
+      "iso": null
+    },
+    "parent": {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "local": "บ้านหมอ",
+        "en": "Ban Mo",
+        "slug": "ban-mo-1906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1906",
+        "level": 2,
+        "name": {
+          "local": "บ้านหมอ",
+          "en": "Ban Mo",
+          "slug": "ban-mo-1906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18130"
+    ],
+    "geo": {
+      "lat": "14.579",
+      "lon": "100.648"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190603",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สร้างโศก",
+      "en": "Sang Sok",
+      "slug": "sang-sok-190603"
+    },
+    "code": {
+      "id": "190603",
+      "iso": null
+    },
+    "parent": {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "local": "บ้านหมอ",
+        "en": "Ban Mo",
+        "slug": "ban-mo-1906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1906",
+        "level": 2,
+        "name": {
+          "local": "บ้านหมอ",
+          "en": "Ban Mo",
+          "slug": "ban-mo-1906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18130"
+    ],
+    "geo": {
+      "lat": "14.622",
+      "lon": "100.754"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "190604",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ตลาดน้อย",
+      "en": "Talat Noi",
+      "slug": "talat-noi-190604"
+    },
+    "code": {
+      "id": "190604",
+      "iso": null
+    },
+    "parent": {
+      "id": "1906",
+      "level": 2,
+      "name": {
+        "local": "บ้านหมอ",
+        "en": "Ban Mo",
+        "slug": "ban-mo-1906"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "19",
+        "level": 1,
+        "name": {
+          "local": "สระบุรี",
+          "en": "Saraburi",
+          "slug": "saraburi-19"
+        }
+      },
+      {
+        "id": "1906",
+        "level": 2,
+        "name": {
+          "local": "บ้านหมอ",
+          "en": "Ban Mo",
+          "slug": "ban-mo-1906"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "18130"
+    ],
+    "geo": {
+      "lat": "14.643",
+      "lon": "100.716"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

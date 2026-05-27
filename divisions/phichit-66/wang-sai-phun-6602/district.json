@@ -1,0 +1,47 @@
+{
+  "id": "6602",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "วังทรายพูน",
+    "en": "Wang Sai Phun",
+    "slug": "wang-sai-phun-6602"
+  },
+  "code": {
+    "id": "6602",
+    "iso": null
+  },
+  "parent": {
+    "id": "66",
+    "level": 1,
+    "name": {
+      "local": "พิจิตร",
+      "en": "Phichit",
+      "slug": "phichit-66"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "66",
+      "level": 1,
+      "name": {
+        "local": "พิจิตร",
+        "en": "Phichit",
+        "slug": "phichit-66"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.339",
+    "lon": "100.504"
+  },
+  "metadata": {},
+  "source": {}
+}

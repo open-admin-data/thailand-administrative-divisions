@@ -1,0 +1,226 @@
+[
+  {
+    "id": "571504",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่ฟ้าหลวง",
+      "en": "Mae Fa Luang",
+      "slug": "mae-fa-luang-571504"
+    },
+    "code": {
+      "id": "571504",
+      "iso": null
+    },
+    "parent": {
+      "id": "5715",
+      "level": 2,
+      "name": {
+        "local": "แม่ฟ้าหลวง",
+        "en": "Mae Fa Luang",
+        "slug": "mae-fa-luang-5715"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5715",
+        "level": 2,
+        "name": {
+          "local": "แม่ฟ้าหลวง",
+          "en": "Mae Fa Luang",
+          "slug": "mae-fa-luang-5715"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57240"
+    ],
+    "geo": {
+      "lat": "20.288",
+      "lon": "99.783"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "571502",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่สลองใน",
+      "en": "Mae Salong Nai",
+      "slug": "mae-salong-nai-571502"
+    },
+    "code": {
+      "id": "571502",
+      "iso": null
+    },
+    "parent": {
+      "id": "5715",
+      "level": 2,
+      "name": {
+        "local": "แม่ฟ้าหลวง",
+        "en": "Mae Fa Luang",
+        "slug": "mae-fa-luang-5715"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5715",
+        "level": 2,
+        "name": {
+          "local": "แม่ฟ้าหลวง",
+          "en": "Mae Fa Luang",
+          "slug": "mae-fa-luang-5715"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57110"
+    ],
+    "geo": {
+      "lat": "20.194",
+      "lon": "99.706"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "571503",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่สลองนอก",
+      "en": "Mae Salong Nok",
+      "slug": "mae-salong-nok-571503"
+    },
+    "code": {
+      "id": "571503",
+      "iso": null
+    },
+    "parent": {
+      "id": "5715",
+      "level": 2,
+      "name": {
+        "local": "แม่ฟ้าหลวง",
+        "en": "Mae Fa Luang",
+        "slug": "mae-fa-luang-5715"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5715",
+        "level": 2,
+        "name": {
+          "local": "แม่ฟ้าหลวง",
+          "en": "Mae Fa Luang",
+          "slug": "mae-fa-luang-5715"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57110"
+    ],
+    "geo": {
+      "lat": "20.141",
+      "lon": "99.654"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "571501",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เทอดไทย",
+      "en": "Thoet Thai",
+      "slug": "thoet-thai-571501"
+    },
+    "code": {
+      "id": "571501",
+      "iso": null
+    },
+    "parent": {
+      "id": "5715",
+      "level": 2,
+      "name": {
+        "local": "แม่ฟ้าหลวง",
+        "en": "Mae Fa Luang",
+        "slug": "mae-fa-luang-5715"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "57",
+        "level": 1,
+        "name": {
+          "local": "เชียงราย",
+          "en": "Chiang Rai",
+          "slug": "chiang-rai-57"
+        }
+      },
+      {
+        "id": "5715",
+        "level": 2,
+        "name": {
+          "local": "แม่ฟ้าหลวง",
+          "en": "Mae Fa Luang",
+          "slug": "mae-fa-luang-5715"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "57240"
+    ],
+    "geo": {
+      "lat": "20.306",
+      "lon": "99.603"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

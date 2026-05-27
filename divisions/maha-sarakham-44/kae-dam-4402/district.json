@@ -1,0 +1,47 @@
+{
+  "id": "4402",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "แกดำ",
+    "en": "Kae Dam",
+    "slug": "kae-dam-4402"
+  },
+  "code": {
+    "id": "4402",
+    "iso": null
+  },
+  "parent": {
+    "id": "44",
+    "level": 1,
+    "name": {
+      "local": "มหาสารคาม",
+      "en": "Maha Sarakham",
+      "slug": "maha-sarakham-44"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham-44"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.022",
+    "lon": "103.442"
+  },
+  "metadata": {},
+  "source": {}
+}

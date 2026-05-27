@@ -1,0 +1,47 @@
+{
+  "id": "8208",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ท้ายเหมือง",
+    "en": "Thai Mueang",
+    "slug": "thai-mueang-8208"
+  },
+  "code": {
+    "id": "8208",
+    "iso": null
+  },
+  "parent": {
+    "id": "82",
+    "level": 1,
+    "name": {
+      "local": "พังงา",
+      "en": "Phangnga",
+      "slug": "phangnga-82"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "82",
+      "level": 1,
+      "name": {
+        "local": "พังงา",
+        "en": "Phangnga",
+        "slug": "phangnga-82"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.344",
+    "lon": "98.303"
+  },
+  "metadata": {},
+  "source": {}
+}

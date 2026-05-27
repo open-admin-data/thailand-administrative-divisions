@@ -1,0 +1,114 @@
+[
+  {
+    "id": "950702",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บาละ",
+      "en": "Bala",
+      "slug": "bala-950702"
+    },
+    "code": {
+      "id": "950702",
+      "iso": null
+    },
+    "parent": {
+      "id": "9507",
+      "level": 2,
+      "name": {
+        "local": "กาบัง",
+        "en": "Kabang",
+        "slug": "kabang-9507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9507",
+        "level": 2,
+        "name": {
+          "local": "กาบัง",
+          "en": "Kabang",
+          "slug": "kabang-9507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95120"
+    ],
+    "geo": {
+      "lat": "6.33",
+      "lon": "101.023"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "950701",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "กาบัง",
+      "en": "Kabang",
+      "slug": "kabang-950701"
+    },
+    "code": {
+      "id": "950701",
+      "iso": null
+    },
+    "parent": {
+      "id": "9507",
+      "level": 2,
+      "name": {
+        "local": "กาบัง",
+        "en": "Kabang",
+        "slug": "kabang-9507"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "95",
+        "level": 1,
+        "name": {
+          "local": "ยะลา",
+          "en": "Yala",
+          "slug": "yala-95"
+        }
+      },
+      {
+        "id": "9507",
+        "level": 2,
+        "name": {
+          "local": "กาบัง",
+          "en": "Kabang",
+          "slug": "kabang-9507"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "95120"
+    ],
+    "geo": {
+      "lat": "6.449",
+      "lon": "101"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

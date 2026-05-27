@@ -1,0 +1,786 @@
+[
+  {
+    "id": "610104",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ดอนขวาง",
+      "en": "Don Khwang",
+      "slug": "don-khwang-610104"
+    },
+    "code": {
+      "id": "610104",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุทัยธานี",
+        "en": "Mueang Uthai Thani",
+        "slug": "mueang-uthai-thani-6101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุทัยธานี",
+          "en": "Mueang Uthai Thani",
+          "slug": "mueang-uthai-thani-6101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61000"
+    ],
+    "geo": {
+      "lat": "15.415",
+      "lon": "100.032"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "610105",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หาดทนง",
+      "en": "Hat Thanong",
+      "slug": "hat-thanong-610105"
+    },
+    "code": {
+      "id": "610105",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุทัยธานี",
+        "en": "Mueang Uthai Thani",
+        "slug": "mueang-uthai-thani-6101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุทัยธานี",
+          "en": "Mueang Uthai Thani",
+          "slug": "mueang-uthai-thani-6101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61000"
+    ],
+    "geo": {
+      "lat": "15.382",
+      "lon": "100.096"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "610106",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เกาะเทโพ",
+      "en": "Ko Thepho",
+      "slug": "ko-thepho-610106"
+    },
+    "code": {
+      "id": "610106",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุทัยธานี",
+        "en": "Mueang Uthai Thani",
+        "slug": "mueang-uthai-thani-6101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุทัยธานี",
+          "en": "Mueang Uthai Thani",
+          "slug": "mueang-uthai-thani-6101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61000"
+    ],
+    "geo": {
+      "lat": "15.35",
+      "lon": "100.088"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "610102",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "น้ำซึม",
+      "en": "Nam Suem",
+      "slug": "nam-suem-610102"
+    },
+    "code": {
+      "id": "610102",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุทัยธานี",
+        "en": "Mueang Uthai Thani",
+        "slug": "mueang-uthai-thani-6101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุทัยธานี",
+          "en": "Mueang Uthai Thani",
+          "slug": "mueang-uthai-thani-6101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61000"
+    ],
+    "geo": {
+      "lat": "15.353",
+      "lon": "100.033"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "610114",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เนินแจง",
+      "en": "Noen Chaeng",
+      "slug": "noen-chaeng-610114"
+    },
+    "code": {
+      "id": "610114",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุทัยธานี",
+        "en": "Mueang Uthai Thani",
+        "slug": "mueang-uthai-thani-6101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุทัยธานี",
+          "en": "Mueang Uthai Thani",
+          "slug": "mueang-uthai-thani-6101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61000"
+    ],
+    "geo": {
+      "lat": "15.46",
+      "lon": "100.031"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "610109",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "โนนเหล็ก",
+      "en": "Non Lek",
+      "slug": "non-lek-610109"
+    },
+    "code": {
+      "id": "610109",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุทัยธานี",
+        "en": "Mueang Uthai Thani",
+        "slug": "mueang-uthai-thani-6101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุทัยธานี",
+          "en": "Mueang Uthai Thani",
+          "slug": "mueang-uthai-thani-6101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61000"
+    ],
+    "geo": {
+      "lat": "15.462",
+      "lon": "99.985"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "610108",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองแก",
+      "en": "Nong Kae",
+      "slug": "nong-kae-610108"
+    },
+    "code": {
+      "id": "610108",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุทัยธานี",
+        "en": "Mueang Uthai Thani",
+        "slug": "mueang-uthai-thani-6101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุทัยธานี",
+          "en": "Mueang Uthai Thani",
+          "slug": "mueang-uthai-thani-6101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61000"
+    ],
+    "geo": {
+      "lat": "15.417",
+      "lon": "99.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "610111",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองไผ่แบน",
+      "en": "Nong Phai Baen",
+      "slug": "nong-phai-baen-610111"
+    },
+    "code": {
+      "id": "610111",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุทัยธานี",
+        "en": "Mueang Uthai Thani",
+        "slug": "mueang-uthai-thani-6101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุทัยธานี",
+          "en": "Mueang Uthai Thani",
+          "slug": "mueang-uthai-thani-6101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61000"
+    ],
+    "geo": {
+      "lat": "15.444",
+      "lon": "100.018"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "610112",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองพังค่า",
+      "en": "Nong Phang Kha",
+      "slug": "nong-phang-kha-610112"
+    },
+    "code": {
+      "id": "610112",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุทัยธานี",
+        "en": "Mueang Uthai Thani",
+        "slug": "mueang-uthai-thani-6101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุทัยธานี",
+          "en": "Mueang Uthai Thani",
+          "slug": "mueang-uthai-thani-6101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61000"
+    ],
+    "geo": {
+      "lat": "15.398",
+      "lon": "99.959"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "610110",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "หนองเต่า",
+      "en": "Nong Tao",
+      "slug": "nong-tao-610110"
+    },
+    "code": {
+      "id": "610110",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุทัยธานี",
+        "en": "Mueang Uthai Thani",
+        "slug": "mueang-uthai-thani-6101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุทัยธานี",
+          "en": "Mueang Uthai Thani",
+          "slug": "mueang-uthai-thani-6101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61000"
+    ],
+    "geo": {
+      "lat": "15.455",
+      "lon": "99.963"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "610103",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สะแกกรัง",
+      "en": "Sakae Krang",
+      "slug": "sakae-krang-610103"
+    },
+    "code": {
+      "id": "610103",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุทัยธานี",
+        "en": "Mueang Uthai Thani",
+        "slug": "mueang-uthai-thani-6101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุทัยธานี",
+          "en": "Mueang Uthai Thani",
+          "slug": "mueang-uthai-thani-6101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61000"
+    ],
+    "geo": {
+      "lat": "15.354",
+      "lon": "100.068"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "610107",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าซุง",
+      "en": "Tha Sung",
+      "slug": "tha-sung-610107"
+    },
+    "code": {
+      "id": "610107",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุทัยธานี",
+        "en": "Mueang Uthai Thani",
+        "slug": "mueang-uthai-thani-6101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุทัยธานี",
+          "en": "Mueang Uthai Thani",
+          "slug": "mueang-uthai-thani-6101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61000"
+    ],
+    "geo": {
+      "lat": "15.31",
+      "lon": "100.058"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "610113",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งใหญ่",
+      "en": "Thung Yai",
+      "slug": "thung-yai-610113"
+    },
+    "code": {
+      "id": "610113",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุทัยธานี",
+        "en": "Mueang Uthai Thani",
+        "slug": "mueang-uthai-thani-6101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุทัยธานี",
+          "en": "Mueang Uthai Thani",
+          "slug": "mueang-uthai-thani-6101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61000"
+    ],
+    "geo": {
+      "lat": "15.483",
+      "lon": "99.974"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "610101",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "อุทัยใหม่",
+      "en": "Uthai Mai",
+      "slug": "uthai-mai-610101"
+    },
+    "code": {
+      "id": "610101",
+      "iso": null
+    },
+    "parent": {
+      "id": "6101",
+      "level": 2,
+      "name": {
+        "local": "เมืองอุทัยธานี",
+        "en": "Mueang Uthai Thani",
+        "slug": "mueang-uthai-thani-6101"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "61",
+        "level": 1,
+        "name": {
+          "local": "อุทัยธานี",
+          "en": "Uthai Thani",
+          "slug": "uthai-thani-61"
+        }
+      },
+      {
+        "id": "6101",
+        "level": 2,
+        "name": {
+          "local": "เมืองอุทัยธานี",
+          "en": "Mueang Uthai Thani",
+          "slug": "mueang-uthai-thani-6101"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "61000"
+    ],
+    "geo": {
+      "lat": "15.375",
+      "lon": "100.031"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

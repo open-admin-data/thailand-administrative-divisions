@@ -1,0 +1,114 @@
+[
+  {
+    "id": "100502",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "อนุสาวรีย์",
+      "en": "Anusawari",
+      "slug": "anusawari-100502"
+    },
+    "code": {
+      "id": "100502",
+      "iso": null
+    },
+    "parent": {
+      "id": "1005",
+      "level": 2,
+      "name": {
+        "local": "บางเขน",
+        "en": "Bang Khen",
+        "slug": "bang-khen-1005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1005",
+        "level": 2,
+        "name": {
+          "local": "บางเขน",
+          "en": "Bang Khen",
+          "slug": "bang-khen-1005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10220"
+    ],
+    "geo": {
+      "lat": "13.868",
+      "lon": "100.606"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "100508",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าแร้ง",
+      "en": "Tha Raeng",
+      "slug": "tha-raeng-100508"
+    },
+    "code": {
+      "id": "100508",
+      "iso": null
+    },
+    "parent": {
+      "id": "1005",
+      "level": 2,
+      "name": {
+        "local": "บางเขน",
+        "en": "Bang Khen",
+        "slug": "bang-khen-1005"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1005",
+        "level": 2,
+        "name": {
+          "local": "บางเขน",
+          "en": "Bang Khen",
+          "slug": "bang-khen-1005"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10220"
+    ],
+    "geo": {
+      "lat": "13.866",
+      "lon": "100.65"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

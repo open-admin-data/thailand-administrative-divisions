@@ -1,0 +1,58 @@
+[
+  {
+    "id": "105001",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางบอน",
+      "en": "Bang Bon",
+      "slug": "bang-bon-105001"
+    },
+    "code": {
+      "id": "105001",
+      "iso": null
+    },
+    "parent": {
+      "id": "1050",
+      "level": 2,
+      "name": {
+        "local": "บางบอน",
+        "en": "Bang Bon",
+        "slug": "bang-bon-1050"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "10",
+        "level": 1,
+        "name": {
+          "local": "กรุงเทพมหานคร",
+          "en": "Bangkok",
+          "slug": "bangkok-10"
+        }
+      },
+      {
+        "id": "1050",
+        "level": 2,
+        "name": {
+          "local": "บางบอน",
+          "en": "Bang Bon",
+          "slug": "bang-bon-1050"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "10150"
+    ],
+    "geo": {
+      "lat": "13.646",
+      "lon": "100.37"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "id": "5806",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สบเมย",
+    "en": "Sop Moei",
+    "slug": "sop-moei-5806"
+  },
+  "code": {
+    "id": "5806",
+    "iso": null
+  },
+  "parent": {
+    "id": "58",
+    "level": 1,
+    "name": {
+      "local": "แม่ฮ่องสอน",
+      "en": "Mae Hong Son",
+      "slug": "mae-hong-son-58"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "58",
+      "level": 1,
+      "name": {
+        "local": "แม่ฮ่องสอน",
+        "en": "Mae Hong Son",
+        "slug": "mae-hong-son-58"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "18.113",
+    "lon": "98.166"
+  },
+  "metadata": {},
+  "source": {}
+}

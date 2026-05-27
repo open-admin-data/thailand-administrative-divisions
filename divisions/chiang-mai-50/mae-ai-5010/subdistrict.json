@@ -1,0 +1,338 @@
+[
+  {
+    "id": "501006",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านหลวง",
+      "en": "Ban Luang",
+      "slug": "ban-luang-501006"
+    },
+    "code": {
+      "id": "501006",
+      "iso": null
+    },
+    "parent": {
+      "id": "5010",
+      "level": 2,
+      "name": {
+        "local": "แม่อาย",
+        "en": "Mae Ai",
+        "slug": "mae-ai-5010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5010",
+        "level": 2,
+        "name": {
+          "local": "แม่อาย",
+          "en": "Mae Ai",
+          "slug": "mae-ai-5010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50280"
+    ],
+    "geo": {
+      "lat": "19.871",
+      "lon": "99.343"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "501001",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่อาย",
+      "en": "Mae Ai",
+      "slug": "mae-ai-501001"
+    },
+    "code": {
+      "id": "501001",
+      "iso": null
+    },
+    "parent": {
+      "id": "5010",
+      "level": 2,
+      "name": {
+        "local": "แม่อาย",
+        "en": "Mae Ai",
+        "slug": "mae-ai-5010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5010",
+        "level": 2,
+        "name": {
+          "local": "แม่อาย",
+          "en": "Mae Ai",
+          "slug": "mae-ai-5010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50280"
+    ],
+    "geo": {
+      "lat": "20.065",
+      "lon": "99.262"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "501004",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่นาวาง",
+      "en": "Mae Na Wang",
+      "slug": "mae-na-wang-501004"
+    },
+    "code": {
+      "id": "501004",
+      "iso": null
+    },
+    "parent": {
+      "id": "5010",
+      "level": 2,
+      "name": {
+        "local": "แม่อาย",
+        "en": "Mae Ai",
+        "slug": "mae-ai-5010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5010",
+        "level": 2,
+        "name": {
+          "local": "แม่อาย",
+          "en": "Mae Ai",
+          "slug": "mae-ai-5010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50280"
+    ],
+    "geo": {
+      "lat": "19.98",
+      "lon": "99.382"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "501002",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แม่สาว",
+      "en": "Mae Sao",
+      "slug": "mae-sao-501002"
+    },
+    "code": {
+      "id": "501002",
+      "iso": null
+    },
+    "parent": {
+      "id": "5010",
+      "level": 2,
+      "name": {
+        "local": "แม่อาย",
+        "en": "Mae Ai",
+        "slug": "mae-ai-5010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5010",
+        "level": 2,
+        "name": {
+          "local": "แม่อาย",
+          "en": "Mae Ai",
+          "slug": "mae-ai-5010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50280"
+    ],
+    "geo": {
+      "lat": "20.06",
+      "lon": "99.168"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "501003",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สันต้นหมื้อ",
+      "en": "San Ton Mue",
+      "slug": "san-ton-mue-501003"
+    },
+    "code": {
+      "id": "501003",
+      "iso": null
+    },
+    "parent": {
+      "id": "5010",
+      "level": 2,
+      "name": {
+        "local": "แม่อาย",
+        "en": "Mae Ai",
+        "slug": "mae-ai-5010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5010",
+        "level": 2,
+        "name": {
+          "local": "แม่อาย",
+          "en": "Mae Ai",
+          "slug": "mae-ai-5010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50280"
+    ],
+    "geo": {
+      "lat": "19.948",
+      "lon": "99.28"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "501005",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าตอน",
+      "en": "Tha Ton",
+      "slug": "tha-ton-501005"
+    },
+    "code": {
+      "id": "501005",
+      "iso": null
+    },
+    "parent": {
+      "id": "5010",
+      "level": 2,
+      "name": {
+        "local": "แม่อาย",
+        "en": "Mae Ai",
+        "slug": "mae-ai-5010"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "50",
+        "level": 1,
+        "name": {
+          "local": "เชียงใหม่",
+          "en": "Chiang Mai",
+          "slug": "chiang-mai-50"
+        }
+      },
+      {
+        "id": "5010",
+        "level": 2,
+        "name": {
+          "local": "แม่อาย",
+          "en": "Mae Ai",
+          "slug": "mae-ai-5010"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "50280"
+    ],
+    "geo": {
+      "lat": "20.066",
+      "lon": "99.387"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

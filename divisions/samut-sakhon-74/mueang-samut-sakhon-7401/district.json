@@ -1,0 +1,47 @@
+{
+  "id": "7401",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เมืองสมุทรสาคร",
+    "en": "Mueang Samut Sakhon",
+    "slug": "mueang-samut-sakhon-7401"
+  },
+  "code": {
+    "id": "7401",
+    "iso": null
+  },
+  "parent": {
+    "id": "74",
+    "level": 1,
+    "name": {
+      "local": "สมุทรสาคร",
+      "en": "Samut Sakhon",
+      "slug": "samut-sakhon-74"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "74",
+      "level": 1,
+      "name": {
+        "local": "สมุทรสาคร",
+        "en": "Samut Sakhon",
+        "slug": "samut-sakhon-74"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 18
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.533",
+    "lon": "100.276"
+  },
+  "metadata": {},
+  "source": {}
+}

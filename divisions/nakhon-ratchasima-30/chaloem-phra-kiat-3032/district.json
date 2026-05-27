@@ -1,0 +1,47 @@
+{
+  "id": "3032",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "เฉลิมพระเกียรติ",
+    "en": "Chaloem Phra Kiat",
+    "slug": "chaloem-phra-kiat-3032"
+  },
+  "code": {
+    "id": "3032",
+    "iso": null
+  },
+  "parent": {
+    "id": "30",
+    "level": 1,
+    "name": {
+      "local": "นครราชสีมา",
+      "en": "Nakhon Ratchasima",
+      "slug": "nakhon-ratchasima-30"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "30",
+      "level": 1,
+      "name": {
+        "local": "นครราชสีมา",
+        "en": "Nakhon Ratchasima",
+        "slug": "nakhon-ratchasima-30"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 5
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "14.975",
+    "lon": "102.232"
+  },
+  "metadata": {},
+  "source": {}
+}

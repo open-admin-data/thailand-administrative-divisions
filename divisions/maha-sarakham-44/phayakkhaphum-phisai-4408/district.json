@@ -1,0 +1,47 @@
+{
+  "id": "4408",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "พยัคฆภูมิพิสัย",
+    "en": "Phayakkhaphum Phisai",
+    "slug": "phayakkhaphum-phisai-4408"
+  },
+  "code": {
+    "id": "4408",
+    "iso": null
+  },
+  "parent": {
+    "id": "44",
+    "level": 1,
+    "name": {
+      "local": "มหาสารคาม",
+      "en": "Maha Sarakham",
+      "slug": "maha-sarakham-44"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "44",
+      "level": 1,
+      "name": {
+        "local": "มหาสารคาม",
+        "en": "Maha Sarakham",
+        "slug": "maha-sarakham-44"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 14
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.506",
+    "lon": "103.31"
+  },
+  "metadata": {},
+  "source": {}
+}

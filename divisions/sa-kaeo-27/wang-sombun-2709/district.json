@@ -1,0 +1,47 @@
+{
+  "id": "2709",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "วังสมบูรณ์",
+    "en": "Wang Sombun",
+    "slug": "wang-sombun-2709"
+  },
+  "code": {
+    "id": "2709",
+    "iso": null
+  },
+  "parent": {
+    "id": "27",
+    "level": 1,
+    "name": {
+      "local": "สระแก้ว",
+      "en": "Sa Kaeo",
+      "slug": "sa-kaeo-27"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "27",
+      "level": 1,
+      "name": {
+        "local": "สระแก้ว",
+        "en": "Sa Kaeo",
+        "slug": "sa-kaeo-27"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 3
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.344",
+    "lon": "102.207"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "5512",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "บ่อเกลือ",
+    "en": "Bo Kluea",
+    "slug": "bo-kluea-5512"
+  },
+  "code": {
+    "id": "5512",
+    "iso": null
+  },
+  "parent": {
+    "id": "55",
+    "level": 1,
+    "name": {
+      "local": "น่าน",
+      "en": "Nan",
+      "slug": "nan-55"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "55",
+      "level": 1,
+      "name": {
+        "local": "น่าน",
+        "en": "Nan",
+        "slug": "nan-55"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 4
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "19.297",
+    "lon": "101.176"
+  },
+  "metadata": {},
+  "source": {}
+}

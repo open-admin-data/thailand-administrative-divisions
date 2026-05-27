@@ -1,0 +1,47 @@
+{
+  "id": "8505",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สุขสำราญ",
+    "en": "Suk Samran",
+    "slug": "suk-samran-8505"
+  },
+  "code": {
+    "id": "8505",
+    "iso": null
+  },
+  "parent": {
+    "id": "85",
+    "level": 1,
+    "name": {
+      "local": "ระนอง",
+      "en": "Ranong",
+      "slug": "ranong-85"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "85",
+      "level": 1,
+      "name": {
+        "local": "ระนอง",
+        "en": "Ranong",
+        "slug": "ranong-85"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 2
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "9.401",
+    "lon": "98.392"
+  },
+  "metadata": {},
+  "source": {}
+}

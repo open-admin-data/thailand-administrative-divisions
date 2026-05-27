@@ -1,0 +1,30 @@
+{
+  "id": "60",
+  "level": 1,
+  "level_name": {
+    "local": "จังหวัด",
+    "en": "Province"
+  },
+  "name": {
+    "local": "นครสวรรค์",
+    "en": "Nakhon Sawan",
+    "slug": "nakhon-sawan-60"
+  },
+  "code": {
+    "id": "60",
+    "iso": null
+  },
+  "parent": null,
+  "ancestors": [],
+  "children_count": {
+    "district": 15,
+    "subdistrict": 130
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "15.896",
+    "lon": "100.315"
+  },
+  "metadata": {},
+  "source": {}
+}

@@ -1,0 +1,47 @@
+{
+  "id": "7004",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ดำเนินสะดวก",
+    "en": "Damnoen Saduak",
+    "slug": "damnoen-saduak-7004"
+  },
+  "code": {
+    "id": "7004",
+    "iso": null
+  },
+  "parent": {
+    "id": "70",
+    "level": 1,
+    "name": {
+      "local": "ราชบุรี",
+      "en": "Ratchaburi",
+      "slug": "ratchaburi-70"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "70",
+      "level": 1,
+      "name": {
+        "local": "ราชบุรี",
+        "en": "Ratchaburi",
+        "slug": "ratchaburi-70"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 13
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "13.517",
+    "lon": "99.949"
+  },
+  "metadata": {},
+  "source": {}
+}

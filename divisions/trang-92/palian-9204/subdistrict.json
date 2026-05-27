@@ -1,0 +1,618 @@
+[
+  {
+    "id": "920407",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บ้านนา",
+      "en": "Ban Na",
+      "slug": "ban-na-920407"
+    },
+    "code": {
+      "id": "920407",
+      "iso": null
+    },
+    "parent": {
+      "id": "9204",
+      "level": 2,
+      "name": {
+        "local": "ปะเหลียน",
+        "en": "Palian",
+        "slug": "palian-9204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9204",
+        "level": 2,
+        "name": {
+          "local": "ปะเหลียน",
+          "en": "Palian",
+          "slug": "palian-9204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92140"
+    ],
+    "geo": {
+      "lat": "7.302",
+      "lon": "99.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920404",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "บางด้วน",
+      "en": "Bang Duan",
+      "slug": "bang-duan-920404"
+    },
+    "code": {
+      "id": "920404",
+      "iso": null
+    },
+    "parent": {
+      "id": "9204",
+      "level": 2,
+      "name": {
+        "local": "ปะเหลียน",
+        "en": "Palian",
+        "slug": "palian-9204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9204",
+        "level": 2,
+        "name": {
+          "local": "ปะเหลียน",
+          "en": "Palian",
+          "slug": "palian-9204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92140"
+    ],
+    "geo": {
+      "lat": "7.35",
+      "lon": "99.699"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920414",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เกาะค้างคาว",
+      "en": "Ko Khang Khao",
+      "slug": "ko-khang-khao-920414"
+    },
+    "code": {
+      "id": "920414",
+      "iso": null
+    },
+    "parent": {
+      "id": "9204",
+      "level": 2,
+      "name": {
+        "local": "ปะเหลียน",
+        "en": "Palian",
+        "slug": "palian-9204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9204",
+        "level": 2,
+        "name": {
+          "local": "ปะเหลียน",
+          "en": "Palian",
+          "slug": "palian-9204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92180"
+    ],
+    "geo": {
+      "lat": "7.152",
+      "lon": "99.651"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920411",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "เกาะสุกร",
+      "en": "Ko Sukon",
+      "slug": "ko-sukon-920411"
+    },
+    "code": {
+      "id": "920411",
+      "iso": null
+    },
+    "parent": {
+      "id": "9204",
+      "level": 2,
+      "name": {
+        "local": "ปะเหลียน",
+        "en": "Palian",
+        "slug": "palian-9204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9204",
+        "level": 2,
+        "name": {
+          "local": "ปะเหลียน",
+          "en": "Palian",
+          "slug": "palian-9204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92120"
+    ],
+    "geo": {
+      "lat": "7.101",
+      "lon": "99.581"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920413",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "แหลมสอม",
+      "en": "Laem Som",
+      "slug": "laem-som-920413"
+    },
+    "code": {
+      "id": "920413",
+      "iso": null
+    },
+    "parent": {
+      "id": "9204",
+      "level": 2,
+      "name": {
+        "local": "ปะเหลียน",
+        "en": "Palian",
+        "slug": "palian-9204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9204",
+        "level": 2,
+        "name": {
+          "local": "ปะเหลียน",
+          "en": "Palian",
+          "slug": "palian-9204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92180"
+    ],
+    "geo": {
+      "lat": "7.287",
+      "lon": "99.763"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920410",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ลิพัง",
+      "en": "Liphang",
+      "slug": "liphang-920410"
+    },
+    "code": {
+      "id": "920410",
+      "iso": null
+    },
+    "parent": {
+      "id": "9204",
+      "level": 2,
+      "name": {
+        "local": "ปะเหลียน",
+        "en": "Palian",
+        "slug": "palian-9204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9204",
+        "level": 2,
+        "name": {
+          "local": "ปะเหลียน",
+          "en": "Palian",
+          "slug": "palian-9204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92180"
+    ],
+    "geo": {
+      "lat": "7.184",
+      "lon": "99.81"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920403",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ปะเหลียน",
+      "en": "Palian",
+      "slug": "palian-920403"
+    },
+    "code": {
+      "id": "920403",
+      "iso": null
+    },
+    "parent": {
+      "id": "9204",
+      "level": 2,
+      "name": {
+        "local": "ปะเหลียน",
+        "en": "Palian",
+        "slug": "palian-9204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9204",
+        "level": 2,
+        "name": {
+          "local": "ปะเหลียน",
+          "en": "Palian",
+          "slug": "palian-9204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92180"
+    ],
+    "geo": {
+      "lat": "7.288",
+      "lon": "99.862"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920409",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "สุโสะ",
+      "en": "Suso",
+      "slug": "suso-920409"
+    },
+    "code": {
+      "id": "920409",
+      "iso": null
+    },
+    "parent": {
+      "id": "9204",
+      "level": 2,
+      "name": {
+        "local": "ปะเหลียน",
+        "en": "Palian",
+        "slug": "palian-9204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9204",
+        "level": 2,
+        "name": {
+          "local": "ปะเหลียน",
+          "en": "Palian",
+          "slug": "palian-9204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92120"
+    ],
+    "geo": {
+      "lat": "7.236",
+      "lon": "99.673"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920401",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าข้าม",
+      "en": "Tha Kham",
+      "slug": "tha-kham-920401"
+    },
+    "code": {
+      "id": "920401",
+      "iso": null
+    },
+    "parent": {
+      "id": "9204",
+      "level": 2,
+      "name": {
+        "local": "ปะเหลียน",
+        "en": "Palian",
+        "slug": "palian-9204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9204",
+        "level": 2,
+        "name": {
+          "local": "ปะเหลียน",
+          "en": "Palian",
+          "slug": "palian-9204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92120"
+    ],
+    "geo": {
+      "lat": "7.172",
+      "lon": "99.69"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920412",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ท่าพญา",
+      "en": "Tha Phaya",
+      "slug": "tha-phaya-920412"
+    },
+    "code": {
+      "id": "920412",
+      "iso": null
+    },
+    "parent": {
+      "id": "9204",
+      "level": 2,
+      "name": {
+        "local": "ปะเหลียน",
+        "en": "Palian",
+        "slug": "palian-9204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9204",
+        "level": 2,
+        "name": {
+          "local": "ปะเหลียน",
+          "en": "Palian",
+          "slug": "palian-9204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92140"
+    ],
+    "geo": {
+      "lat": "7.354",
+      "lon": "99.674"
+    },
+    "metadata": {},
+    "source": {}
+  },
+  {
+    "id": "920402",
+    "level": 3,
+    "level_name": {
+      "local": "ตำบล",
+      "en": "Subdistrict"
+    },
+    "name": {
+      "local": "ทุ่งยาว",
+      "en": "Thung Yao",
+      "slug": "thung-yao-920402"
+    },
+    "code": {
+      "id": "920402",
+      "iso": null
+    },
+    "parent": {
+      "id": "9204",
+      "level": 2,
+      "name": {
+        "local": "ปะเหลียน",
+        "en": "Palian",
+        "slug": "palian-9204"
+      }
+    },
+    "ancestors": [
+      {
+        "id": "92",
+        "level": 1,
+        "name": {
+          "local": "ตรัง",
+          "en": "Trang",
+          "slug": "trang-92"
+        }
+      },
+      {
+        "id": "9204",
+        "level": 2,
+        "name": {
+          "local": "ปะเหลียน",
+          "en": "Palian",
+          "slug": "palian-9204"
+        }
+      }
+    ],
+    "children_count": {},
+    "zip_codes": [
+      "92180"
+    ],
+    "geo": {
+      "lat": "7.241",
+      "lon": "99.753"
+    },
+    "metadata": {},
+    "source": {}
+  }
+]

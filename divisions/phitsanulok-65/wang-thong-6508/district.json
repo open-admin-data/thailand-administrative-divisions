@@ -1,0 +1,47 @@
+{
+  "id": "6508",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "วังทอง",
+    "en": "Wang Thong",
+    "slug": "wang-thong-6508"
+  },
+  "code": {
+    "id": "6508",
+    "iso": null
+  },
+  "parent": {
+    "id": "65",
+    "level": 1,
+    "name": {
+      "local": "พิษณุโลก",
+      "en": "Phitsanulok",
+      "slug": "phitsanulok-65"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "65",
+      "level": 1,
+      "name": {
+        "local": "พิษณุโลก",
+        "en": "Phitsanulok",
+        "slug": "phitsanulok-65"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 11
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "16.839",
+    "lon": "100.467"
+  },
+  "metadata": {},
+  "source": {}
+}

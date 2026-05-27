@@ -1,0 +1,47 @@
+{
+  "id": "8303",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "ถลาง",
+    "en": "Thalang",
+    "slug": "thalang-8303"
+  },
+  "code": {
+    "id": "8303",
+    "iso": null
+  },
+  "parent": {
+    "id": "83",
+    "level": 1,
+    "name": {
+      "local": "ภูเก็ต",
+      "en": "Phuket",
+      "slug": "phuket-83"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "83",
+      "level": 1,
+      "name": {
+        "local": "ภูเก็ต",
+        "en": "Phuket",
+        "slug": "phuket-83"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "8.116",
+    "lon": "98.425"
+  },
+  "metadata": {},
+  "source": {}
+}

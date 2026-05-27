@@ -1,0 +1,47 @@
+{
+  "id": "6303",
+  "level": 2,
+  "level_name": {
+    "local": "อำเภอ",
+    "en": "District"
+  },
+  "name": {
+    "local": "สามเงา",
+    "en": "Sam Ngao",
+    "slug": "sam-ngao-6303"
+  },
+  "code": {
+    "id": "6303",
+    "iso": null
+  },
+  "parent": {
+    "id": "63",
+    "level": 1,
+    "name": {
+      "local": "ตาก",
+      "en": "Tak",
+      "slug": "tak-63"
+    }
+  },
+  "ancestors": [
+    {
+      "id": "63",
+      "level": 1,
+      "name": {
+        "local": "ตาก",
+        "en": "Tak",
+        "slug": "tak-63"
+      }
+    }
+  ],
+  "children_count": {
+    "subdistrict": 6
+  },
+  "zip_codes": [],
+  "geo": {
+    "lat": "17.25",
+    "lon": "99.034"
+  },
+  "metadata": {},
+  "source": {}
+}
