@@ -13,7 +13,7 @@
 | Postal Codes | ✅ Included (subdistrict level) |
 | Formats | JSON, NDJSON, CSV |
 | License | CC-BY-4.0 |
-| Last Updated | 2026-05-27 |
+| Last Updated | 2026-06-01 |
 | Website | [openadmindata.org/th](https://openadmindata.org/th/) |
 | API | [openadmindata.org/api/th](https://openadmindata.org/api/th/) |
 
